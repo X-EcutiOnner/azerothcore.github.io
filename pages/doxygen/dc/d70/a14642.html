@@ -363,12 +363,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04100_html_a3667e3c5ec056737c8789615a989324fa8f9913149a2518b5548e5125495a01c3"><div class="ttname"><a href="../../d1/da3/a04100.html#a3667e3c5ec056737c8789615a989324fa8f9913149a2518b5548e5125495a01c3">GENDER_MALE</a></div><div class="ttdeci">@ GENDER_MALE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:61</div></div>
 <div class="ttc" id="aa08418_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d3/d58/a08418.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:200</div></div>
 <div class="ttc" id="aa08802_html"><div class="ttname"><a href="../../de/d38/a08802.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
-<div class="ttc" id="aa08802_html_a0d13935c40d0392f7f7b5a34540461b2"><div class="ttname"><a href="../../de/d38/a08802.html#a0d13935c40d0392f7f7b5a34540461b2">Unit::getGender</a></div><div class="ttdeci">uint8 getGender() const</div><div class="ttdef"><b>Definition:</b> Unit.h:836</div></div>
-<div class="ttc" id="aa08802_html_a45cc249e2d3dc3f60bd61b143c8a8a7d"><div class="ttname"><a href="../../de/d38/a08802.html#a45cc249e2d3dc3f60bd61b143c8a8a7d">Unit::SetDisplayId</a></div><div class="ttdeci">virtual void SetDisplayId(uint32 modelId, float displayScale=1.f)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16989</div></div>
+<div class="ttc" id="aa08802_html_a0d13935c40d0392f7f7b5a34540461b2"><div class="ttname"><a href="../../de/d38/a08802.html#a0d13935c40d0392f7f7b5a34540461b2">Unit::getGender</a></div><div class="ttdeci">uint8 getGender() const</div><div class="ttdef"><b>Definition:</b> Unit.h:838</div></div>
+<div class="ttc" id="aa08802_html_a45cc249e2d3dc3f60bd61b143c8a8a7d"><div class="ttname"><a href="../../de/d38/a08802.html#a45cc249e2d3dc3f60bd61b143c8a8a7d">Unit::SetDisplayId</a></div><div class="ttdeci">virtual void SetDisplayId(uint32 modelId, float displayScale=1.f)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16994</div></div>
 <div class="ttc" id="aa08802_html_ad6df47a81f5f5f147e68211ee935b398"><div class="ttname"><a href="../../de/d38/a08802.html#ad6df47a81f5f5f147e68211ee935b398">Unit::RemoveAurasByType</a></div><div class="ttdeci">void RemoveAurasByType(AuraType auraType, ObjectGuid casterGUID=ObjectGuid::Empty, Aura *except=nullptr, bool negative=true, bool positive=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5229</div></div>
 <div class="ttc" id="aa11490_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d6/d9d/a11490.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">GENDER_MALE</a>, <a class="el" href="../../#l00836">Unit::getGender()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00441">MODEL_GOBLIN_FEMALE</a>, <a class="el" href="../../#l00440">MODEL_GOBLIN_MALE</a>, <a class="el" href="../../#l05229">Unit::RemoveAurasByType()</a>, <a class="el" href="../../#l16989">Unit::SetDisplayId()</a>, and <a class="el" href="../../#l00141">SPELL_AURA_MOUNTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">GENDER_MALE</a>, <a class="el" href="../../#l00838">Unit::getGender()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00441">MODEL_GOBLIN_FEMALE</a>, <a class="el" href="../../#l00440">MODEL_GOBLIN_MALE</a>, <a class="el" href="../../#l05229">Unit::RemoveAurasByType()</a>, <a class="el" href="../../#l16994">Unit::SetDisplayId()</a>, and <a class="el" href="../../#l00141">SPELL_AURA_MOUNTED</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00479">Register()</a>.</p>
 
@@ -412,9 +412,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  475</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
 <div class="line"><span class="lineno">  476</span>            target-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#acb800095887418d08fdfa8ade11f0074">RestoreDisplayId</a>();</div>
 <div class="line"><span class="lineno">  477</span>    }</div>
-<div class="ttc" id="aa08802_html_acb800095887418d08fdfa8ade11f0074"><div class="ttname"><a href="../../de/d38/a08802.html#acb800095887418d08fdfa8ade11f0074">Unit::RestoreDisplayId</a></div><div class="ttdeci">void RestoreDisplayId()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17002</div></div>
+<div class="ttc" id="aa08802_html_acb800095887418d08fdfa8ade11f0074"><div class="ttname"><a href="../../de/d38/a08802.html#acb800095887418d08fdfa8ade11f0074">Unit::RestoreDisplayId</a></div><div class="ttdeci">void RestoreDisplayId()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17007</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l17002">Unit::RestoreDisplayId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l17007">Unit::RestoreDisplayId()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00479">Register()</a>.</p>
 
@@ -529,7 +529,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d70/a14642.html">spell_gen_aura_service_uniform</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:52:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

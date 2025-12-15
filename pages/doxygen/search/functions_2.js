@@ -1,8 +1,8 @@
 var searchData=
 [
   ['bag_0',['Bag',['../d5/d68/a08370.html#ae0593c22c7dd8b32cab469af92fb200c',1,'Bag']]],
-  ['balance_1',['Balance',['../d8/d99/a09870.html#aa1dddc6cf8d835c384f24136890a5e14',1,'Map']]],
-  ['balance_2',['balance',['../d5/d41/a04946.html#a7a191f8c9d3b20807ef1db9be654ccd1',1,'BIHWrap::balance()'],['../d6/d5a/a04966.html#a589f4028f0a9dca9901ad77fd71b44db',1,'DynTreeImpl::balance()'],['../d5/df8/a04978.html#a1af866551a1ea151551ebb856797528d',1,'DynamicMapTree::balance()'],['../dd/d48/a05150.html#ae4bc431aff07874774243907c6c71539',1,'RegularGrid2D::balance()']]],
+  ['balance_1',['balance',['../d5/d41/a04946.html#a7a191f8c9d3b20807ef1db9be654ccd1',1,'BIHWrap::balance()'],['../d6/d5a/a04966.html#a589f4028f0a9dca9901ad77fd71b44db',1,'DynTreeImpl::balance()'],['../d5/df8/a04978.html#a1af866551a1ea151551ebb856797528d',1,'DynamicMapTree::balance()'],['../dd/d48/a05150.html#ae4bc431aff07874774243907c6c71539',1,'RegularGrid2D::balance()']]],
+  ['balance_2',['Balance',['../d8/d99/a09870.html#aa1dddc6cf8d835c384f24136890a5e14',1,'Map']]],
   ['ban_3',['Ban',['../da/dc0/a07542.html#a58931be15d72ce5ca755d9c953cdab45',1,'Channel']]],
   ['ban_5fcommandscript_4',['ban_commandscript',['../df/df3/a11794.html#aaece480aacb3cae7d0919a277d46eb31',1,'ban_commandscript']]],
   ['banaccount_5',['BanAccount',['../d7/d6a/a09942.html#af85ceffee2ae6a143df5e36f6a004f07',1,'BanMgr']]],

@@ -5,6 +5,14 @@ var a00458 =
     [ "MotionMaster", "d4/de7/a09986.html", "d4/de7/a09986" ],
     [ "SPEED_CHARGE", "da/d65/a00458.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
     [ "VISUAL_WAYPOINT", "da/d65/a00458.html#af0544189c7fc748059c3075861102b40", null ],
+    [ "AnimTier", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255", [
+      [ "Ground", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf", null ],
+      [ "Swim", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d", null ],
+      [ "Hover", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc", null ],
+      [ "Fly", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51", null ],
+      [ "Submerged", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062", null ],
+      [ "Max", "da/d65/a00458.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233", null ]
+    ] ],
     [ "ForcedMovement", "da/d65/a00458.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
       [ "FORCED_MOVEMENT_NONE", "da/d65/a00458.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece", null ],
       [ "FORCED_MOVEMENT_WALK", "da/d65/a00458.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37", null ],

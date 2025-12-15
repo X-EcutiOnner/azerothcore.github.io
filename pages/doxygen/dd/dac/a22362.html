@@ -621,7 +621,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  467</span> </div>
 <div class="line"><span class="lineno">  468</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d75/a08178.html">TempSummon</a>* summ = <a class="code hl_variable" href="../../df/d41/a06270.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>())</div>
 <div class="line"><span class="lineno">  469</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d38/a08802.html">Unit</a>* summoner = summ-&gt;GetSummonerUnit())</div>
-<div class="line"><span class="lineno">  470</span>                    <a class="code hl_variable" href="../../df/d41/a06270.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d4/de7/a09986.html#a798c576206cc676da0e2be1c4bedf18e">MovePoint</a>(0, summoner-&gt;GetPositionX(), summoner-&gt;GetPositionY(), summoner-&gt;GetPositionZ());</div>
+<div class="line"><span class="lineno">  470</span>                    <a class="code hl_variable" href="../../df/d41/a06270.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d4/de7/a09986.html#afc9ce801b909ecbe54867f6f643b5920">MovePoint</a>(0, summoner-&gt;GetPositionX(), summoner-&gt;GetPositionY(), summoner-&gt;GetPositionZ());</div>
 <div class="line"><span class="lineno">  471</span> </div>
 <div class="line"><span class="lineno">  472</span>            <a class="code hl_function" href="../../df/d41/a06270.html#a26600c116d20a33461fc884bdb82eda9">Reset</a>();</div>
 <div class="line"><span class="lineno">  473</span>        }</div>
@@ -629,12 +629,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06270_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../df/d41/a06270.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:281</div></div>
 <div class="ttc" id="aa08178_html"><div class="ttname"><a href="../../de/d75/a08178.html">TempSummon</a></div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:40</div></div>
 <div class="ttc" id="aa08802_html"><div class="ttname"><a href="../../de/d38/a08802.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
-<div class="ttc" id="aa08802_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1736</div></div>
+<div class="ttc" id="aa08802_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1738</div></div>
 <div class="ttc" id="aa08802_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../de/d38/a08802.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition:</b> Unit.h:721</div></div>
-<div class="ttc" id="aa08802_html_afd7aa5f7719cba4d967bb7f009582d2f"><div class="ttname"><a href="../../de/d38/a08802.html#afd7aa5f7719cba4d967bb7f009582d2f">Unit::isDead</a></div><div class="ttdeci">bool isDead() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1773</div></div>
-<div class="ttc" id="aa09986_html_a798c576206cc676da0e2be1c4bedf18e"><div class="ttname"><a href="../../d4/de7/a09986.html#a798c576206cc676da0e2be1c4bedf18e">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:228</div></div>
+<div class="ttc" id="aa08802_html_afd7aa5f7719cba4d967bb7f009582d2f"><div class="ttname"><a href="../../de/d38/a08802.html#afd7aa5f7719cba4d967bb7f009582d2f">Unit::isDead</a></div><div class="ttdeci">bool isDead() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1775</div></div>
+<div class="ttc" id="aa09986_html_afc9ce801b909ecbe54867f6f643b5920"><div class="ttname"><a href="../../d4/de7/a09986.html#afc9ce801b909ecbe54867f6f643b5920">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true, std::optional&lt; AnimTier &gt; animTier=std::nullopt)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:238</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01736">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l01773">Unit::isDead()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00228">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00288">ScriptedAI::Reset()</a>, and <a class="el" href="../../#l00721">Unit::ToTempSummon()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01738">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l01775">Unit::isDead()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00238">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00288">ScriptedAI::Reset()</a>, and <a class="el" href="../../#l00721">Unit::ToTempSummon()</a>.</p>
 
 </div>
 </div>
@@ -684,7 +684,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d36/a22358.html">npc_bushwhacker</a></li><li class="navelem"><a class="el" href="../../dd/dac/a22362.html">npc_bushwhackerAI</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:51:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

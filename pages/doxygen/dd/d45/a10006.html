@@ -394,10 +394,10 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa08050_html_a50cbb98572134a854c21c0ff8221c380"><div class="ttname"><a href="../../d3/d02/a08050.html#a50cbb98572134a854c21c0ff8221c380">Creature::SetTarget</a></div><div class="ttdeci">void SetTarget(ObjectGuid guid=ObjectGuid::Empty) override</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3435</div></div>
 <div class="ttc" id="aa08418_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d3/d58/a08418.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
 <div class="ttc" id="aa08802_html_a0234fee1df2999bda3ca22449164f7b5"><div class="ttname"><a href="../../de/d38/a08802.html#a0234fee1df2999bda3ca22449164f7b5">Unit::ClearUnitState</a></div><div class="ttdeci">void ClearUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:727</div></div>
-<div class="ttc" id="aa08802_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../de/d38/a08802.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:891</div></div>
+<div class="ttc" id="aa08802_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../de/d38/a08802.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:893</div></div>
 <div class="ttc" id="aa08802_html_af9a5a43c2d7940c38f8b101409666a0d"><div class="ttname"><a href="../../de/d38/a08802.html#af9a5a43c2d7940c38f8b101409666a0d">Unit::RemoveUnitFlag</a></div><div class="ttdeci">void RemoveUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:739</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00891">Unit::GetVictim()</a>, <a class="el" href="../../#l00739">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l03435">Creature::SetTarget()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_CONFUSED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00727">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../#l00739">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l03435">Creature::SetTarget()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_CONFUSED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>.</p>
 
 </div>
 </div>
@@ -421,9 +421,9 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  161</span>    unit-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a> | <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b">UNIT_STATE_CONFUSED_MOVE</a>);</div>
 <div class="line"><span class="lineno">  162</span>    unit-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
 <div class="line"><span class="lineno">  163</span>}</div>
-<div class="ttc" id="aa08802_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../de/d38/a08802.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16861</div></div>
+<div class="ttc" id="aa08802_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../de/d38/a08802.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16866</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00739">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l16861">Unit::StopMoving()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_CONFUSED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00727">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00739">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l16866">Unit::StopMoving()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_CONFUSED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>.</p>
 
 </div>
 </div>
@@ -644,9 +644,9 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa05630_html_a2009e98647f04c20cb3064e1e9e9a611"><div class="ttname"><a href="../../d6/df7/a05630.html#a2009e98647f04c20cb3064e1e9e9a611">TimeTracker::Update</a></div><div class="ttdeci">void Update(time_t diff)</div><div class="ttdef"><b>Definition:</b> Timer.h:207</div></div>
 <div class="ttc" id="aa05630_html_a798cf19378c4de243fac01d7d51a3572"><div class="ttname"><a href="../../d6/df7/a05630.html#a798cf19378c4de243fac01d7d51a3572">TimeTracker::Reset</a></div><div class="ttdeci">void Reset(time_t interval)</div><div class="ttdef"><b>Definition:</b> Timer.h:217</div></div>
 <div class="ttc" id="aa05630_html_a9a13002766153882150b1985a84013ad"><div class="ttname"><a href="../../d6/df7/a05630.html#a9a13002766153882150b1985a84013ad">TimeTracker::Passed</a></div><div class="ttdeci">bool Passed() const</div><div class="ttdef"><b>Definition:</b> Timer.h:212</div></div>
-<div class="ttc" id="aa10134_html"><div class="ttname"><a href="../../d0/daa/a10134.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition:</b> MoveSplineInit.h:71</div></div>
+<div class="ttc" id="aa10134_html"><div class="ttname"><a href="../../d0/daa/a10134.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition:</b> MoveSplineInit.h:63</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00024">MAX_CONF_WAYPOINTS</a>, <a class="el" href="../../#l00226">Movement::MoveSplineInit::MoveTo()</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00024">MAX_CONF_WAYPOINTS</a>, <a class="el" href="../../#l00226">Movement::MoveSplineInit::MoveTo()</a>, <a class="el" href="../../#l00157">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -762,7 +762,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d45/a10006.html">ConfusedMovementGenerator</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:51:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

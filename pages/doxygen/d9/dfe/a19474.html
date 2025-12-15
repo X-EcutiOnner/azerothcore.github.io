@@ -463,7 +463,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1438</span>: <a class="code hl_struct" href="../../d0/d2a/a06142.html">VehicleAI</a>(pCreature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1434</span>: <a class="code hl_struct" href="../../d0/d2a/a06142.html">VehicleAI</a>(pCreature) { }</div>
 <div class="ttc" id="aa06142_html"><div class="ttname"><a href="../../d0/d2a/a06142.html">VehicleAI</a></div><div class="ttdef"><b>Definition:</b> CombatAI.h:99</div></div>
 </div><!-- fragment -->
 </div>
@@ -494,10 +494,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d1/d8c/a06226.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1455</span>        {</div>
-<div class="line"><span class="lineno"> 1456</span>            <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686); <span class="comment">// prevents nasty falling animation at despawn</span></div>
-<div class="line"><span class="lineno"> 1457</span>            <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(1ms);</div>
-<div class="line"><span class="lineno"> 1458</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1451</span>        {</div>
+<div class="line"><span class="lineno"> 1452</span>            <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686); <span class="comment">// prevents nasty falling animation at despawn</span></div>
+<div class="line"><span class="lineno"> 1453</span>            <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(1ms);</div>
+<div class="line"><span class="lineno"> 1454</span>        }</div>
 <div class="ttc" id="aa06226_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aa08050_html_a52d87121f9f834b7dc32e7ad41308f12"><div class="ttname"><a href="../../d3/d02/a08050.html#a52d87121f9f834b7dc32e7ad41308f12">Creature::SetDisplayId</a></div><div class="ttdeci">void SetDisplayId(uint32 displayId, float displayScale=1.f) override</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3408</div></div>
 <div class="ttc" id="aa08050_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../d3/d02/a08050.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2178</div></div>
@@ -549,23 +549,23 @@ Additional Inherited Members</h2></td></tr>
 <p>== Fields ======================================= </p>
 
 <p>Reimplemented from <a class="el" href="../../d1/d8c/a06226.html#ac5f77a4717d02695e089042fa12f5c1e">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1441</span>        {</div>
-<div class="line"><span class="lineno"> 1442</span>            <span class="keywordflow">if</span> (apply)</div>
-<div class="line"><span class="lineno"> 1443</span>            {</div>
-<div class="line"><span class="lineno"> 1444</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#ac218abfb8299071a00c5a65b77548ff8">SetDisableGravity</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1445</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a977a73b23899332b5cf6629cb6abae90">SendMovementFlagUpdate</a>();</div>
-<div class="line"><span class="lineno"> 1446</span>            }</div>
-<div class="line"><span class="lineno"> 1447</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (pass &amp;&amp; pass-&gt;IsPlayer() &amp;&amp; <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno"> 1448</span>            {</div>
-<div class="line"><span class="lineno"> 1449</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686); <span class="comment">// prevents nasty falling animation at despawn</span></div>
-<div class="line"><span class="lineno"> 1450</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(1ms);</div>
-<div class="line"><span class="lineno"> 1451</span>            }</div>
-<div class="line"><span class="lineno"> 1452</span>        }</div>
-<div class="ttc" id="aa08802_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../de/d38/a08802.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1771</div></div>
-<div class="ttc" id="aa08802_html_a977a73b23899332b5cf6629cb6abae90"><div class="ttname"><a href="../../de/d38/a08802.html#a977a73b23899332b5cf6629cb6abae90">Unit::SendMovementFlagUpdate</a></div><div class="ttdeci">void SendMovementFlagUpdate(bool self=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16915</div></div>
-<div class="ttc" id="aa08802_html_ac218abfb8299071a00c5a65b77548ff8"><div class="ttname"><a href="../../de/d38/a08802.html#ac218abfb8299071a00c5a65b77548ff8">Unit::SetDisableGravity</a></div><div class="ttdeci">void SetDisableGravity(bool disable)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20542</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1437</span>        {</div>
+<div class="line"><span class="lineno"> 1438</span>            <span class="keywordflow">if</span> (apply)</div>
+<div class="line"><span class="lineno"> 1439</span>            {</div>
+<div class="line"><span class="lineno"> 1440</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#ac218abfb8299071a00c5a65b77548ff8">SetDisableGravity</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1441</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a977a73b23899332b5cf6629cb6abae90">SendMovementFlagUpdate</a>();</div>
+<div class="line"><span class="lineno"> 1442</span>            }</div>
+<div class="line"><span class="lineno"> 1443</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (pass &amp;&amp; pass-&gt;IsPlayer() &amp;&amp; <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno"> 1444</span>            {</div>
+<div class="line"><span class="lineno"> 1445</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686); <span class="comment">// prevents nasty falling animation at despawn</span></div>
+<div class="line"><span class="lineno"> 1446</span>                <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(1ms);</div>
+<div class="line"><span class="lineno"> 1447</span>            }</div>
+<div class="line"><span class="lineno"> 1448</span>        }</div>
+<div class="ttc" id="aa08802_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../de/d38/a08802.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1773</div></div>
+<div class="ttc" id="aa08802_html_a977a73b23899332b5cf6629cb6abae90"><div class="ttname"><a href="../../de/d38/a08802.html#a977a73b23899332b5cf6629cb6abae90">Unit::SendMovementFlagUpdate</a></div><div class="ttdeci">void SendMovementFlagUpdate(bool self=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16920</div></div>
+<div class="ttc" id="aa08802_html_ac218abfb8299071a00c5a65b77548ff8"><div class="ttname"><a href="../../de/d38/a08802.html#ac218abfb8299071a00c5a65b77548ff8">Unit::SetDisableGravity</a></div><div class="ttdeci">void SetDisableGravity(bool disable)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20547</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02178">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01771">Unit::IsAlive()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l16915">Unit::SendMovementFlagUpdate()</a>, <a class="el" href="../../#l20542">Unit::SetDisableGravity()</a>, and <a class="el" href="../../#l03408">Creature::SetDisplayId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02178">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l16920">Unit::SendMovementFlagUpdate()</a>, <a class="el" href="../../#l20547">Unit::SetDisableGravity()</a>, and <a class="el" href="../../#l03408">Creature::SetDisplayId()</a>.</p>
 
 </div>
 </div>
@@ -575,7 +575,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d82/a19470.html">npc_eoe_wyrmrest_skytalon</a></li><li class="navelem"><a class="el" href="../../d9/dfe/a19474.html">npc_eoe_wyrmrest_skytalonAI</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:51:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

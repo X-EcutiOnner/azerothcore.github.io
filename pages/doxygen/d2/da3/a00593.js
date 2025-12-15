@@ -33,6 +33,12 @@ var a00593 =
       [ "LFG_LOCKSTATUS_NOT_IN_SEASON", "d2/da3/a00593.html#a04ff8774a1ad0847dc787646d984934dadf18f20df955c492523edce427d81c22", null ],
       [ "LFG_LOCKSTATUS_MISSING_ACHIEVEMENT", "d2/da3/a00593.html#a04ff8774a1ad0847dc787646d984934dad8270e4f972b44030fc82de6d6d7c685", null ]
     ] ],
+    [ "LfgRandomDungeonIds", "d2/da3/a00593.html#a9c710ddffaf321c88671cbef76241a48", [
+      [ "RANDOM_DUNGEON_NORMAL_TBC", "d2/da3/a00593.html#a9c710ddffaf321c88671cbef76241a48a1ee6c66f03d73ada1266e243a7835ce1", null ],
+      [ "RANDOM_DUNGEON_HEROIC_TBC", "d2/da3/a00593.html#a9c710ddffaf321c88671cbef76241a48a65a06ce48e454a1721c8c394594ce537", null ],
+      [ "RANDOM_DUNGEON_NORMAL_WOTLK", "d2/da3/a00593.html#a9c710ddffaf321c88671cbef76241a48ab27907ebbf74ff9165edaac702da279b", null ],
+      [ "RANDOM_DUNGEON_HEROIC_WOTLK", "d2/da3/a00593.html#a9c710ddffaf321c88671cbef76241a48a7d5a552c4731932b74db36b62e6da10e", null ]
+    ] ],
     [ "LfgRoles", "d2/da3/a00593.html#ad029231df694177db4bad322ad868fdc", [
       [ "PLAYER_ROLE_NONE", "d2/da3/a00593.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca", null ],
       [ "PLAYER_ROLE_LEADER", "d2/da3/a00593.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246", null ],

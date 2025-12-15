@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['b_0',['B',['../d6/d3b/a05202.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6']]],
-  ['b_1',['b',['../d4/dad/a07862.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor']]],
+  ['b_0',['b',['../d4/dad/a07862.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor']]],
+  ['b_1',['B',['../d6/d3b/a05202.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6']]],
   ['bachiev_2',['bAchiev',['../d9/da4/a21562.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev()'],['../d3/d8c/a16974.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev()']]],
   ['bachievbombbot_3',['bAchievBombBot',['../dd/d1b/a20574.html#afcd749730b91e9bf9c18609d1f826b06',1,'boss_mimiron::boss_mimironAI']]],
   ['bachievcacherare_4',['bAchievCacheRare',['../d1/dc5/a20342.html#abae1956e9101ea07cea426ac7c51efd5',1,'boss_hodir::boss_hodirAI']]],
@@ -48,8 +48,8 @@ var searchData=
   ['basearmor_45',['BaseArmor',['../de/de3/a08082.html#a9fed8e3227aa2ad7b40579b0be615030',1,'CreatureBaseStats']]],
   ['baseattacktime_46',['BaseAttackTime',['../dc/d37/a08078.html#a4600b8b2117a7b2ae7006c8a373886b8',1,'CreatureTemplate']]],
   ['basedamage_47',['BaseDamage',['../de/de3/a08082.html#a40f54b64689ca8c3d2b0de81384dbea9',1,'CreatureBaseStats']]],
-  ['basehealth_48',['basehealth',['../d1/dfe/a08586.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo']]],
-  ['basehealth_49',['BaseHealth',['../de/de3/a08082.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats']]],
+  ['basehealth_48',['BaseHealth',['../de/de3/a08082.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats']]],
+  ['basehealth_49',['basehealth',['../d1/dfe/a08586.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo']]],
   ['baselevel_50',['BaseLevel',['../da/d9f/a28570.html#aaf7c8448b3091e0fca4aead24165d0e1',1,'SpellEntry::BaseLevel()'],['../de/dfc/a11374.html#a0354bd4a5ad01abf27587e382e415591',1,'SpellInfo::BaseLevel()']]],
   ['basemana_51',['BaseMana',['../de/de3/a08082.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats']]],
   ['basemana_52',['basemana',['../d1/dfe/a08586.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo']]],

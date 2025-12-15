@@ -7,7 +7,7 @@ var a10134 =
     [ "MoveTo", "d0/daa/a10134.html#a1a1c23b0ea579800264fe37938b3a373", null ],
     [ "MoveTo", "d0/daa/a10134.html#a1805cc0033ca71a710bd310bed0fccd6", null ],
     [ "Path", "d0/daa/a10134.html#a28e5ddb362b3271a6a8cb1894b27ef99", null ],
-    [ "SetAnimation", "d0/daa/a10134.html#a1b5ac4dbfe63cedb8ec9eaeb2d221792", null ],
+    [ "SetAnimation", "d0/daa/a10134.html#a80bd851e9a1647eb4472398bfe8a5310", null ],
     [ "SetCyclic", "d0/daa/a10134.html#aec622d3475640701c147f246e0b38c9a", null ],
     [ "SetFacing", "d0/daa/a10134.html#a5e5129eb3f700951bf982d405c719a9f", null ],
     [ "SetFacing", "d0/daa/a10134.html#a9e76d35b8ed626b7045532694c25368f", null ],

@@ -342,12 +342,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08770_html_a53b73d5b297e341be237723269c7644d"><div class="ttname"><a href="../../d6/d0d/a08770.html#a53b73d5b297e341be237723269c7644d">HealInfo::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition:</b> Unit.h:422</div></div>
 <div class="ttc" id="aa08774_html_a05a416bcc001883d082bcf850d45d8b4"><div class="ttname"><a href="../../d2/d46/a08774.html#a05a416bcc001883d082bcf850d45d8b4">ProcEventInfo::GetHealInfo</a></div><div class="ttdeci">HealInfo * GetHealInfo() const</div><div class="ttdef"><b>Definition:</b> Unit.h:457</div></div>
 <div class="ttc" id="aa08774_html_a4fc02fb30c7c964a4fa804e69c47c9a2"><div class="ttname"><a href="../../d2/d46/a08774.html#a4fc02fb30c7c964a4fa804e69c47c9a2">ProcEventInfo::GetProcSpell</a></div><div class="ttdeci">Spell const * GetProcSpell() const</div><div class="ttdef"><b>Definition:</b> Unit.h:455</div></div>
-<div class="ttc" id="aa08802_html_a16df36b93a02cc6fe7f8fa9613d11eb9"><div class="ttname"><a href="../../de/d38/a08802.html#a16df36b93a02cc6fe7f8fa9613d11eb9">Unit::GetRedirectThreatTarget</a></div><div class="ttdeci">Unit * GetRedirectThreatTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:19482</div></div>
+<div class="ttc" id="aa08802_html_a16df36b93a02cc6fe7f8fa9613d11eb9"><div class="ttname"><a href="../../de/d38/a08802.html#a16df36b93a02cc6fe7f8fa9613d11eb9">Unit::GetRedirectThreatTarget</a></div><div class="ttdeci">Unit * GetRedirectThreatTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:19487</div></div>
 <div class="ttc" id="aa11310_html_a021b62f9cbeedf1a3101cac30197aa07"><div class="ttname"><a href="../../d0/d02/a11310.html#a021b62f9cbeedf1a3101cac30197aa07">Spell::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition:</b> Spell.h:587</div></div>
 <div class="ttc" id="aa11374_html_a30452de2bd62607418f3962d00124144"><div class="ttname"><a href="../../de/dfc/a11374.html#a30452de2bd62607418f3962d00124144">SpellInfo::SpellFamilyFlags</a></div><div class="ttdeci">flag96 SpellFamilyFlags</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:388</div></div>
 <div class="ttc" id="aa11490_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d6/d9d/a11490.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00457">ProcEventInfo::GetHealInfo()</a>, <a class="el" href="../../#l00455">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l19482">Unit::GetRedirectThreatTarget()</a>, <a class="el" href="../../#l00422">HealInfo::GetSpellInfo()</a>, <a class="el" href="../../#l00587">Spell::GetSpellInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00457">ProcEventInfo::GetHealInfo()</a>, <a class="el" href="../../#l00455">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l19487">Unit::GetRedirectThreatTarget()</a>, <a class="el" href="../../#l00422">HealInfo::GetSpellInfo()</a>, <a class="el" href="../../#l00587">Spell::GetSpellInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00898">Register()</a>.</p>
 
@@ -438,10 +438,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  880</span>            <a class="code hl_function" href="../../d6/d9d/a11490.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#ac38c8c45821b1d343775a397793d184e">ResetRedirectThreat</a>();</div>
 <div class="line"><span class="lineno">  881</span>    }</div>
 <div class="ttc" id="aa00110_html_a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c"><div class="ttname"><a href="../../d4/d81/a00110.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a></div><div class="ttdeci">@ AURA_REMOVE_BY_DEFAULT</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:392</div></div>
-<div class="ttc" id="aa08802_html_ac38c8c45821b1d343775a397793d184e"><div class="ttname"><a href="../../de/d38/a08802.html#ac38c8c45821b1d343775a397793d184e">Unit::ResetRedirectThreat</a></div><div class="ttdeci">void ResetRedirectThreat()</div><div class="ttdef"><b>Definition:</b> Unit.h:949</div></div>
+<div class="ttc" id="aa08802_html_ac38c8c45821b1d343775a397793d184e"><div class="ttname"><a href="../../de/d38/a08802.html#ac38c8c45821b1d343775a397793d184e">Unit::ResetRedirectThreat</a></div><div class="ttdeci">void ResetRedirectThreat()</div><div class="ttdef"><b>Definition:</b> Unit.h:951</div></div>
 <div class="ttc" id="aa11490_html_a29e48f1dc7011926160e2ed80ebf2f8e"><div class="ttname"><a href="../../d6/d9d/a11490.html#a29e48f1dc7011926160e2ed80ebf2f8e">AuraScript::GetTargetApplication</a></div><div class="ttdeci">AuraApplication const * GetTargetApplication() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1194</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>, <a class="el" href="../../#l00949">Unit::ResetRedirectThreat()</a>, and <a class="el" href="../../#l00055">SPELL_HUNTER_MISDIRECTION_PROC</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>, <a class="el" href="../../#l00951">Unit::ResetRedirectThreat()</a>, and <a class="el" href="../../#l00055">SPELL_HUNTER_MISDIRECTION_PROC</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00898">Register()</a>.</p>
 
@@ -559,7 +559,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d69/a25626.html">spell_hun_misdirection</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:52:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

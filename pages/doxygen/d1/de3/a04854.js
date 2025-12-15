@@ -124,6 +124,12 @@ var a04854 =
       [ "LFG_PROPOSAL_FAILED", "d1/de3/a04854.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051", null ],
       [ "LFG_PROPOSAL_SUCCESS", "d1/de3/a04854.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119", null ]
     ] ],
+    [ "LfgRandomDungeonIds", "d1/de3/a04854.html#a9c710ddffaf321c88671cbef76241a48", [
+      [ "RANDOM_DUNGEON_NORMAL_TBC", "d1/de3/a04854.html#a9c710ddffaf321c88671cbef76241a48a1ee6c66f03d73ada1266e243a7835ce1", null ],
+      [ "RANDOM_DUNGEON_HEROIC_TBC", "d1/de3/a04854.html#a9c710ddffaf321c88671cbef76241a48a65a06ce48e454a1721c8c394594ce537", null ],
+      [ "RANDOM_DUNGEON_NORMAL_WOTLK", "d1/de3/a04854.html#a9c710ddffaf321c88671cbef76241a48ab27907ebbf74ff9165edaac702da279b", null ],
+      [ "RANDOM_DUNGEON_HEROIC_WOTLK", "d1/de3/a04854.html#a9c710ddffaf321c88671cbef76241a48a7d5a552c4731932b74db36b62e6da10e", null ]
+    ] ],
     [ "LfgRoleCheckState", "d1/de3/a04854.html#a9596c400ddbfa4a0eadda14c0be342ed", [
       [ "LFG_ROLECHECK_DEFAULT", "d1/de3/a04854.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658", null ],
       [ "LFG_ROLECHECK_FINISHED", "d1/de3/a04854.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494", null ],

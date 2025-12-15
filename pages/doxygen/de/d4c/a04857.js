@@ -16,12 +16,6 @@ var a04857 =
     [ "TransportPathTransform", "d1/dab/a10126.html", "d1/dab/a10126" ],
     [ "PointsArray", "de/d4c/a04857.html#a86528b2e04ddf38b80888e45d6b9c37d", null ],
     [ "UInt32Counter", "de/d4c/a04857.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "AnimType", "de/d4c/a04857.html#ab518009ca4123b1c5dce0ffe108b78fb", [
-      [ "ToGround", "de/d4c/a04857.html#ab518009ca4123b1c5dce0ffe108b78fba41889d3628918ee702ad48c7d2689f31", null ],
-      [ "FlyToFly", "de/d4c/a04857.html#ab518009ca4123b1c5dce0ffe108b78fba547b00b126d19fb188c747f076bf9d2c", null ],
-      [ "ToFly", "de/d4c/a04857.html#ab518009ca4123b1c5dce0ffe108b78fba3a5a6b4a2eebf34396f22e4c61c10d9b", null ],
-      [ "FlyToGround", "de/d4c/a04857.html#ab518009ca4123b1c5dce0ffe108b78fbae5cd8217abf54b5ab1e67d925d5c7602", null ]
-    ] ],
     [ "MonsterMoveType", "de/d4c/a04857.html#afd3f02560404659d901713e1228d9339", [
       [ "MonsterMoveNormal", "de/d4c/a04857.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
       [ "MonsterMoveStop", "de/d4c/a04857.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],

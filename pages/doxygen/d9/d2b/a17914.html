@@ -213,15 +213,15 @@ Private Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../dd/d9c/a05530.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  217</span>    {</div>
-<div class="line"><span class="lineno">  218</span>        <a class="code hl_variable" href="../../d9/d2b/a17914.html#a7585edb957755efbc6064f232d50ea4e">_darnavan</a>.<a class="code hl_function" href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d4/de7/a09986.html#a798c576206cc676da0e2be1c4bedf18e">MovePoint</a>(<a class="code hl_enumvalue" href="../../d2/df0/a03119.html#a322e9c3204508d171baed0a62fa57bd8a193b32ae3e767cdd2899238b38950ddf">POINT_DESPAWN</a>, <a class="code hl_variable" href="../../d2/df0/a03119.html#aca399d50642a26575b02e6b2595d889c">SummonPositions</a>[6]);</div>
+<div class="line"><span class="lineno">  218</span>        <a class="code hl_variable" href="../../d9/d2b/a17914.html#a7585edb957755efbc6064f232d50ea4e">_darnavan</a>.<a class="code hl_function" href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d4/de7/a09986.html#afc9ce801b909ecbe54867f6f643b5920">MovePoint</a>(<a class="code hl_enumvalue" href="../../d2/df0/a03119.html#a322e9c3204508d171baed0a62fa57bd8a193b32ae3e767cdd2899238b38950ddf">POINT_DESPAWN</a>, <a class="code hl_variable" href="../../d2/df0/a03119.html#aca399d50642a26575b02e6b2595d889c">SummonPositions</a>[6]);</div>
 <div class="line"><span class="lineno">  219</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  220</span>    }</div>
 <div class="ttc" id="aa03119_html_a322e9c3204508d171baed0a62fa57bd8a193b32ae3e767cdd2899238b38950ddf"><div class="ttname"><a href="../../d2/df0/a03119.html#a322e9c3204508d171baed0a62fa57bd8a193b32ae3e767cdd2899238b38950ddf">POINT_DESPAWN</a></div><div class="ttdeci">@ POINT_DESPAWN</div><div class="ttdef"><b>Definition:</b> boss_lady_deathwhisper.cpp:187</div></div>
 <div class="ttc" id="aa03119_html_aca399d50642a26575b02e6b2595d889c"><div class="ttname"><a href="../../d2/df0/a03119.html#aca399d50642a26575b02e6b2595d889c">SummonPositions</a></div><div class="ttdeci">Position const SummonPositions[7]</div><div class="ttdef"><b>Definition:</b> boss_lady_deathwhisper.cpp:200</div></div>
-<div class="ttc" id="aa08802_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1736</div></div>
-<div class="ttc" id="aa09986_html_a798c576206cc676da0e2be1c4bedf18e"><div class="ttname"><a href="../../d4/de7/a09986.html#a798c576206cc676da0e2be1c4bedf18e">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:228</div></div>
+<div class="ttc" id="aa08802_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../de/d38/a08802.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1738</div></div>
+<div class="ttc" id="aa09986_html_afc9ce801b909ecbe54867f6f643b5920"><div class="ttname"><a href="../../d4/de7/a09986.html#afc9ce801b909ecbe54867f6f643b5920">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true, std::optional&lt; AnimTier &gt; animTier=std::nullopt)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:238</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00223">_darnavan</a>, <a class="el" href="../../#l01736">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00228">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00187">POINT_DESPAWN</a>, and <a class="el" href="../../#l00200">SummonPositions</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00223">_darnavan</a>, <a class="el" href="../../#l01738">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00238">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00187">POINT_DESPAWN</a>, and <a class="el" href="../../#l00200">SummonPositions</a>.</p>
 
 </div>
 </div>
@@ -256,7 +256,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d2b/a17914.html">DaranavanMoveEvent</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:51:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

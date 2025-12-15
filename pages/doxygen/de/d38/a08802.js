@@ -757,6 +757,7 @@ var a08802 =
     [ "SendTeleportPacket", "de/d38/a08802.html#a4cb19b0c6fe9e9c302a3db9d14391f64", null ],
     [ "SendThreatListUpdate", "de/d38/a08802.html#ae87b8ae0a14aa04cc311850322fe45b7", null ],
     [ "SetAI", "de/d38/a08802.html#a9a13c045fd5c5c519ee1fb7f32f70450", null ],
+    [ "SetAnimTier", "de/d38/a08802.html#a0cda1f2945337ff96425c65229d895a2", null ],
     [ "SetArmor", "de/d38/a08802.html#ab395f442c73efc3442cd4575abda6064", null ],
     [ "SetAttackTime", "de/d38/a08802.html#adeb215374587957e59c2551053895fa1", null ],
     [ "setAttackTimer", "de/d38/a08802.html#a4fc2fda7c62ee0d4e8c76f47178ed987", null ],

@@ -203,9 +203,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>: <a class="code hl_variable" href="../../d4/d9c/a10058.html#a56f483336fe5c86c6d186ec4d7772d4b">m_Id</a>(Id), <a class="code hl_variable" href="../../d4/d9c/a10058.html#a35b92e440aa2af623f62d4fe8ecf216e">i_spline</a>(spline) {}</div>
-<div class="ttc" id="aa10058_html_a35b92e440aa2af623f62d4fe8ecf216e"><div class="ttname"><a href="../../d4/d9c/a10058.html#a35b92e440aa2af623f62d4fe8ecf216e">EffectMovementGenerator::i_spline</a></div><div class="ttdeci">Movement::MoveSplineInit i_spline</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:87</div></div>
-<div class="ttc" id="aa10058_html_a56f483336fe5c86c6d186ec4d7772d4b"><div class="ttname"><a href="../../d4/d9c/a10058.html#a56f483336fe5c86c6d186ec4d7772d4b">EffectMovementGenerator::m_Id</a></div><div class="ttdeci">uint32 m_Id</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:86</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>: <a class="code hl_variable" href="../../d4/d9c/a10058.html#a56f483336fe5c86c6d186ec4d7772d4b">m_Id</a>(Id), <a class="code hl_variable" href="../../d4/d9c/a10058.html#a35b92e440aa2af623f62d4fe8ecf216e">i_spline</a>(spline) {}</div>
+<div class="ttc" id="aa10058_html_a35b92e440aa2af623f62d4fe8ecf216e"><div class="ttname"><a href="../../d4/d9c/a10058.html#a35b92e440aa2af623f62d4fe8ecf216e">EffectMovementGenerator::i_spline</a></div><div class="ttdeci">Movement::MoveSplineInit i_spline</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:89</div></div>
+<div class="ttc" id="aa10058_html_a56f483336fe5c86c6d186ec4d7772d4b"><div class="ttname"><a href="../../d4/d9c/a10058.html#a56f483336fe5c86c6d186ec4d7772d4b">EffectMovementGenerator::m_Id</a></div><div class="ttdeci">uint32 m_Id</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:88</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -235,37 +235,37 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/d97/a09990.html#aef4cf800aa06dddac4efd36e3c058d2b">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  252</span>{</div>
-<div class="line"><span class="lineno">  253</span>    <span class="keywordflow">if</span> (!unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
-<div class="line"><span class="lineno">  254</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  255</span> </div>
-<div class="line"><span class="lineno">  256</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; unit-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>) &amp;&amp; unit-&gt;<a class="code hl_variable" href="../../de/d38/a08802.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d6/d82/a10118.html#a3a545d6194fd1684261a75545ec6a171">isFalling</a>()) <span class="comment">// pussywizard</span></div>
-<div class="line"><span class="lineno">  257</span>        unit-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>);</div>
-<div class="line"><span class="lineno">  258</span> </div>
-<div class="line"><span class="lineno">  259</span>    <span class="comment">// Need restore previous movement since we have no proper states system</span></div>
-<div class="line"><span class="lineno">  260</span>    <span class="comment">//if (unit-&gt;IsAlive() &amp;&amp; !unit-&gt;HasUnitState(UNIT_STATE_CONFUSED | UNIT_STATE_FLEEING))</span></div>
-<div class="line"><span class="lineno">  261</span>    <span class="comment">//{</span></div>
-<div class="line"><span class="lineno">  262</span>    <span class="comment">//    if (Unit* victim = unit-&gt;GetVictim())</span></div>
-<div class="line"><span class="lineno">  263</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;MoveChase(victim);</span></div>
-<div class="line"><span class="lineno">  264</span>    <span class="comment">//    else</span></div>
-<div class="line"><span class="lineno">  265</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;Initialize();</span></div>
-<div class="line"><span class="lineno">  266</span>    <span class="comment">//}</span></div>
-<div class="line"><span class="lineno">  267</span> </div>
-<div class="line"><span class="lineno">  268</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  269</span>        unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d1/d8c/a06226.html#ab0438b14dc1d7f038221d9d7a2f37043">MovementInform</a>(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d4/d9c/a10058.html#a56f483336fe5c86c6d186ec4d7772d4b">m_Id</a>);</div>
-<div class="line"><span class="lineno">  270</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  258</span>{</div>
+<div class="line"><span class="lineno">  259</span>    <span class="keywordflow">if</span> (!unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
+<div class="line"><span class="lineno">  260</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  261</span> </div>
+<div class="line"><span class="lineno">  262</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; unit-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>) &amp;&amp; unit-&gt;<a class="code hl_variable" href="../../de/d38/a08802.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d6/d82/a10118.html#a3a545d6194fd1684261a75545ec6a171">isFalling</a>()) <span class="comment">// pussywizard</span></div>
+<div class="line"><span class="lineno">  263</span>        unit-&gt;<a class="code hl_function" href="../../de/d38/a08802.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>);</div>
+<div class="line"><span class="lineno">  264</span> </div>
+<div class="line"><span class="lineno">  265</span>    <span class="comment">// Need restore previous movement since we have no proper states system</span></div>
+<div class="line"><span class="lineno">  266</span>    <span class="comment">//if (unit-&gt;IsAlive() &amp;&amp; !unit-&gt;HasUnitState(UNIT_STATE_CONFUSED | UNIT_STATE_FLEEING))</span></div>
+<div class="line"><span class="lineno">  267</span>    <span class="comment">//{</span></div>
+<div class="line"><span class="lineno">  268</span>    <span class="comment">//    if (Unit* victim = unit-&gt;GetVictim())</span></div>
+<div class="line"><span class="lineno">  269</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;MoveChase(victim);</span></div>
+<div class="line"><span class="lineno">  270</span>    <span class="comment">//    else</span></div>
+<div class="line"><span class="lineno">  271</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;Initialize();</span></div>
+<div class="line"><span class="lineno">  272</span>    <span class="comment">//}</span></div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  275</span>        unit-&gt;<a class="code hl_function" href="../../d3/d58/a08418.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d1/d8c/a06226.html#ab0438b14dc1d7f038221d9d7a2f37043">MovementInform</a>(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d4/d9c/a10058.html#a56f483336fe5c86c6d186ec4d7772d4b">m_Id</a>);</div>
+<div class="line"><span class="lineno">  276</span>}</div>
 <div class="ttc" id="aa00458_html_a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac"><div class="ttname"><a href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a></div><div class="ttdeci">@ EFFECT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:56</div></div>
 <div class="ttc" id="aa00875_html_a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1"><div class="ttname"><a href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a></div><div class="ttdeci">@ MOVEMENTFLAG_FALLING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:381</div></div>
 <div class="ttc" id="aa06226_html_ab0438b14dc1d7f038221d9d7a2f37043"><div class="ttname"><a href="../../d1/d8c/a06226.html#ab0438b14dc1d7f038221d9d7a2f37043">CreatureAI::MovementInform</a></div><div class="ttdeci">virtual void MovementInform(uint32, uint32)</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:161</div></div>
 <div class="ttc" id="aa08050_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:145</div></div>
 <div class="ttc" id="aa08418_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d3/d58/a08418.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:204</div></div>
 <div class="ttc" id="aa08418_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d3/d58/a08418.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa08802_html_a1805acabea4c9a75ad7c0bcab734f627"><div class="ttname"><a href="../../de/d38/a08802.html#a1805acabea4c9a75ad7c0bcab734f627">Unit::movespline</a></div><div class="ttdeci">Movement::MoveSpline * movespline</div><div class="ttdef"><b>Definition:</b> Unit.h:2094</div></div>
+<div class="ttc" id="aa08802_html_a1805acabea4c9a75ad7c0bcab734f627"><div class="ttname"><a href="../../de/d38/a08802.html#a1805acabea4c9a75ad7c0bcab734f627">Unit::movespline</a></div><div class="ttdeci">Movement::MoveSpline * movespline</div><div class="ttdef"><b>Definition:</b> Unit.h:2096</div></div>
 <div class="ttc" id="aa08802_html_a924b296aeb24186da0b821b8b47bb712"><div class="ttname"><a href="../../de/d38/a08802.html#a924b296aeb24186da0b821b8b47bb712">Unit::HasUnitMovementFlag</a></div><div class="ttdeci">bool HasUnitMovementFlag(uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:764</div></div>
 <div class="ttc" id="aa08802_html_abeb7f8bf0fe8c1e6ee5b5758f1b044b6"><div class="ttname"><a href="../../de/d38/a08802.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">Unit::RemoveUnitMovementFlag</a></div><div class="ttdeci">void RemoveUnitMovementFlag(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:763</div></div>
 <div class="ttc" id="aa10118_html_a3a545d6194fd1684261a75545ec6a171"><div class="ttname"><a href="../../d6/d82/a10118.html#a3a545d6194fd1684261a75545ec6a171">Movement::MoveSpline::isFalling</a></div><div class="ttdeci">bool isFalling() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:118</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00056">EFFECT_MOTION_TYPE</a>, <a class="el" href="../../#l00764">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l00204">Object::IsCreature()</a>, <a class="el" href="../../#l00118">Movement::MoveSpline::isFalling()</a>, <a class="el" href="../../#l00086">m_Id</a>, <a class="el" href="../../#l00381">MOVEMENTFLAG_FALLING</a>, <a class="el" href="../../#l00161">CreatureAI::MovementInform()</a>, <a class="el" href="../../#l02094">Unit::movespline</a>, <a class="el" href="../../#l00763">Unit::RemoveUnitMovementFlag()</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00056">EFFECT_MOTION_TYPE</a>, <a class="el" href="../../#l00764">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l00204">Object::IsCreature()</a>, <a class="el" href="../../#l00118">Movement::MoveSpline::isFalling()</a>, <a class="el" href="../../#l00088">m_Id</a>, <a class="el" href="../../#l00381">MOVEMENTFLAG_FALLING</a>, <a class="el" href="../../#l00161">CreatureAI::MovementInform()</a>, <a class="el" href="../../#l02096">Unit::movespline</a>, <a class="el" href="../../#l00763">Unit::RemoveUnitMovementFlag()</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
@@ -293,7 +293,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/d97/a09990.html#a60bac341b438ea7258986f234a952324">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{ <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{ <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>; }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00056">EFFECT_MOTION_TYPE</a>.</p>
 
@@ -324,12 +324,12 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/d97/a09990.html#a0040e427ac4a09273641a96a13fd4c1f">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  247</span>{</div>
-<div class="line"><span class="lineno">  248</span>    <a class="code hl_variable" href="../../d4/d9c/a10058.html#a35b92e440aa2af623f62d4fe8ecf216e">i_spline</a>.<a class="code hl_function" href="../../d0/daa/a10134.html#a2e051b61f93da4f17e918c7a93f26f18">Launch</a>();</div>
-<div class="line"><span class="lineno">  249</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  253</span>{</div>
+<div class="line"><span class="lineno">  254</span>    <a class="code hl_variable" href="../../d4/d9c/a10058.html#a35b92e440aa2af623f62d4fe8ecf216e">i_spline</a>.<a class="code hl_function" href="../../d0/daa/a10134.html#a2e051b61f93da4f17e918c7a93f26f18">Launch</a>();</div>
+<div class="line"><span class="lineno">  255</span>}</div>
 <div class="ttc" id="aa10134_html_a2e051b61f93da4f17e918c7a93f26f18"><div class="ttname"><a href="../../d0/daa/a10134.html#a2e051b61f93da4f17e918c7a93f26f18">Movement::MoveSplineInit::Launch</a></div><div class="ttdeci">int32 Launch()</div><div class="ttdef"><b>Definition:</b> MoveSplineInit.cpp:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00087">i_spline</a>, and <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00089">i_spline</a>, and <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>.</p>
 
 </div>
 </div>
@@ -358,7 +358,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/d97/a09990.html#aa6641fa1182551421fc8572afad8e083">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">   84</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -397,12 +397,12 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/d97/a09990.html#ae3014d8c6e728799c86134ef64737ed5">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  242</span>{</div>
-<div class="line"><span class="lineno">  243</span>    <span class="keywordflow">return</span> !unit-&gt;<a class="code hl_variable" href="../../de/d38/a08802.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d6/d82/a10118.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>();</div>
-<div class="line"><span class="lineno">  244</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
+<div class="line"><span class="lineno">  249</span>    <span class="keywordflow">return</span> !unit-&gt;<a class="code hl_variable" href="../../de/d38/a08802.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d6/d82/a10118.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>();</div>
+<div class="line"><span class="lineno">  250</span>}</div>
 <div class="ttc" id="aa10118_html_a4c375981abbfa1ea7335cd9369fd93f6"><div class="ttname"><a href="../../d6/d82/a10118.html#a4c375981abbfa1ea7335cd9369fd93f6">Movement::MoveSpline::Finalized</a></div><div class="ttdeci">bool Finalized() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSpline::Finalized()</a>, and <a class="el" href="../../#l02094">Unit::movespline</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSpline::Finalized()</a>, and <a class="el" href="../../#l02096">Unit::movespline</a>.</p>
 
 </div>
 </div>
@@ -427,7 +427,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00246">Initialize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00252">Initialize()</a>.</p>
 
 </div>
 </div>
@@ -451,7 +451,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00251">Finalize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00257">Finalize()</a>.</p>
 
 </div>
 </div>
@@ -461,7 +461,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d9c/a10058.html">EffectMovementGenerator</a></li>
-    <li class="footer">Generated on Mon Dec 8 2025 20:49:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 15 2025 20:51:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>
