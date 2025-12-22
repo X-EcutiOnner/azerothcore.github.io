@@ -1,7 +1,8 @@
 var a26894 =
 [
-    [ "HandleDispel", "de/d60/a26894.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "de/d60/a26894.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "de/d60/a26894.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "de/d60/a26894.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "ApplyDebuff", "de/d60/a26894.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "de/d60/a26894.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "de/d60/a26894.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "de/d60/a26894.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "de/d60/a26894.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

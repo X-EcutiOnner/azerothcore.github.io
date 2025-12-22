@@ -1,6 +1,6 @@
 var a27042 =
 [
-    [ "HandleAfterHit", "d3/da1/a27042.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d3/da1/a27042.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d3/da1/a27042.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "FilterTargets", "d3/da1/a27042.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d3/da1/a27042.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d3/da1/a27042.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

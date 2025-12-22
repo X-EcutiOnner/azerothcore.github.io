@@ -1,8 +1,10 @@
 var a29058 =
 [
-    [ "Color", "db/d82/a29058.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "db/d82/a29058.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "db/d82/a29058.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "db/d82/a29058.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "db/d82/a29058.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "ADTFile", "db/d82/a29058.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "db/d82/a29058.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "db/d82/a29058.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "db/d82/a29058.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "db/d82/a29058.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "db/d82/a29058.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "db/d82/a29058.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

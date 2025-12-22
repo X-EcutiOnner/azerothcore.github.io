@@ -1,14 +1,8 @@
 var a23858 =
 [
-    [ "npc_warden_mellicharAI", "d4/d6d/a23858.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "d4/d6d/a23858.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "d4/d6d/a23858.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "d4/d6d/a23858.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "d4/d6d/a23858.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "d4/d6d/a23858.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "d4/d6d/a23858.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "d4/d6d/a23858.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "d4/d6d/a23858.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "d4/d6d/a23858.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "d4/d6d/a23858.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "npc_warchief_portal", "d4/d6d/a23858.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d4/d6d/a23858.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d4/d6d/a23858.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d4/d6d/a23858.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d4/d6d/a23858.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

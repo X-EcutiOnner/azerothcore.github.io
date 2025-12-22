@@ -1,6 +1,7 @@
 var a13610 =
 [
-    [ "HandleEffectApply", "d2/d57/a13610.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "d2/d57/a13610.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "d2/d57/a13610.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "FilterTargets", "d2/d57/a13610.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d2/d57/a13610.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d2/d57/a13610.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d2/d57/a13610.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

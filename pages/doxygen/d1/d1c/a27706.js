@@ -1,8 +1,12 @@
 var a27706 =
 [
-    [ "npc_elder_clearwaterAI", "d6/d7d/a27710.html", "d6/d7d/a27710" ],
-    [ "npc_elder_clearwater", "d1/d1c/a27706.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d1/d1c/a27706.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d1/d1c/a27706.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d1/d1c/a27706.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_preciousAI", "d1/d1c/a27706.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d1/d1c/a27706.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d1/d1c/a27706.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d1/d1c/a27706.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d1/d1c/a27706.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d1/d1c/a27706.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d1/d1c/a27706.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d1/d1c/a27706.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d1/d1c/a27706.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

@@ -1,7 +1,13 @@
 var a23006 =
 [
-    [ "PrepareAuraScript", "de/d0f/a23006.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "de/d0f/a23006.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "de/d0f/a23006.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "de/d0f/a23006.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_illidari_council_memberAI", "de/d0f/a23006.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "de/d0f/a23006.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "de/d0f/a23006.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "de/d0f/a23006.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "de/d0f/a23006.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "de/d0f/a23006.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "de/d0f/a23006.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "de/d0f/a23006.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "de/d0f/a23006.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "de/d0f/a23006.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

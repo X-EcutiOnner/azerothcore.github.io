@@ -1,6 +1,7 @@
 var a17986 =
 [
-    [ "npc_bone_spikeAI", "d3/dd4/a17990.html", "d3/dd4/a17990" ],
-    [ "npc_bone_spike", "da/ddf/a17986.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "da/ddf/a17986.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "npc_coldflameAI", "da/ddf/a17986.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "da/ddf/a17986.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "da/ddf/a17986.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "da/ddf/a17986.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

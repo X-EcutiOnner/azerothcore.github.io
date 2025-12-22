@@ -1,8 +1,8 @@
 var a02441 =
 [
-    [ "boss_kazrogal", "dc/d7b/a14846.html", "dc/d7b/a14846" ],
-    [ "spell_mark_of_kazrogal", "d5/d3a/a14850.html", "d5/d3a/a14850" ],
-    [ "spell_mark_of_kazrogal_aura", "d5/d25/a14854.html", "d5/d25/a14854" ],
+    [ "boss_kazrogal", "d5/d3a/a14850.html", "d5/d3a/a14850" ],
+    [ "spell_mark_of_kazrogal", "d5/d25/a14854.html", "d5/d25/a14854" ],
+    [ "spell_mark_of_kazrogal_aura", "d7/d05/a14858.html", "d7/d05/a14858" ],
     [ "Sounds", "d9/dd6/a02441.html#a378d5c1c6cef9f24f253a041e207663c", [
       [ "SOUND_ONDEATH", "d9/dd6/a02441.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c", null ],
       [ "SOUND_VK_AGGRO", "d3/d9c/a02336.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e", null ],
@@ -2084,6 +2084,7 @@ var a02441 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

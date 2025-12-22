@@ -1,7 +1,6 @@
 var a16130 =
 [
-    [ "OnRemove", "da/d28/a16130.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "da/d28/a16130.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "da/d28/a16130.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "da/d28/a16130.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "HandleScriptEffect", "da/d28/a16130.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "da/d28/a16130.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "da/d28/a16130.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

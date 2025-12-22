@@ -1,9 +1,7 @@
 var a09110 =
 [
-    [ "CellArea", "d0/def/a09110.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d0/def/a09110.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d0/def/a09110.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d0/def/a09110.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "GetAntiDosPolicyForOpcode", "d0/def/a09110.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d0/def/a09110.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d0/def/a09110.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d0/def/a09110.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

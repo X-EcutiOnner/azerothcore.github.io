@@ -1,6 +1,8 @@
 var a24394 =
 [
-    [ "npc_enraged_spiritAI", "de/d61/a24398.html", "de/d61/a24398" ],
-    [ "npc_enraged_spirit", "df/d5a/a24394.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "df/d5a/a24394.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "CreatureId", "df/d5a/a24394.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "df/d5a/a24394.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "df/d5a/a24394.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "df/d5a/a24394.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "df/d5a/a24394.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

@@ -1,6 +1,7 @@
 var a26954 =
 [
-    [ "HandleSchoolDMG", "d2/ddb/a26954.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d2/ddb/a26954.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d2/ddb/a26954.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleEffectProc", "d2/ddb/a26954.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "d2/ddb/a26954.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "d2/ddb/a26954.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "d2/ddb/a26954.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

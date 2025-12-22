@@ -1,8 +1,6 @@
 var a08650 =
 [
-    [ "checkLeaderOnly", "da/ddb/a08650.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "da/ddb/a08650.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "da/ddb/a08650.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "da/ddb/a08650.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "da/ddb/a08650.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "SavedItem", "da/ddb/a08650.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "da/ddb/a08650.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "da/ddb/a08650.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

@@ -1,8 +1,6 @@
 var a25122 =
 [
-    [ "Absorb", "d6/db2/a25122.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "d6/db2/a25122.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "d6/db2/a25122.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "d6/db2/a25122.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "d6/db2/a25122.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "CheckProc", "d6/db2/a25122.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "d6/db2/a25122.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "d6/db2/a25122.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

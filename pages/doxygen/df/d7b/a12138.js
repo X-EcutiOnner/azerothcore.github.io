@@ -1,7 +1,6 @@
 var a12138 =
 [
-    [ "boss_grizzleAI", "df/d7b/a12138.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "df/d7b/a12138.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "df/d7b/a12138.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "df/d7b/a12138.html#ab0f05592db6d0c806247e76232760c44", null ]
+    [ "boss_grizzleAI", "de/d76/a12142.html", "de/d76/a12142" ],
+    [ "boss_grizzle", "df/d7b/a12138.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
+    [ "GetAI", "df/d7b/a12138.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
 ];

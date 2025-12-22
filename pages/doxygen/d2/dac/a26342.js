@@ -1,10 +1,9 @@
 var a26342 =
 [
-    [ "spell_pal_judgement", "d2/dac/a26342.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d2/dac/a26342.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d2/dac/a26342.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d2/dac/a26342.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "SealApplication", "d2/dac/a26342.html#a0bb55f122d560c70f416e448d03d2184", null ],
-    [ "Validate", "d2/dac/a26342.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d2/dac/a26342.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "CountTargets", "d2/dac/a26342.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "d2/dac/a26342.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "d2/dac/a26342.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "d2/dac/a26342.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "d2/dac/a26342.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "d2/dac/a26342.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

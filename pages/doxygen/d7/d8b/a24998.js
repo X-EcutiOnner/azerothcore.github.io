@@ -1,7 +1,10 @@
 var a24998 =
 [
-    [ "CheckRequirement", "d7/d8b/a24998.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "d7/d8b/a24998.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "d7/d8b/a24998.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "d7/d8b/a24998.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "HandleEffectApply", "d7/d8b/a24998.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d7/d8b/a24998.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d7/d8b/a24998.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d7/d8b/a24998.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d7/d8b/a24998.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d7/d8b/a24998.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d7/d8b/a24998.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

@@ -1,6 +1,5 @@
 var a22718 =
 [
-    [ "a", "dc/d83/a22718.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "dc/d83/a22718.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "dc/d83/a22718.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "OutdoorPvP_nagrand", "dc/d83/a22718.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
+    [ "GetOutdoorPvP", "dc/d83/a22718.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
 ];

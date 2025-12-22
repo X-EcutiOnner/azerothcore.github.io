@@ -1,8 +1,8 @@
 var a02792 =
 [
-    [ "boss_moragg", "df/d27/a21522.html", "df/d27/a21522" ],
-    [ "boss_moragg::boss_moraggAI", "d6/dce/a21526.html", "d6/dce/a21526" ],
-    [ "spell_optic_link_aura", "de/dd5/a21530.html", "de/dd5/a21530" ],
+    [ "boss_moragg", "d6/dce/a21526.html", "d6/dce/a21526" ],
+    [ "boss_moragg::boss_moraggAI", "de/dd5/a21530.html", "de/dd5/a21530" ],
+    [ "spell_optic_link_aura", "d9/ddc/a21534.html", "d9/ddc/a21534" ],
     [ "eEvents", "de/db6/a02792.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d3/d7e/a02768.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d3/d7e/a02768.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

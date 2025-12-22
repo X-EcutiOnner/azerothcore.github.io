@@ -1,6 +1,7 @@
 var a16830 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "de/d65/a16834.html", "de/d65/a16834" ],
-    [ "instance_trial_of_the_crusader", "d5/d1b/a16830.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d5/d1b/a16830.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "HandleEffectPeriodic", "d5/d1b/a16830.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d5/d1b/a16830.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d5/d1b/a16830.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d5/d1b/a16830.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

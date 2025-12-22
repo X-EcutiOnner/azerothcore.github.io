@@ -1,8 +1,6 @@
 var a23826 =
 [
-    [ "npc_warchief_portal", "dc/d3e/a23826.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "dc/d3e/a23826.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "dc/d3e/a23826.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "dc/d3e/a23826.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "dc/d3e/a23826.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "HandleEffect", "dc/d3e/a23826.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "dc/d3e/a23826.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "dc/d3e/a23826.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

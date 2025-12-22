@@ -1,12 +1,11 @@
 var a28794 =
 [
-    [ "ApplyGmVisibleState", "d9/d60/a28794.html#a3deb6c8e282913959275b537bb748860", null ],
-    [ "EnsureScriptRegistriesInitialized", "d9/d60/a28794.html#a4238366c75dd8889993888e4e8bce5a2", null ],
-    [ "ExecuteCommand", "d9/d60/a28794.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
-    [ "SetUp", "d9/d60/a28794.html#a236c5547ff9855b39315642ec2e79c4e", null ],
-    [ "TearDown", "d9/d60/a28794.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
-    [ "originalWorld", "d9/d60/a28794.html#a8f7396466d2b20742f66e14462de96a4", null ],
-    [ "player", "d9/d60/a28794.html#a97049ae029c9354fdf3194be77f36dfa", null ],
-    [ "session", "d9/d60/a28794.html#a2f87ec522777defa8b023274b1d78c35", null ],
-    [ "worldMock", "d9/d60/a28794.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
+    [ "IsAvailable", "d9/d60/a28794.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d9/d60/a28794.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d9/d60/a28794.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d9/d60/a28794.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d9/d60/a28794.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d9/d60/a28794.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d9/d60/a28794.html#a8d5a07c626b8f329a01d3dceecd35d09", null ],
+    [ "value", "d9/d60/a28794.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

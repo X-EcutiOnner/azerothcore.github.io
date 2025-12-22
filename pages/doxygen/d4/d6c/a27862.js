@@ -1,6 +1,6 @@
 var a27862 =
 [
-    [ "npc_venomhide_hatchlingAI", "d4/d6c/a27862.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d4/d6c/a27862.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d4/d6c/a27862.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_locksmith", "d4/d6c/a27862.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d4/d6c/a27862.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d4/d6c/a27862.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

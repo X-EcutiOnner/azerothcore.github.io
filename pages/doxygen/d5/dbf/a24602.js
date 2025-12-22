@@ -1,9 +1,9 @@
 var a24602 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d5/dbf/a24602.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d5/dbf/a24602.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d5/dbf/a24602.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d5/dbf/a24602.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d5/dbf/a24602.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d5/dbf/a24602.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d5/dbf/a24602.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d5/dbf/a24602.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d5/dbf/a24602.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d5/dbf/a24602.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d5/dbf/a24602.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d5/dbf/a24602.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

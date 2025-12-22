@@ -1,8 +1,8 @@
 var a03500 =
 [
-    [ "npc_kilrek", "dd/d29/a12918.html", "dd/d29/a12918" ],
-    [ "npc_demon_chain", "db/d0b/a12922.html", "db/d0b/a12922" ],
-    [ "boss_terestian_illhoof", "db/d6e/a12926.html", "db/d6e/a12926" ],
+    [ "npc_kilrek", "db/d0b/a12922.html", "db/d0b/a12922" ],
+    [ "npc_demon_chain", "db/d6e/a12926.html", "db/d6e/a12926" ],
+    [ "boss_terestian_illhoof", "d2/dc7/a12930.html", "d2/dc7/a12930" ],
     [ "Creatures", "d8/d63/a03500.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2320,6 +2320,7 @@ var a03500 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

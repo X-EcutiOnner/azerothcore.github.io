@@ -1,5 +1,6 @@
 var a08390 =
 [
-    [ "ItemStatType", "db/dff/a08390.html#a8643f062d325b5048c839525db56af3e", null ],
-    [ "ItemStatValue", "db/dff/a08390.html#a5a5ee42445d9121f186c084dfbc31425", null ]
+    [ "DamageMax", "db/dff/a08390.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "db/dff/a08390.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "db/dff/a08390.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

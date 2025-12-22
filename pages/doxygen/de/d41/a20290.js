@@ -1,7 +1,6 @@
 var a20290 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "de/d41/a20290.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "de/d41/a20290.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "de/d41/a20290.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "de/d41/a20290.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d1/d2f/a20294.html", "d1/d2f/a20294" ],
+    [ "npc_ulduar_saronite_vapors", "de/d41/a20290.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
+    [ "GetAI", "de/d41/a20290.html#a3c2e7b6263f8935da9291c736b14d139", null ]
 ];

@@ -1,11 +1,11 @@
 var a02087 =
 [
-    [ "boss_lady_vashj", "df/da3/a23314.html", "df/da3/a23314" ],
-    [ "spell_lady_vashj_magic_barrier", "d0/d85/a23318.html", "d0/d85/a23318" ],
-    [ "spell_lady_vashj_remove_tainted_cores", "d9/da0/a23322.html", "d9/da0/a23322" ],
-    [ "spell_lady_vashj_summon_sporebat", "d1/d28/a23326.html", "d1/d28/a23326" ],
-    [ "spell_lady_vashj_spore_drop_effect", "d4/ddf/a23330.html", "d4/ddf/a23330" ],
-    [ "spell_lady_vashj_summons", "d8/dbc/a23334.html", "d8/dbc/a23334" ],
+    [ "boss_lady_vashj", "d0/d43/a23346.html", "d0/d43/a23346" ],
+    [ "spell_lady_vashj_magic_barrier", "d5/dd0/a23350.html", "d5/dd0/a23350" ],
+    [ "spell_lady_vashj_remove_tainted_cores", "df/d06/a23354.html", "df/d06/a23354" ],
+    [ "spell_lady_vashj_summon_sporebat", "d0/da4/a23358.html", "d0/da4/a23358" ],
+    [ "spell_lady_vashj_spore_drop_effect", "d3/df6/a23362.html", "d3/df6/a23362" ],
+    [ "spell_lady_vashj_summons", "d2/dd3/a23366.html", "d2/dd3/a23366" ],
     [ "Misc", "d2/d31/a02087.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -3316,6 +3316,7 @@ var a02087 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

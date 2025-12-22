@@ -1,10 +1,10 @@
 var a10310 =
 [
-    [ "ArenaTeamScript", "d5/dea/a10310.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "d5/dea/a10310.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "d5/dea/a10310.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "d5/dea/a10310.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "d5/dea/a10310.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "d5/dea/a10310.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "d5/dea/a10310.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "ArenaScript", "d5/dea/a10310.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d5/dea/a10310.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveToDB", "d5/dea/a10310.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d5/dea/a10310.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d5/dea/a10310.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d5/dea/a10310.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnGetPoints", "d5/dea/a10310.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

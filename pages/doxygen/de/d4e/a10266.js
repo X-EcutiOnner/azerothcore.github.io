@@ -1,6 +1,10 @@
 var a10266 =
 [
-    [ "ALEScript", "de/d4e/a10266.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
-    [ "CanAreaTrigger", "de/d4e/a10266.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
-    [ "OnWeatherChange", "de/d4e/a10266.html#a109b1cb14f602065ce4346d0370407a7", null ]
+    [ "AchievementScript", "de/d4e/a10266.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "de/d4e/a10266.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "de/d4e/a10266.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "de/d4e/a10266.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "de/d4e/a10266.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "de/d4e/a10266.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "de/d4e/a10266.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

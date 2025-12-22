@@ -1,5 +1,7 @@
 var a28310 =
 [
-    [ "cinematicCamera", "db/d59/a28310.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
-    [ "Id", "db/d59/a28310.html#a9c3dc0e60728c1c76594385d6860f265", null ]
+    [ "cutPercent", "db/d59/a28310.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "db/d59/a28310.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "db/d59/a28310.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "db/d59/a28310.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

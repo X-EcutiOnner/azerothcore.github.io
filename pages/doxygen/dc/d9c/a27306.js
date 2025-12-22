@@ -1,9 +1,7 @@
 var a27306 =
 [
-    [ "emerald_dragonAI", "dc/d9c/a27306.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "dc/d9c/a27306.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "dc/d9c/a27306.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "dc/d9c/a27306.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "dc/d9c/a27306.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "dc/d9c/a27306.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "CharacterDeleteActionIpLogger", "dc/d9c/a27306.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "dc/d9c/a27306.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "dc/d9c/a27306.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "dc/d9c/a27306.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

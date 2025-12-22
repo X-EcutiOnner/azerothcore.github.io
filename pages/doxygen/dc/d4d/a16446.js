@@ -1,6 +1,7 @@
 var a16446 =
 [
-    [ "boss_black_knightAI", "da/d1f/a16450.html", "da/d1f/a16450" ],
-    [ "boss_black_knight", "dc/d4d/a16446.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "dc/d4d/a16446.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "HandleAfterEffectAbsorb", "dc/d4d/a16446.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "dc/d4d/a16446.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "dc/d4d/a16446.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "dc/d4d/a16446.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

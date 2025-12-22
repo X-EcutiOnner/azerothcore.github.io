@@ -1,8 +1,7 @@
 var a27054 =
 [
-    [ "Load", "dc/d5a/a27054.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "dc/d5a/a27054.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "dc/d5a/a27054.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "dc/d5a/a27054.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "dc/d5a/a27054.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "HandleDummy", "dc/d5a/a27054.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "dc/d5a/a27054.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "dc/d5a/a27054.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "dc/d5a/a27054.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

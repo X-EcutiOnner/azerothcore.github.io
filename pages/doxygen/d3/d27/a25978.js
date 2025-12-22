@@ -1,7 +1,6 @@
 var a25978 =
 [
-    [ "Load", "d3/d27/a25978.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "d3/d27/a25978.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "d3/d27/a25978.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "d3/d27/a25978.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleProc", "d3/d27/a25978.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "d3/d27/a25978.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "d3/d27/a25978.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

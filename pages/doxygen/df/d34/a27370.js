@@ -1,8 +1,9 @@
 var a27370 =
 [
-    [ "FilterTargets", "df/d34/a27370.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "df/d34/a27370.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "df/d34/a27370.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "df/d34/a27370.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "df/d34/a27370.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "boss_lethonAI", "df/d34/a27370.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "df/d34/a27370.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "df/d34/a27370.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "df/d34/a27370.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "df/d34/a27370.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "df/d34/a27370.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

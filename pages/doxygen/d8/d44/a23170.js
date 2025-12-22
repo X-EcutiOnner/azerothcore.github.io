@@ -1,7 +1,6 @@
 var a23170 =
 [
-    [ "HandleOnHit", "d8/d44/a23170.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d8/d44/a23170.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d8/d44/a23170.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d8/d44/a23170.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d8/d44/a23170.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d8/d44/a23170.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d8/d44/a23170.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

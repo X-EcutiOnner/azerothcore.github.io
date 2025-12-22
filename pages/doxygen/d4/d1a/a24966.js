@@ -1,10 +1,6 @@
 var a24966 =
 [
-    [ "FilterTargets", "d4/d1a/a24966.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d4/d1a/a24966.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d4/d1a/a24966.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d4/d1a/a24966.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d4/d1a/a24966.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d4/d1a/a24966.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d4/d1a/a24966.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "OnHit", "d4/d1a/a24966.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "d4/d1a/a24966.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "d4/d1a/a24966.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

@@ -1,6 +1,14 @@
 var a21490 =
 [
-    [ "npc_erekem_guardAI", "d6/dca/a21494.html", "d6/dca/a21494" ],
-    [ "npc_erekem_guard", "de/db2/a21490.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "de/db2/a21490.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "boss_erekemAI", "de/db2/a21490.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "de/db2/a21490.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "de/db2/a21490.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "de/db2/a21490.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "de/db2/a21490.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "de/db2/a21490.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "de/db2/a21490.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "de/db2/a21490.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "de/db2/a21490.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "de/db2/a21490.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "de/db2/a21490.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

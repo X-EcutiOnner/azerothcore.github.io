@@ -1,26 +1,10 @@
 var a28494 =
 [
-    [ "Expansion", "dc/d98/a28494.html#a39e6d2e230183f30e369c3bada111bfe", null ],
-    [ "GetEntrancePos", "dc/d98/a28494.html#a0d58d5bfdfce183f815d77e7315b77ed", null ],
-    [ "Instanceable", "dc/d98/a28494.html#af036a047dd6a68deb3dc61cff5bb6958", null ],
-    [ "IsBattleArena", "dc/d98/a28494.html#ade7b243c7089975899c78760e196c1fa", null ],
-    [ "IsBattleground", "dc/d98/a28494.html#a0c5ca5448fd4ec5d5e3a804a38dfb069", null ],
-    [ "IsBattlegroundOrArena", "dc/d98/a28494.html#a9946bfab35c05fcc85dc1c60d7614ec5", null ],
-    [ "IsContinent", "dc/d98/a28494.html#a4e9a18b9335b79bb079b5255d24dd6d7", null ],
-    [ "IsDungeon", "dc/d98/a28494.html#ad9902fc9b28ba9b555b45c0662aa0397", null ],
-    [ "IsDynamicDifficultyMap", "dc/d98/a28494.html#ae7bb16d92e0542f875162214b3743830", null ],
-    [ "IsNonRaidDungeon", "dc/d98/a28494.html#a168041f8e1fa28e6c4e8922d3e6b9005", null ],
-    [ "IsRaid", "dc/d98/a28494.html#adc49d2974929327b06a442012b0a07d1", null ],
-    [ "IsWorldMap", "dc/d98/a28494.html#a6b2df07886f44e0ed0b0442c7f392fd2", null ],
-    [ "entrance_map", "dc/d98/a28494.html#a29fb03d3306ce50afb13d4e72d735e18", null ],
-    [ "entrance_x", "dc/d98/a28494.html#ac2363d1d0f4e6647bcd1e8b8eea5b409", null ],
-    [ "entrance_y", "dc/d98/a28494.html#a05ab3182d6e38a5bf5397957cce465a2", null ],
-    [ "expansionID", "dc/d98/a28494.html#a35c7985906e9bec541c08bdc879a06cc", null ],
-    [ "Flags", "dc/d98/a28494.html#a368dda3514aeb177fb204fd73e9af2c4", null ],
-    [ "linked_zone", "dc/d98/a28494.html#a617a23fd33a5853f20a7b1cbda6f6e3a", null ],
-    [ "map_type", "dc/d98/a28494.html#adc919dc1d095da8c0f1624abfcca2cf6", null ],
-    [ "MapID", "dc/d98/a28494.html#a6bf547a0414908596a7b37db8bd36719", null ],
-    [ "maxPlayers", "dc/d98/a28494.html#ac2769d42a8963e075b7637a2ab520237", null ],
-    [ "multimap_id", "dc/d98/a28494.html#a3ffc45e361a42d043c31c7a6d94e8d46", null ],
-    [ "name", "dc/d98/a28494.html#a91e885a7b5d19824156187fb749f449b", null ]
+    [ "ID", "dc/d98/a28494.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "dc/d98/a28494.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "dc/d98/a28494.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "dc/d98/a28494.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "dc/d98/a28494.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "dc/d98/a28494.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "dc/d98/a28494.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

@@ -1,6 +1,6 @@
 var a26134 =
 [
-    [ "OnPeriodic", "da/d0e/a26134.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "da/d0e/a26134.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "da/d0e/a26134.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "CheckCast", "da/d0e/a26134.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "da/d0e/a26134.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "da/d0e/a26134.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

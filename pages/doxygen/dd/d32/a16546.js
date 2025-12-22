@@ -1,6 +1,8 @@
 var a16546 =
 [
-    [ "npc_nerubian_burrowerAI", "d9/dea/a16550.html", "d9/dea/a16550" ],
-    [ "npc_nerubian_burrower", "dd/d32/a16546.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "dd/d32/a16546.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_frost_sphereAI", "dd/d32/a16546.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "dd/d32/a16546.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "dd/d32/a16546.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "dd/d32/a16546.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "dd/d32/a16546.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

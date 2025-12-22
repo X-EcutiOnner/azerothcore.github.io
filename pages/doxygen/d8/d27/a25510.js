@@ -1,6 +1,7 @@
 var a25510 =
 [
-    [ "HandleScript", "d8/d27/a25510.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "d8/d27/a25510.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "d8/d27/a25510.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "OnApply", "d8/d27/a25510.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "d8/d27/a25510.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "d8/d27/a25510.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "d8/d27/a25510.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

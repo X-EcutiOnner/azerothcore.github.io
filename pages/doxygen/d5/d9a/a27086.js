@@ -1,6 +1,7 @@
 var a27086 =
 [
-    [ "HandleOnHit", "d5/d9a/a27086.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "d5/d9a/a27086.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "d5/d9a/a27086.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "HandleDispel", "d5/d9a/a27086.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "d5/d9a/a27086.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "d5/d9a/a27086.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "d5/d9a/a27086.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

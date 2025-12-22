@@ -1,5 +1,7 @@
 var a28682 =
 [
-    [ "areatableID", "d7/d94/a28682.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "d7/d94/a28682.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "from", "d7/d94/a28682.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "d7/d94/a28682.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "d7/d94/a28682.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "d7/d94/a28682.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

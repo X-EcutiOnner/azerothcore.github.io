@@ -1,5 +1,7 @@
 var a25518 =
 [
-    [ "PrepareSpellScript", "df/d5b/a25518.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "df/d5b/a25518.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "OnRemove", "df/d5b/a25518.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "df/d5b/a25518.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "df/d5b/a25518.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "df/d5b/a25518.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

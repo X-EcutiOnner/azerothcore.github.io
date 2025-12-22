@@ -1,6 +1,7 @@
 var a23254 =
 [
-    [ "boss_doomlordkazzakAI", "df/dfc/a23258.html", "df/dfc/a23258" ],
-    [ "boss_doomlord_kazzak", "dd/ded/a23254.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "dd/ded/a23254.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "PrepareAuraScript", "dd/ded/a23254.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "dd/ded/a23254.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "dd/ded/a23254.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "dd/ded/a23254.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

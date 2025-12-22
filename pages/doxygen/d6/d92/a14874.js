@@ -1,8 +1,7 @@
 var a14874 =
 [
-    [ "hyjalThrallAI", "d6/d92/a14874.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d6/d92/a14874.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d6/d92/a14874.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d6/d92/a14874.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d6/d92/a14874.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "hyjalThrallAI", "db/dcf/a14878.html", "db/dcf/a14878" ],
+    [ "npc_hyjal_thrall", "d6/d92/a14874.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d6/d92/a14874.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d6/d92/a14874.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

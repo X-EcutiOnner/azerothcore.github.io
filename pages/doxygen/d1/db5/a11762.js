@@ -1,9 +1,19 @@
 var a11762 =
 [
-    [ "map", "d1/db5/a11762.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d1/db5/a11762.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d1/db5/a11762.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d1/db5/a11762.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d1/db5/a11762.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d1/db5/a11762.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "CityAttack", "d5/d91/a11770.html", "d5/d91/a11770" ],
+    [ "InvasionZone", "df/d9a/a11766.html", "df/d9a/a11766" ],
+    [ "ScourgeInvasionData", "d1/db5/a11762.html#a40749458bbad64d1d277cd7cd9dac939", null ],
+    [ "GetData", "d1/db5/a11762.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
+    [ "Reset", "d1/db5/a11762.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
+    [ "m_activeInvasions", "d1/db5/a11762.html#af98aea31bf9c878adf2870890911282f", null ],
+    [ "m_battlesWon", "d1/db5/a11762.html#aea7079c6f876188857219c574ca0798d", null ],
+    [ "m_broadcastTimer", "d1/db5/a11762.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
+    [ "m_cityAttacks", "d1/db5/a11762.html#a70127135568b3a439f040697f1dc525c", null ],
+    [ "m_lastAttackZone", "d1/db5/a11762.html#a38ead6b33009083055538fd4f0b7de35", null ],
+    [ "m_pendingInvasions", "d1/db5/a11762.html#af62efb05ce49a3cb764328976f8054f6", null ],
+    [ "m_pendingPallids", "d1/db5/a11762.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
+    [ "m_remaining", "d1/db5/a11762.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
+    [ "m_siMutex", "d1/db5/a11762.html#acefb72f28d000395bc1362cd9a62b26a", null ],
+    [ "m_state", "d1/db5/a11762.html#acb26a954f14aec654513b16e5e53cad8", null ],
+    [ "m_timers", "d1/db5/a11762.html#a06375cf97a023be4f3fff94cc43405a9", null ]
 ];

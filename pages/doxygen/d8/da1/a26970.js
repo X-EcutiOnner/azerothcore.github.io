@@ -1,6 +1,7 @@
 var a26970 =
 [
-    [ "HandleAuraApply", "d8/da1/a26970.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d8/da1/a26970.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d8/da1/a26970.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "AfterRemove", "d8/da1/a26970.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d8/da1/a26970.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d8/da1/a26970.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d8/da1/a26970.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

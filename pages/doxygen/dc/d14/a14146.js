@@ -1,6 +1,5 @@
 var a14146 =
 [
-    [ "boss_gahzranka", "dc/d14/a14146.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "dc/d14/a14146.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "dc/d14/a14146.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "go_gong_of_bethekk", "dc/d14/a14146.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "dc/d14/a14146.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

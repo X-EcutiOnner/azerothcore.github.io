@@ -1,12 +1,8 @@
 var a27710 =
 [
-    [ "npc_elder_clearwaterAI", "d6/d7d/a27710.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "d6/d7d/a27710.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "d6/d7d/a27710.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "d6/d7d/a27710.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "d6/d7d/a27710.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "d6/d7d/a27710.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "d6/d7d/a27710.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "d6/d7d/a27710.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "d6/d7d/a27710.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_simoneAI", "d5/d77/a27714.html", "d5/d77/a27714" ],
+    [ "npc_simone", "d6/d7d/a27710.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "d6/d7d/a27710.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "d6/d7d/a27710.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "d6/d7d/a27710.html#ae2b1a653be3767881769b54607219757", null ]
 ];

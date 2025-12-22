@@ -1,7 +1,7 @@
 var a22518 =
 [
-    [ "npc_wg_quest_giver", "d9/d53/a22518.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d9/d53/a22518.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d9/d53/a22518.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d9/d53/a22518.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandleDummy", "d9/d53/a22518.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "d9/d53/a22518.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "d9/d53/a22518.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "d9/d53/a22518.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

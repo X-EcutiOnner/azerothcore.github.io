@@ -1,12 +1,10 @@
 var a27670 =
 [
-    [ "npc_preciousAI", "dc/d28/a27670.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "dc/d28/a27670.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "dc/d28/a27670.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "dc/d28/a27670.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "dc/d28/a27670.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "dc/d28/a27670.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "dc/d28/a27670.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "dc/d28/a27670.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "dc/d28/a27670.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_prof_alchemy", "dc/d28/a27670.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "dc/d28/a27670.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "dc/d28/a27670.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "dc/d28/a27670.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "dc/d28/a27670.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "dc/d28/a27670.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "dc/d28/a27670.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

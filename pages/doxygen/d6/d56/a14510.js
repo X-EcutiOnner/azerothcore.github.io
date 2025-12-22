@@ -1,5 +1,6 @@
 var a14510 =
 [
-    [ "npc_cw_area_triggerAI", "d6/d56/a14510.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d6/d56/a14510.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "npc_cw_area_triggerAI", "df/d96/a14514.html", "df/d96/a14514" ],
+    [ "npc_cw_area_trigger", "d6/d56/a14510.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d6/d56/a14510.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

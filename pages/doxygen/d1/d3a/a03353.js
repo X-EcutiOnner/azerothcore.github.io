@@ -1,14 +1,14 @@
 var a03353 =
 [
-    [ "boss_mandokir", "d5/ddb/a14250.html", "d5/ddb/a14250" ],
-    [ "boss_mandokir::boss_mandokirAI", "d0/d74/a14254.html", "d0/d74/a14254" ],
-    [ "npc_ohgan", "df/dd5/a14258.html", "df/dd5/a14258" ],
-    [ "npc_ohgan::npc_ohganAI", "d5/d44/a14262.html", "d5/d44/a14262" ],
-    [ "npc_chained_spirit", "d4/d9a/a14266.html", "d4/d9a/a14266" ],
-    [ "npc_vilebranch_speaker", "d8/d13/a14270.html", "d8/d13/a14270" ],
-    [ "spell_threatening_gaze_aura", "d0/d8b/a14274.html", "d0/d8b/a14274" ],
-    [ "spell_mandokir_charge", "d8/db4/a14278.html", "d8/db4/a14278" ],
-    [ "spell_threatening_gaze_charge", "da/dd0/a14282.html", "da/dd0/a14282" ],
+    [ "boss_mandokir", "d0/d74/a14254.html", "d0/d74/a14254" ],
+    [ "boss_mandokir::boss_mandokirAI", "df/dd5/a14258.html", "df/dd5/a14258" ],
+    [ "npc_ohgan", "d5/d44/a14262.html", "d5/d44/a14262" ],
+    [ "npc_ohgan::npc_ohganAI", "d4/d9a/a14266.html", "d4/d9a/a14266" ],
+    [ "npc_chained_spirit", "d8/d13/a14270.html", "d8/d13/a14270" ],
+    [ "npc_vilebranch_speaker", "d0/d8b/a14274.html", "d0/d8b/a14274" ],
+    [ "spell_threatening_gaze_aura", "d8/db4/a14278.html", "d8/db4/a14278" ],
+    [ "spell_mandokir_charge", "da/dd0/a14282.html", "da/dd0/a14282" ],
+    [ "spell_threatening_gaze_charge", "d0/d2c/a14286.html", "d0/d2c/a14286" ],
     [ "Action", "d1/d3a/a03353.html#a8bb1ef53467e4f61410d12822d922498", [
       [ "ACTION_START_REVIVE", "d1/d3a/a03353.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502", null ],
       [ "ACTION_REVIVE", "d1/d3a/a03353.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265", null ]
@@ -4557,6 +4557,7 @@ var a03353 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

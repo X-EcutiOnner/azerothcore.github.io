@@ -1,6 +1,7 @@
 var a18494 =
 [
-    [ "npc_valkyr_shadowguardAI", "d5/d0b/a18498.html", "d5/d0b/a18498" ],
-    [ "npc_valkyr_shadowguard", "da/d4f/a18494.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "da/d4f/a18494.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "OnPeriodic", "da/d4f/a18494.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "da/d4f/a18494.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "da/d4f/a18494.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "da/d4f/a18494.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

@@ -1,8 +1,6 @@
 var a26430 =
 [
-    [ "CalculateAmount", "d1/dca/a26430.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d1/dca/a26430.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d1/dca/a26430.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d1/dca/a26430.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d1/dca/a26430.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "FilterTargets", "d1/dca/a26430.html#a17626abdbc4066956b76945b11b3f0c6", null ],
+    [ "PrepareSpellScript", "d1/dca/a26430.html#abfeb75060c1f930b33003dd1e458f882", null ],
+    [ "Register", "d1/dca/a26430.html#a8e5146a57f181b17280d198bcd2e216d", null ]
 ];

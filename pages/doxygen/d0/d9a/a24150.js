@@ -1,5 +1,6 @@
 var a24150 =
 [
-    [ "go_simon_cluster", "d0/d9a/a24150.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d0/d9a/a24150.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/d9a/a24150.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d0/d9a/a24150.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d0/d9a/a24150.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

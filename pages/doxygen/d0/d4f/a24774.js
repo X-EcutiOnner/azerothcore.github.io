@@ -1,6 +1,7 @@
 var a24774 =
 [
-    [ "RaiseDeadCheck", "d0/d4f/a24774.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "d0/d4f/a24774.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "d0/d4f/a24774.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "HandleDummy", "d0/d4f/a24774.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "d0/d4f/a24774.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "d0/d4f/a24774.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "d0/d4f/a24774.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

@@ -1,6 +1,7 @@
 var a25878 =
 [
-    [ "HandleEffectApply", "dc/db7/a25878.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "dc/db7/a25878.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "dc/db7/a25878.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "HandleProc", "dc/db7/a25878.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
+    [ "PrepareAuraScript", "dc/db7/a25878.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
+    [ "Register", "dc/db7/a25878.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
+    [ "Validate", "dc/db7/a25878.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
 ];

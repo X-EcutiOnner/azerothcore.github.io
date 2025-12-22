@@ -1,6 +1,7 @@
 var a25766 =
 [
-    [ "HandleDummy", "d6/d7b/a25766.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "d6/d7b/a25766.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "d6/d7b/a25766.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleDummy", "d6/d7b/a25766.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "d6/d7b/a25766.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "d6/d7b/a25766.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "d6/d7b/a25766.html#ab4031ddb745995128854c149f7706045", null ]
 ];

@@ -1,7 +1,7 @@
 var a24302 =
 [
-    [ "HandleEffectApply", "d7/dfe/a24302.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d7/dfe/a24302.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d7/dfe/a24302.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d7/dfe/a24302.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_bessyAI", "d6/d35/a24306.html", "d6/d35/a24306" ],
+    [ "npc_bessy", "d7/dfe/a24302.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d7/dfe/a24302.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d7/dfe/a24302.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

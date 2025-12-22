@@ -1,5 +1,5 @@
 var a27534 =
 [
-    [ "go_table_theka", "d0/d36/a27534.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d0/d36/a27534.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_sacred_fire_of_life", "d0/d36/a27534.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d0/d36/a27534.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

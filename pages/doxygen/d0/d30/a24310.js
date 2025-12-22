@@ -1,11 +1,7 @@
 var a24310 =
 [
-    [ "npc_invis_infernal_casterAI", "d0/d30/a24310.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "d0/d30/a24310.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "d0/d30/a24310.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "d0/d30/a24310.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "d0/d30/a24310.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "d0/d30/a24310.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "d0/d30/a24310.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "d0/d30/a24310.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_maxx_a_million_escortAI", "d7/dc1/a24314.html", "d7/dc1/a24314" ],
+    [ "npc_maxx_a_million_escort", "d0/d30/a24310.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d0/d30/a24310.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d0/d30/a24310.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

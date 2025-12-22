@@ -1,6 +1,9 @@
 var a21038 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d8/d52/a21042.html", "d8/d52/a21042" ],
-    [ "boss_yoggsaron_descend_portal", "d0/df1/a21038.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "d0/df1/a21038.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_yoggsaron_keeper", "d0/df1/a21038.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d0/df1/a21038.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d0/df1/a21038.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d0/df1/a21038.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d0/df1/a21038.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d0/df1/a21038.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

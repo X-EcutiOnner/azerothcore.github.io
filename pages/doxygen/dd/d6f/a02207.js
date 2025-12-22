@@ -1,6 +1,6 @@
 var a02207 =
 [
-    [ "boss_high_botanist_freywinn", "d8/d38/a23902.html", "d8/d38/a23902" ],
+    [ "boss_high_botanist_freywinn", "d5/dc6/a23934.html", "d5/dc6/a23934" ],
     [ "Npcs", "dd/d6f/a02207.html#a213e9ce155baf17b6147afe6a069d54d", [
       [ "NPC_TM_GUARDSMAN", "d0/d1e/a02426.html#a213e9ce155baf17b6147afe6a069d54da21f261d22a0cd419e2febe6c2604502e", null ],
       [ "NPC_TM_PROTECTOR", "d0/d1e/a02426.html#a213e9ce155baf17b6147afe6a069d54da78f045556089f7be512b4bc38abc558f", null ],
@@ -2656,6 +2656,7 @@ var a02207 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

@@ -1,6 +1,7 @@
 var a24782 =
 [
-    [ "CheckTargets", "dd/d6c/a24782.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "dd/d6c/a24782.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "dd/d6c/a24782.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "CalcDamage", "dd/d6c/a24782.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "dd/d6c/a24782.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "dd/d6c/a24782.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "dd/d6c/a24782.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

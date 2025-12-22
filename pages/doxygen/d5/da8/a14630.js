@@ -1,7 +1,8 @@
 var a14630 =
 [
-    [ "HandleEffectApply", "d5/da8/a14630.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "d5/da8/a14630.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "d5/da8/a14630.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "d5/da8/a14630.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "npc_love_in_air_snivel_real", "d5/da8/a14630.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d5/da8/a14630.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d5/da8/a14630.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d5/da8/a14630.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d5/da8/a14630.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

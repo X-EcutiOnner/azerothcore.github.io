@@ -1,7 +1,6 @@
 var a23878 =
 [
-    [ "boss_zereketh_the_unbound", "d6/d93/a23878.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d6/d93/a23878.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d6/d93/a23878.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d6/d93/a23878.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "npc_millhouse_manastormAI", "d4/d8d/a23882.html", "d4/d8d/a23882" ],
+    [ "npc_millhouse_manastorm", "d6/d93/a23878.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d6/d93/a23878.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

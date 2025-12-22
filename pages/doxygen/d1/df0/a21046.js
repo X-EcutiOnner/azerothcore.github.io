@@ -1,6 +1,6 @@
 var a21046 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "d5/d47/a21050.html", "d5/d47/a21050" ],
-    [ "boss_yoggsaron_influence_tentacle", "d1/df0/a21046.html#a44155d82364bdde7e00131be3b6edfb6", null ],
-    [ "GetAI", "d1/df0/a21046.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d1/df0/a21046.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d1/df0/a21046.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d1/df0/a21046.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

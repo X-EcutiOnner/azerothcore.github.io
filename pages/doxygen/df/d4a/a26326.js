@@ -1,8 +1,7 @@
 var a26326 =
 [
-    [ "Load", "df/d4a/a26326.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "df/d4a/a26326.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "df/d4a/a26326.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "df/d4a/a26326.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "df/d4a/a26326.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleDummy", "df/d4a/a26326.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "df/d4a/a26326.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "df/d4a/a26326.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "df/d4a/a26326.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

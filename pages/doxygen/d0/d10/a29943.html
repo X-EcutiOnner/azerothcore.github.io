@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Configuration/Config.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/dbcfile.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,109 +104,21 @@ $(document).ready(function(){initNavTree('d0/d10/a29943.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Config.h File Reference</div></div>
+  <div class="headertitle"><div class="title">dbcfile.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cstdint&gt;</code><br />
-<code>#include &lt;stdexcept&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">dbcfile.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">mpq_libmpq04.h</a>&quot;</code><br />
+<code>#include &lt;cstdio&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddd/a05170.html">ConfigPolicy</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d14/a05174.html">ConfigMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d35/a05178.html">ConfigException</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a7236988e98bdd405bf435a029b70a26f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d10/a29943.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>&#160;&#160;&#160;<a class="el" href="../../d3/d14/a05174.html#a775439020c2e5577206c2559bbb2b042">ConfigMgr::instance</a>()</td></tr>
-<tr class="separator:a7236988e98bdd405bf435a029b70a26f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a05eaca858744a1f9f0e309e7867383e3"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> : uint8_t { <br />
-&#160;&#160;<a class="el" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c">Skip</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17">Warn</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd">Error</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4">Fatal</a>
-<br />
- }</td></tr>
-<tr class="separator:a05eaca858744a1f9f0e309e7867383e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a7236988e98bdd405bf435a029b70a26f" name="a7236988e98bdd405bf435a029b70a26f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7236988e98bdd405bf435a029b70a26f">&#9670;&#160;</a></span>sConfigMgr</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define sConfigMgr&#160;&#160;&#160;<a class="el" href="../../d3/d14/a05174.html#a775439020c2e5577206c2559bbb2b042">ConfigMgr::instance</a>()</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a05eaca858744a1f9f0e309e7867383e3" name="a05eaca858744a1f9f0e309e7867383e3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05eaca858744a1f9f0e309e7867383e3">&#9670;&#160;</a></span>ConfigSeverity</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> : uint8_t</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c" name="a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c"></a>Skip&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17" name="a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17"></a>Warn&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd" name="a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd"></a>Error&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4" name="a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4"></a>Fatal&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c">Skip</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17">Warn</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd">Error</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4">Fatal</a></div>
-<div class="line"><span class="lineno">   32</span>};</div>
-<div class="ttc" id="aa29943_html_a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17"><div class="ttname"><a href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17">ConfigSeverity::Warn</a></div><div class="ttdeci">@ Warn</div></div>
-<div class="ttc" id="aa29943_html_a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c"><div class="ttname"><a href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c">ConfigSeverity::Skip</a></div><div class="ttdeci">@ Skip</div></div>
-<div class="ttc" id="aa29943_html_a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4"><div class="ttname"><a href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4">ConfigSeverity::Fatal</a></div><div class="ttdeci">@ Fatal</div></div>
-<div class="ttc" id="aa29943_html_a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd"><div class="ttname"><a href="../../d0/d10/a29943.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd">ConfigSeverity::Error</a></div><div class="ttdeci">@ Error</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_e8df728d6a6e829c2d0f8060a021b576.html">Configuration</a></li><li class="navelem"><a class="el" href="../../d0/d10/a29943.html">Config.h</a></li>
-    <li class="footer">Generated on Mon Dec 1 2025 20:47:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d0/d10/a29943.html">dbcfile.cpp</a></li>
+    <li class="footer">Generated on Mon Dec 22 2025 20:48:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

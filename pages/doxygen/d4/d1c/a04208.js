@@ -1,8 +1,8 @@
 var a04208 =
 [
-    [ "map_fileheader", "d2/dd7/a09158.html", "d2/dd7/a09158" ],
-    [ "map_heightHeader", "d3/d38/a09166.html", "d3/d38/a09166" ],
-    [ "map_liquidHeader", "d0/d3e/a09170.html", "d0/d3e/a09170" ],
+    [ "map_fileheader", "d3/d3e/a09162.html", "d3/d3e/a09162" ],
+    [ "map_heightHeader", "d0/d3e/a09170.html", "d0/d3e/a09170" ],
+    [ "map_liquidHeader", "d7/dcc/a09174.html", "d7/dcc/a09174" ],
     [ "MAP_HEIGHT_AS_INT16", "d4/d1c/a04208.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
     [ "MAP_HEIGHT_AS_INT8", "d4/d1c/a04208.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
     [ "MAP_HEIGHT_NO_HEIGHT", "d4/d1c/a04208.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],

@@ -34,10 +34,10 @@ var searchData=
   ['unworthyinitiate_31',['UnworthyInitiate',['../d6/d76/a03554.html#af590a53311e888b53dcef8e183ba91cd',1,'chapter1.cpp']]],
   ['unworthyinitiatephase_32',['UnworthyInitiatePhase',['../d6/d76/a03554.html#ab36fb5898313f01df12c91aca8341be3',1,'chapter1.cpp']]],
   ['updatefieldflags_33',['UpdatefieldFlags',['../d0/dad/a00806.html#a811fc272bf3df65a461d871556356150',1,'UpdateFieldFlags.h']]],
-  ['updatemaskcount_34',['UpdateMaskCount',['../d6/d15/a08526.html#a667c2f210ee4a2417a2a3ba486d1332f',1,'UpdateMask']]],
+  ['updatemaskcount_34',['UpdateMaskCount',['../de/d71/a08530.html#a667c2f210ee4a2417a2a3ba486d1332f',1,'UpdateMask']]],
   ['updatemode_35',['UpdateMode',['../de/d73/a05970.html#a8da5fda372d28f07213d723c5a582d5c',1,'UpdateFetcher']]],
-  ['updateresult_36',['UpdateResult',['../d6/d82/a10118.html#a6fcd01e84f328619ce1a8dbbfa8143b0',1,'Movement::MoveSpline']]],
-  ['updatestate_37',['UpdateState',['../df/dc7/a08450.html#aa4f58928ebfbd115280b12866d9b7d23',1,'UpdatableMapObject']]],
+  ['updateresult_36',['UpdateResult',['../d7/dfe/a10122.html#a6fcd01e84f328619ce1a8dbbfa8143b0',1,'Movement::MoveSpline']]],
+  ['updatestate_37',['UpdateState',['../d1/d8b/a08454.html#aa4f58928ebfbd115280b12866d9b7d23',1,'UpdatableMapObject']]],
   ['uromnpcs_38',['UromNPCs',['../d0/d74/a03149.html#ad243c32a85c6d194ea6b8c6ec82f9da8',1,'boss_urom.cpp']]],
   ['usedpostype_39',['UsedPosType',['../d0/d11/a00842.html#a2f1e7723f9d73cff4490d29d2b3df397',1,'ObjectPosSelector.h']]],
   ['utgardespells_40',['UtgardeSpells',['../d3/d57/a02834.html#ae8fa29243650c07aed99f9ee3cad321a',1,'utgarde_pinnacle.cpp']]]

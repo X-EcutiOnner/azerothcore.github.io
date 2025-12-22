@@ -1,6 +1,5 @@
 var a07162 =
 [
-    [ "AuctionSearchBidderListRequest", "d9/dc8/a07162.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "d9/dc8/a07162.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "d9/dc8/a07162.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "AuctionSearchOwnerListRequest", "d9/dc8/a07162.html#a1b774f8d2f77886669b8724be58713ef", null ],
+    [ "ownerGuid", "d9/dc8/a07162.html#a37d5d9356fa738e8263fdf7eb9c015a5", null ]
 ];

@@ -1,8 +1,8 @@
 var a02057 =
 [
-    [ "npc_underbat", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
-    [ "spell_fungal_decay", "df/d43/a23610.html", "df/d43/a23610" ],
-    [ "spell_allergies", "d9/df4/a23614.html", "d9/df4/a23614" ],
+    [ "npc_underbat", "d8/d8f/a23638.html", "d8/d8f/a23638" ],
+    [ "spell_fungal_decay", "da/ddb/a23642.html", "da/ddb/a23642" ],
+    [ "spell_allergies", "d1/d5d/a23646.html", "d1/d5d/a23646" ],
     [ "AllergiesEnum", "d2/dea/a02057.html#a597f861031d65ff9c7c3da68293f6847", [
       [ "SPELL_SNEEZE", "d2/dea/a02057.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
     ] ],

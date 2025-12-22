@@ -1,7 +1,7 @@
 var a29952 =
 [
-    [ "cutPercent", "da/d80/a29952.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "da/d80/a29952.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "da/d80/a29952.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "da/d80/a29952.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "u_map_fcc", "de/d09/a28942.html", "de/d09/a28942" ],
+    [ "file_MVER", "de/d15/a28946.html", "de/d15/a28946" ],
+    [ "FileLoader", "d8/dd2/a28954.html", "d8/dd2/a28954" ],
+    [ "FILE_FORMAT_VERSION", "da/d80/a29952.html#a6fef47739ef9998b00a2523c98cb2315", null ]
 ];

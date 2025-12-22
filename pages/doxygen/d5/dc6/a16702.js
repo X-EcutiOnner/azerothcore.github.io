@@ -1,8 +1,6 @@
 var a16702 =
 [
-    [ "npc_toc_pet_hunterAI", "d5/dc6/a16702.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "d5/dc6/a16702.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "d5/dc6/a16702.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "d5/dc6/a16702.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "d5/dc6/a16702.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_toc_pet_hunterAI", "d4/d09/a16706.html", "d4/d09/a16706" ],
+    [ "npc_toc_pet_hunter", "d5/dc6/a16702.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d5/dc6/a16702.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

@@ -1,10 +1,9 @@
 var a23530 =
 [
-    [ "boss_warlord_kalithresh", "d5/d64/a23530.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d5/d64/a23530.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d5/d64/a23530.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d5/d64/a23530.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d5/d64/a23530.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d5/d64/a23530.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d5/d64/a23530.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "boss_mennu_the_betrayer", "d5/d64/a23530.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d5/d64/a23530.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d5/d64/a23530.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d5/d64/a23530.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d5/d64/a23530.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d5/d64/a23530.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

@@ -1,6 +1,7 @@
 var a19914 =
 [
-    [ "PrepareSpellScript", "d6/d63/a19914.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d6/d63/a19914.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d6/d63/a19914.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "HandlePeriodic", "d6/d63/a19914.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d6/d63/a19914.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d6/d63/a19914.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d6/d63/a19914.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

@@ -1,6 +1,6 @@
 var a18026 =
 [
-    [ "boss_professor_putricideAI", "de/d30/a18030.html", "de/d30/a18030" ],
-    [ "boss_professor_putricide", "da/dd5/a18026.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "da/dd5/a18026.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "MalleableGooSelector", "da/dd5/a18026.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "da/dd5/a18026.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "da/dd5/a18026.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

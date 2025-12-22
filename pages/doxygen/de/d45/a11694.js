@@ -1,10 +1,16 @@
 var a11694 =
 [
-    [ "WorldPacketList", "de/d45/a11694.html#ac02e770af167d14f978954cf5ac74487", null ],
-    [ "WorldWorldTextBuilder", "de/d45/a11694.html#ad5e85ced19572dcd5ae75caa7e50cbf6", null ],
-    [ "do_helper", "de/d45/a11694.html#ae8b58ec72a6c87aee46e9fe693deab32", null ],
-    [ "lineFromMessage", "de/d45/a11694.html#a3a71edb992528d81471d370ba3d8d211", null ],
-    [ "operator()", "de/d45/a11694.html#ae08f4d73e048b351ae4326cc63278ae6", null ],
-    [ "i_args", "de/d45/a11694.html#ac2ae2ce8dc49ce7469142383e6e097d4", null ],
-    [ "i_textId", "de/d45/a11694.html#ab246baa9a8ce259d8190ac1c8318c75d", null ]
+    [ "CheckContainer", "de/d45/a11694.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "de/d45/a11694.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "de/d45/a11694.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "de/d45/a11694.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "de/d45/a11694.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "de/d45/a11694.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "de/d45/a11694.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "de/d45/a11694.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "de/d45/a11694.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "de/d45/a11694.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "de/d45/a11694.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "de/d45/a11694.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "de/d45/a11694.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

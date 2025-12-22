@@ -1,9 +1,6 @@
 var a26646 =
 [
-    [ "CheckCast", "d9/d8a/a26646.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d9/d8a/a26646.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d9/d8a/a26646.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d9/d8a/a26646.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d9/d8a/a26646.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d9/d8a/a26646.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandleEffectApply", "d9/d8a/a26646.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "d9/d8a/a26646.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "d9/d8a/a26646.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

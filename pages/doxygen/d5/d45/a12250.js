@@ -1,6 +1,8 @@
 var a12250 =
 [
-    [ "boss_lord_valthalakAI", "d2/d45/a12254.html", "d2/d45/a12254" ],
-    [ "boss_lord_valthalak", "d5/d45/a12250.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "d5/d45/a12250.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "boss_highlordomokkAI", "d5/d45/a12250.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d5/d45/a12250.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d5/d45/a12250.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d5/d45/a12250.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d5/d45/a12250.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

@@ -1,6 +1,7 @@
 var a14466 =
 [
-    [ "PeriodicTick", "da/d8b/a14466.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "da/d8b/a14466.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "da/d8b/a14466.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "PeriodicTick", "da/d8b/a14466.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "da/d8b/a14466.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "da/d8b/a14466.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "da/d8b/a14466.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

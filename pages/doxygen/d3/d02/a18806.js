@@ -1,6 +1,21 @@
 var a18806 =
 [
-    [ "boss_sister_svalnaAI", "dc/dcc/a18810.html", "dc/dcc/a18810" ],
-    [ "boss_sister_svalna", "d3/d02/a18806.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d3/d02/a18806.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_crok_scourgebaneAI", "d3/d02/a18806.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "d3/d02/a18806.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "d3/d02/a18806.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "d3/d02/a18806.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "d3/d02/a18806.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "d3/d02/a18806.html#a185a5ebbf77067ce9e233c55d47f84d0", null ],
+    [ "UpdateAI", "d3/d02/a18806.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "d3/d02/a18806.html#ae424685131ee51e8d6390e4ddb341b04", null ],
+    [ "WaypointReached", "d3/d02/a18806.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointStart", "d3/d02/a18806.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "d3/d02/a18806.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "d3/d02/a18806.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "d3/d02/a18806.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "d3/d02/a18806.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "d3/d02/a18806.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "d3/d02/a18806.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "d3/d02/a18806.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "d3/d02/a18806.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

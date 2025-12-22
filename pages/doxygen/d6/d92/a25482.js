@@ -1,7 +1,7 @@
 var a25482 =
 [
-    [ "OnRemove", "d6/d92/a25482.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "d6/d92/a25482.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "d6/d92/a25482.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "d6/d92/a25482.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "OnPeriodic", "d6/d92/a25482.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d6/d92/a25482.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d6/d92/a25482.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d6/d92/a25482.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

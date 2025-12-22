@@ -1,8 +1,6 @@
 var a12194 =
 [
-    [ "boss_doomrelAI", "df/d96/a12198.html", "df/d96/a12198" ],
-    [ "boss_doomrel", "d9/d3d/a12194.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "d9/d3d/a12194.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "d9/d3d/a12194.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "d9/d3d/a12194.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "boss_gloomrel", "d9/d3d/a12194.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d9/d3d/a12194.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d9/d3d/a12194.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

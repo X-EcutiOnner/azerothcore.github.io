@@ -1,11 +1,6 @@
 var a12302 =
 [
-    [ "npc_rookery_hatcherAI", "d2/d7b/a12302.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "d2/d7b/a12302.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "d2/d7b/a12302.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "d2/d7b/a12302.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "d2/d7b/a12302.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "d2/d7b/a12302.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "d2/d7b/a12302.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "d2/d7b/a12302.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "npc_rookery_hatcherAI", "d4/d9f/a12306.html", "d4/d9f/a12306" ],
+    [ "npc_rookery_hatcher", "d2/d7b/a12302.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d2/d7b/a12302.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

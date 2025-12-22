@@ -1,6 +1,6 @@
 var a15686 =
 [
-    [ "npc_clintar_spiritAI", "d4/de8/a15690.html", "d4/de8/a15690" ],
-    [ "npc_clintar_spirit", "d6/de5/a15686.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d6/de5/a15686.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_silva_filnaveth", "d6/de5/a15686.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d6/de5/a15686.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d6/de5/a15686.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

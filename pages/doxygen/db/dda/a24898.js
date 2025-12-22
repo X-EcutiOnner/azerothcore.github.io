@@ -1,9 +1,6 @@
 var a24898 =
 [
-    [ "Absorb", "db/dda/a24898.html#a8f6e773840274e07d685c891561f72d8", null ],
-    [ "CalculateAmount", "db/dda/a24898.html#af337ef5d5cea283f4e43b943961838d6", null ],
-    [ "Load", "db/dda/a24898.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
-    [ "PrepareAuraScript", "db/dda/a24898.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
-    [ "Register", "db/dda/a24898.html#a80982626e1b67374629cb6e0800ccaea", null ],
-    [ "absorbPct", "db/dda/a24898.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
+    [ "CalculateAmount", "db/dda/a24898.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "db/dda/a24898.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "db/dda/a24898.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

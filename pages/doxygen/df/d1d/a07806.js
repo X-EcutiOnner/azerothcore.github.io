@@ -1,5 +1,10 @@
 var a07806 =
 [
-    [ "Glyph", "df/d1d/a07806.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
-    [ "Slot", "df/d1d/a07806.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
+    [ "Achievement", "df/d1d/a07806.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "df/d1d/a07806.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "df/d1d/a07806.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "df/d1d/a07806.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "df/d1d/a07806.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "df/d1d/a07806.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "df/d1d/a07806.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

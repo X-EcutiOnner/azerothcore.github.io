@@ -1,18 +1,9 @@
 var a27770 =
 [
-    [ "npc_doctorAI", "d9/d65/a27770.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "d9/d65/a27770.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "d9/d65/a27770.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "d9/d65/a27770.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "d9/d65/a27770.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "d9/d65/a27770.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "d9/d65/a27770.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "d9/d65/a27770.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "d9/d65/a27770.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "d9/d65/a27770.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "d9/d65/a27770.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "d9/d65/a27770.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "d9/d65/a27770.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "d9/d65/a27770.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "d9/d65/a27770.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "npc_target_dummyAI", "d9/d65/a27770.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "d9/d65/a27770.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "d9/d65/a27770.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "d9/d65/a27770.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "d9/d65/a27770.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "d9/d65/a27770.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

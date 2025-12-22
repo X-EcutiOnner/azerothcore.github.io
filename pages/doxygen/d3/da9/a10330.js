@@ -1,6 +1,5 @@
 var a10330 =
 [
-    [ "ConditionScript", "d3/da9/a10330.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "d3/da9/a10330.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "d3/da9/a10330.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "CommandScript", "d3/da9/a10330.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d3/da9/a10330.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

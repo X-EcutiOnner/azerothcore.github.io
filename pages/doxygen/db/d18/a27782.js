@@ -1,6 +1,10 @@
 var a27782 =
 [
-    [ "npc_garments_of_questsAI", "dc/dbf/a27786.html", "dc/dbf/a27786" ],
-    [ "npc_garments_of_quests", "db/d18/a27782.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "db/d18/a27782.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_air_force_botsAI", "db/d18/a27782.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "db/d18/a27782.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "db/d18/a27782.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "db/d18/a27782.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "db/d18/a27782.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "db/d18/a27782.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "db/d18/a27782.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,6 +1,5 @@
 var a20698 =
 [
-    [ "boss_razorscaleAI", "d1/d64/a20702.html", "d1/d64/a20702" ],
-    [ "boss_razorscale", "df/d9d/a20698.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "df/d9d/a20698.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "df/d9d/a20698.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "df/d9d/a20698.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

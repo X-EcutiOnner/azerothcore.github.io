@@ -1,6 +1,6 @@
 var a29976 =
 [
-    [ "ChannelID", "de/d76/a29976.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "de/d76/a29976.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "de/d76/a29976.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "ComputeBaseUnitDim", "de/d76/a29976.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "isCurrentDirectory", "de/d76/a29976.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "de/d76/a29976.html#a45540263b1795bfc48c91a117c239a6c", null ]
 ];

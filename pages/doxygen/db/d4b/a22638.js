@@ -1,5 +1,6 @@
 var a22638 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "db/d4b/a22638.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "db/d4b/a22638.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_captured_rageclawAI", "db/d4b/a22638.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "db/d4b/a22638.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "db/d4b/a22638.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

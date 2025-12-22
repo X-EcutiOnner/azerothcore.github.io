@@ -1,6 +1,12 @@
 var a13526 =
 [
-    [ "SpectralBlastCheck", "dd/de8/a13526.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "dd/de8/a13526.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "dd/de8/a13526.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "boss_sathrovarr", "dd/de8/a13526.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "dd/de8/a13526.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "dd/de8/a13526.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "dd/de8/a13526.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "dd/de8/a13526.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "dd/de8/a13526.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "dd/de8/a13526.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "dd/de8/a13526.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "dd/de8/a13526.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

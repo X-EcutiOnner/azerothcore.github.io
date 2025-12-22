@@ -1,6 +1,5 @@
 var a24554 =
 [
-    [ "PrepareSpellScript", "d0/d27/a24554.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "d0/d27/a24554.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "d0/d27/a24554.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "d0/d27/a24554.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "d0/d27/a24554.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

@@ -1,6 +1,14 @@
 var a15386 =
 [
-    [ "boss_veknilash", "da/da8/a15386.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "da/da8/a15386.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "da/da8/a15386.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "boss_twinemperorsAI", "da/da8/a15386.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "da/da8/a15386.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "da/da8/a15386.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "da/da8/a15386.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "da/da8/a15386.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "da/da8/a15386.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "da/da8/a15386.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "da/da8/a15386.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "da/da8/a15386.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "da/da8/a15386.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "da/da8/a15386.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

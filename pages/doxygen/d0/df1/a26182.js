@@ -1,6 +1,7 @@
 var a26182 =
 [
-    [ "HandleDummy", "d0/df1/a26182.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "d0/df1/a26182.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "d0/df1/a26182.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "CheckCast", "d0/df1/a26182.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "d0/df1/a26182.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "d0/df1/a26182.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "d0/df1/a26182.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

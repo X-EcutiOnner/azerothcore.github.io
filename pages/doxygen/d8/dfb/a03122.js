@@ -1,10 +1,10 @@
 var a03122 =
 [
-    [ "WeeklyQuest", "d9/dc5/a19074.html", "d9/dc5/a19074" ],
-    [ "RespawnEvent", "df/d7e/a19078.html", "df/d7e/a19078" ],
-    [ "DelayedCastMincharEvent", "d3/d30/a19082.html", "d3/d30/a19082" ],
-    [ "instance_icecrown_citadel", "d7/d07/a19086.html", "d7/d07/a19086" ],
-    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "dc/da4/a19090.html", "dc/da4/a19090" ],
+    [ "WeeklyQuest", "df/d7e/a19078.html", "df/d7e/a19078" ],
+    [ "RespawnEvent", "d3/d30/a19082.html", "d3/d30/a19082" ],
+    [ "DelayedCastMincharEvent", "d7/d07/a19086.html", "d7/d07/a19086" ],
+    [ "instance_icecrown_citadel", "dc/da4/a19090.html", "dc/da4/a19090" ],
+    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d1/d49/a19094.html", "d1/d49/a19094" ],
     [ "EventIds", "d8/dfb/a03122.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "d5/d35/a03716.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "d5/d35/a03716.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],
@@ -2159,6 +2159,7 @@ var a03122 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

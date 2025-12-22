@@ -1,6 +1,11 @@
 var a29110 =
 [
-    [ "go_gilded_brazierAI", "da/d9f/a29114.html", "da/d9f/a29114" ],
-    [ "go_gilded_brazier", "de/d72/a29110.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "de/d72/a29110.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "material", "de/d72/a29110.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "de/d72/a29110.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "de/d72/a29110.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "de/d72/a29110.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "de/d72/a29110.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "de/d72/a29110.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "de/d72/a29110.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "de/d72/a29110.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

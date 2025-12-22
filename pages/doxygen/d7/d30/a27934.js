@@ -1,7 +1,9 @@
 var a27934 =
 [
-    [ "HandleDummy", "d7/d30/a27934.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d7/d30/a27934.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d7/d30/a27934.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d7/d30/a27934.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_necropolis_health", "d7/d30/a27934.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "d7/d30/a27934.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "d7/d30/a27934.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "d7/d30/a27934.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "d7/d30/a27934.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "d7/d30/a27934.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

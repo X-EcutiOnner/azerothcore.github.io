@@ -1,8 +1,8 @@
 var a22502 =
 [
-    [ "npc_wg_spirit_guideAI", "d6/d15/a22506.html", "d6/d15/a22506" ],
-    [ "npc_wg_spirit_guide", "d3/d0e/a22502.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d3/d0e/a22502.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d3/d0e/a22502.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d3/d0e/a22502.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "spell_loosen_grip", "d3/d0e/a22502.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d3/d0e/a22502.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d3/d0e/a22502.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d3/d0e/a22502.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d3/d0e/a22502.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

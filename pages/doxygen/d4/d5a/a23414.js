@@ -1,6 +1,6 @@
 var a23414 =
 [
-    [ "HandleApplyAura", "d4/d5a/a23414.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d4/d5a/a23414.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d4/d5a/a23414.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "FilterTargets", "d4/d5a/a23414.html#af545460920658bc8ee0444f7c0d51970", null ],
+    [ "PrepareSpellScript", "d4/d5a/a23414.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
+    [ "Register", "d4/d5a/a23414.html#ac12cde698f5b0bbcdf433821772c7519", null ]
 ];

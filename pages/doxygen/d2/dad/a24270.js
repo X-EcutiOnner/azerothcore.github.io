@@ -1,7 +1,7 @@
 var a24270 =
 [
-    [ "npc_bessyAI", "d2/d1c/a24274.html", "d2/d1c/a24274" ],
-    [ "npc_bessy", "d2/dad/a24270.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d2/dad/a24270.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d2/dad/a24270.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_kurenai_captiveAI", "d2/d1c/a24274.html", "d2/d1c/a24274" ],
+    [ "npc_kurenai_captive", "d2/dad/a24270.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d2/dad/a24270.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d2/dad/a24270.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

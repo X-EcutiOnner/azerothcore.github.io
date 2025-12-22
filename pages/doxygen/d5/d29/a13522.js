@@ -1,12 +1,7 @@
 var a13522 =
 [
-    [ "boss_sathrovarr", "d5/d29/a13522.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "d5/d29/a13522.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "d5/d29/a13522.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "d5/d29/a13522.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "d5/d29/a13522.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "d5/d29/a13522.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "d5/d29/a13522.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "d5/d29/a13522.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "d5/d29/a13522.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "boss_kalec", "d5/d29/a13522.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d5/d29/a13522.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d5/d29/a13522.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d5/d29/a13522.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

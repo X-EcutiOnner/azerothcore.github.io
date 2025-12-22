@@ -1,5 +1,5 @@
 var a27234 =
 [
-    [ "achievement_bg_av_perfection", "da/d05/a27234.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "da/d05/a27234.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "achievement_bg_control_all_nodes", "da/d05/a27234.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "da/d05/a27234.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

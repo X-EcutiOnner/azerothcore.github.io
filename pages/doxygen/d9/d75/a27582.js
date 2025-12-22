@@ -1,10 +1,5 @@
 var a27582 =
 [
-    [ "guard_shattrath_scryerAI", "d9/d75/a27582.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d9/d75/a27582.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d9/d75/a27582.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d9/d75/a27582.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d9/d75/a27582.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d9/d75/a27582.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d9/d75/a27582.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_dragonflayer_cage", "d9/d75/a27582.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d9/d75/a27582.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

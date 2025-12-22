@@ -1,6 +1,5 @@
 var a22854 =
 [
-    [ "PrepareSpellScript", "db/d08/a22854.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "db/d08/a22854.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "db/d08/a22854.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "db/d08/a22854.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "db/d08/a22854.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

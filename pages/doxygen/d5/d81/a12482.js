@@ -1,9 +1,10 @@
 var a12482 =
 [
-    [ "npc_drakonid_spawner", "d5/d81/a12482.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d5/d81/a12482.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d5/d81/a12482.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d5/d81/a12482.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d5/d81/a12482.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d5/d81/a12482.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "npc_corrupted_totem", "d5/d81/a12482.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d5/d81/a12482.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d5/d81/a12482.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d5/d81/a12482.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d5/d81/a12482.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d5/d81/a12482.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d5/d81/a12482.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

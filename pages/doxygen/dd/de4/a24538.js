@@ -1,16 +1,19 @@
 var a24538 =
 [
-    [ "npc_pet_gen_argent_pony_bridle", "dd/de4/a24538.html#a9df25627a92b8914ab8009be099f15d4", null ],
-    [ "DoAction", "dd/de4/a24538.html#a4c08ed385886a118c165925602b1dff7", null ],
-    [ "EnterEvadeMode", "dd/de4/a24538.html#a897e72a4bf279607903bce58a5a45c6f", null ],
-    [ "GetData", "dd/de4/a24538.html#a862546ec66d8282c87169305711e4ec7", null ],
-    [ "OnGossipHello", "dd/de4/a24538.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
-    [ "OnGossipSelect", "dd/de4/a24538.html#a36f15c2c0ec3466b492148303e828403", null ],
-    [ "Reset", "dd/de4/a24538.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
-    [ "UpdateAI", "dd/de4/a24538.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
-    [ "_banners", "dd/de4/a24538.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
-    [ "_init", "dd/de4/a24538.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
-    [ "_lastAura", "dd/de4/a24538.html#a4abeb86eb0179a77d47d737d67495411", null ],
-    [ "_mountTimer", "dd/de4/a24538.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
-    [ "_state", "dd/de4/a24538.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
+    [ "npc_pet_dk_ebon_gargoyle", "dd/de4/a24538.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
+    [ "AttackStart", "dd/de4/a24538.html#ae5408b18b589fb483095450bf1338b2f", null ],
+    [ "FlyAway", "dd/de4/a24538.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
+    [ "InitializeAI", "dd/de4/a24538.html#a05e7d29c738dcc280603ab12a82b819b", null ],
+    [ "MovementInform", "dd/de4/a24538.html#a33e0260425cf179daae147bfc1a570b4", null ],
+    [ "MySelectNextTarget", "dd/de4/a24538.html#af86f48070b8c329c6a6a3f43d0156273", null ],
+    [ "RemoveTargetAura", "dd/de4/a24538.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
+    [ "Reset", "dd/de4/a24538.html#aa719acf874e7588ed6b73c437fb6765b", null ],
+    [ "UpdateAI", "dd/de4/a24538.html#a998a0401bd975cc7d0da7fb33670a503", null ],
+    [ "_decisionTimer", "dd/de4/a24538.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
+    [ "_despawning", "dd/de4/a24538.html#abca2ddc0628899b0c5bd35210e303d00", null ],
+    [ "_despawnTimer", "dd/de4/a24538.html#a8135321f4e5c01dc71e13f719e43d056", null ],
+    [ "_initialCastTimer", "dd/de4/a24538.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
+    [ "_initialSelection", "dd/de4/a24538.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
+    [ "_selectionTimer", "dd/de4/a24538.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
+    [ "_targetGUID", "dd/de4/a24538.html#a8299788ca453930977a605a2766d9e8d", null ]
 ];

@@ -1,9 +1,7 @@
 var a18562 =
 [
-    [ "FilterTargets", "d5/de7/a18562.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d5/de7/a18562.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d5/de7/a18562.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d5/de7/a18562.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d5/de7/a18562.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d5/de7/a18562.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "CalculateBonus", "d5/de7/a18562.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d5/de7/a18562.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d5/de7/a18562.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d5/de7/a18562.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

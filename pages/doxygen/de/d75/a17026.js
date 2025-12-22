@@ -1,14 +1,6 @@
 var a17026 =
 [
-    [ "boss_marwynAI", "de/d75/a17026.html#abfc074b89e4edcf461c4df4d00c90856", null ],
-    [ "DoAction", "de/d75/a17026.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
-    [ "EnterEvadeMode", "de/d75/a17026.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
-    [ "JustDied", "de/d75/a17026.html#a11f64dbf0333c212584d441d4b719d9c", null ],
-    [ "JustEngagedWith", "de/d75/a17026.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
-    [ "KilledUnit", "de/d75/a17026.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
-    [ "Reset", "de/d75/a17026.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
-    [ "UpdateAI", "de/d75/a17026.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
-    [ "events", "de/d75/a17026.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
-    [ "pInstance", "de/d75/a17026.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
-    [ "startFightTimer", "de/d75/a17026.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
+    [ "boss_marwynAI", "dc/d13/a17030.html", "dc/d13/a17030" ],
+    [ "boss_marwyn", "de/d75/a17026.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "de/d75/a17026.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

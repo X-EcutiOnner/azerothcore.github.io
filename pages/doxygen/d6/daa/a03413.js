@@ -1,10 +1,10 @@
 var a03413 =
 [
-    [ "instance_uldaman", "dc/d03/a13690.html", "dc/d03/a13690" ],
-    [ "instance_uldaman::instance_uldaman_InstanceMapScript", "d8/db0/a13694.html", "d8/db0/a13694" ],
-    [ "spell_uldaman_sub_boss_agro_keepers", "d3/d5b/a13698.html", "d3/d5b/a13698" ],
-    [ "spell_uldaman_stoned_aura", "d7/d64/a13702.html", "d7/d64/a13702" ],
-    [ "spell_uldaman_boss_agro_archaedas", "d1/d4e/a13706.html", "d1/d4e/a13706" ],
+    [ "instance_uldaman", "d8/db0/a13694.html", "d8/db0/a13694" ],
+    [ "instance_uldaman::instance_uldaman_InstanceMapScript", "d3/d5b/a13698.html", "d3/d5b/a13698" ],
+    [ "spell_uldaman_sub_boss_agro_keepers", "d7/d64/a13702.html", "d7/d64/a13702" ],
+    [ "spell_uldaman_stoned_aura", "d1/d4e/a13706.html", "d1/d4e/a13706" ],
+    [ "spell_uldaman_boss_agro_archaedas", "d7/d05/a13710.html", "d7/d05/a13710" ],
     [ "Events", "d6/daa/a03413.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -3311,6 +3311,7 @@ var a03413 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

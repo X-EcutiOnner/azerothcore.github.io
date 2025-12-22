@@ -1,5 +1,6 @@
 var a13070 =
 [
-    [ "boss_apoko", "d1/d06/a13070.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d1/d06/a13070.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "boss_garaxxas", "d1/d06/a13070.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d1/d06/a13070.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d1/d06/a13070.html#a56e6489ce49971cb066444888355626e", null ]
 ];

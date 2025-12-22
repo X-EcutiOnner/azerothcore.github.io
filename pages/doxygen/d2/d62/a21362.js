@@ -1,6 +1,5 @@
 var a21362 =
 [
-    [ "HandleDummyEffect", "d2/d62/a21362.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d2/d62/a21362.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d2/d62/a21362.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ritual_channelerAI", "d2/d62/a21362.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d2/d62/a21362.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

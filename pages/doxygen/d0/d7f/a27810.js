@@ -1,8 +1,6 @@
 var a27810 =
 [
-    [ "npc_wormholeAI", "df/de6/a27814.html", "df/de6/a27814" ],
-    [ "npc_wormhole", "d0/d7f/a27810.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "d0/d7f/a27810.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "d0/d7f/a27810.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "d0/d7f/a27810.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_injured_patientAI", "df/de6/a27814.html", "df/de6/a27814" ],
+    [ "npc_injured_patient", "d0/d7f/a27810.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d0/d7f/a27810.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

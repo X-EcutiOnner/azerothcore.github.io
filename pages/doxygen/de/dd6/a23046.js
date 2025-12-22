@@ -1,7 +1,6 @@
 var a23046 =
 [
-    [ "SuckBackEvent", "de/dd6/a23046.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "de/dd6/a23046.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "de/dd6/a23046.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "de/dd6/a23046.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleScriptEffect", "de/dd6/a23046.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
+    [ "PrepareSpellScript", "de/dd6/a23046.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
+    [ "Register", "de/dd6/a23046.html#a99e2243ca4372eab1a742f8979d61334", null ]
 ];

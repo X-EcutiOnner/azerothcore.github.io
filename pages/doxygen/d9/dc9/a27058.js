@@ -1,8 +1,8 @@
 var a27058 =
 [
-    [ "ApplyEffect", "d9/dc9/a27058.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d9/dc9/a27058.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d9/dc9/a27058.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d9/dc9/a27058.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d9/dc9/a27058.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "CheckProc", "d9/dc9/a27058.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d9/dc9/a27058.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d9/dc9/a27058.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d9/dc9/a27058.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d9/dc9/a27058.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

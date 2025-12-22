@@ -1,6 +1,7 @@
 var a18258 =
 [
-    [ "HandleSpecial", "df/da5/a18258.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "df/da5/a18258.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "df/da5/a18258.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandleScript", "df/da5/a18258.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "df/da5/a18258.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "df/da5/a18258.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "df/da5/a18258.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

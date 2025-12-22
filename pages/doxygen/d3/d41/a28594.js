@@ -1,7 +1,8 @@
 var a28594 =
 [
-    [ "Flags", "d3/d41/a28594.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d3/d41/a28594.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d3/d41/a28594.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d3/d41/a28594.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "canLink", "d3/d41/a28594.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d3/d41/a28594.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d3/d41/a28594.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d3/d41/a28594.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d3/d41/a28594.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

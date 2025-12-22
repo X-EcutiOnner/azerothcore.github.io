@@ -1,6 +1,6 @@
 var a25882 =
 [
-    [ "FilterTargets", "dc/dee/a25882.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "dc/dee/a25882.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "dc/dee/a25882.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "CalculateAmount", "dc/dee/a25882.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "dc/dee/a25882.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "dc/dee/a25882.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

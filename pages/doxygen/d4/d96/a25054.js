@@ -1,7 +1,6 @@
 var a25054 =
 [
-    [ "HandleApply", "d4/d96/a25054.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d4/d96/a25054.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d4/d96/a25054.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d4/d96/a25054.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "CheckProc", "d4/d96/a25054.html#afa477049b9a4fa18594b203a6066d205", null ],
+    [ "PrepareAuraScript", "d4/d96/a25054.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
+    [ "Register", "d4/d96/a25054.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
 ];

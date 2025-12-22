@@ -1,6 +1,6 @@
 var a25130 =
 [
-    [ "CheckAreaTarget", "d2/d1b/a25130.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d2/d1b/a25130.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d2/d1b/a25130.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "ModDest", "d2/d1b/a25130.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d2/d1b/a25130.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d2/d1b/a25130.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

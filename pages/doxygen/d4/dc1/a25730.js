@@ -1,7 +1,7 @@
 var a25730 =
 [
-    [ "HandleDummy", "d4/dc1/a25730.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d4/dc1/a25730.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d4/dc1/a25730.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d4/dc1/a25730.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "CalcPeriodic", "d4/dc1/a25730.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d4/dc1/a25730.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d4/dc1/a25730.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d4/dc1/a25730.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

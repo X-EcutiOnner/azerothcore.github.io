@@ -1,11 +1,11 @@
 var a03650 =
 [
-    [ "boss_chromaggus", "d4/d93/a12414.html", "d4/d93/a12414" ],
-    [ "boss_chromaggus::boss_chromaggusAI", "de/d17/a12418.html", "de/d17/a12418" ],
-    [ "go_chromaggus_lever", "d6/d8d/a12422.html", "d6/d8d/a12422" ],
-    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d7/d02/a12426.html", "d7/d02/a12426" ],
-    [ "spell_gen_elemental_shield", "d8/d54/a12430.html", "d8/d54/a12430" ],
-    [ "spell_gen_brood_power", "d0/d73/a12434.html", "d0/d73/a12434" ],
+    [ "boss_chromaggus", "de/d17/a12418.html", "de/d17/a12418" ],
+    [ "boss_chromaggus::boss_chromaggusAI", "d6/d8d/a12422.html", "d6/d8d/a12422" ],
+    [ "go_chromaggus_lever", "d7/d02/a12426.html", "d7/d02/a12426" ],
+    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d8/d54/a12430.html", "d8/d54/a12430" ],
+    [ "spell_gen_elemental_shield", "d0/d73/a12434.html", "d0/d73/a12434" ],
+    [ "spell_gen_brood_power", "de/daf/a12438.html", "de/daf/a12438" ],
     [ "ElementalShieldSpells", "d9/d3c/a03650.html#a7cc21086b00c27f6dd4ccd562708ec6a", [
       [ "SPELL_FIRE_ELEMENTAL_SHIELD", "d9/d3c/a03650.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224", null ],
       [ "SPELL_FROST_ELEMENTAL_SHIELD", "d9/d3c/a03650.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de", null ],
@@ -4055,6 +4055,7 @@ var a03650 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

@@ -1,6 +1,7 @@
 var a23190 =
 [
-    [ "instance_black_temple_InstanceMapScript", "da/db1/a23194.html", "da/db1/a23194" ],
-    [ "instance_black_temple", "de/d5e/a23190.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "de/d5e/a23190.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "CalculateAmount", "de/d5e/a23190.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "de/d5e/a23190.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "de/d5e/a23190.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "de/d5e/a23190.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

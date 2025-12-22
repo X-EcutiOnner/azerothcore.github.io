@@ -1,5 +1,5 @@
 var a27542 =
 [
-    [ "go_soulwellAI", "d4/d3b/a27542.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d4/d3b/a27542.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_tele_to_dalaran_crystal", "d4/d3b/a27542.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d4/d3b/a27542.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

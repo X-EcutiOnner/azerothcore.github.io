@@ -1,9 +1,9 @@
 var a03635 =
 [
-    [ "boss_razorgore", "d7/d82/a12514.html", "d7/d82/a12514" ],
-    [ "boss_razorgore::boss_razorgoreAI", "d8/d01/a12518.html", "d8/d01/a12518" ],
-    [ "go_orb_of_domination", "da/de7/a12522.html", "da/de7/a12522" ],
-    [ "spell_egg_event", "d7/d6a/a12526.html", "d7/d6a/a12526" ],
+    [ "boss_razorgore", "d8/d01/a12518.html", "d8/d01/a12518" ],
+    [ "boss_razorgore::boss_razorgoreAI", "da/de7/a12522.html", "da/de7/a12522" ],
+    [ "go_orb_of_domination", "d7/d6a/a12526.html", "d7/d6a/a12526" ],
+    [ "spell_egg_event", "d0/da7/a12530.html", "d0/da7/a12530" ],
     [ "EVENTS", "dc/d6c/a03635.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_CLEAVE", "dc/d6c/a03635.html#a0383e5bf22653a832beeabda82c1eeb3ad4266671217cc53e473a6844d92ef36a", null ],
       [ "EVENT_STOMP", "dc/d6c/a03635.html#a0383e5bf22653a832beeabda82c1eeb3aae6a7bd26e8ee17a505a5f6c6f720316", null ],
@@ -2205,6 +2205,7 @@ var a03635 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

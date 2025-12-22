@@ -1,12 +1,15 @@
 var a28970 =
 [
-    [ "cellSizeHorizontal", "da/d4f/a28970.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "da/d4f/a28970.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "da/d4f/a28970.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "da/d4f/a28970.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "da/d4f/a28970.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "da/d4f/a28970.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "da/d4f/a28970.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "da/d4f/a28970.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "da/d4f/a28970.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "prepareLoadedData", "da/d4f/a28970.html#ace847b2eee40844bb3fa880e3c1d1aa5", null ],
+    [ "data1", "da/d4f/a28970.html#a9e2886eb133eb0e0bc8fa21a5b166d20", null ],
+    [ "data2", "da/d4f/a28970.html#a53f0a49fd2de7f29032556fe3a4e9110", null ],
+    [ "data3", "da/d4f/a28970.html#a2092bb81ccdea07c4752a2df49cba4c2", null ],
+    [ "data4", "da/d4f/a28970.html#a2bfc7b7268caaa684c6fece0d0769b9e", null ],
+    [ "data5", "da/d4f/a28970.html#a9536fcb98293d1c09a1975b753f02ae8", null ],
+    [ "data6", "da/d4f/a28970.html#ad43914a6df430c32a0c2f56bb8f1f4d7", null ],
+    [ "data7", "da/d4f/a28970.html#a7508e9fa38ab965ecf8e21b1f859a918", null ],
+    [ "data8", "da/d4f/a28970.html#ae926543e029695e268ed950edf625bdb", null ],
+    [ "fcc", "da/d4f/a28970.html#aa0ccc34e7e7a2de4e9866819dbe0c72a", null ],
+    [ "fcc_txt", "da/d4f/a28970.html#aaa61a13b39e23a3efba960645e3e14a9", null ],
+    [ "size", "da/d4f/a28970.html#a1af89d5193eff2f32cf37d131f9ef7b8", null ]
 ];

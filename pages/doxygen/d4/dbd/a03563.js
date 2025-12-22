@@ -1,9 +1,9 @@
 var a03563 =
 [
-    [ "PlayerAbilityStruct", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
-    [ "boss_hexlord_malacrass", "d8/da9/a14014.html", "d8/da9/a14014" ],
-    [ "boss_alyson_antille", "dd/d8f/a14018.html", "dd/d8f/a14018" ],
-    [ "spell_hexlord_unstable_affliction", "d0/dcb/a14022.html", "d0/dcb/a14022" ],
+    [ "PlayerAbilityStruct", "d8/da9/a14014.html", "d8/da9/a14014" ],
+    [ "boss_hexlord_malacrass", "dd/d8f/a14018.html", "dd/d8f/a14018" ],
+    [ "boss_alyson_antille", "d0/dcb/a14022.html", "d0/dcb/a14022" ],
+    [ "spell_hexlord_unstable_affliction", "d0/df0/a14026.html", "d0/df0/a14026" ],
     [ "AbilityTarget", "d4/dbd/a03563.html#adfb3b9eec5ef9b543982c5266b78f0c4", [
       [ "ABILITY_TARGET_SELF", "d4/dbd/a03563.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68", null ],
       [ "ABILITY_TARGET_VICTIM", "d4/dbd/a03563.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901", null ],
@@ -3563,6 +3563,7 @@ var a03563 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

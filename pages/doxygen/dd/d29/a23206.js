@@ -1,8 +1,9 @@
 var a23206 =
 [
-    [ "CalcPeriodic", "dd/d29/a23206.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "dd/d29/a23206.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "dd/d29/a23206.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "dd/d29/a23206.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "dd/d29/a23206.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "boss_najentus", "dd/d29/a23206.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "dd/d29/a23206.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "dd/d29/a23206.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "dd/d29/a23206.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "dd/d29/a23206.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "dd/d29/a23206.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

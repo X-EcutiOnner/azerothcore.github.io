@@ -1,8 +1,8 @@
 var a02288 =
 [
-    [ "boss_rajaxx", "d3/d76/a15238.html", "d3/d76/a15238" ],
-    [ "spell_rajaxx_thundercrash", "da/d64/a15242.html", "da/d64/a15242" ],
-    [ "npc_general_andorov", "da/d79/a15246.html", "da/d79/a15246" ],
+    [ "boss_rajaxx", "da/d64/a15242.html", "da/d64/a15242" ],
+    [ "spell_rajaxx_thundercrash", "da/d79/a15246.html", "da/d79/a15246" ],
+    [ "npc_general_andorov", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
     [ "AndorovMisc", "dc/d1a/a02288.html#adfc3eda6f1c0f62c59171b07b63a3b70", [
       [ "FACTION_ANDOROV_ESCORT", "dc/d1a/a02288.html#adfc3eda6f1c0f62c59171b07b63a3b70a5f587733fae72c0e10bf101bdf781343", null ],
       [ "SPELL_AURA_OF_COMMAND", "dc/d1a/a02288.html#adfc3eda6f1c0f62c59171b07b63a3b70a66c411861d5bf2a38581a29d3e18ddbc", null ],
@@ -3321,6 +3321,7 @@ var a02288 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

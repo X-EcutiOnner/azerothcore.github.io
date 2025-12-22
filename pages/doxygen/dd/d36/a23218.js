@@ -1,6 +1,6 @@
 var a23218 =
 [
-    [ "PrepareAuraScript", "dd/d36/a23218.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "dd/d36/a23218.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "dd/d36/a23218.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "PrepareSpellScript", "dd/d36/a23218.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "dd/d36/a23218.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "dd/d36/a23218.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

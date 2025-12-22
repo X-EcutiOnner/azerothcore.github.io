@@ -1,7 +1,6 @@
 var a26482 =
 [
-    [ "if", "da/d64/a26482.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "da/d64/a26482.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "da/d64/a26482.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "da/d64/a26482.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "HandleDamage", "da/d64/a26482.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "da/d64/a26482.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "da/d64/a26482.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

@@ -1,9 +1,9 @@
 var a02393 =
 [
-    [ "boss_azuregos", "d6/d50/a14790.html", "d6/d50/a14790" ],
-    [ "boss_azuregos::boss_azuregosAI", "d3/de2/a14794.html", "d3/de2/a14794" ],
-    [ "spell_arcane_vacuum", "d8/d7d/a14798.html", "d8/d7d/a14798" ],
-    [ "spell_mark_of_frost_freeze", "d7/d48/a14802.html", "d7/d48/a14802" ],
+    [ "boss_azuregos", "d3/de2/a14794.html", "d3/de2/a14794" ],
+    [ "boss_azuregos::boss_azuregosAI", "d8/d7d/a14798.html", "d8/d7d/a14798" ],
+    [ "spell_arcane_vacuum", "d7/d48/a14802.html", "d7/d48/a14802" ],
+    [ "spell_mark_of_frost_freeze", "df/db3/a14806.html", "df/db3/a14806" ],
     [ "Say", "d1/d29/a02393.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d3/d50/a03632.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d3/d50/a03632.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -2139,6 +2139,7 @@ var a02393 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

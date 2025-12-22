@@ -1,6 +1,10 @@
 var a28926 =
 [
-    [ "id", "dd/d77/a28926.html#a5acc1b246a76073e1c97513251a4143d", null ],
-    [ "id", "dd/d77/a28926.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
-    [ "name", "dd/d77/a28926.html#ae5d1244981224aed1b7477caedd70175", null ]
+    [ "Exception", "dd/d77/a28926.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dd/d77/a28926.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "dd/d77/a28926.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dd/d77/a28926.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "dd/d77/a28926.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "dd/d77/a28926.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "dd/d77/a28926.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

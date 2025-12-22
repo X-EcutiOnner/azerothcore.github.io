@@ -1,8 +1,7 @@
 var a22190 =
 [
-    [ "CheckCast", "de/d50/a22190.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "de/d50/a22190.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "de/d50/a22190.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "de/d50/a22190.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "de/d50/a22190.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "HandleScriptEffect", "de/d50/a22190.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "de/d50/a22190.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "de/d50/a22190.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "de/d50/a22190.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

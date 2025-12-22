@@ -1,6 +1,5 @@
 var a13018 =
 [
-    [ "HandleProc", "d1/d5c/a13018.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d1/d5c/a13018.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d1/d5c/a13018.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "at_karazhan_side_entrance", "d1/d5c/a13018.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "d1/d5c/a13018.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

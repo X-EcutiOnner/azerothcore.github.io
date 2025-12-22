@@ -1,6 +1,6 @@
 var a24434 =
 [
-    [ "npc_kservantAI", "d5/dd4/a24438.html", "d5/dd4/a24438" ],
-    [ "npc_kservant", "d4/da5/a24434.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d4/da5/a24434.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d5/dd4/a24438.html", "d5/dd4/a24438" ],
+    [ "npc_shadowmoon_tuber_node", "d4/da5/a24434.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d4/da5/a24434.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

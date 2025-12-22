@@ -1,6 +1,6 @@
 var a27390 =
 [
-    [ "go_witherbark_totem_bundleAI", "d5/d36/a27390.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d5/d36/a27390.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d5/d36/a27390.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "boss_taerarAI", "df/ddb/a27394.html", "df/ddb/a27394" ],
+    [ "boss_taerar", "d5/d36/a27390.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d5/d36/a27390.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

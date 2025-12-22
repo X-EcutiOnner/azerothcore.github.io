@@ -1,9 +1,6 @@
 var a18010 =
 [
-    [ "CountTargets", "de/d29/a18010.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "de/d29/a18010.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "de/d29/a18010.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "de/d29/a18010.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "de/d29/a18010.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "de/d29/a18010.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "PrepareSpellScript", "de/d29/a18010.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "de/d29/a18010.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "de/d29/a18010.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

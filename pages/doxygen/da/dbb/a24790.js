@@ -1,11 +1,8 @@
 var a24790 =
 [
-    [ "HandleAfterHit", "da/dbb/a24790.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "da/dbb/a24790.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "da/dbb/a24790.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "da/dbb/a24790.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "da/dbb/a24790.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "da/dbb/a24790.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "da/dbb/a24790.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "da/dbb/a24790.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "HandleEffectApply", "da/dbb/a24790.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "da/dbb/a24790.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "da/dbb/a24790.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "da/dbb/a24790.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "da/dbb/a24790.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

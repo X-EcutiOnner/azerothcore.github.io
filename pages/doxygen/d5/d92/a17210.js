@@ -1,6 +1,7 @@
 var a17210 =
 [
-    [ "boss_tyrannusAI", "d2/d39/a17214.html", "d2/d39/a17214" ],
-    [ "boss_tyrannus", "d5/d92/a17210.html#a81373192ffea8817cb72b80f4629da43", null ],
-    [ "GetAI", "d5/d92/a17210.html#ad107030de1427d070305f5dcef96c016", null ]
+    [ "HandlePeriodicTick", "d5/d92/a17210.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d5/d92/a17210.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d5/d92/a17210.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d5/d92/a17210.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

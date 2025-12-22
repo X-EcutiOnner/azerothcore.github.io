@@ -1,11 +1,9 @@
 var a08750 =
 [
-    [ "AuraMunchingQueue", "da/ddf/a08750.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "da/ddf/a08750.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "da/ddf/a08750.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "da/ddf/a08750.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "da/ddf/a08750.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "da/ddf/a08750.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "da/ddf/a08750.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "da/ddf/a08750.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "ProcTriggeredData", "da/ddf/a08750.html#a37c5cbfd0b916b950a0e638223394de4", null ],
+    [ "operator==", "da/ddf/a08750.html#a787760cbd8a6ee5192975bc514886159", null ],
+    [ "aura", "da/ddf/a08750.html#a5138144d49900690bb15a5f66b763eac", null ],
+    [ "effMask", "da/ddf/a08750.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
+    [ "spellProcEvent", "da/ddf/a08750.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
+    [ "triggerSpelId", "da/ddf/a08750.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
 ];

@@ -1,7 +1,6 @@
 var a25170 =
 [
-    [ "HandleScript", "d2/dac/a25170.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "d2/dac/a25170.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "d2/dac/a25170.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "d2/dac/a25170.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleEffectPeriodicUpdate", "d2/dac/a25170.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d2/dac/a25170.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d2/dac/a25170.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

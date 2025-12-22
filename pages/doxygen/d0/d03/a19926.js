@@ -1,6 +1,5 @@
 var a19926 =
 [
-    [ "boss_steelbreakerAI", "db/da7/a19930.html", "db/da7/a19930" ],
-    [ "boss_steelbreaker", "d0/d03/a19926.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d0/d03/a19926.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "achievement_algalon_herald_of_the_titans", "d0/d03/a19926.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "d0/d03/a19926.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

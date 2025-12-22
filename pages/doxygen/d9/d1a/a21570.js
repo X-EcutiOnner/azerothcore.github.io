@@ -1,6 +1,5 @@
 var a21570 =
 [
-    [ "npc_vh_sinclari", "d9/d1a/a21570.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d9/d1a/a21570.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d9/d1a/a21570.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "go_vh_activation_crystal", "d9/d1a/a21570.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d9/d1a/a21570.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

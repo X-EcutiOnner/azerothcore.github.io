@@ -1,5 +1,6 @@
 var a22586 =
 [
-    [ "go_finklestein_cauldron", "db/d7d/a22586.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "db/d7d/a22586.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "CheckCast", "db/d7d/a22586.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "db/d7d/a22586.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "db/d7d/a22586.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

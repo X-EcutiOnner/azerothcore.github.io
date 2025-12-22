@@ -1,7 +1,8 @@
 var a23638 =
 [
-    [ "HandleScriptEffect", "d8/d8f/a23638.html#a534bf39998813f06c48bc920e4666692", null ],
-    [ "PrepareSpellScript", "d8/d8f/a23638.html#a5892f20a0704596cb70a995a73846368", null ],
-    [ "Register", "d8/d8f/a23638.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
-    [ "Validate", "d8/d8f/a23638.html#af618314a13013eaf9f36b30047de0878", null ]
+    [ "npc_underbat", "d8/d8f/a23638.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d8/d8f/a23638.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d8/d8f/a23638.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d8/d8f/a23638.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d8/d8f/a23638.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

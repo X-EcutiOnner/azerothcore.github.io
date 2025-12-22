@@ -1,6 +1,8 @@
 var a23074 =
 [
-    [ "boss_essence_of_angerAI", "d2/d37/a23078.html", "d2/d37/a23078" ],
-    [ "boss_essence_of_anger", "d8/d79/a23074.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d8/d79/a23074.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "FilterTargets", "d8/d79/a23074.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d8/d79/a23074.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d8/d79/a23074.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d8/d79/a23074.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d8/d79/a23074.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

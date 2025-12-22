@@ -1,9 +1,9 @@
 var a17870 =
 [
-    [ "CalculateDamage", "df/d55/a17870.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "df/d55/a17870.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "df/d55/a17870.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "df/d55/a17870.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "df/d55/a17870.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "df/d55/a17870.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "CalculatePower", "df/d55/a17870.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "df/d55/a17870.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "df/d55/a17870.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "df/d55/a17870.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "df/d55/a17870.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "df/d55/a17870.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

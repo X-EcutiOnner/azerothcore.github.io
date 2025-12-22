@@ -1,6 +1,7 @@
 var a18938 =
 [
-    [ "HandleScript", "de/db7/a18938.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "de/db7/a18938.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "de/db7/a18938.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "OnPeriodic", "de/db7/a18938.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "de/db7/a18938.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "de/db7/a18938.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "de/db7/a18938.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

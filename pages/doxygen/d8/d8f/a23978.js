@@ -1,5 +1,6 @@
 var a23978 =
 [
-    [ "npc_lord_sanguinar", "d8/d8f/a23978.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d8/d8f/a23978.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandlePeriodic", "d8/d8f/a23978.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d8/d8f/a23978.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d8/d8f/a23978.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

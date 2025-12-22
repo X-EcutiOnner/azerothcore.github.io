@@ -1,6 +1,7 @@
 var a24198 =
 [
-    [ "npc_fel_guard_houndAI", "d8/d4d/a24202.html", "d8/d4d/a24202" ],
-    [ "npc_fel_guard_hound", "df/d6c/a24198.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "df/d6c/a24198.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "HandleEffect", "df/d6c/a24198.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "df/d6c/a24198.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "df/d6c/a24198.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "df/d6c/a24198.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

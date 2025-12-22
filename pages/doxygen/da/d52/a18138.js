@@ -1,6 +1,5 @@
 var a18138 =
 [
-    [ "boss_rotfaceAI", "dd/de1/a18142.html", "dd/de1/a18142" ],
-    [ "boss_rotface", "da/d52/a18138.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "da/d52/a18138.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "RotfaceHeightCheck", "da/d52/a18138.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "da/d52/a18138.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

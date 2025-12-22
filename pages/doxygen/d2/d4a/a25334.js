@@ -1,7 +1,6 @@
 var a25334 =
 [
-    [ "HandleStun", "d2/d4a/a25334.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d2/d4a/a25334.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d2/d4a/a25334.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d2/d4a/a25334.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleScriptEffect", "d2/d4a/a25334.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "d2/d4a/a25334.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "d2/d4a/a25334.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

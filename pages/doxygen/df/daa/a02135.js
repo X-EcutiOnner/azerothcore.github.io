@@ -1,8 +1,8 @@
 var a02135 =
 [
-    [ "boss_doomlord_kazzak", "dd/ded/a23254.html", "dd/ded/a23254" ],
-    [ "boss_doomlord_kazzak::boss_doomlordkazzakAI", "df/dfc/a23258.html", "df/dfc/a23258" ],
-    [ "spell_mark_of_kazzak_aura", "dc/df8/a23262.html", "dc/df8/a23262" ],
+    [ "boss_doomlord_kazzak", "db/dd3/a23286.html", "db/dd3/a23286" ],
+    [ "boss_doomlord_kazzak::boss_doomlordkazzakAI", "d7/d56/a23290.html", "d7/d56/a23290" ],
+    [ "spell_mark_of_kazzak_aura", "de/df5/a23294.html", "de/df5/a23294" ],
     [ "Spells", "df/daa/a02135.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -2079,6 +2079,7 @@ var a02135 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

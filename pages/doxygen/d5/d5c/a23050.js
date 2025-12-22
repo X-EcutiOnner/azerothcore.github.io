@@ -1,6 +1,6 @@
 var a23050 =
 [
-    [ "boss_reliquary_of_soulsAI", "d7/d78/a23054.html", "d7/d78/a23054" ],
-    [ "boss_reliquary_of_souls", "d5/d5c/a23050.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d5/d5c/a23050.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "PrepareAuraScript", "d5/d5c/a23050.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "d5/d5c/a23050.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "d5/d5c/a23050.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

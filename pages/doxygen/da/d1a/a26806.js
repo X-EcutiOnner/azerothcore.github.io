@@ -1,11 +1,10 @@
 var a26806 =
 [
-    [ "CheckProc", "da/d1a/a26806.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
-    [ "HandleProc", "da/d1a/a26806.html#af29b1d6d8553003514918a383cb08b4a", null ],
-    [ "Load", "da/d1a/a26806.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
-    [ "OnRemove", "da/d1a/a26806.html#a9227147dd6e621deddd0088b95e9db2f", null ],
-    [ "PrepareAuraScript", "da/d1a/a26806.html#a149881d517edbb15032452554fc64948", null ],
-    [ "Register", "da/d1a/a26806.html#ac81d60d54a87a23bd9481934f5753de0", null ],
-    [ "Validate", "da/d1a/a26806.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
-    [ "_redirectTarget", "da/d1a/a26806.html#af3ee2a283d8942ab3652a6386c26f737", null ]
+    [ "Absorb", "da/d1a/a26806.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "da/d1a/a26806.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "da/d1a/a26806.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "da/d1a/a26806.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "da/d1a/a26806.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "da/d1a/a26806.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "da/d1a/a26806.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

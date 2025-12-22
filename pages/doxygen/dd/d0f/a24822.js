@@ -1,7 +1,7 @@
 var a24822 =
 [
-    [ "AfterApply", "dd/d0f/a24822.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "dd/d0f/a24822.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "dd/d0f/a24822.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "dd/d0f/a24822.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "HandleProc", "dd/d0f/a24822.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
+    [ "PrepareAuraScript", "dd/d0f/a24822.html#adf8a9d15a105bb639ae240d6062a7041", null ],
+    [ "Register", "dd/d0f/a24822.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
+    [ "Validate", "dd/d0f/a24822.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
 ];

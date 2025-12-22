@@ -1,6 +1,9 @@
 var a12094 =
 [
-    [ "boss_anubshiahAI", "d3/d2d/a12098.html", "d3/d2d/a12098" ],
-    [ "boss_anubshiah", "df/dac/a12094.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "df/dac/a12094.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "npc_burning_spiritAI", "df/dac/a12094.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "df/dac/a12094.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "df/dac/a12094.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "df/dac/a12094.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "df/dac/a12094.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "df/dac/a12094.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

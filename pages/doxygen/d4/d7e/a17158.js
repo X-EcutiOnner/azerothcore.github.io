@@ -1,5 +1,5 @@
 var a17158 =
 [
-    [ "at_hor_battered_hilt_throw", "d4/d7e/a17158.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d4/d7e/a17158.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "at_hor_battered_hilt_start", "d4/d7e/a17158.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d4/d7e/a17158.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

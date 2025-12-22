@@ -1,8 +1,8 @@
 var a22814 =
 [
-    [ "FilterTargets", "de/dad/a22814.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "de/dad/a22814.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "de/dad/a22814.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "de/dad/a22814.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "de/dad/a22814.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "boss_pandemonius", "de/dad/a22814.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "de/dad/a22814.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "de/dad/a22814.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "de/dad/a22814.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "de/dad/a22814.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

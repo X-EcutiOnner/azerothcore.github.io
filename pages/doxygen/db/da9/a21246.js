@@ -1,9 +1,8 @@
 var a21246 =
 [
-    [ "npc_vrykul_skeleton", "db/da9/a21246.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "db/da9/a21246.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "db/da9/a21246.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "db/da9/a21246.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "db/da9/a21246.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "db/da9/a21246.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "boss_keleseth", "db/da9/a21246.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "db/da9/a21246.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "db/da9/a21246.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "db/da9/a21246.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "db/da9/a21246.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

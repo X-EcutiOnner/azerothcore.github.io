@@ -1,10 +1,6 @@
 var a24086 =
 [
-    [ "npc_raging_flames", "db/d2e/a24086.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "db/d2e/a24086.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "db/d2e/a24086.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "db/d2e/a24086.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "db/d2e/a24086.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "db/d2e/a24086.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "db/d2e/a24086.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "PrepareAuraScript", "db/d2e/a24086.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "db/d2e/a24086.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "db/d2e/a24086.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

@@ -1,5 +1,10 @@
 var a24350 =
 [
-    [ "npc_karynaku", "d5/d89/a24350.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d5/d89/a24350.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "npc_infernal_attackerAI", "d5/d89/a24350.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d5/d89/a24350.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d5/d89/a24350.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d5/d89/a24350.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d5/d89/a24350.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d5/d89/a24350.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d5/d89/a24350.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

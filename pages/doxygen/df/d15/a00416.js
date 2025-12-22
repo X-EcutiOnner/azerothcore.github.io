@@ -1,8 +1,8 @@
 var a00416 =
 [
-    [ "BattlegroundData", "df/d7f/a07354.html", "df/d7f/a07354" ],
-    [ "BattlegroundTemplate", "d7/daf/a07358.html", "d7/daf/a07358" ],
-    [ "BattlegroundMgr", "d4/d99/a07362.html", "d4/d99/a07362" ],
+    [ "BattlegroundData", "d7/daf/a07358.html", "d7/daf/a07358" ],
+    [ "BattlegroundTemplate", "d4/d99/a07362.html", "d4/d99/a07362" ],
+    [ "BattlegroundMgr", "d2/d7a/a07366.html", "d2/d7a/a07366" ],
     [ "sBattlegroundMgr", "df/d15/a00416.html#abe50926a988d0fff4ee6ba0358c6b278", null ],
     [ "BattlegroundClientIdsContainer", "df/d15/a00416.html#aa4d7efc49483e1820c6d759f0f3613f2", null ],
     [ "BattlegroundContainer", "df/d15/a00416.html#a33858c5514cd62b25f056e4ba170de59", null ],

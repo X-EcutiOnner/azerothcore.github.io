@@ -1,11 +1,12 @@
 var a22830 =
 [
-    [ "boss_blackheart_the_inciter", "d1/d69/a22830.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d1/d69/a22830.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d1/d69/a22830.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d1/d69/a22830.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d1/d69/a22830.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d1/d69/a22830.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d1/d69/a22830.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d1/d69/a22830.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "boss_anzu", "d1/d69/a22830.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d1/d69/a22830.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d1/d69/a22830.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d1/d69/a22830.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d1/d69/a22830.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d1/d69/a22830.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d1/d69/a22830.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d1/d69/a22830.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d1/d69/a22830.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

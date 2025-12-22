@@ -1,6 +1,6 @@
 var a24446 =
 [
-    [ "PrepareSpellScript", "dc/d8e/a24446.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "dc/d8e/a24446.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "dc/d8e/a24446.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "PrepareSpellScript", "dc/d8e/a24446.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "dc/d8e/a24446.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "dc/d8e/a24446.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

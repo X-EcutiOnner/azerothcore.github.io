@@ -1,10 +1,6 @@
 var a24318 =
 [
-    [ "npc_infernal_attackerAI", "d9/d97/a24318.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d9/d97/a24318.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d9/d97/a24318.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d9/d97/a24318.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d9/d97/a24318.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d9/d97/a24318.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d9/d97/a24318.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "CheckCast", "d9/d97/a24318.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d9/d97/a24318.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d9/d97/a24318.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

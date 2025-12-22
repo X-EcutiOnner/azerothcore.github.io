@@ -1,10 +1,8 @@
 var a23658 =
 [
-    [ "boss_blindeye_the_seer", "d9/dcf/a23658.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d9/dcf/a23658.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d9/dcf/a23658.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d9/dcf/a23658.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d9/dcf/a23658.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d9/dcf/a23658.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d9/dcf/a23658.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "ApplyStun", "d9/dcf/a23658.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d9/dcf/a23658.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d9/dcf/a23658.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d9/dcf/a23658.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d9/dcf/a23658.html#a66d91a87078c663903cd836344eec867", null ]
 ];

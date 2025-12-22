@@ -1,6 +1,7 @@
 var a10594 =
 [
-    [ "EmoteClient", "de/d21/a10594.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "de/d21/a10594.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "de/d21/a10594.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "Emote", "de/d21/a10594.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "de/d21/a10594.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "de/d21/a10594.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "de/d21/a10594.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

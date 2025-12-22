@@ -1,6 +1,8 @@
 var a26738 =
 [
-    [ "PrepareAuraScript", "d8/d10/a26738.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d8/d10/a26738.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d8/d10/a26738.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "HandleScript", "d8/d10/a26738.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "d8/d10/a26738.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "d8/d10/a26738.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "d8/d10/a26738.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "d8/d10/a26738.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

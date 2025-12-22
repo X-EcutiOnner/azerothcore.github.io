@@ -1,6 +1,8 @@
 var a20630 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d8/df4/a20634.html", "d8/df4/a20634" ],
-    [ "npc_ulduar_bot_summon_trigger", "d4/dbd/a20630.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
-    [ "GetAI", "d4/dbd/a20630.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d4/dbd/a20630.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "d4/dbd/a20630.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "d4/dbd/a20630.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "d4/dbd/a20630.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "d4/dbd/a20630.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

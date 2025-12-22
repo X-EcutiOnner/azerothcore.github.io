@@ -1,8 +1,8 @@
 var a23558 =
 [
-    [ "boss_hungarfen", "d8/d04/a23558.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d8/d04/a23558.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d8/d04/a23558.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d8/d04/a23558.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d8/d04/a23558.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "boss_mekgineer_steamrigger", "d8/d04/a23558.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d8/d04/a23558.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d8/d04/a23558.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d8/d04/a23558.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d8/d04/a23558.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

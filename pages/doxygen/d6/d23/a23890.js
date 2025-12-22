@@ -1,8 +1,14 @@
 var a23890 =
 [
-    [ "boss_commander_sarannis", "d6/d23/a23890.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d6/d23/a23890.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d6/d23/a23890.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d6/d23/a23890.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d6/d23/a23890.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_warden_mellicharAI", "d6/d23/a23890.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "d6/d23/a23890.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "d6/d23/a23890.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "d6/d23/a23890.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "d6/d23/a23890.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "d6/d23/a23890.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "d6/d23/a23890.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "d6/d23/a23890.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "d6/d23/a23890.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "d6/d23/a23890.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "d6/d23/a23890.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

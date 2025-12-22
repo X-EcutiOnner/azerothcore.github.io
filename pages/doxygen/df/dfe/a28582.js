@@ -1,5 +1,7 @@
 var a28582 =
 [
-    [ "ID", "df/dfe/a28582.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "df/dfe/a28582.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "Id", "df/dfe/a28582.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "df/dfe/a28582.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "df/dfe/a28582.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "df/dfe/a28582.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

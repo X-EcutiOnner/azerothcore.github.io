@@ -1,6 +1,6 @@
 var a26686 =
 [
-    [ "PrepareSpellScript", "d7/d0d/a26686.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "d7/d0d/a26686.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "d7/d0d/a26686.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "OnApply", "d7/d0d/a26686.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "d7/d0d/a26686.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "d7/d0d/a26686.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

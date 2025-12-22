@@ -1,7 +1,5 @@
 var a27858 =
 [
-    [ "npc_venomhide_hatchlingAI", "d4/d6c/a27862.html", "d4/d6c/a27862" ],
-    [ "npc_venomhide_hatchling", "d2/d7b/a27858.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d2/d7b/a27858.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d2/d7b/a27858.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "npc_pet_trainerAI", "d2/d7b/a27858.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d2/d7b/a27858.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

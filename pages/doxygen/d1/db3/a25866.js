@@ -1,8 +1,6 @@
 var a25866 =
 [
-    [ "HandleProc", "d1/db3/a25866.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d1/db3/a25866.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d1/db3/a25866.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d1/db3/a25866.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d1/db3/a25866.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandleOnEffectHit", "d1/db3/a25866.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
+    [ "PrepareSpellScript", "d1/db3/a25866.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
+    [ "Register", "d1/db3/a25866.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
 ];

@@ -1,7 +1,6 @@
 var a23222 =
 [
-    [ "PrepareAuraScript", "d2/d9b/a23222.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d2/d9b/a23222.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d2/d9b/a23222.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d2/d9b/a23222.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "instance_black_temple_InstanceMapScript", "db/d45/a23226.html", "db/d45/a23226" ],
+    [ "instance_black_temple", "d2/d9b/a23222.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d2/d9b/a23222.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

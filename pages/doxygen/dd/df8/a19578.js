@@ -1,15 +1,6 @@
 var a19578 =
 [
-    [ "boss_eregosAI", "dd/df8/a19578.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "dd/df8/a19578.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "dd/df8/a19578.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "dd/df8/a19578.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "dd/df8/a19578.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "dd/df8/a19578.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "dd/df8/a19578.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "dd/df8/a19578.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "dd/df8/a19578.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "dd/df8/a19578.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "dd/df8/a19578.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "dd/df8/a19578.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "boss_eregosAI", "d8/df6/a19582.html", "d8/df6/a19582" ],
+    [ "boss_eregos", "dd/df8/a19578.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "dd/df8/a19578.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

@@ -1,6 +1,6 @@
 var a27222 =
 [
-    [ "achievement_arena_by_type", "d7/d08/a27222.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d7/d08/a27222.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d7/d08/a27222.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleOnHit", "d7/d08/a27222.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d7/d08/a27222.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d7/d08/a27222.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

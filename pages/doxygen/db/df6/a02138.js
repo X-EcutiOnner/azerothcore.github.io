@@ -1,8 +1,8 @@
 var a02138 =
 [
-    [ "boss_high_astromancer_solarian", "d5/d77/a23958.html", "d5/d77/a23958" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "dc/dfe/a23962.html", "dc/dfe/a23962" ],
-    [ "spell_astromancer_solarian_transform", "df/db4/a23966.html", "df/db4/a23966" ],
+    [ "boss_high_astromancer_solarian", "d1/daf/a23990.html", "d1/daf/a23990" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "d8/d4e/a23994.html", "d8/d4e/a23994" ],
+    [ "spell_astromancer_solarian_transform", "d6/df3/a23998.html", "d6/df3/a23998" ],
     [ "CENTER_O", "db/df6/a02138.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "db/df6/a02138.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "db/df6/a02138.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -2786,6 +2786,7 @@ var a02138 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

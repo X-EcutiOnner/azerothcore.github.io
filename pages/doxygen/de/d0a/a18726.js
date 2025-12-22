@@ -1,6 +1,6 @@
 var a18726 =
 [
-    [ "HandleScript", "de/d0a/a18726.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "de/d0a/a18726.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "de/d0a/a18726.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "HandleScript", "de/d0a/a18726.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "de/d0a/a18726.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "de/d0a/a18726.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

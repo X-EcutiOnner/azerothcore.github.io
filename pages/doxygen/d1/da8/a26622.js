@@ -1,6 +1,5 @@
 var a26622 =
 [
-    [ "HandleDummy", "d1/da8/a26622.html#afb85971597df327fa44271ee0c4b3d04", null ],
-    [ "PrepareSpellScript", "d1/da8/a26622.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
-    [ "Register", "d1/da8/a26622.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d1/da8/a26622.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d1/da8/a26622.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

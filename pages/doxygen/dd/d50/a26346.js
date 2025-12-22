@@ -1,6 +1,6 @@
 var a26346 =
 [
-    [ "HandleDummy", "dd/d50/a26346.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
-    [ "PrepareSpellScript", "dd/d50/a26346.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
-    [ "Register", "dd/d50/a26346.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
+    [ "HandleEffectCalcSpellMod", "dd/d50/a26346.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "dd/d50/a26346.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "dd/d50/a26346.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

@@ -1,10 +1,10 @@
 var a02144 =
 [
-    [ "boss_alar", "da/d00/a23938.html", "da/d00/a23938" ],
-    [ "CastQuill", "d6/dfe/a23942.html", "d6/dfe/a23942" ],
-    [ "spell_alar_flame_quills", "d5/df2/a23946.html", "d5/df2/a23946" ],
-    [ "spell_alar_ember_blast", "d1/d22/a23950.html", "d1/d22/a23950" ],
-    [ "spell_alar_dive_bomb", "d7/d64/a23954.html", "d7/d64/a23954" ],
+    [ "boss_alar", "d4/dda/a23970.html", "d4/dda/a23970" ],
+    [ "CastQuill", "d1/dcb/a23974.html", "d1/dcb/a23974" ],
+    [ "spell_alar_flame_quills", "d8/d8f/a23978.html", "d8/d8f/a23978" ],
+    [ "spell_alar_ember_blast", "d9/d8c/a23982.html", "d9/d8c/a23982" ],
+    [ "spell_alar_dive_bomb", "d7/d87/a23986.html", "d7/d87/a23986" ],
     [ "GroupAlar", "dc/d29/a02144.html#affdfad05d59fe2df3a25189df6c3bf7e", [
       [ "GROUP_FLAME_BUFFET", "dc/d29/a02144.html#affdfad05d59fe2df3a25189df6c3bf7ea736f8214156adfa79b40871fd56adf53", null ]
     ] ],
@@ -2785,6 +2785,7 @@ var a02144 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

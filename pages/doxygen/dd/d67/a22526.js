@@ -1,7 +1,7 @@
 var a22526 =
 [
-    [ "npc_wg_siege_machineAI", "dd/d67/a22526.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "dd/d67/a22526.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "dd/d67/a22526.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "dd/d67/a22526.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "HandleScript", "dd/d67/a22526.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "dd/d67/a22526.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "dd/d67/a22526.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "dd/d67/a22526.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

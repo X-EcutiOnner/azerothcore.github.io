@@ -1,11 +1,6 @@
 var a21554 =
 [
-    [ "npc_vh_void_sentryAI", "d9/da7/a21554.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "d9/da7/a21554.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "d9/da7/a21554.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "d9/da7/a21554.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "d9/da7/a21554.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "d9/da7/a21554.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "d9/da7/a21554.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "d9/da7/a21554.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "npc_vh_void_sentryAI", "df/d6b/a21558.html", "df/d6b/a21558" ],
+    [ "npc_vh_void_sentry", "d9/da7/a21554.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "d9/da7/a21554.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

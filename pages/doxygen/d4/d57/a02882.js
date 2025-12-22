@@ -1,13 +1,13 @@
 var a02882 =
 [
-    [ "npc_ulduar_iron_construct", "d5/de7/a20470.html", "d5/de7/a20470" ],
-    [ "npc_ulduar_iron_construct::npc_ulduar_iron_constructAI", "df/df3/a20474.html", "df/df3/a20474" ],
-    [ "boss_ignis", "db/de6/a20478.html", "db/de6/a20478" ],
-    [ "boss_ignis::boss_ignisAI", "d9/d3e/a20482.html", "d9/d3e/a20482" ],
-    [ "spell_ignis_scorch_aura", "d0/d6b/a20486.html", "d0/d6b/a20486" ],
-    [ "spell_ignis_grab_initial", "dc/d56/a20490.html", "dc/d56/a20490" ],
-    [ "spell_ignis_slag_pot_aura", "de/d35/a20494.html", "de/d35/a20494" ],
-    [ "achievement_ignis_shattered", "d7/d3e/a20498.html", "d7/d3e/a20498" ],
+    [ "npc_ulduar_iron_construct", "df/df3/a20474.html", "df/df3/a20474" ],
+    [ "npc_ulduar_iron_construct::npc_ulduar_iron_constructAI", "db/de6/a20478.html", "db/de6/a20478" ],
+    [ "boss_ignis", "d9/d3e/a20482.html", "d9/d3e/a20482" ],
+    [ "boss_ignis::boss_ignisAI", "d0/d6b/a20486.html", "d0/d6b/a20486" ],
+    [ "spell_ignis_scorch_aura", "dc/d56/a20490.html", "dc/d56/a20490" ],
+    [ "spell_ignis_grab_initial", "de/d35/a20494.html", "de/d35/a20494" ],
+    [ "spell_ignis_slag_pot_aura", "d7/d3e/a20498.html", "d7/d3e/a20498" ],
+    [ "achievement_ignis_shattered", "da/db3/a20502.html", "da/db3/a20502" ],
     [ "ACHIEV_STOKIN_THE_FURNACE_EVENT", "d4/d57/a02882.html#a1c74f54ec8223535d573a022bf59557a", null ],
     [ "eEvents", "d4/d57/a02882.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d3/d7e/a02768.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],

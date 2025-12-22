@@ -1,7 +1,10 @@
 var a26562 =
 [
-    [ "HandleEffectPeriodic", "d2/de4/a26562.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "d2/de4/a26562.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "d2/de4/a26562.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "d2/de4/a26562.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "GetTarget", "d2/de4/a26562.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "d2/de4/a26562.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "d2/de4/a26562.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "d2/de4/a26562.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "d2/de4/a26562.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "d2/de4/a26562.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "d2/de4/a26562.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

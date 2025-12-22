@@ -1,5 +1,6 @@
 var a27574 =
 [
-    [ "go_duskwither_spire_power_source", "d8/dfe/a27574.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d8/dfe/a27574.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_soulwellAI", "d4/dc5/a27578.html", "d4/dc5/a27578" ],
+    [ "go_soulwell", "d8/dfe/a27574.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d8/dfe/a27574.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

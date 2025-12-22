@@ -1,8 +1,6 @@
 var a13222 =
 [
-    [ "DelayedSummonEvent", "dc/dc4/a13222.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "dc/dc4/a13222.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "dc/dc4/a13222.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "dc/dc4/a13222.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "dc/dc4/a13222.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "OnRemove", "dc/dc4/a13222.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "dc/dc4/a13222.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "dc/dc4/a13222.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

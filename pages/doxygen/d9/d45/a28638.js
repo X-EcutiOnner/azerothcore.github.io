@@ -1,10 +1,8 @@
 var a28638 =
 [
-    [ "ID", "d9/d45/a28638.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d9/d45/a28638.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d9/d45/a28638.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d9/d45/a28638.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d9/d45/a28638.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d9/d45/a28638.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d9/d45/a28638.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "NoRuneCost", "d9/d45/a28638.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d9/d45/a28638.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d9/d45/a28638.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d9/d45/a28638.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d9/d45/a28638.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

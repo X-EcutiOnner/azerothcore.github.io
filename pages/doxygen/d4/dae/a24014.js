@@ -1,6 +1,6 @@
 var a24014 =
 [
-    [ "lapseTeleport", "d4/dae/a24014.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d4/dae/a24014.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d4/dae/a24014.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "npc_capernian", "d4/dae/a24014.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d4/dae/a24014.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d4/dae/a24014.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

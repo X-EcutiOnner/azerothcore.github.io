@@ -1,10 +1,10 @@
 var a00845 =
 [
-    [ "Position", "de/df3/a08502.html", "de/df3/a08502" ],
-    [ "Position::PositionXYStreamer", "d6/d22/a08506.html", "d6/d22/a08506" ],
-    [ "Position::PositionXYZStreamer", "d1/d3b/a08510.html", "d1/d3b/a08510" ],
-    [ "Position::PositionXYZOStreamer", "d2/d7f/a08514.html", "d2/d7f/a08514" ],
-    [ "WorldLocation", "db/df9/a08518.html", "db/df9/a08518" ],
+    [ "Position", "d6/d22/a08506.html", "d6/d22/a08506" ],
+    [ "Position::PositionXYStreamer", "d1/d3b/a08510.html", "d1/d3b/a08510" ],
+    [ "Position::PositionXYZStreamer", "d2/d7f/a08514.html", "d2/d7f/a08514" ],
+    [ "Position::PositionXYZOStreamer", "db/df9/a08518.html", "db/df9/a08518" ],
+    [ "WorldLocation", "d0/d32/a08522.html", "d0/d32/a08522" ],
     [ "MAPID_INVALID", "d7/dcf/a00845.html#af69a1d112a89b89894dafd5da53e7490", null ],
     [ "operator<<", "d7/dcf/a00845.html#a09519787a0405fc17b028180b2da4cdd", null ],
     [ "operator<<", "d7/dcf/a00845.html#a71323635f122d24189054da615cb39e1", null ],

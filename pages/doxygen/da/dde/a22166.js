@@ -1,9 +1,7 @@
 var a22166 =
 [
-    [ "npc_Apothecary_HanesAI", "da/dde/a22166.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "da/dde/a22166.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "da/dde/a22166.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "da/dde/a22166.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "da/dde/a22166.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "da/dde/a22166.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_Apothecary_HanesAI", "dc/d99/a22170.html", "dc/d99/a22170" ],
+    [ "npc_apothecary_hanes", "da/dde/a22166.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "da/dde/a22166.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "da/dde/a22166.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

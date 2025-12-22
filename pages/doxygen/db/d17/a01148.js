@@ -1,11 +1,11 @@
 var a01148 =
 [
-    [ "FileCloser", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
-    [ "BaseTable", "d0/db0/a11622.html", "d0/db0/a11622" ],
-    [ "DumpTable", "de/dde/a11626.html", "de/dde/a11626" ],
-    [ "StringTransaction", "df/db1/a11630.html", "df/db1/a11630" ],
-    [ "TableField", "d5/def/a11634.html", "d5/def/a11634" ],
-    [ "TableStruct", "d3/d73/a11638.html", "d3/d73/a11638" ],
+    [ "FileCloser", "d0/db0/a11622.html", "d0/db0/a11622" ],
+    [ "BaseTable", "de/dde/a11626.html", "de/dde/a11626" ],
+    [ "DumpTable", "df/db1/a11630.html", "df/db1/a11630" ],
+    [ "StringTransaction", "d5/def/a11634.html", "d5/def/a11634" ],
+    [ "TableField", "d3/d73/a11638.html", "d3/d73/a11638" ],
+    [ "TableStruct", "d8/d8c/a11642.html", "d8/d8c/a11642" ],
     [ "FileHandle", "db/d17/a01148.html#ad7de4fbad2e55215496223bdf2a32cd9", null ],
     [ "GuidType", "db/d17/a01148.html#a786729c2a29db8efe3400a170aeb9073", [
       [ "GUID_TYPE_ACCOUNT", "db/d17/a01148.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876", null ],

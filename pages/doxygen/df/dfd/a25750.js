@@ -1,6 +1,7 @@
 var a25750 =
 [
-    [ "HandleDummy", "df/dfd/a25750.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "df/dfd/a25750.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "df/dfd/a25750.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "HandleScriptEffect", "df/dfd/a25750.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "df/dfd/a25750.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "df/dfd/a25750.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "df/dfd/a25750.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

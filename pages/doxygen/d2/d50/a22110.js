@@ -1,6 +1,6 @@
 var a22110 =
 [
-    [ "npc_venture_co_stragglerAI", "d2/d2b/a22114.html", "d2/d2b/a22114" ],
-    [ "npc_venture_co_straggler", "d2/d50/a22110.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d2/d50/a22110.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "CheckRequirement", "d2/d50/a22110.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d2/d50/a22110.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d2/d50/a22110.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

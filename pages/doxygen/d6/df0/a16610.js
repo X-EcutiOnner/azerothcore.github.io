@@ -1,6 +1,7 @@
 var a16610 =
 [
-    [ "npc_toc_shadow_priestAI", "d1/d36/a16614.html", "d1/d36/a16614" ],
-    [ "npc_toc_shadow_priest", "d6/df0/a16610.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d6/df0/a16610.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_toc_priestAI", "d6/df0/a16610.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d6/df0/a16610.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d6/df0/a16610.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d6/df0/a16610.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

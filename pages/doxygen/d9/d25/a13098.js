@@ -1,7 +1,7 @@
 var a13098 =
 [
-    [ "HandleScriptEffect", "d9/d25/a13098.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d9/d25/a13098.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d9/d25/a13098.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d9/d25/a13098.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "HandleScriptEffect", "d9/d25/a13098.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d9/d25/a13098.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d9/d25/a13098.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d9/d25/a13098.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

@@ -1,6 +1,7 @@
 var a12134 =
 [
-    [ "boss_grizzleAI", "df/d7b/a12138.html", "df/d7b/a12138" ],
-    [ "boss_grizzle", "d2/d87/a12134.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "d2/d87/a12134.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "boss_gorosh_the_dervishAI", "d2/d87/a12134.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d2/d87/a12134.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d2/d87/a12134.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d2/d87/a12134.html#a4ab769a862310bbd8b283e83077ad23d", null ]
 ];

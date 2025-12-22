@@ -1,6 +1,7 @@
 var a24154 =
 [
-    [ "go_apexis_relic", "d4/d99/a24154.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d4/d99/a24154.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d4/d99/a24154.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "OnPeriodic", "d4/d99/a24154.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d4/d99/a24154.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d4/d99/a24154.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d4/d99/a24154.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

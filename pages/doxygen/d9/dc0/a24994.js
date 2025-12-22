@@ -1,9 +1,6 @@
 var a24994 =
 [
-    [ "PrepareAuraScript", "d9/dc0/a24994.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d9/dc0/a24994.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d9/dc0/a24994.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d9/dc0/a24994.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d9/dc0/a24994.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d9/dc0/a24994.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "HandleScript", "d9/dc0/a24994.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d9/dc0/a24994.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d9/dc0/a24994.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

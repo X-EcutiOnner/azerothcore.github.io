@@ -1,19 +1,11 @@
 var a14374 =
 [
-    [ "npc_dark_iron_guzzler", "df/d7a/a14374.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
-    [ "AttackStart", "df/d7a/a14374.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
-    [ "DamageTaken", "df/d7a/a14374.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
-    [ "FindNextKeg", "df/d7a/a14374.html#ac063799097f89c09f30bed79151e8ed6", null ],
-    [ "GetTarget", "df/d7a/a14374.html#a076305d37ce348b24b35f7956385e8fc", null ],
-    [ "JustEngagedWith", "df/d7a/a14374.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
-    [ "KilledUnit", "df/d7a/a14374.html#a018513f23158fcd6f929a90cfecfde4c", null ],
-    [ "MoveInLineOfSight", "df/d7a/a14374.html#aaa4df56f1f587029b24626ae1aca552a", null ],
-    [ "MovementInform", "df/d7a/a14374.html#ada6c7f97e25eb545926d6531495bb397", null ],
-    [ "Reset", "df/d7a/a14374.html#af608024d4b41fa218a7baeae9bee72ef", null ],
-    [ "SayText", "df/d7a/a14374.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
-    [ "SpellHit", "df/d7a/a14374.html#ae195867416885e570c2c9a4837ac33c1", null ],
-    [ "UpdateAI", "df/d7a/a14374.html#a5decab6f76369ec9ce037dd050898423", null ],
-    [ "attacking", "df/d7a/a14374.html#a18a1d7e61b99819666366c6791154e01", null ],
-    [ "targetGUID", "df/d7a/a14374.html#a620df1502373954020a910853cb6dd3a", null ],
-    [ "timer", "df/d7a/a14374.html#a9748d587b61c148a27be690a6354473f", null ]
+    [ "npc_dark_iron_attack_mole_machine", "df/d7a/a14374.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "df/d7a/a14374.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "df/d7a/a14374.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "df/d7a/a14374.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "df/d7a/a14374.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "df/d7a/a14374.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "df/d7a/a14374.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "df/d7a/a14374.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

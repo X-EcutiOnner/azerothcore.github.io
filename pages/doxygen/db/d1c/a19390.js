@@ -1,6 +1,5 @@
 var a19390 =
 [
-    [ "DespawnTime", "db/d1c/a19390.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "db/d1c/a19390.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "db/d1c/a19390.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "at_thaddius_entrance", "db/d1c/a19390.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "db/d1c/a19390.html#acc869cade2b48ceb782d78aa7df6f246", null ]
 ];

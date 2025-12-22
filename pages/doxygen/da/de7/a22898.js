@@ -1,8 +1,7 @@
 var a22898 =
 [
-    [ "npc_parasitic_shadowfiend", "da/de7/a22898.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "da/de7/a22898.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "da/de7/a22898.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "da/de7/a22898.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "da/de7/a22898.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleProc", "da/de7/a22898.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "da/de7/a22898.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "da/de7/a22898.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "da/de7/a22898.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

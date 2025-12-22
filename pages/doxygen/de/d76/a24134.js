@@ -1,6 +1,8 @@
 var a24134 =
 [
-    [ "npc_daranelleAI", "d5/dcf/a24138.html", "d5/dcf/a24138" ],
-    [ "npc_daranelle", "de/d76/a24134.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "de/d76/a24134.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "instance_mechanar_InstanceMapScript", "de/d76/a24134.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "de/d76/a24134.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "de/d76/a24134.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "de/d76/a24134.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "de/d76/a24134.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

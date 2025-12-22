@@ -1,11 +1,11 @@
 var a03566 =
 [
-    [ "SpiritInfoStruct", "db/dac/a14042.html", "db/dac/a14042" ],
-    [ "TransformStruct", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
-    [ "boss_zuljin", "d7/de1/a14050.html", "d7/de1/a14050" ],
-    [ "npc_zuljin_vortex", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
-    [ "spell_claw_rage_aura", "d5/da0/a14058.html", "d5/da0/a14058" ],
-    [ "spell_zuljin_zap", "df/d01/a14062.html", "df/d01/a14062" ],
+    [ "SpiritInfoStruct", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "TransformStruct", "d7/de1/a14050.html", "d7/de1/a14050" ],
+    [ "boss_zuljin", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
+    [ "npc_zuljin_vortex", "d5/da0/a14058.html", "d5/da0/a14058" ],
+    [ "spell_claw_rage_aura", "df/d01/a14062.html", "df/d01/a14062" ],
+    [ "spell_zuljin_zap", "d9/d1d/a14066.html", "d9/d1d/a14066" ],
     [ "CreatureEntries", "d2/d6e/a03566.html#a8954ba92de87382cc5d2ff27d0ec3918", [
       [ "NPC_SPIRIT_BEAR", "d2/d6e/a03566.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51", null ],
       [ "NPC_SPIRIT_EAGLE", "d2/d6e/a03566.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc", null ],
@@ -3334,6 +3334,7 @@ var a03566 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

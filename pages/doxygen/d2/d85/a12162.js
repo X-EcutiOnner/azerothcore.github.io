@@ -1,7 +1,6 @@
 var a12162 =
 [
-    [ "boss_magmusAI", "d2/d85/a12162.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d2/d85/a12162.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d2/d85/a12162.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d2/d85/a12162.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_magmusAI", "d8/da4/a12166.html", "d8/da4/a12166" ],
+    [ "boss_magmus", "d2/d85/a12162.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "d2/d85/a12162.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

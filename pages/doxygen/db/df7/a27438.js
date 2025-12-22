@@ -1,7 +1,5 @@
 var a27438 =
 [
-    [ "go_bear_trapAI", "db/df7/a27438.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "db/df7/a27438.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "db/df7/a27438.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "db/df7/a27438.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_ethereum_stasis", "db/df7/a27438.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "db/df7/a27438.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

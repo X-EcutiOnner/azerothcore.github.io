@@ -1,14 +1,16 @@
 var a07138 =
 [
-    [ "getAll", "db/dcc/a07138.html#a736642258b38fa05f04df4f4ac9069db", null ],
-    [ "inventoryType", "db/dcc/a07138.html#a521224ce63856745ed64c39f6cbdddc4", null ],
-    [ "itemClass", "db/dcc/a07138.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
-    [ "itemSubClass", "db/dcc/a07138.html#acf154bf30417c1a202ae85b4dd1adead", null ],
-    [ "levelmax", "db/dcc/a07138.html#a902d715d89a5ca66072393ccefbb1ead", null ],
-    [ "levelmin", "db/dcc/a07138.html#ac437de5977b177a586381c8665439a56", null ],
-    [ "listfrom", "db/dcc/a07138.html#a2be6266f0bbc631d476710cbe291fab1", null ],
-    [ "quality", "db/dcc/a07138.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
-    [ "sorting", "db/dcc/a07138.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
-    [ "usable", "db/dcc/a07138.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
-    [ "wsearchedname", "db/dcc/a07138.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
+    [ "BuildAuctionInfo", "db/dcc/a07138.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "db/dcc/a07138.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "db/dcc/a07138.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "db/dcc/a07138.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "db/dcc/a07138.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "db/dcc/a07138.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "db/dcc/a07138.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "db/dcc/a07138.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "db/dcc/a07138.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "db/dcc/a07138.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "db/dcc/a07138.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "db/dcc/a07138.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "db/dcc/a07138.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

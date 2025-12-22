@@ -1,5 +1,7 @@
 var a12994 =
 [
-    [ "textid", "d5/de1/a12994.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "d5/de1/a12994.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "HandleDummy", "d5/de1/a12994.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d5/de1/a12994.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d5/de1/a12994.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d5/de1/a12994.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

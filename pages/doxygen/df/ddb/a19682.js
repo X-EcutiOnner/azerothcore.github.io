@@ -1,9 +1,17 @@
 var a19682 =
 [
-    [ "npc_stormforged_lieutenant", "df/ddb/a19682.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "df/ddb/a19682.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "df/ddb/a19682.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "df/ddb/a19682.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "df/ddb/a19682.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "df/ddb/a19682.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "boss_bjarngrim", "df/ddb/a19682.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "df/ddb/a19682.html#a87eab2b27b48d98b94a030936722781e", null ],
+    [ "JustDied", "df/ddb/a19682.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
+    [ "JustEngagedWith", "df/ddb/a19682.html#ad150ab7d9837861e8c4673a78978bb11", null ],
+    [ "KilledUnit", "df/ddb/a19682.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
+    [ "RemoveStanceAura", "df/ddb/a19682.html#a55a695e27192313c6cbe263a739e669e", null ],
+    [ "Reset", "df/ddb/a19682.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
+    [ "RollStance", "df/ddb/a19682.html#acd511435f9d77aa4839e1c856382ea51", null ],
+    [ "UpdateEscortAI", "df/ddb/a19682.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
+    [ "WaypointReached", "df/ddb/a19682.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "events", "df/ddb/a19682.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
+    [ "m_pInstance", "df/ddb/a19682.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
+    [ "m_uiStance", "df/ddb/a19682.html#aec11755c71f056c8294a8af1c1084353", null ],
+    [ "summons", "df/ddb/a19682.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
 ];

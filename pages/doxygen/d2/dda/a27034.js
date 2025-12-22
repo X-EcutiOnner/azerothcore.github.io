@@ -1,7 +1,6 @@
 var a27034 =
 [
-    [ "HandleTeleport", "d2/dda/a27034.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d2/dda/a27034.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d2/dda/a27034.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d2/dda/a27034.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleScriptEffect", "d2/dda/a27034.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "d2/dda/a27034.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "d2/dda/a27034.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

@@ -1,7 +1,8 @@
 var a27094 =
 [
-    [ "HandleApplyAura", "dd/dba/a27094.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "dd/dba/a27094.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "dd/dba/a27094.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "dd/dba/a27094.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "ApplyEffect", "dd/dba/a27094.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "dd/dba/a27094.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "dd/dba/a27094.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "dd/dba/a27094.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "dd/dba/a27094.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

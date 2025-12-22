@@ -1,6 +1,6 @@
 var a22482 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d2/dad/a22486.html", "d2/dad/a22486" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d8/db9/a22482.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d8/db9/a22482.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "CheckCast", "d8/db9/a22482.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d8/db9/a22482.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d8/db9/a22482.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

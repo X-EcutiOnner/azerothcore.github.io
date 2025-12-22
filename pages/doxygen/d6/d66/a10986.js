@@ -1,6 +1,6 @@
 var a10986 =
 [
-    [ "InvalidStringValueException", "d6/d66/a10986.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d6/d66/a10986.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d6/d66/a10986.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "ComplainResult", "d6/d66/a10986.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "d6/d66/a10986.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "d6/d66/a10986.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

@@ -1,7 +1,8 @@
 var a29098 =
 [
-    [ "go_darkmoon_faire_musicAI", "db/dd7/a29098.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "db/dd7/a29098.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "db/dd7/a29098.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "db/dd7/a29098.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "Color", "db/dd7/a29098.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "db/dd7/a29098.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "db/dd7/a29098.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "db/dd7/a29098.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "db/dd7/a29098.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

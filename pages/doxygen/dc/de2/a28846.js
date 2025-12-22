@@ -1,16 +1,13 @@
 var a28846 =
 [
-    [ "adt_LIQUID", "da/db3/a28854.html", "da/db3/a28854" ],
-    [ "GetLiquidAttributes", "dc/de2/a28846.html#a343859f1c04059988ca0e4050ffac22f", null ],
-    [ "GetLiquidDepth", "dc/de2/a28846.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
-    [ "GetLiquidExistsBitmap", "dc/de2/a28846.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
-    [ "GetLiquidHeight", "dc/de2/a28846.html#a73ad976bf67c8adba2443190e6db533f", null ],
-    [ "GetLiquidInstance", "dc/de2/a28846.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
-    [ "GetLiquidTextureCoordMap", "dc/de2/a28846.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
-    [ "GetLiquidType", "dc/de2/a28846.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
-    [ "prepareLoadedData", "dc/de2/a28846.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
-    [ "fcc", "dc/de2/a28846.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
-    [ "fcc_txt", "dc/de2/a28846.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
-    [ "liquid", "dc/de2/a28846.html#aaaff4b98a34d81985b552fd671411450", null ],
-    [ "size", "dc/de2/a28846.html#a2110a26debb714695e38e5ec159131f2", null ]
+    [ "liquid_data", "da/db3/a28854.html", "da/db3/a28854" ],
+    [ "prepareLoadedData", "dc/de2/a28846.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
+    [ "data", "dc/de2/a28846.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
+    [ "fcc", "dc/de2/a28846.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
+    [ "fcc_txt", "dc/de2/a28846.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
+    [ "flags", "dc/de2/a28846.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
+    [ "height1", "dc/de2/a28846.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
+    [ "height2", "dc/de2/a28846.html#ab03dc912a304c0585d2725596adb4b49", null ],
+    [ "liquid", "dc/de2/a28846.html#aae29940e6fdf046f9a29cf519ef61936", null ],
+    [ "size", "dc/de2/a28846.html#a11581f9fb52a4ca433765e6312168288", null ]
 ];

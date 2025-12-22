@@ -1,6 +1,8 @@
 var a12694 =
 [
-    [ "boss_sulfuronAI", "df/d4c/a12698.html", "df/d4c/a12698" ],
-    [ "boss_sulfuron", "df/d35/a12694.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "df/d35/a12694.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "FilterTargets", "df/d35/a12694.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "df/d35/a12694.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "df/d35/a12694.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "df/d35/a12694.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "df/d35/a12694.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

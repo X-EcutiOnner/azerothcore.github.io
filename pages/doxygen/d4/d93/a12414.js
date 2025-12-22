@@ -1,6 +1,6 @@
 var a12414 =
 [
-    [ "boss_chromaggusAI", "de/d17/a12418.html", "de/d17/a12418" ],
-    [ "boss_chromaggus", "d4/d93/a12414.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d4/d93/a12414.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "FilterTargets", "d4/d93/a12414.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d4/d93/a12414.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d4/d93/a12414.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

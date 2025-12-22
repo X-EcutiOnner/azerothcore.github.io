@@ -1,7 +1,5 @@
 var a22914 =
 [
-    [ "HandleEffectRemove", "df/d25/a22914.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "df/d25/a22914.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "df/d25/a22914.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "df/d25/a22914.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "ChargeTargetSelector", "df/d25/a22914.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "df/d25/a22914.html#a596223da822f5a08281fe709cca95909", null ]
 ];

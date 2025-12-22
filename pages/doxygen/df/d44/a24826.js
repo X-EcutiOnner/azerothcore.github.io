@@ -1,6 +1,11 @@
 var a24826 =
 [
-    [ "CheckProc", "df/d44/a24826.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
-    [ "PrepareAuraScript", "df/d44/a24826.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
-    [ "Register", "df/d44/a24826.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ]
+    [ "HandleAfterHit", "df/d44/a24826.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "df/d44/a24826.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "df/d44/a24826.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "df/d44/a24826.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "df/d44/a24826.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "df/d44/a24826.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "df/d44/a24826.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "df/d44/a24826.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

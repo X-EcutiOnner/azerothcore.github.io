@@ -1,15 +1,16 @@
 var a09606 =
 [
-    [ "LogHolder", "db/d36/a09606.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "db/d36/a09606.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "db/d36/a09606.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "db/d36/a09606.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "db/d36/a09606.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "db/d36/a09606.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "db/d36/a09606.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "db/d36/a09606.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "db/d36/a09606.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "db/d36/a09606.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "db/d36/a09606.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "db/d36/a09606.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "BankEventLogEntry", "db/d36/a09606.html#a31275c6a36f7b79d7532345d38a3739b", null ],
+    [ "BankEventLogEntry", "db/d36/a09606.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
+    [ "~BankEventLogEntry", "db/d36/a09606.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
+    [ "IsMoneyEvent", "db/d36/a09606.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
+    [ "IsMoneyEvent", "db/d36/a09606.html#a49c76ead144b21da7cb1059af54a2482", null ],
+    [ "SaveToDB", "db/d36/a09606.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
+    [ "WritePacket", "db/d36/a09606.html#a930223d8596264801d7b0cf04cea62f8", null ],
+    [ "m_bankTabId", "db/d36/a09606.html#a836df4449b5190b4404482e46a5e5449", null ],
+    [ "m_destTabId", "db/d36/a09606.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
+    [ "m_eventType", "db/d36/a09606.html#a180246a8eaca99431383916776a4f7ad", null ],
+    [ "m_itemOrMoney", "db/d36/a09606.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
+    [ "m_itemStackCount", "db/d36/a09606.html#ad4ed0df79ff061a4735538067fa4a372", null ],
+    [ "m_playerGuid", "db/d36/a09606.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
 ];

@@ -10,6 +10,8 @@ var a06498 =
     [ "alternative", "d4/da8/a06498.html#a4eb962133b4bfa909af1303a361ec895", null ],
     [ "angle", "d4/da8/a06498.html#a79abcb8a4c3e446b9aa61e0326f734f6", null ],
     [ "anim", "d4/da8/a06498.html#aa589f8a89c13cbca377b34232248adb9", null ],
+    [ "animTier", "d4/da8/a06498.html#a8d4c24622f254264949ed09b04d6a413", null ],
+    [ "animTier", "d4/da8/a06498.html#a0b436fd922eff1557977f8bcbd7373bf", null ],
     [ "attack", "d4/da8/a06498.html#aa4ec8811308d4a82f9d3279e263fb585", null ],
     [ "attackInvoker", "d4/da8/a06498.html#a5dc1df9eded9a0de9b0440688d161869", null ],
     [ "attackInvoker", "d4/da8/a06498.html#acfecd88a57f366350452dba7ccc11455", null ],

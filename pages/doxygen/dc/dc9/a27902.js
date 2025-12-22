@@ -1,6 +1,9 @@
 var a27902 =
 [
-    [ "npc_necropolis_relay", "dc/dc9/a27902.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "dc/dc9/a27902.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "dc/dc9/a27902.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_arcanite_dragonling", "dc/dc9/a27902.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "dc/dc9/a27902.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "dc/dc9/a27902.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "dc/dc9/a27902.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "dc/dc9/a27902.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "dc/dc9/a27902.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

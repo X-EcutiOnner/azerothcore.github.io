@@ -1,6 +1,6 @@
 var a19862 =
 [
-    [ "npc_living_constellationAI", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
-    [ "npc_living_constellation", "d7/d8f/a19862.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d7/d8f/a19862.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "npc_collapsing_starAI", "d7/d8f/a19862.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d7/d8f/a19862.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d7/d8f/a19862.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

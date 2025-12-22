@@ -1,6 +1,11 @@
 var a21214 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d8/d71/a21218.html", "d8/d71/a21218" ],
-    [ "npc_ulduar_arachnopod_destroyer", "db/d1e/a21214.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "db/d1e/a21214.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "db/d1e/a21214.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
+    [ "JustDied", "db/d1e/a21214.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
+    [ "JustEngagedWith", "db/d1e/a21214.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
+    [ "JustSummoned", "db/d1e/a21214.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
+    [ "Reset", "db/d1e/a21214.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
+    [ "UpdateAI", "db/d1e/a21214.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
+    [ "events", "db/d1e/a21214.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
+    [ "otherGUID", "db/d1e/a21214.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
 ];

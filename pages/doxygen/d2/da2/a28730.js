@@ -1,7 +1,7 @@
 var a28730 =
 [
-    [ "RealmHandle", "d2/da2/a28730.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d2/da2/a28730.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d2/da2/a28730.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d2/da2/a28730.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "TalentSpellPos", "d2/da2/a28730.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d2/da2/a28730.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d2/da2/a28730.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d2/da2/a28730.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

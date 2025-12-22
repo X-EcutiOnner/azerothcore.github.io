@@ -1,5 +1,6 @@
 var a23538 =
 [
-    [ "go_main_chambers_access_panel", "d7/dfa/a23538.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d7/dfa/a23538.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "boss_rokmar_the_crackler", "d7/dfa/a23538.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d7/dfa/a23538.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d7/dfa/a23538.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

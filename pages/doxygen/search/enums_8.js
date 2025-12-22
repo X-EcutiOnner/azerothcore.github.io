@@ -14,7 +14,7 @@ var searchData=
   ['impaleleviroth_11',['ImpaleLeviroth',['../df/d40/a02609.html#ae9a550713785ef6ce3ffbb78cfbf0063',1,'spell_item.cpp']]],
   ['imprisionedberylsorcerer_12',['ImprisionedBerylSorcerer',['../dd/d08/a02957.html#a6f2fd2620ffdf295515afcd78e32b178',1,'zone_borean_tundra.cpp']]],
   ['incarceratordata_13',['IncarceratorData',['../d7/da7/a03719.html#a3a116dbb2bbf5fc03d6cb7d000bc005c',1,'boss_pyroguard_emberseer.cpp']]],
-  ['index_14',['Index',['../d6/d85/a08674.html#a28b25d822326a1b7d5ec7f95ce084bac',1,'Player::ChatFloodThrottle']]],
+  ['index_14',['Index',['../db/d0d/a08678.html#a28b25d822326a1b7d5ec7f95ce084bac',1,'Player::ChatFloodThrottle']]],
   ['infectedworgenbite_15',['InfectedWorgenBite',['../d7/d66/a03134.html#a42ff7cedc8c70364f479dfe29cfe6b9f',1,'zone_grizzly_hills.cpp']]],
   ['infernaloversoul_16',['InfernalOversoul',['../de/dca/a01907.html#a8d4967324c50feaf8e302ea3abcd2450',1,'zone_shadowmoon_valley.cpp']]],
   ['infragreenbomberquests_17',['infraGreenBomberQuests',['../d6/d41/a02930.html#adb47ccee11b7adba160adeac2db87c6d',1,'zone_icecrown.cpp']]],

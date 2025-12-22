@@ -1,6 +1,8 @@
 var a26650 =
 [
-    [ "OnApply", "dd/db7/a26650.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "dd/db7/a26650.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "dd/db7/a26650.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "Load", "dd/db7/a26650.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "dd/db7/a26650.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "dd/db7/a26650.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "dd/db7/a26650.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "dd/db7/a26650.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

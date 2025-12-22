@@ -1,5 +1,11 @@
 var a13986 =
 [
-    [ "npc_mikhail", "de/d11/a13986.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "de/d11/a13986.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_tapoke_slim_jahnAI", "de/d11/a13986.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "de/d11/a13986.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "de/d11/a13986.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "de/d11/a13986.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "de/d11/a13986.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "de/d11/a13986.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "de/d11/a13986.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "de/d11/a13986.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

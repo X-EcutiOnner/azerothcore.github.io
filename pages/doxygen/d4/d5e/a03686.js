@@ -1,9 +1,9 @@
 var a03686 =
 [
-    [ "boss_ambassador_flamelash", "d2/db3/a12078.html", "d2/db3/a12078" ],
-    [ "boss_ambassador_flamelash::boss_ambassador_flamelashAI", "dc/d30/a12082.html", "dc/d30/a12082" ],
-    [ "npc_burning_spirit", "dc/d83/a12086.html", "dc/d83/a12086" ],
-    [ "npc_burning_spirit::npc_burning_spiritAI", "d8/d75/a12090.html", "d8/d75/a12090" ],
+    [ "boss_ambassador_flamelash", "dc/d30/a12082.html", "dc/d30/a12082" ],
+    [ "boss_ambassador_flamelash::boss_ambassador_flamelashAI", "dc/d83/a12086.html", "dc/d83/a12086" ],
+    [ "npc_burning_spirit", "d8/d75/a12090.html", "d8/d75/a12090" ],
+    [ "npc_burning_spirit::npc_burning_spiritAI", "df/dac/a12094.html", "df/dac/a12094" ],
     [ "AmbassadorEvents", "d4/d5e/a03686.html#a6408fb2256d254e95ca33854b1e92f3e", [
       [ "AGGRO_TEXT", "d4/d5e/a03686.html#a6408fb2256d254e95ca33854b1e92f3ea5b8aad11d0c55c9f7c0a9a6f2fa819d9", null ],
       [ "EVENT_SPELL_FIREBLAST", "d4/d5e/a03686.html#a6408fb2256d254e95ca33854b1e92f3eaf938480f48b00e9201b4290fa26de919", null ],
@@ -2086,6 +2086,7 @@ var a03686 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

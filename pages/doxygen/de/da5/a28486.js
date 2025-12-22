@@ -1,7 +1,4 @@
 var a28486 =
 [
-    [ "ID", "de/da5/a28486.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "de/da5/a28486.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "de/da5/a28486.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "de/da5/a28486.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "ID", "de/da5/a28486.html#a11f792510d9749f99371234b15a45beb", null ]
 ];

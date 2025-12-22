@@ -1,10 +1,9 @@
 var a11106 =
 [
-    [ "WorldStateInfo", "d8/dd9/a11110.html", "d8/dd9/a11110" ],
-    [ "InitWorldStates", "dd/dec/a11106.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "dd/dec/a11106.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "dd/dec/a11106.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "dd/dec/a11106.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "dd/dec/a11106.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "dd/dec/a11106.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "TotemCreated", "dd/dec/a11106.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "dd/dec/a11106.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "dd/dec/a11106.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "dd/dec/a11106.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "dd/dec/a11106.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "dd/dec/a11106.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

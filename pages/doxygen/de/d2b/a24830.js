@@ -1,7 +1,9 @@
 var a24830 =
 [
-    [ "CalculateAmount", "de/d2b/a24830.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "de/d2b/a24830.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "de/d2b/a24830.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "de/d2b/a24830.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "Absorb", "de/d2b/a24830.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "de/d2b/a24830.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "de/d2b/a24830.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "de/d2b/a24830.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "de/d2b/a24830.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "de/d2b/a24830.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

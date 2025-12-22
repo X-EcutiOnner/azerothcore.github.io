@@ -1,7 +1,7 @@
 var a22986 =
 [
-    [ "boss_lady_malande", "de/d5d/a22986.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "de/d5d/a22986.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "de/d5d/a22986.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "de/d5d/a22986.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleDummy", "de/d5d/a22986.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "de/d5d/a22986.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "de/d5d/a22986.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "de/d5d/a22986.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

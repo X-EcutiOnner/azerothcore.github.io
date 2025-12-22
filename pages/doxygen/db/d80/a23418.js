@@ -1,6 +1,10 @@
 var a23418 =
 [
-    [ "HandleEffectRemove", "db/d80/a23418.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "db/d80/a23418.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "db/d80/a23418.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "boss_morogrim_tidewalker", "db/d80/a23418.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "db/d80/a23418.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "db/d80/a23418.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "db/d80/a23418.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "db/d80/a23418.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "db/d80/a23418.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "db/d80/a23418.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

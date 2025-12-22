@@ -1,9 +1,9 @@
 var a03731 =
 [
-    [ "npc_rookery_hatcher", "da/dfe/a12298.html", "da/dfe/a12298" ],
-    [ "npc_rookery_hatcher::npc_rookery_hatcherAI", "d2/d7b/a12302.html", "d2/d7b/a12302" ],
-    [ "boss_solakar_flamewreath", "d4/d9f/a12306.html", "d4/d9f/a12306" ],
-    [ "boss_solakar_flamewreath::boss_solakar_flamewreathAI", "d0/db0/a12310.html", "d0/db0/a12310" ],
+    [ "npc_rookery_hatcher", "d2/d7b/a12302.html", "d2/d7b/a12302" ],
+    [ "npc_rookery_hatcher::npc_rookery_hatcherAI", "d4/d9f/a12306.html", "d4/d9f/a12306" ],
+    [ "boss_solakar_flamewreath", "d0/db0/a12310.html", "d0/db0/a12310" ],
+    [ "boss_solakar_flamewreath::boss_solakar_flamewreathAI", "d5/d46/a12314.html", "d5/d46/a12314" ],
     [ "Says", "d1/d22/a03731.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d2/db4/a03695.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "dd/d2e/a03734.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],
@@ -2617,6 +2617,7 @@ var a03731 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

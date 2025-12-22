@@ -1,6 +1,8 @@
 var a26838 =
 [
-    [ "HandlePeriodic", "d6/d0d/a26838.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d6/d0d/a26838.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d6/d0d/a26838.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleDummy", "d6/d0d/a26838.html#ab653cf0414411c17ccc674395b08af7a", null ],
+    [ "Load", "d6/d0d/a26838.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
+    [ "PrepareSpellScript", "d6/d0d/a26838.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
+    [ "Register", "d6/d0d/a26838.html#a92eb201b3ae3ab167cc338174a355b00", null ],
+    [ "Validate", "d6/d0d/a26838.html#a3635089640297e059a183322c7e8f7b9", null ]
 ];

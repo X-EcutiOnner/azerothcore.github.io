@@ -1,6 +1,7 @@
 var a26410 =
 [
-    [ "HandleAfterHit", "d4/d11/a26410.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d4/d11/a26410.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d4/d11/a26410.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "FilterTargets", "d4/d11/a26410.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "d4/d11/a26410.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "d4/d11/a26410.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "d4/d11/a26410.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

@@ -1,6 +1,6 @@
 var a17794 =
 [
-    [ "npc_gunship_mageAI", "d4/db2/a17798.html", "d4/db2/a17798" ],
-    [ "npc_gunship_mage", "db/da5/a17794.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "db/da5/a17794.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "npc_gunship_boarding_add_realAI", "db/da5/a17794.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "db/da5/a17794.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "db/da5/a17794.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

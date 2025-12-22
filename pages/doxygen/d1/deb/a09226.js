@@ -1,12 +1,22 @@
 var a09226 =
 [
-    [ "VisibleNotifier", "d1/deb/a09226.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "d1/deb/a09226.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "d1/deb/a09226.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "d1/deb/a09226.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "d1/deb/a09226.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "d1/deb/a09226.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "d1/deb/a09226.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "d1/deb/a09226.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "d1/deb/a09226.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "MapGridManager", "d1/deb/a09226.html#af08729c03f8641a00ab1cc1b014214df", null ],
+    [ "CreateGrid", "d1/deb/a09226.html#ac5daa221eb530e0b34a1950431cb4496", null ],
+    [ "GetCreatedCellsInGridCount", "d1/deb/a09226.html#a322e14ef979b97017a7547194de6c1f0", null ],
+    [ "GetCreatedCellsInMapCount", "d1/deb/a09226.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
+    [ "GetCreatedGridsCount", "d1/deb/a09226.html#a7994a71cea924e66996161b049eb1d44", null ],
+    [ "GetGrid", "d1/deb/a09226.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
+    [ "GetLoadedGridsCount", "d1/deb/a09226.html#a8acd42cf15f78053070102f530c443a2", null ],
+    [ "IsGridCreated", "d1/deb/a09226.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
+    [ "IsGridLoaded", "d1/deb/a09226.html#a4cdf5925d6ebb358f501554c8b296424", null ],
+    [ "IsGridsFullyCreated", "d1/deb/a09226.html#a479daebe69f976c11649c9c571eb18e0", null ],
+    [ "IsGridsFullyLoaded", "d1/deb/a09226.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
+    [ "IsValidGridCoordinates", "d1/deb/a09226.html#a7d7957242615d753383e05a0ee5a1f82", null ],
+    [ "LoadGrid", "d1/deb/a09226.html#aab0a821d9672cd485c4966034c2243d5", null ],
+    [ "UnloadGrid", "d1/deb/a09226.html#ae381b54e599dce0c02815faf82711200", null ],
+    [ "_createdGridsCount", "d1/deb/a09226.html#a6976d52c3af458e4d5885d2523cfafab", null ],
+    [ "_gridLock", "d1/deb/a09226.html#aa2c2218a81a5d042925e5675948e242f", null ],
+    [ "_loadedGridsCount", "d1/deb/a09226.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
+    [ "_map", "d1/deb/a09226.html#a16a35fb94355d6542a2ef634f5411243", null ],
+    [ "_mapGrid", "d1/deb/a09226.html#acfac0df3926498e8a9aa581581f84e2c", null ]
 ];

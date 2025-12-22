@@ -1,4 +1,6 @@
 var a28334 =
 [
-    [ "ID", "d1/dfc/a28334.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "ChannelID", "d1/dfc/a28334.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d1/dfc/a28334.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d1/dfc/a28334.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

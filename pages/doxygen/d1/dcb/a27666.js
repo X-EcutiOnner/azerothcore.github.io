@@ -1,6 +1,6 @@
 var a27666 =
 [
-    [ "npc_preciousAI", "dc/d28/a27670.html", "dc/d28/a27670" ],
-    [ "npc_precious", "d1/dcb/a27666.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "d1/dcb/a27666.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "npc_innkeeper", "d1/dcb/a27666.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d1/dcb/a27666.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d1/dcb/a27666.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

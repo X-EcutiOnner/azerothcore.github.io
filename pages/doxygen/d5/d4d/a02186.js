@@ -1,9 +1,9 @@
 var a02186 =
 [
-    [ "boss_mechano_lord_capacitus", "dc/d30/a24066.html", "dc/d30/a24066" ],
-    [ "spell_capacitus_polarity_charge", "da/dc3/a24070.html", "da/dc3/a24070" ],
-    [ "spell_capacitus_polarity_charge_aura", "db/d8d/a24074.html", "db/d8d/a24074" ],
-    [ "spell_capacitus_polarity_shift", "d6/df6/a24078.html", "d6/df6/a24078" ],
+    [ "boss_mechano_lord_capacitus", "d3/d03/a24098.html", "d3/d03/a24098" ],
+    [ "spell_capacitus_polarity_charge", "dc/d8e/a24102.html", "dc/d8e/a24102" ],
+    [ "spell_capacitus_polarity_charge_aura", "de/d80/a24106.html", "de/d80/a24106" ],
+    [ "spell_capacitus_polarity_shift", "d3/d25/a24110.html", "d3/d25/a24110" ],
     [ "polarityShift", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -2088,6 +2088,7 @@ var a02186 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

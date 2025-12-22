@@ -1,9 +1,10 @@
 var a23002 =
 [
-    [ "HandleAfterCast", "d7/d5b/a23002.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d7/d5b/a23002.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d7/d5b/a23002.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d7/d5b/a23002.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d7/d5b/a23002.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d7/d5b/a23002.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "boss_illidari_council", "d7/d5b/a23002.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d7/d5b/a23002.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d7/d5b/a23002.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d7/d5b/a23002.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d7/d5b/a23002.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d7/d5b/a23002.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d7/d5b/a23002.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

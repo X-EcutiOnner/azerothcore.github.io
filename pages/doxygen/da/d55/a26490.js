@@ -1,7 +1,7 @@
 var a26490 =
 [
-    [ "HandleEffectRemove", "da/d55/a26490.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "da/d55/a26490.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "da/d55/a26490.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "da/d55/a26490.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "HandleApplyEffect", "da/d55/a26490.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "da/d55/a26490.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "da/d55/a26490.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "da/d55/a26490.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

@@ -1,7 +1,7 @@
 var a03722 =
 [
-    [ "boss_warmaster_voone", "d6/d2b/a12346.html", "d6/d2b/a12346" ],
-    [ "boss_warmaster_voone::boss_warmastervooneAI", "da/d26/a12350.html", "da/d26/a12350" ],
+    [ "boss_warmaster_voone", "da/d26/a12350.html", "da/d26/a12350" ],
+    [ "boss_warmaster_voone::boss_warmastervooneAI", "d8/d14/a12354.html", "d8/d14/a12354" ],
     [ "EventGroups", "db/db0/a03722.html#a1b10b77865251702395e967f7d08cba4", [
       [ "GROUP_THRASHER", "db/db0/a03722.html#a1b10b77865251702395e967f7d08cba4a07a997e9e94ff0c05366cf511ae15023", null ],
       [ "GROUP_BRAWLER", "db/db0/a03722.html#a1b10b77865251702395e967f7d08cba4ad5abea2cad34b3bc9e90d92eb3927dd3", null ],
@@ -3397,6 +3397,7 @@ var a03722 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

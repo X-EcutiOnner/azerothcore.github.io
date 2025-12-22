@@ -1,6 +1,6 @@
 var a27702 =
 [
-    [ "npc_taxi", "d9/dcc/a27702.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d9/dcc/a27702.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d9/dcc/a27702.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_preciousAI", "d1/d1c/a27706.html", "d1/d1c/a27706" ],
+    [ "npc_precious", "d9/dcc/a27702.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d9/dcc/a27702.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

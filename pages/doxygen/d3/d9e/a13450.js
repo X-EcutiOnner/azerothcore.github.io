@@ -1,11 +1,12 @@
 var a13450 =
 [
-    [ "boss_alythess", "d3/d9e/a13450.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "d3/d9e/a13450.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "d3/d9e/a13450.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "d3/d9e/a13450.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "d3/d9e/a13450.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "d3/d9e/a13450.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "d3/d9e/a13450.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "d3/d9e/a13450.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "boss_sacrolash", "d3/d9e/a13450.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "d3/d9e/a13450.html#ae650b6019d2f9191e1b532176159804d", null ],
+    [ "DoAction", "d3/d9e/a13450.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "d3/d9e/a13450.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "d3/d9e/a13450.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "d3/d9e/a13450.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "d3/d9e/a13450.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "d3/d9e/a13450.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "d3/d9e/a13450.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

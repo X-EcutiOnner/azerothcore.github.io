@@ -1,8 +1,7 @@
 var a26034 =
 [
-    [ "HandleDummy", "da/df6/a26034.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
-    [ "Load", "da/df6/a26034.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
-    [ "PrepareSpellScript", "da/df6/a26034.html#af89de259afbab436326a67b9eb7833ad", null ],
-    [ "Register", "da/df6/a26034.html#a78ffb20ccc10c3c632934af862273716", null ],
-    [ "Validate", "da/df6/a26034.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
+    [ "HandleDummy", "da/df6/a26034.html#a4e78ce5b1275860304eba414f8e66442", null ],
+    [ "PrepareSpellScript", "da/df6/a26034.html#a155fa844714aadadd0a6c31dc86748f3", null ],
+    [ "Register", "da/df6/a26034.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
+    [ "Validate", "da/df6/a26034.html#a08838d940e413d83f4c48854260c3e1b", null ]
 ];

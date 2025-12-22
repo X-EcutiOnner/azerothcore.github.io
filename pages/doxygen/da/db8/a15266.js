@@ -1,6 +1,8 @@
 var a15266 =
 [
-    [ "HandleScript", "da/db8/a15266.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "da/db8/a15266.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "da/db8/a15266.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "npc_obsidian_destroyer", "da/db8/a15266.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "da/db8/a15266.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "da/db8/a15266.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "da/db8/a15266.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "da/db8/a15266.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

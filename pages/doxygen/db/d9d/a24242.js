@@ -1,15 +1,6 @@
 var a24242 =
 [
-    [ "npc_kurenai_captiveAI", "db/d9d/a24242.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96", null ],
-    [ "JustDied", "db/d9d/a24242.html#a0778846d7d67f5d29ed3f7ef02f912f4", null ],
-    [ "JustEngagedWith", "db/d9d/a24242.html#a9e36749629568d7917353bee51be08b8", null ],
-    [ "JustSummoned", "db/d9d/a24242.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
-    [ "Reset", "db/d9d/a24242.html#aea5af2579f9be13620f15b82b5cc8436", null ],
-    [ "SetGUID", "db/d9d/a24242.html#a5ae293f5444f08f7ea58b3b58f4a7279", null ],
-    [ "SpellHitTarget", "db/d9d/a24242.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
-    [ "UpdateEscortAI", "db/d9d/a24242.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
-    [ "WaypointReached", "db/d9d/a24242.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
-    [ "ChainLightningTimer", "db/d9d/a24242.html#a9aede5daebe0cf90ca2091a052c34282", null ],
-    [ "FrostShockTimer", "db/d9d/a24242.html#a224c2df273f8d032e4302958879ce4d5", null ],
-    [ "HealTimer", "db/d9d/a24242.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]
+    [ "go_beaconAI", "d1/de7/a24246.html", "d1/de7/a24246" ],
+    [ "go_beacon", "db/d9d/a24242.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "db/d9d/a24242.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

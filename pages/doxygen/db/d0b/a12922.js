@@ -1,11 +1,11 @@
 var a12922 =
 [
-    [ "npc_demon_chain", "db/d0b/a12922.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "db/d0b/a12922.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "db/d0b/a12922.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "db/d0b/a12922.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "db/d0b/a12922.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "db/d0b/a12922.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "db/d0b/a12922.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "db/d0b/a12922.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "npc_kilrek", "db/d0b/a12922.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "db/d0b/a12922.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "db/d0b/a12922.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "db/d0b/a12922.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "db/d0b/a12922.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "db/d0b/a12922.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "db/d0b/a12922.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "db/d0b/a12922.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

@@ -1,6 +1,8 @@
 var a14294 =
 [
-    [ "HandleObjectAreaTargetSelect", "d4/d2c/a14294.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d4/d2c/a14294.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d4/d2c/a14294.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "npc_spawn_of_marli", "d4/d2c/a14294.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d4/d2c/a14294.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d4/d2c/a14294.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d4/d2c/a14294.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d4/d2c/a14294.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

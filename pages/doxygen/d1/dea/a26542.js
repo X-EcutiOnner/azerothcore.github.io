@@ -1,5 +1,7 @@
 var a26542 =
 [
-    [ "PrepareSpellScript", "d1/dea/a26542.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "d1/dea/a26542.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "CheckRequirement", "d1/dea/a26542.html#afc9206b1d92834943c9825dfd97439c9", null ],
+    [ "HandleScriptEffect", "d1/dea/a26542.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "d1/dea/a26542.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "d1/dea/a26542.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

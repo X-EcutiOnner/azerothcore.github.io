@@ -1,5 +1,7 @@
 var a17394 =
 [
-    [ "achievement_share_the_love", "db/dd1/a17394.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "db/dd1/a17394.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "HandleScriptEffect", "db/dd1/a17394.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "db/dd1/a17394.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "db/dd1/a17394.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "db/dd1/a17394.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

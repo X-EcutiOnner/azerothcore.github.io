@@ -1,5 +1,7 @@
 var a27958 =
 [
-    [ "go_transport_the_thundercaller", "df/d18/a27958.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "df/d18/a27958.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_flameshocker", "df/d18/a27958.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "df/d18/a27958.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "df/d18/a27958.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "df/d18/a27958.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

@@ -1,11 +1,11 @@
 var a02720 =
 [
-    [ "boss_kelthuzad", "db/d57/a19254.html", "db/d57/a19254" ],
-    [ "boss_kelthuzad::boss_kelthuzadAI", "d1/d44/a19258.html", "d1/d44/a19258" ],
-    [ "boss_kelthuzad_minion", "d8/d36/a19262.html", "d8/d36/a19262" ],
-    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "d6/d4c/a19266.html", "d6/d4c/a19266" ],
-    [ "spell_kelthuzad_frost_blast", "da/da3/a19270.html", "da/da3/a19270" ],
-    [ "spell_kelthuzad_detonate_mana_aura", "da/db4/a19274.html", "da/db4/a19274" ],
+    [ "boss_kelthuzad", "d1/d44/a19258.html", "d1/d44/a19258" ],
+    [ "boss_kelthuzad::boss_kelthuzadAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "boss_kelthuzad_minion", "d6/d4c/a19266.html", "d6/d4c/a19266" ],
+    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "da/da3/a19270.html", "da/da3/a19270" ],
+    [ "spell_kelthuzad_frost_blast", "da/db4/a19274.html", "da/db4/a19274" ],
+    [ "spell_kelthuzad_detonate_mana_aura", "d8/dad/a19278.html", "d8/dad/a19278" ],
     [ "Event", "d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_SUMMON_SOLDIER", "d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3a84eac75e4274b66a6397ab6c0d0f98f7", null ],
       [ "EVENT_SUMMON_UNSTOPPABLE_ABOMINATION", "d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3af49aa46c23f4eecfc8d7ec8de4ce7d8d", null ],
@@ -2800,6 +2800,7 @@ var a02720 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

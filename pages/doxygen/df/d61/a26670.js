@@ -1,6 +1,7 @@
 var a26670 =
 [
-    [ "HandleDummy", "df/d61/a26670.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "df/d61/a26670.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "df/d61/a26670.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "HandleScript", "df/d61/a26670.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "df/d61/a26670.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "df/d61/a26670.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "df/d61/a26670.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

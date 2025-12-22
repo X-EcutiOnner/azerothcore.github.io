@@ -1,6 +1,8 @@
 var a28382 =
 [
-    [ "color", "d0/d06/a28382.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d0/d06/a28382.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d0/d06/a28382.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "DamagedDisplayId", "d0/d06/a28382.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d0/d06/a28382.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d0/d06/a28382.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d0/d06/a28382.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d0/d06/a28382.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

@@ -1,6 +1,6 @@
 var a24534 =
 [
-    [ "achievement", "d9/de3/a24534.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d9/de3/a24534.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d9/de3/a24534.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_slim", "d9/de3/a24534.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d9/de3/a24534.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d9/de3/a24534.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

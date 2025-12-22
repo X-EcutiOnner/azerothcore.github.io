@@ -1,6 +1,9 @@
 var a19774 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "da/d3c/a19778.html", "da/d3c/a19778" ],
-    [ "boss_sjonnir_malformed_ooze", "de/da3/a19774.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "de/da3/a19774.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "de/da3/a19774.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "de/da3/a19774.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "de/da3/a19774.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "de/da3/a19774.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "de/da3/a19774.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "de/da3/a19774.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

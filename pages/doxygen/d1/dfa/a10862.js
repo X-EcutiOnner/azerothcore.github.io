@@ -1,7 +1,8 @@
 var a10862 =
 [
-    [ "BuybackItem", "d1/dfa/a10862.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "d1/dfa/a10862.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "d1/dfa/a10862.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "d1/dfa/a10862.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "SellItem", "d1/dfa/a10862.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "d1/dfa/a10862.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "d1/dfa/a10862.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "d1/dfa/a10862.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "d1/dfa/a10862.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

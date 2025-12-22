@@ -1,6 +1,9 @@
 var a23962 =
 [
-    [ "AfterRemove", "dc/dfe/a23962.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "dc/dfe/a23962.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "dc/dfe/a23962.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandleEffectApply", "dc/dfe/a23962.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "dc/dfe/a23962.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "dc/dfe/a23962.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "dc/dfe/a23962.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "dc/dfe/a23962.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "dc/dfe/a23962.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

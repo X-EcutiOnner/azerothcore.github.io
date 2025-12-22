@@ -1,9 +1,9 @@
 var a22578 =
 [
-    [ "npc_finklesteinAI", "d9/d67/a22582.html", "d9/d67/a22582" ],
-    [ "npc_finklestein", "d4/d57/a22578.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d4/d57/a22578.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d4/d57/a22578.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d4/d57/a22578.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d4/d57/a22578.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "HandleFinish", "d4/d57/a22578.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d4/d57/a22578.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d4/d57/a22578.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d4/d57/a22578.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d4/d57/a22578.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d4/d57/a22578.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

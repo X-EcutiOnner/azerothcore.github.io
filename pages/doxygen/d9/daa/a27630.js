@@ -1,6 +1,5 @@
 var a27630 =
 [
-    [ "npc_innkeeper", "d9/daa/a27630.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d9/daa/a27630.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d9/daa/a27630.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "item_only_for_flight", "d9/daa/a27630.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d9/daa/a27630.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

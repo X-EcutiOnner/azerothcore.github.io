@@ -1,10 +1,10 @@
 var a01982 =
 [
-    [ "boss_vazruden_the_herald", "d6/d9f/a23706.html", "d6/d9f/a23706" ],
-    [ "boss_nazan", "dc/d7a/a23710.html", "dc/d7a/a23710" ],
-    [ "boss_vazruden", "db/d68/a23714.html", "db/d68/a23714" ],
-    [ "spell_vazruden_fireball", "d0/d96/a23718.html", "d0/d96/a23718" ],
-    [ "spell_vazruden_call_nazan", "de/d67/a23722.html", "de/d67/a23722" ],
+    [ "boss_vazruden_the_herald", "d7/de5/a23738.html", "d7/de5/a23738" ],
+    [ "boss_nazan", "de/ddf/a23742.html", "de/ddf/a23742" ],
+    [ "boss_vazruden", "de/d39/a23746.html", "de/d39/a23746" ],
+    [ "spell_vazruden_fireball", "db/d57/a23750.html", "db/d57/a23750" ],
+    [ "spell_vazruden_call_nazan", "d6/d28/a23754.html", "d6/d28/a23754" ],
     [ "GroupPhase", "d2/d3d/a01982.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "d2/d3d/a01982.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "d2/d3d/a01982.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]
@@ -3319,6 +3319,7 @@ var a01982 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

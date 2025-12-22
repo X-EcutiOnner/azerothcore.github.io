@@ -1,7 +1,7 @@
 var a18086 =
 [
-    [ "HandleTriggerSpell", "d6/d5e/a18086.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d6/d5e/a18086.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d6/d5e/a18086.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d6/d5e/a18086.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "HandleDummy", "d6/d5e/a18086.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d6/d5e/a18086.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d6/d5e/a18086.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d6/d5e/a18086.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

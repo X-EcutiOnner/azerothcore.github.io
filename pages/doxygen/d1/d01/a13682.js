@@ -1,6 +1,6 @@
 var a13682 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "dc/d7b/a13686.html", "dc/d7b/a13686" ],
-    [ "instance_the_stockade", "d1/d01/a13682.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d1/d01/a13682.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "OnApply", "d1/d01/a13682.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "d1/d01/a13682.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "d1/d01/a13682.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

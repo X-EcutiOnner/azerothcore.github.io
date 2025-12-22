@@ -1,11 +1,12 @@
 var a11154 =
 [
-    [ "OptionalData", "dd/d1c/a11158.html", "dd/d1c/a11158" ],
-    [ "ArrivalTicks", "df/d70/a11154.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "df/d70/a11154.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "df/d70/a11154.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "df/d70/a11154.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "df/d70/a11154.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "df/d70/a11154.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "df/d70/a11154.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "Build", "df/d70/a11154.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "df/d70/a11154.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "df/d70/a11154.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "df/d70/a11154.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "df/d70/a11154.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "df/d70/a11154.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "df/d70/a11154.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "df/d70/a11154.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "df/d70/a11154.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

@@ -1,6 +1,10 @@
 var a23718 =
 [
-    [ "HandleScriptEffect", "d0/d96/a23718.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "d0/d96/a23718.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "d0/d96/a23718.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "boss_kelidan_the_breaker", "d0/d96/a23718.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "d0/d96/a23718.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "d0/d96/a23718.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "d0/d96/a23718.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "d0/d96/a23718.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "d0/d96/a23718.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "d0/d96/a23718.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

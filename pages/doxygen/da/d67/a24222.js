@@ -1,7 +1,6 @@
 var a24222 =
 [
-    [ "npc_maghar_captiveAI", "d7/d2a/a24226.html", "d7/d2a/a24226" ],
-    [ "npc_maghar_captive", "da/d67/a24222.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "da/d67/a24222.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "da/d67/a24222.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d2a/a24226.html", "d7/d2a/a24226" ],
+    [ "npc_wounded_blood_elf", "da/d67/a24222.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "da/d67/a24222.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

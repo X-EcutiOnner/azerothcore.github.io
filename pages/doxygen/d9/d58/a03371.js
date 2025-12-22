@@ -1,8 +1,8 @@
 var a03371 =
 [
-    [ "boss_jeklik", "de/dd8/a14214.html", "de/dd8/a14214" ],
-    [ "npc_batrider", "d4/dbc/a14218.html", "d4/dbc/a14218" ],
-    [ "spell_batrider_bomb", "d3/d21/a14222.html", "d3/d21/a14222" ],
+    [ "boss_jeklik", "d4/dbc/a14218.html", "d4/dbc/a14218" ],
+    [ "npc_batrider", "d3/d21/a14222.html", "d3/d21/a14222" ],
+    [ "spell_batrider_bomb", "d7/d5e/a14226.html", "d7/d5e/a14226" ],
     [ "BatIds", "d9/d58/a03371.html#a3b3d24c3d210da1467e82670d75b702c", [
       [ "NPC_BLOODSEEKER_BAT", "d9/d58/a03371.html#a3b3d24c3d210da1467e82670d75b702ca3bdc4a48ebcc2262d98ef45c756dea14", null ],
       [ "NPC_BATRIDER", "d9/d58/a03371.html#a3b3d24c3d210da1467e82670d75b702ca7d8c3cd30d5f7194b465e3cfd2fdc310", null ]
@@ -2640,6 +2640,7 @@ var a03371 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

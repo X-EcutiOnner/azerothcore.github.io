@@ -1,5 +1,6 @@
 var a27382 =
 [
-    [ "go_mistwhisper_treasure", "df/d1b/a27382.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "df/d1b/a27382.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "boss_emerissAI", "dd/d50/a27386.html", "dd/d50/a27386" ],
+    [ "boss_emeriss", "df/d1b/a27382.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "df/d1b/a27382.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

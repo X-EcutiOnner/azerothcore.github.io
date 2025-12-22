@@ -1,12 +1,12 @@
 var a09598 =
 [
-    [ "EventLogEntry", "de/d53/a09598.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "de/d53/a09598.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "de/d53/a09598.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "de/d53/a09598.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "de/d53/a09598.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "de/d53/a09598.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "de/d53/a09598.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "de/d53/a09598.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "de/d53/a09598.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "LogEntry", "de/d53/a09598.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "de/d53/a09598.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "de/d53/a09598.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "de/d53/a09598.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "de/d53/a09598.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "de/d53/a09598.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "de/d53/a09598.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "de/d53/a09598.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "de/d53/a09598.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

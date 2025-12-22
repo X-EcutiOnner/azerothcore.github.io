@@ -1,6 +1,8 @@
 var a26546 =
 [
-    [ "CheckProc", "d7/d5b/a26546.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d7/d5b/a26546.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d7/d5b/a26546.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "HandleEffectRemove", "d7/d5b/a26546.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "d7/d5b/a26546.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "d7/d5b/a26546.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "d7/d5b/a26546.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "d7/d5b/a26546.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

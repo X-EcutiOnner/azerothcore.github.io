@@ -1,6 +1,6 @@
 var a24078 =
 [
-    [ "HandleDummy", "d6/df6/a24078.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d6/df6/a24078.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d6/df6/a24078.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "instance_the_eye_InstanceMapScript", "d9/d49/a24082.html", "d9/d49/a24082" ],
+    [ "instance_the_eye", "d6/df6/a24078.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d6/df6/a24078.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

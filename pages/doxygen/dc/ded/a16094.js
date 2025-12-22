@@ -1,11 +1,11 @@
 var a16094 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "dc/ded/a16094.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "dc/ded/a16094.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "dc/ded/a16094.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "dc/ded/a16094.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "dc/ded/a16094.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "dc/ded/a16094.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "dc/ded/a16094.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "dc/ded/a16094.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_anub_ar_crusherAI", "dc/ded/a16094.html#a35866e3cad208bb70bbc5a146301c28d", null ],
+    [ "DoAction", "dc/ded/a16094.html#ac11795153811d2465b106bc1fdea508a", null ],
+    [ "JustEngagedWith", "dc/ded/a16094.html#a02d3b78427bc247cde28620470c43331", null ],
+    [ "JustSummoned", "dc/ded/a16094.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
+    [ "Reset", "dc/ded/a16094.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
+    [ "UpdateAI", "dc/ded/a16094.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
+    [ "events", "dc/ded/a16094.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
+    [ "summons", "dc/ded/a16094.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
 ];

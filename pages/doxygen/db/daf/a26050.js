@@ -1,7 +1,7 @@
 var a26050 =
 [
-    [ "HandleDummy", "db/daf/a26050.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
-    [ "PrepareSpellScript", "db/daf/a26050.html#a22614b06c6f1853f02a992dcab027a60", null ],
-    [ "Register", "db/daf/a26050.html#a9ad5691f6049078c45052d07513b35a2", null ],
-    [ "Validate", "db/daf/a26050.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
+    [ "HandleDummy", "db/daf/a26050.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
+    [ "PrepareSpellScript", "db/daf/a26050.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
+    [ "Register", "db/daf/a26050.html#afd1588dc55730c52a922f37e60ec134a", null ],
+    [ "Validate", "db/daf/a26050.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
 ];

@@ -1,7 +1,4 @@
 var a28358 =
 [
-    [ "EmoteType", "d9/d77/a28358.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d9/d77/a28358.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d9/d77/a28358.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d9/d77/a28358.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "DisplayRaceID", "d9/d77/a28358.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

@@ -1,9 +1,8 @@
 var a13494 =
 [
-    [ "npc_demonic_vapor_trail", "d3/d2d/a13494.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "d3/d2d/a13494.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "d3/d2d/a13494.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "d3/d2d/a13494.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "d3/d2d/a13494.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "d3/d2d/a13494.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "npc_demonic_vapor", "d3/d2d/a13494.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d3/d2d/a13494.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d3/d2d/a13494.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d3/d2d/a13494.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d3/d2d/a13494.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

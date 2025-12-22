@@ -1,6 +1,8 @@
 var a24218 =
 [
-    [ "go_magtheridons_head", "df/da0/a24218.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "df/da0/a24218.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "df/da0/a24218.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_ancestral_wolfAI", "df/da0/a24218.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "df/da0/a24218.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "df/da0/a24218.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "df/da0/a24218.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "df/da0/a24218.html#ac238214604720e298124b58c35d58e05", null ]
 ];

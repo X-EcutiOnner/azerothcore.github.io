@@ -1,9 +1,10 @@
 var a08114 =
 [
-    [ "VendorItem", "df/de9/a08114.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "df/de9/a08114.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "df/de9/a08114.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "df/de9/a08114.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "df/de9/a08114.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "df/de9/a08114.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "auras", "df/de9/a08114.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "df/de9/a08114.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "df/de9/a08114.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "df/de9/a08114.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "df/de9/a08114.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "df/de9/a08114.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "df/de9/a08114.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

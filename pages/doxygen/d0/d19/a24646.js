@@ -1,6 +1,6 @@
 var a24646 =
 [
-    [ "HandleSummon", "d0/d19/a24646.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "d0/d19/a24646.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "d0/d19/a24646.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "FilterTargets", "d0/d19/a24646.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d0/d19/a24646.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d0/d19/a24646.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

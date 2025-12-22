@@ -1,10 +1,10 @@
 var a02390 =
 [
-    [ "PyramidEventData", "d4/d18/a15930.html", "d4/d18/a15930" ],
-    [ "instance_zulfarrak", "dc/d0b/a15934.html", "dc/d0b/a15934" ],
-    [ "instance_zulfarrak::instance_zulfarrak_InstanceMapScript", "d0/d29/a15938.html", "d0/d29/a15938" ],
-    [ "spell_zulfarrak_summon_zulfarrak_zombies", "db/d73/a15942.html", "db/d73/a15942" ],
-    [ "spell_zulfarrak_unlocking", "d6/d2d/a15946.html", "d6/d2d/a15946" ],
+    [ "PyramidEventData", "dc/d0b/a15934.html", "dc/d0b/a15934" ],
+    [ "instance_zulfarrak", "d0/d29/a15938.html", "d0/d29/a15938" ],
+    [ "instance_zulfarrak::instance_zulfarrak_InstanceMapScript", "db/d73/a15942.html", "db/d73/a15942" ],
+    [ "spell_zulfarrak_summon_zulfarrak_zombies", "d6/d2d/a15946.html", "d6/d2d/a15946" ],
+    [ "spell_zulfarrak_unlocking", "d1/d6f/a15950.html", "d1/d6f/a15950" ],
     [ "Misc", "d6/dff/a02390.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

@@ -1,5 +1,6 @@
 var a22626 =
 [
-    [ "go_scourge_enclosure", "d9/d00/a22626.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d9/d00/a22626.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "npc_drakuru_shacklesAI", "db/d16/a22630.html", "db/d16/a22630" ],
+    [ "npc_drakuru_shackles", "d9/d00/a22626.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d9/d00/a22626.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

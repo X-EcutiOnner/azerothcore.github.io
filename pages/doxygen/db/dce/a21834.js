@@ -1,6 +1,5 @@
 var a21834 =
 [
-    [ "npc_mei_francis_mountAI", "d3/d3e/a21838.html", "d3/d3e/a21838" ],
-    [ "npc_mei_francis_mount", "db/dce/a21834.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "db/dce/a21834.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_steam_powered_auctioneerAI", "db/dce/a21834.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "db/dce/a21834.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

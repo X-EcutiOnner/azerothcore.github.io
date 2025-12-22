@@ -1,11 +1,6 @@
 var a24986 =
 [
-    [ "spell_gen_relocaste_dest", "df/d99/a24986.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "df/d99/a24986.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "df/d99/a24986.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "df/d99/a24986.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "df/d99/a24986.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "df/d99/a24986.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "df/d99/a24986.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "df/d99/a24986.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "CheckProc", "df/d99/a24986.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "df/d99/a24986.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "df/d99/a24986.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

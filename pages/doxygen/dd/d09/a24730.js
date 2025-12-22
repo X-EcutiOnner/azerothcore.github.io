@@ -1,9 +1,9 @@
 var a24730 =
 [
-    [ "CheckCast", "dd/d09/a24730.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "dd/d09/a24730.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "dd/d09/a24730.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "dd/d09/a24730.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "dd/d09/a24730.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "dd/d09/a24730.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "Absorb", "dd/d09/a24730.html#ade7f8805491a627cf3e8accdee178f3e", null ],
+    [ "CalculateAmount", "dd/d09/a24730.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
+    [ "Load", "dd/d09/a24730.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
+    [ "PrepareAuraScript", "dd/d09/a24730.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
+    [ "Register", "dd/d09/a24730.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
+    [ "absorbPct", "dd/d09/a24730.html#a58c03a57bdfcba203159ae38683fdf14", null ]
 ];

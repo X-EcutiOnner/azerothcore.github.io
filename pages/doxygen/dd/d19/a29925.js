@@ -1,4 +1,8 @@
 var a29925 =
 [
-    [ "gOpenArchives", "dd/d19/a29925.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "dd/d19/a29925.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "dd/d19/a29925.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "dd/d19/a29925.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "dd/d19/a29925.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "dd/d19/a29925.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

@@ -1,6 +1,6 @@
 var a25278 =
 [
-    [ "HandleEffectPeriodic", "d6/d3c/a25278.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "d6/d3c/a25278.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "d6/d3c/a25278.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "CheckRequirement", "d6/d3c/a25278.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "d6/d3c/a25278.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "d6/d3c/a25278.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

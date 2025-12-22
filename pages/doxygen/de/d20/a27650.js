@@ -1,10 +1,5 @@
 var a27650 =
 [
-    [ "npc_prof_tailor", "de/d20/a27650.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "de/d20/a27650.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "de/d20/a27650.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "de/d20/a27650.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "de/d20/a27650.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "de/d20/a27650.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "de/d20/a27650.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "item_captured_frog", "de/d20/a27650.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "de/d20/a27650.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

@@ -1,7 +1,7 @@
 var a03467 =
 [
-    [ "npc_corporal_keeshan", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
-    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d6/d6c/a13830.html", "d6/d6c/a13830" ],
+    [ "npc_corporal_keeshan", "d6/d6c/a13830.html", "d6/d6c/a13830" ],
+    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "dd/dab/a13834.html", "dd/dab/a13834" ],
     [ "CorporalKeeshan", "d7/db0/a03467.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
       [ "QUEST_MISSING_IN_ACTION", "d7/db0/a03467.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
       [ "SAY_CORPORAL_1", "d7/db0/a03467.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],

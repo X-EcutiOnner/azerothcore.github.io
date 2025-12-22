@@ -1,7 +1,6 @@
 var a25434 =
 [
-    [ "HandleDamage", "d7/d69/a25434.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d7/d69/a25434.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d7/d69/a25434.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d7/d69/a25434.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleCast", "d7/d69/a25434.html#ac6f7b9650d0a55834dafb09555692243", null ],
+    [ "PrepareSpellScript", "d7/d69/a25434.html#ab3dc21aa63f0fb9202233603106eef87", null ],
+    [ "Register", "d7/d69/a25434.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
 ];

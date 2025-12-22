@@ -1,7 +1,5 @@
 var a26174 =
 [
-    [ "CalcPeriodic", "da/d24/a26174.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "da/d24/a26174.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "da/d24/a26174.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "da/d24/a26174.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "PrepareSpellScript", "da/d24/a26174.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
+    [ "Register", "da/d24/a26174.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
 ];

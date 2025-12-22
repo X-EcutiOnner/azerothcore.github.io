@@ -1,6 +1,7 @@
 var a25634 =
 [
-    [ "CheckCast", "dd/dfb/a25634.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "dd/dfb/a25634.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "dd/dfb/a25634.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "HandleDummy", "dd/dfb/a25634.html#a84430c269e419acd94a2d0520b9ca639", null ],
+    [ "PrepareSpellScript", "dd/dfb/a25634.html#a8ec4e9cea213739825126111d038d1a5", null ],
+    [ "Register", "dd/dfb/a25634.html#a1abee3e5f324875aab8dd666ac417308", null ],
+    [ "Validate", "dd/dfb/a25634.html#a393043b94f50d9379a987f9b49b8abde", null ]
 ];

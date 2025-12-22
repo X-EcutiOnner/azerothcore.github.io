@@ -1,7 +1,5 @@
 var a24278 =
 [
-    [ "npc_maxx_a_million_escortAI", "dd/d1c/a24282.html", "dd/d1c/a24282" ],
-    [ "npc_maxx_a_million_escort", "d5/d9b/a24278.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d5/d9b/a24278.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d5/d9b/a24278.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "go_warmaul_prison", "d5/d9b/a24278.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d5/d9b/a24278.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

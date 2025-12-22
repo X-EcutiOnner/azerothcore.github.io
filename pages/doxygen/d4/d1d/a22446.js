@@ -1,6 +1,6 @@
 var a22446 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d95/a22450.html", "d6/d95/a22450" ],
-    [ "npc_brunnhildar_prisoner", "d4/d1d/a22446.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d4/d1d/a22446.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_freed_protodrakeAI", "d6/d95/a22450.html", "d6/d95/a22450" ],
+    [ "npc_freed_protodrake", "d4/d1d/a22446.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d4/d1d/a22446.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

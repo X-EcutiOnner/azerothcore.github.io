@@ -1,7 +1,10 @@
 var a24746 =
 [
-    [ "CalcDamage", "db/d3d/a24746.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "db/d3d/a24746.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "db/d3d/a24746.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "db/d3d/a24746.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "CheckProc", "db/d3d/a24746.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "db/d3d/a24746.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "db/d3d/a24746.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "db/d3d/a24746.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "db/d3d/a24746.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "db/d3d/a24746.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTarget", "db/d3d/a24746.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
 ];

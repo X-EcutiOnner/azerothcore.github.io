@@ -1,6 +1,7 @@
 var a27154 =
 [
-    [ "CalculateAmount", "d1/dde/a27154.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "d1/dde/a27154.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "d1/dde/a27154.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "HandleDummy", "d1/dde/a27154.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d1/dde/a27154.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d1/dde/a27154.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d1/dde/a27154.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

@@ -1,11 +1,11 @@
 var a00359 =
 [
-    [ "ICNpc", "d2/d64/a07454.html", "d2/d64/a07454" ],
-    [ "ICGo", "d2/d57/a07458.html", "d2/d57/a07458" ],
-    [ "ICNodeInfo", "d4/d36/a07462.html", "d4/d36/a07462" ],
-    [ "ICNodePoint", "db/d86/a07466.html", "db/d86/a07466" ],
-    [ "BattlegroundICScore", "d8/dd6/a07470.html", "d8/dd6/a07470" ],
-    [ "BattlegroundIC", "d4/d7b/a07474.html", "d4/d7b/a07474" ],
+    [ "ICNpc", "d2/d57/a07458.html", "d2/d57/a07458" ],
+    [ "ICGo", "d4/d36/a07462.html", "d4/d36/a07462" ],
+    [ "ICNodeInfo", "db/d86/a07466.html", "db/d86/a07466" ],
+    [ "ICNodePoint", "d8/dd6/a07470.html", "d8/dd6/a07470" ],
+    [ "BattlegroundICScore", "d4/d7b/a07474.html", "d4/d7b/a07474" ],
+    [ "BattlegroundIC", "dd/d74/a07478.html", "dd/d74/a07478" ],
     [ "MAX_REINFORCEMENTS", "d4/def/a00359.html#a639f17b919501d01cbd024f198898af3", null ],
     [ "Actions", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
@@ -2532,6 +2532,7 @@ var a00359 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

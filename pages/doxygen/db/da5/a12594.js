@@ -1,7 +1,7 @@
 var a12594 =
 [
-    [ "HandleHit", "db/da5/a12594.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "db/da5/a12594.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "db/da5/a12594.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "db/da5/a12594.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "HandlePeriodic", "db/da5/a12594.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "db/da5/a12594.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "db/da5/a12594.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "db/da5/a12594.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

@@ -1,7 +1,7 @@
 var a25610 =
 [
-    [ "HandleDummy", "d0/d6a/a25610.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
-    [ "Load", "d0/d6a/a25610.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
-    [ "PrepareSpellScript", "d0/d6a/a25610.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
-    [ "Register", "d0/d6a/a25610.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
+    [ "HandleOnEffectApply", "d0/d6a/a25610.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d0/d6a/a25610.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d0/d6a/a25610.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d0/d6a/a25610.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

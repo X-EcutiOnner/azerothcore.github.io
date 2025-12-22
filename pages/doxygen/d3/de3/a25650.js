@@ -1,8 +1,8 @@
 var a25650 =
 [
-    [ "HandleFinish", "d3/de3/a25650.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d3/de3/a25650.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d3/de3/a25650.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d3/de3/a25650.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d3/de3/a25650.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandlePeriodic", "d3/de3/a25650.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "d3/de3/a25650.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "d3/de3/a25650.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "d3/de3/a25650.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "d3/de3/a25650.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

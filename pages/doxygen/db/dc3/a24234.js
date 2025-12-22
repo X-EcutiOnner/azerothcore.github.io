@@ -1,7 +1,9 @@
 var a24234 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "db/dc3/a24234.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "db/dc3/a24234.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "db/dc3/a24234.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "db/dc3/a24234.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_fel_guard_houndAI", "db/dc3/a24234.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "db/dc3/a24234.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "db/dc3/a24234.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "db/dc3/a24234.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "db/dc3/a24234.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "db/dc3/a24234.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

@@ -1,7 +1,6 @@
 var a18054 =
 [
-    [ "HandleScript", "d8/d9e/a18054.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d8/d9e/a18054.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d8/d9e/a18054.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d8/d9e/a18054.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_gas_cloudAI", "d8/d9e/a18054.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "d8/d9e/a18054.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "d8/d9e/a18054.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

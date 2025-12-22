@@ -1,9 +1,6 @@
 var a27374 =
 [
-    [ "ChatLogScript", "d3/dd8/a27374.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "npc_spirit_shadeAI", "d8/d64/a27378.html", "d8/d64/a27378" ],
+    [ "npc_spirit_shade", "d3/dd8/a27374.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d3/dd8/a27374.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

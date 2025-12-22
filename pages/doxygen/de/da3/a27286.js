@@ -1,5 +1,5 @@
 var a27286 =
 [
-    [ "AreaTrigger_at_last_rites", "de/da3/a27286.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "de/da3/a27286.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "achievement_killed_exp_or_honor_target", "de/da3/a27286.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "de/da3/a27286.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

@@ -1,10 +1,8 @@
 var a27010 =
 [
-    [ "CalculateAmount", "db/d4e/a27010.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "db/d4e/a27010.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "db/d4e/a27010.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "db/d4e/a27010.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "db/d4e/a27010.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "db/d4e/a27010.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "db/d4e/a27010.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "CalcPeriodic", "db/d4e/a27010.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "db/d4e/a27010.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "db/d4e/a27010.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "db/d4e/a27010.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "db/d4e/a27010.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

@@ -1,9 +1,6 @@
 var a26306 =
 [
-    [ "CountTargets", "d4/d08/a26306.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d4/d08/a26306.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d4/d08/a26306.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d4/d08/a26306.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d4/d08/a26306.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d4/d08/a26306.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "HandleRemove", "d4/d08/a26306.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d4/d08/a26306.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d4/d08/a26306.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

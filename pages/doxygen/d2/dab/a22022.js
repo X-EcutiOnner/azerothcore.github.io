@@ -1,6 +1,8 @@
 var a22022 =
 [
-    [ "npc_spiritual_insightAI", "d6/de3/a22026.html", "d6/de3/a22026" ],
-    [ "npc_spiritual_insight", "d2/dab/a22022.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "d2/dab/a22022.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_q24545_vegardAI", "d2/dab/a22022.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d2/dab/a22022.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d2/dab/a22022.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d2/dab/a22022.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d2/dab/a22022.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

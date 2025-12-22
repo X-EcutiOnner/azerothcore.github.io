@@ -1,7 +1,5 @@
 var a22538 =
 [
-    [ "HandleScript", "d6/d1d/a22538.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d6/d1d/a22538.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d6/d1d/a22538.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d6/d1d/a22538.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_wg_spirit_guideAI", "d6/d1d/a22538.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d6/d1d/a22538.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

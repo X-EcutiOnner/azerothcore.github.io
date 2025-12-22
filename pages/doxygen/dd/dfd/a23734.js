@@ -1,6 +1,12 @@
 var a23734 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d7/de5/a23738.html", "d7/de5/a23738" ],
-    [ "instance_hellfire_ramparts", "dd/dfd/a23734.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "dd/dfd/a23734.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "boss_omor_the_unscarred", "dd/dfd/a23734.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dd/dfd/a23734.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dd/dfd/a23734.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dd/dfd/a23734.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dd/dfd/a23734.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dd/dfd/a23734.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dd/dfd/a23734.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dd/dfd/a23734.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dd/dfd/a23734.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

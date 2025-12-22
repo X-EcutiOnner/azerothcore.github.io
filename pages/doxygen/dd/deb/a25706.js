@@ -1,5 +1,6 @@
 var a25706 =
 [
-    [ "PrepareSpellScript", "dd/deb/a25706.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "dd/deb/a25706.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "HandleFinish", "dd/deb/a25706.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "dd/deb/a25706.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "dd/deb/a25706.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

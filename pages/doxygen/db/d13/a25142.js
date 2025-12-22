@@ -1,6 +1,6 @@
 var a25142 =
 [
-    [ "HandleScript", "db/d13/a25142.html#aa6104370d5700e43223c7138e941ba05", null ],
-    [ "PrepareSpellScript", "db/d13/a25142.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
-    [ "Register", "db/d13/a25142.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
+    [ "OnPeriodic", "db/d13/a25142.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "db/d13/a25142.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "db/d13/a25142.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

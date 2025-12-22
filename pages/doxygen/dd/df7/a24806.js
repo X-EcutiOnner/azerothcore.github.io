@@ -1,11 +1,10 @@
 var a24806 =
 [
-    [ "CalcPeriodic", "dd/df7/a24806.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "dd/df7/a24806.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "dd/df7/a24806.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "dd/df7/a24806.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "dd/df7/a24806.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "dd/df7/a24806.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "dd/df7/a24806.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "dd/df7/a24806.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "HandleEffectRemove", "dd/df7/a24806.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "dd/df7/a24806.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "dd/df7/a24806.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "dd/df7/a24806.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "dd/df7/a24806.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "dd/df7/a24806.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "dd/df7/a24806.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

@@ -1,6 +1,8 @@
 var a19002 =
 [
-    [ "npc_icc_severed_essenceAI", "d4/d82/a19006.html", "d4/d82/a19006" ],
-    [ "npc_icc_severed_essence", "d2/d94/a19002.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d2/d94/a19002.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "Class", "d2/d94/a19002.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d2/d94/a19002.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d2/d94/a19002.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d2/d94/a19002.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d2/d94/a19002.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

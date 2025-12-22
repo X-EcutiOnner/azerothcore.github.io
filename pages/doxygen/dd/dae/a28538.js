@@ -1,7 +1,8 @@
 var a28538 =
 [
-    [ "EpicPropertiesPoints", "dd/dae/a28538.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "dd/dae/a28538.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "dd/dae/a28538.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "dd/dae/a28538.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "areaTriggerText", "dd/dae/a28538.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "dd/dae/a28538.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "dd/dae/a28538.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "dd/dae/a28538.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "dd/dae/a28538.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

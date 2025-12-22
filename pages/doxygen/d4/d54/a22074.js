@@ -1,10 +1,7 @@
 var a22074 =
 [
-    [ "npc_emilyAI", "d4/d54/a22074.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d4/d54/a22074.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d4/d54/a22074.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d4/d54/a22074.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d4/d54/a22074.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d4/d54/a22074.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d4/d54/a22074.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_emilyAI", "d9/dd2/a22078.html", "d9/dd2/a22078" ],
+    [ "npc_emily", "d4/d54/a22074.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d4/d54/a22074.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d4/d54/a22074.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

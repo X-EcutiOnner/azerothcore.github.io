@@ -1,6 +1,6 @@
 var a25774 =
 [
-    [ "OnRemove", "d5/dfb/a25774.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d5/dfb/a25774.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d5/dfb/a25774.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleHeal", "d5/dfb/a25774.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "d5/dfb/a25774.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "d5/dfb/a25774.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

@@ -1,7 +1,9 @@
 var a18574 =
 [
-    [ "HandleProc", "df/dec/a18574.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "df/dec/a18574.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "df/dec/a18574.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "df/dec/a18574.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_spirit_wardenAI", "df/dec/a18574.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "df/dec/a18574.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "df/dec/a18574.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "df/dec/a18574.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "df/dec/a18574.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "df/dec/a18574.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

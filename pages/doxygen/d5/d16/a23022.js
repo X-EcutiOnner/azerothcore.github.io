@@ -1,9 +1,7 @@
 var a23022 =
 [
-    [ "boss_mother_shahraz", "d5/d16/a23022.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d5/d16/a23022.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d5/d16/a23022.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d5/d16/a23022.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d5/d16/a23022.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d5/d16/a23022.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "boss_veras_darkshadow", "d5/d16/a23022.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d5/d16/a23022.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d5/d16/a23022.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d5/d16/a23022.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

@@ -1,6 +1,28 @@
 var a19846 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "df/d53/a19850.html", "df/d53/a19850" ],
-    [ "npc_brann_bronzebeard_algalon", "df/dcd/a19846.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "df/dcd/a19846.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "boss_algalon_the_observerAI", "df/dcd/a19846.html#a2c2d990919a6f5cba8ff8127199195e3", null ],
+    [ "AttackStart", "df/dcd/a19846.html#a2631ccc7111d01735a97244838ca9c27", null ],
+    [ "CallConstellations", "df/dcd/a19846.html#a564415931ad23ee369f2df503ce9c561", null ],
+    [ "DamageTaken", "df/dcd/a19846.html#a5f96871a1fb8ecb0e6d861d96601876d", null ],
+    [ "DoAction", "df/dcd/a19846.html#a931e8e5178a0e1d201e002ef06d9af3e", null ],
+    [ "DoCheckHeraldOfTheTitans", "df/dcd/a19846.html#a68cf28542db34f6d5784218085dc0d4c", null ],
+    [ "EnterEvadeMode", "df/dcd/a19846.html#aa114e1b79dc128fbad06223039f5d57a", null ],
+    [ "GetData", "df/dcd/a19846.html#acc68df65e98350c9bd8d8838ebc5d926", null ],
+    [ "IsInRoom", "df/dcd/a19846.html#a85f55d3a1f0dae6f5015310b7aa47e2c", null ],
+    [ "IsValidHeraldItem", "df/dcd/a19846.html#ab9498202d44b60655f877dd751201c11", null ],
+    [ "JustEngagedWith", "df/dcd/a19846.html#acc87dc30d4b60f111d1ffd6718f38959", null ],
+    [ "JustReachedHome", "df/dcd/a19846.html#a9a506424f408f3574f8dfbaf099b37e9", null ],
+    [ "JustSummoned", "df/dcd/a19846.html#af2d96586fd35513073e22ccd1dafc109", null ],
+    [ "KilledUnit", "df/dcd/a19846.html#a4f4a9ae8f0513ace5965ec37ae7afe36", null ],
+    [ "MovementInform", "df/dcd/a19846.html#aeeedd56277bd2b6a91fbdf29a4fc5016", null ],
+    [ "Reset", "df/dcd/a19846.html#aa770123f55cbe8dd0fa6107fcc101a22", null ],
+    [ "UpdateAI", "df/dcd/a19846.html#aa699ab825076fd56f54084708087d871", null ],
+    [ "_fedOnTears", "df/dcd/a19846.html#a14aaf7e154db5ad43cee0524f3c2fbb0", null ],
+    [ "_fightWon", "df/dcd/a19846.html#a15bd59c5e9be39fb57b4511f22c093f4", null ],
+    [ "_firstPull", "df/dcd/a19846.html#a0123d20ad380467522167c1612ab34e6", null ],
+    [ "_heraldOfTheTitans", "df/dcd/a19846.html#a9f81cbf1360db8c8e1a9646cf31cf4b6", null ],
+    [ "_phaseTwo", "df/dcd/a19846.html#a2176501407dd0bf927806a87b22f87d2", null ],
+    [ "events", "df/dcd/a19846.html#aa79c8c65f5ac56558d24416e00fdf003", null ],
+    [ "m_pInstance", "df/dcd/a19846.html#a4901167c02871f8228de44cd92b5e7db", null ],
+    [ "summons", "df/dcd/a19846.html#abe084c0ec13623e078e79a3fb9a1e080", null ]
 ];

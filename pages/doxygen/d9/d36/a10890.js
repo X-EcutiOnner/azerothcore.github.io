@@ -1,9 +1,9 @@
 var a10890 =
 [
-    [ "WrapItem", "d9/d36/a10890.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "d9/d36/a10890.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "d9/d36/a10890.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "d9/d36/a10890.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "d9/d36/a10890.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "d9/d36/a10890.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "ItemEnchantTimeUpdate", "d9/d36/a10890.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "d9/d36/a10890.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "d9/d36/a10890.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "d9/d36/a10890.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "d9/d36/a10890.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "d9/d36/a10890.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

@@ -1,6 +1,6 @@
 var a24946 =
 [
-    [ "HandleAfterCast", "db/d92/a24946.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "db/d92/a24946.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "db/d92/a24946.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "FilterTargets", "db/d92/a24946.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "db/d92/a24946.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "db/d92/a24946.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

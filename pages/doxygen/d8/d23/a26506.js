@@ -1,7 +1,8 @@
 var a26506 =
 [
-    [ "CheckRequirement", "d8/d23/a26506.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d8/d23/a26506.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d8/d23/a26506.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d8/d23/a26506.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleEffectApply", "d8/d23/a26506.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "d8/d23/a26506.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "d8/d23/a26506.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "d8/d23/a26506.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "d8/d23/a26506.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

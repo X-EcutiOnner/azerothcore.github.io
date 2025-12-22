@@ -1,6 +1,9 @@
 var a25982 =
 [
-    [ "HandleTriggerSpell", "d6/d45/a25982.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d6/d45/a25982.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d6/d45/a25982.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "CheckProc", "d6/d45/a25982.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "d6/d45/a25982.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "d6/d45/a25982.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "d6/d45/a25982.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "d6/d45/a25982.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "d6/d45/a25982.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

@@ -1,4 +1,5 @@
 var a28394 =
 [
-    [ "cost", "de/da5/a28394.html#a624313c8b56b9755593b2f4bacd306d7", null ]
+    [ "Id", "de/da5/a28394.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "de/da5/a28394.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

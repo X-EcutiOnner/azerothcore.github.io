@@ -1,6 +1,5 @@
 var a27434 =
 [
-    [ "go_bear_trapAI", "db/df7/a27438.html", "db/df7/a27438" ],
-    [ "go_bear_trap", "df/d15/a27434.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "df/d15/a27434.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "go_ethereum_prison", "df/d15/a27434.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "df/d15/a27434.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

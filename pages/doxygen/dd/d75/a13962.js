@@ -1,6 +1,8 @@
 var a13962 =
 [
-    [ "npc_andorhal_towerAI", "d3/dd5/a13966.html", "d3/dd5/a13966" ],
-    [ "npc_andorhal_tower", "dd/d75/a13962.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "dd/d75/a13962.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "npc_the_scourge_cauldronAI", "dd/d75/a13962.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "dd/d75/a13962.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "dd/d75/a13962.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "dd/d75/a13962.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "dd/d75/a13962.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

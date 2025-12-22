@@ -1,5 +1,5 @@
 var a27294 =
 [
-    [ "AreaTrigger_at_sentry_point", "d1/d8c/a27294.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d1/d8c/a27294.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d1/d8c/a27294.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d1/d8c/a27294.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

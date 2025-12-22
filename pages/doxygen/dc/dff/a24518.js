@@ -1,6 +1,12 @@
 var a24518 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "dc/dff/a24518.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "dc/dff/a24518.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "dc/dff/a24518.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "npc_unkor_the_ruthlessAI", "dc/dff/a24518.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "dc/dff/a24518.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "dc/dff/a24518.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "dc/dff/a24518.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "dc/dff/a24518.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "dc/dff/a24518.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "dc/dff/a24518.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "dc/dff/a24518.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "dc/dff/a24518.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

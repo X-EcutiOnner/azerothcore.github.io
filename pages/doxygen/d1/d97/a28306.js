@@ -1,8 +1,11 @@
 var a28306 =
 [
-    [ "ID", "d1/d97/a28306.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d1/d97/a28306.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d1/d97/a28306.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d1/d97/a28306.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d1/d97/a28306.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "icon", "d1/d97/a28306.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d1/d97/a28306.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d1/d97/a28306.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d1/d97/a28306.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d1/d97/a28306.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d1/d97/a28306.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d1/d97/a28306.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d1/d97/a28306.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

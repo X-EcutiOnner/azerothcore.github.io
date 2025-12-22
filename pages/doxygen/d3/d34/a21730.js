@@ -1,7 +1,7 @@
 var a21730 =
 [
-    [ "npc_bonker_togglevoltAI", "d9/d46/a21734.html", "d9/d46/a21734" ],
-    [ "npc_bonker_togglevolt", "d3/d34/a21730.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "d3/d34/a21730.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "d3/d34/a21730.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_mootoo_the_youngerAI", "d3/d34/a21730.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d3/d34/a21730.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d3/d34/a21730.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d3/d34/a21730.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

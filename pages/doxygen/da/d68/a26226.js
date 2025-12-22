@@ -1,7 +1,6 @@
 var a26226 =
 [
-    [ "CalculateSpellAmount", "da/d68/a26226.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "da/d68/a26226.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "da/d68/a26226.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "da/d68/a26226.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "CheckProc", "da/d68/a26226.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
+    [ "PrepareAuraScript", "da/d68/a26226.html#a42b97406721d3493a378394132a55981", null ],
+    [ "Register", "da/d68/a26226.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
 ];

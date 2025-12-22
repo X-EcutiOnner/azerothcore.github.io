@@ -1,4 +1,6 @@
 var a28426 =
 [
-    [ "ratio", "db/d83/a28426.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
+    [ "Id", "db/d83/a28426.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "db/d83/a28426.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "db/d83/a28426.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

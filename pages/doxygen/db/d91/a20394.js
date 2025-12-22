@@ -1,6 +1,15 @@
 var a20394 =
 [
-    [ "npc_ulduar_hodir_mageAI", "dd/db1/a20398.html", "dd/db1/a20398" ],
-    [ "npc_ulduar_hodir_mage", "db/d91/a20394.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "db/d91/a20394.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "npc_ulduar_hodir_shamanAI", "db/d91/a20394.html#a4f18b06f254b57787b7ab31c9b422402", null ],
+    [ "AttackStart", "db/d91/a20394.html#a022aabbc965872925698bd53fad2f84d", null ],
+    [ "CanAIAttack", "db/d91/a20394.html#a21b3804fe0af15e59e9af30260552666", null ],
+    [ "EnterEvadeMode", "db/d91/a20394.html#af9cfc1dc173e0a4d82f1dbc8eb1cbcba", null ],
+    [ "JustDied", "db/d91/a20394.html#a5c06c412d38203bb10e9951e27d5760a", null ],
+    [ "MoveInLineOfSight", "db/d91/a20394.html#a24d570f1c4a133c4f001032a1c915a27", null ],
+    [ "ScheduleAbilities", "db/d91/a20394.html#ac197b53bc03fd8bdf44b8b2e2a64f568", null ],
+    [ "SpellHit", "db/d91/a20394.html#a3c61b680a0d75a87bfaf4d8ae8072ea9", null ],
+    [ "SpellHitTarget", "db/d91/a20394.html#ae829e62ec342c1e0d12a523506ea6b04", null ],
+    [ "UpdateAI", "db/d91/a20394.html#af961f02169ab700716410e26114fd857", null ],
+    [ "events", "db/d91/a20394.html#ad92f69d2a63313798e16cfbaf55301ca", null ],
+    [ "pInstance", "db/d91/a20394.html#af4f0d720b9d9e4cbe4805cfc0c9a12c8", null ]
 ];

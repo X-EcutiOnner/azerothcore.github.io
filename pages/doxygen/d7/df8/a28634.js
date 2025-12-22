@@ -1,7 +1,7 @@
 var a28634 =
 [
-    [ "ClassMask", "d7/df8/a28634.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "d7/df8/a28634.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "d7/df8/a28634.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "d7/df8/a28634.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "Flags", "d7/df8/a28634.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d7/df8/a28634.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d7/df8/a28634.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d7/df8/a28634.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

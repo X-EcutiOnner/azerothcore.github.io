@@ -1,5 +1,6 @@
 var a23782 =
 [
-    [ "spellId", "d6/d83/a23782.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d6/d83/a23782.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "HandleScriptEffect", "d6/d83/a23782.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d6/d83/a23782.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d6/d83/a23782.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

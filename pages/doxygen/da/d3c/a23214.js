@@ -1,7 +1,6 @@
 var a23214 =
 [
-    [ "HandleEffectRemove", "da/d3c/a23214.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
-    [ "PrepareAuraScript", "da/d3c/a23214.html#ac30073d35c40385a24b694012776391e", null ],
-    [ "Register", "da/d3c/a23214.html#ae66eceece2812aee47acb386735f50a0", null ],
-    [ "Validate", "da/d3c/a23214.html#af26c0361e6b7e480f59563d8630d6736", null ]
+    [ "HandleSchoolDamage", "da/d3c/a23214.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "da/d3c/a23214.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "da/d3c/a23214.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

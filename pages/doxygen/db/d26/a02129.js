@@ -1,12 +1,12 @@
 var a02129 =
 [
-    [ "boss_gruul", "da/d73/a23618.html", "da/d73/a23618" ],
-    [ "npc_invisible_tractor_beam_source", "d4/db7/a23622.html", "d4/db7/a23622" ],
-    [ "spell_gruul_ground_slam", "de/dad/a23626.html", "de/dad/a23626" ],
-    [ "spell_tractor_beam_creator", "da/d01/a23630.html", "da/d01/a23630" ],
-    [ "spell_gruul_ground_slam_trigger", "d8/ddc/a23634.html", "d8/ddc/a23634" ],
-    [ "spell_gruul_shatter", "d8/d8f/a23638.html", "d8/d8f/a23638" ],
-    [ "spell_gruul_shatter_effect", "da/ddb/a23642.html", "da/ddb/a23642" ],
+    [ "boss_gruul", "d2/d08/a23650.html", "d2/d08/a23650" ],
+    [ "npc_invisible_tractor_beam_source", "d3/df4/a23654.html", "d3/df4/a23654" ],
+    [ "spell_gruul_ground_slam", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
+    [ "spell_tractor_beam_creator", "d9/dea/a23662.html", "d9/dea/a23662" ],
+    [ "spell_gruul_ground_slam_trigger", "d5/d67/a23666.html", "d5/d67/a23666" ],
+    [ "spell_gruul_shatter", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "spell_gruul_shatter_effect", "df/d1c/a23674.html", "df/d1c/a23674" ],
     [ "Spells", "db/d26/a02129.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -2083,6 +2083,7 @@ var a02129 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

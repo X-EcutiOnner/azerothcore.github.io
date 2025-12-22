@@ -1,5 +1,6 @@
 var a22822 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "da/daf/a22822.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "da/daf/a22822.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "df/d44/a22826.html", "df/d44/a22826" ],
+    [ "instance_mana_tombs", "da/daf/a22822.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "da/daf/a22822.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

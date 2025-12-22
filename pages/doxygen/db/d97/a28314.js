@@ -1,7 +1,5 @@
 var a28314 =
 [
-    [ "Displayid", "db/d97/a28314.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "db/d97/a28314.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "db/d97/a28314.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "db/d97/a28314.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "ID", "db/d97/a28314.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "db/d97/a28314.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

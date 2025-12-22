@@ -1,6 +1,6 @@
 var a23210 =
 [
-    [ "HandleEffectRemove", "d7/da6/a23210.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "d7/da6/a23210.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "d7/da6/a23210.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "HandleDummy", "d7/da6/a23210.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d7/da6/a23210.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d7/da6/a23210.html#a972574075c86c32593982add71dc893f", null ]
 ];

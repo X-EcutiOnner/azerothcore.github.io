@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CellArea Struct Reference</title>
+<title>AzerothCore: WorldGlobals Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,36 +106,64 @@ $(document).ready(function(){initNavTree('d0/def/a09110.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../de/dda/a09107.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CellArea Struct Reference</div></div>
+  <div class="headertitle"><div class="title">WorldGlobals Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">WorldGlobals.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ace8ca84753b4ec8681415386fb135053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#ace8ca84753b4ec8681415386fb135053">CellArea</a> ()=default</td></tr>
-<tr class="separator:ace8ca84753b4ec8681415386fb135053"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a547aa2c544abb8de2c6defdd6ec77fa3">CellArea</a> (<a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> low, <a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> high)</td></tr>
-<tr class="separator:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a386d4a562c27155012daedc361541e3b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a386d4a562c27155012daedc361541e3b">operator!</a> () const</td></tr>
-<tr class="separator:a386d4a562c27155012daedc361541e3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#aebb8a0eb3210fa09d647d89ce8a0c7b8">ResizeBorders</a> (<a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;begin_cell, <a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;end_cell) const</td></tr>
-<tr class="separator:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bd2c1a1ce11d9a50971d169a353e7f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a9bd2c1a1ce11d9a50971d169a353e7f6">LoadAntiDosOpcodePolicies</a> ()</td></tr>
+<tr class="separator:a9bd2c1a1ce11d9a50971d169a353e7f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bbbc92f18c1c34c3359d0cad4299c2d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d93/a09106.html">AntiDosOpcodePolicy</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a9bbbc92f18c1c34c3359d0cad4299c2d">GetAntiDosPolicyForOpcode</a> (<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> opcode)</td></tr>
+<tr class="separator:a9bbbc92f18c1c34c3359d0cad4299c2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a374fe9802c798e6ece359a8025b6e1df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a></td></tr>
-<tr class="separator:a374fe9802c798e6ece359a8025b6e1df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c90f0474902deaafc4a64faaf6e8071"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a></td></tr>
-<tr class="separator:a0c90f0474902deaafc4a64faaf6e8071"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a859596f153aa470fa503f67092e26160"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/def/a09110.html">WorldGlobals</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#a859596f153aa470fa503f67092e26160">instance</a> ()</td></tr>
+<tr class="separator:a859596f153aa470fa503f67092e26160"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:acb7a5639f7ba378483e50aba8e93d68a"><td class="memItemLeft" align="right" valign="top">std::array&lt; std::unique_ptr&lt; <a class="el" href="../../d0/d93/a09106.html">AntiDosOpcodePolicy</a> &gt;, <a class="el" href="../../d9/d62/a04803.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/def/a09110.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a></td></tr>
+<tr class="separator:acb7a5639f7ba378483e50aba8e93d68a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ace8ca84753b4ec8681415386fb135053" name="ace8ca84753b4ec8681415386fb135053"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace8ca84753b4ec8681415386fb135053">&#9670;&#160;</a></span>CellArea() <span class="overload">[1/2]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9bbbc92f18c1c34c3359d0cad4299c2d" name="a9bbbc92f18c1c34c3359d0cad4299c2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9bbbc92f18c1c34c3359d0cad4299c2d">&#9670;&#160;</a></span>GetAntiDosPolicyForOpcode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d93/a09106.html">AntiDosOpcodePolicy</a> const  * WorldGlobals::GetAntiDosPolicyForOpcode </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>opcode</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (opcode &gt;= <a class="code hl_enumvalue" href="../../d9/d62/a04803.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>)</div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/def/a09110.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a>[opcode].get();</div>
+<div class="line"><span class="lineno">   76</span>}</div>
+<div class="ttc" id="aa04803_html_ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611"><div class="ttname"><a href="../../d9/d62/a04803.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a></div><div class="ttdeci">@ NUM_OPCODE_HANDLERS</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1346</div></div>
+<div class="ttc" id="aa09110_html_acb7a5639f7ba378483e50aba8e93d68a"><div class="ttname"><a href="../../d0/def/a09110.html#acb7a5639f7ba378483e50aba8e93d68a">WorldGlobals::_antiDosOpcodePolicies</a></div><div class="ttdeci">std::array&lt; std::unique_ptr&lt; AntiDosOpcodePolicy &gt;, NUM_OPCODE_HANDLERS &gt; _antiDosOpcodePolicies</div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:39</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">_antiDosOpcodePolicies</a>, and <a class="el" href="../../#l01346">NUM_OPCODE_HANDLERS</a>.</p>
+
+</div>
+</div>
+<a id="a859596f153aa470fa503f67092e26160" name="a859596f153aa470fa503f67092e26160"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a859596f153aa470fa503f67092e26160">&#9670;&#160;</a></span>instance()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -144,7 +172,7 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CellArea::CellArea </td>
+          <td class="memname"><a class="el" href="../../d0/def/a09110.html">WorldGlobals</a> * WorldGlobals::instance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -152,153 +180,114 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="a547aa2c544abb8de2c6defdd6ec77fa3" name="a547aa2c544abb8de2c6defdd6ec77fa3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a547aa2c544abb8de2c6defdd6ec77fa3">&#9670;&#160;</a></span>CellArea() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">CellArea::CellArea </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
-          <td class="paramname"><em>low</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
-          <td class="paramname"><em>high</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>: <a class="code hl_variable" href="../../d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>(low), <a class="code hl_variable" href="../../d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>(high) {}</div>
-<div class="ttc" id="aa09110_html_a0c90f0474902deaafc4a64faaf6e8071"><div class="ttname"><a href="../../d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071">CellArea::high_bound</a></div><div class="ttdeci">CellCoord high_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:41</div></div>
-<div class="ttc" id="aa09110_html_a374fe9802c798e6ece359a8025b6e1df"><div class="ttname"><a href="../../d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df">CellArea::low_bound</a></div><div class="ttdeci">CellCoord low_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:40</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d0/def/a09110.html">WorldGlobals</a> <a class="code hl_function" href="../../d0/def/a09110.html#a859596f153aa470fa503f67092e26160">instance</a>;</div>
+<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d0/def/a09110.html#a859596f153aa470fa503f67092e26160">instance</a>;</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+<div class="ttc" id="aa09110_html"><div class="ttname"><a href="../../d0/def/a09110.html">WorldGlobals</a></div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:31</div></div>
+<div class="ttc" id="aa09110_html_a859596f153aa470fa503f67092e26160"><div class="ttname"><a href="../../d0/def/a09110.html#a859596f153aa470fa503f67092e26160">WorldGlobals::instance</a></div><div class="ttdeci">static WorldGlobals * instance()</div><div class="ttdef"><b>Definition:</b> WorldGlobals.cpp:24</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00024">instance()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00024">instance()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a386d4a562c27155012daedc361541e3b" name="a386d4a562c27155012daedc361541e3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a386d4a562c27155012daedc361541e3b">&#9670;&#160;</a></span>operator!()</h2>
+<a id="a9bd2c1a1ce11d9a50971d169a353e7f6" name="a9bd2c1a1ce11d9a50971d169a353e7f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9bd2c1a1ce11d9a50971d169a353e7f6">&#9670;&#160;</a></span>LoadAntiDosOpcodePolicies()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool CellArea::operator! </td>
+          <td class="memname">void WorldGlobals::LoadAntiDosOpcodePolicies </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a> == <a class="code hl_variable" href="../../d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d62/a04664.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d0/def/a09110.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a> = {};</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_typedef" href="../../dd/d78/a03980.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../db/de8/a03968.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT Opcode, Policy, MaxAllowedCount FROM antidos_opcode_policies&quot;</span>);</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   38</span>    {</div>
+<div class="line"><span class="lineno">   39</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 AntiDos Opcode Policies. DB table `antidos_opcode_policies` is empty!&quot;</span>);</div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   42</span>    }</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_class" href="../../d9/dc9/a05774.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> opcode = fields[0].<a class="code hl_function" href="../../d9/dc9/a05774.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
+<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">if</span> (opcode &gt;= <a class="code hl_enumvalue" href="../../d9/d62/a04803.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>)</div>
+<div class="line"><span class="lineno">   52</span>        {</div>
+<div class="line"><span class="lineno">   53</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Unkown opcode {} in table `antidos_opcode_policies`, skipping.&quot;</span>, opcode);</div>
+<div class="line"><span class="lineno">   54</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   55</span>        }</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>        std::unique_ptr&lt;AntiDosOpcodePolicy&gt; policy = std::make_unique&lt;AntiDosOpcodePolicy&gt;();</div>
+<div class="line"><span class="lineno">   58</span>        policy-&gt;Policy = fields[1].<a class="code hl_function" href="../../d9/dc9/a05774.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">   59</span>        policy-&gt;MaxAllowedCount = fields[2].<a class="code hl_function" href="../../d9/dc9/a05774.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_variable" href="../../d0/def/a09110.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a>[opcode] = std::move(policy);</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>        ++count;</div>
+<div class="line"><span class="lineno">   64</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} AntiDos Opcode Policies in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d1/d62/a04664.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   68</span>}</div>
+<div class="ttc" id="aa03968_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../db/de8/a03968.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
+<div class="ttc" id="aa03980_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../dd/d78/a03980.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
+<div class="ttc" id="aa04310_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04310_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa04640_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa04640_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04640_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d9/d32/a04640.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+<div class="ttc" id="aa04664_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d1/d62/a04664.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa04664_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d62/a04664.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa05774_html"><div class="ttname"><a href="../../d9/dc9/a05774.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa05774_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d9/dc9/a05774.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
-
-</div>
-</div>
-<a id="aebb8a0eb3210fa09d647d89ce8a0c7b8" name="aebb8a0eb3210fa09d647d89ce8a0c7b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebb8a0eb3210fa09d647d89ce8a0c7b8">&#9670;&#160;</a></span>ResizeBorders()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void CellArea::ResizeBorders </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>begin_cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>end_cell</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        begin_cell = <a class="code hl_variable" href="../../d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>;</div>
-<div class="line"><span class="lineno">   37</span>        end_cell = <a class="code hl_variable" href="../../d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">_antiDosOpcodePolicies</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l01346">NUM_OPCODE_HANDLERS</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0c90f0474902deaafc4a64faaf6e8071" name="a0c90f0474902deaafc4a64faaf6e8071"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c90f0474902deaafc4a64faaf6e8071">&#9670;&#160;</a></span>high_bound</h2>
+<a id="acb7a5639f7ba378483e50aba8e93d68a" name="acb7a5639f7ba378483e50aba8e93d68a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb7a5639f7ba378483e50aba8e93d68a">&#9670;&#160;</a></span>_antiDosOpcodePolicies</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::high_bound</td>
+          <td class="memname">std::array&lt;std::unique_ptr&lt;<a class="el" href="../../d0/d93/a09106.html">AntiDosOpcodePolicy</a>&gt;, <a class="el" href="../../d9/d62/a04803.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>&gt; WorldGlobals::_antiDosOpcodePolicies</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00226">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00396">Map::MarkNearbyCellsOf()</a>, <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, and <a class="el" href="../../#l00065">Cell::Visit()</a>.</p>
-
-</div>
-</div>
-<a id="a374fe9802c798e6ece359a8025b6e1df" name="a374fe9802c798e6ece359a8025b6e1df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a374fe9802c798e6ece359a8025b6e1df">&#9670;&#160;</a></span>low_bound</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d10/a01571.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::low_bound</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00226">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00396">Map::MarkNearbyCellsOf()</a>, <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, and <a class="el" href="../../#l00065">Cell::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00070">GetAntiDosPolicyForOpcode()</a>, and <a class="el" href="../../#l00030">LoadAntiDosOpcodePolicies()</a>.</p>
 
 </div>
 </div>
@@ -307,8 +296,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/def/a09110.html">CellArea</a></li>
-    <li class="footer">Generated on Mon Dec 15 2025 20:51:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/def/a09110.html">WorldGlobals</a></li>
+    <li class="footer">Generated on Mon Dec 22 2025 20:50:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

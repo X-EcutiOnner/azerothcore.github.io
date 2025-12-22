@@ -1,5 +1,5 @@
 var a28490 =
 [
-    [ "content", "dc/dd3/a28490.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "dc/dd3/a28490.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "ID", "dc/dd3/a28490.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "dc/dd3/a28490.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

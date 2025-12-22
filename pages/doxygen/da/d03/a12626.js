@@ -1,6 +1,6 @@
 var a12626 =
 [
-    [ "boss_lucifronAI", "da/d03/a12626.html#ab93792bd7798b9ee9cf869fa20190554", null ],
-    [ "ExecuteEvent", "da/d03/a12626.html#a0ba286f037c07032488d6763daeaf130", null ],
-    [ "JustEngagedWith", "da/d03/a12626.html#aba3256ec99e56e3051045391fceedc7f", null ]
+    [ "boss_lucifronAI", "d0/d06/a12630.html", "d0/d06/a12630" ],
+    [ "boss_lucifron", "da/d03/a12626.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "da/d03/a12626.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

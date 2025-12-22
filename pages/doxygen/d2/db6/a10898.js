@@ -1,6 +1,7 @@
 var a10898 =
 [
-    [ "CancelTempEnchantment", "d2/db6/a10898.html#aa70516ab1b16789cb7b705751162b70b", null ],
-    [ "Read", "d2/db6/a10898.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
-    [ "EquipmentSlot", "d2/db6/a10898.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
+    [ "SocketGems", "d2/db6/a10898.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
+    [ "Read", "d2/db6/a10898.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
+    [ "GemGuids", "d2/db6/a10898.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
+    [ "ItemGuid", "d2/db6/a10898.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
 ];

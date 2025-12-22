@@ -1,6 +1,7 @@
 var a22006 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d5/dd0/a22010.html", "d5/dd0/a22010" ],
-    [ "npc_q24545_vegard_dummy", "d8/de9/a22006.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d8/de9/a22006.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "FilterTargets", "d8/de9/a22006.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d8/de9/a22006.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d8/de9/a22006.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d8/de9/a22006.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

@@ -1,7 +1,27 @@
 var a12674 =
 [
-    [ "HandleScript", "df/d27/a12674.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "df/d27/a12674.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "df/d27/a12674.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "df/d27/a12674.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_ragnarosAI", "df/d27/a12674.html#a94c4efe28aac474a88eeb4b0f370af02", null ],
+    [ "AttackStart", "df/d27/a12674.html#a6c89e52fc1f34d08676a81fe83f6e820", null ],
+    [ "CanAIAttack", "df/d27/a12674.html#af5d86d91401c2543128866524ff4a44f", null ],
+    [ "DamageTaken", "df/d27/a12674.html#a869dfadf29a812e1d036a65bf2091d92", null ],
+    [ "DoAction", "df/d27/a12674.html#ad02bb8b22e166a2fd34fa56ddea3d396", null ],
+    [ "EnterEvadeMode", "df/d27/a12674.html#a9e043455beaadc2a47e0d753cc5c18d7", null ],
+    [ "HandleEmerge", "df/d27/a12674.html#ae15e53e682b9d8475861c64847d8b89c", null ],
+    [ "IsVictimWithinMeleeRange", "df/d27/a12674.html#a940e84dbc1d88d97a244dac000d1395d", null ],
+    [ "JustDied", "df/d27/a12674.html#a0455bacbe8356bdadd9c391115efcd68", null ],
+    [ "JustEngagedWith", "df/d27/a12674.html#ae71cafa0f60ce0ca6792524b5680d110", null ],
+    [ "JustSummoned", "df/d27/a12674.html#a249bbd12c520e81968e93a93d3dd272c", null ],
+    [ "KilledUnit", "df/d27/a12674.html#a4051c5bcb73419a8a5459732a148da4d", null ],
+    [ "Reset", "df/d27/a12674.html#a04a206275d57f0e0f2af0d7e98323696", null ],
+    [ "ScheduleCombatEvents", "df/d27/a12674.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
+    [ "SetGUID", "df/d27/a12674.html#a6cfdec28239e47c35f5f3a8bbeb07dbc", null ],
+    [ "SummonedCreatureDies", "df/d27/a12674.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
+    [ "UpdateAI", "df/d27/a12674.html#afd770319814d46976e3d946b43e909a4", null ],
+    [ "_hasSubmergedOnce", "df/d27/a12674.html#a1e9b96abd69fce032a7ca6dff275703c", null ],
+    [ "_hasYelledMagmaBurst", "df/d27/a12674.html#a3026598fec3a0b4ba9a8b458aa411d33", null ],
+    [ "_isIntroDone", "df/d27/a12674.html#a9e7506026fc816aea5e1b58bab0e50c0", null ],
+    [ "_isKnockbackEmoteAllowed", "df/d27/a12674.html#a96505d1dbb57c7d52d8730952f5c46f8", null ],
+    [ "_lavaBurstGUIDS", "df/d27/a12674.html#ac2b114c221b2713b4c2ab039cf3bc924", null ],
+    [ "_processingMagmaBurst", "df/d27/a12674.html#af1f3bf328a3729e0c667bbbe9188b104", null ],
+    [ "extraEvents", "df/d27/a12674.html#adcb09077e86ad069dbe219bfc5c45613", null ]
 ];

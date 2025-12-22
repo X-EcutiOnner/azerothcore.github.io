@@ -1,8 +1,8 @@
 var a24582 =
 [
-    [ "npc_pet_darting_hatchling", "d8/dbd/a24582.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d8/dbd/a24582.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d8/dbd/a24582.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d8/dbd/a24582.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d8/dbd/a24582.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d8/dbd/a24582.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d8/dbd/a24582.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d8/dbd/a24582.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d8/dbd/a24582.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d8/dbd/a24582.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

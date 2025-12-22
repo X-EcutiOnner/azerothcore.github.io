@@ -1,9 +1,7 @@
 var a23390 =
 [
-    [ "FilterTargets", "d3/d15/a23390.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "d3/d15/a23390.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "d3/d15/a23390.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "d3/d15/a23390.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "d3/d15/a23390.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "d3/d15/a23390.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "HandleEffectApply", "d3/d15/a23390.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d3/d15/a23390.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d3/d15/a23390.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d3/d15/a23390.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

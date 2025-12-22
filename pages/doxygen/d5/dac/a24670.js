@@ -1,6 +1,7 @@
 var a24670 =
 [
-    [ "HandleProc", "d5/dac/a24670.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
-    [ "PrepareAuraScript", "d5/dac/a24670.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d5/dac/a24670.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "HandleEffectApply", "d5/dac/a24670.html#a9923e38a2b5999d932d85be17a50ac83", null ],
+    [ "HandleEffectRemove", "d5/dac/a24670.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
+    [ "PrepareAuraScript", "d5/dac/a24670.html#a105df22901477c34757e62a0305006d4", null ],
+    [ "Register", "d5/dac/a24670.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
 ];

@@ -1,6 +1,6 @@
 var a23490 =
 [
-    [ "HandleScript", "d8/d38/a23490.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d8/d38/a23490.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d8/d38/a23490.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "go_ahune_ice_stone", "d8/d38/a23490.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d8/d38/a23490.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d8/d38/a23490.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

@@ -1,7 +1,10 @@
 var a23966 =
 [
-    [ "OnApply", "df/db4/a23966.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "df/db4/a23966.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "df/db4/a23966.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "df/db4/a23966.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "CheckProc", "df/db4/a23966.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "df/db4/a23966.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "df/db4/a23966.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "df/db4/a23966.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "df/db4/a23966.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "df/db4/a23966.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "df/db4/a23966.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

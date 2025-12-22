@@ -1,9 +1,9 @@
 var a03485 =
 [
-    [ "boss_darkmaster_gandling", "d7/d7b/a13258.html", "d7/d7b/a13258" ],
-    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "d5/d42/a13262.html", "d5/d42/a13262" ],
-    [ "npc_risen_guardian", "d4/d2a/a13266.html", "d4/d2a/a13266" ],
-    [ "npc_risen_guardian::npc_risen_guardianAI", "d0/db6/a13270.html", "d0/db6/a13270" ],
+    [ "boss_darkmaster_gandling", "d5/d42/a13262.html", "d5/d42/a13262" ],
+    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "d4/d2a/a13266.html", "d4/d2a/a13266" ],
+    [ "npc_risen_guardian", "d0/db6/a13270.html", "d0/db6/a13270" ],
+    [ "npc_risen_guardian::npc_risen_guardianAI", "d1/d4e/a13274.html", "d1/d4e/a13274" ],
     [ "BossData", "d0/dc1/a03485.html#aef437a440c77ebda3ee1ebf1099e168d", [
       [ "DATA_PLAYER_KILLED", "d0/dc1/a03485.html#aef437a440c77ebda3ee1ebf1099e168da16e75107231054f283248f12ae3887c0", null ],
       [ "GANDLING_ROOM_TO_USE", "d0/dc1/a03485.html#aef437a440c77ebda3ee1ebf1099e168da58b81c15b7763fb90a6a786fc0cb73d8", null ]
@@ -2096,6 +2096,7 @@ var a03485 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

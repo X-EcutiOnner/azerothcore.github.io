@@ -1,10 +1,7 @@
 var a13666 =
 [
-    [ "npc_sunblade_scout", "d4/dd2/a13666.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "d4/dd2/a13666.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "d4/dd2/a13666.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "d4/dd2/a13666.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "d4/dd2/a13666.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "d4/dd2/a13666.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "d4/dd2/a13666.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "HandleAfterCast", "d4/dd2/a13666.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d4/dd2/a13666.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d4/dd2/a13666.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d4/dd2/a13666.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

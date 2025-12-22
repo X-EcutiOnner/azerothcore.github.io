@@ -1,6 +1,7 @@
 var a14734 =
 [
-    [ "HandleDummy", "de/db3/a14734.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "de/db3/a14734.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "de/db3/a14734.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "GetVisualThrow", "de/db3/a14734.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "de/db3/a14734.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "de/db3/a14734.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "de/db3/a14734.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

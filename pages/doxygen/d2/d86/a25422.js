@@ -1,11 +1,7 @@
 var a25422 =
 [
-    [ "spell_gen_consume", "d2/d86/a25422.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "d2/d86/a25422.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "d2/d86/a25422.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "d2/d86/a25422.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "d2/d86/a25422.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "d2/d86/a25422.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "d2/d86/a25422.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "d2/d86/a25422.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "HandleEffectPeriodic", "d2/d86/a25422.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d2/d86/a25422.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d2/d86/a25422.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d2/d86/a25422.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

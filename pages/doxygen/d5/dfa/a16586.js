@@ -1,6 +1,7 @@
 var a16586 =
 [
-    [ "npc_toc_shamanAI", "d8/d48/a16590.html", "d8/d48/a16590" ],
-    [ "npc_toc_shaman", "d5/dfa/a16586.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "d5/dfa/a16586.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "npc_toc_druidAI", "d5/dfa/a16586.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d5/dfa/a16586.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d5/dfa/a16586.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d5/dfa/a16586.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

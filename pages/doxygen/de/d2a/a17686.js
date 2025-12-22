@@ -1,7 +1,8 @@
 var a17686 =
 [
-    [ "ExtraEffect", "de/d2a/a17686.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "de/d2a/a17686.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "de/d2a/a17686.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "de/d2a/a17686.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleHit", "de/d2a/a17686.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
+    [ "HandleScript", "de/d2a/a17686.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "de/d2a/a17686.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "de/d2a/a17686.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "de/d2a/a17686.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

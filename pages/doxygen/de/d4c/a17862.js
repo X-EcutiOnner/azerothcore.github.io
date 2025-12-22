@@ -1,9 +1,6 @@
 var a17862 =
 [
-    [ "HandleApply", "de/d4c/a17862.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "de/d4c/a17862.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "de/d4c/a17862.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "de/d4c/a17862.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "de/d4c/a17862.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "de/d4c/a17862.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "HandlePeriodicTick", "de/d4c/a17862.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "de/d4c/a17862.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "de/d4c/a17862.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

@@ -1,6 +1,6 @@
 var a22030 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
-    [ "npc_commander_eligor_dawnbringer", "db/d81/a22030.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "db/d81/a22030.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "npc_spiritual_insightAI", "db/d81/a22030.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "db/d81/a22030.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "db/d81/a22030.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

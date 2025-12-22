@@ -1,5 +1,6 @@
 var a27210 =
 [
-    [ "achievement_bg_ic_glaive_grave", "de/d18/a27210.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "de/d18/a27210.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleEffectCalcSpellMod", "de/d18/a27210.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "de/d18/a27210.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "de/d18/a27210.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

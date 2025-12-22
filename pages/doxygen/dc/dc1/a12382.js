@@ -1,6 +1,5 @@
 var a12382 =
 [
-    [ "OnEffect", "dc/dc1/a12382.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "dc/dc1/a12382.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "dc/dc1/a12382.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "at_scarshield_infiltrator", "dc/dc1/a12382.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "dc/dc1/a12382.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

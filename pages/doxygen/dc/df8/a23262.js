@@ -1,8 +1,6 @@
 var a23262 =
 [
-    [ "CalculateAmount", "dc/df8/a23262.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "dc/df8/a23262.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "dc/df8/a23262.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "dc/df8/a23262.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "dc/df8/a23262.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "HandleScriptEffect", "dc/df8/a23262.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "dc/df8/a23262.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "dc/df8/a23262.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

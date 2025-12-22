@@ -1,6 +1,7 @@
 var a12170 =
 [
-    [ "boss_high_priestess_thaurissanAI", "dc/d79/a12170.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "dc/d79/a12170.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "dc/d79/a12170.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_moira_bronzebeardAI", "dc/d79/a12170.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "dc/d79/a12170.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "dc/d79/a12170.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "dc/d79/a12170.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

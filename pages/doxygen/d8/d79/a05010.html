@@ -498,7 +498,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  143</span>        }</div>
 <div class="line"><span class="lineno">  144</span> </div>
 <div class="line"><span class="lineno">  145</span>        <span class="comment">// load this tile :: mmaps/MMMXXYY.mmtile</span></div>
-<div class="line"><span class="lineno">  146</span>        std::string fileName = <a class="code hl_function" href="../../d0/d6d/a04809.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/da7/a04817.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId, x, y);</div>
+<div class="line"><span class="lineno">  146</span>        std::string fileName = <a class="code hl_function" href="../../d0/d6d/a04809.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/da7/a04817.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../d8/dfc/a29979.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId, x, y);</div>
 <div class="line"><span class="lineno">  147</span>        FILE* file = fopen(fileName.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
 <div class="line"><span class="lineno">  148</span>        <span class="keywordflow">if</span> (!file)</div>
 <div class="line"><span class="lineno">  149</span>        {</div>
@@ -562,7 +562,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa05030_html_a5cc3cd873419fe8aeb479d3187584410"><div class="ttname"><a href="../../db/d35/a05030.html#a5cc3cd873419fe8aeb479d3187584410">MmapTileHeader::mmapVersion</a></div><div class="ttdeci">uint32 mmapVersion</div><div class="ttdef"><b>Definition:</b> MapDefines.h:68</div></div>
 <div class="ttc" id="aa05030_html_a69f3284a4a56b1108792ba56c250bf97"><div class="ttname"><a href="../../db/d35/a05030.html#a69f3284a4a56b1108792ba56c250bf97">MmapTileHeader::size</a></div><div class="ttdeci">uint32 size</div><div class="ttdef"><b>Definition:</b> MapDefines.h:69</div></div>
 <div class="ttc" id="aa05030_html_ace0ec88460c97f1438de2d0e6a9d7774"><div class="ttname"><a href="../../db/d35/a05030.html#ace0ec88460c97f1438de2d0e6a9d7774">MmapTileHeader::mmapMagic</a></div><div class="ttdeci">uint32 mmapMagic</div><div class="ttdef"><b>Definition:</b> MapDefines.h:66</div></div>
-<div class="ttc" id="aa29939_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa29979_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d8/dfc/a29979.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00100">loadedMMaps</a>, <a class="el" href="../../#l00069">MMAP::MMapData::loadedTileRefs</a>, <a class="el" href="../../#l00101">loadedTiles</a>, <a class="el" href="../../#l00061">loadMapData()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00028">MMAP_MAGIC</a>, <a class="el" href="../../#l00029">MMAP_VERSION</a>, <a class="el" href="../../#l00066">MmapTileHeader::mmapMagic</a>, <a class="el" href="../../#l00068">MmapTileHeader::mmapVersion</a>, <a class="el" href="../../#l00068">MMAP::MMapData::navMesh</a>, <a class="el" href="../../#l00120">packTileID()</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, <a class="el" href="../../#l00069">MmapTileHeader::size</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, and <a class="el" href="../../#l00043">MMAP::TILE_FILE_NAME_FORMAT</a>.</p>
 
@@ -616,7 +616,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   82</span>        }</div>
 <div class="line"><span class="lineno">   83</span> </div>
 <div class="line"><span class="lineno">   84</span>        <span class="comment">// load and init dtNavMesh - read parameters from file</span></div>
-<div class="line"><span class="lineno">   85</span>        std::string fileName = <a class="code hl_function" href="../../d0/d6d/a04809.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/da7/a04817.html#a1d57d156046bda88886b7488ab0b83bc">MAP_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId);</div>
+<div class="line"><span class="lineno">   85</span>        std::string fileName = <a class="code hl_function" href="../../d0/d6d/a04809.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/da7/a04817.html#a1d57d156046bda88886b7488ab0b83bc">MAP_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../d8/dfc/a29979.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId);</div>
 <div class="line"><span class="lineno">   86</span> </div>
 <div class="line"><span class="lineno">   87</span>        FILE* file = fopen(fileName.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
 <div class="line"><span class="lineno">   88</span>        <span class="keywordflow">if</span> (!file)</div>
@@ -965,7 +965,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/da7/a04817.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d8/d79/a05010.html">MMapMgr</a></li>
-    <li class="footer">Generated on Mon Dec 15 2025 20:52:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 22 2025 20:50:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

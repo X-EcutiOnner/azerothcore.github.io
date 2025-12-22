@@ -1,11 +1,9 @@
 var a08730 =
 [
-    [ "UnitActionBarEntry", "dc/d60/a08730.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "dc/d60/a08730.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "dc/d60/a08730.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "dc/d60/a08730.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "dc/d60/a08730.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "dc/d60/a08730.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "dc/d60/a08730.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "dc/d60/a08730.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "GlobalCooldownMgr", "dc/d60/a08730.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "dc/d60/a08730.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "dc/d60/a08730.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "dc/d60/a08730.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "dc/d60/a08730.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "dc/d60/a08730.html#a80d03691d36758733f326b65992f266e", null ]
 ];

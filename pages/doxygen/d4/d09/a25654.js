@@ -1,10 +1,9 @@
 var a25654 =
 [
-    [ "ApplyMarker", "d4/d09/a25654.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
-    [ "CheckTrapProc", "d4/d09/a25654.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
-    [ "HandleProcs", "d4/d09/a25654.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
-    [ "IsTargetValid", "d4/d09/a25654.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
-    [ "PrepareAuraScript", "d4/d09/a25654.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d4/d09/a25654.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d4/d09/a25654.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "CheckCast", "d4/d09/a25654.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "d4/d09/a25654.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "d4/d09/a25654.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "d4/d09/a25654.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "d4/d09/a25654.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "d4/d09/a25654.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

@@ -1,7 +1,6 @@
 var a13146 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d3/d6e/a13146.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
-    [ "GetGUID", "d3/d6e/a13146.html#a83cca82e7d75231a6aa586f67dad766e", null ],
-    [ "SetGUID", "d3/d6e/a13146.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
-    [ "prisonerGUID", "d3/d6e/a13146.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
+    [ "npc_unworthy_initiate_anchorAI", "da/d57/a13150.html", "da/d57/a13150" ],
+    [ "npc_unworthy_initiate_anchor", "d3/d6e/a13146.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "d3/d6e/a13146.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

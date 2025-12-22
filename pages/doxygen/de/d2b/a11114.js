@@ -1,7 +1,6 @@
 var a11114 =
 [
-    [ "UpdateWorldState", "de/d2b/a11114.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "de/d2b/a11114.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "de/d2b/a11114.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "de/d2b/a11114.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "WorldStateInfo", "de/d2b/a11114.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "de/d2b/a11114.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "de/d2b/a11114.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

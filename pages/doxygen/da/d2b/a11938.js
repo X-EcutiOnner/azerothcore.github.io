@@ -1,7 +1,8 @@
 var a11938 =
 [
-    [ "player_commandscript", "da/d2b/a11938.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "da/d2b/a11938.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "da/d2b/a11938.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "da/d2b/a11938.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "pet_commandscript", "da/d2b/a11938.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "da/d2b/a11938.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "da/d2b/a11938.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "da/d2b/a11938.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "da/d2b/a11938.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

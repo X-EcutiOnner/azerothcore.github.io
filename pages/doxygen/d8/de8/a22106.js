@@ -1,6 +1,9 @@
 var a22106 =
 [
-    [ "CheckRequirement", "d8/de8/a22106.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d8/de8/a22106.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d8/de8/a22106.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_wounded_skirmisher", "d8/de8/a22106.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d8/de8/a22106.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d8/de8/a22106.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d8/de8/a22106.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d8/de8/a22106.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d8/de8/a22106.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

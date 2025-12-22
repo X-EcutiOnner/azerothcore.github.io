@@ -1,7 +1,6 @@
 var a24810 =
 [
-    [ "CalculateAmount", "dc/dcb/a24810.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
-    [ "PrepareAuraScript", "dc/dcb/a24810.html#aaf070525419cc8af56cd0002bbef2391", null ],
-    [ "Register", "dc/dcb/a24810.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
-    [ "Validate", "dc/dcb/a24810.html#a3b8d5d04ec015240d941790bd02598f8", null ]
+    [ "RaiseDeadCheck", "dc/dcb/a24810.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "dc/dcb/a24810.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "dc/dcb/a24810.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

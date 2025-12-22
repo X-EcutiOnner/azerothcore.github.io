@@ -1,7 +1,10 @@
 var a20526 =
 [
-    [ "FilterTargetsInitial", "d2/d97/a20526.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d2/d97/a20526.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d2/d97/a20526.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d2/d97/a20526.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "boss_kologarn_eyebeamAI", "d2/d97/a20526.html#add083b2a9067753458de1eeb6bdca4c0", null ],
+    [ "DamageDealt", "d2/d97/a20526.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
+    [ "IsSummonedBy", "d2/d97/a20526.html#affd177dc20c800777142208fa97207fa", null ],
+    [ "UpdateAI", "d2/d97/a20526.html#add60a709a1edf1684bd21358769590b4", null ],
+    [ "_damaged", "d2/d97/a20526.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
+    [ "_timer", "d2/d97/a20526.html#a766ad3e10016d97235499d1512c4da27", null ],
+    [ "m_pInstance", "d2/d97/a20526.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
 ];

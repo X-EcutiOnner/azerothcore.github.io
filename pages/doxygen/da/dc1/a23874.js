@@ -1,13 +1,5 @@
 var a23874 =
 [
-    [ "boss_wrath_scryer_soccothrates", "da/dc1/a23874.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "da/dc1/a23874.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "da/dc1/a23874.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "da/dc1/a23874.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "da/dc1/a23874.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "da/dc1/a23874.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "da/dc1/a23874.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "da/dc1/a23874.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "da/dc1/a23874.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "da/dc1/a23874.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "at_shattered_halls_execution", "da/dc1/a23874.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "da/dc1/a23874.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

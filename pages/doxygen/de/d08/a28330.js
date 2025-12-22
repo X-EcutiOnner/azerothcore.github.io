@@ -1,5 +1,7 @@
 var a28330 =
 [
-    [ "ID", "de/d08/a28330.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "de/d08/a28330.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "bit_index", "de/d08/a28330.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "de/d08/a28330.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "de/d08/a28330.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "de/d08/a28330.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

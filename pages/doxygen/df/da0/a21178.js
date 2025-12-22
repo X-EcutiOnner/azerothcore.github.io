@@ -1,5 +1,6 @@
 var a21178 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "df/da0/a21178.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "df/da0/a21178.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "df/da0/a21178.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "df/da0/a21178.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "df/da0/a21178.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

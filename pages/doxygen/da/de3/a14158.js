@@ -1,6 +1,6 @@
 var a14158 =
 [
-    [ "boss_grilekAI", "d0/d46/a14162.html", "d0/d46/a14162" ],
-    [ "boss_grilek", "da/de3/a14158.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "da/de3/a14158.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "OnEffect", "da/de3/a14158.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "da/de3/a14158.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "da/de3/a14158.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

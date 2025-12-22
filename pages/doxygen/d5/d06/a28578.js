@@ -1,5 +1,7 @@
 var a28578 =
 [
-    [ "Flags", "d5/d06/a28578.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "d5/d06/a28578.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "EpicPropertiesPoints", "d5/d06/a28578.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d5/d06/a28578.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d5/d06/a28578.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d5/d06/a28578.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

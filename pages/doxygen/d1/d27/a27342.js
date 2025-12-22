@@ -1,6 +1,6 @@
 var a27342 =
 [
-    [ "boss_emerissAI", "da/dc9/a27346.html", "da/dc9/a27346" ],
-    [ "boss_emeriss", "d1/d27/a27342.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d1/d27/a27342.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d1/d27/a27342.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d1/d27/a27342.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d1/d27/a27342.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

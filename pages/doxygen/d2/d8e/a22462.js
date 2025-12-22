@@ -1,6 +1,7 @@
 var a22462 =
 [
-    [ "npc_icefangAI", "df/d7a/a22466.html", "df/d7a/a22466" ],
-    [ "npc_icefang", "d2/d8e/a22462.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d2/d8e/a22462.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_hyldsmeet_protodrake", "d2/d8e/a22462.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d2/d8e/a22462.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d2/d8e/a22462.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryRespawnTimer", "d2/d8e/a22462.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

@@ -1,8 +1,8 @@
 var a25962 =
 [
-    [ "HandleDummy", "de/daf/a25962.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
-    [ "Load", "de/daf/a25962.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
-    [ "PrepareSpellScript", "de/daf/a25962.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
-    [ "Register", "de/daf/a25962.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
-    [ "Validate", "de/daf/a25962.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
+    [ "HandleDummy", "de/daf/a25962.html#a57897df074b7766c022526e082b4a13b", null ],
+    [ "Load", "de/daf/a25962.html#a47cbade67be124496c6194391ab51794", null ],
+    [ "PrepareSpellScript", "de/daf/a25962.html#af5e5a22976adfa5588ca8e054e19a669", null ],
+    [ "Register", "de/daf/a25962.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
+    [ "Validate", "de/daf/a25962.html#a97d037267e385e0d3fd80543a5ddb366", null ]
 ];

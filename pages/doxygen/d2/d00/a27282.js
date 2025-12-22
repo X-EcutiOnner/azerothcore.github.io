@@ -1,5 +1,5 @@
 var a27282 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d2/d00/a27282.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d2/d00/a27282.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "achievement_not_even_a_scratch", "d2/d00/a27282.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d2/d00/a27282.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

@@ -1,7 +1,6 @@
 var a13662 =
 [
-    [ "HandleAfterCast", "df/dc8/a13662.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "df/dc8/a13662.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "df/dc8/a13662.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "df/dc8/a13662.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "df/dc8/a13662.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "df/dc8/a13662.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "df/dc8/a13662.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

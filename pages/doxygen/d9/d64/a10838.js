@@ -1,7 +1,7 @@
 var a10838 =
 [
-    [ "AutoEquipItemSlot", "d9/d64/a10838.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "d9/d64/a10838.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "d9/d64/a10838.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "d9/d64/a10838.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "SwapInventoryItem", "d9/d64/a10838.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
+    [ "Read", "d9/d64/a10838.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
+    [ "DestinationSlot", "d9/d64/a10838.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
+    [ "SourceSlot", "d9/d64/a10838.html#a59117b7ce21919acc55b3da079050dc3", null ]
 ];

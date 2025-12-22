@@ -1,5 +1,5 @@
 var a14614 =
 [
-    [ "go_pumpkin_shrine", "d3/dd9/a14614.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d3/dd9/a14614.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "go_loosely_turned_soilAI", "d3/dd9/a14614.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d3/dd9/a14614.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

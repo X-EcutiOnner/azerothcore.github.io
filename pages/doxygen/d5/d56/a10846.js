@@ -1,7 +1,9 @@
 var a10846 =
 [
-    [ "AutoEquipItem", "d5/d56/a10846.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
-    [ "Read", "d5/d56/a10846.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
-    [ "SourceBag", "d5/d56/a10846.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
-    [ "SourceSlot", "d5/d56/a10846.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
+    [ "SwapItem", "d5/d56/a10846.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "d5/d56/a10846.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "d5/d56/a10846.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "d5/d56/a10846.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "d5/d56/a10846.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "d5/d56/a10846.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

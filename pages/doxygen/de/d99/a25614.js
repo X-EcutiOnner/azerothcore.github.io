@@ -1,8 +1,10 @@
 var a25614 =
 [
-    [ "HandlePeriodic", "de/d99/a25614.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "de/d99/a25614.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "de/d99/a25614.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "de/d99/a25614.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "de/d99/a25614.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "Load", "de/d99/a25614.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "de/d99/a25614.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "de/d99/a25614.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "de/d99/a25614.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "de/d99/a25614.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "de/d99/a25614.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "de/d99/a25614.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

@@ -1,5 +1,5 @@
 var a27890 =
 [
-    [ "npc_necropolis", "db/dae/a27890.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "db/dae/a27890.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "npc_stable_masterAI", "db/dae/a27890.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "db/dae/a27890.html#a09205661674dd011ffe425deaadde053", null ]
 ];

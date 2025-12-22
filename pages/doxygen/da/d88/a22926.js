@@ -1,7 +1,12 @@
 var a22926 =
 [
-    [ "HandleDummy", "da/d88/a22926.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "da/d88/a22926.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "da/d88/a22926.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "da/d88/a22926.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "npc_maiev_illidan", "da/d88/a22926.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "da/d88/a22926.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "da/d88/a22926.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "da/d88/a22926.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "da/d88/a22926.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "Reset", "da/d88/a22926.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "da/d88/a22926.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "da/d88/a22926.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "instance", "da/d88/a22926.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

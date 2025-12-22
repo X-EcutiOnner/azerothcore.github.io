@@ -1,11 +1,11 @@
 var a03707 =
 [
-    [ "OrcMoveEvent", "d5/d46/a12314.html", "d5/d46/a12314" ],
-    [ "OrcDeathEvent", "de/d44/a12318.html", "de/d44/a12318" ],
-    [ "boss_the_beast", "db/de2/a12322.html", "db/de2/a12322" ],
-    [ "boss_the_beast::boss_thebeastAI", "d7/def/a12326.html", "d7/def/a12326" ],
-    [ "at_trigger_the_beast_movement", "d1/d55/a12330.html", "d1/d55/a12330" ],
-    [ "at_the_beast_room", "d2/d7d/a12334.html", "d2/d7d/a12334" ],
+    [ "OrcMoveEvent", "de/d44/a12318.html", "de/d44/a12318" ],
+    [ "OrcDeathEvent", "db/de2/a12322.html", "db/de2/a12322" ],
+    [ "boss_the_beast", "d7/def/a12326.html", "d7/def/a12326" ],
+    [ "boss_the_beast::boss_thebeastAI", "d1/d55/a12330.html", "d1/d55/a12330" ],
+    [ "at_trigger_the_beast_movement", "d2/d7d/a12334.html", "d2/d7d/a12334" ],
+    [ "at_the_beast_room", "d3/d37/a12338.html", "d3/d37/a12338" ],
     [ "BeastMisc", "d1/d00/a03707.html#a90702f385b86278a300e5589aa870fe7", [
       [ "DATA_BEAST_REACHED", "d1/d00/a03707.html#a90702f385b86278a300e5589aa870fe7ab652dbca9c4dc475326463e0e5305849", null ],
       [ "DATA_BEAST_ROOM", "d1/d00/a03707.html#a90702f385b86278a300e5589aa870fe7a5f756bc946db358d3d20ce9b3ff1cffd", null ],
@@ -3319,6 +3319,7 @@ var a03707 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

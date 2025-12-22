@@ -1,7 +1,8 @@
 var a17582 =
 [
-    [ "OnProc", "dc/d86/a17582.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "dc/d86/a17582.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "dc/d86/a17582.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "dc/d86/a17582.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "OnApply", "dc/d86/a17582.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "dc/d86/a17582.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "dc/d86/a17582.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "dc/d86/a17582.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "dc/d86/a17582.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

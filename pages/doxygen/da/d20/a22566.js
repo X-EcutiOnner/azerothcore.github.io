@@ -1,5 +1,8 @@
 var a22566 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "da/d20/a22566.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "da/d20/a22566.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "go_wg_vehicle_teleporterAI", "da/d20/a22566.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "da/d20/a22566.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "da/d20/a22566.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "da/d20/a22566.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "da/d20/a22566.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

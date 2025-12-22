@@ -1,7 +1,11 @@
 var a18082 =
 [
-    [ "HandleDummy", "dc/d33/a18082.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "dc/d33/a18082.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "dc/d33/a18082.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "dc/d33/a18082.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "Load", "dc/d33/a18082.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "dc/d33/a18082.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "dc/d33/a18082.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "dc/d33/a18082.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "dc/d33/a18082.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "dc/d33/a18082.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "dc/d33/a18082.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "dc/d33/a18082.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

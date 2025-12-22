@@ -2,11 +2,11 @@ var a00269 =
 [
     [ "SmartEvent", "db/d84/a06318.html", "db/d84/a06318" ],
     [ "SmartAction", "d4/da8/a06498.html", "d4/da8/a06498" ],
-    [ "SmartTarget", "da/ded/a06986.html", "da/ded/a06986" ],
-    [ "SmartScriptHolder", "d5/d2f/a07094.html", "d5/d2f/a07094" ],
-    [ "ObjectGuidVector", "db/d4a/a07098.html", "db/d4a/a07098" ],
-    [ "SmartWaypointMgr", "d3/dd9/a07102.html", "d3/dd9/a07102" ],
-    [ "SmartAIMgr", "dc/da2/a07106.html", "dc/da2/a07106" ],
+    [ "SmartTarget", "da/da7/a06990.html", "da/da7/a06990" ],
+    [ "SmartScriptHolder", "db/d4a/a07098.html", "db/d4a/a07098" ],
+    [ "ObjectGuidVector", "d3/dd9/a07102.html", "d3/dd9/a07102" ],
+    [ "SmartWaypointMgr", "dc/da2/a07106.html", "dc/da2/a07106" ],
+    [ "SmartAIMgr", "da/d25/a07110.html", "da/d25/a07110" ],
     [ "sSmartScriptMgr", "d5/d42/a00269.html#a6fcbfe722a7e6345cf5c655c860d9ad3", null ],
     [ "sSmartWaypointMgr", "d5/d42/a00269.html#a2f98805bdaae76c9a1c2b6ce9e815d84", null ],
     [ "ObjectVector", "d5/d42/a00269.html#a3d080db7fa99da7af5bcaa7720f359d1", null ],
@@ -201,6 +201,7 @@ var a00269 =
       [ "SMART_ACTION_MOVEMENT_RESUME", "d5/d42/a00269.html#a7b5604e647b8ac28cc6a4a64deceeebca2b1608d8533efbcc9a63811f09c6c2ef", null ],
       [ "SMART_ACTION_WORLD_SCRIPT", "d5/d42/a00269.html#a7b5604e647b8ac28cc6a4a64deceeebca4c6f10882f7a391d9a57c4837ab6790d", null ],
       [ "SMART_ACTION_DISABLE_REWARD", "d5/d42/a00269.html#a7b5604e647b8ac28cc6a4a64deceeebcaf206e07c1061964cce3d2ed7869276dd", null ],
+      [ "SMART_ACTION_SET_ANIM_TIER", "d5/d42/a00269.html#a7b5604e647b8ac28cc6a4a64deceeebca6a83a33414cde51d1c7dde630595d3fc", null ],
       [ "SMART_ACTION_AC_END", "d5/d42/a00269.html#a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6", null ]
     ] ],
     [ "SMART_EVENT", "d5/d42/a00269.html#a8e5d5aa0dedbff31bb70e7955ad5bf97", [

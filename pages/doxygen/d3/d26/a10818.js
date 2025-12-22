@@ -1,6 +1,7 @@
 var a10818 =
 [
-    [ "GuildSetGuildMaster", "d3/d26/a10818.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "d3/d26/a10818.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "d3/d26/a10818.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "GuildBankSetTabText", "d3/d26/a10818.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "d3/d26/a10818.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "d3/d26/a10818.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "d3/d26/a10818.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

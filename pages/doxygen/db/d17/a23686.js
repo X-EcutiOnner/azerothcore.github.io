@@ -1,10 +1,11 @@
 var a23686 =
 [
-    [ "boss_kelidan_the_breaker", "db/d17/a23686.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "db/d17/a23686.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "db/d17/a23686.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "db/d17/a23686.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "db/d17/a23686.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "db/d17/a23686.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "db/d17/a23686.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "boss_kiggler_the_crazed", "db/d17/a23686.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "db/d17/a23686.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "db/d17/a23686.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "db/d17/a23686.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "db/d17/a23686.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "db/d17/a23686.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "db/d17/a23686.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "db/d17/a23686.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

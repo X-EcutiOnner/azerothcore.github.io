@@ -1,7 +1,6 @@
 var a10546 =
 [
-    [ "CalendarComplain", "d0/d62/a10546.html#a35252d9ee72257a0771f3faa274f8029", null ],
-    [ "Read", "d0/d62/a10546.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
-    [ "ComplainGuid", "d0/d62/a10546.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
-    [ "EventId", "d0/d62/a10546.html#a3cc5c6b822a697df900826b64b5b9759", null ]
+    [ "ArenaTeam", "d0/d62/a10546.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
+    [ "Read", "d0/d62/a10546.html#a9953d33b35eca1b91ed1618609c6acea", null ],
+    [ "ArenaTeamId", "d0/d62/a10546.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
 ];

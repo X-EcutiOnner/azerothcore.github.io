@@ -1,5 +1,6 @@
 var a24354 =
 [
-    [ "creature", "dd/df2/a24354.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "dd/df2/a24354.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "npc_mature_netherwing_drakeAI", "d2/d60/a24358.html", "d2/d60/a24358" ],
+    [ "npc_mature_netherwing_drake", "dd/df2/a24354.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "dd/df2/a24354.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

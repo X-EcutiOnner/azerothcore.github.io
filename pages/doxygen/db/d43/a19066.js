@@ -1,6 +1,9 @@
 var a19066 =
 [
-    [ "icecrown_citadel_teleport", "db/d43/a19066.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "db/d43/a19066.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "db/d43/a19066.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "spell_trigger_spell_from_caster", "db/d43/a19066.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "db/d43/a19066.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "db/d43/a19066.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "db/d43/a19066.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "db/d43/a19066.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "db/d43/a19066.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

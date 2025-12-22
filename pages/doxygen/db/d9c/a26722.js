@@ -1,6 +1,6 @@
 var a26722 =
 [
-    [ "HandleEffectPeriodic", "db/d9c/a26722.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
-    [ "PrepareAuraScript", "db/d9c/a26722.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
-    [ "Register", "db/d9c/a26722.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
+    [ "PrepareSpellScript", "db/d9c/a26722.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "db/d9c/a26722.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "db/d9c/a26722.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

@@ -1,6 +1,6 @@
 var a23630 =
 [
-    [ "HandleScriptEffect", "da/d01/a23630.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "da/d01/a23630.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "da/d01/a23630.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d8/ddc/a23634.html", "d8/ddc/a23634" ],
+    [ "instance_the_underbog", "da/d01/a23630.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "da/d01/a23630.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

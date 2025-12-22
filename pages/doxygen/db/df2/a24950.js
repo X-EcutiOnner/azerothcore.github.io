@@ -1,6 +1,7 @@
 var a24950 =
 [
-    [ "CheckProc", "db/df2/a24950.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "db/df2/a24950.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "db/df2/a24950.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "FilterTargets", "db/df2/a24950.html#af6daf7022fc4cd18909056089c249c8a", null ],
+    [ "HandleDummy", "db/df2/a24950.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
+    [ "PrepareSpellScript", "db/df2/a24950.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
+    [ "Register", "db/df2/a24950.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
 ];

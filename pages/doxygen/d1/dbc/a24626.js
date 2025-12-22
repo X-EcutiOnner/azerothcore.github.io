@@ -1,6 +1,6 @@
 var a24626 =
 [
-    [ "PrepareSpellScript", "d1/dbc/a24626.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d1/dbc/a24626.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d1/dbc/a24626.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "DeathEvent", "d1/dbc/a24626.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d1/dbc/a24626.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d1/dbc/a24626.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

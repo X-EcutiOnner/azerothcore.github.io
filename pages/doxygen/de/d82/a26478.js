@@ -1,6 +1,8 @@
 var a26478 =
 [
-    [ "HandleFinish", "de/d82/a26478.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "de/d82/a26478.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "de/d82/a26478.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "HandleApplyEffect", "de/d82/a26478.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "de/d82/a26478.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "de/d82/a26478.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "de/d82/a26478.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "de/d82/a26478.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

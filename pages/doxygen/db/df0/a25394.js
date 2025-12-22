@@ -1,7 +1,6 @@
 var a25394 =
 [
-    [ "EjectPassenger", "db/df0/a25394.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "db/df0/a25394.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "db/df0/a25394.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "db/df0/a25394.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "HandleScript", "db/df0/a25394.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "db/df0/a25394.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "db/df0/a25394.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

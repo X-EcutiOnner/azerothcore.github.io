@@ -1,6 +1,9 @@
 var a24642 =
 [
-    [ "HandlePeriodic", "d7/de3/a24642.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "d7/de3/a24642.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "d7/de3/a24642.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "npc_pet_shaman_fire_elemental", "d7/de3/a24642.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d7/de3/a24642.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d7/de3/a24642.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d7/de3/a24642.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d7/de3/a24642.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d7/de3/a24642.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

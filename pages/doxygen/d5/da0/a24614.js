@@ -1,7 +1,8 @@
 var a24614 =
 [
-    [ "CheckCast", "d5/da0/a24614.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d5/da0/a24614.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d5/da0/a24614.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d5/da0/a24614.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_pet_darting_hatchling", "d5/da0/a24614.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d5/da0/a24614.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d5/da0/a24614.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d5/da0/a24614.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d5/da0/a24614.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

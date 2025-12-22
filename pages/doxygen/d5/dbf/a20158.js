@@ -1,7 +1,7 @@
 var a20158 =
 [
-    [ "OnPeriodic", "d5/dbf/a20158.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d5/dbf/a20158.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d5/dbf/a20158.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d5/dbf/a20158.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "HandleScript", "d5/dbf/a20158.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d5/dbf/a20158.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d5/dbf/a20158.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d5/dbf/a20158.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

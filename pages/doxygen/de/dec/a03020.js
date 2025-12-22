@@ -1,10 +1,10 @@
 var a03020 =
 [
-    [ "boss_dred", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
-    [ "boss_dred::boss_dredAI", "dc/d5a/a16846.html", "dc/d5a/a16846" ],
-    [ "spell_dred_grievious_bite_aura", "da/d72/a16850.html", "da/d72/a16850" ],
-    [ "spell_dred_raptor_call", "d1/d46/a16854.html", "d1/d46/a16854" ],
-    [ "achievement_better_off_dred", "d6/dee/a16858.html", "d6/dee/a16858" ],
+    [ "boss_dred", "dc/d5a/a16846.html", "dc/d5a/a16846" ],
+    [ "boss_dred::boss_dredAI", "da/d72/a16850.html", "da/d72/a16850" ],
+    [ "spell_dred_grievious_bite_aura", "d1/d46/a16854.html", "d1/d46/a16854" ],
+    [ "spell_dred_raptor_call", "d6/dee/a16858.html", "d6/dee/a16858" ],
+    [ "achievement_better_off_dred", "d6/d04/a16862.html", "d6/d04/a16862" ],
     [ "Misc", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -2778,6 +2778,7 @@ var a03020 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

@@ -1,6 +1,5 @@
 var a25042 =
 [
-    [ "CheckProc", "da/de8/a25042.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "da/de8/a25042.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "da/de8/a25042.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "PrepareSpellScript", "da/de8/a25042.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "da/de8/a25042.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

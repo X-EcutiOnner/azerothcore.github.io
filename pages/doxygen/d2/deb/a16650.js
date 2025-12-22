@@ -1,6 +1,8 @@
 var a16650 =
 [
-    [ "npc_toc_warriorAI", "d2/d9d/a16654.html", "d2/d9d/a16654" ],
-    [ "npc_toc_warrior", "d2/deb/a16650.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d2/deb/a16650.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "npc_toc_boomkinAI", "d2/deb/a16650.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d2/deb/a16650.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d2/deb/a16650.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d2/deb/a16650.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d2/deb/a16650.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

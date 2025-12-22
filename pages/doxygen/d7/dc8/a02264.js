@@ -1,8 +1,8 @@
 var a02264 =
 [
-    [ "boss_moam", "d6/d55/a15202.html", "d6/d55/a15202" ],
-    [ "spell_moam_mana_drain_filter", "d0/d53/a15206.html", "d0/d53/a15206" ],
-    [ "spell_moam_summon_mana_fiends", "d8/df1/a15210.html", "d8/df1/a15210" ],
+    [ "boss_moam", "d0/d53/a15206.html", "d0/d53/a15206" ],
+    [ "spell_moam_mana_drain_filter", "d8/df1/a15210.html", "d8/df1/a15210" ],
+    [ "spell_moam_summon_mana_fiends", "d5/deb/a15214.html", "d5/deb/a15214" ],
     [ "Events", "d7/dc8/a02264.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -3309,6 +3309,7 @@ var a02264 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

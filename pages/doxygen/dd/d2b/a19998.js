@@ -1,6 +1,9 @@
 var a19998 =
 [
-    [ "npc_auriaya_feral_defenderAI", "dc/d15/a20002.html", "dc/d15/a20002" ],
-    [ "npc_auriaya_feral_defender", "dd/d2b/a19998.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "dd/d2b/a19998.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "dd/d2b/a19998.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "dd/d2b/a19998.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "dd/d2b/a19998.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "dd/d2b/a19998.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "dd/d2b/a19998.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "dd/d2b/a19998.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

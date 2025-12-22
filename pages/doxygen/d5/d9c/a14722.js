@@ -1,16 +1,9 @@
 var a14722 =
 [
-    [ "npc_pilgrims_bounty_chair", "d5/d9c/a14722.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
-    [ "AttackStart", "d5/d9c/a14722.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
-    [ "DamageTaken", "d5/d9c/a14722.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
-    [ "DoAction", "d5/d9c/a14722.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
-    [ "GetPlate", "d5/d9c/a14722.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
-    [ "MoveInLineOfSight", "d5/d9c/a14722.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
-    [ "PassengerBoarded", "d5/d9c/a14722.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
-    [ "SpellHit", "d5/d9c/a14722.html#a681323ae3100f46dd0aba595159d7daf", null ],
-    [ "SpellHitTarget", "d5/d9c/a14722.html#affd51da83859b962977ed6b51c74d01e", null ],
-    [ "UpdateAI", "d5/d9c/a14722.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
-    [ "plateGUID", "d5/d9c/a14722.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
-    [ "timerRotateChair", "d5/d9c/a14722.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
-    [ "timerSpawnPlate", "d5/d9c/a14722.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
+    [ "HandlePeriodic", "d5/d9c/a14722.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d5/d9c/a14722.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d5/d9c/a14722.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d5/d9c/a14722.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d5/d9c/a14722.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d5/d9c/a14722.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

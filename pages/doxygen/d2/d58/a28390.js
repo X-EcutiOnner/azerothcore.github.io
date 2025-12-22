@@ -1,6 +1,5 @@
 var a28390 =
 [
-    [ "Id", "d2/d58/a28390.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d2/d58/a28390.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d2/d58/a28390.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "Itemlvl", "d2/d58/a28390.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d2/d58/a28390.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

@@ -1,6 +1,6 @@
 var a23834 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dd/d13/a23838.html", "dd/d13/a23838" ],
-    [ "instance_shattered_halls", "d0/d81/a23834.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d0/d81/a23834.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "boss_porung", "d0/d81/a23834.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d0/d81/a23834.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d0/d81/a23834.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

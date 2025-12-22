@@ -1,6 +1,6 @@
 var a22330 =
 [
-    [ "npc_still_at_it_triggerAI", "d1/de6/a22334.html", "d1/de6/a22334" ],
-    [ "npc_still_at_it_trigger", "da/d45/a22330.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "da/d45/a22330.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "HandleHealPct", "da/d45/a22330.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "da/d45/a22330.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "da/d45/a22330.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

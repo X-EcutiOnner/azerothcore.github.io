@@ -1,9 +1,6 @@
 var a13270 =
 [
-    [ "npc_risen_guardianAI", "d0/db6/a13270.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "d0/db6/a13270.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "d0/db6/a13270.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "d0/db6/a13270.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "d0/db6/a13270.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "d0/db6/a13270.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_risen_guardianAI", "d1/d4e/a13274.html", "d1/d4e/a13274" ],
+    [ "npc_risen_guardian", "d0/db6/a13270.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "d0/db6/a13270.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

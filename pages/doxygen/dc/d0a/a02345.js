@@ -1,10 +1,10 @@
 var a02345 =
 [
-    [ "boss_viscidus", "d6/d01/a15402.html", "d6/d01/a15402" ],
-    [ "boss_glob_of_viscidus", "d7/d13/a15406.html", "d7/d13/a15406" ],
-    [ "npc_toxic_slime", "d4/dd7/a15410.html", "d4/dd7/a15410" ],
-    [ "spell_explode_trigger", "db/de2/a15414.html", "db/de2/a15414" ],
-    [ "spell_summon_toxin_slime", "d2/da0/a15418.html", "d2/da0/a15418" ],
+    [ "boss_viscidus", "d7/d13/a15406.html", "d7/d13/a15406" ],
+    [ "boss_glob_of_viscidus", "d4/dd7/a15410.html", "d4/dd7/a15410" ],
+    [ "npc_toxic_slime", "db/de2/a15414.html", "db/de2/a15414" ],
+    [ "spell_explode_trigger", "d2/da0/a15418.html", "d2/da0/a15418" ],
+    [ "spell_summon_toxin_slime", "d8/dfe/a15422.html", "d8/dfe/a15422" ],
     [ "Emotes", "dc/d0a/a02345.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d9/d3c/a03650.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d9/d3c/a03650.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -4144,6 +4144,7 @@ var a02345 =
       [ "SPELL_SOUL_REAPER", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9", null ],
       [ "SPELL_SOUL_REAPER_BUFF", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf", null ],
       [ "SPELL_SUMMON_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
+      [ "SPELL_SUMMON_VALKYR_PERIODIC", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2", null ],
       [ "SPELL_WINGS_OF_THE_DAMNED", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c", null ],
       [ "SPELL_VALKYR_TARGET_SEARCH", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752", null ],
       [ "SPELL_HARVEST_SOUL_VALKYR", "d9/d5e/a03086.html#a5bd342133be8c2137b831460acc9298caf4d2e40352d0a9efb15fa453b8f328ad", null ],

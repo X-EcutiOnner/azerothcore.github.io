@@ -1,5 +1,9 @@
 var a20758 =
 [
-    [ "achievement_quick_shave", "d2/db8/a20758.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d2/db8/a20758.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "d2/db8/a20758.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "d2/db8/a20758.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "d2/db8/a20758.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "d2/db8/a20758.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "d2/db8/a20758.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "d2/db8/a20758.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

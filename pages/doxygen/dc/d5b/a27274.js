@@ -1,5 +1,5 @@
 var a27274 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "dc/d5b/a27274.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "dc/d5b/a27274.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_sa_defense_of_the_ancients", "dc/d5b/a27274.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "dc/d5b/a27274.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

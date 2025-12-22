@@ -1,6 +1,6 @@
 var a27826 =
 [
-    [ "npc_locksmith", "d0/dd0/a27826.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d0/dd0/a27826.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d0/dd0/a27826.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_guardianAI", "d2/d16/a27830.html", "d2/d16/a27830" ],
+    [ "npc_guardian", "d0/dd0/a27826.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d0/dd0/a27826.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

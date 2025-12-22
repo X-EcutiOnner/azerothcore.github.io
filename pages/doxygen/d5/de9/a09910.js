@@ -1,7 +1,7 @@
 var a09910 =
 [
-    [ "LFGUpdateRequest", "d5/de9/a09910.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d5/de9/a09910.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d5/de9/a09910.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d5/de9/a09910.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "MapPreloadRequest", "d5/de9/a09910.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d5/de9/a09910.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d5/de9/a09910.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d5/de9/a09910.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

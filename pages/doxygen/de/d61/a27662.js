@@ -1,11 +1,8 @@
 var a27662 =
 [
-    [ "npc_artoriusAI", "de/d61/a27662.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "de/d61/a27662.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "de/d61/a27662.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "de/d61/a27662.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "de/d61/a27662.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "de/d61/a27662.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "de/d61/a27662.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "de/d61/a27662.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "trigger_periodicAI", "de/d61/a27662.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "de/d61/a27662.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "de/d61/a27662.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "de/d61/a27662.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "de/d61/a27662.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

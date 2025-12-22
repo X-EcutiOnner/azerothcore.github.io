@@ -1,7 +1,6 @@
 var a24466 =
 [
-    [ "HandleSendEvent", "d2/de0/a24466.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d2/de0/a24466.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d2/de0/a24466.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d2/de0/a24466.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_kservantAI", "dd/d90/a24470.html", "dd/d90/a24470" ],
+    [ "npc_kservant", "d2/de0/a24466.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d2/de0/a24466.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];
