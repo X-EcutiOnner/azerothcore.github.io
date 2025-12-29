@@ -1,8 +1,9 @@
 var a23091 =
 [
-    [ "FilterTargets", "d7/ddc/a23091.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d7/ddc/a23091.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d7/ddc/a23091.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d7/ddc/a23091.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d7/ddc/a23091.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_mother_shahraz", "d7/ddc/a23091.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d7/ddc/a23091.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d7/ddc/a23091.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d7/ddc/a23091.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d7/ddc/a23091.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d7/ddc/a23091.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

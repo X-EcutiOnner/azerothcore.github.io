@@ -1,7 +1,7 @@
 var a18587 =
 [
-    [ "CalculateBonus", "d2/d9a/a18587.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d2/d9a/a18587.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d2/d9a/a18587.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d2/d9a/a18587.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "PrepareSpellScript", "d2/d9a/a18587.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d2/d9a/a18587.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d2/d9a/a18587.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d2/d9a/a18587.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

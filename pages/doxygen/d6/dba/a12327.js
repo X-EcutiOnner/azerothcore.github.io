@@ -1,5 +1,9 @@
 var a12327 =
 [
-    [ "at_trigger_the_beast_movement", "d6/dba/a12327.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d6/dba/a12327.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_overlordwyrmthalakAI", "d6/dba/a12327.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d6/dba/a12327.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d6/dba/a12327.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d6/dba/a12327.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d6/dba/a12327.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d6/dba/a12327.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

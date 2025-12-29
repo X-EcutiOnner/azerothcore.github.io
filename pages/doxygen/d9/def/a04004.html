@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/QueryHolder.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/DatabaseLoader.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,53 @@ $(document).ready(function(){initNavTree('d9/def/a04004.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
-  <div class="headertitle"><div class="title">QueryHolder.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">DatabaseLoader.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">SQLOperation.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &lt;errmsg.h&gt;</code><br />
+<code>#include &lt;mysqld_error.h&gt;</code><br />
+<code>#include &lt;thread&gt;</code><br />
+<code>#include &lt;string_view&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a05898.html">SQLQueryHolderBase</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dd/d3b/a04851"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3b/a04851.html">anonymous_namespace{DatabaseLoader.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d55/a05750.html">SQLQueryHolder&lt; T &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/de6/a05902.html">SQLQueryHolderTask</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html">SQLQueryHolderCallback</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a5560c170776773a1a20d93060003e89d"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3b/a04851.html#a5560c170776773a1a20d93060003e89d">anonymous_namespace{DatabaseLoader.cpp}::GetDefaultDatabaseInfo</a> (std::string_view name)</td></tr>
+<tr class="separator:a5560c170776773a1a20d93060003e89d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aa2920a017ca93e102f17b0ca20885c5b"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3b/a04851.html#aa2920a017ca93e102f17b0ca20885c5b">anonymous_namespace{DatabaseLoader.cpp}::EMPTY_DATABASE_INFO</a></td></tr>
+<tr class="separator:aa2920a017ca93e102f17b0ca20885c5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5457f479ebc812232cc3f0d67fabde1"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3b/a04851.html#aa5457f479ebc812232cc3f0d67fabde1">anonymous_namespace{DatabaseLoader.cpp}::LOGIN_DATABASE_INFO_DEFAULT</a> = &quot;127.0.0.1;3306;acore;acore;acore_auth&quot;</td></tr>
+<tr class="separator:aa5457f479ebc812232cc3f0d67fabde1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2151db3d84513bc271cf642ad76bb80"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3b/a04851.html#ad2151db3d84513bc271cf642ad76bb80">anonymous_namespace{DatabaseLoader.cpp}::WORLD_DATABASE_INFO_DEFAULT</a> = &quot;127.0.0.1;3306;acore;acore;acore_world&quot;</td></tr>
+<tr class="separator:ad2151db3d84513bc271cf642ad76bb80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6854faf653c8b94d9e1b611db3269d1a"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3b/a04851.html#a6854faf653c8b94d9e1b611db3269d1a">anonymous_namespace{DatabaseLoader.cpp}::CHARACTER_DATABASE_INFO_DEFAULT</a> = &quot;127.0.0.1;3306;acore;acore;acore_characters&quot;</td></tr>
+<tr class="separator:a6854faf653c8b94d9e1b611db3269d1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../d9/def/a04004.html">QueryHolder.h</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:47:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../d9/def/a04004.html">DatabaseLoader.cpp</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:49:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

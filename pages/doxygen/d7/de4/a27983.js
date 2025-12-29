@@ -1,7 +1,6 @@
 var a27983 =
 [
-    [ "HandleDummy", "d7/de4/a27983.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d7/de4/a27983.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d7/de4/a27983.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d7/de4/a27983.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_necropolis_relay", "d7/de4/a27983.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d7/de4/a27983.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d7/de4/a27983.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

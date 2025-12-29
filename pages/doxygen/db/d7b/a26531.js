@@ -1,6 +1,7 @@
 var a26531 =
 [
-    [ "HandleScriptEffect", "db/d7b/a26531.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "db/d7b/a26531.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "db/d7b/a26531.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "HandleApplyEffect", "db/d7b/a26531.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "db/d7b/a26531.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "db/d7b/a26531.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "db/d7b/a26531.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

@@ -1,6 +1,7 @@
 var a24239 =
 [
-    [ "npc_wounded_blood_elfAI", "d7/d3b/a24243.html", "d7/d3b/a24243" ],
-    [ "npc_wounded_blood_elf", "d8/dd2/a24239.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d8/dd2/a24239.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleDummy", "d8/dd2/a24239.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d8/dd2/a24239.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d8/dd2/a24239.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d8/dd2/a24239.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

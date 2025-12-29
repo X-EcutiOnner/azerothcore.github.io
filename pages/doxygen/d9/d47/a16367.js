@@ -1,8 +1,7 @@
 var a16367 =
 [
-    [ "OnApply", "d9/d47/a16367.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "d9/d47/a16367.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "d9/d47/a16367.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "d9/d47/a16367.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "d9/d47/a16367.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "HandleDummy", "d9/d47/a16367.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d9/d47/a16367.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d9/d47/a16367.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d9/d47/a16367.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

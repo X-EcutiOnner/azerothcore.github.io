@@ -1,5 +1,5 @@
 var a27575 =
 [
-    [ "go_scourge_cage", "d2/d65/a27575.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d2/d65/a27575.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "go_sacred_fire_of_life", "d2/d65/a27575.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d2/d65/a27575.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

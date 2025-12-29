@@ -1,6 +1,12 @@
 var a17839 =
 [
-    [ "npc_gunship_rocketeerAI", "d8/d34/a17843.html", "d8/d34/a17843" ],
-    [ "npc_gunship_rocketeer", "d9/d6f/a17839.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d9/d6f/a17839.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "gunship_npc_AI", "d9/d6f/a17839.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d9/d6f/a17839.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d9/d6f/a17839.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d9/d6f/a17839.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d9/d6f/a17839.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d9/d6f/a17839.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d9/d6f/a17839.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d9/d6f/a17839.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d9/d6f/a17839.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

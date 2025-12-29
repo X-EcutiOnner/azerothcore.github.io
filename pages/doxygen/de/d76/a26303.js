@@ -1,6 +1,7 @@
 var a26303 =
 [
-    [ "CheckProc", "de/d76/a26303.html#a5b8ee53249a19954e4d46b17422207d5", null ],
-    [ "PrepareAuraScript", "de/d76/a26303.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
-    [ "Register", "de/d76/a26303.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
+    [ "CalculateSpellAmount", "de/d76/a26303.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "de/d76/a26303.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "de/d76/a26303.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "de/d76/a26303.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

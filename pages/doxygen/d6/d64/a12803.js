@@ -1,14 +1,11 @@
 var a12803 =
 [
-    [ "boss_midnight", "d6/d64/a12803.html#aacf45b21a30d671d5e9720a30336f72c", null ],
-    [ "CanMeleeHit", "d6/d64/a12803.html#ad46a3726f398e5db56612d78d33fb13f", null ],
-    [ "DamageTaken", "d6/d64/a12803.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
-    [ "DoAction", "d6/d64/a12803.html#a6831149d56f432aa3116d4172ef95a18", null ],
-    [ "EnterEvadeMode", "d6/d64/a12803.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
-    [ "JustEngagedWith", "d6/d64/a12803.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
-    [ "JustSummoned", "d6/d64/a12803.html#a2644deaf0a2970835b0cd508565e7279", null ],
-    [ "KilledUnit", "d6/d64/a12803.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
-    [ "Reset", "d6/d64/a12803.html#a4f9cb414779705c179bc5447975b35e9", null ],
-    [ "UpdateAI", "d6/d64/a12803.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
-    [ "_phase", "d6/d64/a12803.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
+    [ "boss_mr_smiteAI", "d6/d64/a12803.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "d6/d64/a12803.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "d6/d64/a12803.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "d6/d64/a12803.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "d6/d64/a12803.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "d6/d64/a12803.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "d6/d64/a12803.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "d6/d64/a12803.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

@@ -1,9 +1,11 @@
 var a25647 =
 [
-    [ "DoCheckCast", "d1/d69/a25647.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "d1/d69/a25647.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "d1/d69/a25647.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "d1/d69/a25647.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "d1/d69/a25647.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "d1/d69/a25647.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "CalcPeriodic", "d1/d69/a25647.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "d1/d69/a25647.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "d1/d69/a25647.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "d1/d69/a25647.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "d1/d69/a25647.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "d1/d69/a25647.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "d1/d69/a25647.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "d1/d69/a25647.html#a55605257006d8218250932357f325bb8", null ]
 ];

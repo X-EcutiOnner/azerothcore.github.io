@@ -1,7 +1,10 @@
 var a21747 =
 [
-    [ "HandleScriptEffect", "d6/daa/a21747.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d6/daa/a21747.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d6/daa/a21747.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d6/daa/a21747.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_jenny", "d6/daa/a21747.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d6/daa/a21747.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d6/daa/a21747.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d6/daa/a21747.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d6/daa/a21747.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d6/daa/a21747.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d6/daa/a21747.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

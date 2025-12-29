@@ -1,6 +1,5 @@
 var a12239 =
 [
-    [ "boss_highlordomokkAI", "d7/df4/a12243.html", "d7/df4/a12243" ],
-    [ "boss_highlord_omokk", "d4/d39/a12239.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "d4/d39/a12239.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "boss_high_priestess_thaurissan", "d4/d39/a12239.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
+    [ "GetAI", "d4/d39/a12239.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
 ];

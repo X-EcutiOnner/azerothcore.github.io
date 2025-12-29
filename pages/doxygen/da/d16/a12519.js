@@ -1,5 +1,6 @@
 var a12519 =
 [
-    [ "go_orb_of_domination", "da/d16/a12519.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "da/d16/a12519.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "boss_flamegorAI", "da/d16/a12519.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
+    [ "JustEngagedWith", "da/d16/a12519.html#a6005dca71e2f20ee599e053e531377d6", null ],
+    [ "UpdateAI", "da/d16/a12519.html#a2e5146815e533cf62e0084a54aa222d5", null ]
 ];

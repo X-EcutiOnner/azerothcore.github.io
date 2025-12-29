@@ -1,13 +1,7 @@
 var a30005 =
 [
-    [ "ConfigPolicy", "df/d18/a05168.html", "df/d18/a05168" ],
-    [ "ConfigMgr", "d8/de4/a05172.html", "d8/de4/a05172" ],
-    [ "ConfigException", "d3/dd2/a05176.html", "d3/dd2/a05176" ],
-    [ "sConfigMgr", "db/d6c/a30005.html#a7236988e98bdd405bf435a029b70a26f", null ],
-    [ "ConfigSeverity", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3", [
-      [ "Skip", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
-      [ "Warn", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
-      [ "Error", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
-      [ "Fatal", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
-    ] ]
+    [ "MPQArchive", "db/df4/a28999.html", "db/df4/a28999" ],
+    [ "MPQFile", "d3/d47/a29003.html", "d3/d47/a29003" ],
+    [ "ArchiveSet", "db/d6c/a30005.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "db/d6c/a30005.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

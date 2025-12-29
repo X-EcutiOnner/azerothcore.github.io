@@ -1,6 +1,6 @@
 var a04025 =
 [
-    [ "GetLibraryVersion", "d6/d73/a04025.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
-    [ "Library_End", "d6/d73/a04025.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
-    [ "Library_Init", "d6/d73/a04025.html#a70b74137156f0a22792c3cf95c54decc", null ]
+    [ "ResultIterator< T >", "d3/d20/a05927.html", "d3/d20/a05927" ],
+    [ "ResultSet", "d7/d57/a05931.html", "d7/d57/a05931" ],
+    [ "PreparedResultSet", "d3/d01/a05935.html", "d3/d01/a05935" ]
 ];

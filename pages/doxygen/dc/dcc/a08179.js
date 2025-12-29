@@ -1,15 +1,12 @@
 var a08179 =
 [
-    [ "Minion", "dc/dcc/a08179.html#a3979ae40c594699ac2a276184543b2c5", null ],
-    [ "GetDebugInfo", "dc/dcc/a08179.html#a1f9800abdfa2126e593a6ae169f20024", null ],
-    [ "GetFollowAngle", "dc/dcc/a08179.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
-    [ "GetOwner", "dc/dcc/a08179.html#a4610f459936e40b530dae8429f139cfe", null ],
-    [ "InitStats", "dc/dcc/a08179.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
-    [ "IsGuardianPet", "dc/dcc/a08179.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
-    [ "IsPetGhoul", "dc/dcc/a08179.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
-    [ "RemoveFromWorld", "dc/dcc/a08179.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
-    [ "setDeathState", "dc/dcc/a08179.html#ab954627fc409e08616cf080974d30a82", null ],
-    [ "SetFollowAngle", "dc/dcc/a08179.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
-    [ "m_followAngle", "dc/dcc/a08179.html#a02806f2eae429a33e0d2b0c115892c77", null ],
-    [ "m_owner", "dc/dcc/a08179.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
+    [ "QuestMenu", "dc/dcc/a08179.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "dc/dcc/a08179.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "dc/dcc/a08179.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "dc/dcc/a08179.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "dc/dcc/a08179.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "dc/dcc/a08179.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "dc/dcc/a08179.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "dc/dcc/a08179.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "dc/dcc/a08179.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

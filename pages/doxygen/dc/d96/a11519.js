@@ -1,6 +1,10 @@
 var a11519 =
 [
-    [ "EffectCalcSpellModHandler", "dc/d96/a11519.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "dc/d96/a11519.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "dc/d96/a11519.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "TargetHook", "dc/d96/a11519.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "dc/d96/a11519.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "dc/d96/a11519.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "dc/d96/a11519.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "dc/d96/a11519.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "dc/d96/a11519.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "dc/d96/a11519.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

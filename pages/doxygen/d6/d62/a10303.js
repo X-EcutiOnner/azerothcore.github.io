@@ -1,10 +1,19 @@
 var a10303 =
 [
-    [ "ArenaTeamScript", "d6/d62/a10303.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "d6/d62/a10303.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "d6/d62/a10303.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "d6/d62/a10303.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "d6/d62/a10303.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "d6/d62/a10303.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "d6/d62/a10303.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AllGameObjectScript", "d6/d62/a10303.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
+    [ "CanGameObjectGossipHello", "d6/d62/a10303.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
+    [ "CanGameObjectGossipSelect", "d6/d62/a10303.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
+    [ "CanGameObjectGossipSelectCode", "d6/d62/a10303.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
+    [ "CanGameObjectQuestAccept", "d6/d62/a10303.html#a0c99183b04355ecfb3460bc371b58805", null ],
+    [ "CanGameObjectQuestReward", "d6/d62/a10303.html#a55eb61a5e4386908db998ceff1dff359", null ],
+    [ "GetGameObjectAI", "d6/d62/a10303.html#afe0c610693bc883415952ba350596788", null ],
+    [ "OnGameObjectAddWorld", "d6/d62/a10303.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
+    [ "OnGameObjectDamaged", "d6/d62/a10303.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
+    [ "OnGameObjectDestroyed", "d6/d62/a10303.html#a3861b881456c1af3e9231d90519367d6", null ],
+    [ "OnGameObjectLootStateChanged", "d6/d62/a10303.html#a599b35bb426d3c91c5457c838bfe910d", null ],
+    [ "OnGameObjectModifyHealth", "d6/d62/a10303.html#a4d5607d755f044fed3a23c122bceddff", null ],
+    [ "OnGameObjectRemoveWorld", "d6/d62/a10303.html#aca2171a8521195f06ea00c21f219d8f5", null ],
+    [ "OnGameObjectSaveToDB", "d6/d62/a10303.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
+    [ "OnGameObjectStateChanged", "d6/d62/a10303.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
+    [ "OnGameObjectUpdate", "d6/d62/a10303.html#ada8cc5373b75025199ca62856242d0ab", null ]
 ];

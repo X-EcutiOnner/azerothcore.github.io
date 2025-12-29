@@ -1,7 +1,9 @@
 var a14895 =
 [
-    [ "hyjalThrallAI", "d5/da9/a14899.html", "d5/da9/a14899" ],
-    [ "npc_hyjal_thrall", "d0/d32/a14895.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d0/d32/a14895.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d0/d32/a14895.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "boss_azgalor", "d0/d32/a14895.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d0/d32/a14895.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d0/d32/a14895.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d0/d32/a14895.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d0/d32/a14895.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "d0/d32/a14895.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

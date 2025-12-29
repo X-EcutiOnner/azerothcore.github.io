@@ -1,6 +1,6 @@
 var a24731 =
 [
-    [ "HandleEffectApply", "de/db1/a24731.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "de/db1/a24731.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "de/db1/a24731.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "CheckProc", "de/db1/a24731.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "de/db1/a24731.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "de/db1/a24731.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

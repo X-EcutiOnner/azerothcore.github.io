@@ -1,5 +1,6 @@
 var a19051 =
 [
-    [ "npc_icc_buff_switcher", "d5/d04/a19051.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d5/d04/a19051.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d6/d51/a19055.html", "d6/d51/a19055" ],
+    [ "npc_icc_skybreaker_luminary", "d5/d04/a19051.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d5/d04/a19051.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

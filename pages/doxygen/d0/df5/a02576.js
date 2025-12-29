@@ -1,6 +1,6 @@
 var a02576 =
 [
-    [ "fireworkShowGameobjectShattrath", "d0/df5/a02576.html#a2a4be2c9e5e5d0d215bc1bf7e3ea592c", null ],
-    [ "fireworkShowScheduleShattrath", "d0/df5/a02576.html#ad36558abe06e5db19b60204279c4606e", null ],
-    [ "fireworkShowShattrath", "d0/df5/a02576.html#a5fcd036e2fe28c58f38d59d0ade0e4ed", null ]
+    [ "fireworkShowGameobjectIronforge", "d0/df5/a02576.html#a1c510ef56353251fbd84e641155e90f8", null ],
+    [ "fireworkShowIronforge", "d0/df5/a02576.html#aac2063b01976ab49960c5cde832a70dc", null ],
+    [ "fireworkShowScheduleIronforge", "d0/df5/a02576.html#ac473aa81696d6b6374a3062efff6b146", null ]
 ];

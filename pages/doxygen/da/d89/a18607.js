@@ -1,7 +1,8 @@
 var a18607 =
 [
-    [ "OnPeriodic", "da/d89/a18607.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "da/d89/a18607.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "da/d89/a18607.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "da/d89/a18607.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "Load", "da/d89/a18607.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "da/d89/a18607.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "da/d89/a18607.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "da/d89/a18607.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "da/d89/a18607.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

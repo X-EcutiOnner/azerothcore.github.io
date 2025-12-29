@@ -1,11 +1,17 @@
 var a04655 =
 [
-    [ "FormatString", "d0/d5e/a04655.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "AddSuffixIfNotExists", "d0/d5e/a04655.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "d0/d5e/a04655.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "d0/d5e/a04655.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "d0/d5e/a04655.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "StringFormat", "d0/d5e/a04655.html#a868406b9609960d4ae0189588c8cbbf4", null ],
-    [ "Trim", "d0/d5e/a04655.html#a3213c569cd380bda3b76fe3f730899ff", null ],
-    [ "TrimRightInPlace", "d0/d5e/a04655.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "Log", "df/d5a/a05423.html", "df/d5a/a05423" ],
+    [ "LOG_DEBUG", "d0/d5e/a04655.html#a47ac782b14a7531c6232777165a1a161", null ],
+    [ "LOG_ERROR", "d0/d5e/a04655.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
+    [ "LOG_EXCEPTION_FREE", "d0/d5e/a04655.html#aa30f9aa89655372730e1d6fec2e40c5e", null ],
+    [ "LOG_FATAL", "d0/d5e/a04655.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
+    [ "LOG_GM", "d0/d5e/a04655.html#aeeb132f13796dfa459eb05386acff8fe", null ],
+    [ "LOG_INFO", "d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
+    [ "LOG_MESSAGE_BODY", "d0/d5e/a04655.html#a1ce833e7403b29687774e0539da6f4b9", null ],
+    [ "LOG_TRACE", "d0/d5e/a04655.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
+    [ "LOG_WARN", "d0/d5e/a04655.html#adf09840a666e1d86bcd3439105db6edc", null ],
+    [ "LOGGER_ROOT", "d0/d5e/a04655.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
+    [ "sLog", "d0/d5e/a04655.html#ab5487500f5b4b12072043104b916d582", null ],
+    [ "AppenderCreatorFn", "d0/d5e/a04655.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
+    [ "CreateAppender", "d0/d5e/a04655.html#ae5d709e10423806fa5331696a9bbd657", null ]
 ];

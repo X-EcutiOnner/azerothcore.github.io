@@ -1,6 +1,10 @@
 var a15759 =
 [
-    [ "SpellId", "dc/dab/a15759.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "dc/dab/a15759.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "dc/dab/a15759.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_omenAI", "dc/dab/a15759.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "dc/dab/a15759.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "dc/dab/a15759.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "dc/dab/a15759.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "dc/dab/a15759.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "dc/dab/a15759.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "dc/dab/a15759.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

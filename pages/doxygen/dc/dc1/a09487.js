@@ -1,8 +1,10 @@
 var a09487 =
 [
-    [ "AllCreaturesOfEntryInRange", "dc/dc1/a09487.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "dc/dc1/a09487.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "dc/dc1/a09487.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "dc/dc1/a09487.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "dc/dc1/a09487.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "AnyPlayerInObjectRangeCheck", "dc/dc1/a09487.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "dc/dc1/a09487.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "dc/dc1/a09487.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "dc/dc1/a09487.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "dc/dc1/a09487.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "dc/dc1/a09487.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "dc/dc1/a09487.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

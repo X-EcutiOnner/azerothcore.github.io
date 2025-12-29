@@ -1,7 +1,6 @@
 var a17919 =
 [
-    [ "HandleScript", "db/dcf/a17919.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "db/dcf/a17919.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "db/dcf/a17919.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "db/dcf/a17919.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "IgbTeleportOnVictoryCheck", "db/dcf/a17919.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "db/dcf/a17919.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "db/dcf/a17919.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

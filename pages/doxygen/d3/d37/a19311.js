@@ -1,6 +1,6 @@
 var a19311 =
 [
-    [ "WebTargetSelector", "d3/d37/a19311.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
-    [ "operator()", "d3/d37/a19311.html#a289821eaae114ba384a9ee9b8c19325f", null ],
-    [ "_maexxna", "d3/d37/a19311.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
+    [ "HandleHit", "d3/d37/a19311.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "d3/d37/a19311.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "d3/d37/a19311.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

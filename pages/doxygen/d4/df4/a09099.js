@@ -1,5 +1,7 @@
 var a09099 =
 [
-    [ "MaxAllowedCount", "d4/df4/a09099.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
-    [ "Policy", "d4/df4/a09099.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
+    [ "QuestPOIPoint", "d4/df4/a09099.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "d4/df4/a09099.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "d4/df4/a09099.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "d4/df4/a09099.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

@@ -1,7 +1,6 @@
 var a17927 =
 [
-    [ "PrepareSpellScript", "d0/da6/a17927.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d0/da6/a17927.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d0/da6/a17927.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d0/da6/a17927.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "HandlePeriodicTick", "d0/da6/a17927.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d0/da6/a17927.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d0/da6/a17927.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

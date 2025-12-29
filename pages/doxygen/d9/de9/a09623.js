@@ -1,16 +1,16 @@
 var a09623 =
 [
-    [ "BankMoveItemData", "d9/de9/a09623.html#a9edb987f4866e8bc473fe853597bebae", null ],
-    [ "_ReserveSpace", "d9/de9/a09623.html#a109e8d55108b005426110626815ba866", null ],
-    [ "_StoreItem", "d9/de9/a09623.html#aa11267f5d6202753310da567c0be0e57", null ],
-    [ "CanStore", "d9/de9/a09623.html#ade47c73460329ca1af752921173ca75e", null ],
-    [ "CanStoreItemInTab", "d9/de9/a09623.html#a5ca7975887e5583466d066c86b3a205f", null ],
-    [ "HasStoreRights", "d9/de9/a09623.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
-    [ "HasWithdrawRights", "d9/de9/a09623.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
-    [ "InitItem", "d9/de9/a09623.html#a69d6b28ccdda7790f821f5181da0db96", null ],
-    [ "IsBank", "d9/de9/a09623.html#a6f1787e15918092ba000ee8bd0852b09", null ],
-    [ "LogAction", "d9/de9/a09623.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
-    [ "LogBankEvent", "d9/de9/a09623.html#a054ca0f7eecfd404651c11b886d106bf", null ],
-    [ "RemoveItem", "d9/de9/a09623.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
-    [ "StoreItem", "d9/de9/a09623.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
+    [ "BankEventLogEntry", "d9/de9/a09623.html#a31275c6a36f7b79d7532345d38a3739b", null ],
+    [ "BankEventLogEntry", "d9/de9/a09623.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
+    [ "~BankEventLogEntry", "d9/de9/a09623.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
+    [ "IsMoneyEvent", "d9/de9/a09623.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
+    [ "IsMoneyEvent", "d9/de9/a09623.html#a49c76ead144b21da7cb1059af54a2482", null ],
+    [ "SaveToDB", "d9/de9/a09623.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
+    [ "WritePacket", "d9/de9/a09623.html#a930223d8596264801d7b0cf04cea62f8", null ],
+    [ "m_bankTabId", "d9/de9/a09623.html#a836df4449b5190b4404482e46a5e5449", null ],
+    [ "m_destTabId", "d9/de9/a09623.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
+    [ "m_eventType", "d9/de9/a09623.html#a180246a8eaca99431383916776a4f7ad", null ],
+    [ "m_itemOrMoney", "d9/de9/a09623.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
+    [ "m_itemStackCount", "d9/de9/a09623.html#ad4ed0df79ff061a4735538067fa4a372", null ],
+    [ "m_playerGuid", "d9/de9/a09623.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
 ];

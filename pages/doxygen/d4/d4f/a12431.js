@@ -1,7 +1,5 @@
 var a12431 =
 [
-    [ "HandleScript", "d4/d4f/a12431.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d4/d4f/a12431.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d4/d4f/a12431.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d4/d4f/a12431.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "go_father_flame", "d4/d4f/a12431.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "d4/d4f/a12431.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

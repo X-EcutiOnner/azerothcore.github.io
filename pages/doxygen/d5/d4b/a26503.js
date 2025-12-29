@@ -1,7 +1,9 @@
 var a26503 =
 [
-    [ "HandleProc", "d5/d4b/a26503.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
-    [ "PrepareAuraScript", "d5/d4b/a26503.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
-    [ "Register", "d5/d4b/a26503.html#a44a82b94d509eeb04f3520ded1d62891", null ],
-    [ "Validate", "d5/d4b/a26503.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
+    [ "CheckCast", "d5/d4b/a26503.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "d5/d4b/a26503.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "d5/d4b/a26503.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "d5/d4b/a26503.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "d5/d4b/a26503.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "d5/d4b/a26503.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

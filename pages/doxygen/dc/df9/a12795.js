@@ -1,7 +1,8 @@
 var a12795 =
 [
-    [ "boss_maiden_of_virtue", "dc/df9/a12795.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "dc/df9/a12795.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "dc/df9/a12795.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "dc/df9/a12795.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "npc_lava_spawn", "dc/df9/a12795.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "dc/df9/a12795.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "dc/df9/a12795.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "dc/df9/a12795.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "dc/df9/a12795.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

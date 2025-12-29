@@ -1,6 +1,7 @@
 var a16299 =
 [
-    [ "boss_twilight_halionAI", "da/d46/a16303.html", "da/d46/a16303" ],
-    [ "boss_twilight_halion", "d2/dcc/a16299.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d2/dcc/a16299.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "CheckDistance", "d2/dcc/a16299.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d2/dcc/a16299.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d2/dcc/a16299.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d2/dcc/a16299.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

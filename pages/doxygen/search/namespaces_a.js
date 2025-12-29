@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['playernamemapholder_0',['PlayerNameMapHolder',['../d6/d14/a04858.html',1,'']]],
-  ['playersettingsstore_1',['PlayerSettingsStore',['../db/dde/a04856.html',1,'']]]
+  ['playernamemapholder_0',['PlayerNameMapHolder',['../d5/d8e/a04874.html',1,'']]],
+  ['playersettingsstore_1',['PlayerSettingsStore',['../de/d6f/a04872.html',1,'']]]
 ];

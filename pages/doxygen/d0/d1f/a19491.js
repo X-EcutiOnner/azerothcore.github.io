@@ -1,8 +1,13 @@
 var a19491 =
 [
-    [ "npc_alexstraszaAI", "d0/d1f/a19491.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "d0/d1f/a19491.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "d0/d1f/a19491.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "d0/d1f/a19491.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "d0/d1f/a19491.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "npc_vortex_rideAI", "d0/d1f/a19491.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
+    [ "AttackStart", "d0/d1f/a19491.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
+    [ "DamageTaken", "d0/d1f/a19491.html#a39e33812041877296c11c9bace6a4667", null ],
+    [ "MoveInLineOfSight", "d0/d1f/a19491.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
+    [ "PassengerBoarded", "d0/d1f/a19491.html#a77234a8f4ec9c687b194a8c332820609", null ],
+    [ "UpdateAI", "d0/d1f/a19491.html#ad450120965f9e85bdb69ffc4c092c901", null ],
+    [ "bUpdatedFlying", "d0/d1f/a19491.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
+    [ "despawnTimer", "d0/d1f/a19491.html#acd7a8c972db52077f8b02317f5398ff0", null ],
+    [ "timer", "d0/d1f/a19491.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
+    [ "VORTEX_RADIUS", "d0/d1f/a19491.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
 ];

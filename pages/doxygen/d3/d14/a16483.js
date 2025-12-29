@@ -1,6 +1,6 @@
 var a16483 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dc/dfb/a16487.html", "dc/dfb/a16487" ],
-    [ "npc_black_knight_skeletal_gryphon", "d3/d14/a16483.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d3/d14/a16483.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "boss_paletressAI", "dc/dfb/a16487.html", "dc/dfb/a16487" ],
+    [ "boss_paletress", "d3/d14/a16483.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d3/d14/a16483.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

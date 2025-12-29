@@ -1,6 +1,6 @@
 var a02567 =
 [
-    [ "fireworkShowGameobjectStormwind", "db/dab/a02567.html#ae843a13f6116ce380e3890397d825ae6", null ],
-    [ "fireworkShowScheduleStormwind", "db/dab/a02567.html#af98c86c5b3725a8753fc620996c94b7f", null ],
-    [ "fireworkShowStormwind", "db/dab/a02567.html#a378278257abadcd4369abd66f412d8e6", null ]
+    [ "fireworkShowGameobjectSilvermoon", "db/dab/a02567.html#a6e36b6efb126a2fe4d53b641a9084409", null ],
+    [ "fireworkShowScheduleSilvermoon", "db/dab/a02567.html#af7d182f04e0fa03858c410b014e3f161", null ],
+    [ "fireworkShowSilvermoon", "db/dab/a02567.html#accc2d205eed4478e8e14ed4d88aeeb02", null ]
 ];

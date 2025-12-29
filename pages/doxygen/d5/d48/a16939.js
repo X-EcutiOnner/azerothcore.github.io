@@ -1,8 +1,7 @@
 var a16939 =
 [
-    [ "HandleRemove", "d5/d48/a16939.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "d5/d48/a16939.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "d5/d48/a16939.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "d5/d48/a16939.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "d5/d48/a16939.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "HandleScriptEffect", "d5/d48/a16939.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "d5/d48/a16939.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "d5/d48/a16939.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "d5/d48/a16939.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

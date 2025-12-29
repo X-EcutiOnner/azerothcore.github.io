@@ -1,11 +1,6 @@
 var a25035 =
 [
-    [ "spell_gen_relocaste_dest", "d1/dd9/a25035.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "d1/dd9/a25035.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "d1/dd9/a25035.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "d1/dd9/a25035.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "d1/dd9/a25035.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "d1/dd9/a25035.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "d1/dd9/a25035.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "d1/dd9/a25035.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "HandleScript", "d1/dd9/a25035.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d1/dd9/a25035.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d1/dd9/a25035.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

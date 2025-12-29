@@ -1,6 +1,10 @@
 var a21243 =
 [
-    [ "HandleEffectPeriodic", "dc/d0d/a21243.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "dc/d0d/a21243.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "dc/d0d/a21243.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "npc_ulduar_snow_mound", "dc/d0d/a21243.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "dc/d0d/a21243.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "dc/d0d/a21243.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "dc/d0d/a21243.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "dc/d0d/a21243.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "dc/d0d/a21243.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "dc/d0d/a21243.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

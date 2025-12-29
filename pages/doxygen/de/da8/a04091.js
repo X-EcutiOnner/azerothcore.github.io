@@ -1,4 +1,4 @@
 var a04091 =
 [
-    [ "UpdateFetcher::DirectoryEntry", "d9/dd6/a05962.html", "d9/dd6/a05962" ]
+    [ "QueryCallback", "da/d2e/a05907.html", "da/d2e/a05907" ]
 ];

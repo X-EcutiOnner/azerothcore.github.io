@@ -1,5 +1,6 @@
 var a25831 =
 [
-    [ "PrepareSpellScript", "db/d81/a25831.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "db/d81/a25831.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "HandleDummy", "db/d81/a25831.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "db/d81/a25831.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "db/d81/a25831.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

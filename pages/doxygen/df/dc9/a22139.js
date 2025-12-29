@@ -1,7 +1,7 @@
 var a22139 =
 [
-    [ "npc_tallhorn_stagAI", "df/dc9/a22139.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "df/dc9/a22139.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "df/dc9/a22139.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "df/dc9/a22139.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "HandleScriptEffect", "df/dc9/a22139.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "df/dc9/a22139.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "df/dc9/a22139.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "df/dc9/a22139.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

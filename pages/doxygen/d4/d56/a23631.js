@@ -1,7 +1,7 @@
 var a23631 =
 [
-    [ "HandleScript", "d4/d56/a23631.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d4/d56/a23631.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d4/d56/a23631.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d4/d56/a23631.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "npc_underbog_mushroom", "d4/d56/a23631.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d4/d56/a23631.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d4/d56/a23631.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d4/d56/a23631.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

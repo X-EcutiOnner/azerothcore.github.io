@@ -1,10 +1,14 @@
 var a11875 =
 [
-    [ "item_commandscript", "de/d41/a11875.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "de/d41/a11875.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "de/d41/a11875.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "de/d41/a11875.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "de/d41/a11875.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "de/d41/a11875.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "de/d41/a11875.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "deserter_commandscript", "de/d41/a11875.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "de/d41/a11875.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "de/d41/a11875.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "de/d41/a11875.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "de/d41/a11875.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "de/d41/a11875.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "de/d41/a11875.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "de/d41/a11875.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "de/d41/a11875.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "de/d41/a11875.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "de/d41/a11875.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

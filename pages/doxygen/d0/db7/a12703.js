@@ -1,9 +1,8 @@
 var a12703 =
 [
-    [ "npc_flamewaker_priestAI", "d0/db7/a12703.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d0/db7/a12703.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d0/db7/a12703.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d0/db7/a12703.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d0/db7/a12703.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d0/db7/a12703.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "MajordomoAddData", "d0/db7/a12703.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d0/db7/a12703.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d0/db7/a12703.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d0/db7/a12703.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d0/db7/a12703.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

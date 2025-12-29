@@ -1,7 +1,6 @@
 var a12159 =
 [
-    [ "boss_magmusAI", "d0/d4e/a12159.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d0/d4e/a12159.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d0/d4e/a12159.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d0/d4e/a12159.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_anubshiahAI", "d0/d4e/a12159.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
+    [ "JustEngagedWith", "d0/d4e/a12159.html#ae83c1def323828814b5db6b032002438", null ],
+    [ "UpdateAI", "d0/d4e/a12159.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
 ];

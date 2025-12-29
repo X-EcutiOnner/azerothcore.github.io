@@ -1,8 +1,7 @@
 var a18627 =
 [
-    [ "npc_lk_spirit_bombAI", "d7/d27/a18627.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d7/d27/a18627.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d7/d27/a18627.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d7/d27/a18627.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d7/d27/a18627.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "CalculateBonus", "d7/d27/a18627.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d7/d27/a18627.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d7/d27/a18627.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d7/d27/a18627.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

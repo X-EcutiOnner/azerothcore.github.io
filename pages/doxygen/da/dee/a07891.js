@@ -1,10 +1,7 @@
 var a07891 =
 [
-    [ "RedirectThreatInfo", "da/dee/a07891.html#a23b5adf3087ddba3b92133199aa42cf8", null ],
-    [ "GetTargetGUID", "da/dee/a07891.html#ae206110e4d7155bb87079ebd58800e3d", null ],
-    [ "GetThreatPct", "da/dee/a07891.html#a58bd2c745f92625ff7eac0ddca6a23a0", null ],
-    [ "ModifyThreatPct", "da/dee/a07891.html#ac7093218d9b8c6ea03683dd5624bde8f", null ],
-    [ "Set", "da/dee/a07891.html#a140b7a0adb6e6b71b21e8d6db7125ae2", null ],
-    [ "_targetGUID", "da/dee/a07891.html#a98f9efc5209ef7200e71ff39310520dd", null ],
-    [ "_threatPct", "da/dee/a07891.html#a95d6d366d664888f532d40afd1cc57d2", null ]
+    [ "HyperlinkDataTokenizer", "da/dee/a07891.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
+    [ "IsEmpty", "da/dee/a07891.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
+    [ "TryConsumeTo", "da/dee/a07891.html#a42e18263129c27149bf9a91b3dc42418", null ],
+    [ "_str", "da/dee/a07891.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
 ];

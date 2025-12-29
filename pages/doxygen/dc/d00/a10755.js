@@ -1,8 +1,6 @@
 var a10755 =
 [
-    [ "GuildBankQueryTab", "dc/d00/a10755.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "dc/d00/a10755.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "dc/d00/a10755.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "dc/d00/a10755.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "dc/d00/a10755.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "GuildOfficerRemoveMember", "dc/d00/a10755.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "dc/d00/a10755.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "dc/d00/a10755.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

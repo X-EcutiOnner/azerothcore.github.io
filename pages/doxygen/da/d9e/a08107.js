@@ -1,10 +1,5 @@
 var a08107 =
 [
-    [ "auras", "da/d9e/a08107.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "da/d9e/a08107.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "da/d9e/a08107.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "da/d9e/a08107.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "da/d9e/a08107.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "da/d9e/a08107.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "da/d9e/a08107.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "Name", "da/d9e/a08107.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "da/d9e/a08107.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

@@ -1,11 +1,8 @@
 var a24255 =
 [
-    [ "npc_magister_aledis", "d8/de9/a24255.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d8/de9/a24255.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d8/de9/a24255.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d8/de9/a24255.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d8/de9/a24255.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d8/de9/a24255.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d8/de9/a24255.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d8/de9/a24255.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_ancestral_wolfAI", "d8/de9/a24255.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d8/de9/a24255.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d8/de9/a24255.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d8/de9/a24255.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d8/de9/a24255.html#ac238214604720e298124b58c35d58e05", null ]
 ];

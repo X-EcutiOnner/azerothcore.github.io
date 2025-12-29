@@ -1,6 +1,7 @@
 var a26283 =
 [
-    [ "CalculateAmount", "da/ddb/a26283.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "da/ddb/a26283.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "da/ddb/a26283.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "HandleKnockBack", "da/ddb/a26283.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "da/ddb/a26283.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "da/ddb/a26283.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "da/ddb/a26283.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

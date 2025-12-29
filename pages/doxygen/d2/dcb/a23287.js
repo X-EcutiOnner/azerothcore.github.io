@@ -1,6 +1,6 @@
 var a23287 =
 [
-    [ "OnPeriodic", "d2/dcb/a23287.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "d2/dcb/a23287.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "d2/dcb/a23287.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "PrepareAuraScript", "d2/dcb/a23287.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d2/dcb/a23287.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d2/dcb/a23287.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

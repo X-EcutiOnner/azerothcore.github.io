@@ -1,6 +1,9 @@
 var a28707 =
 [
-    [ "categoryMask", "da/d68/a28707.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "da/d68/a28707.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "da/d68/a28707.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "Category", "da/d68/a28707.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "da/d68/a28707.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "da/d68/a28707.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "da/d68/a28707.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "da/d68/a28707.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "da/d68/a28707.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

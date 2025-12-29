@@ -1,7 +1,6 @@
 var a12163 =
 [
-    [ "boss_moira_bronzebeardAI", "d0/d9c/a12163.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "d0/d9c/a12163.html#a0df43e5c605783312291bd4ba1921f8c", null ],
-    [ "JustEngagedWith", "d0/d9c/a12163.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "d0/d9c/a12163.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "boss_draganthaurissanAI", "d7/d6d/a12167.html", "d7/d6d/a12167" ],
+    [ "boss_emperor_dagran_thaurissan", "d0/d9c/a12163.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "d0/d9c/a12163.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

@@ -1,8 +1,6 @@
 var a30017 =
 [
-    [ "canLink", "d7/d38/a30017.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d7/d38/a30017.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d7/d38/a30017.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d7/d38/a30017.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d7/d38/a30017.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "ComputeBaseUnitDim", "d7/d38/a30017.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "isCurrentDirectory", "d7/d38/a30017.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "d7/d38/a30017.html#a45540263b1795bfc48c91a117c239a6c", null ]
 ];

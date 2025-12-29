@@ -1,7 +1,7 @@
 var a27419 =
 [
-    [ "HandlePeriodic", "d9/d33/a27419.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d9/d33/a27419.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d9/d33/a27419.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d9/d33/a27419.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "npc_spirit_shadeAI", "d9/d33/a27419.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d9/d33/a27419.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d9/d33/a27419.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d9/d33/a27419.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

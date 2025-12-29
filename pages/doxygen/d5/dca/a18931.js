@@ -1,7 +1,7 @@
 var a18931 =
 [
-    [ "Land", "d5/dca/a18931.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d5/dca/a18931.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d5/dca/a18931.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d5/dca/a18931.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_impaling_spearAI", "d5/dca/a18931.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d5/dca/a18931.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d5/dca/a18931.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d5/dca/a18931.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

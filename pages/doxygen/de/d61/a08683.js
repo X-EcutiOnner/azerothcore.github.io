@@ -1,26 +1,9 @@
 var a08683 =
 [
-    [ "PlayerTaxi", "de/d61/a08683.html#a33cfc1b5bf7cc5eb253855967a532d8b", null ],
-    [ "~PlayerTaxi", "de/d61/a08683.html#ab8ba2e4cebd37f540e45d1f41cf46fb4", null ],
-    [ "AddTaxiDestination", "de/d61/a08683.html#a1ecef7f42bb7197ce7c6ca35c7010ec3", null ],
-    [ "AppendTaximaskTo", "de/d61/a08683.html#ab18bdbd8b7e04949d6d4b9adfabf8451", null ],
-    [ "ClearTaxiDestinations", "de/d61/a08683.html#ab4422be16e69b1f32bce002ab71ab5a5", null ],
-    [ "empty", "de/d61/a08683.html#a76919e4ba603f6a1b88a3c213767e09d", null ],
-    [ "GetCurrentTaxiPath", "de/d61/a08683.html#ae4a6a1a97932c90ca79a282f131711e7", null ],
-    [ "GetFlightMasterFactionTemplate", "de/d61/a08683.html#a487e2760da8446a3c34dddc2d4c5c0f5", null ],
-    [ "GetPath", "de/d61/a08683.html#a031051c85f1ce8fb8ab172c86bb4382b", null ],
-    [ "GetTaxiDestination", "de/d61/a08683.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0", null ],
-    [ "GetTaxiSource", "de/d61/a08683.html#a4313e575d9bd2a60852f5e944f79ac71", null ],
-    [ "InitTaxiNodesForLevel", "de/d61/a08683.html#ae63c6941e0e8b7c0920cc1f255641e4d", null ],
-    [ "IsTaximaskNodeKnown", "de/d61/a08683.html#a76220474a42fc4207bb6f40b589a6511", null ],
-    [ "LoadTaxiDestinationsFromString", "de/d61/a08683.html#a6261b2b052d1a8385a480372450c7191", null ],
-    [ "LoadTaxiMask", "de/d61/a08683.html#a010941cce9bf3b9c37d951c2ece4b3d4", null ],
-    [ "NextTaxiDestination", "de/d61/a08683.html#aa417f33d57d94db8c8aa9df56e329835", null ],
-    [ "SaveTaxiDestinationsToString", "de/d61/a08683.html#a0cffd730b09becde5f65882bc5c0832c", null ],
-    [ "SetFlightMasterFactionTemplateId", "de/d61/a08683.html#a2be37f977bdf5dc787e1923b4d1ed12e", null ],
-    [ "SetTaximaskNode", "de/d61/a08683.html#a34a9653fbdc2b4a7c86a990fcc080e64", null ],
-    [ "operator<<", "de/d61/a08683.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
-    [ "m_flightMasterFactionId", "de/d61/a08683.html#a52ed114d167bcc8079fe37c410b25b31", null ],
-    [ "m_TaxiDestinations", "de/d61/a08683.html#a3aff323ba6dfee2f8776efb49e3ebfbf", null ],
-    [ "m_taximask", "de/d61/a08683.html#abf0d776badac2d25cf823609d5fec799", null ]
+    [ "EntryPointData", "de/d61/a08683.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "de/d61/a08683.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "de/d61/a08683.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "de/d61/a08683.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "de/d61/a08683.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "de/d61/a08683.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

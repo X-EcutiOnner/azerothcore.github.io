@@ -1,6 +1,7 @@
 var a03047 =
 [
-    [ "instance_pit_of_saron", "d3/dd5/a17222.html", "d3/dd5/a17222" ],
-    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d0/d9d/a17226.html", "d0/d9d/a17226" ],
-    [ "AddSC_instance_pit_of_saron", "d2/de4/a03047.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
+    [ "UtherBatteredHiltEvent", "d9/d76/a17235.html", "d9/d76/a17235" ],
+    [ "instance_halls_of_reflection", "d1/dfb/a17239.html", "d1/dfb/a17239" ],
+    [ "instance_halls_of_reflection::instance_halls_of_reflection_InstanceMapScript", "dc/d36/a17243.html", "dc/d36/a17243" ],
+    [ "AddSC_instance_halls_of_reflection", "d2/de4/a03047.html#a0f581d4a1a046db6b8b7729c87457646", null ]
 ];

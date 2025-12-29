@@ -1,10 +1,8 @@
 var a09039 =
 [
-    [ "PetLevelInfo", "df/ddb/a09039.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "df/ddb/a09039.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "df/ddb/a09039.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "df/ddb/a09039.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "df/ddb/a09039.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "df/ddb/a09039.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "df/ddb/a09039.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "target_mapId", "df/ddb/a09039.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "df/ddb/a09039.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "df/ddb/a09039.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "df/ddb/a09039.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "df/ddb/a09039.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

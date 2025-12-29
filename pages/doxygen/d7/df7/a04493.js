@@ -1,8 +1,6 @@
 var a04493 =
 [
-    [ "ModelIgnoreFlags", "d7/df7/a04493.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "d7/df7/a04493.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "d7/df7/a04493.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "d7/df7/a04493.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "VMAP::IntersectionCallBack< TValue >", "dc/d07/a05175.html", "dc/d07/a05175" ],
+    [ "VMAP::MyCollisionDetection", "dc/daa/a05179.html", "dc/daa/a05179" ],
+    [ "IR", "d7/df7/a04493.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
 ];

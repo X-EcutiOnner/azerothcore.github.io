@@ -1,9 +1,7 @@
 var a24131 =
 [
-    [ "boss_nethermancer_sepethrea", "d0/de2/a24131.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d0/de2/a24131.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d0/de2/a24131.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d0/de2/a24131.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d0/de2/a24131.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d0/de2/a24131.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_gatewatcher_iron_hand", "d0/de2/a24131.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d0/de2/a24131.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d0/de2/a24131.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d0/de2/a24131.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

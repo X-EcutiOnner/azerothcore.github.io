@@ -1,7 +1,7 @@
 var a07991 =
 [
-    [ "LfgReward", "dc/d3a/a07991.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
-    [ "firstQuest", "dc/d3a/a07991.html#a28162b1e43a5309ab01ca99b45d29799", null ],
-    [ "maxLevel", "dc/d3a/a07991.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
-    [ "otherQuest", "dc/d3a/a07991.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
+    [ "RBEntryInfo", "dc/d3a/a07991.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "dc/d3a/a07991.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "dc/d3a/a07991.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "dc/d3a/a07991.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

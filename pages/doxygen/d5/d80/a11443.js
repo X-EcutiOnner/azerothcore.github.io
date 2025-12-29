@@ -1,7 +1,6 @@
 var a11443 =
 [
-    [ "EffectAuraNameCheck", "d5/d80/a11443.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d5/d80/a11443.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d5/d80/a11443.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d5/d80/a11443.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "apPctMod", "d5/d80/a11443.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "d5/d80/a11443.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "d5/d80/a11443.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

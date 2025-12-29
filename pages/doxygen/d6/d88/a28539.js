@@ -1,7 +1,6 @@
 var a28539 =
 [
-    [ "ID", "d6/d88/a28539.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d6/d88/a28539.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d6/d88/a28539.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d6/d88/a28539.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "ID", "d6/d88/a28539.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d6/d88/a28539.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d6/d88/a28539.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

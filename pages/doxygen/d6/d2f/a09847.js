@@ -1,7 +1,8 @@
 var a09847 =
 [
-    [ "resetNotify", "d6/d2f/a09847.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d6/d2f/a09847.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d6/d2f/a09847.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d6/d2f/a09847.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "EllipseBoundary", "d6/d2f/a09847.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d6/d2f/a09847.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d6/d2f/a09847.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d6/d2f/a09847.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d6/d2f/a09847.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

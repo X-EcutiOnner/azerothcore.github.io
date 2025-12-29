@@ -1,9 +1,6 @@
 var a13739 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d6/d7b/a13739.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d6/d7b/a13739.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d6/d7b/a13739.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d6/d7b/a13739.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d6/d7b/a13739.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d6/d7b/a13739.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "OnApply", "d6/d7b/a13739.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "d6/d7b/a13739.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "d6/d7b/a13739.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

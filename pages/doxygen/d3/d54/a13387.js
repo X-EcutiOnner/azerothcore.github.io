@@ -1,6 +1,7 @@
 var a13387 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d7/d83/a13391.html", "d7/d83/a13391" ],
-    [ "instance_shadowfang_keep", "d3/d54/a13387.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d3/d54/a13387.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "npc_apothecary_genericAI", "d3/d54/a13387.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d3/d54/a13387.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d3/d54/a13387.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d3/d54/a13387.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

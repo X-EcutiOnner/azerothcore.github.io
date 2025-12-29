@@ -1,7 +1,6 @@
 var a26623 =
 [
-    [ "HandleEffectApply", "df/d17/a26623.html#a475d0bab96e226853368be3b68c5a2d3", null ],
-    [ "HandleEffectRemove", "df/d17/a26623.html#aa22a095e40789ac562a64c20d7eadb28", null ],
-    [ "PrepareAuraScript", "df/d17/a26623.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
-    [ "Register", "df/d17/a26623.html#a91e75a059828a30d509fd22be19048f8", null ]
+    [ "CheckProc", "df/d17/a26623.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "df/d17/a26623.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "df/d17/a26623.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

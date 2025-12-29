@@ -1,7 +1,7 @@
 var a16635 =
 [
-    [ "npc_toc_shadow_priestAI", "dc/dd7/a16635.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "dc/dd7/a16635.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "dc/dd7/a16635.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "dc/dd7/a16635.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "HandleEffectPeriodic", "dc/dd7/a16635.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "dc/dd7/a16635.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "dc/dd7/a16635.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "dc/dd7/a16635.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

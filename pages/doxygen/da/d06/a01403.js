@@ -1,10 +1,8 @@
 var a01403 =
 [
-    [ "GameEventScript", "d8/d78/a10362.html", "d8/d78/a10362" ],
-    [ "GameEventHook", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "GameObjectScript", "dc/ded/a10383.html", "dc/ded/a10383" ],
+    [ "GenericGameObjectScript< AI >", "d1/d72/a10387.html", "d1/d72/a10387" ],
+    [ "FactoryGameObjectScript< AI, AIFactory >", "d4/d2b/a10391.html", "d4/d2b/a10391" ],
+    [ "RegisterGameObjectAI", "da/d06/a01403.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
+    [ "RegisterGameObjectAIWithFactory", "da/d06/a01403.html#a1614f98721d8a94351c4be15a72e499f", null ]
 ];

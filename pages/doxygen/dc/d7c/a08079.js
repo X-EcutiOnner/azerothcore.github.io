@@ -1,14 +1,10 @@
 var a08079 =
 [
-    [ "GenerateArmor", "dc/d7c/a08079.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
-    [ "GenerateBaseDamage", "dc/d7c/a08079.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
-    [ "GenerateHealth", "dc/d7c/a08079.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
-    [ "GenerateMana", "dc/d7c/a08079.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
-    [ "GetBaseStats", "dc/d7c/a08079.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
-    [ "AttackPower", "dc/d7c/a08079.html#a8108d924e4de3ba741749e9386085e4f", null ],
-    [ "BaseArmor", "dc/d7c/a08079.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
-    [ "BaseDamage", "dc/d7c/a08079.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
-    [ "BaseHealth", "dc/d7c/a08079.html#a83cee007ec623b19bb2b002d16180d2d", null ],
-    [ "BaseMana", "dc/d7c/a08079.html#a204af635372cb4a2c6ede1f79579385c", null ],
-    [ "RangedAttackPower", "dc/d7c/a08079.html#a684901a59108e94987c23ad5085e306a", null ]
+    [ "AssistDelayEvent", "dc/d7c/a08079.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "dc/d7c/a08079.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "dc/d7c/a08079.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "dc/d7c/a08079.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "dc/d7c/a08079.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "dc/d7c/a08079.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "dc/d7c/a08079.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

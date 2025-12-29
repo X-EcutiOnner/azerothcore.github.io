@@ -1,9 +1,7 @@
 var a13643 =
 [
-    [ "boss_entropius", "d5/dc6/a13643.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d5/dc6/a13643.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d5/dc6/a13643.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d5/dc6/a13643.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d5/dc6/a13643.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d5/dc6/a13643.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "HandleSchoolDamage", "d5/dc6/a13643.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d5/dc6/a13643.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d5/dc6/a13643.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d5/dc6/a13643.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

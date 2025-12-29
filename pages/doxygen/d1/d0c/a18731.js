@@ -1,8 +1,12 @@
 var a18731 =
 [
-    [ "npc_suppresserAI", "d1/d0c/a18731.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d1/d0c/a18731.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d1/d0c/a18731.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d1/d0c/a18731.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d1/d0c/a18731.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "npc_the_lich_king_controllerAI", "d1/d0c/a18731.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d1/d0c/a18731.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d1/d0c/a18731.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d1/d0c/a18731.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d1/d0c/a18731.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d1/d0c/a18731.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d1/d0c/a18731.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d1/d0c/a18731.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d1/d0c/a18731.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

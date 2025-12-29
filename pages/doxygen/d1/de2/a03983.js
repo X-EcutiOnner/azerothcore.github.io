@@ -1,4 +1,6 @@
 var a03983 =
 [
-    [ "DatabaseLoader", "d0/df9/a05758.html", "d0/df9/a05758" ]
+    [ "CharacterDatabase", "d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "d1/de2/a03983.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "d1/de2/a03983.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

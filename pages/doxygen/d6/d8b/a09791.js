@@ -1,8 +1,7 @@
 var a09791 =
 [
-    [ "ServerMailCondition", "d6/d8b/a09791.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "d6/d8b/a09791.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "d6/d8b/a09791.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "d6/d8b/a09791.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "d6/d8b/a09791.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "LootView", "d6/d8b/a09791.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "d6/d8b/a09791.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "d6/d8b/a09791.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "d6/d8b/a09791.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

@@ -1,7 +1,8 @@
 var a26571 =
 [
-    [ "CheckTarget", "dc/df2/a26571.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "dc/df2/a26571.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "dc/df2/a26571.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "dc/df2/a26571.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleDummy", "dc/df2/a26571.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "dc/df2/a26571.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "dc/df2/a26571.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "dc/df2/a26571.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "dc/df2/a26571.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

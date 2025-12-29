@@ -1,12 +1,11 @@
 var a24379 =
 [
-    [ "npc_enslaved_netherwing_drake", "df/dc7/a24379.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "df/dc7/a24379.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "df/dc7/a24379.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "df/dc7/a24379.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "df/dc7/a24379.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "df/dc7/a24379.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "df/dc7/a24379.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "df/dc7/a24379.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "df/dc7/a24379.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "npc_invis_infernal_casterAI", "df/dc7/a24379.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "df/dc7/a24379.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "df/dc7/a24379.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "df/dc7/a24379.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "df/dc7/a24379.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "df/dc7/a24379.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "df/dc7/a24379.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "df/dc7/a24379.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

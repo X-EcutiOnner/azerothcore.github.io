@@ -1,10 +1,7 @@
 var a21291 =
 [
-    [ "npc_dragonflayer_forge_master", "da/dfa/a21291.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "da/dfa/a21291.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "da/dfa/a21291.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "da/dfa/a21291.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "da/dfa/a21291.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "da/dfa/a21291.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "da/dfa/a21291.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "HandleEffectPeriodic", "da/dfa/a21291.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "da/dfa/a21291.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "da/dfa/a21291.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "da/dfa/a21291.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

@@ -1,9 +1,7 @@
 var a09927 =
 [
-    [ "TransportAnimation", "d7/d40/a09927.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "d7/d40/a09927.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "d7/d40/a09927.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "d7/d40/a09927.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "d7/d40/a09927.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "d7/d40/a09927.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "MapPreloadRequest", "d7/d40/a09927.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d7/d40/a09927.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d7/d40/a09927.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d7/d40/a09927.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

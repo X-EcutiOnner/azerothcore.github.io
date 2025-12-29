@@ -1,6 +1,6 @@
 var a25827 =
 [
-    [ "PrepareSpellScript", "dd/dcd/a25827.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "dd/dcd/a25827.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "dd/dcd/a25827.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "HandleDummy", "dd/dcd/a25827.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "dd/dcd/a25827.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "dd/dcd/a25827.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

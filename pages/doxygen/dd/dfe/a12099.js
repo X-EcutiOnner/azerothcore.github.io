@@ -1,6 +1,8 @@
 var a12099 =
 [
-    [ "boss_draganthaurissanAI", "d6/dfd/a12103.html", "d6/dfd/a12103" ],
-    [ "boss_emperor_dagran_thaurissan", "dd/dfe/a12099.html#a8332d74b5aa1528d5687084932419ad1", null ],
-    [ "GetAI", "dd/dfe/a12099.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
+    [ "ironhand_guardianAI", "dd/dfe/a12099.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "dd/dfe/a12099.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "dd/dfe/a12099.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "dd/dfe/a12099.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "dd/dfe/a12099.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

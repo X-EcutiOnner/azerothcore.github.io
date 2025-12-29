@@ -1,7 +1,6 @@
 var a25631 =
 [
-    [ "HandleScriptEffect", "d4/d26/a25631.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "d4/d26/a25631.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "d4/d26/a25631.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "d4/d26/a25631.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "CheckCast", "d4/d26/a25631.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "d4/d26/a25631.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "d4/d26/a25631.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

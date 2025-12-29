@@ -1,6 +1,7 @@
 var a19859 =
 [
-    [ "CosmicSmashDamageEvent", "dc/d31/a19859.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "dc/d31/a19859.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "dc/d31/a19859.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "HandleEffectRemove", "dc/d31/a19859.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "dc/d31/a19859.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "dc/d31/a19859.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "dc/d31/a19859.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

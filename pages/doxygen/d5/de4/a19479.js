@@ -1,6 +1,6 @@
 var a19479 =
 [
-    [ "npc_hover_diskAI", "da/ddf/a19483.html", "da/ddf/a19483" ],
-    [ "npc_hover_disk", "d5/de4/a19479.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d5/de4/a19479.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "boss_malygosAI", "da/ddf/a19483.html", "da/ddf/a19483" ],
+    [ "boss_malygos", "d5/de4/a19479.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
+    [ "GetAI", "d5/de4/a19479.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
 ];

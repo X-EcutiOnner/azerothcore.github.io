@@ -1,5 +1,6 @@
 var a10571 =
 [
-    [ "LogoutCancelAck", "dd/d9e/a10571.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
-    [ "Write", "dd/d9e/a10571.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
+    [ "ShowingCloak", "dd/d9e/a10571.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "dd/d9e/a10571.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "dd/d9e/a10571.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

@@ -1,7 +1,8 @@
 var a16251 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "df/dfd/a16251.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "df/dfd/a16251.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "df/dfd/a16251.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "df/dfd/a16251.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "npc_twilight_summonAI", "df/dfd/a16251.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
+    [ "DoAction", "df/dfd/a16251.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
+    [ "Reset", "df/dfd/a16251.html#a1174c827aef1b05603214e4717c78f8a", null ],
+    [ "UpdateAI", "df/dfd/a16251.html#addb312c34c668b8189087de6cf89543b", null ],
+    [ "fadeArmorTimer", "df/dfd/a16251.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
 ];

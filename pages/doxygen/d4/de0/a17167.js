@@ -1,9 +1,11 @@
 var a17167 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d4/de0/a17167.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d4/de0/a17167.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d4/de0/a17167.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d4/de0/a17167.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d4/de0/a17167.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d4/de0/a17167.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "boss_frostsworn_generalAI", "d4/de0/a17167.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
+    [ "EnterEvadeMode", "d4/de0/a17167.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
+    [ "JustDied", "d4/de0/a17167.html#ac2653a5664c87045df16f2fdcf850edf", null ],
+    [ "JustEngagedWith", "d4/de0/a17167.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
+    [ "Reset", "d4/de0/a17167.html#a8333b3f2637f029de4182ca16e2fb634", null ],
+    [ "UpdateAI", "d4/de0/a17167.html#aea65a8fab859db4396690d846d10f5a1", null ],
+    [ "events", "d4/de0/a17167.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
+    [ "pInstance", "d4/de0/a17167.html#a01cc3db24e03600501b9980aa966ad7d", null ]
 ];

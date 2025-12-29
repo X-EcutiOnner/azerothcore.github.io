@@ -1,8 +1,11 @@
 var a08811 =
 [
-    [ "RedirectSpellEvent", "d3/d1a/a08811.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "d3/d1a/a08811.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "d3/d1a/a08811.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "d3/d1a/a08811.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "d3/d1a/a08811.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "SpellPeriodicAuraLogInfo", "d3/d1a/a08811.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d3/d1a/a08811.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d3/d1a/a08811.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d3/d1a/a08811.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d3/d1a/a08811.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d3/d1a/a08811.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d3/d1a/a08811.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d3/d1a/a08811.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

@@ -1,9 +1,22 @@
 var a14135 =
 [
-    [ "npc_amanishi_scout", "d2/d07/a14135.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d2/d07/a14135.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d2/d07/a14135.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d2/d07/a14135.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d2/d07/a14135.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d2/d07/a14135.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "instance_zulaman_InstanceMapScript", "d2/d07/a14135.html#a55a0c486845dc63865cf557271304c20", null ],
+    [ "CheckInstanceStatus", "d2/d07/a14135.html#a195e4175f943bfaf42ded378cde928e4", null ],
+    [ "DoAction", "d2/d07/a14135.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
+    [ "GetData", "d2/d07/a14135.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
+    [ "Initialize", "d2/d07/a14135.html#a070925eb76b8af866819844411da1beb", null ],
+    [ "OnCreatureCreate", "d2/d07/a14135.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
+    [ "OnCreatureEvade", "d2/d07/a14135.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
+    [ "OnGameObjectCreate", "d2/d07/a14135.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
+    [ "OnPlayerEnter", "d2/d07/a14135.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
+    [ "OnUnitDeath", "d2/d07/a14135.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
+    [ "ResetAkilzonGauntlet", "d2/d07/a14135.html#a1623080f2466aeca03f048decc34bdb5", null ],
+    [ "SetBossState", "d2/d07/a14135.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
+    [ "SetData", "d2/d07/a14135.html#a7381d84943028f66b339168724b467b8", null ],
+    [ "StartAkilzonGauntlet", "d2/d07/a14135.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
+    [ "SummonHostage", "d2/d07/a14135.html#a907b3f4a59cbd366f702daeffe05d607", null ],
+    [ "Update", "d2/d07/a14135.html#a826800c63083d2af31847118c8b05e57", null ],
+    [ "_akilzonGauntlet", "d2/d07/a14135.html#a57cf874e315f0f9686b684151c37e740", null ],
+    [ "AkilzonTrash", "d2/d07/a14135.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
+    [ "RandVendor", "d2/d07/a14135.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

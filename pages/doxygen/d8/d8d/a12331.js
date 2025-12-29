@@ -1,5 +1,6 @@
 var a12331 =
 [
-    [ "at_the_beast_room", "d8/d8d/a12331.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d8/d8d/a12331.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_pyroguard_emberseerAI", "d0/d34/a12335.html", "d0/d34/a12335" ],
+    [ "boss_pyroguard_emberseer", "d8/d8d/a12331.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d8/d8d/a12331.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

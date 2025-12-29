@@ -1,6 +1,6 @@
 var a11551 =
 [
-    [ "EffectProcHandler", "d4/dc2/a11551.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d4/dc2/a11551.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d4/dc2/a11551.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "EffectPeriodicHandler", "d4/dc2/a11551.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "d4/dc2/a11551.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "d4/dc2/a11551.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

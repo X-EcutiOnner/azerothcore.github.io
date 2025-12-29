@@ -1,16 +1,17 @@
 var a09599 =
 [
-    [ "BankEventLogEntry", "d4/d5d/a09599.html#a31275c6a36f7b79d7532345d38a3739b", null ],
-    [ "BankEventLogEntry", "d4/d5d/a09599.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
-    [ "~BankEventLogEntry", "d4/d5d/a09599.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
-    [ "IsMoneyEvent", "d4/d5d/a09599.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
-    [ "IsMoneyEvent", "d4/d5d/a09599.html#a49c76ead144b21da7cb1059af54a2482", null ],
-    [ "SaveToDB", "d4/d5d/a09599.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
-    [ "WritePacket", "d4/d5d/a09599.html#a930223d8596264801d7b0cf04cea62f8", null ],
-    [ "m_bankTabId", "d4/d5d/a09599.html#a836df4449b5190b4404482e46a5e5449", null ],
-    [ "m_destTabId", "d4/d5d/a09599.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
-    [ "m_eventType", "d4/d5d/a09599.html#a180246a8eaca99431383916776a4f7ad", null ],
-    [ "m_itemOrMoney", "d4/d5d/a09599.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
-    [ "m_itemStackCount", "d4/d5d/a09599.html#ad4ed0df79ff061a4735538067fa4a372", null ],
-    [ "m_playerGuid", "d4/d5d/a09599.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
+    [ "EmblemInfo", "d4/d5d/a09599.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
+    [ "GetBackgroundColor", "d4/d5d/a09599.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
+    [ "GetBorderColor", "d4/d5d/a09599.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
+    [ "GetBorderStyle", "d4/d5d/a09599.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
+    [ "GetColor", "d4/d5d/a09599.html#a15108f3a2a93ebbc01111672dd238d63", null ],
+    [ "GetStyle", "d4/d5d/a09599.html#a0e6d684542535d537bdeba4104b7a18d", null ],
+    [ "LoadFromDB", "d4/d5d/a09599.html#a17de371e72a2b29a7f249dbe912636bc", null ],
+    [ "ReadPacket", "d4/d5d/a09599.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
+    [ "SaveToDB", "d4/d5d/a09599.html#aea1326261d893ef3beff026402bf8272", null ],
+    [ "m_backgroundColor", "d4/d5d/a09599.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
+    [ "m_borderColor", "d4/d5d/a09599.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
+    [ "m_borderStyle", "d4/d5d/a09599.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
+    [ "m_color", "d4/d5d/a09599.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
+    [ "m_style", "d4/d5d/a09599.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
 ];

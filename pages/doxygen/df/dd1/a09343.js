@@ -1,10 +1,8 @@
 var a09343 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "df/dd1/a09343.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "df/dd1/a09343.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "df/dd1/a09343.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "df/dd1/a09343.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "df/dd1/a09343.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "df/dd1/a09343.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "PlayerListSearcher", "df/dd1/a09343.html#a82520531c26a6c9645956739538cd286", null ],
+    [ "Visit", "df/dd1/a09343.html#a5cec285c685fce6ac215ac0cde740168", null ],
+    [ "Visit", "df/dd1/a09343.html#a87980d05e12069a42baea27ee0e937d3", null ],
+    [ "i_check", "df/dd1/a09343.html#ad49658237a1e6bf54852d4fc127ea660", null ],
+    [ "i_phaseMask", "df/dd1/a09343.html#ae61e586baa621b0dbd15d453d1320091", null ]
 ];

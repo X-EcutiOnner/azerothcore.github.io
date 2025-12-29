@@ -1,9 +1,8 @@
 var a09971 =
 [
-    [ "ChaseAngle", "d3/d06/a09971.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "d3/d06/a09971.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "d3/d06/a09971.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "d3/d06/a09971.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "d3/d06/a09971.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "d3/d06/a09971.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "GetAINotifyDelay", "d3/d06/a09971.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "d3/d06/a09971.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "d3/d06/a09971.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "d3/d06/a09971.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "d3/d06/a09971.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

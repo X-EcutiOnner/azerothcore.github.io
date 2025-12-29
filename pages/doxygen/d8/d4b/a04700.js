@@ -1,4 +1,4 @@
 var a04700 =
 [
-    [ "AsyncCallbackProcessor< T >", "d5/d90/a05494.html", "d5/d90/a05494" ]
+    [ "EventEmitter< Signature >", "d7/dbb/a05535.html", "d7/dbb/a05535" ]
 ];

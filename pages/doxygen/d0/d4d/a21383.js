@@ -1,6 +1,5 @@
 var a21383 =
 [
-    [ "HandleDummyEffect", "d0/d4d/a21383.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d0/d4d/a21383.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d0/d4d/a21383.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "go_harpoon_canon", "d0/d4d/a21383.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
+    [ "OnGossipHello", "d0/d4d/a21383.html#ad0098bafd1233636bde181312126e65f", null ]
 ];

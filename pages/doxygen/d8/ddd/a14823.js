@@ -1,7 +1,7 @@
 var a14823 =
 [
-    [ "HandleOnHit", "d8/ddd/a14823.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d8/ddd/a14823.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d8/ddd/a14823.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d8/ddd/a14823.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "HandleScript", "d8/ddd/a14823.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "d8/ddd/a14823.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "d8/ddd/a14823.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "d8/ddd/a14823.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

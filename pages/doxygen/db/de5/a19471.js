@@ -1,6 +1,7 @@
 var a19471 =
 [
-    [ "npc_scion_of_eternityAI", "d7/db7/a19475.html", "d7/db7/a19475" ],
-    [ "npc_scion_of_eternity", "db/de5/a19471.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "db/de5/a19471.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "npc_naxxramas_trigger", "db/de5/a19471.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "db/de5/a19471.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "db/de5/a19471.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "db/de5/a19471.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

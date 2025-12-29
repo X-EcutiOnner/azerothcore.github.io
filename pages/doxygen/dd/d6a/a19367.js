@@ -1,6 +1,8 @@
 var a19367 =
 [
-    [ "boss_sapphironAI", "d8/d2a/a19371.html", "d8/d2a/a19371" ],
-    [ "boss_sapphiron", "dd/d6a/a19367.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "dd/d6a/a19367.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "boss_maexxna_webwrapAI", "dd/d6a/a19367.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "dd/d6a/a19367.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "dd/d6a/a19367.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "dd/d6a/a19367.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "dd/d6a/a19367.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

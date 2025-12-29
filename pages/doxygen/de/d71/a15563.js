@@ -1,11 +1,14 @@
 var a15563 =
 [
-    [ "npc_stillpine_capitiveAI", "de/d71/a15563.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "de/d71/a15563.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "de/d71/a15563.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "de/d71/a15563.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "de/d71/a15563.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "de/d71/a15563.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "de/d71/a15563.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "de/d71/a15563.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "npc_draenei_survivorAI", "de/d71/a15563.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
+    [ "JustEngagedWith", "de/d71/a15563.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
+    [ "MoveInLineOfSight", "de/d71/a15563.html#a2b3f0a595fde04ad1e054331a596e225", null ],
+    [ "Reset", "de/d71/a15563.html#a3db19a846ce3b4810321eb02d314633f", null ],
+    [ "SpellHit", "de/d71/a15563.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
+    [ "UpdateAI", "de/d71/a15563.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
+    [ "CanSayHelp", "de/d71/a15563.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
+    [ "pCaster", "de/d71/a15563.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
+    [ "RunAwayTimer", "de/d71/a15563.html#a233885b12615bfbc927d8845d0cff3fd", null ],
+    [ "SayHelpTimer", "de/d71/a15563.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
+    [ "SayThanksTimer", "de/d71/a15563.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
 ];

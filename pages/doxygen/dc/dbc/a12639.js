@@ -1,8 +1,8 @@
 var a12639 =
 [
-    [ "MajordomoAddData", "dc/dbc/a12639.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "dc/dbc/a12639.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "dc/dbc/a12639.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "dc/dbc/a12639.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "dc/dbc/a12639.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_garrAI", "dc/dbc/a12639.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "dc/dbc/a12639.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "dc/dbc/a12639.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "dc/dbc/a12639.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "dc/dbc/a12639.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

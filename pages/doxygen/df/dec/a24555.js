@@ -1,19 +1,12 @@
 var a24555 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "df/dec/a24555.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
-    [ "AttackStart", "df/dec/a24555.html#ae5408b18b589fb483095450bf1338b2f", null ],
-    [ "FlyAway", "df/dec/a24555.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
-    [ "InitializeAI", "df/dec/a24555.html#a05e7d29c738dcc280603ab12a82b819b", null ],
-    [ "MovementInform", "df/dec/a24555.html#a33e0260425cf179daae147bfc1a570b4", null ],
-    [ "MySelectNextTarget", "df/dec/a24555.html#af86f48070b8c329c6a6a3f43d0156273", null ],
-    [ "RemoveTargetAura", "df/dec/a24555.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
-    [ "Reset", "df/dec/a24555.html#aa719acf874e7588ed6b73c437fb6765b", null ],
-    [ "UpdateAI", "df/dec/a24555.html#a998a0401bd975cc7d0da7fb33670a503", null ],
-    [ "_decisionTimer", "df/dec/a24555.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
-    [ "_despawning", "df/dec/a24555.html#abca2ddc0628899b0c5bd35210e303d00", null ],
-    [ "_despawnTimer", "df/dec/a24555.html#a8135321f4e5c01dc71e13f719e43d056", null ],
-    [ "_initialCastTimer", "df/dec/a24555.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
-    [ "_initialSelection", "df/dec/a24555.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
-    [ "_selectionTimer", "df/dec/a24555.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
-    [ "_targetGUID", "df/dec/a24555.html#a8299788ca453930977a605a2766d9e8d", null ]
+    [ "npc_unkor_the_ruthlessAI", "df/dec/a24555.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "df/dec/a24555.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "df/dec/a24555.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "df/dec/a24555.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "df/dec/a24555.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "df/dec/a24555.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "df/dec/a24555.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "df/dec/a24555.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "df/dec/a24555.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

@@ -1,11 +1,8 @@
 var a13271 =
 [
-    [ "npc_valkyr_battle_maidenAI", "da/d0f/a13271.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "da/d0f/a13271.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "da/d0f/a13271.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "da/d0f/a13271.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "da/d0f/a13271.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "da/d0f/a13271.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "da/d0f/a13271.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "da/d0f/a13271.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "CheckCast", "da/d0f/a13271.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "da/d0f/a13271.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "da/d0f/a13271.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "da/d0f/a13271.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "da/d0f/a13271.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

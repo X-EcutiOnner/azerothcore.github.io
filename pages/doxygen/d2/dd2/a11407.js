@@ -1,14 +1,8 @@
 var a11407 =
 [
-    [ "IsFitToRequirements", "d2/dd2/a11407.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "d2/dd2/a11407.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "d2/dd2/a11407.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "d2/dd2/a11407.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "d2/dd2/a11407.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "d2/dd2/a11407.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "d2/dd2/a11407.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "d2/dd2/a11407.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "d2/dd2/a11407.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "d2/dd2/a11407.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "d2/dd2/a11407.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "DirectionType", "d2/dd2/a11407.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d2/dd2/a11407.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d2/dd2/a11407.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d2/dd2/a11407.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d2/dd2/a11407.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

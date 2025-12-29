@@ -1,7 +1,8 @@
 var a20339 =
 [
-    [ "HandleAfterEffectApply", "d8/dc2/a20339.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d8/dc2/a20339.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d8/dc2/a20339.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d8/dc2/a20339.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/dc2/a20339.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "d8/dc2/a20339.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "d8/dc2/a20339.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "d8/dc2/a20339.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "d8/dc2/a20339.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

@@ -1,6 +1,8 @@
 var a18855 =
 [
-    [ "npc_captain_brandonAI", "d0/d04/a18859.html", "d0/d04/a18859" ],
-    [ "npc_captain_brandon", "d7/dce/a18855.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d7/dce/a18855.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_rotting_frost_giantAI", "d7/dce/a18855.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d7/dce/a18855.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d7/dce/a18855.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d7/dce/a18855.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d7/dce/a18855.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

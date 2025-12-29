@@ -1,5 +1,5 @@
 var a24315 =
 [
-    [ "at_commander_dawnforge", "d4/d64/a24315.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d4/d64/a24315.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "go_warmaul_prison", "d4/d64/a24315.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d4/d64/a24315.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

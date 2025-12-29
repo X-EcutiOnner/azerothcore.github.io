@@ -1,6 +1,5 @@
 var a25607 =
 [
-    [ "PrepareAuraScript", "de/d65/a25607.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "de/d65/a25607.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "de/d65/a25607.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "PrepareSpellScript", "de/d65/a25607.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "de/d65/a25607.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

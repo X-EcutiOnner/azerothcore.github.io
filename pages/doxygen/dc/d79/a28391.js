@@ -1,5 +1,5 @@
 var a28391 =
 [
-    [ "BitIndex", "dc/d79/a28391.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "dc/d79/a28391.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "cinematicCamera", "dc/d79/a28391.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "dc/d79/a28391.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

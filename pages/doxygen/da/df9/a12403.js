@@ -1,12 +1,7 @@
 var a12403 =
 [
-    [ "go_suppression_deviceAI", "da/df9/a12403.html#a32767442eeabab896032333e42d3e496", null ],
-    [ "Activate", "da/df9/a12403.html#aa52ca9fb60793e33ae3fe911cd4be379", null ],
-    [ "Deactivate", "da/df9/a12403.html#aec459270ff4965b79430c5bb66cb18f6", null ],
-    [ "DoAction", "da/df9/a12403.html#a60bcafdf76e6735756a43c780bda7baf", null ],
-    [ "InitializeAI", "da/df9/a12403.html#a1dd83a1e393ef47d8bd4917aff5df13f", null ],
-    [ "UpdateAI", "da/df9/a12403.html#afaa70c968a0994fbcd01dd40b6d060a5", null ],
-    [ "_active", "da/df9/a12403.html#a00fb57e180148622e564712611705218", null ],
-    [ "_events", "da/df9/a12403.html#a0c6436834b4aca4bed2a8361941c553c", null ],
-    [ "_instance", "da/df9/a12403.html#a69dbc36ce80cf12cdcee5c42fe4f0a72", null ]
+    [ "boss_urok_doomhowlAI", "da/df9/a12403.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "da/df9/a12403.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "da/df9/a12403.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "da/df9/a12403.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

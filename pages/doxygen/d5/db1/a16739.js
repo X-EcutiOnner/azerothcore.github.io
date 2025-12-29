@@ -1,6 +1,6 @@
 var a16739 =
 [
-    [ "npc_fel_infernalAI", "d4/d8c/a16743.html", "d4/d8c/a16743" ],
-    [ "npc_fel_infernal", "d5/db1/a16739.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d5/db1/a16739.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_toc_rogueAI", "d4/d8c/a16743.html", "d4/d8c/a16743" ],
+    [ "npc_toc_rogue", "d5/db1/a16739.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d5/db1/a16739.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

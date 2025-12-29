@@ -1,6 +1,11 @@
 var a17111 =
 [
-    [ "npc_tortured_riflemanAI", "d1/dfe/a17115.html", "d1/dfe/a17115" ],
-    [ "npc_tortured_rifleman", "d9/dc9/a17111.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d9/dc9/a17111.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_hor_leaderAI", "d9/dc9/a17111.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d9/dc9/a17111.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d9/dc9/a17111.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d9/dc9/a17111.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d9/dc9/a17111.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "d9/dc9/a17111.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "d9/dc9/a17111.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "d9/dc9/a17111.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

@@ -1,18 +1,10 @@
 var a03851 =
 [
-    [ "OutdoorPvPSI", "d9/da4/a22742.html", "d9/da4/a22742" ],
-    [ "OutdoorPvPSISpells", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
-    ] ],
-    [ "OutdoorPvPSIBuffZones", "d5/d12/a03851.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "d5/d12/a03851.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "d5/d12/a03851.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "d5/d12/a03851.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "d5/d12/a03851.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "d5/d12/a03851.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "d5/d12/a03851.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "d5/d12/a03851.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "OutdoorPvP_nagrand", "dc/d82/a22755.html", "dc/d82/a22755" ],
+    [ "outdoorpvp_na_halaa_creatures", "df/d8a/a22759.html", "df/d8a/a22759" ],
+    [ "AddSC_outdoorpvp_na", "d5/d12/a03851.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "FlagPlayerPvP", "d5/d12/a03851.html#ab1d33448696056a0951a0c306a511f1e", null ],
+    [ "UpdateCreatureHalaa", "d5/d12/a03851.html#a37af66c813e135cc11bd1dc663b35697", null ],
+    [ "halaaNPCAlly", "d5/d12/a03851.html#a3428675268608e5372767fc629259d5c", null ],
+    [ "halaaNPCHorde", "d5/d12/a03851.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
 ];

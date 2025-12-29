@@ -1,4 +1,4 @@
 var a01247 =
 [
-    [ "ModuleScript", "dd/d33/a10414.html", "dd/d33/a10414" ]
+    [ "ScriptRegistry< DatabaseScript >", "dd/d95/a01247.html#aea9c85b8c04ac043bf7c7cb880a57d95", null ]
 ];

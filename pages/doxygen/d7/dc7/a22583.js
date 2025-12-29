@@ -1,8 +1,6 @@
 var a22583 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d7/dc7/a22583.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d7/dc7/a22583.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d7/dc7/a22583.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d7/dc7/a22583.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d7/dc7/a22583.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "npc_wg_queueAI", "d7/dc7/a22583.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d7/dc7/a22583.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d7/dc7/a22583.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

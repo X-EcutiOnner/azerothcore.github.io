@@ -1,6 +1,6 @@
 var a25163 =
 [
-    [ "HandleOnEffectHit", "d5/d08/a25163.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d5/d08/a25163.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d5/d08/a25163.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckProc", "d5/d08/a25163.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "d5/d08/a25163.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "d5/d08/a25163.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

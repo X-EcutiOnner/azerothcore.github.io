@@ -1,5 +1,10 @@
 var a27667 =
 [
-    [ "item_captured_frog", "de/def/a27667.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "de/def/a27667.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "guard_shattrath_aldorAI", "de/def/a27667.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "de/def/a27667.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "de/def/a27667.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "de/def/a27667.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "de/def/a27667.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "de/def/a27667.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "de/def/a27667.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

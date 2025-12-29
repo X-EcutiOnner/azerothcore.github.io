@@ -1,7 +1,10 @@
 var a16959 =
 [
-    [ "HandleEffectRemove", "d8/d6a/a16959.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d8/d6a/a16959.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d8/d6a/a16959.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d8/d6a/a16959.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "boss_tharon_jaAI", "d8/d6a/a16959.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d8/d6a/a16959.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d8/d6a/a16959.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d8/d6a/a16959.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d8/d6a/a16959.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d8/d6a/a16959.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d8/d6a/a16959.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

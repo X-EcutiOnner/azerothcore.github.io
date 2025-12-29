@@ -1,7 +1,7 @@
 var a10767 =
 [
-    [ "GuildBankWithdrawMoney", "dd/d77/a10767.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "dd/d77/a10767.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "dd/d77/a10767.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "dd/d77/a10767.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "GuildBankBuyTab", "dd/d77/a10767.html#af2195db72eeaefea13c958e5ef62c411", null ],
+    [ "Read", "dd/d77/a10767.html#a502153232a314d099ed43e1101bdfc1f", null ],
+    [ "Banker", "dd/d77/a10767.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
+    [ "BankTab", "dd/d77/a10767.html#a5df7be995a177706fa364e31a6f8df1e", null ]
 ];

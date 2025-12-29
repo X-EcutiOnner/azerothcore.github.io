@@ -1,6 +1,5 @@
 var a20895 =
 [
-    [ "boss_xt002AI", "dc/dff/a20899.html", "dc/dff/a20899" ],
-    [ "boss_xt002", "dd/d21/a20895.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "dd/d21/a20895.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "go_thorim_lever", "dd/d21/a20895.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "dd/d21/a20895.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

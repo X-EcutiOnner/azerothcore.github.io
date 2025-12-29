@@ -1,5 +1,6 @@
 var a21247 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "de/d17/a21247.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "de/d17/a21247.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d0/ddf/a21251.html", "d0/ddf/a21251" ],
+    [ "npc_ulduar_storm_tempered_keeper", "de/d17/a21247.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "de/d17/a21247.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

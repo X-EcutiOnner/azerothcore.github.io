@@ -1,4 +1,4 @@
 var a01481 =
 [
-    [ "AchievementCriteriaScript", "d0/d6c/a10262.html", "d0/d6c/a10262" ]
+    [ "ScriptRegistry< AllCreatureScript >", "d1/de4/a01481.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
 ];

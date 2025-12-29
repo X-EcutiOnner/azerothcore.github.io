@@ -1,4 +1,6 @@
 var a28463 =
 [
-    [ "base", "d8/db1/a28463.html#ad5e8b55760b9007284e8acf719d7647c", null ]
+    [ "color", "d8/db1/a28463.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d8/db1/a28463.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d8/db1/a28463.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

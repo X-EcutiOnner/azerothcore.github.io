@@ -1,9 +1,7 @@
 var a30008 =
 [
-    [ "std::hash< std::pair< uint32_t, uint32_t > >", "de/d07/a29020.html", "de/d07/a29020" ],
-    [ "MMAP::ResolvedMeshConfig", "d7/d0c/a29024.html", "d7/d0c/a29024" ],
-    [ "MMAP::Config", "da/de1/a29028.html", "da/de1/a29028" ],
-    [ "MMAP::Config::TileOverride", "d3/d62/a29032.html", "d3/d62/a29032" ],
-    [ "MMAP::Config::MapOverride", "da/d02/a29036.html", "da/d02/a29036" ],
-    [ "MMAP::Config::GlobalConfig", "de/da0/a29040.html", "de/da0/a29040" ]
+    [ "MPQArchive", "db/df4/a28999.html", "db/df4/a28999" ],
+    [ "MPQFile", "d3/d47/a29003.html", "d3/d47/a29003" ],
+    [ "ArchiveSet", "dd/d5d/a30008.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "dd/d5d/a30008.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

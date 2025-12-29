@@ -1,7 +1,11 @@
 var a25499 =
 [
-    [ "HandleScript", "dd/d75/a25499.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "dd/d75/a25499.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "dd/d75/a25499.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "dd/d75/a25499.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "spell_gen_consume", "dd/d75/a25499.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "dd/d75/a25499.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "dd/d75/a25499.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "dd/d75/a25499.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "dd/d75/a25499.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "dd/d75/a25499.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "dd/d75/a25499.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "dd/d75/a25499.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

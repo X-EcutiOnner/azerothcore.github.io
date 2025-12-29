@@ -1,7 +1,10 @@
 var a27147 =
 [
-    [ "HandleApplyAura", "de/d8a/a27147.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "de/d8a/a27147.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "de/d8a/a27147.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "de/d8a/a27147.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "CheckProc", "de/d8a/a27147.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "de/d8a/a27147.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "de/d8a/a27147.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "de/d8a/a27147.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "de/d8a/a27147.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "de/d8a/a27147.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "de/d8a/a27147.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

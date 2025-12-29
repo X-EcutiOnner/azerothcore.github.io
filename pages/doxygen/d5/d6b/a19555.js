@@ -1,7 +1,6 @@
 var a19555 =
 [
-    [ "HandlePull", "d5/d6b/a19555.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d5/d6b/a19555.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d5/d6b/a19555.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d5/d6b/a19555.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "db/d24/a19559.html", "db/d24/a19559" ],
+    [ "instance_eye_of_eternity", "d5/d6b/a19555.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d5/d6b/a19555.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

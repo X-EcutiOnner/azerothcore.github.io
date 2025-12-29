@@ -1,7 +1,9 @@
 var a05035 =
 [
-    [ "AreaInfoCallback", "d1/d9f/a05035.html#a80988ffb9cda6f41e269ba896332e6a1", null ],
-    [ "operator()", "d1/d9f/a05035.html#ac53fe7cf79b790f501c8a3dd94cc89ff", null ],
-    [ "aInfo", "d1/d9f/a05035.html#a7c38a60631dc273abcfe930847864315", null ],
-    [ "prims", "d1/d9f/a05035.html#adb24cb7deeafd42035efb29ad2529b14", null ]
+    [ "ManagedModel", "d1/d9f/a05035.html#ab641724be7e7791c2c95982acc13f3b0", null ],
+    [ "decRefCount", "d1/d9f/a05035.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
+    [ "getModel", "d1/d9f/a05035.html#a053fc6647a16746fba19a0795610fea2", null ],
+    [ "setModel", "d1/d9f/a05035.html#aa450ae6be22d507c36a746850629831d", null ],
+    [ "iModel", "d1/d9f/a05035.html#a5e20d0157691bd6036247a83eea8d19b", null ],
+    [ "iRefCount", "d1/d9f/a05035.html#afb30ad900a5979f98276324a1ab1c328", null ]
 ];

@@ -1,7 +1,6 @@
 var a24987 =
 [
-    [ "FilterTargets", "db/d59/a24987.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "db/d59/a24987.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "db/d59/a24987.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "db/d59/a24987.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "FilterTargets", "db/d59/a24987.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "db/d59/a24987.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "db/d59/a24987.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

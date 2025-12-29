@@ -1,7 +1,8 @@
 var a26967 =
 [
-    [ "HandleEffectProc", "d9/d6e/a26967.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d9/d6e/a26967.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d9/d6e/a26967.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d9/d6e/a26967.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "CheckFireTotem", "d9/d6e/a26967.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d9/d6e/a26967.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d9/d6e/a26967.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d9/d6e/a26967.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d9/d6e/a26967.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

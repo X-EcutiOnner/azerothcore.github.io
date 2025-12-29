@@ -1,8 +1,12 @@
 var a13023 =
 [
-    [ "CheckProc", "d8/db3/a13023.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d8/db3/a13023.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d8/db3/a13023.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d8/db3/a13023.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d8/db3/a13023.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "boss_bigbadwolf", "d8/db3/a13023.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "d8/db3/a13023.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "d8/db3/a13023.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "d8/db3/a13023.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "d8/db3/a13023.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "d8/db3/a13023.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "d8/db3/a13023.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "d8/db3/a13023.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "d8/db3/a13023.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

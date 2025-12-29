@@ -1,8 +1,6 @@
 var a23255 =
 [
-    [ "CalcPeriodic", "d3/deb/a23255.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "d3/deb/a23255.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "d3/deb/a23255.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "d3/deb/a23255.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "d3/deb/a23255.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "PrepareSpellScript", "d3/deb/a23255.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "d3/deb/a23255.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "d3/deb/a23255.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

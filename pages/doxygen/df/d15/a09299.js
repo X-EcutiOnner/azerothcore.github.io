@@ -1,9 +1,9 @@
 var a09299 =
 [
-    [ "CreatureSearcher", "df/d15/a09299.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "df/d15/a09299.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "df/d15/a09299.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "df/d15/a09299.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "df/d15/a09299.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "df/d15/a09299.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "GameObjectLastSearcher", "df/d15/a09299.html#a9f478f784f46fa502910f621f10238f2", null ],
+    [ "Visit", "df/d15/a09299.html#a2ba394a2da9f72c7621567092c175f0b", null ],
+    [ "Visit", "df/d15/a09299.html#a4298bd100890e61a34e827f96d70e752", null ],
+    [ "i_check", "df/d15/a09299.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
+    [ "i_object", "df/d15/a09299.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
+    [ "i_phaseMask", "df/d15/a09299.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
 ];

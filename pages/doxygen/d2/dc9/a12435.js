@@ -1,6 +1,6 @@
 var a12435 =
 [
-    [ "boss_ebonrocAI", "d8/db4/a12439.html", "d8/db4/a12439" ],
-    [ "boss_ebonroc", "d2/dc9/a12435.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d2/dc9/a12435.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "near_scarshield_infiltrator", "d2/dc9/a12435.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d2/dc9/a12435.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d2/dc9/a12435.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

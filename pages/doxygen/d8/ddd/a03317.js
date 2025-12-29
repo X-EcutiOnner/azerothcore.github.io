@@ -1,5 +1,6 @@
 var a03317 =
 [
-    [ "bf_commandscript", "db/d03/a11802.html", "db/d03/a11802" ],
-    [ "AddSC_bf_commandscript", "d8/ddd/a03317.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
+    [ "event_commandscript", "d0/dff/a11883.html", "d0/dff/a11883" ],
+    [ "EventEntry", "d8/ddd/a03317.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
+    [ "AddSC_event_commandscript", "d8/ddd/a03317.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
 ];

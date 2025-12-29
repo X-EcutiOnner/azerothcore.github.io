@@ -1,8 +1,5 @@
 var a25767 =
 [
-    [ "OnApply", "dd/ddc/a25767.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "dd/ddc/a25767.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "dd/ddc/a25767.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "dd/ddc/a25767.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "dd/ddc/a25767.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "PrepareSpellScript", "dd/ddc/a25767.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "dd/ddc/a25767.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

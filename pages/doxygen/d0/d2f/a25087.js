@@ -1,6 +1,6 @@
 var a25087 =
 [
-    [ "CheckProc", "d0/d2f/a25087.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "d0/d2f/a25087.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "d0/d2f/a25087.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "PrepareSpellScript", "d0/d2f/a25087.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "d0/d2f/a25087.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "d0/d2f/a25087.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

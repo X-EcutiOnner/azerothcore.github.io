@@ -1,8 +1,6 @@
 var a03899 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d4/d0b/a27918.html", "d4/d0b/a27918" ],
-    [ "ApprenticeAnglerQuestEnum", "d0/d33/a03899.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
-      [ "QUEST_APPRENTICE_ANGLER", "d0/d33/a03899.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
-    ] ],
-    [ "AddSC_player_scripts", "d0/d33/a03899.html#a1f476a8466c12651b57fd55bf13b9617", null ]
+    [ "trigger_periodic", "d2/d46/a27699.html", "d2/d46/a27699" ],
+    [ "trigger_periodic::trigger_periodicAI", "d2/d77/a27703.html", "d2/d77/a27703" ],
+    [ "AddSC_generic_creature", "d0/d33/a03899.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
 ];

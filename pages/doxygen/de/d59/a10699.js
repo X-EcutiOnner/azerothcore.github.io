@@ -1,11 +1,8 @@
 var a10699 =
 [
-    [ "GuildSetRankPermissions", "de/d59/a10699.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "de/d59/a10699.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "de/d59/a10699.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "de/d59/a10699.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "de/d59/a10699.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "de/d59/a10699.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "de/d59/a10699.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "de/d59/a10699.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "OtherGUID", "de/d59/a10699.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "de/d59/a10699.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "de/d59/a10699.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "de/d59/a10699.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "de/d59/a10699.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

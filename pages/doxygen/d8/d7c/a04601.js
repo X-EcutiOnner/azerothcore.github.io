@@ -1,4 +1,4 @@
 var a04601 =
 [
-    [ "LogOperation", "d1/d5e/a05403.html", "d1/d5e/a05403" ]
+    [ "Acore::Encoding::Base32", "db/d18/a05383.html", "db/d18/a05383" ]
 ];

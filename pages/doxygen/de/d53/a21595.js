@@ -1,6 +1,11 @@
 var a21595 =
 [
-    [ "npc_vh_teleportation_portalAI", "df/d32/a21599.html", "df/d32/a21599" ],
-    [ "npc_vh_teleportation_portal", "de/d53/a21595.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "de/d53/a21595.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_vh_void_sentryAI", "de/d53/a21595.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "de/d53/a21595.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "de/d53/a21595.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "de/d53/a21595.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "de/d53/a21595.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "de/d53/a21595.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "de/d53/a21595.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "de/d53/a21595.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

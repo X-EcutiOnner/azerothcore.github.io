@@ -1,10 +1,6 @@
 var a03323 =
 [
-    [ "AccountFlagText", "da/df4/a11906.html", "da/df4/a11906" ],
-    [ "misc_commandscript", "d4/da7/a11910.html", "d4/da7/a11910" ],
-    [ "AddSC_misc_commandscript", "d4/d00/a03323.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "d4/d00/a03323.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "accountFlagText", "d4/d00/a03323.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
-    [ "SPELL_FREEZE", "d4/d00/a03323.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "d4/d00/a03323.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "debug_commandscript", "d3/d5c/a11867.html", "d3/d5c/a11867" ],
+    [ "debug_commandscript::CreatureCountWorker", "da/dfd/a11871.html", "da/dfd/a11871" ],
+    [ "AddSC_debug_commandscript", "d4/d00/a03323.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

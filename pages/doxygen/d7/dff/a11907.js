@@ -1,10 +1,12 @@
 var a11907 =
 [
-    [ "mmaps_commandscript", "d7/dff/a11907.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d7/dff/a11907.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d7/dff/a11907.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d7/dff/a11907.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d7/dff/a11907.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d7/dff/a11907.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d7/dff/a11907.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "guild_commandscript", "d7/dff/a11907.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "d7/dff/a11907.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "d7/dff/a11907.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "d7/dff/a11907.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "d7/dff/a11907.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "d7/dff/a11907.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "d7/dff/a11907.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "d7/dff/a11907.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "d7/dff/a11907.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

@@ -1,8 +1,6 @@
 var a27151 =
 [
-    [ "CheckProc", "d3/dca/a27151.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "d3/dca/a27151.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "d3/dca/a27151.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "d3/dca/a27151.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "d3/dca/a27151.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "PrepareAuraScript", "d3/dca/a27151.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d3/dca/a27151.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d3/dca/a27151.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

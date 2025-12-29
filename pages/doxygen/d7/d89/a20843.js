@@ -1,6 +1,10 @@
 var a20843 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "dd/dba/a20847.html", "dd/dba/a20847" ],
-    [ "boss_thorim_gauntlet_npcs", "d7/d89/a20843.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "d7/d89/a20843.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "boss_thorim_sif_blizzardAI", "d7/d89/a20843.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "d7/d89/a20843.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "d7/d89/a20843.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "d7/d89/a20843.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "d7/d89/a20843.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "d7/d89/a20843.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "d7/d89/a20843.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

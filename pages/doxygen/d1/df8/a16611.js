@@ -1,7 +1,6 @@
 var a16611 =
 [
-    [ "npc_toc_shamanAI", "d1/df8/a16611.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d1/df8/a16611.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d1/df8/a16611.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d1/df8/a16611.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_frost_sphereAI", "dd/d85/a16615.html", "dd/d85/a16615" ],
+    [ "npc_frost_sphere", "d1/df8/a16611.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d1/df8/a16611.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

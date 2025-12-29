@@ -1,10 +1,16 @@
 var a28691 =
 [
-    [ "ID", "df/def/a28691.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "df/def/a28691.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "df/def/a28691.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "df/def/a28691.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "df/def/a28691.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "df/def/a28691.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "df/def/a28691.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "amount", "df/def/a28691.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "df/def/a28691.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "df/def/a28691.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "df/def/a28691.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "df/def/a28691.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "df/def/a28691.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "df/def/a28691.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "df/def/a28691.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "df/def/a28691.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "df/def/a28691.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "df/def/a28691.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "df/def/a28691.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "df/def/a28691.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

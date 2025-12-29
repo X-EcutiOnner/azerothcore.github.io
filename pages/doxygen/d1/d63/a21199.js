@@ -1,5 +1,6 @@
 var a21199 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d1/d63/a21199.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d1/d63/a21199.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "HandleScript", "d1/d63/a21199.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d1/d63/a21199.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d1/d63/a21199.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

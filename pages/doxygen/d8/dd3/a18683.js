@@ -1,14 +1,5 @@
 var a18683 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d8/dd3/a18683.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "AttackStart", "d8/dd3/a18683.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
-    [ "CanAIAttack", "d8/dd3/a18683.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
-    [ "DoAction", "d8/dd3/a18683.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "EnterEvadeMode", "d8/dd3/a18683.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
-    [ "JustEngagedWith", "d8/dd3/a18683.html#ad7385306f8058699ee004b7bc5f1b538", null ],
-    [ "JustReachedHome", "d8/dd3/a18683.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
-    [ "MoveInLineOfSight", "d8/dd3/a18683.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "d8/dd3/a18683.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
-    [ "UpdateAI", "d8/dd3/a18683.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
-    [ "checkTimer", "d8/dd3/a18683.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
+    [ "achievement_been_waiting_long_time", "d8/dd3/a18683.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d8/dd3/a18683.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

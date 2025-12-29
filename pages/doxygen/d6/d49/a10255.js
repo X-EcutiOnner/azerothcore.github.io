@@ -1,6 +1,4 @@
 var a10255 =
 [
-    [ "AchievementCriteriaScript", "d6/d49/a10255.html#a86804e8d52ebd239a85609bc1e8883ea", null ],
-    [ "IsDatabaseBound", "d6/d49/a10255.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
-    [ "OnCheck", "d6/d49/a10255.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
+    [ "RewardText", "d6/d49/a10255.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
 ];

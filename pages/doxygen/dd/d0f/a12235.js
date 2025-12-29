@@ -1,8 +1,5 @@
 var a12235 =
 [
-    [ "boss_halyconAI", "dd/d0f/a12235.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "dd/d0f/a12235.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "dd/d0f/a12235.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "dd/d0f/a12235.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "dd/d0f/a12235.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "boss_moira_bronzebeard", "dd/d0f/a12235.html#abb9a87023b8afa242e60f9694dea1c39", null ],
+    [ "GetAI", "dd/d0f/a12235.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
 ];

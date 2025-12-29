@@ -1,6 +1,6 @@
 var a19639 =
 [
-    [ "npc_oculus_drakeAI", "dc/d73/a19643.html", "dc/d73/a19643" ],
-    [ "npc_oculus_drake", "dc/d04/a19639.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "dc/d04/a19639.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "boss_eregosAI", "dc/d73/a19643.html", "dc/d73/a19643" ],
+    [ "boss_eregos", "dc/d04/a19639.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "dc/d04/a19639.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

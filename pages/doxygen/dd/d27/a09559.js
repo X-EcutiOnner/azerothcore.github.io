@@ -1,8 +1,7 @@
 var a09559 =
 [
-    [ "flags", "dd/d27/a09559.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "dd/d27/a09559.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "dd/d27/a09559.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "dd/d27/a09559.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "dd/d27/a09559.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "PowerCheck", "dd/d27/a09559.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "dd/d27/a09559.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "dd/d27/a09559.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "dd/d27/a09559.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

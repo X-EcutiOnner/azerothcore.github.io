@@ -1,5 +1,9 @@
 var a22615 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "d5/db9/a22615.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "d5/db9/a22615.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "HandleFinish", "d5/db9/a22615.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d5/db9/a22615.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d5/db9/a22615.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d5/db9/a22615.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d5/db9/a22615.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d5/db9/a22615.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

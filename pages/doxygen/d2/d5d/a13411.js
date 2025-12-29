@@ -1,14 +1,7 @@
 var a13411 =
 [
-    [ "boss_jarien", "d2/d5d/a13411.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
-    [ "DoAction", "d2/d5d/a13411.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
-    [ "IsSummonedBy", "d2/d5d/a13411.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
-    [ "JustDied", "d2/d5d/a13411.html#a418380b56f3432b5aec84737012f4693", null ],
-    [ "JustEngagedWith", "d2/d5d/a13411.html#ab6590cf6626a12e804520b2cde84a93e", null ],
-    [ "Reset", "d2/d5d/a13411.html#ac85ca96b42aa5115500bd24454f84209", null ],
-    [ "UpdateAI", "d2/d5d/a13411.html#acf7157ec7af7356beddc8a2429177b95", null ],
-    [ "_phase", "d2/d5d/a13411.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
-    [ "_scheduler", "d2/d5d/a13411.html#abce9540798dbae1026d1c74bfeb111a6", null ],
-    [ "_sothosDied", "d2/d5d/a13411.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
-    [ "_talked", "d2/d5d/a13411.html#ae0c943c970990b055ebc8c31d81a7198", null ]
+    [ "HandleScript", "d2/d5d/a13411.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d2/d5d/a13411.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d2/d5d/a13411.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d2/d5d/a13411.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

@@ -1,6 +1,8 @@
 var a27783 =
 [
-    [ "npc_target_dummyAI", "db/d05/a27787.html", "db/d05/a27787" ],
-    [ "npc_target_dummy", "d7/d2d/a27783.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "d7/d2d/a27783.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "npc_elder_clearwaterAI", "db/d05/a27787.html", "db/d05/a27787" ],
+    [ "npc_elder_clearwater", "d7/d2d/a27783.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d7/d2d/a27783.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d7/d2d/a27783.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d7/d2d/a27783.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

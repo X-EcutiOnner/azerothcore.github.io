@@ -1,6 +1,14 @@
 var a01967 =
 [
-    [ "instance_auchenai_crypts", "d7/dd0/a22798.html", "d7/dd0/a22798" ],
-    [ "instance_auchenai_crypts::instance_auchenai_crypts_InstanceMapScript", "d7/d5d/a22802.html", "d7/d5d/a22802" ],
-    [ "AddSC_instance_auchenai_crypts", "de/d46/a01967.html#a3a9866226f3a0e32fdb3501e506ab0b5", null ]
+    [ "DataHeader", "de/d46/a01967.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "de/d46/a01967.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterManaTombsCreatureAI", "de/d46/a01967.html#a7e2e8ea768842320ce5d953aeaddb176", null ],
+    [ "MTDataTypes", "de/d46/a01967.html#a9ffea4a6410ded9f327ba6e91f8766ee", [
+      [ "DATA_PANDEMONIUS", "de/d46/a01967.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a", null ],
+      [ "DATA_TAVAROK", "de/d46/a01967.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57", null ],
+      [ "DATA_NEXUSPRINCE_SHAFFAR", "de/d46/a01967.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97", null ],
+      [ "DATA_YOR", "de/d46/a01967.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289", null ]
+    ] ],
+    [ "GetManaTombsAI", "de/d46/a01967.html#aaec5771a3ce0808b0a1bb0116b4fb9e3", null ],
+    [ "EncounterCount", "de/d46/a01967.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

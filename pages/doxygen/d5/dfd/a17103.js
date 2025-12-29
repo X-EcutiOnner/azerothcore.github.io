@@ -1,6 +1,7 @@
 var a17103 =
 [
-    [ "npc_spectral_footmanAI", "df/dca/a17107.html", "df/dca/a17107" ],
-    [ "npc_spectral_footman", "d5/dfd/a17103.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "d5/dfd/a17103.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "OnRemove", "d5/dfd/a17103.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d5/dfd/a17103.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d5/dfd/a17103.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d5/dfd/a17103.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

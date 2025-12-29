@@ -1,8 +1,6 @@
 var a27423 =
 [
-    [ "FilterTargets", "d9/d2d/a27423.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d9/d2d/a27423.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d9/d2d/a27423.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d9/d2d/a27423.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d9/d2d/a27423.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "boss_emerissAI", "d5/d2d/a27427.html", "d5/d2d/a27427" ],
+    [ "boss_emeriss", "d9/d2d/a27423.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d9/d2d/a27423.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

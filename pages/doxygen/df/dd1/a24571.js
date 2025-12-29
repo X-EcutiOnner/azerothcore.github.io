@@ -1,5 +1,6 @@
 var a24571 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "df/dd1/a24571.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "df/dd1/a24571.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "go_ancient_skull_pile", "df/dd1/a24571.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "df/dd1/a24571.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "df/dd1/a24571.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

@@ -1,16 +1,12 @@
 var a11191 =
 [
-    [ "Player", "d3/dfc/a11191.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d3/dfc/a11191.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "CharCount", "d3/dfc/a11191.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
-    [ "Class", "d3/dfc/a11191.html#a41e354593f59bc8546688a37c2a5e504", null ],
-    [ "Face", "d3/dfc/a11191.html#aba49d87691e9d2b10d430450c3f66493", null ],
-    [ "FacialHair", "d3/dfc/a11191.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
-    [ "Gender", "d3/dfc/a11191.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
-    [ "HairColor", "d3/dfc/a11191.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
-    [ "HairStyle", "d3/dfc/a11191.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
-    [ "Name", "d3/dfc/a11191.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
-    [ "OutfitId", "d3/dfc/a11191.html#a15baddc70b46d48bd9f128e73aaac606", null ],
-    [ "Race", "d3/dfc/a11191.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
-    [ "Skin", "d3/dfc/a11191.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
+    [ "OpcodeTable", "d5/dac/a04818.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "d5/dac/a04818.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "d5/dac/a04818.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "d5/dac/a04818.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "d5/dac/a04818.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "d5/dac/a04818.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "d5/dac/a04818.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "d5/dac/a04818.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "d5/dac/a04818.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

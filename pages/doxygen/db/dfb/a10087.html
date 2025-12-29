@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: TargetedMovementGeneratorBase Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d2/dc1/a10090.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('db/dfb/a10087.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,55 +104,132 @@ $(document).ready(function(){initNavTree('d2/dc1/a10090.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">WaypointMovementGenerator&lt; Creature &gt; Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="../../d8/d13/a10084.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">TargetedMovementGeneratorBase Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#aa012ce83f1c517c2276a4087bfa1fa2a">CanMove</a>(int32 diff)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a2433bd1daa89ffe7db890a980e08f7c0">DoFinalize</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a85431b77d71e57adc675884cb60265bf">DoInitialize</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a8df87d19f7f37b71061e0122d2047e7b">DoReset</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#ae2bfe9bb6e1b36a1b29d195539dc21b5">DoUpdate</a>(Creature *, uint32 diff)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d8/dd6/a09998.html#a90c8b42ef67968bf58acae5678dc7496">Finalize</a>(Unit *u) override</td><td class="entry"><a class="el" href="../../d8/dd6/a09998.html">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d7a/a10082.html#a7ceb52928f2198392980c3926516fd82">GetCurrentNode</a>() const</td><td class="entry"><a class="el" href="../../d2/d7a/a10082.html">PathMovementBase&lt; T, P &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a20c8c2373bb55d32dd9c3a17a9c01c34">GetMovementGeneratorType</a>()</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/dad/a09994.html#a60ac9e99f41d1f5c320441cf78b4b46a">GetResetPosition</a>(float &amp;, float &amp;, float &amp;)</td><td class="entry"><a class="el" href="../../de/dad/a09994.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dad/a09994.html#a99865a1b7cf84b02784bfa8df958585f">GetSplineId</a>() const</td><td class="entry"><a class="el" href="../../de/dad/a09994.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d7a/a10082.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a></td><td class="entry"><a class="el" href="../../d2/d7a/a10082.html">PathMovementBase&lt; T, P &gt;</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a93ba19dcd1102f2ac7d55270018230aa">i_nextMoveTime</a></td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d7a/a10082.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a></td><td class="entry"><a class="el" href="../../d2/d7a/a10082.html">PathMovementBase&lt; T, P &gt;</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a21044380b5ec6e12b30c94cc17394739">i_pathSource</a></td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dd6/a09998.html#ad6b97c3e2884dfbe3f17e2579b31ac66">Initialize</a>(Unit *u) override</td><td class="entry"><a class="el" href="../../d8/dd6/a09998.html">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#ad94d8d26f05098ed1b79ccf8a990fa05">LoadPath</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a5853c2ab68a3b65dae668eeb243daba9">m_isArrivalDone</a></td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a3556f9f93f2e32d8b2bb8549a2086ad8">MovementInform</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a7bd5e0f9f66b3caf5a90cdc0dbd014d9">OnArrived</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a9cfc901b4a804d65c72ee40398973650">path_id</a></td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d7a/a10082.html#a6b76e1527ed69ff631d7a72c309f264a">PathMovementBase</a>()</td><td class="entry"><a class="el" href="../../d2/d7a/a10082.html">PathMovementBase&lt; T, P &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d7a/a10082.html#a953fcda0cf7764f659fc5a4a19408550">PathMovementBase</a>(P path)</td><td class="entry"><a class="el" href="../../d2/d7a/a10082.html">PathMovementBase&lt; T, P &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#aca0b1fab7047439d53363cc833522d88">Pause</a>(uint32 timer=0)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a88c18e329a06d89a1207e14d1b7b77dd">repeating</a></td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dd6/a09998.html#a6db99ea9863dc60d032bacda37afa078">Reset</a>(Unit *u) override</td><td class="entry"><a class="el" href="../../d8/dd6/a09998.html">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#ae3f50b0fedbe0da23f806ef89dcd39f6">Resume</a>(uint32 overrideTimer)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#aa2a134cfb38b80fb1f1764af61c6538e">stalled</a></td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#af1ca7bcddaea3c8182bf0ceaffaae2f6">StartMove</a>(Creature *)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a112d6e56dd472edd4cf28514bba4f336">StartMoveNow</a>(Creature *creature)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a93e5972abae07effc7ce3c85e66f5606">Stop</a>(int32 time)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a0facace1f103db218ea01d80f8bca3da">Stopped</a>()</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dad/a09994.html#a0f9c4fd52947688dcda1161924e829bb">unitSpeedChanged</a>()</td><td class="entry"><a class="el" href="../../de/dad/a09994.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dd6/a09998.html#af044c8725ef11e8a152987225521ef8b">Update</a>(Unit *u, uint32 time_diff) override</td><td class="entry"><a class="el" href="../../d8/dd6/a09998.html">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#abe495efe5b852f49058d8a54ba5babf9">WaypointMovementGenerator</a>(uint32 _path_id=0, PathSource pathSource=PathSource::WAYPOINT_MGR, bool _repeating=true, bool _stalled=false)</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/dad/a09994.html#a13c3c432ac2a91dd4d07b090ec06b903">~MovementGenerator</a>()</td><td class="entry"><a class="el" href="../../de/dad/a09994.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d7a/a10082.html#a33b2b53993fe897712a196bc4ad86bd1">~PathMovementBase</a>()</td><td class="entry"><a class="el" href="../../d2/d7a/a10082.html">PathMovementBase&lt; T, P &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dc1/a10090.html#a593c784ebcca7f8c431df4573fa874c6">~WaypointMovementGenerator</a>()</td><td class="entry"><a class="el" href="../../d2/dc1/a10090.html">WaypointMovementGenerator&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for TargetedMovementGeneratorBase:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../db/dfb/a10087.png" usemap="#TargetedMovementGeneratorBase_map" alt=""/>
+  <map id="TargetedMovementGeneratorBase_map" name="TargetedMovementGeneratorBase_map">
+<area href="../../dc/de2/a10091.html" alt="ChaseMovementGenerator&lt; T &gt;" shape="rect" coords="0,56,205,80"/>
+<area href="../../d1/dc6/a10095.html" alt="FollowMovementGenerator&lt; T &gt;" shape="rect" coords="215,56,420,80"/>
+  </map>
+</div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a670b36c578b32b7d582e8f4b6ef656c3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dfb/a10087.html#a670b36c578b32b7d582e8f4b6ef656c3">TargetedMovementGeneratorBase</a> (<a class="el" href="../../dc/d93/a08823.html">Unit</a> *target)</td></tr>
+<tr class="separator:a670b36c578b32b7d582e8f4b6ef656c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb0a6f1a63ce265fc63bf362e2f60488"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dfb/a10087.html#adb0a6f1a63ce265fc63bf362e2f60488">stopFollowing</a> ()</td></tr>
+<tr class="separator:adb0a6f1a63ce265fc63bf362e2f60488"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a427d8512cbd0ccbaca65dcf48bbe39f6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d9e/a09991.html">FollowerReference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dfb/a10087.html#a427d8512cbd0ccbaca65dcf48bbe39f6">i_target</a></td></tr>
+<tr class="separator:a427d8512cbd0ccbaca65dcf48bbe39f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a670b36c578b32b7d582e8f4b6ef656c3" name="a670b36c578b32b7d582e8f4b6ef656c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a670b36c578b32b7d582e8f4b6ef656c3">&#9670;&#160;</a></span>TargetedMovementGeneratorBase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TargetedMovementGeneratorBase::TargetedMovementGeneratorBase </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d93/a08823.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>target</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{ <a class="code hl_variable" href="../../db/dfb/a10087.html#a427d8512cbd0ccbaca65dcf48bbe39f6">i_target</a>.<a class="code hl_function" href="../../db/d87/a05299.html#a6c7a8395a8f77e33772959f068296aaf">link</a>(target, <span class="keyword">this</span>); }</div>
+<div class="ttc" id="aa05299_html_a6c7a8395a8f77e33772959f068296aaf"><div class="ttname"><a href="../../db/d87/a05299.html#a6c7a8395a8f77e33772959f068296aaf">Reference::link</a></div><div class="ttdeci">void link(TO *toObj, FROM *fromObj)</div><div class="ttdef"><b>Definition:</b> Reference.h:45</div></div>
+<div class="ttc" id="aa10087_html_a427d8512cbd0ccbaca65dcf48bbe39f6"><div class="ttname"><a href="../../db/dfb/a10087.html#a427d8512cbd0ccbaca65dcf48bbe39f6">TargetedMovementGeneratorBase::i_target</a></div><div class="ttdeci">FollowerReference i_target</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:34</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00034">i_target</a>, and <a class="el" href="../../#l00045">Reference&lt; TO, FROM &gt;::link()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="adb0a6f1a63ce265fc63bf362e2f60488" name="adb0a6f1a63ce265fc63bf362e2f60488"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb0a6f1a63ce265fc63bf362e2f60488">&#9670;&#160;</a></span>stopFollowing()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TargetedMovementGeneratorBase::stopFollowing </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00032">FollowerReference::sourceObjectDestroyLink()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a427d8512cbd0ccbaca65dcf48bbe39f6" name="a427d8512cbd0ccbaca65dcf48bbe39f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a427d8512cbd0ccbaca65dcf48bbe39f6">&#9670;&#160;</a></span>i_target</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d9e/a09991.html">FollowerReference</a> TargetedMovementGeneratorBase::i_target</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00064">ChaseMovementGenerator&lt; T &gt;::GetTarget()</a>, <a class="el" href="../../#l00105">FollowMovementGenerator&lt; T &gt;::GetTarget()</a>, and <a class="el" href="../../#l00031">TargetedMovementGeneratorBase()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Dec 22 2025 20:50:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dfb/a10087.html">TargetedMovementGeneratorBase</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:51:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

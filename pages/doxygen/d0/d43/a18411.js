@@ -1,6 +1,6 @@
 var a18411 =
 [
-    [ "LichKingMovieEvent", "d0/d43/a18411.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d0/d43/a18411.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d0/d43/a18411.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "PeriodicTick", "d0/d43/a18411.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d0/d43/a18411.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d0/d43/a18411.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

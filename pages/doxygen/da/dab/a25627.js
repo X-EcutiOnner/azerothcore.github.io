@@ -1,10 +1,7 @@
 var a25627 =
 [
-    [ "CheckProc", "da/dab/a25627.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "da/dab/a25627.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "da/dab/a25627.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "da/dab/a25627.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "da/dab/a25627.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "da/dab/a25627.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "da/dab/a25627.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "HandleScript", "da/dab/a25627.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
+    [ "PrepareSpellScript", "da/dab/a25627.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
+    [ "Register", "da/dab/a25627.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
+    [ "Validate", "da/dab/a25627.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
 ];

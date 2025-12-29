@@ -1,9 +1,8 @@
 var a21055 =
 [
-    [ "boss_yoggsaron_keeper", "d9/daf/a21055.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d9/daf/a21055.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d9/daf/a21055.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d9/daf/a21055.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d9/daf/a21055.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d9/daf/a21055.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "d9/daf/a21055.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
+    [ "DamageTaken", "d9/daf/a21055.html#ac2458922b2530929ee1adbcc0da834a0", null ],
+    [ "DoAction", "d9/daf/a21055.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
+    [ "Reset", "d9/daf/a21055.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
+    [ "UpdateAI", "d9/daf/a21055.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
 ];

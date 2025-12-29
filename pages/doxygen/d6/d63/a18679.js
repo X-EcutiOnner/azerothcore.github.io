@@ -1,6 +1,8 @@
 var a18679 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d8/dd3/a18683.html", "d8/dd3/a18683" ],
-    [ "npc_green_dragon_combat_trigger", "d6/d63/a18679.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d6/d63/a18679.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_lk_wicked_spiritAI", "d6/d63/a18679.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d6/d63/a18679.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d6/d63/a18679.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d6/d63/a18679.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d6/d63/a18679.html#a8b15079251b6855679d738a342126006", null ]
 ];

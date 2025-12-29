@@ -1,6 +1,6 @@
 var a19879 =
 [
-    [ "npc_collapsing_starAI", "d0/d13/a19883.html", "d0/d13/a19883" ],
-    [ "npc_collapsing_star", "da/d9b/a19879.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "da/d9b/a19879.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "boss_algalon_the_observerAI", "d0/d13/a19883.html", "d0/d13/a19883" ],
+    [ "boss_algalon_the_observer", "da/d9b/a19879.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "da/d9b/a19879.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

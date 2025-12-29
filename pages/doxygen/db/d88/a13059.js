@@ -1,5 +1,8 @@
 var a13059 =
 [
-    [ "boss_warlord_salaris", "db/d88/a13059.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "db/d88/a13059.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "npc_barnesAI", "db/d12/a13063.html", "db/d12/a13063" ],
+    [ "npc_barnes", "db/d88/a13059.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "db/d88/a13059.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "db/d88/a13059.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "db/d88/a13059.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

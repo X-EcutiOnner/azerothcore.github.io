@@ -1,6 +1,5 @@
 var a25895 =
 [
-    [ "CheckProc", "db/d47/a25895.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "db/d47/a25895.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "db/d47/a25895.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "PrepareSpellScript", "db/d47/a25895.html#a065d81d698c978bcdd234712807e9098", null ],
+    [ "Register", "db/d47/a25895.html#a3efcd145189b27272495110c799cf14f", null ]
 ];

@@ -1,7 +1,6 @@
 var a24591 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d9/d50/a24591.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d9/d50/a24591.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d9/d50/a24591.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d9/d50/a24591.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d9/d50/a24591.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "d9/d50/a24591.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "d9/d50/a24591.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

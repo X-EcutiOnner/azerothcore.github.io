@@ -1,12 +1,8 @@
 var a09207 =
 [
-    [ "GridTerrainLoader", "d9/da8/a09207.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "d9/da8/a09207.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "d9/da8/a09207.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "d9/da8/a09207.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "d9/da8/a09207.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "d9/da8/a09207.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "d9/da8/a09207.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "d9/da8/a09207.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "d9/da8/a09207.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "V8Type", "d9/da8/a09207.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
+    [ "V9Type", "d9/da8/a09207.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
+    [ "gridIntHeightMultiplier", "d9/da8/a09207.html#a626b7ad6821722d17bab6e21db618615", null ],
+    [ "v8", "d9/da8/a09207.html#a8b352fc11c1e705277f8d81b512e3103", null ],
+    [ "v9", "d9/da8/a09207.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
 ];

@@ -1,8 +1,7 @@
 var a22523 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "db/d93/a22523.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "db/d93/a22523.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "db/d93/a22523.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "db/d93/a22523.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "db/d93/a22523.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "HandleOnEffectHit", "db/d93/a22523.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "db/d93/a22523.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "db/d93/a22523.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "db/d93/a22523.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

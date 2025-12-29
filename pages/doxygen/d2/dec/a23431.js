@@ -1,6 +1,6 @@
 var a23431 =
 [
-    [ "FilterTargets", "d2/dec/a23431.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d2/dec/a23431.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d2/dec/a23431.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "OnPeriodic", "d2/dec/a23431.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "d2/dec/a23431.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "d2/dec/a23431.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

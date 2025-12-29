@@ -1,4 +1,7 @@
 var a28619 =
 [
-    [ "Id", "d5/d75/a28619.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "EpicPropertiesPoints", "d5/d75/a28619.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d5/d75/a28619.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d5/d75/a28619.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d5/d75/a28619.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

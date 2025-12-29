@@ -1,6 +1,6 @@
 var a12955 =
 [
-    [ "npc_grandmother", "de/d65/a12955.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "de/d65/a12955.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "de/d65/a12955.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "HandleCast", "de/d65/a12955.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "de/d65/a12955.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "de/d65/a12955.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

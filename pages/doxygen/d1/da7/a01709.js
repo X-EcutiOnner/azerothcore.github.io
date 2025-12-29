@@ -1,6 +1,6 @@
 var a01709 =
 [
-    [ "EncryptableAndCompressiblePacket", "d6/de4/a11230.html", "d6/de4/a11230" ],
-    [ "ClientPktHeader", "d8/de4/a11234.html", "d8/de4/a11234" ],
-    [ "WorldSocket", "d9/d62/a11238.html", "d9/d62/a11238" ]
+    [ "AuthSession", "d9/d52/a05731.html", "d9/d52/a05731" ],
+    [ "AccountInfo", "d5/da4/a05727.html", "d5/da4/a05727" ],
+    [ "compressBuff", "d1/da7/a01709.html#a3ec87fe2f43cce4ee6bfb90744e72a0d", null ]
 ];

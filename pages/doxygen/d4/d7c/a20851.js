@@ -1,6 +1,8 @@
 var a20851 =
 [
-    [ "boss_thorim_runic_colossusAI", "d0/deb/a20855.html", "d0/deb/a20855" ],
-    [ "boss_thorim_runic_colossus", "d4/d7c/a20851.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
-    [ "GetAI", "d4/d7c/a20851.html#a6d64427ff427a1054e10c9d987b77f53", null ]
+    [ "boss_thorim_pillarAI", "d4/d7c/a20851.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "d4/d7c/a20851.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "d4/d7c/a20851.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "d4/d7c/a20851.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "d4/d7c/a20851.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

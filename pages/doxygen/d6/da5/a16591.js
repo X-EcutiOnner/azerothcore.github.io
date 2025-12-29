@@ -1,7 +1,6 @@
 var a16591 =
 [
-    [ "HandleAfterHit", "d6/da5/a16591.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d6/da5/a16591.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d6/da5/a16591.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d6/da5/a16591.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "HideNpcEvent", "d6/da5/a16591.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "d6/da5/a16591.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "d6/da5/a16591.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

@@ -1,6 +1,6 @@
 var a24699 =
 [
-    [ "PrepareSpellScript", "d9/d41/a24699.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "d9/d41/a24699.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "d9/d41/a24699.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "FilterTargets", "d9/d41/a24699.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d9/d41/a24699.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d9/d41/a24699.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

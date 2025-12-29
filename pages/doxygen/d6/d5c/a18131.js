@@ -1,6 +1,7 @@
 var a18131 =
 [
-    [ "HandleScript", "d6/d5c/a18131.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d6/d5c/a18131.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d6/d5c/a18131.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "HandleTriggerSpell", "d6/d5c/a18131.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d6/d5c/a18131.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d6/d5c/a18131.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d6/d5c/a18131.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

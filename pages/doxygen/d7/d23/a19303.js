@@ -1,6 +1,6 @@
 var a19303 =
 [
-    [ "boss_loathebAI", "dc/d37/a19307.html", "dc/d37/a19307" ],
-    [ "boss_loatheb", "d7/d23/a19303.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d7/d23/a19303.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "FilterTargets", "d7/d23/a19303.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d7/d23/a19303.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d7/d23/a19303.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

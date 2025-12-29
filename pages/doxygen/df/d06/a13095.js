@@ -1,7 +1,6 @@
 var a13095 =
 [
-    [ "HandleScriptEffect", "df/d06/a13095.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "df/d06/a13095.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "df/d06/a13095.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "df/d06/a13095.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "HandleAfterCast", "df/d06/a13095.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "df/d06/a13095.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "df/d06/a13095.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

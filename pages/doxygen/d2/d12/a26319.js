@@ -1,6 +1,10 @@
 var a26319 =
 [
-    [ "CheckProc", "d2/d12/a26319.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "d2/d12/a26319.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "d2/d12/a26319.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "AfterCheckProc", "d2/d12/a26319.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "d2/d12/a26319.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d2/d12/a26319.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d2/d12/a26319.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d2/d12/a26319.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "d2/d12/a26319.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "d2/d12/a26319.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

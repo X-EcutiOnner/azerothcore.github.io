@@ -1,10 +1,10 @@
 var a13843 =
 [
-    [ "npc_grand_magister_rommathAI", "de/de8/a13843.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "de/de8/a13843.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "de/de8/a13843.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "de/de8/a13843.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "de/de8/a13843.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "de/de8/a13843.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "de/de8/a13843.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_sentinel_leader", "de/de8/a13843.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "de/de8/a13843.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "de/de8/a13843.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "de/de8/a13843.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "de/de8/a13843.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "de/de8/a13843.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "de/de8/a13843.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

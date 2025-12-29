@@ -1,6 +1,10 @@
 var a09083 =
 [
-    [ "lang_id", "d4/d76/a09083.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "d4/d76/a09083.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "d4/d76/a09083.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "Flags", "d4/d76/a09083.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d4/d76/a09083.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d4/d76/a09083.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d4/d76/a09083.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d4/d76/a09083.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d4/d76/a09083.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d4/d76/a09083.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

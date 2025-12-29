@@ -1,7 +1,6 @@
 var a22887 =
 [
-    [ "npc_voidtraveler", "de/dea/a22887.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "de/dea/a22887.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "de/dea/a22887.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "de/dea/a22887.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d8/d51/a22891.html", "d8/d51/a22891" ],
+    [ "instance_sethekk_halls", "de/dea/a22887.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "de/dea/a22887.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

@@ -1,7 +1,7 @@
 var a23967 =
 [
-    [ "boss_warp_splinter", "d1/ddc/a23967.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d1/ddc/a23967.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d1/ddc/a23967.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d1/ddc/a23967.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "HandleCast", "d1/ddc/a23967.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d1/ddc/a23967.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d1/ddc/a23967.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d1/ddc/a23967.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

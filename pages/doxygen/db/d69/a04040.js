@@ -1,8 +1,6 @@
 var a04040 =
 [
-    [ "TransactionBase", "db/da7/a05911.html", "db/da7/a05911" ],
-    [ "Transaction< T >", "d5/da4/a05727.html", "d5/da4/a05727" ],
-    [ "TransactionTask", "d1/d77/a05915.html", "d1/d77/a05915" ],
-    [ "TransactionWithResultTask", "da/dc6/a05919.html", "da/dc6/a05919" ],
-    [ "TransactionCallback", "d2/dde/a05923.html", "d2/dde/a05923" ]
+    [ "GetLibraryVersion", "db/d69/a04040.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "db/d69/a04040.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "db/d69/a04040.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

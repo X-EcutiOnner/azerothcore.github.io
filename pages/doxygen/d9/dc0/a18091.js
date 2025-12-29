@@ -1,7 +1,6 @@
 var a18091 =
 [
-    [ "HandleTriggerSpell", "d9/dc0/a18091.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d9/dc0/a18091.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d9/dc0/a18091.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d9/dc0/a18091.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "MalleableGooSelector", "d9/dc0/a18091.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d9/dc0/a18091.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d9/dc0/a18091.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

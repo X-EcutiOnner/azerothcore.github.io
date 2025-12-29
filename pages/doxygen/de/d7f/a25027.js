@@ -1,6 +1,6 @@
 var a25027 =
 [
-    [ "PrepareSpellScript", "de/d7f/a25027.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "de/d7f/a25027.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "de/d7f/a25027.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "CheckProc", "de/d7f/a25027.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "de/d7f/a25027.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "de/d7f/a25027.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

@@ -1,8 +1,9 @@
 var a27103 =
 [
-    [ "Load", "dc/d10/a27103.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "dc/d10/a27103.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "dc/d10/a27103.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "dc/d10/a27103.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "dc/d10/a27103.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "CheckCast", "dc/d10/a27103.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "dc/d10/a27103.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "dc/d10/a27103.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "dc/d10/a27103.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "dc/d10/a27103.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "dc/d10/a27103.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

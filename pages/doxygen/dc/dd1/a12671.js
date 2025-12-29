@@ -1,7 +1,10 @@
 var a12671 =
 [
-    [ "HandleScript", "dc/dd1/a12671.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "dc/dd1/a12671.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "dc/dd1/a12671.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "dc/dd1/a12671.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_golemaggAI", "dc/dd1/a12671.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "dc/dd1/a12671.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "dc/dd1/a12671.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "dc/dd1/a12671.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "dc/dd1/a12671.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "dc/dd1/a12671.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "dc/dd1/a12671.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

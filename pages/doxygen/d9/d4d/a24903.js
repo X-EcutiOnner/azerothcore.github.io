@@ -1,7 +1,6 @@
 var a24903 =
 [
-    [ "HandleScriptEffect", "d9/d4d/a24903.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "d9/d4d/a24903.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "d9/d4d/a24903.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "d9/d4d/a24903.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "CheckProc", "d9/d4d/a24903.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "PrepareAuraScript", "d9/d4d/a24903.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "d9/d4d/a24903.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ]
 ];

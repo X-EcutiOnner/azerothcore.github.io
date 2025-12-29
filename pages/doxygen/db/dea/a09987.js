@@ -1,14 +1,10 @@
 var a09987 =
 [
-    [ "~MovementGenerator", "db/dea/a09987.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "db/dea/a09987.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "db/dea/a09987.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "db/dea/a09987.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "db/dea/a09987.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "db/dea/a09987.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "db/dea/a09987.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "db/dea/a09987.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "db/dea/a09987.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "db/dea/a09987.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "db/dea/a09987.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "CreateWorldPacket", "db/dea/a09987.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "db/dea/a09987.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "db/dea/a09987.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "db/dea/a09987.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "db/dea/a09987.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "db/dea/a09987.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "db/dea/a09987.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

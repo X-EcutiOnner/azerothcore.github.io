@@ -1,11 +1,11 @@
 var a14551 =
 [
-    [ "o", "d2/d1d/a14551.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "d2/d1d/a14551.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "d2/d1d/a14551.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "d2/d1d/a14551.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "d2/d1d/a14551.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "d2/d1d/a14551.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "d2/d1d/a14551.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "d2/d1d/a14551.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "npc_elder_kekek", "d2/d1d/a14551.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "d2/d1d/a14551.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "d2/d1d/a14551.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "d2/d1d/a14551.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "d2/d1d/a14551.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "d2/d1d/a14551.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "d2/d1d/a14551.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "d2/d1d/a14551.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

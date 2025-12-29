@@ -1,7 +1,9 @@
 var a29019 =
 [
-    [ "walkableClimb", "da/ddf/a29019.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
-    [ "walkableHeight", "da/ddf/a29019.html#a32f39a07562c47be0a311d7959678044", null ],
-    [ "walkableRadius", "da/ddf/a29019.html#a6e708a591e7b5597e129a653e1379a1e", null ],
-    [ "walkableSlopeAngle", "da/ddf/a29019.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
+    [ "adtData", "db/d48/a29027.html", "db/d48/a29027" ],
+    [ "prepareLoadedData", "da/ddf/a29019.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "da/ddf/a29019.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "da/ddf/a29019.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "da/ddf/a29019.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "da/ddf/a29019.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

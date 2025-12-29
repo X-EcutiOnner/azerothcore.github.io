@@ -1,6 +1,7 @@
 var a17595 =
 [
-    [ "FilterTargets", "d0/db2/a17595.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d0/db2/a17595.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d0/db2/a17595.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "HandleDummyTick", "d0/db2/a17595.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d0/db2/a17595.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d0/db2/a17595.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d0/db2/a17595.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

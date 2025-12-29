@@ -1,7 +1,6 @@
 var a27699 =
 [
-    [ "npc_prof_leather", "d2/d46/a27699.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d2/d46/a27699.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d2/d46/a27699.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d2/d46/a27699.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "trigger_periodicAI", "d2/d77/a27703.html", "d2/d77/a27703" ],
+    [ "trigger_periodic", "d2/d46/a27699.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d2/d46/a27699.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

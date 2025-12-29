@@ -1,12 +1,9 @@
 var a18699 =
 [
-    [ "npc_risen_archmageAI", "d4/d69/a18699.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "d4/d69/a18699.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "d4/d69/a18699.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEngagedWith", "d4/d69/a18699.html#aef3a1631b4bb8d28d4056036981b0192", null ],
-    [ "JustSummoned", "d4/d69/a18699.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "d4/d69/a18699.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "d4/d69/a18699.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "d4/d69/a18699.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "d4/d69/a18699.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
+    [ "DelayedCastEvent", "d4/d69/a18699.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "d4/d69/a18699.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d4/d69/a18699.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "d4/d69/a18699.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d4/d69/a18699.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d4/d69/a18699.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

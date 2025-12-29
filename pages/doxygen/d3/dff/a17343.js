@@ -1,7 +1,9 @@
 var a17343 =
 [
-    [ "HandleEffectPeriodic", "d3/dff/a17343.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d3/dff/a17343.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d3/dff/a17343.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d3/dff/a17343.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_pos_collapsing_icicleAI", "d3/dff/a17343.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d3/dff/a17343.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d3/dff/a17343.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d3/dff/a17343.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d3/dff/a17343.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d3/dff/a17343.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

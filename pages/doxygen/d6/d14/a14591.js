@@ -1,6 +1,6 @@
 var a14591 =
 [
-    [ "HandleScript", "d6/d14/a14591.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "d6/d14/a14591.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "d6/d14/a14591.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "gameobjectId", "d6/d14/a14591.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d6/d14/a14591.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d6/d14/a14591.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

@@ -1,6 +1,8 @@
 var a10051 =
 [
-    [ "AssistanceMovementGenerator", "de/d4d/a10051.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
-    [ "Finalize", "de/d4d/a10051.html#a6fc296a5283726cca409d7df1137743d", null ],
-    [ "GetMovementGeneratorType", "de/d4d/a10051.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
+    [ "Finalize", "de/d4d/a10051.html#abf4c6547449605e703b424d8aa7f46b5", null ],
+    [ "GetMovementGeneratorType", "de/d4d/a10051.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
+    [ "Initialize", "de/d4d/a10051.html#a68c249f25ef86f2e50d69698e190ed03", null ],
+    [ "Reset", "de/d4d/a10051.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
+    [ "Update", "de/d4d/a10051.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
 ];

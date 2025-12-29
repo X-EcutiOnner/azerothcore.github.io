@@ -1,6 +1,7 @@
 var a23115 =
 [
-    [ "boss_essence_of_desireAI", "de/dfd/a23119.html", "de/dfd/a23119" ],
-    [ "boss_essence_of_desire", "d3/d96/a23115.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d3/d96/a23115.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "SuckBackEvent", "d3/d96/a23115.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d3/d96/a23115.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d3/d96/a23115.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d3/d96/a23115.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

@@ -1,6 +1,6 @@
 var a13215 =
 [
-    [ "npc_acherus_necromancerAI", "df/d91/a13219.html", "df/d91/a13219" ],
-    [ "npc_acherus_necromancer", "da/dad/a13215.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "da/dad/a13215.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "HandleScriptEffect", "da/dad/a13215.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "da/dad/a13215.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "da/dad/a13215.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

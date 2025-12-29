@@ -1,6 +1,6 @@
 var a16843 =
 [
-    [ "HandleEffectPeriodic", "d5/d1f/a16843.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d5/d1f/a16843.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d5/d1f/a16843.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "boss_dreadscaleAI", "d1/da3/a16847.html", "d1/da3/a16847" ],
+    [ "boss_dreadscale", "d5/d1f/a16843.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "d5/d1f/a16843.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

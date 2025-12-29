@@ -1,6 +1,6 @@
 var a16763 =
 [
-    [ "npc_snobold_vassalAI", "d4/dcb/a16767.html", "d4/dcb/a16767" ],
-    [ "npc_snobold_vassal", "d0/d46/a16763.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "d0/d46/a16763.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "npc_toc_pet_warlockAI", "d4/dcb/a16767.html", "d4/dcb/a16767" ],
+    [ "npc_toc_pet_warlock", "d0/d46/a16763.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d0/d46/a16763.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

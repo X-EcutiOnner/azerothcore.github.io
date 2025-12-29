@@ -1,10 +1,11 @@
 var a14043 =
 [
-    [ "boss_alyson_antille", "d6/d2a/a14043.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d6/d2a/a14043.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d6/d2a/a14043.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d6/d2a/a14043.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d6/d2a/a14043.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d6/d2a/a14043.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d6/d2a/a14043.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_tapoke_slim_jahnAI", "d6/d2a/a14043.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "d6/d2a/a14043.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "d6/d2a/a14043.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "d6/d2a/a14043.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "d6/d2a/a14043.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "d6/d2a/a14043.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "d6/d2a/a14043.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "d6/d2a/a14043.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

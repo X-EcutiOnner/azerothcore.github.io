@@ -1,7 +1,7 @@
 var a16727 =
 [
-    [ "HandleDispel", "d3/d1e/a16727.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d3/d1e/a16727.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d3/d1e/a16727.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d3/d1e/a16727.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_warriorAI", "d3/d1e/a16727.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d3/d1e/a16727.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d3/d1e/a16727.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d3/d1e/a16727.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

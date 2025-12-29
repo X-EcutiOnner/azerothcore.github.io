@@ -1,7 +1,7 @@
 var a16363 =
 [
-    [ "OnApply", "d8/d62/a16363.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d8/d62/a16363.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d8/d62/a16363.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d8/d62/a16363.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "npc_orb_carrierAI", "d8/d62/a16363.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d8/d62/a16363.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d8/d62/a16363.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d8/d62/a16363.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

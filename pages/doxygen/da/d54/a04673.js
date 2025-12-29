@@ -1,5 +1,9 @@
 var a04673 =
 [
-    [ "EventMap", "dc/d79/a05522.html", "dc/d79/a05522" ],
-    [ "EventMap::Event", "d0/d22/a05526.html", "d0/d22/a05526" ]
+    [ "localtime_r", "da/d54/a04673.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
+    [ "DAYS", "da/d54/a04673.html#ac9bde42940b2570f3865385200b56af8", null ],
+    [ "HOURS", "da/d54/a04673.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
+    [ "MILLISECONDS", "da/d54/a04673.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
+    [ "MINUTES", "da/d54/a04673.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
+    [ "SECONDS", "da/d54/a04673.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
 ];

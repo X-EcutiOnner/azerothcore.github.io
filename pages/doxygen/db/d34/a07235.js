@@ -1,12 +1,23 @@
 var a07235 =
 [
-    [ "damageText", "db/d34/a07235.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "db/d34/a07235.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "db/d34/a07235.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "db/d34/a07235.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "db/d34/a07235.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "db/d34/a07235.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "db/d34/a07235.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "db/d34/a07235.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "db/d34/a07235.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "BattlefieldMap", "db/d34/a07235.html#aea781a60967fbc877bd1593628cdf32d", null ],
+    [ "BattlefieldSet", "db/d34/a07235.html#a440a0f37414815a060e23ac6b79ca3c5", null ],
+    [ "BattlefieldMgr", "db/d34/a07235.html#afaa79f63a91c6b585b4bf10dfdf60af6", null ],
+    [ "~BattlefieldMgr", "db/d34/a07235.html#a0d5b198add5190e99a1763a168ce2895", null ],
+    [ "AddZone", "db/d34/a07235.html#a03b1d0ef9c969283fbf9ce80842ad33c", null ],
+    [ "CanTalkTo", "db/d34/a07235.html#a18fdd3c81b5641e296318f1113acf73f", null ],
+    [ "GetBattlefieldByBattleId", "db/d34/a07235.html#ab99d360162cf61dfc8d53df42127fb07", null ],
+    [ "GetBattlefieldToZoneId", "db/d34/a07235.html#aad6dcd56b45aeb2095c0c9033ae9f691", null ],
+    [ "GetZoneScript", "db/d34/a07235.html#accd1dc8e86bc9ab5618483e609b9314d", null ],
+    [ "HandleDropFlag", "db/d34/a07235.html#a19b23ca8dc68ceaaca9078a33b62b70e", null ],
+    [ "HandleGossipOption", "db/d34/a07235.html#aa54e25c2f1ad982f0a9a57e99fd994f9", null ],
+    [ "HandlePlayerEnterZone", "db/d34/a07235.html#a733f42fdc343d070220e8c56f24fe4ac", null ],
+    [ "HandlePlayerLeaveZone", "db/d34/a07235.html#a89aa3d5d27fe61a13e381f13c599de90", null ],
+    [ "HandlePlayerResurrects", "db/d34/a07235.html#a458fb8b4943de82f0574ddd63ba466a9", null ],
+    [ "InitBattlefield", "db/d34/a07235.html#a244ce1743c237e95c08dc8861f3ce4b3", null ],
+    [ "instance", "db/d34/a07235.html#af96d6d44aa8936f94c20d1bd92af2fb3", null ],
+    [ "Update", "db/d34/a07235.html#a15548a7b124741e2fa9f36f1bf087458", null ],
+    [ "m_BattlefieldMap", "db/d34/a07235.html#a364a78eb7a4b44bbd24188647d3a4f4e", null ],
+    [ "m_BattlefieldSet", "db/d34/a07235.html#a0ca3259d6262b725ee46c5d29f375585", null ],
+    [ "m_UpdateTimer", "db/d34/a07235.html#a4818f48ea741ae5b6b588eed9719d0ec", null ]
 ];

@@ -1,5 +1,5 @@
 var a03221 =
 [
-    [ "player_settings_commandscript", "da/d8a/a11946.html", "da/d8a/a11946" ],
-    [ "AddSC_player_settings_commandscript", "d1/da3/a03221.html#a366685affd5565d164c65f8cd4a20b61", null ]
+    [ "disable_commandscript", "d7/db9/a11879.html", "d7/db9/a11879" ],
+    [ "AddSC_disable_commandscript", "d1/da3/a03221.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
 ];

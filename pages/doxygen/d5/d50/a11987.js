@@ -1,5 +1,6 @@
 var a11987 =
 [
-    [ "npcEntry", "d5/d50/a11987.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
-    [ "spellId", "d5/d50/a11987.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
+    [ "player_settings_commandscript", "d5/d50/a11987.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d5/d50/a11987.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d5/d50/a11987.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

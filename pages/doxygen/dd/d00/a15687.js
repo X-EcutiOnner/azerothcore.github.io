@@ -1,6 +1,11 @@
 var a15687 =
 [
-    [ "npcs_riverbreeze_and_silversky", "dd/d00/a15687.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "dd/d00/a15687.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "dd/d00/a15687.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_tiger_matriarchAI", "dd/d00/a15687.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "dd/d00/a15687.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "dd/d00/a15687.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "dd/d00/a15687.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "dd/d00/a15687.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "dd/d00/a15687.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "dd/d00/a15687.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "dd/d00/a15687.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

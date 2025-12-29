@@ -1,13 +1,8 @@
 var a18807 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d0/ddd/a18807.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d0/ddd/a18807.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d0/ddd/a18807.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d0/ddd/a18807.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d0/ddd/a18807.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d0/ddd/a18807.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d0/ddd/a18807.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d0/ddd/a18807.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d0/ddd/a18807.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d0/ddd/a18807.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "DecayPeriodicTimer", "d0/ddd/a18807.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d0/ddd/a18807.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d0/ddd/a18807.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d0/ddd/a18807.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d0/ddd/a18807.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

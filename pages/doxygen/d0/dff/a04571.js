@@ -1,6 +1,4 @@
 var a04571 =
 [
-    [ "GetDefaultNetmaskV4", "d0/dff/a04571.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
-    [ "IsInNetwork", "d0/dff/a04571.html#af108d05a57113d16ab9c8f3b26870be2", null ],
-    [ "IsInNetwork", "d0/dff/a04571.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
+    [ "Acore::Asio::Strand", "d2/d77/a04939.html", "d2/d77/a04939" ]
 ];

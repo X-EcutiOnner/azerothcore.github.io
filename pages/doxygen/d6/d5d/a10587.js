@@ -1,7 +1,5 @@
 var a10587 =
 [
-    [ "Emote", "d6/d5d/a10587.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d6/d5d/a10587.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d6/d5d/a10587.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d6/d5d/a10587.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "LogoutComplete", "d6/d5d/a10587.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d6/d5d/a10587.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

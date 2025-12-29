@@ -1,7 +1,6 @@
 var a16331 =
 [
-    [ "HandlePeriodic", "d7/d1a/a16331.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d7/d1a/a16331.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d7/d1a/a16331.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d7/d1a/a16331.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "SendEncounterUnit", "d7/d1a/a16331.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d7/d1a/a16331.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d7/d1a/a16331.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

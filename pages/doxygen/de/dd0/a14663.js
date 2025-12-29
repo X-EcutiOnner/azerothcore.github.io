@@ -1,7 +1,10 @@
 var a14663 =
 [
-    [ "OnApply", "de/dd0/a14663.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "de/dd0/a14663.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "de/dd0/a14663.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "de/dd0/a14663.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "boss_headless_horseman_pumpkin", "de/dd0/a14663.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "de/dd0/a14663.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "de/dd0/a14663.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "de/dd0/a14663.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "de/dd0/a14663.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "de/dd0/a14663.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "de/dd0/a14663.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

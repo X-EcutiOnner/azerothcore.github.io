@@ -1,11 +1,10 @@
 var a07395 =
 [
-    [ "BattlegroundABScore", "d1/d27/a07395.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "d1/d27/a07395.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "d1/d27/a07395.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "d1/d27/a07395.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "d1/d27/a07395.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "d1/d27/a07395.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "d1/d27/a07395.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "d1/d27/a07395.html#a450504481d335230b3e035d4337694be", null ]
+    [ "SelectionPool", "d1/d27/a07395.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d1/d27/a07395.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d1/d27/a07395.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d1/d27/a07395.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d1/d27/a07395.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d1/d27/a07395.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d1/d27/a07395.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

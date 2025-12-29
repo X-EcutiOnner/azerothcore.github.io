@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/CoilfangReservoir/SteamVault/boss_mekgineer_steamrigger.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/CoilfangReservoir/SteamVault/boss_hydromancer_thespia.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d1/d39/a02048.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">boss_mekgineer_steamrigger.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">boss_hydromancer_thespia.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
@@ -119,122 +119,100 @@ $(document).ready(function(){initNavTree('d1/d39/a02048.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d04/a23558.html">boss_mekgineer_steamrigger</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a23591.html">boss_hydromancer_thespia</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a4766bad7859befee09dc2ce208e1c4dd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dd">MekgineerSteamrigger</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba">SAY_MECHANICS</a> = 0
+<tr class="memitem:a3f4b673ff8add0ad1c96080f6252130d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130d">HydromancerThespia</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf">SAY_SUMMON</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 1
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75">SAY_SLAY</a> = 2
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75">SAY_SLAY</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 3
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671">SAY_DEAD</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd">SPELL_SUPER_SHRINK_RAY</a> = 31485
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2">SAY_SPELL</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58">SPELL_SAW_BLADE</a> = 31486
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2">SPELL_LIGHTNING_CLOUD</a> = 25033
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a">SPELL_ELECTRIFIED_NET</a> = 35107
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6">SPELL_LUNG_BURST</a> = 31481
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e">SPELL_ENRAGE</a> = 26662
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01">SPELL_SUMMON_MECHANICS_1</a> = 31528
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1">SPELL_SUMMON_MECHANICS_2</a> = 31529
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c">SPELL_SUMMON_MECHANICS_3</a> = 31530
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e">NPC_STREAMRIGGER_MECHANIC</a> = 17951
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92">SPELL_ENVELOPING_WINDS</a> = 31718
 <br />
  }</td></tr>
-<tr class="separator:a4766bad7859befee09dc2ce208e1c4dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a3f4b673ff8add0ad1c96080f6252130d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a9aa3518f4196a7c844ab6ffafbc91068"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a9aa3518f4196a7c844ab6ffafbc91068">AddSC_boss_mekgineer_steamrigger</a> ()</td></tr>
-<tr class="separator:a9aa3518f4196a7c844ab6ffafbc91068"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a9bb9014bd5526d13141dcef207c234"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a0a9bb9014bd5526d13141dcef207c234">AddSC_boss_hydromancer_thespia</a> ()</td></tr>
+<tr class="separator:a0a9bb9014bd5526d13141dcef207c234"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a4766bad7859befee09dc2ce208e1c4dd" name="a4766bad7859befee09dc2ce208e1c4dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4766bad7859befee09dc2ce208e1c4dd">&#9670;&#160;</a></span>MekgineerSteamrigger</h2>
+<a id="a3f4b673ff8add0ad1c96080f6252130d" name="a3f4b673ff8add0ad1c96080f6252130d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f4b673ff8add0ad1c96080f6252130d">&#9670;&#160;</a></span>HydromancerThespia</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dd">MekgineerSteamrigger</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130d">HydromancerThespia</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba" name="a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba"></a>SAY_MECHANICS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe" name="a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75" name="a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75"></a>SAY_SLAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e" name="a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd" name="a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd"></a>SPELL_SUPER_SHRINK_RAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58" name="a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58"></a>SPELL_SAW_BLADE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a" name="a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a"></a>SPELL_ELECTRIFIED_NET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e" name="a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e"></a>SPELL_ENRAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01" name="a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01"></a>SPELL_SUMMON_MECHANICS_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1" name="a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1"></a>SPELL_SUMMON_MECHANICS_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c" name="a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c"></a>SPELL_SUMMON_MECHANICS_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e" name="a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e"></a>NPC_STREAMRIGGER_MECHANIC&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf" name="a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf"></a>SAY_SUMMON&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe" name="a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75" name="a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75"></a>SAY_SLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671" name="a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671"></a>SAY_DEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2" name="a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2"></a>SAY_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2" name="a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2"></a>SPELL_LIGHTNING_CLOUD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6" name="a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6"></a>SPELL_LUNG_BURST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92" name="a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92"></a>SPELL_ENVELOPING_WINDS&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba">SAY_MECHANICS</a>               = 0,</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>                   = 1,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75">SAY_SLAY</a>                    = 2,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a>                   = 3,</div>
-<div class="line"><span class="lineno">   28</span> </div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd">SPELL_SUPER_SHRINK_RAY</a>      = 31485,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58">SPELL_SAW_BLADE</a>             = 31486,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a">SPELL_ELECTRIFIED_NET</a>       = 35107,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e">SPELL_ENRAGE</a>                = 26662,</div>
-<div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01">SPELL_SUMMON_MECHANICS_1</a>    = 31528,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1">SPELL_SUMMON_MECHANICS_2</a>    = 31529,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c">SPELL_SUMMON_MECHANICS_3</a>    = 31530,</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e">NPC_STREAMRIGGER_MECHANIC</a>   = 17951</div>
-<div class="line"><span class="lineno">   39</span>};</div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a></div><div class="ttdeci">@ SAY_DEATH</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:27</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e">SPELL_ENRAGE</a></div><div class="ttdeci">@ SPELL_ENRAGE</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:32</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd">SPELL_SUPER_SHRINK_RAY</a></div><div class="ttdeci">@ SPELL_SUPER_SHRINK_RAY</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:29</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:25</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01">SPELL_SUMMON_MECHANICS_1</a></div><div class="ttdeci">@ SPELL_SUMMON_MECHANICS_1</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:34</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c">SPELL_SUMMON_MECHANICS_3</a></div><div class="ttdeci">@ SPELL_SUMMON_MECHANICS_3</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:36</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e">NPC_STREAMRIGGER_MECHANIC</a></div><div class="ttdeci">@ NPC_STREAMRIGGER_MECHANIC</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:38</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a">SPELL_ELECTRIFIED_NET</a></div><div class="ttdeci">@ SPELL_ELECTRIFIED_NET</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:31</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75">SAY_SLAY</a></div><div class="ttdeci">@ SAY_SLAY</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:26</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58">SPELL_SAW_BLADE</a></div><div class="ttdeci">@ SPELL_SAW_BLADE</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:30</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba">SAY_MECHANICS</a></div><div class="ttdeci">@ SAY_MECHANICS</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:24</div></div>
-<div class="ttc" id="aa02048_html_a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1"><div class="ttname"><a href="../../d1/d39/a02048.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1">SPELL_SUMMON_MECHANICS_2</a></div><div class="ttdeci">@ SPELL_SUMMON_MECHANICS_2</div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:35</div></div>
+<div class="line"><span class="lineno">   24</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf">SAY_SUMMON</a>                  = 0, <span class="comment">// Unused or Unknown Use</span></div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>                   = 1,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75">SAY_SLAY</a>                    = 2,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671">SAY_DEAD</a>                    = 3,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2">SAY_SPELL</a>                   = 4,</div>
+<div class="line"><span class="lineno">   29</span> </div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2">SPELL_LIGHTNING_CLOUD</a>       = 25033,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6">SPELL_LUNG_BURST</a>            = 31481,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92">SPELL_ENVELOPING_WINDS</a>      = 31718</div>
+<div class="line"><span class="lineno">   33</span>};</div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:25</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6">SPELL_LUNG_BURST</a></div><div class="ttdeci">@ SPELL_LUNG_BURST</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:31</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75">SAY_SLAY</a></div><div class="ttdeci">@ SAY_SLAY</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:26</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf">SAY_SUMMON</a></div><div class="ttdeci">@ SAY_SUMMON</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:24</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92">SPELL_ENVELOPING_WINDS</a></div><div class="ttdeci">@ SPELL_ENVELOPING_WINDS</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:32</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2">SAY_SPELL</a></div><div class="ttdeci">@ SAY_SPELL</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:28</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2">SPELL_LIGHTNING_CLOUD</a></div><div class="ttdeci">@ SPELL_LIGHTNING_CLOUD</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:30</div></div>
+<div class="ttc" id="aa02048_html_a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671"><div class="ttname"><a href="../../d1/d39/a02048.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671">SAY_DEAD</a></div><div class="ttdeci">@ SAY_DEAD</div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:27</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a9aa3518f4196a7c844ab6ffafbc91068" name="a9aa3518f4196a7c844ab6ffafbc91068"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9aa3518f4196a7c844ab6ffafbc91068">&#9670;&#160;</a></span>AddSC_boss_mekgineer_steamrigger()</h2>
+<a id="a0a9bb9014bd5526d13141dcef207c234" name="a0a9bb9014bd5526d13141dcef207c234"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a9bb9014bd5526d13141dcef207c234">&#9670;&#160;</a></span>AddSC_boss_hydromancer_thespia()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_boss_mekgineer_steamrigger </td>
+          <td class="memname">void AddSC_boss_hydromancer_thespia </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
-<div class="line"><span class="lineno">  128</span>    <a class="code hl_define" href="../../d7/d13/a02045.html#a503807dfd03f05e95a9435b32165c0af">RegisterSteamvaultCreatureAI</a>(<a class="code hl_struct" href="../../d8/d04/a23558.html">boss_mekgineer_steamrigger</a>);</div>
-<div class="line"><span class="lineno">  129</span>}</div>
-<div class="ttc" id="aa02045_html_a503807dfd03f05e95a9435b32165c0af"><div class="ttname"><a href="../../d7/d13/a02045.html#a503807dfd03f05e95a9435b32165c0af">RegisterSteamvaultCreatureAI</a></div><div class="ttdeci">#define RegisterSteamvaultCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> steam_vault.h:65</div></div>
-<div class="ttc" id="aa23558_html"><div class="ttname"><a href="../../d8/d04/a23558.html">boss_mekgineer_steamrigger</a></div><div class="ttdef"><b>Definition:</b> boss_mekgineer_steamrigger.cpp:42</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_define" href="../../d2/dea/a02057.html#a503807dfd03f05e95a9435b32165c0af">RegisterSteamvaultCreatureAI</a>(<a class="code hl_struct" href="../../d5/d8d/a23591.html">boss_hydromancer_thespia</a>);</div>
+<div class="line"><span class="lineno">   82</span>}</div>
+<div class="ttc" id="aa02057_html_a503807dfd03f05e95a9435b32165c0af"><div class="ttname"><a href="../../d2/dea/a02057.html#a503807dfd03f05e95a9435b32165c0af">RegisterSteamvaultCreatureAI</a></div><div class="ttdeci">#define RegisterSteamvaultCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> steam_vault.h:65</div></div>
+<div class="ttc" id="aa23591_html"><div class="ttname"><a href="../../d5/d8d/a23591.html">boss_hydromancer_thespia</a></div><div class="ttdef"><b>Definition:</b> boss_hydromancer_thespia.cpp:36</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00065">RegisterSteamvaultCreatureAI</a>.</p>
 
@@ -247,8 +225,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_22de0d38c781b430619603c756a2179f.html">CoilfangReservoir</a></li><li class="navelem"><a class="el" href="../../dir_c804a11c5cb2ec92995074d92081ceb0.html">SteamVault</a></li><li class="navelem"><a class="el" href="../../d1/d39/a02048.html">boss_mekgineer_steamrigger.cpp</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:48:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_22de0d38c781b430619603c756a2179f.html">CoilfangReservoir</a></li><li class="navelem"><a class="el" href="../../dir_c804a11c5cb2ec92995074d92081ceb0.html">SteamVault</a></li><li class="navelem"><a class="el" href="../../d1/d39/a02048.html">boss_hydromancer_thespia.cpp</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:50:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

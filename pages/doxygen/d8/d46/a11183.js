@@ -1,7 +1,6 @@
 var a11183 =
 [
-    [ "MapSessionFilter", "d8/d46/a11183.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d8/d46/a11183.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d8/d46/a11183.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d8/d46/a11183.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "ClientOpcodeHandler", "d5/dac/a04818.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "d5/dac/a04818.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "d5/dac/a04818.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

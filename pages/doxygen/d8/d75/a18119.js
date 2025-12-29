@@ -1,8 +1,6 @@
 var a18119 =
 [
-    [ "FilterTargets", "d8/d75/a18119.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "d8/d75/a18119.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "d8/d75/a18119.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "d8/d75/a18119.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "d8/d75/a18119.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "npc_gas_cloudAI", "d8/d75/a18119.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "d8/d75/a18119.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "d8/d75/a18119.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

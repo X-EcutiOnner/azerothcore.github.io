@@ -1,5 +1,5 @@
 var a27931 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "dc/d4e/a27931.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "dc/d4e/a27931.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_stable_masterAI", "dc/d4e/a27931.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "dc/d4e/a27931.html#a09205661674dd011ffe425deaadde053", null ]
 ];

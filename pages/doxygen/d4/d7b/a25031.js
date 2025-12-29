@@ -1,6 +1,10 @@
 var a25031 =
 [
-    [ "CalculateAmount", "d4/d7b/a25031.html#af913c896771e238ef62898f67af61cc4", null ],
-    [ "PrepareAuraScript", "d4/d7b/a25031.html#a4be139ae22c20468be1930195097d98a", null ],
-    [ "Register", "d4/d7b/a25031.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
+    [ "Load", "d4/d7b/a25031.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d4/d7b/a25031.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d4/d7b/a25031.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d4/d7b/a25031.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d4/d7b/a25031.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d4/d7b/a25031.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d4/d7b/a25031.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

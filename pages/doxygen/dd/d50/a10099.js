@@ -1,9 +1,9 @@
 var a10099 =
 [
-    [ "counter", "dd/d50/a10099.html#a0efb94229f4a9370dc5b256ba623385b", null ],
-    [ "getCurrent", "dd/d50/a10099.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
-    [ "Increase", "dd/d50/a10099.html#a463e0ba077c8398a6125e715afcd8860", null ],
-    [ "init", "dd/d50/a10099.html#a0369662be009b781174021a2eb6b3202", null ],
-    [ "NewId", "dd/d50/a10099.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
-    [ "m_counter", "dd/d50/a10099.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
+    [ "PathMovementBase", "dd/d50/a10099.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
+    [ "PathMovementBase", "dd/d50/a10099.html#a953fcda0cf7764f659fc5a4a19408550", null ],
+    [ "~PathMovementBase", "dd/d50/a10099.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
+    [ "GetCurrentNode", "dd/d50/a10099.html#a7ceb52928f2198392980c3926516fd82", null ],
+    [ "i_currentNode", "dd/d50/a10099.html#a5420aef90d3529881ef41362ebb29934", null ],
+    [ "i_path", "dd/d50/a10099.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
 ];

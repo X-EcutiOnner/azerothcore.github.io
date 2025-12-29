@@ -1,9 +1,8 @@
 var a18591 =
 [
-    [ "FilterTargets", "d6/d81/a18591.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d6/d81/a18591.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d6/d81/a18591.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d6/d81/a18591.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d6/d81/a18591.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d6/d81/a18591.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "Load", "d6/d81/a18591.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "d6/d81/a18591.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "d6/d81/a18591.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "d6/d81/a18591.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "d6/d81/a18591.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

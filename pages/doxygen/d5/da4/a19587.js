@@ -1,13 +1,15 @@
 var a19587 =
 [
-    [ "boss_drakosAI", "d5/da4/a19587.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "d5/da4/a19587.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "d5/da4/a19587.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "d5/da4/a19587.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "d5/da4/a19587.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "d5/da4/a19587.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "d5/da4/a19587.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "d5/da4/a19587.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "d5/da4/a19587.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "d5/da4/a19587.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "boss_magus_telestra", "d5/da4/a19587.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d5/da4/a19587.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d5/da4/a19587.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d5/da4/a19587.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d5/da4/a19587.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d5/da4/a19587.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d5/da4/a19587.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d5/da4/a19587.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d5/da4/a19587.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d5/da4/a19587.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d5/da4/a19587.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
+    [ "copiesDied", "d5/da4/a19587.html#a5738bf62869f9958448213b28c1bf771", null ]
 ];

@@ -1,6 +1,6 @@
 var a17139 =
 [
-    [ "npc_hor_lich_kingAI", "dc/d42/a17143.html", "dc/d42/a17143" ],
-    [ "npc_hor_lich_king", "de/d5c/a17139.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "de/d5c/a17139.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "npc_shadowy_mercenaryAI", "dc/d42/a17143.html", "dc/d42/a17143" ],
+    [ "npc_shadowy_mercenary", "de/d5c/a17139.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
+    [ "GetAI", "de/d5c/a17139.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
 ];

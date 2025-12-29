@@ -1,13 +1,9 @@
 var a19039 =
 [
-    [ "npc_icc_spire_frostwyrm", "dd/d78/a19039.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "dd/d78/a19039.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "dd/d78/a19039.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "dd/d78/a19039.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "dd/d78/a19039.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "dd/d78/a19039.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "dd/d78/a19039.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "dd/d78/a19039.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "dd/d78/a19039.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "dd/d78/a19039.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "dd/d78/a19039.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "dd/d78/a19039.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "dd/d78/a19039.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "dd/d78/a19039.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "dd/d78/a19039.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "dd/d78/a19039.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

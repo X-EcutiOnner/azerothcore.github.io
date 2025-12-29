@@ -1,8 +1,12 @@
 var a05459 =
 [
-    [ "GeneralLock", "db/d24/a05459.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "db/d24/a05459.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "db/d24/a05459.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "db/d24/a05459.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "db/d24/a05459.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "Node", "da/d34/a05463.html", "da/d34/a05463" ],
+    [ "MPSCQueueNonIntrusive", "db/d24/a05459.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "db/d24/a05459.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "db/d24/a05459.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "db/d24/a05459.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "db/d24/a05459.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "db/d24/a05459.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "db/d24/a05459.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "db/d24/a05459.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

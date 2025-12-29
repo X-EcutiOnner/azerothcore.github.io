@@ -1,13 +1,6 @@
 var a24435 =
 [
-    [ "npc_illidari_spawnAI", "da/d6e/a24435.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "da/d6e/a24435.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "da/d6e/a24435.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "da/d6e/a24435.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "da/d6e/a24435.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "da/d6e/a24435.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "da/d6e/a24435.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "da/d6e/a24435.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "da/d6e/a24435.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "da/d6e/a24435.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "npc_torloth_the_magnificentAI", "dc/dc9/a24439.html", "dc/dc9/a24439" ],
+    [ "npc_torloth_the_magnificent", "da/d6e/a24435.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "da/d6e/a24435.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

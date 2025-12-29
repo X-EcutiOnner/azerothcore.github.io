@@ -1,8 +1,9 @@
 var a27967 =
 [
-    [ "npc_cultist_engineer", "df/d50/a27967.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "df/d50/a27967.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "df/d50/a27967.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "df/d50/a27967.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "df/d50/a27967.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_herald_of_the_lich_king", "df/d50/a27967.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "df/d50/a27967.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "df/d50/a27967.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "df/d50/a27967.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "df/d50/a27967.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "df/d50/a27967.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

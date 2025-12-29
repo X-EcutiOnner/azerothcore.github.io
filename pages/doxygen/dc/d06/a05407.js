@@ -1,16 +1,19 @@
 var a05407 =
 [
-    [ "LogMessage", "dc/d06/a05407.html#a563286e5cd6518e04b3069a86cf6e972", null ],
-    [ "LogMessage", "dc/d06/a05407.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
-    [ "LogMessage", "dc/d06/a05407.html#a727fa3a719c50572711ada4e257102ab", null ],
-    [ "getTimeStr", "dc/d06/a05407.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
-    [ "getTimeStr", "dc/d06/a05407.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
-    [ "operator=", "dc/d06/a05407.html#af35b8fc183cb1848e965117497f50ab4", null ],
-    [ "Size", "dc/d06/a05407.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
-    [ "level", "dc/d06/a05407.html#a44096654072d07e506ef6414a8ce4970", null ],
-    [ "mtime", "dc/d06/a05407.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
-    [ "param1", "dc/d06/a05407.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
-    [ "prefix", "dc/d06/a05407.html#afe279a591acc9740457c3cd58d43a263", null ],
-    [ "text", "dc/d06/a05407.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
-    [ "type", "dc/d06/a05407.html#a77105c721645df5654e3c48ce00c2b5a", null ]
+    [ "Appender", "dc/d06/a05407.html#aed555d5a182fefce9bb570201e9f005f", null ],
+    [ "~Appender", "dc/d06/a05407.html#a7194b4ff5130399352c356852023004d", null ],
+    [ "_write", "dc/d06/a05407.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
+    [ "getFlags", "dc/d06/a05407.html#a57fad2f7bd4da733633051f47efd6555", null ],
+    [ "getId", "dc/d06/a05407.html#a643046505390b3988572c53051d7d4c1", null ],
+    [ "getLogLevel", "dc/d06/a05407.html#a0013fabdf34579153a2d145fdbd8009b", null ],
+    [ "getLogLevelString", "dc/d06/a05407.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
+    [ "getName", "dc/d06/a05407.html#a8414d7de4187a3deb55024278734836f", null ],
+    [ "getType", "dc/d06/a05407.html#a0efa3e131b7c130a9ece375135682ea4", null ],
+    [ "setLogLevel", "dc/d06/a05407.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
+    [ "setRealmId", "dc/d06/a05407.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
+    [ "write", "dc/d06/a05407.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
+    [ "flags", "dc/d06/a05407.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
+    [ "id", "dc/d06/a05407.html#a2cf4849307b65727645d3caf4205064f", null ],
+    [ "level", "dc/d06/a05407.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
+    [ "name", "dc/d06/a05407.html#a0d47660ee41c8816342001825f626a8b", null ]
 ];

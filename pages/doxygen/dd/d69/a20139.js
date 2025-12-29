@@ -1,6 +1,6 @@
 var a20139 =
 [
-    [ "npc_mechanoliftAI", "d7/dd2/a20143.html", "d7/dd2/a20143" ],
-    [ "npc_mechanolift", "dd/d69/a20139.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "dd/d69/a20139.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "npc_storm_beacon_spawnAI", "d7/dd2/a20143.html", "d7/dd2/a20143" ],
+    [ "npc_storm_beacon_spawn", "dd/d69/a20139.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "dd/d69/a20139.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

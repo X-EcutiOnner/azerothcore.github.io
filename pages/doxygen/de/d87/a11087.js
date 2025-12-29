@@ -1,7 +1,6 @@
 var a11087 =
 [
-    [ "TimeQueryResponse", "de/d87/a11087.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "de/d87/a11087.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "de/d87/a11087.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "de/d87/a11087.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "DismissCritter", "de/d87/a11087.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "de/d87/a11087.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "de/d87/a11087.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

@@ -1,8 +1,10 @@
 var a26103 =
 [
-    [ "HandleDummy", "d3/dd5/a26103.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
-    [ "Load", "d3/dd5/a26103.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
-    [ "PrepareSpellScript", "d3/dd5/a26103.html#a070e83b84feb418f02327240daebede7", null ],
-    [ "Register", "d3/dd5/a26103.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
-    [ "Validate", "d3/dd5/a26103.html#a48934cde38c6f3b18087267b616ff338", null ]
+    [ "CalcPeriodic", "d3/dd5/a26103.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "d3/dd5/a26103.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "d3/dd5/a26103.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "d3/dd5/a26103.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "d3/dd5/a26103.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "d3/dd5/a26103.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "d3/dd5/a26103.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

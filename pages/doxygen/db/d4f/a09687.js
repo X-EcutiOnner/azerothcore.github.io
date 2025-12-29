@@ -1,5 +1,7 @@
 var a09687 =
 [
-    [ "bossId", "db/d4f/a09687.html#af9fc7d02d16d4fb3547273428553cf05", null ],
-    [ "boundary", "db/d4f/a09687.html#a7b474c6b9225102ba08864256d07d9e6", null ]
+    [ "InstancePlayerBind", "db/d4f/a09687.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "db/d4f/a09687.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "db/d4f/a09687.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "db/d4f/a09687.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

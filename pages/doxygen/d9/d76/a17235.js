@@ -1,7 +1,7 @@
 var a17235 =
 [
-    [ "HandlePeriodicTick", "d9/d76/a17235.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d9/d76/a17235.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d9/d76/a17235.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d9/d76/a17235.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "UtherBatteredHiltEvent", "d9/d76/a17235.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d9/d76/a17235.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d9/d76/a17235.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d9/d76/a17235.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

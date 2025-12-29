@@ -1,6 +1,6 @@
 var a18571 =
 [
-    [ "npc_strangulate_vehicleAI", "da/db3/a18575.html", "da/db3/a18575" ],
-    [ "npc_strangulate_vehicle", "df/d1e/a18571.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "df/d1e/a18571.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "ModDestHeight", "df/d1e/a18571.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "df/d1e/a18571.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "df/d1e/a18571.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

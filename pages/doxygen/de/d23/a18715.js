@@ -1,11 +1,23 @@
 var a18715 =
 [
-    [ "npc_valithria_cloudAI", "de/d23/a18715.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "de/d23/a18715.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "de/d23/a18715.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "de/d23/a18715.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "de/d23/a18715.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "de/d23/a18715.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "de/d23/a18715.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "de/d23/a18715.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "boss_valithria_dreamwalkerAI", "de/d23/a18715.html#ac3637feea95738fdd9b34ee3b5a8dea4", null ],
+    [ "AttackStart", "de/d23/a18715.html#a180eb28e16672082503fa91f37dd720a", null ],
+    [ "DamageTaken", "de/d23/a18715.html#ac70447a7f7a0ac3628c0e2db11ce766d", null ],
+    [ "DoAction", "de/d23/a18715.html#a20aa23a4492739b4f171b1361a2ba53b", null ],
+    [ "GetData", "de/d23/a18715.html#a13843cdca5d222073894827db9402035", null ],
+    [ "HealReceived", "de/d23/a18715.html#a348be00901f9e6daea7868e4f9a97fda", null ],
+    [ "JustSummoned", "de/d23/a18715.html#a23f0fb75f652704a79c2530252138abb", null ],
+    [ "MoveInLineOfSight", "de/d23/a18715.html#a9dc0074d598b5432fbdc94b9bb8e012e", null ],
+    [ "Reset", "de/d23/a18715.html#a154123dc3f5463ace6d1b96a9b20576e", null ],
+    [ "SpellHit", "de/d23/a18715.html#a03d407ea24e851a95835ac92c40fa780", null ],
+    [ "SummonedCreatureDespawn", "de/d23/a18715.html#adde5d9c1a18f8dfe836925d9cb8391be", null ],
+    [ "UpdateAI", "de/d23/a18715.html#aacd9b128f978fe9c8a996cf725f05359", null ],
+    [ "_done", "de/d23/a18715.html#a4ab3dc211231f94ca371a089b9ab9461", null ],
+    [ "_events", "de/d23/a18715.html#a1a9dc9fe2969c963636d1dcd68ce2afc", null ],
+    [ "_instance", "de/d23/a18715.html#a45973c4d4e3eceda259dce148d1c9f5d", null ],
+    [ "_justDied", "de/d23/a18715.html#a10764f3e70ec8286e8af17d9b680de8b", null ],
+    [ "_missedPortals", "de/d23/a18715.html#a2a1d3d5a2662afa5826e3bc19e279c06", null ],
+    [ "_over75PercentTalkDone", "de/d23/a18715.html#a2ab09cd0b6c4c92b86314d3b324eee96", null ],
+    [ "_portalCount", "de/d23/a18715.html#ab5f5b6eec491cc063ed131bbd8bf2c3c", null ],
+    [ "_under25PercentTalkDone", "de/d23/a18715.html#a288c98af035d55bef4322f7fe91d26b9", null ]
 ];

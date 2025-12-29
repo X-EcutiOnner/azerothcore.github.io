@@ -1,10 +1,7 @@
 var a14891 =
 [
-    [ "hyjalJainaAI", "de/dc7/a14891.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "de/dc7/a14891.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "de/dc7/a14891.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "de/dc7/a14891.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "de/dc7/a14891.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "de/dc7/a14891.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "de/dc7/a14891.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "PeriodicTick", "de/dc7/a14891.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "de/dc7/a14891.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "de/dc7/a14891.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "de/dc7/a14891.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

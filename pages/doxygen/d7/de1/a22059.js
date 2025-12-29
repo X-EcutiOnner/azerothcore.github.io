@@ -1,6 +1,8 @@
 var a22059 =
 [
-    [ "npc_spiritual_insightAI", "d7/de1/a22059.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d7/de1/a22059.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d7/de1/a22059.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_q24545_vegardAI", "d7/de1/a22059.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d7/de1/a22059.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d7/de1/a22059.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d7/de1/a22059.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d7/de1/a22059.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

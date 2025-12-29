@@ -1,11 +1,10 @@
 var a28683 =
 [
-    [ "addToSpellBook", "da/d77/a28683.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "da/d77/a28683.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "da/d77/a28683.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "da/d77/a28683.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "da/d77/a28683.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "da/d77/a28683.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "da/d77/a28683.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "da/d77/a28683.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "attackSpeed", "da/d77/a28683.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "da/d77/a28683.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "da/d77/a28683.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "da/d77/a28683.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "da/d77/a28683.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "da/d77/a28683.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "da/d77/a28683.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

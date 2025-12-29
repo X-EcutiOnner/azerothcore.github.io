@@ -1,7 +1,7 @@
 var a26871 =
 [
-    [ "HandleEffect", "df/dea/a26871.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "df/dea/a26871.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "df/dea/a26871.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "df/dea/a26871.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "HandleEffectPeriodic", "df/dea/a26871.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "df/dea/a26871.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "df/dea/a26871.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "df/dea/a26871.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

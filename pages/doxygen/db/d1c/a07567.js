@@ -1,17 +1,17 @@
 var a07567 =
 [
-    [ "ChatHandler", "db/d1c/a07567.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "db/d1c/a07567.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "db/d1c/a07567.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "db/d1c/a07567.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "db/d1c/a07567.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "db/d1c/a07567.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "db/d1c/a07567.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "db/d1c/a07567.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "db/d1c/a07567.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "db/d1c/a07567.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "db/d1c/a07567.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "db/d1c/a07567.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "db/d1c/a07567.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "db/d1c/a07567.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "HasFlag", "db/d1c/a07567.html#a23315bfbd0748f82c948051697079c24", null ],
+    [ "IsModerator", "db/d1c/a07567.html#af664dc84e5a60301c4fce6fda8971062", null ],
+    [ "IsMuted", "db/d1c/a07567.html#a5d1e0f8e424033e34338940677ca054c", null ],
+    [ "IsOwner", "db/d1c/a07567.html#a4687757cb7df9778f0f5eb67714c917c", null ],
+    [ "IsOwnerGM", "db/d1c/a07567.html#ad4e1573168c91372dc4af2847d4ad454", null ],
+    [ "SetFlag", "db/d1c/a07567.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
+    [ "SetModerator", "db/d1c/a07567.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
+    [ "SetMuted", "db/d1c/a07567.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
+    [ "SetOwner", "db/d1c/a07567.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
+    [ "SetOwnerGM", "db/d1c/a07567.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
+    [ "_gmStatus", "db/d1c/a07567.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
+    [ "flags", "db/d1c/a07567.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
+    [ "player", "db/d1c/a07567.html#afba1915e2dd4109928180e33884b8412", null ],
+    [ "plrPtr", "db/d1c/a07567.html#a5c986d75e173cc42160143ae7621ab6b", null ]
 ];

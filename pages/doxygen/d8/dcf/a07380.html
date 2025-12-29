@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlegroundScore Struct Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d8/dcf/a07380.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d1/d80/a07383.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,849 +104,90 @@ $(document).ready(function(){initNavTree('d8/dcf/a07380.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
-<a href="../../df/d4b/a07377.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlegroundScore Struct Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">BattlegroundMgr Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlegroundScore.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for BattlegroundScore:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d8/dcf/a07380.png" usemap="#BattlegroundScore_map" alt=""/>
-  <map id="BattlegroundScore_map" name="BattlegroundScore_map">
-<area href="../../d3/d13/a07264.html" alt="ArenaScore" shape="rect" coords="0,56,137,80"/>
-<area href="../../dd/d53/a07392.html" alt="BattlegroundABScore" shape="rect" coords="147,56,284,80"/>
-<area href="../../d5/dbe/a07408.html" alt="BattlegroundAVScore" shape="rect" coords="294,56,431,80"/>
-<area href="../../dc/d6f/a07436.html" alt="BattlegroundEYScore" shape="rect" coords="441,56,578,80"/>
-<area href="../../d7/d19/a07464.html" alt="BattlegroundICScore" shape="rect" coords="588,56,725,80"/>
-<area href="../../df/d26/a07488.html" alt="BattlegroundSAScore" shape="rect" coords="735,56,872,80"/>
-<area href="../../de/d42/a07496.html" alt="BattlegroundWGScore" shape="rect" coords="882,56,1019,80"/>
-  </map>
-</div></div>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a769f81da2366d081d526aafec54da5e7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a769f81da2366d081d526aafec54da5e7">BattlegroundScore</a> (<a class="el" href="../../d8/d05/a08464.html">ObjectGuid</a> playerGuid)</td></tr>
-<tr class="separator:a769f81da2366d081d526aafec54da5e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ea4320ce17cb7359ea5dc9d85d87f7d"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a0ea4320ce17cb7359ea5dc9d85d87f7d">~BattlegroundScore</a> ()=default</td></tr>
-<tr class="separator:a0ea4320ce17cb7359ea5dc9d85d87f7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c819926d046f7f9ab3f0511b4b5c03f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a0c819926d046f7f9ab3f0511b4b5c03f">UpdateScore</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> type, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value)</td></tr>
-<tr class="separator:a0c819926d046f7f9ab3f0511b4b5c03f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8624cd06dba95d86e60f62675baf044c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a8624cd06dba95d86e60f62675baf044c">AppendToPacket</a> (<a class="el" href="../../d8/da5/a11164.html">WorldPacket</a> &amp;data)</td></tr>
-<tr class="separator:a8624cd06dba95d86e60f62675baf044c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add869c398158195c32be0aa2d5786d4d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#add869c398158195c32be0aa2d5786d4d">BuildObjectivesBlock</a> (<a class="el" href="../../d8/da5/a11164.html">WorldPacket</a> &amp;)=0</td></tr>
-<tr class="separator:add869c398158195c32be0aa2d5786d4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abfd85adf3977a5b9b122d89781f08d14"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#abfd85adf3977a5b9b122d89781f08d14">ToString</a> () const</td></tr>
-<tr class="separator:abfd85adf3977a5b9b122d89781f08d14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae384f32b0c73e16c56090af803be3779"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#ae384f32b0c73e16c56090af803be3779">GetKillingBlows</a> () const</td></tr>
-<tr class="separator:ae384f32b0c73e16c56090af803be3779"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96b8bb236b9e997ecc4e6fed72a8bf00"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a96b8bb236b9e997ecc4e6fed72a8bf00">GetDeaths</a> () const</td></tr>
-<tr class="separator:a96b8bb236b9e997ecc4e6fed72a8bf00"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e92af662817ddaac630db378e941ebb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a7e92af662817ddaac630db378e941ebb">GetHonorableKills</a> () const</td></tr>
-<tr class="separator:a7e92af662817ddaac630db378e941ebb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a48bd0fadfbe327307702712c991a6866"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a48bd0fadfbe327307702712c991a6866">GetBonusHonor</a> () const</td></tr>
-<tr class="separator:a48bd0fadfbe327307702712c991a6866"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c8707bff5cba6cec40bd4fed4ac1f60"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a6c8707bff5cba6cec40bd4fed4ac1f60">GetDamageDone</a> () const</td></tr>
-<tr class="separator:a6c8707bff5cba6cec40bd4fed4ac1f60"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adcf01c124ea66990fc63fee5ea3b3eeb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#adcf01c124ea66990fc63fee5ea3b3eeb">GetHealingDone</a> () const</td></tr>
-<tr class="separator:adcf01c124ea66990fc63fee5ea3b3eeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a980da19452275b2848f064410628da88"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a980da19452275b2848f064410628da88">GetAttr1</a> () const</td></tr>
-<tr class="separator:a980da19452275b2848f064410628da88"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf5bd1519df8e56a7ecfeddd1ca0218a"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#abf5bd1519df8e56a7ecfeddd1ca0218a">GetAttr2</a> () const</td></tr>
-<tr class="separator:abf5bd1519df8e56a7ecfeddd1ca0218a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a160090d244c87ebc76bbc7d8993169e7"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a160090d244c87ebc76bbc7d8993169e7">GetAttr3</a> () const</td></tr>
-<tr class="separator:a160090d244c87ebc76bbc7d8993169e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4fd369438d0715d0fae5c17eedf14b8"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#ab4fd369438d0715d0fae5c17eedf14b8">GetAttr4</a> () const</td></tr>
-<tr class="separator:ab4fd369438d0715d0fae5c17eedf14b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a63896aeb8982219273915162085b603d"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a63896aeb8982219273915162085b603d">GetAttr5</a> () const</td></tr>
-<tr class="separator:a63896aeb8982219273915162085b603d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:a2f7da4c5f4a8cb4f35f38dafa25b4e10"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d05/a08464.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10">PlayerGuid</a></td></tr>
-<tr class="separator:a2f7da4c5f4a8cb4f35f38dafa25b4e10"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a176231f2e25cdb279b04b29ac624df3d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a176231f2e25cdb279b04b29ac624df3d">KillingBlows</a> = 0</td></tr>
-<tr class="separator:a176231f2e25cdb279b04b29ac624df3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c261e2bbed00da9b7e1865aeeedb48e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a4c261e2bbed00da9b7e1865aeeedb48e">Deaths</a> = 0</td></tr>
-<tr class="separator:a4c261e2bbed00da9b7e1865aeeedb48e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb6613d7343a9b356aebc63d1e1cb585"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#aeb6613d7343a9b356aebc63d1e1cb585">HonorableKills</a> = 0</td></tr>
-<tr class="separator:aeb6613d7343a9b356aebc63d1e1cb585"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5e399ad4749489f1b8feb4f3b2d8c1e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#ae5e399ad4749489f1b8feb4f3b2d8c1e">BonusHonor</a> = 0</td></tr>
-<tr class="separator:ae5e399ad4749489f1b8feb4f3b2d8c1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9610e48d6fb67f06c008bdfe4333c21"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#af9610e48d6fb67f06c008bdfe4333c21">DamageDone</a> = 0</td></tr>
-<tr class="separator:af9610e48d6fb67f06c008bdfe4333c21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b793df338929c4129e46a6a7fb6422f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a3b793df338929c4129e46a6a7fb6422f">HealingDone</a> = 0</td></tr>
-<tr class="separator:a3b793df338929c4129e46a6a7fb6422f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:a5f488c25aa439166d145713c67e7d085"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a5f488c25aa439166d145713c67e7d085">Arena</a></td></tr>
-<tr class="separator:a5f488c25aa439166d145713c67e7d085"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c4048053f5f5cabe5bfbfdde8eded86"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a07380.html#a0c4048053f5f5cabe5bfbfdde8eded86">Battleground</a></td></tr>
-<tr class="separator:a0c4048053f5f5cabe5bfbfdde8eded86"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a769f81da2366d081d526aafec54da5e7" name="a769f81da2366d081d526aafec54da5e7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a769f81da2366d081d526aafec54da5e7">&#9670;&#160;</a></span>BattlegroundScore()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlegroundScore::BattlegroundScore </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d05/a08464.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>playerGuid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>: <a class="code hl_variable" href="../../d8/dcf/a07380.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10">PlayerGuid</a>(playerGuid) { }</div>
-<div class="ttc" id="aa07380_html_a2f7da4c5f4a8cb4f35f38dafa25b4e10"><div class="ttname"><a href="../../d8/dcf/a07380.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10">BattlegroundScore::PlayerGuid</a></div><div class="ttdeci">ObjectGuid PlayerGuid</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:113</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0ea4320ce17cb7359ea5dc9d85d87f7d" name="a0ea4320ce17cb7359ea5dc9d85d87f7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ea4320ce17cb7359ea5dc9d85d87f7d">&#9670;&#160;</a></span>~BattlegroundScore()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual BattlegroundScore::~BattlegroundScore </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8624cd06dba95d86e60f62675baf044c" name="a8624cd06dba95d86e60f62675baf044c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8624cd06dba95d86e60f62675baf044c">&#9670;&#160;</a></span>AppendToPacket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlegroundScore::AppendToPacket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/da5/a11164.html">WorldPacket</a> &amp;&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d3/d13/a07264.html#a3fe2ab34a9abc4d8c4ff863334cf2c84">ArenaScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
-<div class="line"><span class="lineno">  130</span>    data &lt;&lt; <a class="code hl_variable" href="../../d8/dcf/a07380.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10">PlayerGuid</a>;</div>
-<div class="line"><span class="lineno">  131</span> </div>
-<div class="line"><span class="lineno">  132</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d8/dcf/a07380.html#a176231f2e25cdb279b04b29ac624df3d">KillingBlows</a>);</div>
-<div class="line"><span class="lineno">  133</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d8/dcf/a07380.html#aeb6613d7343a9b356aebc63d1e1cb585">HonorableKills</a>);</div>
-<div class="line"><span class="lineno">  134</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d8/dcf/a07380.html#a4c261e2bbed00da9b7e1865aeeedb48e">Deaths</a>);</div>
-<div class="line"><span class="lineno">  135</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d8/dcf/a07380.html#ae5e399ad4749489f1b8feb4f3b2d8c1e">BonusHonor</a>);</div>
-<div class="line"><span class="lineno">  136</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d8/dcf/a07380.html#af9610e48d6fb67f06c008bdfe4333c21">DamageDone</a>);</div>
-<div class="line"><span class="lineno">  137</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d8/dcf/a07380.html#a3b793df338929c4129e46a6a7fb6422f">HealingDone</a>);</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_function" href="../../d8/dcf/a07380.html#add869c398158195c32be0aa2d5786d4d">BuildObjectivesBlock</a>(data);</div>
-<div class="line"><span class="lineno">  140</span>}</div>
-<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa07380_html_a176231f2e25cdb279b04b29ac624df3d"><div class="ttname"><a href="../../d8/dcf/a07380.html#a176231f2e25cdb279b04b29ac624df3d">BattlegroundScore::KillingBlows</a></div><div class="ttdeci">uint32 KillingBlows</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:116</div></div>
-<div class="ttc" id="aa07380_html_a3b793df338929c4129e46a6a7fb6422f"><div class="ttname"><a href="../../d8/dcf/a07380.html#a3b793df338929c4129e46a6a7fb6422f">BattlegroundScore::HealingDone</a></div><div class="ttdeci">uint32 HealingDone</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:121</div></div>
-<div class="ttc" id="aa07380_html_a4c261e2bbed00da9b7e1865aeeedb48e"><div class="ttname"><a href="../../d8/dcf/a07380.html#a4c261e2bbed00da9b7e1865aeeedb48e">BattlegroundScore::Deaths</a></div><div class="ttdeci">uint32 Deaths</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:117</div></div>
-<div class="ttc" id="aa07380_html_add869c398158195c32be0aa2d5786d4d"><div class="ttname"><a href="../../d8/dcf/a07380.html#add869c398158195c32be0aa2d5786d4d">BattlegroundScore::BuildObjectivesBlock</a></div><div class="ttdeci">virtual void BuildObjectivesBlock(WorldPacket &amp;)=0</div></div>
-<div class="ttc" id="aa07380_html_ae5e399ad4749489f1b8feb4f3b2d8c1e"><div class="ttname"><a href="../../d8/dcf/a07380.html#ae5e399ad4749489f1b8feb4f3b2d8c1e">BattlegroundScore::BonusHonor</a></div><div class="ttdeci">uint32 BonusHonor</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:119</div></div>
-<div class="ttc" id="aa07380_html_aeb6613d7343a9b356aebc63d1e1cb585"><div class="ttname"><a href="../../d8/dcf/a07380.html#aeb6613d7343a9b356aebc63d1e1cb585">BattlegroundScore::HonorableKills</a></div><div class="ttdeci">uint32 HonorableKills</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:118</div></div>
-<div class="ttc" id="aa07380_html_af9610e48d6fb67f06c008bdfe4333c21"><div class="ttname"><a href="../../d8/dcf/a07380.html#af9610e48d6fb67f06c008bdfe4333c21">BattlegroundScore::DamageDone</a></div><div class="ttdeci">uint32 DamageDone</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:120</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00119">BonusHonor</a>, <a class="el" href="../../d8/dcf/a07380.html#add869c398158195c32be0aa2d5786d4d">BuildObjectivesBlock()</a>, <a class="el" href="../../#l00120">DamageDone</a>, <a class="el" href="../../#l00117">Deaths</a>, <a class="el" href="../../#l00121">HealingDone</a>, <a class="el" href="../../#l00118">HonorableKills</a>, <a class="el" href="../../#l00116">KillingBlows</a>, and <a class="el" href="../../#l00113">PlayerGuid</a>.</p>
-
-</div>
-</div>
-<a id="add869c398158195c32be0aa2d5786d4d" name="add869c398158195c32be0aa2d5786d4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add869c398158195c32be0aa2d5786d4d">&#9670;&#160;</a></span>BuildObjectivesBlock()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void BattlegroundScore::BuildObjectivesBlock </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/da5/a11164.html">WorldPacket</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d3/d13/a07264.html#ac96461b865fc7a9ba0cdfad6ae3fa96f">ArenaScore</a>, <a class="el" href="../../dd/d53/a07392.html#a86ac6e9b19eaa7ed257f25f9f73c22cf">BattlegroundABScore</a>, <a class="el" href="../../d5/dbe/a07408.html#a99fa0ee715145176d9e36ecc39ca2e12">BattlegroundAVScore</a>, <a class="el" href="../../dc/d6f/a07436.html#a8a915f38f28ee3929c7922b9fa8f38d6">BattlegroundEYScore</a>, <a class="el" href="../../d7/d19/a07464.html#a4a10d0be9c318048feb4e76ffae9472c">BattlegroundICScore</a>, <a class="el" href="../../df/d26/a07488.html#a57bf8241b404571cda5a8e113c334eab">BattlegroundSAScore</a>, and <a class="el" href="../../de/d42/a07496.html#a804e56dbd666336d961cce2b0e4d6452">BattlegroundWGScore</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="a980da19452275b2848f064410628da88" name="a980da19452275b2848f064410628da88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a980da19452275b2848f064410628da88">&#9670;&#160;</a></span>GetAttr1()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetAttr1 </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d5/dbe/a07408.html#a3da772b4600475972574426a86670dd3">BattlegroundAVScore</a>, <a class="el" href="../../dd/d53/a07392.html#af0f066f76f4d84e844946862ae819b4f">BattlegroundABScore</a>, <a class="el" href="../../dc/d6f/a07436.html#a43d4b01a1f3c8325795d90f2a97c230c">BattlegroundEYScore</a>, <a class="el" href="../../d7/d19/a07464.html#af6c42bbd1b8f3f94fe838ce5df610a80">BattlegroundICScore</a>, <a class="el" href="../../df/d26/a07488.html#aa31cd91ede928c57cd201dba61f7f585">BattlegroundSAScore</a>, and <a class="el" href="../../de/d42/a07496.html#aab49f39d88989b153f1eb979fbbfaeb3">BattlegroundWGScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> 0; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="abf5bd1519df8e56a7ecfeddd1ca0218a" name="abf5bd1519df8e56a7ecfeddd1ca0218a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf5bd1519df8e56a7ecfeddd1ca0218a">&#9670;&#160;</a></span>GetAttr2()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetAttr2 </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d5/dbe/a07408.html#ac72f50e8959e759d0c285a61967680dd">BattlegroundAVScore</a>, <a class="el" href="../../dd/d53/a07392.html#a8ac00679dd8dfeef81f159b7a2b22027">BattlegroundABScore</a>, <a class="el" href="../../d7/d19/a07464.html#a758fa51038f232c7d65cd0168a4608c2">BattlegroundICScore</a>, <a class="el" href="../../df/d26/a07488.html#aba47bb1ec440f405bfde8513c60ae576">BattlegroundSAScore</a>, and <a class="el" href="../../de/d42/a07496.html#a191e205e08ef15cc36dabedc32614fd2">BattlegroundWGScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  108</span>{ <span class="keywordflow">return</span> 0; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a160090d244c87ebc76bbc7d8993169e7" name="a160090d244c87ebc76bbc7d8993169e7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a160090d244c87ebc76bbc7d8993169e7">&#9670;&#160;</a></span>GetAttr3()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetAttr3 </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d5/dbe/a07408.html#a57f53d5fb681683749ff95767dd17c0e">BattlegroundAVScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  109</span>{ <span class="keywordflow">return</span> 0; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab4fd369438d0715d0fae5c17eedf14b8" name="ab4fd369438d0715d0fae5c17eedf14b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4fd369438d0715d0fae5c17eedf14b8">&#9670;&#160;</a></span>GetAttr4()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetAttr4 </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d5/dbe/a07408.html#ae4cc7eb2b4bc79c0166e53567edfb205">BattlegroundAVScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  110</span>{ <span class="keywordflow">return</span> 0; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a63896aeb8982219273915162085b603d" name="a63896aeb8982219273915162085b603d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a63896aeb8982219273915162085b603d">&#9670;&#160;</a></span>GetAttr5()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetAttr5 </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d5/dbe/a07408.html#a13edee0d2da9b539eeab5d5d7a15dcc9">BattlegroundAVScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{ <span class="keywordflow">return</span> 0; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a48bd0fadfbe327307702712c991a6866" name="a48bd0fadfbe327307702712c991a6866"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a48bd0fadfbe327307702712c991a6866">&#9670;&#160;</a></span>GetBonusHonor()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetBonusHonor </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  103</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dcf/a07380.html#ae5e399ad4749489f1b8feb4f3b2d8c1e">BonusHonor</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a6c8707bff5cba6cec40bd4fed4ac1f60" name="a6c8707bff5cba6cec40bd4fed4ac1f60"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6c8707bff5cba6cec40bd4fed4ac1f60">&#9670;&#160;</a></span>GetDamageDone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetDamageDone </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dcf/a07380.html#af9610e48d6fb67f06c008bdfe4333c21">DamageDone</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a96b8bb236b9e997ecc4e6fed72a8bf00" name="a96b8bb236b9e997ecc4e6fed72a8bf00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96b8bb236b9e997ecc4e6fed72a8bf00">&#9670;&#160;</a></span>GetDeaths()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetDeaths </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dcf/a07380.html#a4c261e2bbed00da9b7e1865aeeedb48e">Deaths</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="adcf01c124ea66990fc63fee5ea3b3eeb" name="adcf01c124ea66990fc63fee5ea3b3eeb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adcf01c124ea66990fc63fee5ea3b3eeb">&#9670;&#160;</a></span>GetHealingDone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetHealingDone </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dcf/a07380.html#a3b793df338929c4129e46a6a7fb6422f">HealingDone</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7e92af662817ddaac630db378e941ebb" name="a7e92af662817ddaac630db378e941ebb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e92af662817ddaac630db378e941ebb">&#9670;&#160;</a></span>GetHonorableKills()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetHonorableKills </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dcf/a07380.html#aeb6613d7343a9b356aebc63d1e1cb585">HonorableKills</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae384f32b0c73e16c56090af803be3779" name="ae384f32b0c73e16c56090af803be3779"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae384f32b0c73e16c56090af803be3779">&#9670;&#160;</a></span>GetKillingBlows()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::GetKillingBlows </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dcf/a07380.html#a176231f2e25cdb279b04b29ac624df3d">KillingBlows</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="abfd85adf3977a5b9b122d89781f08d14" name="abfd85adf3977a5b9b122d89781f08d14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abfd85adf3977a5b9b122d89781f08d14">&#9670;&#160;</a></span>ToString()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual std::string BattlegroundScore::ToString </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d3/d13/a07264.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b">ArenaScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0c819926d046f7f9ab3f0511b4b5c03f" name="a0c819926d046f7f9ab3f0511b4b5c03f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c819926d046f7f9ab3f0511b4b5c03f">&#9670;&#160;</a></span>UpdateScore()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void BattlegroundScore::UpdateScore </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>type</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>value</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../dd/d53/a07392.html#a43aaefd97c8880cbf70381282d81f7cf">BattlegroundABScore</a>, <a class="el" href="../../d5/dbe/a07408.html#aa598cf124232e7f7a8335efe527e20e1">BattlegroundAVScore</a>, <a class="el" href="../../dc/d6f/a07436.html#afad034f453c54587b86532a37335ab18">BattlegroundEYScore</a>, <a class="el" href="../../d7/d19/a07464.html#a690ede108b8ce8dfa45a2b7457e53a3c">BattlegroundICScore</a>, <a class="el" href="../../df/d26/a07488.html#a169a2a0a51edb6564e98c4b55f3e8a3b">BattlegroundSAScore</a>, and <a class="el" href="../../de/d42/a07496.html#aa560d7f5f13dd235d43a9e3571090055">BattlegroundWGScore</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   67</span>    {</div>
-<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">   69</span>        {</div>
-<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046">SCORE_KILLING_BLOWS</a>:   <span class="comment">// Killing blows</span></div>
-<div class="line"><span class="lineno">   71</span>                <a class="code hl_variable" href="../../d8/dcf/a07380.html#a176231f2e25cdb279b04b29ac624df3d">KillingBlows</a> += value;</div>
-<div class="line"><span class="lineno">   72</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   73</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412">SCORE_DEATHS</a>:          <span class="comment">// Deaths</span></div>
-<div class="line"><span class="lineno">   74</span>                <a class="code hl_variable" href="../../d8/dcf/a07380.html#a4c261e2bbed00da9b7e1865aeeedb48e">Deaths</a> += value;</div>
-<div class="line"><span class="lineno">   75</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   76</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7">SCORE_HONORABLE_KILLS</a>: <span class="comment">// Honorable kills</span></div>
-<div class="line"><span class="lineno">   77</span>                <a class="code hl_variable" href="../../d8/dcf/a07380.html#aeb6613d7343a9b356aebc63d1e1cb585">HonorableKills</a> += value;</div>
-<div class="line"><span class="lineno">   78</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   79</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f">SCORE_BONUS_HONOR</a>:     <span class="comment">// Honor bonus</span></div>
-<div class="line"><span class="lineno">   80</span>                <a class="code hl_variable" href="../../d8/dcf/a07380.html#ae5e399ad4749489f1b8feb4f3b2d8c1e">BonusHonor</a> += value;</div>
-<div class="line"><span class="lineno">   81</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527">SCORE_DAMAGE_DONE</a>:     <span class="comment">// Damage Done</span></div>
-<div class="line"><span class="lineno">   83</span>                <a class="code hl_variable" href="../../d8/dcf/a07380.html#af9610e48d6fb67f06c008bdfe4333c21">DamageDone</a> += value;</div>
-<div class="line"><span class="lineno">   84</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   85</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2">SCORE_HEALING_DONE</a>:    <span class="comment">// Healing Done</span></div>
-<div class="line"><span class="lineno">   86</span>                <a class="code hl_variable" href="../../d8/dcf/a07380.html#a3b793df338929c4129e46a6a7fb6422f">HealingDone</a> += value;</div>
-<div class="line"><span class="lineno">   87</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">   89</span>                <a class="code hl_define" href="../../d0/da8/a04547.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;Not implemented Battleground score type!&quot;</span>);</div>
-<div class="line"><span class="lineno">   90</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   91</span>        }</div>
-<div class="line"><span class="lineno">   92</span>    }</div>
-<div class="ttc" id="aa00308_html_aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046"><div class="ttname"><a href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046">SCORE_KILLING_BLOWS</a></div><div class="ttdeci">@ SCORE_KILLING_BLOWS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:28</div></div>
-<div class="ttc" id="aa00308_html_aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f"><div class="ttname"><a href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f">SCORE_BONUS_HONOR</a></div><div class="ttdeci">@ SCORE_BONUS_HONOR</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:31</div></div>
-<div class="ttc" id="aa00308_html_aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412"><div class="ttname"><a href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412">SCORE_DEATHS</a></div><div class="ttdeci">@ SCORE_DEATHS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:29</div></div>
-<div class="ttc" id="aa00308_html_aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527"><div class="ttname"><a href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527">SCORE_DAMAGE_DONE</a></div><div class="ttdeci">@ SCORE_DAMAGE_DONE</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:32</div></div>
-<div class="ttc" id="aa00308_html_aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2"><div class="ttname"><a href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2">SCORE_HEALING_DONE</a></div><div class="ttdeci">@ SCORE_HEALING_DONE</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:33</div></div>
-<div class="ttc" id="aa00308_html_aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7"><div class="ttname"><a href="../../d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7">SCORE_HONORABLE_KILLS</a></div><div class="ttdeci">@ SCORE_HONORABLE_KILLS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:30</div></div>
-<div class="ttc" id="aa04547_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d0/da8/a04547.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00031">SCORE_BONUS_HONOR</a>, <a class="el" href="../../#l00032">SCORE_DAMAGE_DONE</a>, <a class="el" href="../../#l00029">SCORE_DEATHS</a>, <a class="el" href="../../#l00033">SCORE_HEALING_DONE</a>, <a class="el" href="../../#l00030">SCORE_HONORABLE_KILLS</a>, and <a class="el" href="../../#l00028">SCORE_KILLING_BLOWS</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00224">BattlegroundABScore::UpdateScore()</a>, <a class="el" href="../../#l01715">BattlegroundAVScore::UpdateScore()</a>, <a class="el" href="../../#l00329">BattlegroundEYScore::UpdateScore()</a>, <a class="el" href="../../#l00865">BattlegroundICScore::UpdateScore()</a>, <a class="el" href="../../#l00401">BattlegroundSAScore::UpdateScore()</a>, and <a class="el" href="../../#l00183">BattlegroundWGScore::UpdateScore()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="a5f488c25aa439166d145713c67e7d085" name="a5f488c25aa439166d145713c67e7d085"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f488c25aa439166d145713c67e7d085">&#9670;&#160;</a></span>Arena</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d7/d41/a07260.html">Arena</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0c4048053f5f5cabe5bfbfdde8eded86" name="a0c4048053f5f5cabe5bfbfdde8eded86"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c4048053f5f5cabe5bfbfdde8eded86">&#9670;&#160;</a></span>Battleground</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d2/dbf/a07344.html">Battleground</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae5e399ad4749489f1b8feb4f3b2d8c1e" name="ae5e399ad4749489f1b8feb4f3b2d8c1e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5e399ad4749489f1b8feb4f3b2d8c1e">&#9670;&#160;</a></span>BonusHonor</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::BonusHonor = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="af9610e48d6fb67f06c008bdfe4333c21" name="af9610e48d6fb67f06c008bdfe4333c21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9610e48d6fb67f06c008bdfe4333c21">&#9670;&#160;</a></span>DamageDone</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::DamageDone = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>, and <a class="el" href="../../#l00032">ArenaScore::AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="a4c261e2bbed00da9b7e1865aeeedb48e" name="a4c261e2bbed00da9b7e1865aeeedb48e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4c261e2bbed00da9b7e1865aeeedb48e">&#9670;&#160;</a></span>Deaths</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::Deaths = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="a3b793df338929c4129e46a6a7fb6422f" name="a3b793df338929c4129e46a6a7fb6422f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3b793df338929c4129e46a6a7fb6422f">&#9670;&#160;</a></span>HealingDone</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::HealingDone = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>, and <a class="el" href="../../#l00032">ArenaScore::AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="aeb6613d7343a9b356aebc63d1e1cb585" name="aeb6613d7343a9b356aebc63d1e1cb585"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeb6613d7343a9b356aebc63d1e1cb585">&#9670;&#160;</a></span>HonorableKills</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::HonorableKills = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="a176231f2e25cdb279b04b29ac624df3d" name="a176231f2e25cdb279b04b29ac624df3d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a176231f2e25cdb279b04b29ac624df3d">&#9670;&#160;</a></span>KillingBlows</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundScore::KillingBlows = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>, and <a class="el" href="../../#l00032">ArenaScore::AppendToPacket()</a>.</p>
-
-</div>
-</div>
-<a id="a2f7da4c5f4a8cb4f35f38dafa25b4e10" name="a2f7da4c5f4a8cb4f35f38dafa25b4e10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f7da4c5f4a8cb4f35f38dafa25b4e10">&#9670;&#160;</a></span>PlayerGuid</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d05/a08464.html">ObjectGuid</a> BattlegroundScore::PlayerGuid</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00128">AppendToPacket()</a>, and <a class="el" href="../../#l00032">ArenaScore::AppendToPacket()</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a06f124a648200d4db7728681b93a8b3d">_battlegroundMapTemplates</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a39a3df56419899ec00e557804f421404">_battlegroundTemplates</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a776ae6c49a52c81d2751698004153dc2">AddBattleground</a>(Battleground *bg)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a244c995eed195cee4d82a4d55c388d4a">AddToBGFreeSlotQueue</a>(BattlegroundTypeId bgTypeId, Battleground *bg)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af8bbdd0aea1d74eeabe23de9711fee89">ArenaTypeToQueue</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a5795bf64fa457ed0e25862809006a89c">BattlegroundDataContainer</a> typedef</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a66949b05d8208f949c0c4e0c0c1de0bd">BattlegroundMapTemplateContainer</a> typedef</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a3a15068e341b17f7b023b8889aef02d0">BattlegroundMgr</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a1cd9bb098f76621559f2dcc77c5ab1f7">BattlegroundSelectionWeightMap</a> typedef</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a01a4ad4c735d0e221df37f1fb09b7e4b">BattlegroundTemplateMap</a> typedef</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af29f514549641b87a1313c0935af65ea">BGArenaType</a>(BattlegroundQueueTypeId bgQueueTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af2a6b3640365b9a4433b837b095d3a16">bgDataStore</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a6f737400752ea9c253c3710b0b54f223">BGQueueTypeId</a>(BattlegroundTypeId bgTypeId, uint8 arenaType)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a7bc5b470cd81ad08b417f7d91f8973fd">BGTemplateId</a>(BattlegroundQueueTypeId bgQueueTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a88b512ac1340399735287e337bbb76a2">bgToQueue</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af9da430f07c8a040f9eb111bdfd921a6">bgtypeToBattleground</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a25b2d7705c7e6af7f0f7a4ef35913a85">bgTypeToTemplate</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ac7a361f1254d917f0166290a528deb5f">BGTypeToWeekendHolidayId</a>(BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a071ac9a8dfd76b8dd4197077044c233e">BuildBattlegroundListPacket</a>(WorldPacket *data, ObjectGuid guid, Player *player, BattlegroundTypeId bgTypeId, uint8 fromWhere)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a641f2bb6fee8434707b8e27e95e1f895">BuildBattlegroundStatusPacket</a>(WorldPacket *data, Battleground *bg, uint8 queueSlot, uint8 statusId, uint32 time1, uint32 time2, uint8 arenaType, TeamId teamId, bool isRated=false, BattlegroundTypeId forceBgTypeId=BATTLEGROUND_TYPE_NONE)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a978736bfa97d26ef816af8b4ff2f865a">BuildGroupJoinedBattlegroundPacket</a>(WorldPacket *data, GroupJoinBattlegroundResult result)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a921e323934399680121d0940656ec8d5">BuildPlayerJoinedBattlegroundPacket</a>(WorldPacket *data, Player *player)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#aacbad04f7e3503c0aa44e18a66e5482d">BuildPlayerLeftBattlegroundPacket</a>(WorldPacket *data, ObjectGuid guid)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af6a311103b5bc8077ed568c0e10623ed">CheckBattleMasters</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a58fd91e057bacd9b8a16ae5dfd959027">CreateBattleground</a>(BattlegroundTemplate const *bgTemplate)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ad63c12ce8ddf74a5a70672c5f713f7dc">CreateClientVisibleInstanceId</a>(BattlegroundTypeId bgTypeId, BattlegroundBracketId bracket_id)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a9e88a03b4ba612e41d918a8193599a93">CreateNewBattleground</a>(BattlegroundTypeId bgTypeId, PvPDifficultyEntry const *bracketEntry, uint8 arenaType, bool isRated)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a3597287df2905e6d26a6d27f648720d3">DeleteAllBattlegrounds</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a3ec9a5fbf1cdb3383f8a58239e8b46eb">GetActiveBattlegrounds</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ac856eff37b502b631da5caef444ed2d7">GetBattleground</a>(uint32 instanceID, BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a768bdb6dd924ddbce6a0f4258c8eb31e">GetBattlegroundQueue</a>(BattlegroundQueueTypeId bgQueueTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#accfc60dcbdd85535e1d16a3e22857cd9">GetBattlegroundTemplate</a>(BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a1e058907bf40ba00ae13f434d7347ec1">GetBattlegroundTemplateByMapId</a>(uint32 mapId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a99fd1a1e6cf03b2ebafba84f0e2485b7">GetBattlegroundTemplateByTypeId</a>(BattlegroundTypeId id)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a01cd8f44b9da446083cd89146f8fcaea">GetBattlegroundThroughClientInstance</a>(uint32 instanceId, BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#acc6a320f77c27fe59901613629a78e14">GetBattleMasterBG</a>(uint32 entry) const</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a6cfdf0f1e2ae57b90f40679619dc6546">GetBGFreeSlotQueueStore</a>(BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#abbb5576d71088a36350fa1ea8d0d17ca">getBgFromMap</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ac0bc0e47e26f9203f0dc90d662d920f5">getBgFromTypeID</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a402a5171cfaf4dc1226469af21ff4361">GetMaxRatingDifference</a>() const</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ad148e6989f95c3e2ef7da14fb360d185">GetPrematureFinishTime</a>() const</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#aa8e691b44e1bf67884e5fefe0090167c">GetRandomBG</a>(BattlegroundTypeId id, uint32 minLevel)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#abb47a01fb980e3209b16f3605eb8033e">GetRatingDiscardTimer</a>() const</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#aabdca8bf21ffd216f811f6fa17867c9f">InitAutomaticArenaPointDistribution</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a48a9b67328407574f9eefda8ce2b9154">instance</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a71cb750e7ae7a3daa282fcfc22d4f72b">isArenaTesting</a>() const</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a67dc19da1c2f6488e6cf909ed47436fa">IsArenaType</a>(BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ae6edd8198e16174733742d88857220b0">IsBGWeekend</a>(BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ae3cc8a44c2b3cb14d8752189c12a4dad">isTesting</a>() const</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af83d347c36522bf182286ab056effcd8">LoadBattlegroundTemplates</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a0c9164c4b90a29a90a927780e2aa3f37">LoadBattleMastersEntry</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a1c375ca906f75816229b9853c502cae5">m_ArenaTesting</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a48ace910e7ad1f2e3f025bdc774957bd">m_AutoDistributionTimeChecker</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a67b6959ec0926f28a65a5d5857b3dbf4">m_BattlegroundQueues</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a88728977145cd5f5c5d825b9f9c031ef">m_NextAutoDistributionTime</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ab84955cc3d4ee265557b4565a7ff717f">m_NextPeriodicQueueUpdateTime</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a4599ab545d30a49dfd4f0b8789be6e59">m_QueueUpdateScheduler</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#af0da868596488dade69b1323d3e88d9c">m_Testing</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a7fd63afbcb929e0a315507c9e6161898">mBattleMastersMap</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#aeddaa8168bd67bd729fec7fe77ea8d05">QueueToArenaType</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a5f38000a6e0f6f238eef6bbc1db288be">queueToBg</a></td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a3a9649b24b97e40657d7b7e57f0ba4e2">RemoveBattleground</a>(BattlegroundTypeId bgTypeId, uint32 instanceId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a7c0fbb3bf811a9e9c7d20315fd6da963">RemoveFromBGFreeSlotQueue</a>(BattlegroundTypeId bgTypeId, uint32 instanceId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a949d69b99a2e520468819600c2e472ee">ScheduleQueueUpdate</a>(uint32 arenaMatchmakerRating, uint8 arenaType, BattlegroundQueueTypeId bgQueueTypeId, BattlegroundTypeId bgTypeId, BattlegroundBracketId bracket_id)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ad43f54b2e4d2a71995268778a8831f57">SendAreaSpiritHealerQueryOpcode</a>(Player *player, Battleground *bg, ObjectGuid guid)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#aa433b3cee8c7f7312deeccfdcde4d20d">SendToBattleground</a>(Player *player, uint32 InstanceID, BattlegroundTypeId bgTypeId)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#aacd0817642ac466c7595ec56c813a8fd">SetHolidayWeekends</a>(uint32 mask)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#a7b3e1509d8fa26ae35088466bf6273c8">ToggleArenaTesting</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#abafc78d0f8ff7776572ac9a0d966765c">ToggleTesting</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ae1558420d247fffa015a17d263eeeda5">Update</a>(uint32 diff)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ac0f83277c43b85d594bfc78d7891914b">WeekendHolidayIdToBGType</a>(HolidayIds holiday)</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d80/a07383.html#ad089ba34821283c473447b95c08a7ad7">~BattlegroundMgr</a>()</td><td class="entry"><a class="el" href="../../d1/d80/a07383.html">BattlegroundMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/dcf/a07380.html">BattlegroundScore</a></li>
-    <li class="footer">Generated on Mon Nov 24 2025 20:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:50:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

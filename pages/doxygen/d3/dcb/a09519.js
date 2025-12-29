@@ -1,7 +1,8 @@
 var a09519 =
 [
-    [ "ObjectGUIDCheck", "d3/dcb/a09519.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d3/dcb/a09519.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d3/dcb/a09519.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d3/dcb/a09519.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "MostHPMissingGroupInRange", "d3/dcb/a09519.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "d3/dcb/a09519.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "d3/dcb/a09519.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "d3/dcb/a09519.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "d3/dcb/a09519.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

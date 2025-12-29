@@ -1,12 +1,12 @@
 var a19755 =
 [
-    [ "boss_krystallusAI", "d8/de6/a19755.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "d8/de6/a19755.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "d8/de6/a19755.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "d8/de6/a19755.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "d8/de6/a19755.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "d8/de6/a19755.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "d8/de6/a19755.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "d8/de6/a19755.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "d8/de6/a19755.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "npc_spark_of_ionar", "d8/de6/a19755.html#a93df0828e409a44008257294855f8d7a", null ],
+    [ "AttackStart", "d8/de6/a19755.html#a36181ef97213713c104edf4b085bc46e", null ],
+    [ "DamageTaken", "d8/de6/a19755.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
+    [ "DoAction", "d8/de6/a19755.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
+    [ "MoveInLineOfSight", "d8/de6/a19755.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
+    [ "Reset", "d8/de6/a19755.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
+    [ "UpdateAI", "d8/de6/a19755.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "d8/de6/a19755.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
+    [ "returning", "d8/de6/a19755.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

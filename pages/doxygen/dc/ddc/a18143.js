@@ -1,7 +1,7 @@
 var a18143 =
 [
-    [ "HandleSummon", "dc/ddc/a18143.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "dc/ddc/a18143.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "dc/ddc/a18143.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "dc/ddc/a18143.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "HandleExtraEffect", "dc/ddc/a18143.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "dc/ddc/a18143.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "dc/ddc/a18143.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "dc/ddc/a18143.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

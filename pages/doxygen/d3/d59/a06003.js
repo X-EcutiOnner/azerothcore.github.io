@@ -1,10 +1,6 @@
 var a06003 =
 [
-    [ "Storage", "d3/d59/a06003.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d3/d59/a06003.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d3/d59/a06003.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d3/d59/a06003.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d3/d59/a06003.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d3/d59/a06003.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d3/d59/a06003.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "changed", "d3/d59/a06003.html#af0cf916cd514f64f53f98c108ff63591", null ],
+    [ "counter", "d3/d59/a06003.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
+    [ "date", "d3/d59/a06003.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
 ];

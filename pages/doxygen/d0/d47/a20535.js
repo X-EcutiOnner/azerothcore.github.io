@@ -1,6 +1,9 @@
 var a20535 =
 [
-    [ "boss_kologarn_armsAI", "d6/dd6/a20539.html", "d6/dd6/a20539" ],
-    [ "boss_kologarn_arms", "d0/d47/a20535.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "d0/d47/a20535.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "HandleEffectPeriodic", "d0/d47/a20535.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d0/d47/a20535.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d0/d47/a20535.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d0/d47/a20535.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d0/d47/a20535.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d0/d47/a20535.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

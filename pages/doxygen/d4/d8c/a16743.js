@@ -1,9 +1,7 @@
 var a16743 =
 [
-    [ "npc_fel_infernalAI", "d4/d8c/a16743.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d4/d8c/a16743.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d4/d8c/a16743.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d4/d8c/a16743.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d4/d8c/a16743.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d4/d8c/a16743.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_rogueAI", "d4/d8c/a16743.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d4/d8c/a16743.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d4/d8c/a16743.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d4/d8c/a16743.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

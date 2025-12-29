@@ -1,7 +1,7 @@
 var a26535 =
 [
-    [ "HandleEffectRemove", "d8/d4d/a26535.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "d8/d4d/a26535.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "d8/d4d/a26535.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "d8/d4d/a26535.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "HandleProc", "d8/d4d/a26535.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "d8/d4d/a26535.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "d8/d4d/a26535.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "d8/d4d/a26535.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

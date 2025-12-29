@@ -1,4 +1,4 @@
 var a01706 =
 [
-    [ "WorldSocketThread", "d8/d4e/a11242.html", "d8/d4e/a11242" ]
+    [ "MapInstanced", "d7/d7d/a09903.html", "d7/d7d/a09903" ]
 ];

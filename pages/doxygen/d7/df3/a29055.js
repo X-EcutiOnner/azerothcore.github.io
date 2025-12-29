@@ -1,13 +1,10 @@
 var a29055 =
 [
-    [ "liquidTris", "d7/df3/a29055.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "d7/df3/a29055.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "d7/df3/a29055.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "d7/df3/a29055.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "d7/df3/a29055.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "d7/df3/a29055.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "d7/df3/a29055.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "d7/df3/a29055.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "d7/df3/a29055.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "d7/df3/a29055.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "maxSimplificationError", "d7/df3/a29055.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d7/df3/a29055.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d7/df3/a29055.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d7/df3/a29055.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d7/df3/a29055.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d7/df3/a29055.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d7/df3/a29055.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

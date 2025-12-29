@@ -1,7 +1,7 @@
 var a26807 =
 [
-    [ "CalcPeriodic", "df/d60/a26807.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "df/d60/a26807.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "df/d60/a26807.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "df/d60/a26807.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandleScript", "df/d60/a26807.html#ad22b87be8f47886650d7bf9e98eee495", null ],
+    [ "PrepareSpellScript", "df/d60/a26807.html#a806f934cd684039425ce3fca037b0e8c", null ],
+    [ "Register", "df/d60/a26807.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
+    [ "Validate", "df/d60/a26807.html#a96d189c452a969850121323faef1d9c1", null ]
 ];

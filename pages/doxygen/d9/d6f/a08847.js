@@ -1,8 +1,13 @@
 var a08847 =
 [
-    [ "VehicleSeat", "d9/d6f/a08847.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d9/d6f/a08847.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d9/d6f/a08847.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d9/d6f/a08847.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d9/d6f/a08847.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "BuildValuesCachePosPointers", "d9/d6f/a08847.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "d9/d6f/a08847.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "d9/d6f/a08847.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "d9/d6f/a08847.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "d9/d6f/a08847.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "d9/d6f/a08847.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "d9/d6f/a08847.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "d9/d6f/a08847.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "d9/d6f/a08847.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "d9/d6f/a08847.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

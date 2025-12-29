@@ -1,6 +1,7 @@
 var a12199 =
 [
-    [ "RestoreAttack", "d6/d12/a12199.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d6/d12/a12199.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d6/d12/a12199.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "boss_grizzleAI", "d6/d12/a12199.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d6/d12/a12199.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d6/d12/a12199.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d6/d12/a12199.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

@@ -1,9 +1,14 @@
 var a12867 =
 [
-    [ "FilterTargets", "d6/dbe/a12867.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d6/dbe/a12867.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d6/dbe/a12867.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d6/dbe/a12867.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d6/dbe/a12867.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d6/dbe/a12867.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_midnight", "d6/dbe/a12867.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d6/dbe/a12867.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d6/dbe/a12867.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d6/dbe/a12867.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d6/dbe/a12867.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d6/dbe/a12867.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d6/dbe/a12867.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d6/dbe/a12867.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d6/dbe/a12867.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d6/dbe/a12867.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d6/dbe/a12867.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

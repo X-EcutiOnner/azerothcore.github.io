@@ -1,6 +1,6 @@
 var a25179 =
 [
-    [ "CheckAreaTarget", "d0/d60/a25179.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d0/d60/a25179.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d0/d60/a25179.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "HandleDummy", "d0/d60/a25179.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "d0/d60/a25179.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "d0/d60/a25179.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

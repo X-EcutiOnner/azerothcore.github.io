@@ -1,6 +1,8 @@
 var a13015 =
 [
-    [ "HandleProc", "d2/d83/a13015.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d2/d83/a13015.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d2/d83/a13015.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "npc_cyclone", "d2/d83/a13015.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d2/d83/a13015.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d2/d83/a13015.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d2/d83/a13015.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d2/d83/a13015.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

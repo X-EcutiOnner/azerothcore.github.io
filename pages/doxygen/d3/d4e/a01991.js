@@ -1,9 +1,6 @@
 var a01991 =
 [
-    [ "instance_blood_furnace", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
-    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d4/dc7/a23730.html", "d4/dc7/a23730" ],
-    [ "AddSC_instance_blood_furnace", "d3/d4e/a01991.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
-    [ "creatureData", "d3/d4e/a01991.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d3/d4e/a01991.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "d3/d4e/a01991.html#a845a92716bd40c99a93eb0715cd737b0", null ]
+    [ "instance_hellfire_ramparts", "d4/de6/a23803.html", "d4/de6/a23803" ],
+    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "d1/db4/a23807.html", "d1/db4/a23807" ],
+    [ "AddSC_instance_hellfire_ramparts", "d3/d4e/a01991.html#a4172290a7e1e8ffcbf19519225978acf", null ]
 ];

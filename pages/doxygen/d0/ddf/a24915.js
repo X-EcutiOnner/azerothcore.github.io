@@ -1,8 +1,10 @@
 var a24915 =
 [
-    [ "AfterRemove", "d0/ddf/a24915.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d0/ddf/a24915.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d0/ddf/a24915.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d0/ddf/a24915.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d0/ddf/a24915.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "CalculateAPAmount", "d0/ddf/a24915.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d0/ddf/a24915.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d0/ddf/a24915.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d0/ddf/a24915.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d0/ddf/a24915.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d0/ddf/a24915.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d0/ddf/a24915.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

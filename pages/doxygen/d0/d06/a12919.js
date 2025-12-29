@@ -1,11 +1,7 @@
 var a12919 =
 [
-    [ "npc_demon_chain", "d0/d06/a12919.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d0/d06/a12919.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d0/d06/a12919.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d0/d06/a12919.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d0/d06/a12919.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d0/d06/a12919.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d0/d06/a12919.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d0/d06/a12919.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "FilterTargets", "d0/d06/a12919.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d0/d06/a12919.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d0/d06/a12919.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d0/d06/a12919.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

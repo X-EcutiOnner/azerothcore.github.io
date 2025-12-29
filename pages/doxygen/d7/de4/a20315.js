@@ -1,7 +1,6 @@
 var a20315 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d7/de4/a20315.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d7/de4/a20315.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d7/de4/a20315.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d7/de4/a20315.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "achievement_freya_knock_on_wood", "d7/de4/a20315.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d7/de4/a20315.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d7/de4/a20315.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

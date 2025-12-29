@@ -1,10 +1,12 @@
 var a13583 =
 [
-    [ "MoveDelayed", "db/dc9/a13583.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "db/dc9/a13583.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "db/dc9/a13583.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "db/dc9/a13583.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "db/dc9/a13583.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "db/dc9/a13583.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "db/dc9/a13583.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "boss_sathrovarr", "db/dc9/a13583.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "db/dc9/a13583.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "db/dc9/a13583.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "db/dc9/a13583.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "db/dc9/a13583.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "db/dc9/a13583.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "db/dc9/a13583.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "db/dc9/a13583.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "db/dc9/a13583.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

@@ -1,11 +1,12 @@
 var a10055 =
 [
-    [ "EffectMovementGenerator", "dc/d3f/a10055.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "dc/d3f/a10055.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "dc/d3f/a10055.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "dc/d3f/a10055.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "dc/d3f/a10055.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "dc/d3f/a10055.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "dc/d3f/a10055.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "dc/d3f/a10055.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "RotateMovementGenerator", "dc/d3f/a10055.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
+    [ "Finalize", "dc/d3f/a10055.html#afd7588c7877b116cc9626a774b89d584", null ],
+    [ "GetMovementGeneratorType", "dc/d3f/a10055.html#a20677803edf5d93ceae3bf76ef426a81", null ],
+    [ "Initialize", "dc/d3f/a10055.html#a18fea8760bb24912af9349a06ff7b596", null ],
+    [ "Reset", "dc/d3f/a10055.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
+    [ "Update", "dc/d3f/a10055.html#a0dc8600e3aa862a81735dfb927232e53", null ],
+    [ "m_direction", "dc/d3f/a10055.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
+    [ "m_duration", "dc/d3f/a10055.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
+    [ "m_maxDuration", "dc/d3f/a10055.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
 ];

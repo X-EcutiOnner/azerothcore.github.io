@@ -1,8 +1,7 @@
 var a22559 =
 [
-    [ "npc_wg_queueAI", "d1/d91/a22563.html", "d1/d91/a22563" ],
-    [ "npc_wg_queue", "d7/d84/a22559.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d7/d84/a22559.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d7/d84/a22559.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d7/d84/a22559.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "HandleDummy", "d7/d84/a22559.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "d7/d84/a22559.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "d7/d84/a22559.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "d7/d84/a22559.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

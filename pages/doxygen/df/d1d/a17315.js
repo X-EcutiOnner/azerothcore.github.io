@@ -1,6 +1,6 @@
 var a17315 =
 [
-    [ "npc_pos_freed_slaveAI", "df/d1d/a17315.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "df/d1d/a17315.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "df/d1d/a17315.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "npc_pos_after_first_bossAI", "d4/ddf/a17319.html", "d4/ddf/a17319" ],
+    [ "npc_pos_after_first_boss", "df/d1d/a17315.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "df/d1d/a17315.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

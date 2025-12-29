@@ -1,17 +1,12 @@
 var a17143 =
 [
-    [ "npc_hor_lich_kingAI", "dc/d42/a17143.html#a689fd445286595780c3d842976a5913f", null ],
-    [ "DoAction", "dc/d42/a17143.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
-    [ "JustSummoned", "dc/d42/a17143.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
-    [ "MovementInform", "dc/d42/a17143.html#aeeea82d3e5869e5f604314474533975c", null ],
-    [ "Reset", "dc/d42/a17143.html#a1f1bb445ea29daaf479e7171c96db901", null ],
-    [ "SpellHitTarget", "dc/d42/a17143.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
-    [ "SummonedCreatureDespawn", "dc/d42/a17143.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
-    [ "UpdateAI", "dc/d42/a17143.html#a127cc66ea4804da51eb9069037b9ba33", null ],
-    [ "currentWall", "dc/d42/a17143.html#a13c505b17edf9f843c6c638802eb62aa", null ],
-    [ "div2", "dc/d42/a17143.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
-    [ "events", "dc/d42/a17143.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
-    [ "pInstance", "dc/d42/a17143.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
-    [ "reqKillCount", "dc/d42/a17143.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
-    [ "summons", "dc/d42/a17143.html#af55dd229cd141ffab701c6ab77304127", null ]
+    [ "npc_shadowy_mercenaryAI", "dc/d42/a17143.html#ac631624615653a4f82ecfae2aa418455", null ],
+    [ "AttackStart", "dc/d42/a17143.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
+    [ "DoAction", "dc/d42/a17143.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
+    [ "EnterEvadeMode", "dc/d42/a17143.html#a31a9ddf038046534fad1d41afcf76548", null ],
+    [ "JustDied", "dc/d42/a17143.html#a33e576c92d1b10492cb6e65000ca8198", null ],
+    [ "JustEngagedWith", "dc/d42/a17143.html#ae12ade5e863a0022ea99620f354ca51b", null ],
+    [ "Reset", "dc/d42/a17143.html#afad174f812e2aadf6db86703a46f61d2", null ],
+    [ "UpdateAI", "dc/d42/a17143.html#a7a0238f32aa0d608b9d883db5f170052", null ],
+    [ "events", "dc/d42/a17143.html#a4c6e5a49dc4364477187a0189a166578", null ]
 ];

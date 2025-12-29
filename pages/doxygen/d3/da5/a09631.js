@@ -1,7 +1,25 @@
 var a09631 =
 [
-    [ "AddonHandler", "d3/da5/a09631.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d3/da5/a09631.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d3/da5/a09631.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d3/da5/a09631.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "RankInfo", "d3/da5/a09631.html#a4b97f6372e87ab4061748cc58bd00096", null ],
+    [ "RankInfo", "d3/da5/a09631.html#a02c7283862334b5133f5971cee5da927", null ],
+    [ "RankInfo", "d3/da5/a09631.html#aaacf8ce1bfa6429cb5980d74f076cbd3", null ],
+    [ "CreateMissingTabsIfNeeded", "d3/da5/a09631.html#a17e8ee39681804bac73a2c699b470c37", null ],
+    [ "GetBankMoneyPerDay", "d3/da5/a09631.html#adb568b8ad70d0b42d834af5e2bf528d2", null ],
+    [ "GetBankTabRights", "d3/da5/a09631.html#a5be65cec8e2e82c027ef4062ea63c1f1", null ],
+    [ "GetBankTabSlotsPerDay", "d3/da5/a09631.html#a7cc652b0170a7f786a5a0263b4251d2d", null ],
+    [ "GetId", "d3/da5/a09631.html#a1a99822f0c886d59ac57b6eb73ff2b42", null ],
+    [ "GetName", "d3/da5/a09631.html#a3cfcabc23d610dd6130333edcd482485", null ],
+    [ "GetRights", "d3/da5/a09631.html#a59565228481689cdc073e7120a6de9f3", null ],
+    [ "LoadFromDB", "d3/da5/a09631.html#ae9f8001f2546582256b7d916d4f2b1d6", null ],
+    [ "SaveToDB", "d3/da5/a09631.html#a9fb87796b8e18ed9dd2fee53844c243f", null ],
+    [ "SetBankMoneyPerDay", "d3/da5/a09631.html#a1c553e020fe7d79564ddfc3aa74bbfae", null ],
+    [ "SetBankTabSlotsAndRights", "d3/da5/a09631.html#a9f1c622c8af7a8f7f9af027eb01b9dc6", null ],
+    [ "SetName", "d3/da5/a09631.html#a30e276b031dc1e279cfbf38aa1c9b851", null ],
+    [ "SetRights", "d3/da5/a09631.html#a8b46f3a8f91cd3a187e00d37a6ddd419", null ],
+    [ "m_bankMoneyPerDay", "d3/da5/a09631.html#a715985e1b8e8e2aa2d0b48877ae37e8f", null ],
+    [ "m_bankTabRightsAndSlots", "d3/da5/a09631.html#aeb209d1e53f55b5b48bcd00979014eb8", null ],
+    [ "m_guildId", "d3/da5/a09631.html#a86f162bdf86255f89666e20f44d114a0", null ],
+    [ "m_name", "d3/da5/a09631.html#a96281f4a307ca7657a3ba9f04c9331c3", null ],
+    [ "m_rankId", "d3/da5/a09631.html#ad7ff7ee31212be87b5cb580edef3cc16", null ],
+    [ "m_rights", "d3/da5/a09631.html#a058febd98eb3d116acbe1bc0d04a983c", null ]
 ];

@@ -1,7 +1,6 @@
 var a16323 =
 [
-    [ "HandleDummy", "d6/dc8/a16323.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d6/dc8/a16323.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d6/dc8/a16323.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d6/dc8/a16323.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "npc_onyx_flamecallerAI", "da/de1/a16327.html", "da/de1/a16327" ],
+    [ "npc_onyx_flamecaller", "d6/dc8/a16323.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "d6/dc8/a16323.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

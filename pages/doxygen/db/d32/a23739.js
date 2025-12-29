@@ -1,7 +1,8 @@
 var a23739 =
 [
-    [ "boss_the_maker", "db/d32/a23739.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "db/d32/a23739.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "db/d32/a23739.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "db/d32/a23739.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "db/d32/a23739.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "db/d32/a23739.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "db/d32/a23739.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "db/d32/a23739.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "db/d32/a23739.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

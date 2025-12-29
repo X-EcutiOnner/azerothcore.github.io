@@ -1,5 +1,5 @@
 var a22635 =
 [
-    [ "go_finklestein_cauldron", "df/dc3/a22635.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "df/dc3/a22635.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "df/dc3/a22635.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "df/dc3/a22635.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

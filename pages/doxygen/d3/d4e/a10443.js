@@ -1,9 +1,11 @@
 var a10443 =
 [
-    [ "TransportScript", "d3/d4e/a10443.html#a4b83123b122fa98831d304670a3de50a", null ],
-    [ "IsDatabaseBound", "d3/d4e/a10443.html#a956f0d757e5d974566fa8fac0df731e5", null ],
-    [ "OnAddCreaturePassenger", "d3/d4e/a10443.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
-    [ "OnAddPassenger", "d3/d4e/a10443.html#a806f4829b47429900271f6dde7eaa625", null ],
-    [ "OnRelocate", "d3/d4e/a10443.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
-    [ "OnRemovePassenger", "d3/d4e/a10443.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
+    [ "PetScript", "d3/d4e/a10443.html#acccf0b5fa2e346c800925142ed52c917", null ],
+    [ "CanResetTalents", "d3/d4e/a10443.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d3/d4e/a10443.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d3/d4e/a10443.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d3/d4e/a10443.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d3/d4e/a10443.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d3/d4e/a10443.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d3/d4e/a10443.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

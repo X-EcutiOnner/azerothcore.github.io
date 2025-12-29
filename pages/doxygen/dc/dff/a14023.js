@@ -1,7 +1,6 @@
 var a14023 =
 [
-    [ "Load", "dc/dff/a14023.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "dc/dff/a14023.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "dc/dff/a14023.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "dc/dff/a14023.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_andorhal_towerAI", "d4/d64/a14027.html", "d4/d64/a14027" ],
+    [ "npc_andorhal_tower", "dc/dff/a14023.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "dc/dff/a14023.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

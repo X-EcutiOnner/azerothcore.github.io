@@ -1,12 +1,7 @@
 var a11983 =
 [
-    [ "wp_commandscript", "d6/d3c/a11983.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d6/d3c/a11983.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d6/d3c/a11983.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d6/d3c/a11983.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d6/d3c/a11983.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d6/d3c/a11983.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d6/d3c/a11983.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d6/d3c/a11983.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d6/d3c/a11983.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "player_commandscript", "d6/d3c/a11983.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "d6/d3c/a11983.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "d6/d3c/a11983.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "d6/d3c/a11983.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

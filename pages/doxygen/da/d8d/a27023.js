@@ -1,8 +1,7 @@
 var a27023 =
 [
-    [ "CalcPeriodic", "da/d8d/a27023.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "da/d8d/a27023.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "da/d8d/a27023.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "da/d8d/a27023.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "da/d8d/a27023.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleProc", "da/d8d/a27023.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "da/d8d/a27023.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "da/d8d/a27023.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "da/d8d/a27023.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

@@ -1,8 +1,9 @@
 var a05363 =
 [
-    [ "Decode", "d3/dea/a05363.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
-    [ "Encode", "d3/dea/a05363.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
-    [ "BITS_PER_CHAR", "d3/dea/a05363.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
-    [ "DECODE_ERROR", "d3/dea/a05363.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
-    [ "PADDING", "d3/dea/a05363.html#a2e5699431f24ca6b745294b935b99240", null ]
+    [ "Count", "d3/dea/a05363.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "d3/dea/a05363.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "d3/dea/a05363.html#ae04b24e63268c7b60bea36beec148a8a", null ],
+    [ "Insert", "d3/dea/a05363.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "d3/dea/a05363.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "d3/dea/a05363.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

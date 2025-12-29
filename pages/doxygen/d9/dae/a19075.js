@@ -1,13 +1,9 @@
 var a19075 =
 [
-    [ "npc_icc_putricades_trapAI", "d9/dae/a19075.html#a9252a83e3deee62d5796e9f283662771", null ],
-    [ "DoAction", "d9/dae/a19075.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
-    [ "JustReachedHome", "d9/dae/a19075.html#a98f908e89630b23584982e298193cc0e", null ],
-    [ "JustSummoned", "d9/dae/a19075.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
-    [ "Reset", "d9/dae/a19075.html#a3430515c94fd419bd2c59113b3f4e625", null ],
-    [ "SummonedCreatureDies", "d9/dae/a19075.html#a2e49dc8924da5d5537c33f7306287963", null ],
-    [ "UpdateAI", "d9/dae/a19075.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
-    [ "events", "d9/dae/a19075.html#a3249114a5b208109ec2c2a23533ede82", null ],
-    [ "instance", "d9/dae/a19075.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
-    [ "summons", "d9/dae/a19075.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
+    [ "npc_icc_severed_essenceAI", "d9/dae/a19075.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d9/dae/a19075.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d9/dae/a19075.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d9/dae/a19075.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d9/dae/a19075.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d9/dae/a19075.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

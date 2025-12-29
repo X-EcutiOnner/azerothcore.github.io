@@ -1,6 +1,6 @@
 var a22491 =
 [
-    [ "npc_roxi_ramrocket", "d4/d4c/a22491.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d4/d4c/a22491.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d4/d4c/a22491.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_icefangAI", "dd/d1e/a22495.html", "dd/d1e/a22495" ],
+    [ "npc_icefang", "d4/d4c/a22491.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d4/d4c/a22491.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

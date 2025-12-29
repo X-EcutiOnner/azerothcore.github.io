@@ -1,7 +1,8 @@
 var a04508 =
 [
-    [ "GameobjectModelData", "d2/d69/a05086.html", "d2/d69/a05086" ],
-    [ "ModelList", "dd/d8c/a04508.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
-    [ "LoadGameObjectModelList", "dd/d8c/a04508.html#a5a80774080fc05f90c7d92213fda6788", null ],
-    [ "model_list", "dd/d8c/a04508.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
+    [ "ModelIgnoreFlags", "dd/d8c/a04508.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "dd/d8c/a04508.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "dd/d8c/a04508.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "operator&", "dd/d8c/a04508.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

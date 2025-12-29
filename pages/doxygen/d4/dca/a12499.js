@@ -1,7 +1,6 @@
 var a12499 =
 [
-    [ "HandleDummy", "d4/dca/a12499.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d4/dca/a12499.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d4/dca/a12499.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d4/dca/a12499.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_ebonrocAI", "df/daf/a12503.html", "df/daf/a12503" ],
+    [ "boss_ebonroc", "d4/dca/a12499.html#a3f71b5a687ab10a228e560429b8a4709", null ],
+    [ "GetAI", "d4/dca/a12499.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
 ];

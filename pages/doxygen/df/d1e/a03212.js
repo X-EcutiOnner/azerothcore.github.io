@@ -1,5 +1,5 @@
 var a03212 =
 [
-    [ "worldstate_commandscript", "d9/d02/a11986.html", "d9/d02/a11986" ],
-    [ "AddSC_worldstate_commandscript", "df/d1e/a03212.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
+    [ "list_commandscript", "dc/d1e/a11935.html", "dc/d1e/a11935" ],
+    [ "AddSC_list_commandscript", "df/d1e/a03212.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

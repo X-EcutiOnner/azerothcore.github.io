@@ -1,6 +1,6 @@
 var a14807 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "de/d06/a14811.html", "de/d06/a14811" ],
-    [ "instance_blackfathom_deeps", "d8/d9b/a14807.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d8/d9b/a14807.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "PrepareAuraScript", "d8/d9b/a14807.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d8/d9b/a14807.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d8/d9b/a14807.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

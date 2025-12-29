@@ -1,9 +1,9 @@
 var a12791 =
 [
-    [ "boss_curator", "d9/d9d/a12791.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "d9/d9d/a12791.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "d9/d9d/a12791.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "d9/d9d/a12791.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "d9/d9d/a12791.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "d9/d9d/a12791.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "HandleEffectApply", "d9/d9d/a12791.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d9/d9d/a12791.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d9/d9d/a12791.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d9/d9d/a12791.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d9/d9d/a12791.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d9/d9d/a12791.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

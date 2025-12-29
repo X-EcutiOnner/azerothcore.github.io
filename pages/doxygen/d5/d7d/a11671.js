@@ -1,7 +1,5 @@
 var a11671 =
 [
-    [ "CompressedData", "d5/d7d/a11671.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "d5/d7d/a11671.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "d5/d7d/a11671.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "d5/d7d/a11671.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "Name", "d5/d7d/a11671.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "d5/d7d/a11671.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

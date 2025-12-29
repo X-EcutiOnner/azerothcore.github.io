@@ -1,11 +1,6 @@
 var a13923 =
 [
-    [ "npc_highborne_lamenterAI", "d9/d0c/a13923.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d9/d0c/a13923.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d9/d0c/a13923.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d9/d0c/a13923.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d9/d0c/a13923.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d9/d0c/a13923.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d9/d0c/a13923.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d9/d0c/a13923.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_marzon_silent_bladeAI", "d4/d26/a13927.html", "d4/d26/a13927" ],
+    [ "npc_marzon_silent_blade", "d9/d0c/a13923.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "d9/d0c/a13923.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

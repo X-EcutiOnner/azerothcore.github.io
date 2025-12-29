@@ -1,13 +1,20 @@
 var a03479 =
 [
-    [ "instance_sunken_temple", "d3/d83/a13406.html", "d3/d83/a13406" ],
-    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "d2/dd5/a13410.html", "d2/dd5/a13410" ],
-    [ "at_malfurion_stormrage", "d6/d38/a13414.html", "d6/d38/a13414" ],
-    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d2/dd1/a13418.html", "d2/dd1/a13418" ],
-    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d6/da6/a13422.html", "d6/da6/a13422" ],
-    [ "MalfurionMisc", "dc/d14/a03479.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
-      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "dc/d14/a03479.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
-      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "dc/d14/a03479.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    [ "npc_professor_phizzlethorpe", "db/d04/a13771.html", "db/d04/a13771" ],
+    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "d7/d81/a13775.html", "d7/d81/a13775" ],
+    [ "ProfessorPhizzlethorpe", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
+      [ "SAY_PROGRESS_1", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "EMOTE_PROGRESS_4", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769", null ],
+      [ "SAY_AGGRO", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS_5", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3", null ],
+      [ "SAY_PROGRESS_6", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84", null ],
+      [ "SAY_PROGRESS_7", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd", null ],
+      [ "EMOTE_PROGRESS_8", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e", null ],
+      [ "SAY_PROGRESS_9", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf", null ],
+      [ "QUEST_SUNKEN_TREASURE", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3", null ],
+      [ "NPC_VENGEFUL_SURGE", "dc/d14/a03479.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873", null ]
     ] ],
-    [ "AddSC_instance_sunken_temple", "dc/d14/a03479.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
+    [ "AddSC_arathi_highlands", "dc/d14/a03479.html#a1e4a782474f0928dbacdf32c0ba395fd", null ]
 ];

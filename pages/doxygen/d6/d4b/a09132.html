@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridObjectCleaner Class Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d6/d4b/a09132.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('de/de7/a09135.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,88 +104,47 @@ $(document).ready(function(){initNavTree('d6/d4b/a09132.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="../../d1/d6c/a09129.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridObjectCleaner Class Reference</div></div>
+  <div class="headertitle"><div class="title">Cell Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/d4b/a09132.html#aa0f56809b23b117bde869576ddaa9dbd">Visit</a> (<a class="el" href="../../dc/dee/a09140.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
-<tr class="separator:aa0f56809b23b117bde869576ddaa9dbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afab06305b5b3568b93d07f80efd616ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d4b/a09132.html#afab06305b5b3568b93d07f80efd616ae">Visit</a> (<a class="el" href="../../d5/d10/a01571.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
-<tr class="separator:afab06305b5b3568b93d07f80efd616ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa0f56809b23b117bde869576ddaa9dbd" name="aa0f56809b23b117bde869576ddaa9dbd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0f56809b23b117bde869576ddaa9dbd">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void GridObjectCleaner::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dee/a09140.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">for</span> (<span class="keyword">typename</span> <a class="code hl_class" href="../../d1/d54/a05272.html">GridRefMgr&lt;T&gt;::iterator</a> iter = m.<a class="code hl_function" href="../../dc/dee/a09140.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../dc/dee/a09140.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">  136</span>        iter-&gt;GetSource()-&gt;CleanupsBeforeDelete();</div>
-<div class="line"><span class="lineno">  137</span>}</div>
-<div class="ttc" id="aa05272_html"><div class="ttname"><a href="../../d1/d54/a05272.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09140_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../dc/dee/a09140.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09140_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../dc/dee/a09140.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
-
-</div>
-</div>
-<a id="afab06305b5b3568b93d07f80efd616ae" name="afab06305b5b3568b93d07f80efd616ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afab06305b5b3568b93d07f80efd616ae">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GridObjectCleaner::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../de/de7/a09135.html">Cell</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#ad5e39934e854314a3f1c0cfcd129e123">All</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#ad2bffe1e67368857b3c82a07a89c3a55">CalculateCellArea</a>(float x, float y, float radius)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a394510643e8664cf12b5efaf5cb99f71">Cell</a>()</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a11103acd21fad30d29b9b5a42220fdea">Cell</a>(Cell const &amp;cell)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a9ed4535aabe48966738425a8322e265e">Cell</a>(CellCoord const &amp;p)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#abe34b4a97c468b8db563092dda60340a">Cell</a>(float x, float y)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#aa3496123fb4af8a4d62c3b79c00155cb">cell_x</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a83d1e587eeb791007c845f9ea52ab42f">cell_y</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#abc5ed731630ec862efb15d699d4e5213">CellX</a>() const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#abf5f46566b03eefa5509e8d4f5ad5003">CellY</a>() const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a6ba637c4f7e1e563197b8006c19f00e1">Compute</a>(uint32 &amp;x, uint32 &amp;y) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a5dced13f63db195b34a522437ebf2dbe">data</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#ac7eebe2036bdbeaa342abf428c0dae6c">DiffCell</a>(const Cell &amp;cell) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#ab255ad0293fc1990773513de3fa472ad">DiffGrid</a>(const Cell &amp;cell) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a1311175ad2f4224778db22ce19913c7e">GetCellCoord</a>() const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#ab3fe002db0c02530e0e81857857ab26b">grid_x</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a40eda303ad77ca42a04b00a504d49b19">grid_y</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a15c6d9e68123ebceaf3520a383f5b7e8">GridX</a>() const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a7766818a31b73b5b9f4e44936f331141">GridY</a>() const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#aac53c1b488624eb2a64c99dc544f7d90">operator!=</a>(Cell const &amp;cell) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a6ccf5bbce503433022fce680363b4e3a">operator=</a>(Cell const &amp;cell)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a8f7e2e56eb1a910c451fd23c974a52b7">operator==</a>(Cell const &amp;cell) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a80f7af5b3065591bf58cc41600ffc1aa">Part</a></td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#abd95fd440e9f8dab059a8c518c58eca2">Visit</a>(CellCoord const &amp;, TypeContainerVisitor&lt; T, CONTAINER &gt; &amp;visitor, Map &amp;, WorldObject const &amp;obj, float radius) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a9aeb10f855fbf40d38edb8c2b542d0ee">Visit</a>(CellCoord const &amp;, TypeContainerVisitor&lt; T, CONTAINER &gt; &amp;visitor, Map &amp;, float x, float y, float radius) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#aa8d9ead1231c6119656eb132949d3a97">VisitCircle</a>(TypeContainerVisitor&lt; T, CONTAINER &gt; &amp;, Map &amp;, CellCoord const &amp;, CellCoord const &amp;) const</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a3ff5ef7877f8b91e5797ef8b176870fa">VisitFarVisibleObjects</a>(WorldObject const *obj, T &amp;visitor, float radius)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/de7/a09135.html#a1498ced567e6adac094dc3be7e6e9686">VisitObjects</a>(WorldObject const *obj, T &amp;visitor, float radius)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/de7/a09135.html#ad507586547e54f178924f392c0066c16">VisitObjects</a>(float x, float y, Map *map, T &amp;visitor, float radius)</td><td class="entry"><a class="el" href="../../de/de7/a09135.html">Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d4b/a09132.html">GridObjectCleaner</a></li>
-    <li class="footer">Generated on Mon Nov 24 2025 20:46:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:50:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

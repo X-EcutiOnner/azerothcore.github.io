@@ -1,7 +1,5 @@
 var a10595 =
 [
-    [ "ChatServerMessage", "d8/d3a/a10595.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "d8/d3a/a10595.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "d8/d3a/a10595.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "d8/d3a/a10595.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "LogoutCancelAck", "d8/d3a/a10595.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d8/d3a/a10595.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

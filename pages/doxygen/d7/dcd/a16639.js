@@ -1,6 +1,7 @@
 var a16639 =
 [
-    [ "npc_toc_warlockAI", "d6/dd9/a16643.html", "d6/dd9/a16643" ],
-    [ "npc_toc_warlock", "d7/dcd/a16639.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d7/dcd/a16639.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "HandleEffectPeriodic", "d7/dcd/a16639.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d7/dcd/a16639.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d7/dcd/a16639.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d7/dcd/a16639.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

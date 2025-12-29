@@ -1,6 +1,6 @@
 var a20643 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d0/d4b/a20647.html", "d0/d4b/a20647" ],
-    [ "npc_ulduar_magnetic_core", "d0/d44/a20643.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "d0/d44/a20643.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "npc_ulduar_proximity_mineAI", "d0/d4b/a20647.html", "d0/d4b/a20647" ],
+    [ "npc_ulduar_proximity_mine", "d0/d44/a20643.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
+    [ "GetAI", "d0/d44/a20643.html#a7d8237b965699004f9df731e357b4020", null ]
 ];

@@ -1,5 +1,6 @@
 var a16267 =
 [
-    [ "at_baltharus_plateau", "d7/db4/a16267.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d7/db4/a16267.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "dc/d22/a16271.html", "dc/d22/a16271" ],
+    [ "instance_obsidian_sanctum", "d7/db4/a16267.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d7/db4/a16267.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

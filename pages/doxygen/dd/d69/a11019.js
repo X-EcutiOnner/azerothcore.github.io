@@ -1,14 +1,7 @@
 var a11019 =
 [
-    [ "ValidatorList", "dd/d69/a11019.html#a9d149151d1ac78e590a1ecc2e5125a05", null ],
-    [ "c_str", "dd/d69/a11019.html#a009f68f040bf8c24e84be74e07c6f590", null ],
-    [ "empty", "dd/d69/a11019.html#a87225ea97a5d831e1f10119b22e1ac34", null ],
-    [ "Move", "dd/d69/a11019.html#ad4c8b4cb693929cc172adaf1e3374451", null ],
-    [ "operator std::string &", "dd/d69/a11019.html#a948fc2ddfb36cf885d3c26534a52222d", null ],
-    [ "operator std::string const &", "dd/d69/a11019.html#a45b487598b91580467af70cbe7264ee4", null ],
-    [ "operator std::string_view", "dd/d69/a11019.html#aa21bedffd7781262ca29ff801e7f8224", null ],
-    [ "Validate", "dd/d69/a11019.html#aa1ebd4ac4d40d582d707f04d09187ade", null ],
-    [ "ValidateNth", "dd/d69/a11019.html#ae652fb9308dfddeebae5b776c91d2cec", null ],
-    [ "operator>>", "dd/d69/a11019.html#ad49e16ca5e4f4a46c243ccfc52f9dee4", null ],
-    [ "_storage", "dd/d69/a11019.html#a3c5565a6f92715af1faf92a615f029d3", null ]
+    [ "TrainerBuySpell", "dd/d69/a11019.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "dd/d69/a11019.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "dd/d69/a11019.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "dd/d69/a11019.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

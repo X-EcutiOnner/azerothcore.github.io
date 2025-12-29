@@ -1,6 +1,7 @@
 var a26875 =
 [
-    [ "HandleAfterCast", "d4/db0/a26875.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d4/db0/a26875.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d4/db0/a26875.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "CalculateAmount", "d4/db0/a26875.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d4/db0/a26875.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d4/db0/a26875.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d4/db0/a26875.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

@@ -1,7 +1,10 @@
 var a15623 =
 [
-    [ "npc_cork_gizeltonAI", "db/db0/a15627.html", "db/db0/a15627" ],
-    [ "npc_cork_gizelton", "d3/d0f/a15623.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d3/d0f/a15623.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d3/d0f/a15623.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_murkdeepAI", "d3/d0f/a15623.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d3/d0f/a15623.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d3/d0f/a15623.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d3/d0f/a15623.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d3/d0f/a15623.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d3/d0f/a15623.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d3/d0f/a15623.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

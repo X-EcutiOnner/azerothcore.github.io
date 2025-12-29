@@ -1,6 +1,8 @@
 var a10323 =
 [
-    [ "ConditionScript", "d1/d2a/a10323.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "d1/d2a/a10323.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "d1/d2a/a10323.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "_OnTrigger", "d1/d2a/a10323.html#a6da93a21c84345bd77e467377810e756", null ],
+    [ "AreaTriggerScript", "d1/d2a/a10323.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "OnTrigger", "d1/d2a/a10323.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
+    [ "ResetAreaTriggerDone", "d1/d2a/a10323.html#a3b44c1892c1100028b387d15bfbdae60", null ],
+    [ "ResetAreaTriggerDone", "d1/d2a/a10323.html#a3917da4a6f605077720172cda25322ee", null ]
 ];

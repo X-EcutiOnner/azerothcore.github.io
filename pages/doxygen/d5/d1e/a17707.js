@@ -1,6 +1,8 @@
 var a17707 =
 [
-    [ "boss_festergutAI", "de/d80/a17711.html", "de/d80/a17711" ],
-    [ "boss_festergut", "d5/d1e/a17707.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "d5/d1e/a17707.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "CheckProc", "d5/d1e/a17707.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "d5/d1e/a17707.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "d5/d1e/a17707.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "d5/d1e/a17707.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "d5/d1e/a17707.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

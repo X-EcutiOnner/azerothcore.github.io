@@ -1,6 +1,6 @@
 var a17915 =
 [
-    [ "IgbArtilleryCheck", "db/dbc/a17915.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "db/dbc/a17915.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "db/dbc/a17915.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "PrepareSpellScript", "db/dbc/a17915.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "db/dbc/a17915.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "db/dbc/a17915.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

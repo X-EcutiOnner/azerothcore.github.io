@@ -1,6 +1,26 @@
 var a04325 =
 [
-    [ "SetupLibrariesForWindows", "de/d35/a04325.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
-    [ "DefaultProvider", "de/d35/a04325.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
-    [ "LegacyProvider", "de/d35/a04325.html#a81b4206923925a193dca5c3acd946bc2", null ]
+    [ "AC_API_EXPORT", "de/d35/a04325.html#a2c5b5e664ed3daebece45d89595e3105", null ],
+    [ "AC_API_IMPORT", "de/d35/a04325.html#ae8a7a9ab4a727295d96a5645d592be1a", null ],
+    [ "AC_COMMON_API", "de/d35/a04325.html#aae2dc50bce825b002235487401b252e8", null ],
+    [ "AC_DATABASE_API", "de/d35/a04325.html#a4239bd747d930d5084e8f6e489980585", null ],
+    [ "AC_GAME_API", "de/d35/a04325.html#a00a04eccc2ca042486601576eccae409", null ],
+    [ "AC_SHARED_API", "de/d35/a04325.html#a0bf4fe16e9c0242e08723860b589d648", null ],
+    [ "ACORE_BIGENDIAN", "de/d35/a04325.html#a1ea3ec26cc8112e6b4750ed2e3099e23", null ],
+    [ "ACORE_ENDIAN", "de/d35/a04325.html#a31363a4567529bac0c62af57b8249f37", null ],
+    [ "ACORE_INLINE", "de/d35/a04325.html#ae4e9017a1f7c4a30d42240994c73707d", null ],
+    [ "ACORE_LITTLEENDIAN", "de/d35/a04325.html#aa52f254470010db28f546a042d5d2dd3", null ],
+    [ "ACORE_PATH_MAX", "de/d35/a04325.html#a0e8f3cfd1a18017c3996550aed13d45b", null ],
+    [ "ATTR_PRINTF", "de/d35/a04325.html#a9fb5e8106efcc99703798f63ee0ee655", null ],
+    [ "SI64LIT", "de/d35/a04325.html#a9fb461803e0a17b90422b7166f79bd87", null ],
+    [ "STRING_VIEW_FMT_ARG", "de/d35/a04325.html#a426f0c72f52eca709249d5962bf31b6d", null ],
+    [ "UI64LIT", "de/d35/a04325.html#abf772f43caa1c9ba44098b6bf2bf355c", null ],
+    [ "int16", "de/d35/a04325.html#aecf4e3680a32207d17f62a3426731878", null ],
+    [ "int32", "de/d35/a04325.html#a0bf9964a3ce962c07ad3d8b5432bbbcd", null ],
+    [ "int64", "de/d35/a04325.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1", null ],
+    [ "int8", "de/d35/a04325.html#a3bb8a71f4ae9af551f71e9eb2c9c3325", null ],
+    [ "uint16", "de/d35/a04325.html#ad9c79638db63f1dfe2b085743b5cbf7b", null ],
+    [ "uint32", "de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d", null ],
+    [ "uint64", "de/d35/a04325.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b", null ],
+    [ "uint8", "de/d35/a04325.html#a15a8d014fadf85c99a2268d8cbd00767", null ]
 ];

@@ -1,32 +1,41 @@
 var a02396 =
 [
-    [ "npc_muglash", "d4/dfd/a15494.html", "d4/dfd/a15494" ],
-    [ "npc_muglash::npc_muglashAI", "dc/d0f/a15498.html", "dc/d0f/a15498" ],
-    [ "Muglash", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057", [
-      [ "SAY_MUG_START1", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
-      [ "SAY_MUG_START2", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],
-      [ "SAY_MUG_BRAZIER", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5", null ],
-      [ "SAY_MUG_BRAZIER_WAIT", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a", null ],
-      [ "SAY_MUG_ON_GUARD", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8", null ],
-      [ "SAY_MUG_REST", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057acd07a7572fede15eb4c95479b05525ce", null ],
-      [ "SAY_MUG_DONE", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b", null ],
-      [ "SAY_MUG_GRATITUDE", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63", null ],
-      [ "SAY_MUG_PATROL", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10", null ],
-      [ "SAY_MUG_RETURN", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d", null ],
-      [ "QUEST_VORSHA", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0", null ],
-      [ "GO_NAGA_BRAZIER", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab", null ],
-      [ "NPC_WRATH_RIDER", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4", null ],
-      [ "NPC_WRATH_SORCERESS", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff", null ],
-      [ "NPC_WRATH_RAZORTAIL", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203", null ],
-      [ "NPC_WRATH_PRIESTESS", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a", null ],
-      [ "NPC_WRATH_MYRMIDON", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46", null ],
-      [ "NPC_WRATH_SEAWITCH", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494", null ],
-      [ "NPC_VORSHA", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964", null ],
-      [ "NPC_MUGLASH", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7", null ],
-      [ "ACTION_EXTINGUISH_BLAZIER", "d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9", null ]
+    [ "npc_sergeant_bly", "d4/d30/a16011.html", "d4/d30/a16011" ],
+    [ "npc_sergeant_bly::npc_sergeant_blyAI", "dd/d58/a16015.html", "dd/d58/a16015" ],
+    [ "go_troll_cage", "dd/da3/a16019.html", "dd/da3/a16019" ],
+    [ "go_troll_cage::go_troll_cageAI", "d6/dde/a16023.html", "d6/dde/a16023" ],
+    [ "npc_weegli_blastfuse", "d9/ded/a16027.html", "d9/ded/a16027" ],
+    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "de/d57/a16031.html", "de/d57/a16031" ],
+    [ "npc_shadowpriest_sezziz", "d4/d13/a16035.html", "d4/d13/a16035" ],
+    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "d9/d77/a16039.html", "d9/d77/a16039" ],
+    [ "GOSSIP_BLY", "d5/d10/a02396.html#acf686abbef9b59acbf66095340991aab", null ],
+    [ "GOSSIP_WEEGLI", "d5/d10/a02396.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
+    [ "blySays", "d5/d10/a02396.html#a0170bb25aee4171b17fd972a5eb000a9", [
+      [ "SAY_1", "d5/d10/a02396.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
+      [ "SAY_2", "d5/d10/a02396.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
     ] ],
-    [ "AddSC_ashenvale", "d5/d10/a02396.html#a5bc25863ec332eb1c8498f84556810c2", null ],
-    [ "FirstNagaCoord", "d5/d10/a02396.html#a44aaebd71b577ea90de1a8b853f557ed", null ],
-    [ "SecondNagaCoord", "d5/d10/a02396.html#a2381a800b34807e7f0d47d7b60feb025", null ],
-    [ "VorshaCoord", "d5/d10/a02396.html#ab15d952fc1bf94911661206ead25b5b1", null ]
+    [ "blySpells", "d5/d10/a02396.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
+      [ "SPELL_BLYS_BAND_ESCAPE", "d5/d10/a02396.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
+      [ "SPELL_SHIELD_BASH", "d5/d10/a02396.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
+      [ "SPELL_REVENGE", "d5/d10/a02396.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
+    ] ],
+    [ "ShadowPriestSezzizEnum", "d5/d10/a02396.html#a4e0ee96bd227c57408d323b236131e7d", [
+      [ "SPELL_SHADOW_BOLT", "d5/d10/a02396.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_PSYCHIC_SCREEM", "d5/d10/a02396.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
+      [ "SPELL_RENEW", "d5/d10/a02396.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
+      [ "SPELL_HEAL", "d5/d10/a02396.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
+    ] ],
+    [ "weegliSays", "d5/d10/a02396.html#a326e8498672fa7a2db9a390d360f7391", [
+      [ "SAY_WEEGLI_OHNO", "d5/d10/a02396.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
+      [ "SAY_WEEGLI_OK_I_GO", "d5/d10/a02396.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
+      [ "SAY_WEEGLI_OUT_OF_HERE", "d5/d10/a02396.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
+    ] ],
+    [ "weegliSpells", "d5/d10/a02396.html#aa5d64b9165276a134e188d143807850c", [
+      [ "SPELL_BOMB", "d5/d10/a02396.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
+      [ "SPELL_GOBLIN_LAND_MINE", "d5/d10/a02396.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
+      [ "SPELL_SHOOT", "d5/d10/a02396.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_WEEGLIS_BARREL", "d5/d10/a02396.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
+    ] ],
+    [ "AddSC_zulfarrak", "d5/d10/a02396.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
+    [ "shadowpriestSezzizAdds", "d5/d10/a02396.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
 ];

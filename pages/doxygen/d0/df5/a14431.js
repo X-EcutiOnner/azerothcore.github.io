@@ -1,9 +1,11 @@
 var a14431 =
 [
-    [ "CheckCast", "d0/df5/a14431.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d0/df5/a14431.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d0/df5/a14431.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d0/df5/a14431.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d0/df5/a14431.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d0/df5/a14431.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d0/df5/a14431.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d0/df5/a14431.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d0/df5/a14431.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d0/df5/a14431.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d0/df5/a14431.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d0/df5/a14431.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d0/df5/a14431.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d0/df5/a14431.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

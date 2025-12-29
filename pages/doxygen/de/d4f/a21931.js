@@ -1,5 +1,6 @@
 var a21931 =
 [
-    [ "go_the_pearl_of_the_depths", "de/d4f/a21931.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "de/d4f/a21931.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d0/d36/a21935.html", "d0/d36/a21935" ],
+    [ "npc_conversing_with_the_depths_trigger", "de/d4f/a21931.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "de/d4f/a21931.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

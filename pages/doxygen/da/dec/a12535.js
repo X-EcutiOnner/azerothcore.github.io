@@ -1,7 +1,13 @@
 var a12535 =
 [
-    [ "HandleRemove", "da/dec/a12535.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "da/dec/a12535.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "da/dec/a12535.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "da/dec/a12535.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "boss_nefarian", "da/dec/a12535.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "da/dec/a12535.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "da/dec/a12535.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "da/dec/a12535.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "da/dec/a12535.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "da/dec/a12535.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "da/dec/a12535.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "da/dec/a12535.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "da/dec/a12535.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "da/dec/a12535.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

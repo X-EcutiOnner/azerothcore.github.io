@@ -1,6 +1,9 @@
 var a12767 =
 [
-    [ "HandleTriggerSpell", "d6/de1/a12767.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d6/de1/a12767.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d6/de1/a12767.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_flamewaker_priestAI", "d6/de1/a12767.html#aa0508dda5bc365896128f088b6de30f4", null ],
+    [ "JustDied", "d6/de1/a12767.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
+    [ "JustEngagedWith", "d6/de1/a12767.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
+    [ "Reset", "d6/de1/a12767.html#a3c3629a6c6987e861e40a893363d2508", null ],
+    [ "UpdateAI", "d6/de1/a12767.html#a28c0ed65521f3d2150874ddc1b913933", null ],
+    [ "events", "d6/de1/a12767.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
 ];

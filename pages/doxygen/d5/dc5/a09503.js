@@ -1,7 +1,8 @@
 var a09503 =
 [
-    [ "PlayerAtMinimumRangeAway", "d5/dc5/a09503.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d5/dc5/a09503.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d5/dc5/a09503.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d5/dc5/a09503.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "AllGameObjectsWithEntryInRange", "d5/dc5/a09503.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
+    [ "operator()", "d5/dc5/a09503.html#a342aa18d98413620fce4c676fcf75305", null ],
+    [ "m_fRange", "d5/dc5/a09503.html#a7cce16670c95c19f3eb68e5914160513", null ],
+    [ "m_pObject", "d5/dc5/a09503.html#a5c898c20992999f11204aab6479d71f6", null ],
+    [ "m_uiEntry", "d5/dc5/a09503.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
 ];

@@ -1,9 +1,6 @@
 var a05535 =
 [
-    [ "IteratorPair", "d7/dbb/a05535.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "d7/dbb/a05535.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "d7/dbb/a05535.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "d7/dbb/a05535.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "d7/dbb/a05535.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "d7/dbb/a05535.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "operator()", "d7/dbb/a05535.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
+    [ "operator+=", "d7/dbb/a05535.html#a685854261b2714cf924622e58a88e6b6", null ],
+    [ "functions", "d7/dbb/a05535.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
 ];

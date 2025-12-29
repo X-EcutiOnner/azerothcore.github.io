@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/TicketScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/ALEScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,84 +105,26 @@ $(document).ready(function(){initNavTree('dc/d25/a01406.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">TicketScript.h File Reference</div></div>
+<a href="#nested-classes">Classes</a>  </div>
+  <div class="headertitle"><div class="title">ALEScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TicketMgr.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html">TicketScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d95/a10287.html">ALEScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:af2de2d4afd6c8a1968e6e4b055620b72"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72">TicketHook</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61">TICKETHOOK_ON_TICKET_CREATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374">TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38">TICKETHOOK_ON_TICKET_CLOSE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825">TICKETHOOK_ON_TICKET_STATUS_UPDATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df">TICKETHOOK_ON_TICKET_RESOLVE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222">TICKETHOOK_END</a>
-<br />
- }</td></tr>
-<tr class="separator:af2de2d4afd6c8a1968e6e4b055620b72"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="af2de2d4afd6c8a1968e6e4b055620b72" name="af2de2d4afd6c8a1968e6e4b055620b72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2de2d4afd6c8a1968e6e4b055620b72">&#9670;&#160;</a></span>TicketHook</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72">TicketHook</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61" name="af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61"></a>TICKETHOOK_ON_TICKET_CREATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374" name="af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374"></a>TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38" name="af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38"></a>TICKETHOOK_ON_TICKET_CLOSE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825" name="af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825"></a>TICKETHOOK_ON_TICKET_STATUS_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df" name="af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df"></a>TICKETHOOK_ON_TICKET_RESOLVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222" name="af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222"></a>TICKETHOOK_END&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61">TICKETHOOK_ON_TICKET_CREATE</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374">TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38">TICKETHOOK_ON_TICKET_CLOSE</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825">TICKETHOOK_ON_TICKET_STATUS_UPDATE</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df">TICKETHOOK_ON_TICKET_RESOLVE</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222">TICKETHOOK_END</a></div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa01406_html_af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61"><div class="ttname"><a href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61">TICKETHOOK_ON_TICKET_CREATE</a></div><div class="ttdeci">@ TICKETHOOK_ON_TICKET_CREATE</div><div class="ttdef"><b>Definition:</b> TicketScript.h:27</div></div>
-<div class="ttc" id="aa01406_html_af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222"><div class="ttname"><a href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222">TICKETHOOK_END</a></div><div class="ttdeci">@ TICKETHOOK_END</div><div class="ttdef"><b>Definition:</b> TicketScript.h:32</div></div>
-<div class="ttc" id="aa01406_html_af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374"><div class="ttname"><a href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374">TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE</a></div><div class="ttdeci">@ TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE</div><div class="ttdef"><b>Definition:</b> TicketScript.h:28</div></div>
-<div class="ttc" id="aa01406_html_af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df"><div class="ttname"><a href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df">TICKETHOOK_ON_TICKET_RESOLVE</a></div><div class="ttdeci">@ TICKETHOOK_ON_TICKET_RESOLVE</div><div class="ttdef"><b>Definition:</b> TicketScript.h:31</div></div>
-<div class="ttc" id="aa01406_html_af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38"><div class="ttname"><a href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38">TICKETHOOK_ON_TICKET_CLOSE</a></div><div class="ttdeci">@ TICKETHOOK_ON_TICKET_CLOSE</div><div class="ttdef"><b>Definition:</b> TicketScript.h:29</div></div>
-<div class="ttc" id="aa01406_html_af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825"><div class="ttname"><a href="../../dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825">TICKETHOOK_ON_TICKET_STATUS_UPDATE</a></div><div class="ttdeci">@ TICKETHOOK_ON_TICKET_STATUS_UPDATE</div><div class="ttdef"><b>Definition:</b> TicketScript.h:30</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../dc/d25/a01406.html">TicketScript.h</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:47:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../dc/d25/a01406.html">ALEScript.h</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:49:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

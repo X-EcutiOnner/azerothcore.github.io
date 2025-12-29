@@ -1,6 +1,6 @@
 var a26175 =
 [
-    [ "OnPeriodic", "d0/d13/a26175.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "d0/d13/a26175.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "d0/d13/a26175.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "CheckCast", "d0/d13/a26175.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d0/d13/a26175.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d0/d13/a26175.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

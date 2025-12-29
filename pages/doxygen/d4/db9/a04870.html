@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldPackets::Bank Namespace Reference</title>
+<title>AzerothCore: Trainer Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,31 +105,166 @@ $(document).ready(function(){initNavTree('d4/db9/a04870.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
-  <div class="headertitle"><div class="title">WorldPackets::Bank Namespace Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">Trainer Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dab/a10518.html">AutoBankItem</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d4c/a08211.html">Spell</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dea/a10522.html">AutoStoreBankItem</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d26/a08215.html">Trainer</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d6f/a10526.html">BuyBankSlot</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d61/a10530.html">BuyBankSlotResult</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db2/a10534.html">ShowBank</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a636cc62a0635fc1566fb574ebe9941a9"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9">Type</a> : uint32 { <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af">Class</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077">Mount</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd">Tradeskill</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d">Pet</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:a636cc62a0635fc1566fb574ebe9941a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34dc7b354e539f94e4c8a4cbd0711758"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758">SpellState</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b">Available</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f">Unavailable</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd">Known</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:a34dc7b354e539f94e4c8a4cbd0711758"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4935022d4e3c686a8b51cd68a4f2b66"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66">FailReason</a> : uint32 { <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f">Unavailable</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094">NotEnoughMoney</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264">NotEnoughSkill</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:ae4935022d4e3c686a8b51cd68a4f2b66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ae4935022d4e3c686a8b51cd68a4f2b66" name="ae4935022d4e3c686a8b51cd68a4f2b66"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4935022d4e3c686a8b51cd68a4f2b66">&#9670;&#160;</a></span>FailReason</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66">Trainer::FailReason</a> : <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f" name="ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f"></a>Unavailable&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094" name="ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094"></a>NotEnoughMoney&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264" name="ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264"></a>NotEnoughSkill&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f">Unavailable</a> = 0,</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094">NotEnoughMoney</a> = 1,</div>
+<div class="line"><span class="lineno">   50</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264">NotEnoughSkill</a> = 2</div>
+<div class="line"><span class="lineno">   51</span>    };</div>
+<div class="ttc" id="aa04870_html_a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f"><div class="ttname"><a href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f">Trainer::SpellState::Unavailable</a></div><div class="ttdeci">@ Unavailable</div></div>
+<div class="ttc" id="aa04870_html_ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094"><div class="ttname"><a href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094">Trainer::FailReason::NotEnoughMoney</a></div><div class="ttdeci">@ NotEnoughMoney</div></div>
+<div class="ttc" id="aa04870_html_ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264"><div class="ttname"><a href="../../d4/db9/a04870.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264">Trainer::FailReason::NotEnoughSkill</a></div><div class="ttdeci">@ NotEnoughSkill</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a34dc7b354e539f94e4c8a4cbd0711758" name="a34dc7b354e539f94e4c8a4cbd0711758"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34dc7b354e539f94e4c8a4cbd0711758">&#9670;&#160;</a></span>SpellState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758">Trainer::SpellState</a> : <a class="el" href="../../de/d35/a04325.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b" name="a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b"></a>Available&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f" name="a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f"></a>Unavailable&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd" name="a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd"></a>Known&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>    {</div>
+<div class="line"><span class="lineno">   41</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b">Available</a> = 0,</div>
+<div class="line"><span class="lineno">   42</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f">Unavailable</a> = 1,</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd">Known</a> = 2</div>
+<div class="line"><span class="lineno">   44</span>    };</div>
+<div class="ttc" id="aa04870_html_a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd"><div class="ttname"><a href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd">Trainer::SpellState::Known</a></div><div class="ttdeci">@ Known</div></div>
+<div class="ttc" id="aa04870_html_a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b"><div class="ttname"><a href="../../d4/db9/a04870.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b">Trainer::SpellState::Available</a></div><div class="ttdeci">@ Available</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a636cc62a0635fc1566fb574ebe9941a9" name="a636cc62a0635fc1566fb574ebe9941a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a636cc62a0635fc1566fb574ebe9941a9">&#9670;&#160;</a></span>Type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9">Trainer::Type</a> : <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af" name="a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af"></a>Class&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077" name="a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077"></a>Mount&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd" name="a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd"></a>Tradeskill&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d" name="a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d"></a>Pet&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>    {</div>
+<div class="line"><span class="lineno">   33</span>        <a class="code hl_enumvalue" href="../../db/dce/a01529.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a> = 0,</div>
+<div class="line"><span class="lineno">   34</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077">Mount</a> = 1,</div>
+<div class="line"><span class="lineno">   35</span>        <a class="code hl_enumvalue" href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd">Tradeskill</a> = 2,</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_class" href="../../dd/d1d/a08559.html">Pet</a> = 3</div>
+<div class="line"><span class="lineno">   37</span>    };</div>
+<div class="ttc" id="aa01529_html_ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af"><div class="ttname"><a href="../../db/dce/a01529.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">ServerMailConditionType::Class</a></div><div class="ttdeci">@ Class</div><div class="ttdoc">Requires the player to be a specific class.</div></div>
+<div class="ttc" id="aa04870_html_a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd"><div class="ttname"><a href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd">Trainer::Type::Tradeskill</a></div><div class="ttdeci">@ Tradeskill</div></div>
+<div class="ttc" id="aa04870_html_a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077"><div class="ttname"><a href="../../d4/db9/a04870.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077">Trainer::Type::Mount</a></div><div class="ttdeci">@ Mount</div></div>
+<div class="ttc" id="aa08559_html"><div class="ttname"><a href="../../dd/d1d/a08559.html">Pet</a></div><div class="ttdef"><b>Definition:</b> Pet.h:41</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/dda/a04860.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../d4/db9/a04870.html">Bank</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:50:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/db9/a04870.html">Trainer</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:51:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

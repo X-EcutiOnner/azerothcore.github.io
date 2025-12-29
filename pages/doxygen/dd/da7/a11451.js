@@ -1,6 +1,13 @@
 var a11451 =
 [
-    [ "CastHandler", "dd/da7/a11451.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
-    [ "Call", "dd/da7/a11451.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
-    [ "pCastHandlerScript", "dd/da7/a11451.html#a091c494c18bc81968a386bc5f2565905", null ]
+    [ "PetAuraMap", "dd/da7/a11451.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "dd/da7/a11451.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "dd/da7/a11451.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "dd/da7/a11451.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "dd/da7/a11451.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "dd/da7/a11451.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "dd/da7/a11451.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "dd/da7/a11451.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "dd/da7/a11451.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "dd/da7/a11451.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

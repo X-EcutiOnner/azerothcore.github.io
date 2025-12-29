@@ -1,8 +1,8 @@
 var a10295 =
 [
-    [ "_OnTrigger", "da/d85/a10295.html#a6da93a21c84345bd77e467377810e756", null ],
-    [ "AreaTriggerScript", "da/d85/a10295.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "OnTrigger", "da/d85/a10295.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
-    [ "ResetAreaTriggerDone", "da/d85/a10295.html#a3b44c1892c1100028b387d15bfbdae60", null ],
-    [ "ResetAreaTriggerDone", "da/d85/a10295.html#a3917da4a6f605077720172cda25322ee", null ]
+    [ "AllCommandScript", "da/d85/a10295.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "da/d85/a10295.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "da/d85/a10295.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "da/d85/a10295.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "da/d85/a10295.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

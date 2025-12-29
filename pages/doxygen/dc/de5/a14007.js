@@ -1,11 +1,6 @@
 var a14007 =
 [
-    [ "npc_tapoke_slim_jahnAI", "dc/de5/a14007.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "dc/de5/a14007.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "dc/de5/a14007.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "dc/de5/a14007.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "dc/de5/a14007.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "dc/de5/a14007.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "dc/de5/a14007.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "dc/de5/a14007.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d0/df2/a14011.html", "d0/df2/a14011" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "dc/de5/a14007.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "dc/de5/a14007.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

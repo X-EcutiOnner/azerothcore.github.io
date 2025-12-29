@@ -1,6 +1,6 @@
 var a26411 =
 [
-    [ "CheckCast", "dd/d35/a26411.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "dd/d35/a26411.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "dd/d35/a26411.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "CalculateAmount", "dd/d35/a26411.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "dd/d35/a26411.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "dd/d35/a26411.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

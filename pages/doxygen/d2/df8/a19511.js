@@ -1,7 +1,6 @@
 var a19511 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d2/df8/a19511.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d2/df8/a19511.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d2/df8/a19511.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d2/df8/a19511.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "npc_scion_of_eternityAI", "d1/d99/a19515.html", "d1/d99/a19515" ],
+    [ "npc_scion_of_eternity", "d2/df8/a19511.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "d2/df8/a19511.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

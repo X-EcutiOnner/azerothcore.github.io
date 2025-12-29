@@ -1,6 +1,6 @@
 var a20335 =
 [
-    [ "FilterTargets", "db/d51/a20335.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "db/d51/a20335.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "db/d51/a20335.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/dc2/a20339.html", "d8/dc2/a20339" ],
+    [ "npc_ulduar_saronite_animus", "db/d51/a20335.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "db/d51/a20335.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

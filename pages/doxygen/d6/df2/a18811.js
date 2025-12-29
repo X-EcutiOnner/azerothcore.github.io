@@ -1,6 +1,8 @@
 var a18811 =
 [
-    [ "npc_rotting_frost_giantAI", "db/d40/a18815.html", "db/d40/a18815" ],
-    [ "npc_rotting_frost_giant", "d6/df2/a18811.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d6/df2/a18811.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "FilterTargets", "d6/df2/a18811.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "d6/df2/a18811.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "d6/df2/a18811.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "d6/df2/a18811.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "d6/df2/a18811.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

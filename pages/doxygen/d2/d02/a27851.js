@@ -1,7 +1,6 @@
 var a27851 =
 [
-    [ "npc_sayge", "d2/d02/a27851.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d2/d02/a27851.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d2/d02/a27851.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d2/d02/a27851.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_injured_patientAI", "d6/d18/a27855.html", "d6/d18/a27855" ],
+    [ "npc_injured_patient", "d2/d02/a27851.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d2/d02/a27851.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

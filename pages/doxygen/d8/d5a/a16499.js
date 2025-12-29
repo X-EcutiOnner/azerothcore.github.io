@@ -1,6 +1,6 @@
 var a16499 =
 [
-    [ "npc_toc5_player_vehicleAI", "d7/df9/a16503.html", "d7/df9/a16503" ],
-    [ "npc_toc5_player_vehicle", "d8/d5a/a16499.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "d8/d5a/a16499.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "npc_argent_soldierAI", "d7/df9/a16503.html", "d7/df9/a16503" ],
+    [ "npc_argent_soldier", "d8/d5a/a16499.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "d8/d5a/a16499.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

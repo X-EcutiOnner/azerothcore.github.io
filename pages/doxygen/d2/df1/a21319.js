@@ -1,6 +1,7 @@
 var a21319 =
 [
-    [ "npc_ferocious_rhinoAI", "d0/d6a/a21323.html", "d0/d6a/a21323" ],
-    [ "npc_ferocious_rhino", "d2/df1/a21319.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d2/df1/a21319.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "HandleOnEffectRemove", "d2/df1/a21319.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "d2/df1/a21319.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "d2/df1/a21319.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "d2/df1/a21319.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

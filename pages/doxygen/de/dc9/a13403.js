@@ -1,6 +1,8 @@
 var a13403 =
 [
-    [ "boss_baroness_anastariAI", "de/d8c/a13407.html", "de/d8c/a13407" ],
-    [ "boss_baroness_anastari", "de/dc9/a13403.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "de/dc9/a13403.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "FilterTargets", "de/dc9/a13403.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "de/dc9/a13403.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "de/dc9/a13403.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "de/dc9/a13403.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "de/dc9/a13403.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

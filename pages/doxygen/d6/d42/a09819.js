@@ -1,8 +1,6 @@
 var a09819 =
 [
-    [ "CircleBoundary", "d6/d42/a09819.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d6/d42/a09819.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d6/d42/a09819.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d6/d42/a09819.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d6/d42/a09819.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "ServerMailItems", "d6/d42/a09819.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "d6/d42/a09819.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "d6/d42/a09819.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

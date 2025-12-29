@@ -1,7 +1,6 @@
 var a26047 =
 [
-    [ "HandleDummy", "d1/d3c/a26047.html#a630b3359dcecdb65992df67fbc4b197b", null ],
-    [ "PrepareSpellScript", "d1/d3c/a26047.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
-    [ "Register", "d1/d3c/a26047.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
-    [ "Validate", "d1/d3c/a26047.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
+    [ "CheckSinkholes", "d1/d3c/a26047.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d1/d3c/a26047.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d1/d3c/a26047.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

@@ -1,7 +1,6 @@
 var a25207 =
 [
-    [ "HandleScript", "df/d05/a25207.html#af386e49e9020328f123c4da7d82d4b0c", null ],
-    [ "PrepareSpellScript", "df/d05/a25207.html#a5e4618514d33bbc18fcc26c83279e430", null ],
-    [ "Register", "df/d05/a25207.html#a3560275f387f7b0de34f9d1c255241fe", null ],
-    [ "Validate", "df/d05/a25207.html#a108e58cb90719b572f3578f0d44d0627", null ]
+    [ "CheckAreaTarget", "df/d05/a25207.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "df/d05/a25207.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "df/d05/a25207.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

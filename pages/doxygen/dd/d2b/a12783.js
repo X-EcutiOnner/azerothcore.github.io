@@ -1,5 +1,6 @@
 var a12783 =
 [
-    [ "npc_chess_move_trigger", "dd/d2b/a12783.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "dd/d2b/a12783.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "npc_mc_core_houndAI", "d2/d6e/a12787.html", "d2/d6e/a12787" ],
+    [ "npc_mc_core_hound", "dd/d2b/a12783.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "dd/d2b/a12783.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

@@ -1,8 +1,11 @@
 var a19811 =
 [
-    [ "brann_bronzebeardAI", "dd/d40/a19815.html", "dd/d40/a19815" ],
-    [ "brann_bronzebeard", "d6/dbb/a19811.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d6/dbb/a19811.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d6/dbb/a19811.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d6/dbb/a19811.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_maiden_of_griefAI", "d6/dbb/a19811.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d6/dbb/a19811.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d6/dbb/a19811.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d6/dbb/a19811.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d6/dbb/a19811.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d6/dbb/a19811.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d6/dbb/a19811.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d6/dbb/a19811.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

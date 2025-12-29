@@ -1,6 +1,8 @@
 var a18555 =
 [
-    [ "ModDestHeight", "dc/d2b/a18555.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "dc/d2b/a18555.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "dc/d2b/a18555.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "ChangeDamageAndGrow", "dc/d2b/a18555.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "dc/d2b/a18555.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "dc/d2b/a18555.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "dc/d2b/a18555.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "dc/d2b/a18555.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

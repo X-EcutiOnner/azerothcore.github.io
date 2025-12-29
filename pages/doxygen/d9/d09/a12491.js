@@ -1,7 +1,7 @@
 var a12491 =
 [
-    [ "HandlePeriodic", "d9/d09/a12491.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d9/d09/a12491.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d9/d09/a12491.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d9/d09/a12491.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "HandleScript", "d9/d09/a12491.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "d9/d09/a12491.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "d9/d09/a12491.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "d9/d09/a12491.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

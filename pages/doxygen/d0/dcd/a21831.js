@@ -1,5 +1,6 @@
 var a21831 =
 [
-    [ "npc_leryssaAI", "d0/dcd/a21831.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d0/dcd/a21831.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_leryssaAI", "db/d26/a21835.html", "db/d26/a21835" ],
+    [ "npc_leryssa", "d0/dcd/a21831.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d0/dcd/a21831.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

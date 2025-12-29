@@ -1,6 +1,9 @@
 var a12019 =
 [
-    [ "boss_vanndarAI", "dc/da4/a12023.html", "dc/da4/a12023" ],
-    [ "boss_vanndar", "de/de6/a12019.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "de/de6/a12019.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "send_commandscript", "de/de6/a12019.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "de/de6/a12019.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "de/de6/a12019.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "de/de6/a12019.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "de/de6/a12019.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "de/de6/a12019.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

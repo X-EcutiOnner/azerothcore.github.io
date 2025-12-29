@@ -1,17 +1,10 @@
 var a04418 =
 [
-    [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "d9/da3/a05354.html", "d9/da3/a05354" ],
-    [ "VisitorHelper", "d3/d74/a04418.html#afb97c1925d9afe2b9cb0f316b722b286", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a3c05d024f0dd548fe51e8d8657cdb9b8", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#ab2c2dfc68b7d3ba945e400be7066f94c", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a2bba031b226b147ad62a069694924b83", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a521e8e3b3a45439e572e9769ad39b512", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#ace6180e67fbb6a46929af65480632388", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#ac2220e2e1174a525d43b8449fd25a2e3", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a87fb6736f88af014249a28bf2a95df93", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a4160fec3fe29282a64569456f5ce1de6", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a3a47e8382377ca85476452be8786e00f", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a85da15ab4908f58ef09fcf703f3c01a6", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#af508b246df1e278d5ebf32da50f4e2f9", null ],
-    [ "VisitorHelper", "d3/d74/a04418.html#a3460133a0353fbe6d657e70e70653299", null ]
+    [ "TypeList< HEAD, TAIL >", "d3/d97/a05375.html", "d3/d97/a05375" ],
+    [ "TYPELIST_1", "d3/d74/a04418.html#a6a7a6aa3dece450c8d239713e2952df7", null ],
+    [ "TYPELIST_2", "d3/d74/a04418.html#a311cb99af993804c6737ae46c5cbfaff", null ],
+    [ "TYPELIST_3", "d3/d74/a04418.html#a0309f68a543c5c0994f9edc0e56dc59f", null ],
+    [ "TYPELIST_4", "d3/d74/a04418.html#a7a156c571ab21a16b0495e1c882a07fa", null ],
+    [ "TYPELIST_5", "d3/d74/a04418.html#aad5d9b3c82c8503c85c625acd41c0a2f", null ],
+    [ "TYPELIST_6", "d3/d74/a04418.html#ac6f3277dcaade98ceeaa5c0e1c454816", null ]
 ];

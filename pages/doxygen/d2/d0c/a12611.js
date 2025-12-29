@@ -1,6 +1,7 @@
 var a12611 =
 [
-    [ "npc_core_ragerAI", "df/d3a/a12615.html", "df/d3a/a12615" ],
-    [ "npc_core_rager", "d2/d0c/a12611.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
-    [ "GetAI", "d2/d0c/a12611.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
+    [ "HandleEffectScriptEffect", "d2/d0c/a12611.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d2/d0c/a12611.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d2/d0c/a12611.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d2/d0c/a12611.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

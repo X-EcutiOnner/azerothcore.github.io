@@ -1,6 +1,6 @@
 var a09707 =
 [
-    [ "DoorInfo", "dc/d36/a09707.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "dc/d36/a09707.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "dc/d36/a09707.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "bossId", "dc/d36/a09707.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "dc/d36/a09707.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "dc/d36/a09707.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

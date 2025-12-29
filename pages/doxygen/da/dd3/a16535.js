@@ -1,8 +1,6 @@
 var a16535 =
 [
-    [ "npc_announcer_toc5AI", "da/dd3/a16535.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "da/dd3/a16535.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "da/dd3/a16535.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "da/dd3/a16535.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "da/dd3/a16535.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_black_knight_ghoulAI", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
+    [ "npc_black_knight_ghoul", "da/dd3/a16535.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "da/dd3/a16535.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

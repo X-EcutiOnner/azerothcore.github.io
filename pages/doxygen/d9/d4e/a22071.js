@@ -1,7 +1,6 @@
 var a22071 =
 [
-    [ "HandleDummy", "d9/d4e/a22071.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d9/d4e/a22071.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d9/d4e/a22071.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d9/d4e/a22071.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "da/d67/a22075.html", "da/d67/a22075" ],
+    [ "npc_commander_eligor_dawnbringer", "d9/d4e/a22071.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d9/d4e/a22071.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

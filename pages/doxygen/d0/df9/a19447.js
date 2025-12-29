@@ -1,6 +1,8 @@
 var a19447 =
 [
-    [ "npc_vortex_rideAI", "da/d57/a19451.html", "da/d57/a19451" ],
-    [ "npc_vortex_ride", "d0/df9/a19447.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "d0/df9/a19447.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "npc_teslaAI", "d0/df9/a19447.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d0/df9/a19447.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d0/df9/a19447.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d0/df9/a19447.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d0/df9/a19447.html#a962745569b07e368067ee483d2379840", null ]
 ];

@@ -1,10 +1,6 @@
 var a12475 =
 [
-    [ "npc_corrupted_totem", "df/ded/a12475.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "df/ded/a12475.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "df/ded/a12475.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "df/ded/a12475.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "df/ded/a12475.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "df/ded/a12475.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "df/ded/a12475.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_chromaggusAI", "df/db6/a12479.html", "df/db6/a12479" ],
+    [ "boss_chromaggus", "df/ded/a12475.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "df/ded/a12475.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

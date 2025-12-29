@@ -1,6 +1,6 @@
 var a18047 =
 [
-    [ "UnboundPlagueTargetSelector", "d9/d42/a18047.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d9/d42/a18047.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d9/d42/a18047.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_coldflameAI", "d5/d5a/a18051.html", "d5/d5a/a18051" ],
+    [ "npc_coldflame", "d9/d42/a18047.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d9/d42/a18047.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

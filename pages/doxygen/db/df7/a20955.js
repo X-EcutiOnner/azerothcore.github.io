@@ -1,8 +1,12 @@
 var a20955 =
 [
-    [ "OnPeriodic", "db/df7/a20955.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "db/df7/a20955.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "db/df7/a20955.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "db/df7/a20955.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "db/df7/a20955.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_xt002_boombotAI", "db/df7/a20955.html#a9be3f9270a828946e2934aea24aa5549", null ],
+    [ "DamageTaken", "db/df7/a20955.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
+    [ "Explode", "db/df7/a20955.html#afe8c0408887b8cd0cb533475c221035b", null ],
+    [ "JustDied", "db/df7/a20955.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
+    [ "MovementInform", "db/df7/a20955.html#a2cb53c683de44347b0448d8a1611300e", null ],
+    [ "Reset", "db/df7/a20955.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
+    [ "UpdateAI", "db/df7/a20955.html#a2bebdd97339b3b545331a494a51246eb", null ],
+    [ "_boomed", "db/df7/a20955.html#acd75eb57db0043fbae633a2f63924c05", null ],
+    [ "_locked", "db/df7/a20955.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
 ];

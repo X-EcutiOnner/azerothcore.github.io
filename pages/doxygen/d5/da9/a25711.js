@@ -1,7 +1,6 @@
 var a25711 =
 [
-    [ "FilterTargets", "d5/da9/a25711.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d5/da9/a25711.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d5/da9/a25711.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d5/da9/a25711.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "CheckCast", "d5/da9/a25711.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d5/da9/a25711.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d5/da9/a25711.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

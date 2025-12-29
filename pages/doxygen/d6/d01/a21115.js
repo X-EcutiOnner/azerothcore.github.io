@@ -1,8 +1,11 @@
 var a21115 =
 [
-    [ "OnApply", "d6/d01/a21115.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d6/d01/a21115.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d6/d01/a21115.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d6/d01/a21115.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d6/d01/a21115.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_llaneAI", "d6/d01/a21115.html#a8524834b7dff49844d96b7dc49fd265d", null ],
+    [ "NextStep", "d6/d01/a21115.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
+    [ "Reset", "d6/d01/a21115.html#a86f9d594562f842d478b63de18e52455", null ],
+    [ "Say", "d6/d01/a21115.html#ab619684f15f5325383a413dced7c930e", null ],
+    [ "UpdateAI", "d6/d01/a21115.html#a545378189f85968ac925baa06ad608b5", null ],
+    [ "_checkTimer", "d6/d01/a21115.html#aa4956f6943adce94a9ed4fec951317d6", null ],
+    [ "_running", "d6/d01/a21115.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
+    [ "_step", "d6/d01/a21115.html#a718c0bf307934b9ee9cbb933899c6324", null ]
 ];

@@ -1,6 +1,7 @@
 var a15159 =
 [
-    [ "npc_idol_room_spawnerAI", "df/de0/a15163.html", "df/de0/a15163" ],
-    [ "npc_idol_room_spawner", "d3/ddb/a15159.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "d3/ddb/a15159.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "npc_onyxian_lair_guard", "d3/ddb/a15159.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d3/ddb/a15159.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d3/ddb/a15159.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d3/ddb/a15159.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

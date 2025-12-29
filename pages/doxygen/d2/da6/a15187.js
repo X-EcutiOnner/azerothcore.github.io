@@ -1,5 +1,6 @@
 var a15187 =
 [
-    [ "pathId", "d2/da6/a15187.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "d2/da6/a15187.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "npc_belnistraszAI", "d5/d62/a15191.html", "d5/d62/a15191" ],
+    [ "npc_belnistrasz", "d2/da6/a15187.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d2/da6/a15187.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

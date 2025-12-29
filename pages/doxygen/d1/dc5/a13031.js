@@ -1,6 +1,18 @@
 var a13031 =
 [
-    [ "HandleAfterCast", "d1/dc5/a13031.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d1/dc5/a13031.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d1/dc5/a13031.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "boss_romulo", "d1/dc5/a13031.html#a497e0e57d2abb6640081c1d141a588ff", null ],
+    [ "DamageTaken", "d1/dc5/a13031.html#a603db3883d03367406cbcf3f2cb28a08", null ],
+    [ "DoAction", "d1/dc5/a13031.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
+    [ "EnterEvadeMode", "d1/dc5/a13031.html#ab4dda6b70337668dd36a582e8439c3db", null ],
+    [ "JustDied", "d1/dc5/a13031.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
+    [ "JustEngagedWith", "d1/dc5/a13031.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
+    [ "JustReachedHome", "d1/dc5/a13031.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
+    [ "KilledUnit", "d1/dc5/a13031.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
+    [ "Reset", "d1/dc5/a13031.html#a15703ee7df979b8ee5892dacf84066e2", null ],
+    [ "ScheduleCombat", "d1/dc5/a13031.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
+    [ "UpdateAI", "d1/dc5/a13031.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
+    [ "_scheduler", "d1/dc5/a13031.html#a456abfa48f038e904c427179c2a10edb", null ],
+    [ "instance", "d1/dc5/a13031.html#aae979b72844ff8fcc70956925df4fa9b", null ],
+    [ "isFakingDeath", "d1/dc5/a13031.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
+    [ "phase", "d1/dc5/a13031.html#ab549436aec35727665150d51f1c25714", null ]
 ];

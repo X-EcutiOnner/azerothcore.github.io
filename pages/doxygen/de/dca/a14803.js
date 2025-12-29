@@ -1,6 +1,6 @@
 var a14803 =
 [
-    [ "HandleScriptEffect", "de/dca/a14803.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "de/dca/a14803.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "de/dca/a14803.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "OnAuraRemove", "de/dca/a14803.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "de/dca/a14803.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "de/dca/a14803.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

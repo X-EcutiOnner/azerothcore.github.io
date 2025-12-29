@@ -1,7 +1,6 @@
 var a26267 =
 [
-    [ "CalculateAmount", "d0/db0/a26267.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d0/db0/a26267.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d0/db0/a26267.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d0/db0/a26267.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "CheckProc", "d0/db0/a26267.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
+    [ "PrepareAuraScript", "d0/db0/a26267.html#a42b97406721d3493a378394132a55981", null ],
+    [ "Register", "d0/db0/a26267.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
 ];

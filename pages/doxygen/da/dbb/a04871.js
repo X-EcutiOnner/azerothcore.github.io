@@ -1,7 +1,6 @@
 var a04871 =
 [
-    [ "ArenaTeam", "d0/d62/a10546.html", "d0/d62/a10546" ],
-    [ "CalendarComplain", "d6/d34/a10550.html", "d6/d34/a10550" ],
-    [ "GetEvent", "d5/d4e/a10538.html", "d5/d4e/a10538" ],
-    [ "GuildFilter", "da/d5d/a10542.html", "da/d5d/a10542" ]
+    [ "hash< ObjectGuid >", "d8/d97/a08507.html", "d8/d97/a08507" ],
+    [ "hash< SpellGroup >", "df/dee/a11439.html", "df/dee/a11439" ],
+    [ "hash< std::pair< uint32_t, uint32_t > >", "d8/d30/a29035.html", "d8/d30/a29035" ]
 ];

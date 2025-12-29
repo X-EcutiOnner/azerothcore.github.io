@@ -1,6 +1,9 @@
 var a19835 =
 [
-    [ "iron_golem_custodianAI", "d2/dcb/a19839.html", "d2/dcb/a19839" ],
-    [ "iron_golem_custodian", "d0/d93/a19835.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "d0/d93/a19835.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d0/d93/a19835.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "d0/d93/a19835.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "d0/d93/a19835.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "d0/d93/a19835.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "d0/d93/a19835.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "d0/d93/a19835.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

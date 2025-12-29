@@ -1,5 +1,7 @@
 var a27347 =
 [
-    [ "AreaTrigger_at_sentry_point", "d4/d3e/a27347.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d4/d3e/a27347.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "CharacterDeleteActionIpLogger", "d4/d3e/a27347.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d4/d3e/a27347.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d4/d3e/a27347.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d4/d3e/a27347.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

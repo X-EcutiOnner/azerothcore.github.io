@@ -1,8 +1,7 @@
 var a11359 =
 [
-    [ "DirectionType", "d1/d2f/a11359.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d1/d2f/a11359.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d1/d2f/a11359.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d1/d2f/a11359.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d1/d2f/a11359.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "effectMask", "d1/d2f/a11359.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d1/d2f/a11359.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d1/d2f/a11359.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d1/d2f/a11359.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

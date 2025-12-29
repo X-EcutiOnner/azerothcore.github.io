@@ -1,5 +1,5 @@
 var a20703 =
 [
-    [ "achievement_mimiron_firefighter", "dc/d9d/a20703.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "dc/d9d/a20703.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "npc_ulduar_flames_spreadAI", "dc/d9d/a20703.html#a607ee542f7c6d84f4072557e44a80905", null ],
+    [ "SpellHit", "dc/d9d/a20703.html#abe69df9873fc125306a4ed757665e448", null ]
 ];

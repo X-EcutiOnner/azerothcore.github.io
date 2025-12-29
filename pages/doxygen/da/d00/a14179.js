@@ -1,6 +1,8 @@
 var a14179 =
 [
-    [ "OnEffect", "da/d00/a14179.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "da/d00/a14179.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "da/d00/a14179.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "HandleScriptEffect", "da/d00/a14179.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "da/d00/a14179.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "da/d00/a14179.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "da/d00/a14179.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "da/d00/a14179.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

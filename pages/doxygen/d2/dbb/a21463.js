@@ -1,6 +1,6 @@
 var a21463 =
 [
-    [ "boss_toravonAI", "d5/d01/a21467.html", "d5/d01/a21467" ],
-    [ "boss_toravon", "d2/dbb/a21463.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "d2/dbb/a21463.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "boss_koralonAI", "d5/d01/a21467.html", "d5/d01/a21467" ],
+    [ "boss_koralon", "d2/dbb/a21463.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d2/dbb/a21463.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

@@ -1,8 +1,8 @@
 var a09383 =
 [
-    [ "FriendlyMissingBuffInRange", "d3/d44/a09383.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d3/d44/a09383.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d3/d44/a09383.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d3/d44/a09383.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d3/d44/a09383.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "NearestGameObjectCheck", "d3/d44/a09383.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
+    [ "NearestGameObjectCheck", "d3/d44/a09383.html#a366ef1710823d1e52eb2df650e60562f", null ],
+    [ "operator()", "d3/d44/a09383.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
+    [ "i_obj", "d3/d44/a09383.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
+    [ "i_range", "d3/d44/a09383.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
 ];

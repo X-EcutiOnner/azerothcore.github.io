@@ -1,36 +1,65 @@
 var a02132 =
 [
-    [ "boss_high_king_maulgar", "d4/d77/a23678.html", "d4/d77/a23678" ],
-    [ "boss_olm_the_summoner", "d4/d75/a23682.html", "d4/d75/a23682" ],
-    [ "boss_kiggler_the_crazed", "db/d17/a23686.html", "db/d17/a23686" ],
-    [ "boss_blindeye_the_seer", "d8/dd6/a23690.html", "d8/dd6/a23690" ],
-    [ "boss_krosh_firehand", "d0/d2d/a23694.html", "d0/d2d/a23694" ],
-    [ "HighKingMaulgar", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00", [
-      [ "SAY_AGGRO", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_ENRAGE", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54", null ],
-      [ "SAY_OGRE_DEATH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327", null ],
-      [ "SAY_SLAY", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SPELL_ARCING_SMASH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e", null ],
-      [ "SPELL_MIGHTY_BLOW", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00ae9c68ac99f2257b412925e1b55e98716", null ],
-      [ "SPELL_WHIRLWIND", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801", null ],
-      [ "SPELL_BERSERKER_C", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4", null ],
-      [ "SPELL_ROAR", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f", null ],
-      [ "SPELL_FLURRY", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58", null ],
-      [ "SPELL_DARK_DECAY", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c", null ],
-      [ "SPELL_DEATH_COIL", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163", null ],
-      [ "SPELL_SUMMON_WFH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112", null ],
-      [ "SPELL_GREATER_POLYMORPH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df", null ],
-      [ "SPELL_LIGHTNING_BOLT", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526", null ],
-      [ "SPELL_ARCANE_SHOCK", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a70217cff0adeb1a0499b1651a82f03ef", null ],
-      [ "SPELL_ARCANE_EXPLOSION", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a6cef4c5e88133771f6b27aec8b8cfdce", null ],
-      [ "SPELL_GREATER_PW_SHIELD", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a55ae8f41cbf9520dcf85fbec5a89d7d0", null ],
-      [ "SPELL_HEAL", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a69fcca2d13e03c684fa0459f960ef9a7", null ],
-      [ "SPELL_PRAYER_OH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a60e7f4938fc88cf1649f00a81e4ea95b", null ],
-      [ "SPELL_GREATER_FIREBALL", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7", null ],
-      [ "SPELL_SPELLSHIELD", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a37fcb71489a9591a31c6f74520ed175e", null ],
-      [ "SPELL_BLAST_WAVE", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88", null ],
-      [ "ACTION_ADD_DEATH", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a37c2463b1e6a48c0812bd3a0df718ffd", null ]
+    [ "spell_q10935_the_exorcism_of_colonel_jules", "d8/dd2/a24239.html", "d8/dd2/a24239" ],
+    [ "npc_aeranas", "d7/d3b/a24243.html", "d7/d3b/a24243" ],
+    [ "npc_aeranas::npc_aeranasAI", "d0/dac/a24247.html", "d0/dac/a24247" ],
+    [ "npc_ancestral_wolf", "de/d15/a24251.html", "de/d15/a24251" ],
+    [ "npc_ancestral_wolf::npc_ancestral_wolfAI", "d8/de9/a24255.html", "d8/de9/a24255" ],
+    [ "npc_wounded_blood_elf", "d1/d69/a24259.html", "d1/d69/a24259" ],
+    [ "npc_wounded_blood_elf::npc_wounded_blood_elfAI", "dc/dff/a24263.html", "dc/dff/a24263" ],
+    [ "npc_fel_guard_hound", "d3/dc5/a24267.html", "d3/dc5/a24267" ],
+    [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "d7/d03/a24271.html", "d7/d03/a24271" ],
+    [ "npc_magister_aledis", "dc/d54/a24275.html", "dc/d54/a24275" ],
+    [ "go_beacon", "d6/d7f/a24279.html", "d6/d7f/a24279" ],
+    [ "go_beacon::go_beaconAI", "d0/da1/a24283.html", "d0/da1/a24283" ],
+    [ "go_magtheridons_head", "df/d9c/a24287.html", "df/d9c/a24287" ],
+    [ "Aeranas", "dd/d07/a02132.html#a35e86459585ec89189aab3acab8ed4ca", [
+      [ "SAY_SUMMON", "dd/d07/a02132.html#a35e86459585ec89189aab3acab8ed4caacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_FREE", "dd/d07/a02132.html#a35e86459585ec89189aab3acab8ed4caa27368277122194007f925387131a1eb9", null ],
+      [ "SPELL_ENVELOPING_WINDS", "dd/d07/a02132.html#a35e86459585ec89189aab3acab8ed4caacf98b779c795324d47e44b043eeacf92", null ],
+      [ "SPELL_SHOCK", "dd/d07/a02132.html#a35e86459585ec89189aab3acab8ed4caa30aa4cac2f70a310466b3fb0f2d10eab", null ]
     ] ],
-    [ "AddSC_boss_high_king_maulgar", "dd/d07/a02132.html#a834deb3700299f1a26f70d1db3e7c804", null ]
+    [ "Aledis", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dce", [
+      [ "SAY_CHALLENGE", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dcea3673de22d7f7ff97fa58d05bda2e1e19", null ],
+      [ "SAY_DEFEATED", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dceac03c09df1ddcc4faeb33ce6334bdf677", null ],
+      [ "EVENT_TALK", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dcead8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_ATTACK", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360", null ],
+      [ "EVENT_EVADE", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dceac76f74b24db9c237bcec4674c4783ca4", null ],
+      [ "EVENT_FIREBALL", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dcea2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROSTNOVA", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dceadaeaec1cfb428809aea8f40a63d94a3e", null ],
+      [ "SPELL_FIREBALL", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dcea846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROSTNOVA", "dd/d07/a02132.html#a03c6f57f8a159946f896f5702ca14dcead434ff150c6b4a05fa0e2d914374690b", null ]
+    ] ],
+    [ "AncestralWolf", "dd/d07/a02132.html#ae0ad636572003d2f340b9f5853329b31", [
+      [ "EMOTE_WOLF_LIFT_HEAD", "dd/d07/a02132.html#ae0ad636572003d2f340b9f5853329b31a3d71eb68225f60940079e2c6d5b848bb", null ],
+      [ "EMOTE_WOLF_HOWL", "dd/d07/a02132.html#ae0ad636572003d2f340b9f5853329b31a89cae72f3324d089afca2e6ec3bab2b0", null ],
+      [ "SAY_WOLF_WELCOME", "dd/d07/a02132.html#ae0ad636572003d2f340b9f5853329b31a129ec8cc004776adf7eede6faee16398", null ],
+      [ "SPELL_GUIDED_BY_THE_SPIRITS", "dd/d07/a02132.html#ae0ad636572003d2f340b9f5853329b31a49de5a0a57dffbeebdb91a8ad307328d", null ],
+      [ "NPC_RYGA", "dd/d07/a02132.html#ae0ad636572003d2f340b9f5853329b31a4c5c75439f08ad6a8f448db8931dd14d", null ]
+    ] ],
+    [ "Beacon", "dd/d07/a02132.html#aa0353d38e414033b4eac645836037a9c", [
+      [ "NPC_STONESCHYE_WHELP", "dd/d07/a02132.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8", null ]
+    ] ],
+    [ "FelGuard", "dd/d07/a02132.html#af0944e670cdc4872cb4e1de78159ef88", [
+      [ "SPELL_SUMMON_POO", "dd/d07/a02132.html#af0944e670cdc4872cb4e1de78159ef88acaf3b07d165603ce6a87d5e137c8bc6c", null ],
+      [ "NPC_DERANGED_HELBOAR", "dd/d07/a02132.html#af0944e670cdc4872cb4e1de78159ef88a74a22ffd9e172700137c4a85ec978333", null ],
+      [ "QUEST_SHIZZ_WORK", "dd/d07/a02132.html#af0944e670cdc4872cb4e1de78159ef88a22cc94ada0c254f3d3848e67f5701588", null ]
+    ] ],
+    [ "q10935Exorcism", "dd/d07/a02132.html#a2b917ea5e39342011ca6dcdac24e869e", [
+      [ "SPELL_HOLY_FIRE", "dd/d07/a02132.html#a2b917ea5e39342011ca6dcdac24e869eac3a4396238fbb11f537aa061424abe2b", null ],
+      [ "SPELL_HEAL_BARADA", "dd/d07/a02132.html#a2b917ea5e39342011ca6dcdac24e869eae33e5e18452ad49b09d4403d2b856efd", null ]
+    ] ],
+    [ "WoundedBloodElf", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9e", [
+      [ "SAY_ELF_START", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9ea52186d9cbaa4a5d1e385d2fe13503a97", null ],
+      [ "SAY_ELF_SUMMON1", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9ea3b168b2787eb695fadbe796416731ba3", null ],
+      [ "SAY_ELF_RESTING", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9ea6cd155f2503f730d0d12456613b29964", null ],
+      [ "SAY_ELF_SUMMON2", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9ea678e628b153b8961e58fe7f936fd9c61", null ],
+      [ "SAY_ELF_COMPLETE", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9eae06761dd5b07e038a394a2c7e72e93a7", null ],
+      [ "SAY_ELF_AGGRO", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9eabfc964a1cc07a0fdf8782361353d8a5c", null ],
+      [ "QUEST_ROAD_TO_FALCON_WATCH", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9eaaca23046d9ea87abc77d28689e3349ed", null ],
+      [ "NPC_HAALESHI_WINDWALKER", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9eafbcba9ddc06cf15e740c08aa796f43ba", null ],
+      [ "NPC_HAALESHI_TALONGUARD", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9ea338245af1e86a4794f18dc3072957088", null ],
+      [ "ARAKKOA_CAGE", "dd/d07/a02132.html#a1b44ea4940860848073d89e7761e5d9eafe47930a46107b8a21f186ef6f97ddf7", null ]
+    ] ],
+    [ "AddSC_hellfire_peninsula", "dd/d07/a02132.html#ae450311c68322300a0e6fb8091cd8936", null ]
 ];

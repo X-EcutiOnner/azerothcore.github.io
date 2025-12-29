@@ -1,10 +1,6 @@
 var a26343 =
 [
-    [ "Load", "dd/d67/a26343.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "dd/d67/a26343.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "dd/d67/a26343.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "dd/d67/a26343.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "dd/d67/a26343.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "dd/d67/a26343.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "dd/d67/a26343.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "FilterTargets", "dd/d67/a26343.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "dd/d67/a26343.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "dd/d67/a26343.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

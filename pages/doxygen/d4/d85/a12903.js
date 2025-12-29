@@ -1,5 +1,6 @@
 var a12903 =
 [
-    [ "at_karazhan_mirkblood_entrance", "d4/d85/a12903.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "d4/d85/a12903.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "FilterTargets", "d4/d85/a12903.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "d4/d85/a12903.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "d4/d85/a12903.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

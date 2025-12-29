@@ -1,9 +1,10 @@
 var a09315 =
 [
-    [ "PlayerSearcher", "dc/d2f/a09315.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "dc/d2f/a09315.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "dc/d2f/a09315.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "dc/d2f/a09315.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "dc/d2f/a09315.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "dc/d2f/a09315.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "UnitLastSearcher", "dc/d2f/a09315.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "dc/d2f/a09315.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "dc/d2f/a09315.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "dc/d2f/a09315.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "dc/d2f/a09315.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "dc/d2f/a09315.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "dc/d2f/a09315.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

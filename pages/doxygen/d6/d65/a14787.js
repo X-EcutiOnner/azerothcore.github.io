@@ -1,7 +1,5 @@
 var a14787 =
 [
-    [ "HandleScript", "d6/d65/a14787.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d6/d65/a14787.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d6/d65/a14787.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d6/d65/a14787.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "npc_pilgrims_bounty_plate", "d6/d65/a14787.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d6/d65/a14787.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

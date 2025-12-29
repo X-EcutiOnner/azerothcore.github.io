@@ -1,6 +1,6 @@
 var a24203 =
 [
-    [ "go_apexis_relic", "da/db2/a24203.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "da/db2/a24203.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "da/db2/a24203.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_daranelleAI", "d4/dd1/a24207.html", "d4/dd1/a24207" ],
+    [ "npc_daranelle", "da/db2/a24203.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "da/db2/a24203.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

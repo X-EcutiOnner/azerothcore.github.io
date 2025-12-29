@@ -1,7 +1,7 @@
 var a13379 =
 [
-    [ "OnPeriodic", "d9/d05/a13379.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "d9/d05/a13379.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "d9/d05/a13379.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "d9/d05/a13379.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "boss_apothecary_hummelAI", "d1/d67/a13383.html", "d1/d67/a13383" ],
+    [ "boss_apothecary_hummel", "d9/d05/a13379.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d9/d05/a13379.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d9/d05/a13379.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

@@ -1,5 +1,7 @@
 var a27999 =
 [
-    [ "npc_suns_reach_reclamation", "d5/d5b/a27999.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d5/d5b/a27999.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_flameshocker", "d5/d5b/a27999.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d5/d5b/a27999.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d5/d5b/a27999.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d5/d5b/a27999.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

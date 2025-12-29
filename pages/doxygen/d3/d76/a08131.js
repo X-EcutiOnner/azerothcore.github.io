@@ -1,7 +1,10 @@
 var a08131 =
 [
-    [ "CreatureSpellCooldown", "d3/d76/a08131.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d3/d76/a08131.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d3/d76/a08131.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d3/d76/a08131.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "auras", "d3/d76/a08131.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d3/d76/a08131.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d3/d76/a08131.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d3/d76/a08131.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d3/d76/a08131.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d3/d76/a08131.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d3/d76/a08131.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

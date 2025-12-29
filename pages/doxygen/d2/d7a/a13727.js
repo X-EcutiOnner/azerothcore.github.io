@@ -1,8 +1,10 @@
 var a13727 =
 [
-    [ "HandleEffectApply", "d2/d7a/a13727.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "d2/d7a/a13727.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "d2/d7a/a13727.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "d2/d7a/a13727.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "d2/d7a/a13727.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "npc_sunblade_scout", "d2/d7a/a13727.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "d2/d7a/a13727.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "d2/d7a/a13727.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "d2/d7a/a13727.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "d2/d7a/a13727.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "d2/d7a/a13727.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "d2/d7a/a13727.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

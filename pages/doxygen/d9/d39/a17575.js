@@ -1,6 +1,6 @@
 var a17575 =
 [
-    [ "PrepareSpellScript", "d9/d39/a17575.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d9/d39/a17575.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d9/d39/a17575.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "AddExtraDamage", "d9/d39/a17575.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d9/d39/a17575.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d9/d39/a17575.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

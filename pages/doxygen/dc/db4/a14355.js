@@ -1,6 +1,6 @@
 var a14355 =
 [
-    [ "boss_wushoolayAI", "dc/de3/a14359.html", "dc/de3/a14359" ],
-    [ "boss_wushoolay", "dc/db4/a14355.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "dc/db4/a14355.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "HandleObjectAreaTargetSelect", "dc/db4/a14355.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "dc/db4/a14355.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "dc/db4/a14355.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

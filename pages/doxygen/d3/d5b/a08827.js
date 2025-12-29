@@ -1,6 +1,8 @@
 var a08827 =
 [
-    [ "BuildValuesCachedBuffer", "d3/d5b/a08827.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "d3/d5b/a08827.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "d3/d5b/a08827.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "PowerPctOrderPred", "d3/d5b/a08827.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "d3/d5b/a08827.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "d3/d5b/a08827.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "d3/d5b/a08827.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "d3/d5b/a08827.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

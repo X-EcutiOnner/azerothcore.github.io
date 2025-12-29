@@ -1,8 +1,6 @@
 var a13187 =
 [
-    [ "HandleDummy", "d9/d10/a13187.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d9/d10/a13187.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d9/d10/a13187.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d9/d10/a13187.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d9/d10/a13187.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_dkc1_gothikAI", "dc/de5/a13191.html", "dc/de5/a13191" ],
+    [ "npc_dkc1_gothik", "d9/d10/a13187.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "d9/d10/a13187.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

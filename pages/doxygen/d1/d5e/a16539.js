@@ -1,6 +1,10 @@
 var a16539 =
 [
-    [ "HideNpcEvent", "d1/d5e/a16539.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d1/d5e/a16539.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d1/d5e/a16539.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_black_knight_ghoulAI", "d1/d5e/a16539.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "d1/d5e/a16539.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "d1/d5e/a16539.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "d1/d5e/a16539.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "d1/d5e/a16539.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "d1/d5e/a16539.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "d1/d5e/a16539.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

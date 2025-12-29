@@ -1,7 +1,6 @@
 var a15475 =
 [
-    [ "npc_vekniss_stinger", "de/dad/a15475.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "de/dad/a15475.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "de/dad/a15475.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "de/dad/a15475.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "HandleOnHit", "de/dad/a15475.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "de/dad/a15475.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "de/dad/a15475.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

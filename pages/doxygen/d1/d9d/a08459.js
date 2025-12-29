@@ -1,5 +1,7 @@
 var a08459 =
 [
-    [ "Global", "d1/d9d/a08459.html#a77d72711ba9384384f9fd789f778e8c8", null ],
-    [ "MapSpecific", "d1/d9d/a08459.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
+    [ "AddToGrid", "d1/d9d/a08459.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "d1/d9d/a08459.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "d1/d9d/a08459.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "d1/d9d/a08459.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

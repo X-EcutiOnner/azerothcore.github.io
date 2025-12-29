@@ -1,8 +1,10 @@
 var a16919 =
 [
-    [ "HandleEffectApply", "d9/ddd/a16919.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d9/ddd/a16919.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d9/ddd/a16919.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d9/ddd/a16919.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d9/ddd/a16919.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "boss_dredAI", "d9/ddd/a16919.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d9/ddd/a16919.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d9/ddd/a16919.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d9/ddd/a16919.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d9/ddd/a16919.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d9/ddd/a16919.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d9/ddd/a16919.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

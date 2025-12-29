@@ -1,6 +1,6 @@
 var a17955 =
 [
-    [ "npc_cult_fanaticAI", "dd/d6c/a17959.html", "dd/d6c/a17959" ],
-    [ "npc_cult_fanatic", "db/dc1/a17955.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "db/dc1/a17955.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "IgbArtilleryCheck", "db/dc1/a17955.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "db/dc1/a17955.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "db/dc1/a17955.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

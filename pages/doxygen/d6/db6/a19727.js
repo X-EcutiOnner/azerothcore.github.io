@@ -1,6 +1,8 @@
 var a19727 =
 [
-    [ "CalculateDamage", "d6/db6/a19727.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d6/db6/a19727.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d6/db6/a19727.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "HandleOnEffectApply", "d6/db6/a19727.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d6/db6/a19727.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d6/db6/a19727.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d6/db6/a19727.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d6/db6/a19727.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

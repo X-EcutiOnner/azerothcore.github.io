@@ -1,12 +1,7 @@
 var a04538 =
 [
-    [ "CSymbolInfoPackage", "d4/d54/a05231.html", "d4/d54/a05231" ],
-    [ "_NO_CVCONST_H", "d7/d23/a04538.html#af8660cbefcf140a8992e862e401bc473", null ],
-    [ "CrashFolder", "d7/d23/a04538.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
-    [ "EXCEPTION", "d7/d23/a04538.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
-    [ "WIN32_LEAN_AND_MEAN", "d7/d23/a04538.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
-    [ "ErrorMessage", "d7/d23/a04538.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
-    [ "ToTchar", "d7/d23/a04538.html#a9f2ce59205c508258855d0568854e367", null ],
-    [ "ToTchar", "d7/d23/a04538.html#a74d70382aec7501d6df3dcb969b85902", null ],
-    [ "g_WheatyExceptionReport", "d7/d23/a04538.html#a9fff8ce906026fe3179e50e97182d90d", null ]
+    [ "VMAP::GroupLocationInfo", "d6/de9/a05059.html", "d6/de9/a05059" ],
+    [ "VMAP::LocationInfo", "da/d0f/a05063.html", "da/d0f/a05063" ],
+    [ "VMAP::StaticMapTree", "d3/df0/a05067.html", "d3/df0/a05067" ],
+    [ "VMAP::AreaInfo", "db/d78/a05071.html", "db/d78/a05071" ]
 ];

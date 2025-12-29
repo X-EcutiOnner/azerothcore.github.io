@@ -1,6 +1,7 @@
 var a14863 =
 [
-    [ "FilterTargets", "db/df1/a14863.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "db/df1/a14863.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "db/df1/a14863.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "HandleOnHit", "db/df1/a14863.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "db/df1/a14863.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "db/df1/a14863.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "db/df1/a14863.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

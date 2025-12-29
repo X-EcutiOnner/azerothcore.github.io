@@ -1,9 +1,10 @@
 var a17175 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d1/dd8/a17175.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d1/dd8/a17175.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d1/dd8/a17175.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d1/dd8/a17175.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d1/dd8/a17175.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d1/dd8/a17175.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d1/dd8/a17175.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "d1/dd8/a17175.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "d1/dd8/a17175.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "d1/dd8/a17175.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "d1/dd8/a17175.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "d1/dd8/a17175.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "d1/dd8/a17175.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

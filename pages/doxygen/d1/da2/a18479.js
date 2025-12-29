@@ -1,7 +1,8 @@
 var a18479 =
 [
-    [ "OnRemove", "d1/da2/a18479.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d1/da2/a18479.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d1/da2/a18479.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d1/da2/a18479.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "FilterTargets", "d1/da2/a18479.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d1/da2/a18479.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d1/da2/a18479.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d1/da2/a18479.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d1/da2/a18479.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

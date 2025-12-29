@@ -1,7 +1,6 @@
 var a27391 =
 [
-    [ "npc_spirit_shadeAI", "db/d25/a27391.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "db/d25/a27391.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "db/d25/a27391.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "db/d25/a27391.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "npc_dream_fogAI", "d4/d81/a27395.html", "d4/d81/a27395" ],
+    [ "npc_dream_fog", "db/d25/a27391.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "db/d25/a27391.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

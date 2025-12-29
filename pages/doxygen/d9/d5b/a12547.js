@@ -1,7 +1,9 @@
 var a12547 =
 [
-    [ "HandleEffectScriptEffect", "d9/d5b/a12547.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d9/d5b/a12547.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d9/d5b/a12547.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d9/d5b/a12547.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "FilterTargets", "d9/d5b/a12547.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d9/d5b/a12547.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d9/d5b/a12547.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d9/d5b/a12547.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d9/d5b/a12547.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d9/d5b/a12547.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

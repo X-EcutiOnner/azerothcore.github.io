@@ -1,6 +1,6 @@
 var a16771 =
 [
-    [ "boss_gormokAI", "d6/d9e/a16775.html", "d6/d9e/a16775" ],
-    [ "boss_gormok", "d9/d19/a16771.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d9/d19/a16771.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_toc_pet_hunterAI", "d6/d9e/a16775.html", "d6/d9e/a16775" ],
+    [ "npc_toc_pet_hunter", "d9/d19/a16771.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d9/d19/a16771.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

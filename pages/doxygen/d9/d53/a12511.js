@@ -1,6 +1,6 @@
 var a12511 =
 [
-    [ "boss_razorgoreAI", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
-    [ "boss_razorgore", "d9/d53/a12511.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d9/d53/a12511.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "boss_firemawAI", "d9/d53/a12511.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d9/d53/a12511.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d9/d53/a12511.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

@@ -1,8 +1,6 @@
 var a21035 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d1/d51/a21035.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
-    [ "DamageTaken", "d1/d51/a21035.html#ac2458922b2530929ee1adbcc0da834a0", null ],
-    [ "DoAction", "d1/d51/a21035.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
-    [ "Reset", "d1/d51/a21035.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
-    [ "UpdateAI", "d1/d51/a21035.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
+    [ "boss_yoggsaron_brainAI", "d7/d15/a21039.html", "d7/d15/a21039" ],
+    [ "boss_yoggsaron_brain", "d1/d51/a21035.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
+    [ "GetAI", "d1/d51/a21035.html#a02e6b07087765d75d0f49b864e2f323f", null ]
 ];

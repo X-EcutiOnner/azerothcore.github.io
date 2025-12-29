@@ -1,12 +1,7 @@
 var a15875 =
 [
-    [ "npc_wizzlecrank_shredderAI", "df/d4e/a15875.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "df/d4e/a15875.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "df/d4e/a15875.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "df/d4e/a15875.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "df/d4e/a15875.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "df/d4e/a15875.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "df/d4e/a15875.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "df/d4e/a15875.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "df/d4e/a15875.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_toogaAI", "d7/dcc/a15879.html", "d7/dcc/a15879" ],
+    [ "npc_tooga", "df/d4e/a15875.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "df/d4e/a15875.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "df/d4e/a15875.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

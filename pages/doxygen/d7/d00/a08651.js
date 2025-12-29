@@ -1,9 +1,8 @@
 var a08651 =
 [
-    [ "achievements", "d7/d00/a08651.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d7/d00/a08651.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d7/d00/a08651.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d7/d00/a08651.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d7/d00/a08651.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d7/d00/a08651.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "EnchantDuration", "d7/d00/a08651.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "d7/d00/a08651.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "d7/d00/a08651.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "d7/d00/a08651.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "d7/d00/a08651.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

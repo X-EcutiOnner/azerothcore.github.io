@@ -1,7 +1,6 @@
 var a17715 =
 [
-    [ "HandleScript", "dc/ded/a17715.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "dc/ded/a17715.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "dc/ded/a17715.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "dc/ded/a17715.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "ModAuraValue", "dc/ded/a17715.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "dc/ded/a17715.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "dc/ded/a17715.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

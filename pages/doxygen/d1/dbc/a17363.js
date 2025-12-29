@@ -1,6 +1,6 @@
 var a17363 =
 [
-    [ "entry", "d1/dbc/a17363.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d1/dbc/a17363.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d1/dbc/a17363.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_pos_leader_secondAI", "d5/dd6/a17367.html", "d5/dd6/a17367" ],
+    [ "npc_pos_leader_second", "d1/dbc/a17363.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "d1/dbc/a17363.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

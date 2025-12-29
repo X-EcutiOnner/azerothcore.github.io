@@ -1,7 +1,8 @@
 var a13763 =
 [
-    [ "npc_eris_hevenfireAI", "d8/d2a/a13767.html", "d8/d2a/a13767" ],
-    [ "npc_eris_hevenfire", "de/da6/a13763.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "de/da6/a13763.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "de/da6/a13763.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "HandleEffectApply", "de/da6/a13763.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "de/da6/a13763.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "de/da6/a13763.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "de/da6/a13763.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "de/da6/a13763.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

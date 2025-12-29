@@ -1,15 +1,7 @@
 var a07999 =
 [
-    [ "LfgProposal", "d3/d77/a07999.html#ad67e8b90ee53576adcab0ac41e523699", null ],
-    [ "cancelTime", "d3/d77/a07999.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
-    [ "dungeonId", "d3/d77/a07999.html#a3f4f1e3120ed950e2272789c757a401f", null ],
-    [ "encounters", "d3/d77/a07999.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
-    [ "group", "d3/d77/a07999.html#ac04263773858dfe70e7dd627a62113dc", null ],
-    [ "id", "d3/d77/a07999.html#a580dfb67b8040a6267cbd20938cb8667", null ],
-    [ "isNew", "d3/d77/a07999.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
-    [ "leader", "d3/d77/a07999.html#a12f8574ad017641808e522e1e9fdff49", null ],
-    [ "players", "d3/d77/a07999.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
-    [ "queues", "d3/d77/a07999.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
-    [ "showorder", "d3/d77/a07999.html#a3d388b633378c35f0efe5927fa78beef", null ],
-    [ "state", "d3/d77/a07999.html#abd3f0fe86587f41c443735164924a3ae", null ]
+    [ "LfgJoinResultData", "d3/d77/a07999.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d3/d77/a07999.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d3/d77/a07999.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d3/d77/a07999.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

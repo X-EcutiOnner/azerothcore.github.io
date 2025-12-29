@@ -1,7 +1,6 @@
 var a21779 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d2/d91/a21779.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d2/d91/a21779.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d2/d91/a21779.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d2/d91/a21779.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d2/dcc/a21783.html", "d2/dcc/a21783" ],
+    [ "npc_valiance_keep_cannoneer", "d2/d91/a21779.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "d2/d91/a21779.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

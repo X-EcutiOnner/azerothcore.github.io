@@ -1,6 +1,15 @@
 var a17311 =
 [
-    [ "npc_pos_freed_slaveAI", "df/d1d/a17315.html", "df/d1d/a17315" ],
-    [ "npc_pos_freed_slave", "d0/d0e/a17311.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d0/d0e/a17311.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "d0/d0e/a17311.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
+    [ "DamageTaken", "d0/d0e/a17311.html#aad000cc1310f22325a29131fad169cbc", null ],
+    [ "DoAction", "d0/d0e/a17311.html#a5d7a324073cfdbd01ae267964959f15b", null ],
+    [ "InitializeAI", "d0/d0e/a17311.html#ad84905d1385bce0e431c2baf1158a343", null ],
+    [ "JustEngagedWith", "d0/d0e/a17311.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
+    [ "MoveInLineOfSight", "d0/d0e/a17311.html#a1d43b002628080d5faf2fd59347a7f79", null ],
+    [ "MovementInform", "d0/d0e/a17311.html#a849b06a045de5529706e83b03febe135", null ],
+    [ "Reset", "d0/d0e/a17311.html#a0e6b326b3c8102dd711c002537f2c339", null ],
+    [ "UpdateAI", "d0/d0e/a17311.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
+    [ "events", "d0/d0e/a17311.html#a30d65bc3625ed22e11ed7e040451643c", null ],
+    [ "isInvincible", "d0/d0e/a17311.html#a0216b301112656fb75907ff1f0d50d0f", null ],
+    [ "pInstance", "d0/d0e/a17311.html#afb71e537115d36795c2568360b2d58ce", null ]
 ];

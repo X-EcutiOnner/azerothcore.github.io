@@ -1,12 +1,7 @@
 var a11571 =
 [
-    [ "CreatureTextBuilder", "d4/d48/a11571.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "d4/d48/a11571.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "d4/d48/a11571.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "d4/d48/a11571.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "d4/d48/a11571.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "d4/d48/a11571.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "d4/d48/a11571.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "d4/d48/a11571.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "d4/d48/a11571.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "EffectApplyHandler", "d4/d48/a11571.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d4/d48/a11571.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d4/d48/a11571.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d4/d48/a11571.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

@@ -1,6 +1,6 @@
 var a18915 =
 [
-    [ "HandleEvent", "d4/d3f/a18915.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d4/d3f/a18915.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d4/d3f/a18915.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_captain_rupertAI", "d4/d3f/a18915.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d4/d3f/a18915.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d4/d3f/a18915.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

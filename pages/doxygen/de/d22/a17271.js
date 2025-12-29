@@ -1,6 +1,8 @@
 var a17271 =
 [
-    [ "npc_pos_after_first_bossAI", "d4/def/a17275.html", "d4/def/a17275" ],
-    [ "npc_pos_after_first_boss", "de/d22/a17271.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "de/d22/a17271.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "boss_krickAI", "de/d22/a17271.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "de/d22/a17271.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "de/d22/a17271.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "de/d22/a17271.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "de/d22/a17271.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

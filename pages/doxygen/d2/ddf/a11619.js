@@ -1,7 +1,12 @@
 var a11619 =
 [
-    [ "PlayerGuid", "d2/ddf/a11619.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d2/ddf/a11619.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d2/ddf/a11619.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d2/ddf/a11619.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "CreatureTextBuilder", "d2/ddf/a11619.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d2/ddf/a11619.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d2/ddf/a11619.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d2/ddf/a11619.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d2/ddf/a11619.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d2/ddf/a11619.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d2/ddf/a11619.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d2/ddf/a11619.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d2/ddf/a11619.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

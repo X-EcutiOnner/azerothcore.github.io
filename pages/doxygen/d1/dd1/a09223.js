@@ -1,12 +1,9 @@
 var a09223 =
 [
-    [ "VisibleNotifier", "d1/dd1/a09223.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "d1/dd1/a09223.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "d1/dd1/a09223.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "d1/dd1/a09223.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "d1/dd1/a09223.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "d1/dd1/a09223.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "d1/dd1/a09223.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "d1/dd1/a09223.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "d1/dd1/a09223.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "LiquidData", "d1/dd1/a09223.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d1/dd1/a09223.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d1/dd1/a09223.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d1/dd1/a09223.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d1/dd1/a09223.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d1/dd1/a09223.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

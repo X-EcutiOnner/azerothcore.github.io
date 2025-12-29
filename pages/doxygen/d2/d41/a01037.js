@@ -1,7 +1,7 @@
 var a01037 =
 [
-    [ "canCreateExtraItems", "d2/d41/a01037.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "d2/d41/a01037.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "d2/d41/a01037.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "d2/d41/a01037.html#a121df170a82be5ab5b05999a6be27b69", null ]
+    [ "GetExplicitDiscoverySpell", "d2/d41/a01037.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d2/d41/a01037.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d2/d41/a01037.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d2/d41/a01037.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

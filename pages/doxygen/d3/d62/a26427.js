@@ -1,6 +1,11 @@
 var a26427 =
 [
-    [ "FilterTargets", "d3/d62/a26427.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d3/d62/a26427.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d3/d62/a26427.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CheckCast", "d3/d62/a26427.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "d3/d62/a26427.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "d3/d62/a26427.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d3/d62/a26427.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d3/d62/a26427.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d3/d62/a26427.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d3/d62/a26427.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d3/d62/a26427.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

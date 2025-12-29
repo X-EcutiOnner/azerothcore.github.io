@@ -1,7 +1,11 @@
 var a12987 =
 [
-    [ "HandleDummy", "dc/d3c/a12987.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "dc/d3c/a12987.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "dc/d3c/a12987.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "dc/d3c/a12987.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "boss_terestian_illhoof", "dc/d3c/a12987.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "dc/d3c/a12987.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "dc/d3c/a12987.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "dc/d3c/a12987.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "dc/d3c/a12987.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "dc/d3c/a12987.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "dc/d3c/a12987.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "dc/d3c/a12987.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

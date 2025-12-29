@@ -1,6 +1,7 @@
 var a19951 =
 [
-    [ "boss_steelbreakerAI", "d8/d38/a19955.html", "d8/d38/a19955" ],
-    [ "boss_steelbreaker", "d9/da5/a19951.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d9/da5/a19951.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "HandlePeriodic", "d9/da5/a19951.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d9/da5/a19951.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d9/da5/a19951.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d9/da5/a19951.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

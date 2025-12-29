@@ -1,6 +1,9 @@
 var a06255 =
 [
-    [ "EntryCheckPredicate", "de/dac/a06255.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
-    [ "operator()", "de/dac/a06255.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
-    [ "_entry", "de/dac/a06255.html#aa83f4537369e740de2d689252409d269", null ]
+    [ "AISpellInfoType", "de/dac/a06255.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
+    [ "condition", "de/dac/a06255.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
+    [ "cooldown", "de/dac/a06255.html#a6ea49fdc98ece29ceee63352424e9366", null ],
+    [ "maxRange", "de/dac/a06255.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
+    [ "realCooldown", "de/dac/a06255.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
+    [ "target", "de/dac/a06255.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
 ];

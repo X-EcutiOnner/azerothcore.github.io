@@ -1,6 +1,9 @@
 var a14159 =
 [
-    [ "npc_zulian_prowlerAI", "de/d13/a14163.html", "de/d13/a14163" ],
-    [ "npc_zulian_prowler", "df/d95/a14159.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "df/d95/a14159.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "npc_amanishi_lookout", "df/d95/a14159.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "df/d95/a14159.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "df/d95/a14159.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "df/d95/a14159.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "df/d95/a14159.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "df/d95/a14159.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

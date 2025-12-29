@@ -1,6 +1,6 @@
 var a11511 =
 [
-    [ "EffectCalcAmountHandler", "dd/d61/a11511.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "dd/d61/a11511.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "dd/d61/a11511.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "BeforeHitHandler", "dd/d61/a11511.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "dd/d61/a11511.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "dd/d61/a11511.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

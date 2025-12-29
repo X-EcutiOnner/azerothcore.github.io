@@ -1,10 +1,15 @@
 var a19347 =
 [
-    [ "boss_patchwerkAI", "d7/d8c/a19347.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d7/d8c/a19347.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d7/d8c/a19347.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d7/d8c/a19347.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d7/d8c/a19347.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d7/d8c/a19347.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d7/d8c/a19347.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "boss_loathebAI", "d7/d8c/a19347.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "d7/d8c/a19347.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "d7/d8c/a19347.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "d7/d8c/a19347.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "d7/d8c/a19347.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "d7/d8c/a19347.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "d7/d8c/a19347.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "d7/d8c/a19347.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "d7/d8c/a19347.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "d7/d8c/a19347.html#aed5c631ede2eea27451a74ae21221325", null ],
+    [ "events", "d7/d8c/a19347.html#adc49463bbe227f892e31716516032c64", null ],
+    [ "summons", "d7/d8c/a19347.html#a37ef117714403002afb4faa4978f136b", null ]
 ];

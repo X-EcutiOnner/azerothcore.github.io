@@ -1,5 +1,7 @@
 var a28671 =
 [
-    [ "HasMissile", "de/de8/a28671.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "de/de8/a28671.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "ID", "de/de8/a28671.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "de/de8/a28671.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "de/de8/a28671.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "de/de8/a28671.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

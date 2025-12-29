@@ -1,6 +1,8 @@
 var a16711 =
 [
-    [ "npc_toc_pet_warlockAI", "dd/db1/a16715.html", "dd/db1/a16715" ],
-    [ "npc_toc_pet_warlock", "d2/df6/a16711.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d2/df6/a16711.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_toc_hunterAI", "d2/df6/a16711.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d2/df6/a16711.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d2/df6/a16711.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d2/df6/a16711.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d2/df6/a16711.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

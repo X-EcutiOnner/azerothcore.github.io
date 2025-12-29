@@ -1,6 +1,5 @@
 var a14735 =
 [
-    [ "HandleDummy", "d7/dc1/a14735.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d7/dc1/a14735.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d7/dc1/a14735.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "PrepareSpellScript", "d7/dc1/a14735.html#af219083d127afe24b2541a95bfd449ff", null ],
+    [ "Register", "d7/dc1/a14735.html#a03f7ac8d5968970f769191c7df7f5899", null ]
 ];

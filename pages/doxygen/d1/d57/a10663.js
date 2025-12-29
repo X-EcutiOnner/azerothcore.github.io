@@ -1,6 +1,7 @@
 var a10663 =
 [
-    [ "GuildInviteByName", "d1/d57/a10663.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d1/d57/a10663.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d1/d57/a10663.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "Flags", "d1/d57/a10663.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "d1/d57/a10663.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "d1/d57/a10663.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "d1/d57/a10663.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

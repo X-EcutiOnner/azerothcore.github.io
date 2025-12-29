@@ -1,9 +1,11 @@
 var a16451 =
 [
-    [ "npc_memoryAI", "d4/d40/a16451.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d4/d40/a16451.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d4/d40/a16451.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d4/d40/a16451.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d4/d40/a16451.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d4/d40/a16451.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_saviana_ragefireAI", "d4/d40/a16451.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d4/d40/a16451.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d4/d40/a16451.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d4/d40/a16451.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d4/d40/a16451.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d4/d40/a16451.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d4/d40/a16451.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d4/d40/a16451.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

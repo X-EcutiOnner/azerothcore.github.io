@@ -1,7 +1,8 @@
 var a12871 =
 [
-    [ "OnRemove", "d2/dee/a12871.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "d2/dee/a12871.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "d2/dee/a12871.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "d2/dee/a12871.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "HandleEffectRemove", "d2/dee/a12871.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d2/dee/a12871.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d2/dee/a12871.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d2/dee/a12871.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d2/dee/a12871.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

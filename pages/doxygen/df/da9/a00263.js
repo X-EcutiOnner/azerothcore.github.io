@@ -1,7 +1,7 @@
 var a00263 =
 [
-    [ "SmartAI", "d0/d44/a06302.html", "d0/d44/a06302" ],
-    [ "SmartGameObjectAI", "dd/d71/a06306.html", "dd/d71/a06306" ],
+    [ "SmartAI", "dc/d49/a06319.html", "dc/d49/a06319" ],
+    [ "SmartGameObjectAI", "dd/d54/a06323.html", "dd/d54/a06323" ],
     [ "DISTANCING_CONSTANT", "df/da9/a00263.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
     [ "SmartEscortState", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54", [
       [ "SMART_ESCORT_NONE", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],

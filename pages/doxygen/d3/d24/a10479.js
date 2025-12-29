@@ -1,13 +1,6 @@
 var a10479 =
 [
-    [ "ScriptObject", "d3/d24/a10479.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "d3/d24/a10479.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "d3/d24/a10479.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "d3/d24/a10479.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "d3/d24/a10479.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "d3/d24/a10479.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "d3/d24/a10479.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "d3/d24/a10479.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "d3/d24/a10479.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "d3/d24/a10479.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "WeatherScript", "d3/d24/a10479.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "d3/d24/a10479.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "d3/d24/a10479.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

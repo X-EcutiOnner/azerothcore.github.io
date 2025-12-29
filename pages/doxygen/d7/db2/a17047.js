@@ -1,15 +1,18 @@
 var a17047 =
 [
-    [ "boss_falricAI", "d7/db2/a17047.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "d7/db2/a17047.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "d7/db2/a17047.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "d7/db2/a17047.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "d7/db2/a17047.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "d7/db2/a17047.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "d7/db2/a17047.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "d7/db2/a17047.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "d7/db2/a17047.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "d7/db2/a17047.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "d7/db2/a17047.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "d7/db2/a17047.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "boss_devourer_of_soulsAI", "d7/db2/a17047.html#aa54d512a3bcf22ba64872bf60ed89ca3", null ],
+    [ "CanAIAttack", "d7/db2/a17047.html#a48b79a3429dec44486d6bd858d5b6edb", null ],
+    [ "EnterEvadeMode", "d7/db2/a17047.html#a0c2c380955e5b24c387b8dd8f00567cc", null ],
+    [ "GetData", "d7/db2/a17047.html#a7d99dba5d3c6725c5f6cbc8a0cc0ec9f", null ],
+    [ "JustDied", "d7/db2/a17047.html#a6e5a944ffbf325aa1bc591ef288c593f", null ],
+    [ "JustEngagedWith", "d7/db2/a17047.html#a1f3b4a9d31a0704807fb9b44237c7b4b", null ],
+    [ "JustSummoned", "d7/db2/a17047.html#ae3c5c0c1d905c424102a6e3a360d61d7", null ],
+    [ "KilledUnit", "d7/db2/a17047.html#aba4ed91e1f61ddd1db29509700a4e0c8", null ],
+    [ "Reset", "d7/db2/a17047.html#aefc761b1142cc6941394a4e3402662d7", null ],
+    [ "SpellHitTarget", "d7/db2/a17047.html#ad503ae8ea66c964bc5997019c9118856", null ],
+    [ "UpdateAI", "d7/db2/a17047.html#ac387b29bcb23f1697bc8b5b1a94e9ee1", null ],
+    [ "bAchiev", "d7/db2/a17047.html#ad57135868c5c631a4add0dea0067feb0", null ],
+    [ "events", "d7/db2/a17047.html#ac0467332ad699f9c60cc9dc257d9e1df", null ],
+    [ "pInstance", "d7/db2/a17047.html#a78204e146c22a80df48d8a6840e70790", null ],
+    [ "summons", "d7/db2/a17047.html#a6602605118c8d64dabec4b96c8e99436", null ]
 ];

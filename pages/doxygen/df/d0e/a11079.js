@@ -1,14 +1,17 @@
 var a11079 =
 [
-    [ "NameQueryResponse", "df/d0e/a11079.html#a04a03faa1ab655eb87d755b603f7b427", null ],
-    [ "Write", "df/d0e/a11079.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
-    [ "Class", "df/d0e/a11079.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
-    [ "Declined", "df/d0e/a11079.html#abe147a5c99db99148cc3b76136eccb2b", null ],
-    [ "DeclinedNames", "df/d0e/a11079.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
-    [ "Guid", "df/d0e/a11079.html#ae45b2723b1b5a3313566df2d353114f9", null ],
-    [ "Name", "df/d0e/a11079.html#ad2d16050d9229912105c8f2136538d91", null ],
-    [ "NameUnknown", "df/d0e/a11079.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
-    [ "Race", "df/d0e/a11079.html#a74463c6218d56c913df7f24b7491003f", null ],
-    [ "RealmName", "df/d0e/a11079.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
-    [ "Sex", "df/d0e/a11079.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
+    [ "CompactArray", "df/d0e/a11079.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "df/d0e/a11079.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "df/d0e/a11079.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "df/d0e/a11079.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "df/d0e/a11079.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "df/d0e/a11079.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "df/d0e/a11079.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "df/d0e/a11079.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "df/d0e/a11079.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "df/d0e/a11079.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "df/d0e/a11079.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "df/d0e/a11079.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "df/d0e/a11079.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "df/d0e/a11079.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];

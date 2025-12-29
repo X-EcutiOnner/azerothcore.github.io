@@ -1,16 +1,26 @@
 var a08447 =
 [
-    [ "UpdateState", "de/d2b/a08447.html#aa4f58928ebfbd115280b12866d9b7d23", [
-      [ "NotUpdating", "de/d2b/a08447.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
-      [ "PendingAdd", "de/d2b/a08447.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
-      [ "Updating", "de/d2b/a08447.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
-    ] ],
-    [ "UpdatableMapObject", "de/d2b/a08447.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
-    [ "GetMapUpdateListOffset", "de/d2b/a08447.html#a52bf945e86eba8c73701a3e378503eeb", null ],
-    [ "GetUpdateState", "de/d2b/a08447.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
-    [ "SetMapUpdateListOffset", "de/d2b/a08447.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
-    [ "SetUpdateState", "de/d2b/a08447.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
-    [ "Map", "de/d2b/a08447.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "_mapUpdateListOffset", "de/d2b/a08447.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
-    [ "_mapUpdateState", "de/d2b/a08447.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
+    [ "JumpInfo", "d5/dac/a08455.html", "d5/dac/a08455" ],
+    [ "TransportInfo", "dc/d34/a08451.html", "dc/d34/a08451" ],
+    [ "MovementInfo", "de/d2b/a08447.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
+    [ "AddExtraMovementFlag", "de/d2b/a08447.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
+    [ "AddMovementFlag", "de/d2b/a08447.html#ae02908de40bf25e5d07d3bb248448a68", null ],
+    [ "GetExtraMovementFlags", "de/d2b/a08447.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
+    [ "GetMovementFlags", "de/d2b/a08447.html#ade08354701baa32b9ff232d6b07e6097", null ],
+    [ "HasExtraMovementFlag", "de/d2b/a08447.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
+    [ "HasMovementFlag", "de/d2b/a08447.html#ad9571cb899d58cc60fbe2412be79116e", null ],
+    [ "OutDebug", "de/d2b/a08447.html#af8c4c6db42364ec712398b317238c90b", null ],
+    [ "RemoveMovementFlag", "de/d2b/a08447.html#ab38114c14a8848a082b4f265eab11c72", null ],
+    [ "SetFallTime", "de/d2b/a08447.html#a683565ad0865709083e81d07a8ce1395", null ],
+    [ "SetMovementFlags", "de/d2b/a08447.html#ace324e7171c3520efdce76d2bbc75c67", null ],
+    [ "fallTime", "de/d2b/a08447.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
+    [ "flags", "de/d2b/a08447.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
+    [ "flags2", "de/d2b/a08447.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
+    [ "guid", "de/d2b/a08447.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
+    [ "jump", "de/d2b/a08447.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
+    [ "pitch", "de/d2b/a08447.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
+    [ "pos", "de/d2b/a08447.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
+    [ "splineElevation", "de/d2b/a08447.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
+    [ "time", "de/d2b/a08447.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
+    [ "transport", "de/d2b/a08447.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
 ];

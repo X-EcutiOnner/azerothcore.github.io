@@ -1,6 +1,34 @@
 var a04184 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d1/dd9/a04184.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MAINMagic", "d1/dd9/a04184.html#a026039bd50ec58444fa975da328951ec", null ],
-    [ "MPHDMagic", "d1/dd9/a04184.html#aac8041bc8ca704e28f2b3054649b3752", null ]
+    [ "adt_MCVT", "dc/d3c/a28879.html", "dc/d3c/a28879" ],
+    [ "adt_MCLQ", "d0/d52/a28887.html", "d0/d52/a28887" ],
+    [ "adt_MCLQ::liquid_data", "d6/d19/a28895.html", "d6/d19/a28895" ],
+    [ "adt_MCNK", "df/d8a/a28899.html", "df/d8a/a28899" ],
+    [ "adt_MCIN", "d2/d7e/a28907.html", "d2/d7e/a28907" ],
+    [ "adt_MCIN::adt_CELLS", "d5/d14/a28915.html", "d5/d14/a28915" ],
+    [ "adt_liquid_instance", "dc/d9d/a28919.html", "dc/d9d/a28919" ],
+    [ "adt_liquid_attributes", "d2/d4b/a28923.html", "d2/d4b/a28923" ],
+    [ "adt_MH2O", "de/d0f/a28927.html", "de/d0f/a28927" ],
+    [ "adt_MH2O::adt_LIQUID", "dc/d0a/a28935.html", "dc/d0a/a28935" ],
+    [ "adt_MFBO", "da/da5/a28939.html", "da/da5/a28939" ],
+    [ "adt_MFBO::plane", "df/dd9/a28947.html", "df/dd9/a28947" ],
+    [ "adt_MHDR", "de/df9/a28951.html", "de/df9/a28951" ],
+    [ "ADT_file", "dd/d2e/a28959.html", "dd/d2e/a28959" ],
+    [ "ADT_CELL_SIZE", "d1/dd9/a04184.html#a1e3d5d05087dd429cb513f26211aaad1", null ],
+    [ "ADT_CELLS_PER_GRID", "d1/dd9/a04184.html#aaa17abcdb17267fda5cd146bec40af39", null ],
+    [ "ADT_GRID_SIZE", "d1/dd9/a04184.html#aa01c13bed63c283263ad2ad586721c77", null ],
+    [ "CHUNKSIZE", "d1/dd9/a04184.html#a239bebe1697b474e6f84945e9fb9faee", null ],
+    [ "TILESIZE", "d1/dd9/a04184.html#a07ae61ed7dc31e9cddbdf9da244567c7", null ],
+    [ "UNITSIZE", "d1/dd9/a04184.html#adad9f01017a76fb25b04611c100d3df7", null ],
+    [ "LiquidType", "d1/dd9/a04184.html#a623f699008200dd1aa3c00fb91bc7065", [
+      [ "LIQUID_TYPE_WATER", "d1/dd9/a04184.html#a623f699008200dd1aa3c00fb91bc7065a1959b1f042d34cdd8a79c9ee3223f043", null ],
+      [ "LIQUID_TYPE_OCEAN", "d1/dd9/a04184.html#a623f699008200dd1aa3c00fb91bc7065af157bf14abe6e407890f83a0fbdb82e3", null ],
+      [ "LIQUID_TYPE_MAGMA", "d1/dd9/a04184.html#a623f699008200dd1aa3c00fb91bc7065aad4df40b4ce0967a3c2c917bcd3b6300", null ],
+      [ "LIQUID_TYPE_SLIME", "d1/dd9/a04184.html#a623f699008200dd1aa3c00fb91bc7065a51f9de84786e092879920b28992da026", null ]
+    ] ],
+    [ "LiquidVertexFormatType", "d1/dd9/a04184.html#a5292fd275b2d01d81692c430af9dc51f", [
+      [ "HeightDepth", "d1/dd9/a04184.html#a5292fd275b2d01d81692c430af9dc51fadc5bae52022216a549f4d884bf4e2f73", null ],
+      [ "HeightTextureCoord", "d1/dd9/a04184.html#a5292fd275b2d01d81692c430af9dc51fad931d69dec9efae87a6040c1e60781cb", null ],
+      [ "Depth", "d1/dd9/a04184.html#a5292fd275b2d01d81692c430af9dc51fa675056ad1441b6375b2c5abd48c27ef1", null ]
+    ] ]
 ];

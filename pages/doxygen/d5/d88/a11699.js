@@ -1,19 +1,9 @@
 var a11699 =
 [
-    [ "WardenPayloadMgr", "d5/d88/a11699.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
-    [ "ClearQueuedPayloads", "d5/d88/a11699.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
-    [ "DequeuePayload", "d5/d88/a11699.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
-    [ "GetFreePayloadId", "d5/d88/a11699.html#a698b2ab4709a495f299be18b053e4014", null ],
-    [ "GetPayloadById", "d5/d88/a11699.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
-    [ "GetPayloadCountInQueue", "d5/d88/a11699.html#ae3878c7264337d646f7a5d503907d7aa", null ],
-    [ "GetPayloadsInQueue", "d5/d88/a11699.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
-    [ "QueuePayload", "d5/d88/a11699.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
-    [ "RegisterPayload", "d5/d88/a11699.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
-    [ "RegisterPayload", "d5/d88/a11699.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
-    [ "UnregisterPayload", "d5/d88/a11699.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
-    [ "CachedChecks", "d5/d88/a11699.html#a65c6878274bc49b921714278d77eed56", null ],
-    [ "QueuedPayloads", "d5/d88/a11699.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
-    [ "WardenPayloadCheckType", "d5/d88/a11699.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
-    [ "WardenPayloadOffsetMax", "d5/d88/a11699.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
-    [ "WardenPayloadOffsetMin", "d5/d88/a11699.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
+    [ "ClientKeySeed", "d5/d88/a11699.html#a3e2df88e6fd716030d70a77850e96970", null ],
+    [ "ClientKeySeedHash", "d5/d88/a11699.html#ae2523827d6f9abae5eed0b463c00062f", null ],
+    [ "Module", "d5/d88/a11699.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
+    [ "ModuleKey", "d5/d88/a11699.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
+    [ "Seed", "d5/d88/a11699.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
+    [ "ServerKeySeed", "d5/d88/a11699.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
 ];

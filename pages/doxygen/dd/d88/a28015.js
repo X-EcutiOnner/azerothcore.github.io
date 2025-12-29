@@ -1,5 +1,7 @@
 var a28015 =
 [
-    [ "go_transport_the_purple_princess", "dd/d88/a28015.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "dd/d88/a28015.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "HandleDummy", "dd/d88/a28015.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "dd/d88/a28015.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "dd/d88/a28015.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "dd/d88/a28015.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

@@ -1,5 +1,9 @@
 var a19747 =
 [
-    [ "at_hol_hall_of_watchers", "d9/d3c/a19747.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "d9/d3c/a19747.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "npc_stormforged_lieutenant", "d9/d3c/a19747.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d9/d3c/a19747.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d9/d3c/a19747.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d9/d3c/a19747.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d9/d3c/a19747.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d9/d3c/a19747.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

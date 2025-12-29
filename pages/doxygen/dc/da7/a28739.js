@@ -1,8 +1,8 @@
 var a28739 =
 [
-    [ "MapDifficulty", "dc/da7/a28739.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dc/da7/a28739.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dc/da7/a28739.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dc/da7/a28739.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dc/da7/a28739.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "TimeSeg", "dc/da7/a28739.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "dc/da7/a28739.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "dc/da7/a28739.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "dc/da7/a28739.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "dc/da7/a28739.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

@@ -1,7 +1,5 @@
 var a14047 =
 [
-    [ "HandleDispel", "df/d5d/a14047.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "df/d5d/a14047.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "df/d5d/a14047.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "df/d5d/a14047.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_mikhail", "df/d5d/a14047.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "df/d5d/a14047.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

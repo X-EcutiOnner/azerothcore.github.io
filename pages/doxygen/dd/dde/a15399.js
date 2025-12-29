@@ -1,15 +1,9 @@
 var a15399 =
 [
-    [ "boss_skeram", "dd/dde/a15399.html#a293710a88c91a181ee1000939386e176", null ],
-    [ "DoTeleport", "dd/dde/a15399.html#a96166ddebd5906868b872c39a6755a70", null ],
-    [ "EnterEvadeMode", "dd/dde/a15399.html#ab050e31d661c8c089d175de231b0eeb2", null ],
-    [ "JustDied", "dd/dde/a15399.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "dd/dde/a15399.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
-    [ "JustSummoned", "dd/dde/a15399.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
-    [ "KilledUnit", "dd/dde/a15399.html#a185cb6686d37e064278260ebe5fae13a", null ],
-    [ "Reset", "dd/dde/a15399.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
-    [ "UpdateAI", "dd/dde/a15399.html#aaf29331e0fac71479747d62fd9f1e301", null ],
-    [ "_copiesGUIDs", "dd/dde/a15399.html#a28f1465938dc2141779d5171ea09ecd0", null ],
-    [ "_flag", "dd/dde/a15399.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
-    [ "_hpct", "dd/dde/a15399.html#a5c8760788264a9a04a28c05a0247676c", null ]
+    [ "boss_fankriss", "dd/dde/a15399.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "dd/dde/a15399.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "dd/dde/a15399.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "dd/dde/a15399.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "dd/dde/a15399.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "dd/dde/a15399.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

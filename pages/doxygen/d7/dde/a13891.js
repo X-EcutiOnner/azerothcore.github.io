@@ -1,9 +1,12 @@
 var a13891 =
 [
-    [ "npc_marzon_silent_bladeAI", "d7/dde/a13891.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d7/dde/a13891.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d7/dde/a13891.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d7/dde/a13891.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d7/dde/a13891.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d7/dde/a13891.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_corporal_keeshanAI", "d7/dde/a13891.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d7/dde/a13891.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d7/dde/a13891.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d7/dde/a13891.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d7/dde/a13891.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "mockingBlowTimer", "d7/dde/a13891.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d7/dde/a13891.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d7/dde/a13891.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d7/dde/a13891.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

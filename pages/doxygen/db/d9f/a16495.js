@@ -1,11 +1,9 @@
 var a16495 =
 [
-    [ "npc_black_knight_ghoulAI", "db/d9f/a16495.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "db/d9f/a16495.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "db/d9f/a16495.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "db/d9f/a16495.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "SpellHitTarget", "db/d9f/a16495.html#a5f106a3b0edf353769db9021b9ca770d", null ],
-    [ "UpdateAI", "db/d9f/a16495.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "db/d9f/a16495.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "db/d9f/a16495.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "npc_memoryAI", "db/d9f/a16495.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "db/d9f/a16495.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "db/d9f/a16495.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "db/d9f/a16495.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "db/d9f/a16495.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "db/d9f/a16495.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

@@ -1,7 +1,6 @@
 var a22915 =
 [
-    [ "HandleProc", "d3/d76/a22915.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d3/d76/a22915.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d3/d76/a22915.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d3/d76/a22915.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "PrepareSpellScript", "d3/d76/a22915.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d3/d76/a22915.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d3/d76/a22915.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

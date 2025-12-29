@@ -1,8 +1,7 @@
 var a28395 =
 [
-    [ "DamagedDisplayId", "d9/d07/a28395.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d9/d07/a28395.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d9/d07/a28395.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d9/d07/a28395.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d9/d07/a28395.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "Displayid", "d9/d07/a28395.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "d9/d07/a28395.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "d9/d07/a28395.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "d9/d07/a28395.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

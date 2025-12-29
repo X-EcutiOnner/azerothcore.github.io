@@ -1,9 +1,7 @@
 var a24743 =
 [
-    [ "Absorb", "d2/d49/a24743.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "d2/d49/a24743.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "d2/d49/a24743.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "d2/d49/a24743.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "d2/d49/a24743.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "d2/d49/a24743.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "HandleProc", "d2/d49/a24743.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d2/d49/a24743.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d2/d49/a24743.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d2/d49/a24743.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

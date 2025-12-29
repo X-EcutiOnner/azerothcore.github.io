@@ -1,6 +1,8 @@
 var a18455 =
 [
-    [ "npc_shambling_horror_iccAI", "d4/d1d/a18459.html", "d4/d1d/a18459" ],
-    [ "npc_shambling_horror_icc", "d1/d71/a18455.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "d1/d71/a18455.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "NecroticPlagueTargetCheck", "d1/d71/a18455.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d1/d71/a18455.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d1/d71/a18455.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d1/d71/a18455.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d1/d71/a18455.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

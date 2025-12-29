@@ -1,10 +1,7 @@
 var a07751 =
 [
-    [ "storage_type", "dc/d54/a07751.html#a054c554d9d812e571455bce39655a9ac", null ],
-    [ "value_type", "dc/d54/a07751.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
-    [ "operator value_type", "dc/d54/a07751.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
-    [ "operator*", "dc/d54/a07751.html#a9d4cf547beb996e5945acb84f5305200", null ],
-    [ "operator->", "dc/d54/a07751.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
-    [ "TryConsume", "dc/d54/a07751.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
-    [ "val", "dc/d54/a07751.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
+    [ "value_type", "dc/d54/a07751.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
+    [ "TryConsume", "dc/d54/a07751.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
+    [ "_storage", "dc/d54/a07751.html#a0480bb23bf5c47ac03935901211952b5", null ],
+    [ "_string", "dc/d54/a07751.html#ae0538263243f423c8f86459300aec8d7", null ]
 ];

@@ -1,15 +1,15 @@
 var a19291 =
 [
-    [ "boss_kelthuzad_minionAI", "d0/d19/a19291.html#addeb3112e8b6da5713e6c25878c7e785", null ],
-    [ "AttackStart", "d0/d19/a19291.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
-    [ "DoAction", "d0/d19/a19291.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
-    [ "JustDied", "d0/d19/a19291.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
-    [ "JustEngagedWith", "d0/d19/a19291.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
-    [ "JustReachedHome", "d0/d19/a19291.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
-    [ "KilledUnit", "d0/d19/a19291.html#ac8a2297a89310f4902fdc544ef71b673", null ],
-    [ "MoveInLineOfSight", "d0/d19/a19291.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
-    [ "Reset", "d0/d19/a19291.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
-    [ "UpdateAI", "d0/d19/a19291.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
-    [ "callHelp", "d0/d19/a19291.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
-    [ "events", "d0/d19/a19291.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
+    [ "boss_grobbulusAI", "d0/d19/a19291.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "d0/d19/a19291.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "d0/d19/a19291.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d0/d19/a19291.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d0/d19/a19291.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d0/d19/a19291.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "Reset", "d0/d19/a19291.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SummonedCreatureDespawn", "d0/d19/a19291.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "d0/d19/a19291.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d0/d19/a19291.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "d0/d19/a19291.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "d0/d19/a19291.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

@@ -1,9 +1,6 @@
 var a26903 =
 [
-    [ "Absorb", "d6/dab/a26903.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "d6/dab/a26903.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "d6/dab/a26903.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "d6/dab/a26903.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "d6/dab/a26903.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "d6/dab/a26903.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "HandleAfterCast", "d6/dab/a26903.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d6/dab/a26903.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d6/dab/a26903.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

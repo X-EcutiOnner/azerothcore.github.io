@@ -1,10 +1,15 @@
 var a04016 =
 [
-    [ "PreparedStatementData", "d5/d43/a05870.html", "d5/d43/a05870" ],
-    [ "PreparedStatementBase", "d4/d3e/a05874.html", "d4/d3e/a05874" ],
-    [ "PreparedStatement< T >", "d5/d88/a05742.html", "d5/d88/a05742" ],
-    [ "PreparedStatementTask", "d7/de5/a05878.html", "d7/de5/a05878" ],
-    [ "is_default", "d9/d97/a04016.html#a6d4fe40146df0d52c6917d8cc920ac84", null ],
-    [ "is_enum_v", "d9/d97/a04016.html#ae544e1b7f5a34959b1b48592f67dd4e7", null ],
-    [ "is_non_string_view_v", "d9/d97/a04016.html#a67eb68c20f5616b2ea2a16a87784360a", null ]
+    [ "MySQLType< T >", "dd/d49/a05839.html", null ],
+    [ "MySQLType< uint8 >", "d8/d08/a05843.html", null ],
+    [ "MySQLType< uint16 >", "d8/d07/a05847.html", null ],
+    [ "MySQLType< uint32 >", "dd/d01/a05851.html", null ],
+    [ "MySQLType< uint64 >", "d4/d27/a05855.html", null ],
+    [ "MySQLType< int8 >", "d7/d4b/a05859.html", null ],
+    [ "MySQLType< int16 >", "d2/dea/a05863.html", null ],
+    [ "MySQLType< int32 >", "de/d29/a05867.html", null ],
+    [ "MySQLType< int64 >", "d5/dfd/a05871.html", null ],
+    [ "MySQLType< float >", "dd/dc3/a05875.html", null ],
+    [ "MySQLType< double >", "de/d76/a05879.html", null ],
+    [ "ParamenterIndexAssertFail", "d9/d97/a04016.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

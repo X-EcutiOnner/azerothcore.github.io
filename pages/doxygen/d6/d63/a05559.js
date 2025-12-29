@@ -1,7 +1,9 @@
 var a05559 =
 [
-    [ "Count", "d6/d63/a05559.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
-    [ "FromIndex", "d6/d63/a05559.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
-    [ "ToIndex", "d6/d63/a05559.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
-    [ "ToString", "d6/d63/a05559.html#a8d3379c79f103655dd49d993402b741d", null ]
+    [ "IteratorPair", "d6/d63/a05559.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
+    [ "IteratorPair", "d6/d63/a05559.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
+    [ "IteratorPair", "d6/d63/a05559.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
+    [ "begin", "d6/d63/a05559.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
+    [ "end", "d6/d63/a05559.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
+    [ "_iterators", "d6/d63/a05559.html#a9b08728bc90076dd1db392982840c31e", null ]
 ];

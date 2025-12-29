@@ -1,9 +1,8 @@
 var a11099 =
 [
-    [ "TotemCreated", "d1/d88/a11099.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d1/d88/a11099.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d1/d88/a11099.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d1/d88/a11099.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d1/d88/a11099.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d1/d88/a11099.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "PetSpellAutocast", "d1/d88/a11099.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "d1/d88/a11099.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "d1/d88/a11099.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "d1/d88/a11099.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "d1/d88/a11099.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

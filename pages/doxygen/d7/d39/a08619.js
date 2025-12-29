@@ -1,8 +1,8 @@
 var a08619 =
 [
-    [ "BaseRune", "d7/d39/a08619.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
-    [ "ConvertAura", "d7/d39/a08619.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
-    [ "Cooldown", "d7/d39/a08619.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
-    [ "CurrentRune", "d7/d39/a08619.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
-    [ "GracePeriod", "d7/d39/a08619.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
+    [ "PlayerCreateInfoAction", "d7/d39/a08619.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d7/d39/a08619.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d7/d39/a08619.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d7/d39/a08619.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d7/d39/a08619.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

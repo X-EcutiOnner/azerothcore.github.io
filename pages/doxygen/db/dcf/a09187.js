@@ -1,7 +1,7 @@
 var a09187 =
 [
-    [ "V8Type", "db/dcf/a09187.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "db/dcf/a09187.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "db/dcf/a09187.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "db/dcf/a09187.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "flags", "db/dcf/a09187.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "db/dcf/a09187.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "db/dcf/a09187.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "db/dcf/a09187.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

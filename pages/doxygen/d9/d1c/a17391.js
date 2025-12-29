@@ -1,7 +1,6 @@
 var a17391 =
 [
-    [ "HandleDummy", "d9/d1c/a17391.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d9/d1c/a17391.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d9/d1c/a17391.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d9/d1c/a17391.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "HandleEffectPeriodic", "d9/d1c/a17391.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d9/d1c/a17391.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d9/d1c/a17391.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

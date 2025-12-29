@@ -1,6 +1,6 @@
 var a16247 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "df/dfd/a16251.html", "df/dfd/a16251" ],
-    [ "npc_baltharus_the_warborn_clone", "d2/d95/a16247.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d2/d95/a16247.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "npc_twilight_summonAI", "df/dfd/a16251.html", "df/dfd/a16251" ],
+    [ "npc_twilight_summon", "d2/d95/a16247.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d2/d95/a16247.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

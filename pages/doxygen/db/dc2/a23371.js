@@ -1,6 +1,7 @@
 var a23371 =
 [
-    [ "HandleScriptEffect", "db/dc2/a23371.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "db/dc2/a23371.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "db/dc2/a23371.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "HandleEffectApply", "db/dc2/a23371.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "db/dc2/a23371.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "db/dc2/a23371.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "db/dc2/a23371.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

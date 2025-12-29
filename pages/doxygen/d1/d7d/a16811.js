@@ -1,6 +1,7 @@
 var a16811 =
 [
-    [ "boss_eydisAI", "da/dd3/a16815.html", "da/dd3/a16815" ],
-    [ "boss_eydis", "d1/d7d/a16811.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d1/d7d/a16811.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "FilterTargets", "d1/d7d/a16811.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d1/d7d/a16811.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d1/d7d/a16811.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d1/d7d/a16811.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

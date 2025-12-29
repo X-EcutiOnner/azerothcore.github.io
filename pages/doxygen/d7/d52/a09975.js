@@ -1,10 +1,10 @@
 var a09975 =
 [
-    [ "ChaseRange", "d7/d52/a09975.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d7/d52/a09975.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d7/d52/a09975.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d7/d52/a09975.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d7/d52/a09975.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d7/d52/a09975.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d7/d52/a09975.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "ID", "d7/d52/a09975.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "d7/d52/a09975.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "d7/d52/a09975.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "d7/d52/a09975.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "d7/d52/a09975.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "d7/d52/a09975.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "d7/d52/a09975.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

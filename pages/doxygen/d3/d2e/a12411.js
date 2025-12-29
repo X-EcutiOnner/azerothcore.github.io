@@ -1,6 +1,7 @@
 var a12411 =
 [
-    [ "boss_chromaggusAI", "db/d4c/a12415.html", "db/d4c/a12415" ],
-    [ "boss_chromaggus", "d3/d2e/a12411.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d3/d2e/a12411.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "boss_warmastervooneAI", "d3/d2e/a12411.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
+    [ "DamageTaken", "d3/d2e/a12411.html#adce28de25fa74557000d60188346e2d2", null ],
+    [ "ExecuteEvent", "d3/d2e/a12411.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
+    [ "JustEngagedWith", "d3/d2e/a12411.html#ac419c5118a45264e24e391f7575d90fb", null ]
 ];

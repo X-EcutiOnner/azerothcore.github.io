@@ -1,9 +1,7 @@
 var a10883 =
 [
-    [ "ItemEnchantTimeUpdate", "dd/dee/a10883.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "dd/dee/a10883.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "dd/dee/a10883.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "dd/dee/a10883.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "dd/dee/a10883.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "dd/dee/a10883.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "BuybackItem", "dd/dee/a10883.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "dd/dee/a10883.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "dd/dee/a10883.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "dd/dee/a10883.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

@@ -1,5 +1,6 @@
 var a15787 =
 [
-    [ "go_crystalline_tear", "d0/d6c/a15787.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d0/d6c/a15787.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "Creature", "d0/d6c/a15787.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d0/d6c/a15787.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d0/d6c/a15787.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

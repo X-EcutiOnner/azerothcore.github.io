@@ -1,6 +1,9 @@
 var a21663 =
 [
-    [ "npc_azure_sorcerorAI", "d3/d79/a21667.html", "d3/d79/a21667" ],
-    [ "npc_azure_sorceror", "d3/d28/a21663.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d3/d28/a21663.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "npc_azure_stalkerAI", "d3/d28/a21663.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "d3/d28/a21663.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "d3/d28/a21663.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "d3/d28/a21663.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "d3/d28/a21663.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "d3/d28/a21663.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

@@ -1,8 +1,6 @@
 var a11243 =
 [
-    [ "SkillDiscoveryEntry", "dd/d2c/a11243.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "dd/d2c/a11243.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "dd/d2c/a11243.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "dd/d2c/a11243.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "dd/d2c/a11243.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "WorldSession", "dd/d2c/a11243.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "dd/d2c/a11243.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "dd/d2c/a11243.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

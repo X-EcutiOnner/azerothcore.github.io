@@ -1,13 +1,6 @@
 var a14971 =
 [
-    [ "boss_salrammAI", "d4/d4b/a14971.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d4/d4b/a14971.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d4/d4b/a14971.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d4/d4b/a14971.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d4/d4b/a14971.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d4/d4b/a14971.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d4/d4b/a14971.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d4/d4b/a14971.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d4/d4b/a14971.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d4/d4b/a14971.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "boss_epochAI", "d2/df8/a14975.html", "d2/df8/a14975" ],
+    [ "boss_epoch", "d4/d4b/a14971.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "d4/d4b/a14971.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

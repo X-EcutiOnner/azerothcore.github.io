@@ -1,11 +1,35 @@
 var a02153 =
 [
-    [ "instance_the_eye", "d6/df6/a24078.html", "d6/df6/a24078" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d9/d49/a24082.html", "d9/d49/a24082" ],
-    [ "spell_the_eye_countercharge_aura", "db/d2e/a24086.html", "db/d2e/a24086" ],
-    [ "AddSC_instance_the_eye", "df/de9/a02153.html#a2edbd129d024cabd379cca055dd3e341", null ],
-    [ "boundaries", "df/de9/a02153.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "df/de9/a02153.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "df/de9/a02153.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "df/de9/a02153.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "DataHeader", "df/de9/a02153.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterTheEyeAI", "df/de9/a02153.html#adcf4d2e44478a9706e54f548f623fd9e", null ],
+    [ "TheEyeScriptName", "df/de9/a02153.html#a715610ea7ac0b366db509638136446dc", null ],
+    [ "EyeData", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3", [
+      [ "DATA_ALAR", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea", null ],
+      [ "DATA_ASTROMANCER", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9", null ],
+      [ "DATA_REAVER", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f", null ],
+      [ "DATA_KAELTHAS", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a9459cb9bb83f7a23115debb607cb25a3", null ],
+      [ "MAX_ENCOUNTER", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_THALADRED", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82", null ],
+      [ "DATA_LORD_SANGUINAR", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3aa3a2a8c4f3a3d06e90f1888bd958e82e", null ],
+      [ "DATA_CAPERNIAN", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea", null ],
+      [ "DATA_TELONICUS", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e", null ],
+      [ "DATA_KAEL_DOOR_1", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a207217680f7dacccb028b5f31b86c84b", null ],
+      [ "DATA_KAEL_DOOR_2", "df/de9/a02153.html#aeff27095b590ff4ec45857b5b09879a3a98fbd26f079dc1afe0d3ffee6577f5ec", null ]
+    ] ],
+    [ "EyeGOs", "df/de9/a02153.html#abd7b2582f2ee738e1a53e2e92a6f654a", [
+      [ "GO_BRIDGE_WINDOW", "df/de9/a02153.html#abd7b2582f2ee738e1a53e2e92a6f654aad04c2fe3d81625ee29aedd4d709a4697", null ],
+      [ "GO_KAEL_STATUE_RIGHT", "df/de9/a02153.html#abd7b2582f2ee738e1a53e2e92a6f654aaf07783e681473fb9f52dc50b03b64311", null ],
+      [ "GO_KAEL_STATUE_LEFT", "df/de9/a02153.html#abd7b2582f2ee738e1a53e2e92a6f654aa9e1eee49e78e1e8cd177e9426ee1661d", null ],
+      [ "GO_KAEL_DOOR_1", "df/de9/a02153.html#abd7b2582f2ee738e1a53e2e92a6f654aa2a88b3366d09af56089aa586daf1e374", null ],
+      [ "GO_KAEL_DOOR_2", "df/de9/a02153.html#abd7b2582f2ee738e1a53e2e92a6f654aa509b917488bf30db3c305b4c32649536", null ]
+    ] ],
+    [ "EyeNPCs", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80", [
+      [ "NPC_ALAR", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80ab6eed3856fd4b4cd6397c3c87b1005c8", null ],
+      [ "NPC_KAELTHAS", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80a3d3f4ffdbd8e886f3c232368fb4245b4", null ],
+      [ "NPC_THALADRED", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80a7cde7fc8bff2cb085f1b995f6a970708", null ],
+      [ "NPC_LORD_SANGUINAR", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80ac8af45bb65099dd8c9f13b621a15548b", null ],
+      [ "NPC_CAPERNIAN", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80a537a4c939a96c3ee07e1ff7f60218696", null ],
+      [ "NPC_TELONICUS", "df/de9/a02153.html#a98f711e2be2bce9d46cfe27d8755ec80a17c6b5b4f2493d2542833fbec1139a74", null ]
+    ] ],
+    [ "GetTheEyeAI", "df/de9/a02153.html#a8a7e802cde8810f3be593a9ec0ba1e57", null ]
 ];

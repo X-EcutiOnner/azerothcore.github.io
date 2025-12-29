@@ -1,5 +1,6 @@
 var a10707 =
 [
-    [ "GuildDeleteRank", "d1/dea/a10707.html#ae21057ea5cc30ed07deaa736149617b3", null ],
-    [ "Read", "d1/dea/a10707.html#a91a7883299fe09e08c247c96987a8333", null ]
+    [ "GuildEventLogQueryResults", "d1/dea/a10707.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d1/dea/a10707.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d1/dea/a10707.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

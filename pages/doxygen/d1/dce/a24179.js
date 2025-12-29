@@ -1,16 +1,14 @@
 var a24179 =
 [
-    [ "npc_nether_drakeAI", "d1/dce/a24179.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "d1/dce/a24179.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "d1/dce/a24179.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "d1/dce/a24179.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "d1/dce/a24179.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "d1/dce/a24179.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "d1/dce/a24179.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "d1/dce/a24179.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "d1/dce/a24179.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "d1/dce/a24179.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "d1/dce/a24179.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "d1/dce/a24179.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "d1/dce/a24179.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d1/dce/a24179.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d1/dce/a24179.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d1/dce/a24179.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d1/dce/a24179.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d1/dce/a24179.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d1/dce/a24179.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d1/dce/a24179.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d1/dce/a24179.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d1/dce/a24179.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d1/dce/a24179.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d1/dce/a24179.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

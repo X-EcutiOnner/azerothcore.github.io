@@ -1,5 +1,6 @@
 var a12831 =
 [
-    [ "go_blackened_urn", "d6/d3e/a12831.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d6/d3e/a12831.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "HandleTriggerSpell", "d6/d3e/a12831.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d6/d3e/a12831.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d6/d3e/a12831.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

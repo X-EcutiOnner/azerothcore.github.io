@@ -1,6 +1,6 @@
 var a02564 =
 [
-    [ "fireworkShowGameobjectIronforge", "db/d44/a02564.html#a1c510ef56353251fbd84e641155e90f8", null ],
-    [ "fireworkShowIronforge", "db/d44/a02564.html#aac2063b01976ab49960c5cde832a70dc", null ],
-    [ "fireworkShowScheduleIronforge", "db/d44/a02564.html#ac473aa81696d6b6374a3062efff6b146", null ]
+    [ "fireworkShowGameobjectThunderBluff", "db/d44/a02564.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1", null ],
+    [ "fireworkShowScheduleThunderBluff", "db/d44/a02564.html#ac35fd5df42f24906b21b6887860b96a5", null ],
+    [ "fireworkShowThunderBluff", "db/d44/a02564.html#ae9cf9fa234ec7db55622bede66c21f78", null ]
 ];

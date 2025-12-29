@@ -1,10 +1,7 @@
 var a00974 =
 [
-    [ "TradeData", "d1/d64/a08706.html", "d1/d64/a08706" ],
-    [ "TradeSlots", "df/dce/a00974.html#ad8fd978c4198825d89a1f02643d20c62", [
-      [ "TRADE_SLOT_COUNT", "df/dce/a00974.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
-      [ "TRADE_SLOT_TRADED_COUNT", "df/dce/a00974.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
-      [ "TRADE_SLOT_NONTRADED", "df/dce/a00974.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
-      [ "TRADE_SLOT_INVALID", "df/dce/a00974.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
-    ] ]
+    [ "LoadPlayerSettings", "df/dce/a00974.html#a070b072e62079e512137662a87d710f6", null ],
+    [ "ParseSettingsData", "df/dce/a00974.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
+    [ "SerializeSettingsData", "df/dce/a00974.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
+    [ "UpdateSetting", "df/dce/a00974.html#ab725e991f09f03e0413ffe44fa807ead", null ]
 ];

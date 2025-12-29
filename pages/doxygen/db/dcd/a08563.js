@@ -1,8 +1,9 @@
 var a08563 =
 [
-    [ "IsInSpec", "db/dcd/a08563.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "db/dcd/a08563.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "db/dcd/a08563.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "db/dcd/a08563.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "db/dcd/a08563.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "PetInfo", "d7/dae/a08567.html", "d7/dae/a08567" ],
+    [ "GetUnslottedHunterPet", "db/dcd/a08563.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "db/dcd/a08563.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "db/dcd/a08563.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "db/dcd/a08563.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "db/dcd/a08563.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

@@ -1,11 +1,6 @@
 var a14503 =
 [
-    [ "npc_snowfall_glade_playmate", "db/d01/a14503.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "db/d01/a14503.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "db/d01/a14503.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "db/d01/a14503.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "db/d01/a14503.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "db/d01/a14503.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "db/d01/a14503.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "db/d01/a14503.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "go_direbrew_mole_machineAI", "d0/dd3/a14507.html", "d0/dd3/a14507" ],
+    [ "go_direbrew_mole_machine", "db/d01/a14503.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "db/d01/a14503.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

@@ -1,7 +1,7 @@
 var a11275 =
 [
-    [ "DynObjAura", "d2/d26/a11275.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d2/d26/a11275.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d2/d26/a11275.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d2/d26/a11275.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "IsValidOpcode", "d2/d26/a11275.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d2/d26/a11275.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d2/d26/a11275.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d2/d26/a11275.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

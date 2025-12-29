@@ -1,6 +1,5 @@
 var a12107 =
 [
-    [ "boss_evisceratorAI", "da/db9/a12111.html", "da/db9/a12111" ],
-    [ "boss_eviscerator", "da/d2e/a12107.html#aca65400afa5ca9ca81043687d79cdad0", null ],
-    [ "GetAI", "da/d2e/a12107.html#a21203f69267ec93c46d9ff56321b8169", null ]
+    [ "at_ring_of_law", "da/d2e/a12107.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "da/d2e/a12107.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

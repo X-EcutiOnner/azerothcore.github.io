@@ -1,6 +1,6 @@
 var a20075 =
 [
-    [ "npc_freya_wardAI", "dc/d31/a20079.html", "dc/d31/a20079" ],
-    [ "npc_freya_ward", "d2/dd5/a20075.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d2/dd5/a20075.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "dc/d31/a20079.html", "dc/d31/a20079" ],
+    [ "boss_flame_leviathan_defense_turret", "d2/dd5/a20075.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d2/dd5/a20075.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

@@ -1,8 +1,6 @@
 var a19823 =
 [
-    [ "dark_rune_protectorsAI", "d3/d7b/a19823.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "d3/d7b/a19823.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "d3/d7b/a19823.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "d3/d7b/a19823.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "d3/d7b/a19823.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "boss_sjonnir_dwarfAI", "d9/d15/a19827.html", "d9/d15/a19827" ],
+    [ "boss_sjonnir_dwarf", "d3/d7b/a19823.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d3/d7b/a19823.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

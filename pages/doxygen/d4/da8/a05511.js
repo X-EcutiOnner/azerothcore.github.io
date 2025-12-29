@@ -1,6 +1,10 @@
 var a05511 =
 [
-    [ "operator()", "d4/da8/a05511.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
-    [ "operator+=", "d4/da8/a05511.html#a685854261b2714cf924622e58a88e6b6", null ],
-    [ "functions", "d4/da8/a05511.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
+    [ "AsyncCallbackProcessor", "d4/da8/a05511.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "d4/da8/a05511.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "d4/da8/a05511.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "d4/da8/a05511.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "d4/da8/a05511.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "d4/da8/a05511.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "d4/da8/a05511.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

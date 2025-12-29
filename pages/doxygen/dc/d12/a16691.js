@@ -1,7 +1,6 @@
 var a16691 =
 [
-    [ "npc_toc_rogueAI", "dc/d12/a16691.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "dc/d12/a16691.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "dc/d12/a16691.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "dc/d12/a16691.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc_warlockAI", "d3/d47/a16695.html", "d3/d47/a16695" ],
+    [ "npc_toc_warlock", "dc/d12/a16691.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "dc/d12/a16691.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

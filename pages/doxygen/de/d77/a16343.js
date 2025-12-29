@@ -1,10 +1,6 @@
 var a16343 =
 [
-    [ "spell_halion_marks_aura", "de/d77/a16343.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "de/d77/a16343.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "de/d77/a16343.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "de/d77/a16343.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "de/d77/a16343.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "de/d77/a16343.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "de/d77/a16343.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "boss_twilight_halionAI", "de/d2e/a16347.html", "de/d2e/a16347" ],
+    [ "boss_twilight_halion", "de/d77/a16343.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "de/d77/a16343.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

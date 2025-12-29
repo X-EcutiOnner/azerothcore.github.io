@@ -1,5 +1,6 @@
 var a17183 =
 [
-    [ "at_hor_battered_hilt_start", "da/d39/a17183.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "da/d39/a17183.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_hor_lich_kingAI", "d3/d41/a17187.html", "d3/d41/a17187" ],
+    [ "npc_hor_lich_king", "da/d39/a17183.html#aab2562a7a204699735a89e7a15b3b472", null ],
+    [ "GetAI", "da/d39/a17183.html#ad670ae69daa742c19c06267399445a11", null ]
 ];

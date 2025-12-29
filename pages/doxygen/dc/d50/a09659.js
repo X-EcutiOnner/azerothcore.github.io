@@ -1,6 +1,9 @@
 var a09659 =
 [
-    [ "NpcTextLocale", "dc/d50/a09659.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "dc/d50/a09659.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "dc/d50/a09659.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "LoginQueryHolder", "dc/d50/a09659.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "dc/d50/a09659.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "dc/d50/a09659.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "dc/d50/a09659.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "dc/d50/a09659.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "dc/d50/a09659.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

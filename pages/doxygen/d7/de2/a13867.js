@@ -1,15 +1,16 @@
 var a13867 =
 [
-    [ "npc_deathstalker_fearleia", "d7/de2/a13867.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "d7/de2/a13867.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "d7/de2/a13867.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "d7/de2/a13867.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "d7/de2/a13867.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "d7/de2/a13867.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "d7/de2/a13867.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "d7/de2/a13867.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "d7/de2/a13867.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "d7/de2/a13867.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "d7/de2/a13867.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "d7/de2/a13867.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d7/de2/a13867.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d7/de2/a13867.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d7/de2/a13867.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d7/de2/a13867.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d7/de2/a13867.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d7/de2/a13867.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d7/de2/a13867.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d7/de2/a13867.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d7/de2/a13867.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d7/de2/a13867.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d7/de2/a13867.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d7/de2/a13867.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d7/de2/a13867.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

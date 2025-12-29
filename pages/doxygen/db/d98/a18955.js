@@ -1,5 +1,6 @@
 var a18955 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "db/d98/a18955.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "db/d98/a18955.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "HandleEvent", "db/d98/a18955.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "db/d98/a18955.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "db/d98/a18955.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

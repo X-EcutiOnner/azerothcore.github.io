@@ -1,6 +1,8 @@
 var a10979 =
 [
-    [ "ComplainResult", "db/dbc/a10979.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "db/dbc/a10979.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "db/dbc/a10979.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "PauseMirrorTimer", "db/dbc/a10979.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "db/dbc/a10979.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "db/dbc/a10979.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "db/dbc/a10979.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "db/dbc/a10979.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

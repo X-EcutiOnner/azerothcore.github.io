@@ -1,9 +1,10 @@
 var a07431 =
 [
-    [ "BattlegroundEYLosingPointStruct", "d1/df6/a07431.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "d1/df6/a07431.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "d1/df6/a07431.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "d1/df6/a07431.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "d1/df6/a07431.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "d1/df6/a07431.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "OwnerId", "d1/df6/a07431.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d1/df6/a07431.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d1/df6/a07431.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d1/df6/a07431.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d1/df6/a07431.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d1/df6/a07431.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d1/df6/a07431.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

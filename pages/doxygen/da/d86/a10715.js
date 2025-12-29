@@ -1,7 +1,11 @@
 var a10715 =
 [
-    [ "GuildSetMemberNote", "da/d86/a10715.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
-    [ "Read", "da/d86/a10715.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
-    [ "Note", "da/d86/a10715.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
-    [ "NoteeName", "da/d86/a10715.html#acf6beb0a5b122a04162e9d2c027203af", null ]
+    [ "GuildRankTabPermissions", "d9/d85/a10719.html", "d9/d85/a10719" ],
+    [ "GuildPermissionsQueryResults", "da/d86/a10715.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "da/d86/a10715.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "da/d86/a10715.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "da/d86/a10715.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "da/d86/a10715.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "da/d86/a10715.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "da/d86/a10715.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

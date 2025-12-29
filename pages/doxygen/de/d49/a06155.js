@@ -1,11 +1,9 @@
 var a06155 =
 [
-    [ "PossessedAI", "de/d49/a06155.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
-    [ "AttackStart", "de/d49/a06155.html#a293a49d5cffd58dff103b0aacc558cde", null ],
-    [ "EnterEvadeMode", "de/d49/a06155.html#ad99b9c297289b819157be56d8049320e", null ],
-    [ "JustDied", "de/d49/a06155.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
-    [ "KilledUnit", "de/d49/a06155.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
-    [ "MoveInLineOfSight", "de/d49/a06155.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
-    [ "Permissible", "de/d49/a06155.html#aafc2d20dff60c6e5401eaa579844430d", null ],
-    [ "UpdateAI", "de/d49/a06155.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
+    [ "TurretAI", "de/d49/a06155.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "de/d49/a06155.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "de/d49/a06155.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "de/d49/a06155.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "de/d49/a06155.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "de/d49/a06155.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

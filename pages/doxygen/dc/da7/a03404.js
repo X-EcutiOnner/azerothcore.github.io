@@ -1,20 +1,14 @@
 var a03404 =
 [
-    [ "npc_partygoer_pather", "d5/db6/a13774.html", "d5/db6/a13774" ],
-    [ "npc_partygoer", "db/db6/a13778.html", "db/db6/a13778" ],
-    [ "Partygoer", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "dc/da7/a03404.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "npc_tapoke_slim_jahn", "da/dd2/a14039.html", "da/dd2/a14039" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d6/d2a/a14043.html", "d6/d2a/a14043" ],
+    [ "npc_mikhail", "df/d5d/a14047.html", "df/d5d/a14047" ],
+    [ "TapokeSlim", "dc/da7/a03404.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "dc/da7/a03404.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "dc/da7/a03404.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "dc/da7/a03404.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "dc/da7/a03404.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "dc/da7/a03404.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
     ] ],
-    [ "Partygoer_Pather", "dc/da7/a03404.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "dc/da7/a03404.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "dc/da7/a03404.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "dc/da7/a03404.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "dc/da7/a03404.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "dc/da7/a03404.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "AddSC_wetlands", "dc/da7/a03404.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

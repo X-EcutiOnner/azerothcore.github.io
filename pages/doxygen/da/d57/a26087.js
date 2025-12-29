@@ -1,7 +1,9 @@
 var a26087 =
 [
-    [ "HandleHeal", "da/d57/a26087.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "da/d57/a26087.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "da/d57/a26087.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "da/d57/a26087.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "CheckRequirement", "da/d57/a26087.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "da/d57/a26087.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "da/d57/a26087.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "da/d57/a26087.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "da/d57/a26087.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "da/d57/a26087.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

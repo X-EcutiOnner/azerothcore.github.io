@@ -1,7 +1,6 @@
 var a24187 =
 [
-    [ "npc_daranelleAI", "d2/ddb/a24187.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d2/ddb/a24187.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d2/ddb/a24187.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d2/ddb/a24187.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_deaths_fel_cannonAI", "d2/ddb/a24187.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d2/ddb/a24187.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d2/ddb/a24187.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

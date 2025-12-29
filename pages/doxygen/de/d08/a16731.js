@@ -1,6 +1,6 @@
 var a16731 =
 [
-    [ "boss_jaraxxusAI", "dd/d74/a16735.html", "dd/d74/a16735" ],
-    [ "boss_jaraxxus", "de/d08/a16731.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "de/d08/a16731.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_dkAI", "dd/d74/a16735.html", "dd/d74/a16735" ],
+    [ "npc_toc_dk", "de/d08/a16731.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
+    [ "GetAI", "de/d08/a16731.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
 ];

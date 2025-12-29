@@ -1,9 +1,9 @@
 var a15247 =
 [
-    [ "go_ossirian_crystalAI", "d6/d28/a15247.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d6/d28/a15247.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d6/d28/a15247.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d6/d28/a15247.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "d6/d28/a15247.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d6/d28/a15247.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "npc_buru_egg", "d6/d28/a15247.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d6/d28/a15247.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d6/d28/a15247.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d6/d28/a15247.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d6/d28/a15247.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d6/d28/a15247.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

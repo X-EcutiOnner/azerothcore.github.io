@@ -1,6 +1,6 @@
 var a12231 =
 [
-    [ "boss_halyconAI", "dd/d0f/a12235.html", "dd/d0f/a12235" ],
-    [ "boss_halycon", "d2/d3b/a12231.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "d2/d3b/a12231.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "boss_high_priestess_thaurissanAI", "d2/d3b/a12231.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "d2/d3b/a12231.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "d2/d3b/a12231.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

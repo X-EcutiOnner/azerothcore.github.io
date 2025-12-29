@@ -1,8 +1,8 @@
 var a14143 =
 [
-    [ "HandleScriptEffect", "d2/d86/a14143.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "d2/d86/a14143.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "d2/d86/a14143.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "d2/d86/a14143.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "d2/d86/a14143.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "npc_zulaman_hostageAI", "d9/d2e/a14147.html", "d9/d2e/a14147" ],
+    [ "npc_zulaman_hostage", "d2/d86/a14143.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d2/d86/a14143.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d2/d86/a14143.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d2/d86/a14143.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

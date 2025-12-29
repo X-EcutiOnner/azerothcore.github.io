@@ -1,8 +1,6 @@
 var a14615 =
 [
-    [ "npc_hallows_end_train_fire", "db/d72/a14615.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "db/d72/a14615.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "db/d72/a14615.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "db/d72/a14615.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "db/d72/a14615.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "HandleScript", "db/d72/a14615.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "db/d72/a14615.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "db/d72/a14615.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

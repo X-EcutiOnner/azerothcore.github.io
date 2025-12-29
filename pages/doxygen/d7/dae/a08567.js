@@ -1,12 +1,19 @@
 var a08567 =
 [
-    [ "SpellModifier", "d7/dae/a08567.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "d7/dae/a08567.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "d7/dae/a08567.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "d7/dae/a08567.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "d7/dae/a08567.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "d7/dae/a08567.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "d7/dae/a08567.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "d7/dae/a08567.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "d7/dae/a08567.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "PetInfo", "d7/dae/a08567.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "d7/dae/a08567.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "d7/dae/a08567.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "d7/dae/a08567.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "d7/dae/a08567.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "d7/dae/a08567.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "d7/dae/a08567.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "d7/dae/a08567.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "d7/dae/a08567.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "d7/dae/a08567.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "d7/dae/a08567.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "d7/dae/a08567.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "d7/dae/a08567.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "d7/dae/a08567.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "d7/dae/a08567.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "d7/dae/a08567.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

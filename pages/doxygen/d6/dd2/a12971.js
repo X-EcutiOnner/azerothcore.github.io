@@ -1,6 +1,6 @@
 var a12971 =
 [
-    [ "instance_karazhan_InstanceMapScript", "dd/df8/a12975.html", "dd/df8/a12975" ],
-    [ "instance_karazhan", "d6/dd2/a12971.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "d6/dd2/a12971.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "go_blood_drenched_doorAI", "dd/df8/a12975.html", "dd/df8/a12975" ],
+    [ "go_blood_drenched_door", "d6/dd2/a12971.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "d6/dd2/a12971.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

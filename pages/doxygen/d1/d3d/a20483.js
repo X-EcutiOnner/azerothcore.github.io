@@ -1,5 +1,6 @@
 var a20483 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d1/d3d/a20483.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d1/d3d/a20483.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "HandleAfterEffectApply", "d1/d3d/a20483.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d1/d3d/a20483.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d1/d3d/a20483.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

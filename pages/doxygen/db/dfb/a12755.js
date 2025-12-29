@@ -1,10 +1,6 @@
 var a12755 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "db/dfb/a12755.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "db/dfb/a12755.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "db/dfb/a12755.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "db/dfb/a12755.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "db/dfb/a12755.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "db/dfb/a12755.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "db/dfb/a12755.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "boss_sulfuronAI", "d3/dea/a12759.html", "d3/dea/a12759" ],
+    [ "boss_sulfuron", "db/dfb/a12755.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "db/dfb/a12755.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

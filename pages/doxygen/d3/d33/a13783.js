@@ -1,12 +1,5 @@
 var a13783 =
 [
-    [ "npc_cameron", "d3/d33/a13783.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d3/d33/a13783.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d3/d33/a13783.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d3/d33/a13783.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d3/d33/a13783.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d3/d33/a13783.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d3/d33/a13783.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d3/d33/a13783.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d3/d33/a13783.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_maredis_firestarAI", "d0/d51/a13787.html", "d0/d51/a13787" ],
+    [ "npc_maredis_firestar", "d3/d33/a13783.html#a91015d70203597db3dda10b695565740", null ]
 ];

@@ -1,6 +1,5 @@
 var a17399 =
 [
-    [ "HandleScriptEffect", "d1/df9/a17399.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "d1/df9/a17399.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "d1/df9/a17399.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "endPosition", "d1/df9/a17399.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d1/df9/a17399.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

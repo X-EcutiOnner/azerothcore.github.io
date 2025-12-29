@@ -1,10 +1,6 @@
 var a21611 =
 [
-    [ "npc_azure_invaderAI", "d0/d84/a21611.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d0/d84/a21611.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d0/d84/a21611.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d0/d84/a21611.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d0/d84/a21611.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d0/d84/a21611.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d0/d84/a21611.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_vh_sinclari", "d0/d84/a21611.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d0/d84/a21611.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d0/d84/a21611.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

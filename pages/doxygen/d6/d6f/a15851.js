@@ -1,7 +1,6 @@
 var a15851 =
 [
-    [ "npc_giltharesAI", "d6/d6f/a15851.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d6/d6f/a15851.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d6/d6f/a15851.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d6/d6f/a15851.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_aquementasAI", "d5/df9/a15855.html", "d5/df9/a15855" ],
+    [ "npc_aquementas", "d6/d6f/a15851.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d6/d6f/a15851.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

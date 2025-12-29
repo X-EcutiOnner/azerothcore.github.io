@@ -1,6 +1,7 @@
 var a16403 =
 [
-    [ "boss_saviana_ragefireAI", "d0/dac/a16407.html", "d0/dac/a16407" ],
-    [ "boss_saviana_ragefire", "db/d2f/a16403.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "db/d2f/a16403.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "OnApply", "db/d2f/a16403.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "db/d2f/a16403.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "db/d2f/a16403.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "db/d2f/a16403.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

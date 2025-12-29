@@ -1,6 +1,6 @@
 var a24531 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d0/ddf/a24535.html", "d0/ddf/a24535" ],
-    [ "npc_unkor_the_ruthless", "df/d18/a24531.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "df/d18/a24531.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "HandleSendEvent", "df/d18/a24531.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "df/d18/a24531.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "df/d18/a24531.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

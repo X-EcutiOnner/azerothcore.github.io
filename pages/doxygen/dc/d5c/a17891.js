@@ -1,9 +1,9 @@
 var a17891 =
 [
-    [ "HandleApply", "dc/d5c/a17891.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "dc/d5c/a17891.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "dc/d5c/a17891.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "dc/d5c/a17891.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "dc/d5c/a17891.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "dc/d5c/a17891.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "CheckAreaTarget", "dc/d5c/a17891.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "dc/d5c/a17891.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "dc/d5c/a17891.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "dc/d5c/a17891.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "dc/d5c/a17891.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "dc/d5c/a17891.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

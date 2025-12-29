@@ -1,6 +1,14 @@
 var a21527 =
 [
-    [ "npc_ichor_globuleAI", "de/da5/a21531.html", "de/da5/a21531" ],
-    [ "npc_ichor_globule", "d8/d88/a21527.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d8/d88/a21527.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "boss_erekemAI", "d8/d88/a21527.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "d8/d88/a21527.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "d8/d88/a21527.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "d8/d88/a21527.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "d8/d88/a21527.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "d8/d88/a21527.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "d8/d88/a21527.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "d8/d88/a21527.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "d8/d88/a21527.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "d8/d88/a21527.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "d8/d88/a21527.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

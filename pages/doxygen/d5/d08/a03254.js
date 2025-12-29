@@ -1,5 +1,5 @@
 var a03254 =
 [
-    [ "wp_commandscript", "df/dc0/a11990.html", "df/dc0/a11990" ],
-    [ "AddSC_wp_commandscript", "d5/d08/a03254.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
+    [ "achievement_commandscript", "df/d87/a11827.html", "df/d87/a11827" ],
+    [ "AddSC_achievement_commandscript", "d5/d08/a03254.html#afeb482a8cffe8416071764bc4e78bff2", null ]
 ];

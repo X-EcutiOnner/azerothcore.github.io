@@ -1,6 +1,9 @@
 var a19031 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/d02/a19035.html", "dc/d02/a19035" ],
-    [ "npc_icc_severed_essence", "d0/def/a19031.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d0/def/a19031.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d0/def/a19031.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "d0/def/a19031.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "d0/def/a19031.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "d0/def/a19031.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "d0/def/a19031.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "d0/def/a19031.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

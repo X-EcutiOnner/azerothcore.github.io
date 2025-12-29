@@ -1,4 +1,4 @@
 var a01550 =
 [
-    [ "MapGridManager", "d1/deb/a09226.html", "d1/deb/a09226" ]
+    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d0/d7d/a09147.html", "d0/d7d/a09147" ]
 ];

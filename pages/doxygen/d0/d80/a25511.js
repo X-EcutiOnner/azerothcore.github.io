@@ -1,5 +1,7 @@
 var a25511 =
 [
-    [ "PrepareSpellScript", "d0/d80/a25511.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "d0/d80/a25511.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "HandleDamage", "d0/d80/a25511.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d0/d80/a25511.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d0/d80/a25511.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d0/d80/a25511.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

@@ -1,13 +1,22 @@
 var a04866 =
 [
-    [ "LogoutCancel", "d3/d2d/a10564.html", "d3/d2d/a10564" ],
-    [ "LogoutCancelAck", "d7/d9f/a10568.html", "d7/d9f/a10568" ],
-    [ "LogoutComplete", "d1/d46/a10560.html", "d1/d46/a10560" ],
-    [ "LogoutRequest", "d4/d05/a10552.html", "d4/d05/a10552" ],
-    [ "LogoutResponse", "d5/dc7/a10556.html", "d5/dc7/a10556" ],
-    [ "PlayedTime", "d9/d97/a10580.html", "d9/d97/a10580" ],
-    [ "PlayedTimeClient", "db/d03/a10576.html", "db/d03/a10576" ],
-    [ "PlayerLogout", "d3/da5/a10572.html", "d3/da5/a10572" ],
-    [ "ShowingCloak", "db/d25/a10544.html", "db/d25/a10544" ],
-    [ "ShowingHelm", "dd/d06/a10548.html", "dd/d06/a10548" ]
+    [ "AccountIdentifier", "d7/d72/a07767.html", "d7/d72/a07767" ],
+    [ "ChatCommandBuilder", "d9/d95/a07627.html", "d9/d95/a07627" ],
+    [ "ExactSequence", "dc/d54/a07751.html", "dc/d54/a07751" ],
+    [ "Hyperlink", "d6/d47/a07775.html", "d6/d47/a07775" ],
+    [ "PlayerIdentifier", "d0/d72/a07771.html", "d0/d72/a07771" ],
+    [ "QuotedString", "d0/d17/a07763.html", "d0/d17/a07763" ],
+    [ "Tail", "d2/d28/a07755.html", "d2/d28/a07755" ],
+    [ "Variant", "da/dff/a07783.html", "da/dff/a07783" ],
+    [ "WTail", "da/d1e/a07759.html", "da/d1e/a07759" ],
+    [ "ChatCommandTable", "d6/dd3/a04866.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
+    [ "Console", "d6/dd3/a04866.html#a6f2659123367a36f37046e5604215d6b", [
+      [ "No", "d6/dd3/a04866.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
+      [ "Yes", "d6/dd3/a04866.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
+    ] ],
+    [ "GetAutoCompletionsFor", "d6/dd3/a04866.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
+    [ "InvalidateCommandMap", "d6/dd3/a04866.html#ade19080af583292883b932d83992c6fe", null ],
+    [ "LoadCommandMap", "d6/dd3/a04866.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
+    [ "SendCommandHelpFor", "d6/dd3/a04866.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
+    [ "TryExecuteCommand", "d6/dd3/a04866.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
 ];

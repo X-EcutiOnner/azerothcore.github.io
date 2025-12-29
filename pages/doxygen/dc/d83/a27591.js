@@ -1,6 +1,6 @@
 var a27591 =
 [
-    [ "go_soulwellAI", "d2/d90/a27595.html", "d2/d90/a27595" ],
-    [ "go_soulwell", "dc/d83/a27591.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "dc/d83/a27591.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_fel_crystalforge", "dc/d83/a27591.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "dc/d83/a27591.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "dc/d83/a27591.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

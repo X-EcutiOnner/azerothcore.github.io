@@ -1,6 +1,6 @@
 var a18751 =
 [
-    [ "HandleScript", "d3/d3d/a18751.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "d3/d3d/a18751.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "d3/d3d/a18751.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "npc_valithria_cloudAI", "dc/d04/a18755.html", "dc/d04/a18755" ],
+    [ "npc_valithria_cloud", "d3/d3d/a18751.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "d3/d3d/a18751.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

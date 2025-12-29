@@ -1,6 +1,10 @@
 var a17431 =
 [
-    [ "boss_moorabiAI", "df/da9/a17435.html", "df/da9/a17435" ],
-    [ "boss_moorabi", "d4/d43/a17431.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "d4/d43/a17431.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "npc_living_mojoAI", "d4/d43/a17431.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "d4/d43/a17431.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "d4/d43/a17431.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "MoveInLineOfSight", "d4/d43/a17431.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "d4/d43/a17431.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "d4/d43/a17431.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "d4/d43/a17431.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

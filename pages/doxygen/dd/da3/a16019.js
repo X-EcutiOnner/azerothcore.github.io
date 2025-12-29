@@ -1,7 +1,6 @@
 var a16019 =
 [
-    [ "npc_ahnkahar_nerubian", "dd/da3/a16019.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "dd/da3/a16019.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "dd/da3/a16019.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "dd/da3/a16019.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "go_troll_cageAI", "d6/dde/a16023.html", "d6/dde/a16023" ],
+    [ "go_troll_cage", "dd/da3/a16019.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "dd/da3/a16019.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

@@ -1,14 +1,16 @@
 var a07135 =
 [
-    [ "getAll", "dc/dc2/a07135.html#a736642258b38fa05f04df4f4ac9069db", null ],
-    [ "inventoryType", "dc/dc2/a07135.html#a521224ce63856745ed64c39f6cbdddc4", null ],
-    [ "itemClass", "dc/dc2/a07135.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
-    [ "itemSubClass", "dc/dc2/a07135.html#acf154bf30417c1a202ae85b4dd1adead", null ],
-    [ "levelmax", "dc/dc2/a07135.html#a902d715d89a5ca66072393ccefbb1ead", null ],
-    [ "levelmin", "dc/dc2/a07135.html#ac437de5977b177a586381c8665439a56", null ],
-    [ "listfrom", "dc/dc2/a07135.html#a2be6266f0bbc631d476710cbe291fab1", null ],
-    [ "quality", "dc/dc2/a07135.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
-    [ "sorting", "dc/dc2/a07135.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
-    [ "usable", "dc/dc2/a07135.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
-    [ "wsearchedname", "dc/dc2/a07135.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
+    [ "AuctionEntryMap", "dc/dc2/a07135.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "dc/dc2/a07135.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "dc/dc2/a07135.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "dc/dc2/a07135.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "dc/dc2/a07135.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "dc/dc2/a07135.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "dc/dc2/a07135.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "dc/dc2/a07135.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "dc/dc2/a07135.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "dc/dc2/a07135.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "dc/dc2/a07135.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "dc/dc2/a07135.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "dc/dc2/a07135.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

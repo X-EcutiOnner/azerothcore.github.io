@@ -1,15 +1,10 @@
 var a10327 =
 [
-    [ "CreatureScript", "df/deb/a10327.html#afa0053e299f9125cc288ea38652edecb", null ],
-    [ "GetAI", "df/deb/a10327.html#a24ba3529655943afdf6598450d14e6c2", null ],
-    [ "GetDialogStatus", "df/deb/a10327.html#a41562245c4a44843363d6b0ce32ce48d", null ],
-    [ "IsDatabaseBound", "df/deb/a10327.html#af19c64d23391f8b835f79bc6cf315caa", null ],
-    [ "OnFfaPvpStateUpdate", "df/deb/a10327.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
-    [ "OnGossipHello", "df/deb/a10327.html#a6268b132444845302ada504f48629a4f", null ],
-    [ "OnGossipSelect", "df/deb/a10327.html#a30f160576b4cb97d940ecf3468834667", null ],
-    [ "OnGossipSelectCode", "df/deb/a10327.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
-    [ "OnQuestAccept", "df/deb/a10327.html#a6b106a237886f49e523ae7b07e9c5979", null ],
-    [ "OnQuestComplete", "df/deb/a10327.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
-    [ "OnQuestReward", "df/deb/a10327.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
-    [ "OnQuestSelect", "df/deb/a10327.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
+    [ "ArenaScript", "df/deb/a10327.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "df/deb/a10327.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveToDB", "df/deb/a10327.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "df/deb/a10327.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "df/deb/a10327.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "df/deb/a10327.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnGetPoints", "df/deb/a10327.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

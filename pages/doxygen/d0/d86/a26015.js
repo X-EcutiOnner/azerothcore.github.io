@@ -1,6 +1,8 @@
 var a26015 =
 [
-    [ "CheckSinkholes", "d0/d86/a26015.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d0/d86/a26015.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d0/d86/a26015.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "CheckProc", "d0/d86/a26015.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "d0/d86/a26015.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "d0/d86/a26015.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "d0/d86/a26015.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "d0/d86/a26015.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

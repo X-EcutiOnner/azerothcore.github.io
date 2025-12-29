@@ -1,7 +1,9 @@
 var a24783 =
 [
-    [ "CheckCast", "d6/dbf/a24783.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d6/dbf/a24783.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d6/dbf/a24783.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d6/dbf/a24783.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleAfterHit", "d6/dbf/a24783.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "d6/dbf/a24783.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "d6/dbf/a24783.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "d6/dbf/a24783.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "d6/dbf/a24783.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "d6/dbf/a24783.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

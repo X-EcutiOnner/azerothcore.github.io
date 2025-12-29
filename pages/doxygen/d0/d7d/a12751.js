@@ -1,6 +1,8 @@
 var a12751 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "db/dfb/a12755.html", "db/dfb/a12755" ],
-    [ "instance_gnomeregan", "d0/d7d/a12751.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d0/d7d/a12751.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "FilterTargets", "d0/d7d/a12751.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d0/d7d/a12751.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d0/d7d/a12751.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d0/d7d/a12751.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d0/d7d/a12751.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

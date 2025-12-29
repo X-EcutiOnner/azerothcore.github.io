@@ -1,6 +1,8 @@
 var a17699 =
 [
-    [ "npc_icc_blood_beastAI", "dc/d81/a17703.html", "dc/d81/a17703" ],
-    [ "npc_icc_blood_beast", "d1/d0a/a17699.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "d1/d0a/a17699.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "npc_saurfang_eventAI", "d1/d0a/a17699.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d1/d0a/a17699.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d1/d0a/a17699.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d1/d0a/a17699.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d1/d0a/a17699.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

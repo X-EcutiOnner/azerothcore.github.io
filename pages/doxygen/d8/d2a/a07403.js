@@ -1,9 +1,12 @@
 var a07403 =
 [
-    [ "CapturePointInfo", "d8/d2a/a07403.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d8/d2a/a07403.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d8/d2a/a07403.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d8/d2a/a07403.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d8/d2a/a07403.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d8/d2a/a07403.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "BGQueueRemoveEvent", "d8/d2a/a07403.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d8/d2a/a07403.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d8/d2a/a07403.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d8/d2a/a07403.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d8/d2a/a07403.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d8/d2a/a07403.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d8/d2a/a07403.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d8/d2a/a07403.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d8/d2a/a07403.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

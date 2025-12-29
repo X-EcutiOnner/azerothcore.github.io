@@ -1,6 +1,6 @@
 var a15447 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "da/d38/a15451.html", "da/d38/a15451" ],
-    [ "instance_temple_of_ahnqiraj", "d5/d17/a15447.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "d5/d17/a15447.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "boss_veknilash", "d5/d17/a15447.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d5/d17/a15447.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d5/d17/a15447.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

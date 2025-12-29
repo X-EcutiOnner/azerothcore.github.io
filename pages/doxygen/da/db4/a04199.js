@@ -1,8 +1,6 @@
 var a04199 =
 [
-    [ "wdt_MPHD", "da/d4f/a28970.html", "da/d4f/a28970" ],
-    [ "wdt_MAIN", "d6/d50/a28978.html", "d6/d50/a28978" ],
-    [ "wdt_MAIN::adtData", "d5/d21/a28986.html", "d5/d21/a28986" ],
-    [ "WDT_file", "dc/d4c/a28990.html", "dc/d4c/a28990" ],
-    [ "WDT_MAP_SIZE", "da/db4/a04199.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "da/db4/a04199.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "da/db4/a04199.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "da/db4/a04199.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

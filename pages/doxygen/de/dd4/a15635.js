@@ -1,7 +1,7 @@
 var a15635 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "de/dd4/a15635.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "de/dd4/a15635.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "de/dd4/a15635.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "de/dd4/a15635.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_prospector_remtravelAI", "d3/daf/a15639.html", "d3/daf/a15639" ],
+    [ "npc_prospector_remtravel", "de/dd4/a15635.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "de/dd4/a15635.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "de/dd4/a15635.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

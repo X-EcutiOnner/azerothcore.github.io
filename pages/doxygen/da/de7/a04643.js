@@ -1,4 +1,5 @@
 var a04643 =
 [
-    [ "AppenderFile", "db/de3/a05387.html", "db/de3/a05387" ]
+    [ "Appender", "dc/d06/a05407.html", "dc/d06/a05407" ],
+    [ "InvalidAppenderArgsException", "d8/d4f/a05411.html", "d8/d4f/a05411" ]
 ];

@@ -1,7 +1,6 @@
 var a21183 =
 [
-    [ "HandleProc", "d4/dc3/a21183.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d4/dc3/a21183.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d4/dc3/a21183.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d4/dc3/a21183.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "OnEffect", "d4/dc3/a21183.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d4/dc3/a21183.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d4/dc3/a21183.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

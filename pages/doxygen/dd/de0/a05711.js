@@ -1,6 +1,9 @@
 var a05711 =
 [
-    [ "handler", "dd/de0/a05711.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
-    [ "packetSize", "dd/de0/a05711.html#a952f7f7ff3017efa4c3d127baa848785", null ],
-    [ "status", "dd/de0/a05711.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
+    [ "A", "dd/de0/a05711.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "dd/de0/a05711.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "dd/de0/a05711.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "dd/de0/a05711.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "dd/de0/a05711.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "dd/de0/a05711.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

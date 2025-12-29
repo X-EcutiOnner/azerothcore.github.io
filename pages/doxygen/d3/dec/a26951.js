@@ -1,8 +1,8 @@
 var a26951 =
 [
-    [ "ApplyDebuff", "d3/dec/a26951.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "d3/dec/a26951.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "d3/dec/a26951.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "d3/dec/a26951.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "d3/dec/a26951.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "Apply", "d3/dec/a26951.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "d3/dec/a26951.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "d3/dec/a26951.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "d3/dec/a26951.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "d3/dec/a26951.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

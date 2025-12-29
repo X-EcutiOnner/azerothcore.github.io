@@ -1,8 +1,10 @@
 var a28603 =
 [
-    [ "ClassMask", "d8/d13/a28603.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d8/d13/a28603.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d8/d13/a28603.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d8/d13/a28603.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d8/d13/a28603.html#ab6153043461b71336e12b00957499075", null ]
+    [ "PvPDifficultyEntry", "d8/d13/a28603.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d8/d13/a28603.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d8/d13/a28603.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d8/d13/a28603.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d8/d13/a28603.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d8/d13/a28603.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d8/d13/a28603.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

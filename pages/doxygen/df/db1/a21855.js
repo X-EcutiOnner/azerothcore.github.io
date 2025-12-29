@@ -1,7 +1,7 @@
 var a21855 =
 [
-    [ "npc_warmage_violetstand", "df/db1/a21855.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "df/db1/a21855.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "df/db1/a21855.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "df/db1/a21855.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "HandleEffectHit", "df/db1/a21855.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "df/db1/a21855.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "df/db1/a21855.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "df/db1/a21855.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

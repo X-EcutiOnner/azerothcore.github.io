@@ -1,7 +1,11 @@
 var a16319 =
 [
-    [ "npc_orb_carrierAI", "d8/de4/a16319.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d8/de4/a16319.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d8/de4/a16319.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d8/de4/a16319.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_general_zarithrianAI", "d8/de4/a16319.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d8/de4/a16319.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d8/de4/a16319.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d8/de4/a16319.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d8/de4/a16319.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d8/de4/a16319.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d8/de4/a16319.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d8/de4/a16319.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

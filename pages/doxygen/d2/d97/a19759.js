@@ -1,7 +1,7 @@
 var a19759 =
 [
-    [ "HandleScript", "d2/d97/a19759.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d2/d97/a19759.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d2/d97/a19759.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d2/d97/a19759.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "OnRemove", "d2/d97/a19759.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d2/d97/a19759.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d2/d97/a19759.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d2/d97/a19759.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

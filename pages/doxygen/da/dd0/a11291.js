@@ -1,11 +1,8 @@
 var a11291 =
 [
-    [ "SpellValue", "da/dd0/a11291.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "da/dd0/a11291.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "da/dd0/a11291.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "da/dd0/a11291.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "da/dd0/a11291.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "da/dd0/a11291.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "da/dd0/a11291.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "da/dd0/a11291.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "SkillDiscoveryEntry", "da/dd0/a11291.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "da/dd0/a11291.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "da/dd0/a11291.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "da/dd0/a11291.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "da/dd0/a11291.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

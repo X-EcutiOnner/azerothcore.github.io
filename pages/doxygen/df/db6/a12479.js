@@ -1,9 +1,14 @@
 var a12479 =
 [
-    [ "npc_drakonid_spawner", "df/db6/a12479.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "df/db6/a12479.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "df/db6/a12479.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "df/db6/a12479.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "df/db6/a12479.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "df/db6/a12479.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_chromaggusAI", "df/db6/a12479.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
+    [ "CanAIAttack", "df/db6/a12479.html#a4643974601831ced1f6173965009ad20", null ],
+    [ "Initialize", "df/db6/a12479.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
+    [ "JustEngagedWith", "df/db6/a12479.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
+    [ "PathEndReached", "df/db6/a12479.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
+    [ "Reset", "df/db6/a12479.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
+    [ "SetGUID", "df/db6/a12479.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
+    [ "UpdateAI", "df/db6/a12479.html#a4a120f99c6586fd06af6699bfe913d24", null ],
+    [ "_breathSpells", "df/db6/a12479.html#a10e18592d163d4be586701de47da48c9", null ],
+    [ "_playerGUID", "df/db6/a12479.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
+    [ "Enraged", "df/db6/a12479.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
 ];

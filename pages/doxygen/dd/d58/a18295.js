@@ -1,5 +1,6 @@
 var a18295 =
 [
-    [ "operator()", "dd/d58/a18295.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "dd/d58/a18295.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "npc_ice_tombAI", "de/d22/a18299.html", "de/d22/a18299" ],
+    [ "npc_ice_tomb", "dd/d58/a18295.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "dd/d58/a18295.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

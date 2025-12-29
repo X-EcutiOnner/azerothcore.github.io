@@ -1,12 +1,15 @@
 var a08199 =
 [
-    [ "GameObjectModelOwnerImpl", "df/dbf/a08199.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "df/dbf/a08199.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "df/dbf/a08199.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "df/dbf/a08199.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "df/dbf/a08199.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "df/dbf/a08199.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "df/dbf/a08199.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "df/dbf/a08199.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "df/dbf/a08199.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "Guardian", "df/dbf/a08199.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "df/dbf/a08199.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "df/dbf/a08199.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "df/dbf/a08199.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "df/dbf/a08199.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "df/dbf/a08199.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "df/dbf/a08199.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "df/dbf/a08199.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "df/dbf/a08199.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "df/dbf/a08199.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "df/dbf/a08199.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "df/dbf/a08199.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

@@ -1,11 +1,14 @@
 var a07219 =
 [
-    [ "gyid", "db/db6/a07219.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "db/db6/a07219.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "db/db6/a07219.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "db/db6/a07219.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "db/db6/a07219.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "db/db6/a07219.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "db/db6/a07219.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "db/db6/a07219.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "AutobroadcastsMap", "db/db6/a07219.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "db/db6/a07219.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "db/db6/a07219.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "db/db6/a07219.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "db/db6/a07219.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "db/db6/a07219.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "db/db6/a07219.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "db/db6/a07219.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "db/db6/a07219.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "db/db6/a07219.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "db/db6/a07219.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

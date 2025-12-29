@@ -1,6 +1,6 @@
 var a17555 =
 [
-    [ "ChangeSummonPos", "d7/da7/a17555.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d7/da7/a17555.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d7/da7/a17555.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "npc_ball_of_flameAI", "d7/d09/a17559.html", "d7/d09/a17559" ],
+    [ "npc_ball_of_flame", "d7/da7/a17555.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d7/da7/a17555.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

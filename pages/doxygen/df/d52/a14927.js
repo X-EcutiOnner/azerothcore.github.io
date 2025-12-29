@@ -1,6 +1,10 @@
 var a14927 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d7/d0d/a14931.html", "d7/d0d/a14931" ],
-    [ "instance_hyjal", "df/d52/a14927.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "df/d52/a14927.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "hyjalJainaAI", "df/d52/a14927.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "df/d52/a14927.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "df/d52/a14927.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "df/d52/a14927.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "df/d52/a14927.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "df/d52/a14927.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "df/d52/a14927.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

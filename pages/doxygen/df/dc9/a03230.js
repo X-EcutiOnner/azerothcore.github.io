@@ -1,5 +1,5 @@
 var a03230 =
 [
-    [ "learn_commandscript", "d2/d0a/a11886.html", "d2/d0a/a11886" ],
-    [ "AddSC_learn_commandscript", "df/dc9/a03230.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
+    [ "send_commandscript", "de/de6/a12019.html", "de/de6/a12019" ],
+    [ "AddSC_send_commandscript", "df/dc9/a03230.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
 ];

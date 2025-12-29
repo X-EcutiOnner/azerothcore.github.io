@@ -1,8 +1,8 @@
 var a22855 =
 [
-    [ "boss_darkweaver_syth", "d0/de6/a22855.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d0/de6/a22855.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d0/de6/a22855.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d0/de6/a22855.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d0/de6/a22855.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "boss_tavarok", "d0/de6/a22855.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d0/de6/a22855.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d0/de6/a22855.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d0/de6/a22855.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d0/de6/a22855.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

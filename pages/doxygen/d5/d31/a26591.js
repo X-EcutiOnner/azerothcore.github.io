@@ -1,5 +1,6 @@
 var a26591 =
 [
-    [ "PrepareSpellScript", "d5/d31/a26591.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "d5/d31/a26591.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "HandleScriptEffect", "d5/d31/a26591.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "d5/d31/a26591.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "d5/d31/a26591.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

@@ -1,18 +1,15 @@
 var a14847 =
 [
-    [ "boss_archimonde", "d7/d9a/a14847.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
-    [ "DoAction", "d7/d9a/a14847.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
-    [ "DoCastDoomFire", "d7/d9a/a14847.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
-    [ "EnterEvadeMode", "d7/d9a/a14847.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
-    [ "JustEngagedWith", "d7/d9a/a14847.html#a31c526a5e72c4244df101918388c777c", null ],
-    [ "JustSummoned", "d7/d9a/a14847.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
-    [ "KilledUnit", "d7/d9a/a14847.html#a341ab97e59cfe989572fdcceff434e4e", null ],
-    [ "Reset", "d7/d9a/a14847.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
-    [ "SetGUID", "d7/d9a/a14847.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
-    [ "UnleashSoulCharge", "d7/d9a/a14847.html#a93f93fe116c75a24dc15bb521b038a27", null ],
-    [ "_availableAuras", "d7/d9a/a14847.html#a552869a0fd5141094a021e3aaaada051", null ],
-    [ "_availableSpells", "d7/d9a/a14847.html#a388a8bafb4407e371a58d3a7d090c754", null ],
-    [ "_enraged", "d7/d9a/a14847.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
-    [ "_isChanneling", "d7/d9a/a14847.html#ad967688caad8a6c7530bfd4709aecb06", null ],
-    [ "_wispCount", "d7/d9a/a14847.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d7/d9a/a14847.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "d7/d9a/a14847.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "d7/d9a/a14847.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "d7/d9a/a14847.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "d7/d9a/a14847.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "d7/d9a/a14847.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "d7/d9a/a14847.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "d7/d9a/a14847.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "d7/d9a/a14847.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "d7/d9a/a14847.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "d7/d9a/a14847.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "d7/d9a/a14847.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

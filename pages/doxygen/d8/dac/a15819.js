@@ -1,13 +1,17 @@
 var a15819 =
 [
-    [ "npc_aquementasAI", "d8/dac/a15819.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d8/dac/a15819.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d8/dac/a15819.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d8/dac/a15819.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d8/dac/a15819.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d8/dac/a15819.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d8/dac/a15819.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d8/dac/a15819.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d8/dac/a15819.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d8/dac/a15819.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_anachronos_quest_triggerAI", "d8/dac/a15819.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
+    [ "CheckEventFail", "d8/dac/a15819.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
+    [ "LiveCounter", "d8/dac/a15819.html#aa19310d516a578dcd2d13d4298da0f58", null ],
+    [ "Reset", "d8/dac/a15819.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
+    [ "SummonNextWave", "d8/dac/a15819.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
+    [ "UpdateAI", "d8/dac/a15819.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
+    [ "Announced", "d8/dac/a15819.html#a4e516705efff20a62124514ba14c8161", null ],
+    [ "AnnounceTimer", "d8/dac/a15819.html#a7772c5b4f80b75ffe7b0641321029059", null ],
+    [ "EventStarted", "d8/dac/a15819.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
+    [ "Failed", "d8/dac/a15819.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
+    [ "LiveCount", "d8/dac/a15819.html#ae959e46865951c2783fe97e824180050", null ],
+    [ "PlayerGUID", "d8/dac/a15819.html#a2c459e96b3599cda8560582a4fb4253a", null ],
+    [ "WaveCount", "d8/dac/a15819.html#ac3a32a11e5f99d081371c49363509deb", null ],
+    [ "WaveTimer", "d8/dac/a15819.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
 ];

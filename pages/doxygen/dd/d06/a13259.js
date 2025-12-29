@@ -1,7 +1,6 @@
 var a13259 =
 [
-    [ "OnApply", "dd/d06/a13259.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "dd/d06/a13259.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "dd/d06/a13259.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "dd/d06/a13259.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_gothik_the_harvesterAI", "d0/db6/a13263.html", "d0/db6/a13263" ],
+    [ "npc_gothik_the_harvester", "dd/d06/a13259.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "dd/d06/a13259.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

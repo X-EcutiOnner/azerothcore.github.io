@@ -1,10 +1,14 @@
 var a15055 =
 [
-    [ "boss_aeonus", "da/d0f/a15055.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "da/d0f/a15055.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "da/d0f/a15055.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "da/d0f/a15055.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "da/d0f/a15055.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "da/d0f/a15055.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "da/d0f/a15055.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "boss_captain_skarloc", "da/d0f/a15055.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "da/d0f/a15055.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "da/d0f/a15055.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "da/d0f/a15055.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "da/d0f/a15055.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "da/d0f/a15055.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "da/d0f/a15055.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "da/d0f/a15055.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "da/d0f/a15055.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "da/d0f/a15055.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "da/d0f/a15055.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

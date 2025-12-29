@@ -1,12 +1,13 @@
 var a09591 =
 [
-    [ "LogEntry", "d6/d3b/a09591.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "d6/d3b/a09591.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "d6/d3b/a09591.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "d6/d3b/a09591.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "d6/d3b/a09591.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "d6/d3b/a09591.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "d6/d3b/a09591.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "d6/d3b/a09591.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "d6/d3b/a09591.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "GroupReference", "d6/d3b/a09591.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d6/d3b/a09591.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d6/d3b/a09591.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d6/d3b/a09591.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d6/d3b/a09591.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d6/d3b/a09591.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d6/d3b/a09591.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d6/d3b/a09591.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d6/d3b/a09591.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d6/d3b/a09591.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

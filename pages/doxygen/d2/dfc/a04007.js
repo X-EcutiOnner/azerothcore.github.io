@@ -1,10 +1,8 @@
 var a04007 =
 [
-    [ "MySQLConnectionInfo", "d4/dc2/a05794.html", "d4/dc2/a05794" ],
-    [ "MySQLConnection", "d5/db7/a05798.html", "d5/db7/a05798" ],
-    [ "ConnectionFlags", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321f", [
-      [ "CONNECTION_ASYNC", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
-      [ "CONNECTION_SYNCH", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
-      [ "CONNECTION_BOTH", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
-    ] ]
+    [ "PingOperation", "d6/d37/a05783.html", "d6/d37/a05783" ],
+    [ "DatabaseIncompatibleVersion", "d2/dfc/a04007.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d2/dfc/a04007.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d2/dfc/a04007.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d2/dfc/a04007.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

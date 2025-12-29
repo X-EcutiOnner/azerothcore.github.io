@@ -1,10 +1,9 @@
 var a15367 =
 [
-    [ "boss_huhuran", "d7/d01/a15367.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d7/d01/a15367.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d7/d01/a15367.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d7/d01/a15367.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d7/d01/a15367.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d7/d01/a15367.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d7/d01/a15367.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_eye_tentacle", "d7/d01/a15367.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "d7/d01/a15367.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "d7/d01/a15367.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "d7/d01/a15367.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "d7/d01/a15367.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "d7/d01/a15367.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

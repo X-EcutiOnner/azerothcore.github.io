@@ -1,5 +1,4 @@
 var a04415 =
 [
-    [ "FactoryHolder< T, O, Key >", "dd/df0/a05262.html", "dd/df0/a05262" ],
-    [ "Permissible< T >", "d7/dc7/a05266.html", "d7/dc7/a05266" ]
+    [ "Reference< TO, FROM >", "db/d87/a05299.html", "db/d87/a05299" ]
 ];

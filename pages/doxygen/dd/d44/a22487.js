@@ -1,7 +1,8 @@
 var a22487 =
 [
-    [ "HandleDummy", "dd/d44/a22487.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "dd/d44/a22487.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "dd/d44/a22487.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "dd/d44/a22487.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_freed_protodrakeAI", "dd/d44/a22487.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "dd/d44/a22487.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "dd/d44/a22487.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "dd/d44/a22487.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "dd/d44/a22487.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

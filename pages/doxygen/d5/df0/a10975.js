@@ -1,12 +1,12 @@
 var a10975 =
 [
-    [ "Complain", "d5/df0/a10975.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d5/df0/a10975.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "Description", "d5/df0/a10975.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "SpammerGuid", "d5/df0/a10975.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d5/df0/a10975.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d5/df0/a10975.html#a7cc02360329a0b67c67fb5798d1e658d", null ],
-    [ "Unk2", "d5/df0/a10975.html#a2d935ee2ed26a672d0f5795b79d887cb", null ],
-    [ "Unk3", "d5/df0/a10975.html#a63aae3eaab2d6b72e08e4436ebe3bc0b", null ],
-    [ "Unk4", "d5/df0/a10975.html#ad9570c82409ce59ad94f3e8233fd251c", null ]
+    [ "StartMirrorTimer", "d5/df0/a10975.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d5/df0/a10975.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d5/df0/a10975.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d5/df0/a10975.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d5/df0/a10975.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d5/df0/a10975.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d5/df0/a10975.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d5/df0/a10975.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d5/df0/a10975.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

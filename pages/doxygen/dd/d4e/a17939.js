@@ -1,6 +1,9 @@
 var a17939 =
 [
-    [ "CheckProc", "dd/d4e/a17939.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "dd/d4e/a17939.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "dd/d4e/a17939.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "CalculateDamage", "dd/d4e/a17939.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "dd/d4e/a17939.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "dd/d4e/a17939.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "dd/d4e/a17939.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "dd/d4e/a17939.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "dd/d4e/a17939.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

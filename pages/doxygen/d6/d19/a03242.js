@@ -1,5 +1,5 @@
 var a03242 =
 [
-    [ "achievement_commandscript", "d0/d61/a11786.html", "d0/d61/a11786" ],
-    [ "AddSC_achievement_commandscript", "d6/d19/a03242.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "learn_commandscript", "df/d1e/a11927.html", "df/d1e/a11927" ],
+    [ "AddSC_learn_commandscript", "d6/d19/a03242.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

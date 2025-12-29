@@ -1,5 +1,6 @@
 var a27543 =
 [
-    [ "go_tablet_of_the_seven", "dd/dab/a27543.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "dd/dab/a27543.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_darkmoon_faire_musicAI", "d4/d16/a27547.html", "d4/d16/a27547" ],
+    [ "go_darkmoon_faire_music", "dd/dab/a27543.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "dd/dab/a27543.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

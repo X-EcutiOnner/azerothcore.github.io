@@ -1,6 +1,6 @@
 var a15031 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d3/de5/a15035.html", "d3/de5/a15035" ],
-    [ "instance_old_hillsbrad", "dc/dc5/a15031.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "dc/dc5/a15031.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "npc_cos_chromie_start", "dc/dc5/a15031.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "dc/dc5/a15031.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
+    [ "OnQuestAccept", "dc/dc5/a15031.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
 ];

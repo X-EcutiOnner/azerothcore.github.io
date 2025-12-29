@@ -1,6 +1,6 @@
 var a16543 =
 [
-    [ "boss_anubarak_trialAI", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
-    [ "boss_anubarak_trial", "d3/d1c/a16543.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d3/d1c/a16543.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "HandleSpellHit", "d3/d1c/a16543.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d3/d1c/a16543.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d3/d1c/a16543.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

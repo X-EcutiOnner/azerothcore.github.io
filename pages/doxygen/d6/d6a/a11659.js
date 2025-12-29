@@ -1,7 +1,11 @@
 var a11659 =
 [
-    [ "Command", "d6/d6a/a11659.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d6/d6a/a11659.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d6/d6a/a11659.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d6/d6a/a11659.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "WorldUpdateTime", "d6/d6a/a11659.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d6/d6a/a11659.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d6/d6a/a11659.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d6/d6a/a11659.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d6/d6a/a11659.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d6/d6a/a11659.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d6/d6a/a11659.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d6/d6a/a11659.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

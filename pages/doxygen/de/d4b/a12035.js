@@ -1,8 +1,25 @@
 var a12035 =
 [
-    [ "ironhand_guardianAI", "de/d4b/a12035.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "de/d4b/a12035.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "de/d4b/a12035.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "de/d4b/a12035.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "de/d4b/a12035.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "ticket_commandscript", "de/d4b/a12035.html#a67842c302b12e19d41c74740db425a94", null ],
+    [ "GetCommands", "de/d4b/a12035.html#a8db36489c60473f6f3fed73011c5f7ab", null ],
+    [ "HandleGMTicketAssignToCommand", "de/d4b/a12035.html#a20e307317e082667b420562802b25eed", null ],
+    [ "HandleGMTicketCloseByIdCommand", "de/d4b/a12035.html#a18a65dc2e01aa1bfbf9be20e312fb29f", null ],
+    [ "HandleGMTicketCommentCommand", "de/d4b/a12035.html#a69d76ba54dc776f35a200b79d3383109", null ],
+    [ "HandleGMTicketCompleteCommand", "de/d4b/a12035.html#a6fee1c90d90c733d2c554389e305a767", null ],
+    [ "HandleGMTicketDeleteByIdCommand", "de/d4b/a12035.html#a5caaf9293917036dd957d2b0a4bb61d1", null ],
+    [ "HandleGMTicketEscalateCommand", "de/d4b/a12035.html#a12b04f7113a53d5974e6faffe3286119", null ],
+    [ "HandleGMTicketGetByIdCommand", "de/d4b/a12035.html#ae0686f933ff941c8ba36a727b703cdd9", null ],
+    [ "HandleGMTicketGetByNameCommand", "de/d4b/a12035.html#af38ad7d982f8cf16523ed62677f2c0e1", null ],
+    [ "HandleGMTicketListClosedCommand", "de/d4b/a12035.html#a5c6c12b2aa84984f2c2fada59673f29c", null ],
+    [ "HandleGMTicketListCommand", "de/d4b/a12035.html#aa622eb1c1f53c41b2af78667800a5389", null ],
+    [ "HandleGMTicketListEscalatedCommand", "de/d4b/a12035.html#a756a9a38b724526d6713dad186689090", null ],
+    [ "HandleGMTicketListOnlineCommand", "de/d4b/a12035.html#a71491d4987e7e7a4b73f798d3d8ec81e", null ],
+    [ "HandleGMTicketResetCommand", "de/d4b/a12035.html#a6bf98525629aa9d045abe84cf8e320c9", null ],
+    [ "HandleGMTicketResponseAppendCommand", "de/d4b/a12035.html#a5596c5be64f75c0bf67e88fabb05a060", null ],
+    [ "HandleGMTicketResponseAppendLnCommand", "de/d4b/a12035.html#a1f0f24f48a37726dbc7e5e6b89740261", null ],
+    [ "HandleGMTicketResponseDeleteCommand", "de/d4b/a12035.html#acfcbea533c3306d9a2746c3ee318ddbd", null ],
+    [ "HandleGMTicketResponseShowCommand", "de/d4b/a12035.html#a7bf924ff31d957220f15d2be0c5aeb8a", null ],
+    [ "HandleGMTicketUnAssignCommand", "de/d4b/a12035.html#afc1a25ed1d1a966d5afaa6dbd1070fda", null ],
+    [ "HandleToggleGMTicketSystem", "de/d4b/a12035.html#a5dcc80f5e050e0c5dced93bf8fa3c908", null ],
+    [ "TicketResponseAppend", "de/d4b/a12035.html#aac1c7b72a4cea7da0965dfceb65039fc", null ]
 ];

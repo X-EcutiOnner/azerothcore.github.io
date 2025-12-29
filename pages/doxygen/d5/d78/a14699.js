@@ -1,5 +1,7 @@
 var a14699 =
 [
-    [ "PrepareSpellScript", "d5/d78/a14699.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "d5/d78/a14699.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "OnApply", "d5/d78/a14699.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d5/d78/a14699.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d5/d78/a14699.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d5/d78/a14699.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

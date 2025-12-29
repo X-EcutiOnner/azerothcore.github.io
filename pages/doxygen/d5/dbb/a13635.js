@@ -1,6 +1,8 @@
 var a13635 =
 [
-    [ "HandleEffectApply", "d5/dbb/a13635.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "d5/dbb/a13635.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "d5/dbb/a13635.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "FilterTargets", "d5/dbb/a13635.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d5/dbb/a13635.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d5/dbb/a13635.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d5/dbb/a13635.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d5/dbb/a13635.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

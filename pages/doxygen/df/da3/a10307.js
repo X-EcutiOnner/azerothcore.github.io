@@ -1,15 +1,10 @@
 var a10307 =
 [
-    [ "AuctionHouseScript", "df/da3/a10307.html#af3e9ec3b9834f9d72106430af40e8727", null ],
-    [ "OnAuctionAdd", "df/da3/a10307.html#a39d172304de882d87f87e14d1df107da", null ],
-    [ "OnAuctionExpire", "df/da3/a10307.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
-    [ "OnAuctionRemove", "df/da3/a10307.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
-    [ "OnAuctionSuccessful", "df/da3/a10307.html#a57f1ea958e80a30031eded088dd3c8af", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "df/da3/a10307.html#a067633221bf8e745c9ae7c4abee13fba", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "df/da3/a10307.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "df/da3/a10307.html#acfc00998027675d76436d4d05f578f8c", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "df/da3/a10307.html#a3bb999a955b7b8670264c859094fe9a0", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "df/da3/a10307.html#a0ae714b1349e20e4303523fd551874b3", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "df/da3/a10307.html#a050a47e57df42faa26c8d500b7848ecf", null ],
-    [ "OnBeforeAuctionHouseMgrUpdate", "df/da3/a10307.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
+    [ "AllItemScript", "df/da3/a10307.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "df/da3/a10307.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "df/da3/a10307.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "df/da3/a10307.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "df/da3/a10307.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "df/da3/a10307.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "df/da3/a10307.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

@@ -1,6 +1,5 @@
 var a16995 =
 [
-    [ "FilterTargets", "df/dc4/a16995.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "df/dc4/a16995.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "df/dc4/a16995.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "achievement_consumption_junction", "df/dc4/a16995.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "df/dc4/a16995.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

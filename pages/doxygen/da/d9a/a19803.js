@@ -1,9 +1,6 @@
 var a19803 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "da/d9a/a19803.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "da/d9a/a19803.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "da/d9a/a19803.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "da/d9a/a19803.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "da/d9a/a19803.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "da/d9a/a19803.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "CalculateDamage", "da/d9a/a19803.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "da/d9a/a19803.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "da/d9a/a19803.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

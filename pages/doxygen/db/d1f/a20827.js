@@ -1,6 +1,11 @@
 var a20827 =
 [
-    [ "boss_thorim_pillarAI", "d9/de0/a20831.html", "d9/de0/a20831" ],
-    [ "boss_thorim_pillar", "db/d1f/a20827.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "db/d1f/a20827.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "boss_thorim_lightning_orbAI", "db/d1f/a20827.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
+    [ "AttackStart", "db/d1f/a20827.html#a88a885b96016788f8011dd1d3d44d992", null ],
+    [ "EnterEvadeMode", "db/d1f/a20827.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
+    [ "InitWaypoint", "db/d1f/a20827.html#a420217dd9e482edc24a87dead2753321", null ],
+    [ "MoveInLineOfSight", "db/d1f/a20827.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
+    [ "Reset", "db/d1f/a20827.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
+    [ "WaypointReached", "db/d1f/a20827.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
+    [ "Timer", "db/d1f/a20827.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
 ];

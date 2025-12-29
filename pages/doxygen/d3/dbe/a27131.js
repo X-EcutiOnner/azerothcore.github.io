@@ -1,7 +1,8 @@
 var a27131 =
 [
-    [ "HandleApply", "d3/dbe/a27131.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "d3/dbe/a27131.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "d3/dbe/a27131.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "d3/dbe/a27131.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "Load", "d3/dbe/a27131.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d3/dbe/a27131.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d3/dbe/a27131.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d3/dbe/a27131.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d3/dbe/a27131.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

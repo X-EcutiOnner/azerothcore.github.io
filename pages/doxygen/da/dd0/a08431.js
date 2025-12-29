@@ -1,8 +1,5 @@
 var a08431 =
 [
-    [ "Reset", "da/dd0/a08431.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "da/dd0/a08431.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "da/dd0/a08431.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "da/dd0/a08431.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "da/dd0/a08431.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "InventoryType", "da/dd0/a08431.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
+    [ "name", "da/dd0/a08431.html#a67245cff18aad700717b7b7af9f07458", null ]
 ];

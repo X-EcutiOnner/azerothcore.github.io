@@ -1,6 +1,7 @@
 var a26391 =
 [
-    [ "HandleDummy", "d1/d32/a26391.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
-    [ "PrepareSpellScript", "d1/d32/a26391.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
-    [ "Register", "d1/d32/a26391.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
+    [ "OnProc", "d1/d32/a26391.html#a304fd48cc79d3e7371212632d276b2ff", null ],
+    [ "PrepareAuraScript", "d1/d32/a26391.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
+    [ "Register", "d1/d32/a26391.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
+    [ "Validate", "d1/d32/a26391.html#adc217147d7c150d66dad4d3e922cff96", null ]
 ];

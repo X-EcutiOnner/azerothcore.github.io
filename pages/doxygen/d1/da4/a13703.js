@@ -1,6 +1,7 @@
 var a13703 =
 [
-    [ "OnApply", "d1/da4/a13703.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "d1/da4/a13703.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "d1/da4/a13703.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "HandlePull", "d1/da4/a13703.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "d1/da4/a13703.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "d1/da4/a13703.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "d1/da4/a13703.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

@@ -1,6 +1,7 @@
 var a22043 =
 [
-    [ "npc_q24545_vegard_dummyAI", "db/d18/a22043.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "db/d18/a22043.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "db/d18/a22043.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "FilterTargets", "db/d18/a22043.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "db/d18/a22043.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "db/d18/a22043.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "db/d18/a22043.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

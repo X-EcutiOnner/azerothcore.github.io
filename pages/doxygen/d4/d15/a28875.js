@@ -1,8 +1,12 @@
 var a28875 =
 [
-    [ "prepareLoadedData", "d4/d15/a28875.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "d4/d15/a28875.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "d4/d15/a28875.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "d4/d15/a28875.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "d4/d15/a28875.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "ApplyGmVisibleState", "d4/d15/a28875.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "d4/d15/a28875.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "d4/d15/a28875.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "d4/d15/a28875.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "d4/d15/a28875.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d4/d15/a28875.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d4/d15/a28875.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d4/d15/a28875.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d4/d15/a28875.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

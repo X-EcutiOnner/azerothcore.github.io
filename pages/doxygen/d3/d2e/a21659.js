@@ -1,8 +1,6 @@
 var a21659 =
 [
-    [ "npc_azure_captainAI", "d3/d2e/a21659.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d3/d2e/a21659.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d3/d2e/a21659.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d3/d2e/a21659.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d3/d2e/a21659.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_azure_stalkerAI", "d3/d28/a21663.html", "d3/d28/a21663" ],
+    [ "npc_azure_stalker", "d3/d2e/a21659.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "d3/d2e/a21659.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

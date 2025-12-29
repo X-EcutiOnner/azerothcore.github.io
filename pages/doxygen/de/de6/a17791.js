@@ -1,6 +1,7 @@
 var a17791 =
 [
-    [ "npc_igb_ship_crewAI", "df/d9d/a17795.html", "df/d9d/a17795" ],
-    [ "npc_igb_ship_crew", "de/de6/a17791.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "de/de6/a17791.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "DelayedMovementEvent", "de/de6/a17791.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "de/de6/a17791.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "de/de6/a17791.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "de/de6/a17791.html#a046942728282a997068de447271f3cbe", null ]
 ];

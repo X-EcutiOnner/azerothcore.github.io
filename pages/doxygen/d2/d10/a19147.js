@@ -1,6 +1,6 @@
 var a19147 =
 [
-    [ "boss_isle_of_conquestAI", "d4/d11/a19151.html", "d4/d11/a19151" ],
-    [ "boss_isle_of_conquest", "d2/d10/a19147.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "d2/d10/a19147.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "RespawnEvent", "d2/d10/a19147.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "d2/d10/a19147.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "d2/d10/a19147.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

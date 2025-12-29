@@ -1,5 +1,6 @@
 var a17355 =
 [
-    [ "endPosition", "d8/d28/a17355.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d8/d28/a17355.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "npc_pos_freed_slaveAI", "df/dbb/a17359.html", "df/dbb/a17359" ],
+    [ "npc_pos_freed_slave", "d8/d28/a17355.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d8/d28/a17355.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

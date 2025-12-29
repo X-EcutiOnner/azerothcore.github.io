@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: BossInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d8/dc2/a09730.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d9/d9c/a09727.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,29 +104,132 @@ $(document).ready(function(){initNavTree('d8/dc2/a09730.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">LootItemStorage Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../d6/d5c/a09724.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">BossInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a4c463773b50ae1b312865fbf72dfed18">AddNewStoredLoot</a>(Loot *loot, Player *player)</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b">instance</a>()</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a377c75f9d06eb246072b29d19baf2b62">LoadStorageFromDB</a>()</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#ad9804f564302d6ea4db4b84a6cbb093b">LoadStoredLoot</a>(Item *item, Player *player)</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#aa6ece474f05744f2ce24a9fef42734af">LootItemStorage</a>()</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a58ae52b9812e5752ba00d00a58eb56b0">lootItemStore</a></td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a8ab68725c0525d162d325a2131db4c49">RemoveEntryFromDB</a>(ObjectGuid containerGUID, uint32 itemid, uint32 count, uint32 itemIndex)</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a414dee93f9852a64f01f9d9bf8dc8b40">RemoveStoredLoot</a>(ObjectGuid containerGUID)</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a6fd3f2ac820784ba51413b3781df3bcc">RemoveStoredLootItem</a>(ObjectGuid containerGUID, uint32 itemid, uint32 count, Loot *loot, uint32 itemIndex)</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#ab22d267a6701fedf824f801e4b703f70">RemoveStoredLootMoney</a>(ObjectGuid containerGUID, Loot *loot)</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d8/dc2/a09730.html#a36faeed6ef556fd13118c4ad34e38548">~LootItemStorage</a>()</td><td class="entry"><a class="el" href="../../d8/dc2/a09730.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a455f533d647927d182176c3cceb21f42"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d9c/a09727.html#a455f533d647927d182176c3cceb21f42">BossInfo</a> ()</td></tr>
+<tr class="separator:a455f533d647927d182176c3cceb21f42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a1e4413b3a8bac20ed9e7ac878e3066f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d28/a01133.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d9c/a09727.html#a1e4413b3a8bac20ed9e7ac878e3066f7">state</a></td></tr>
+<tr class="separator:a1e4413b3a8bac20ed9e7ac878e3066f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a858af8825ed4fe183ee19b6f10239304"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d28/a01133.html#a17be047bdb4b0361cdee9637ff279e9f">DoorSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d9c/a09727.html#a858af8825ed4fe183ee19b6f10239304">door</a> [<a class="el" href="../../db/d28/a01133.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571">MAX_DOOR_TYPES</a>]</td></tr>
+<tr class="separator:a858af8825ed4fe183ee19b6f10239304"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abec1469d41f286d02c34223171373cd3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d28/a01133.html#add004a84abc4c98dae65145dce2d17bb">MinionSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d9c/a09727.html#abec1469d41f286d02c34223171373cd3">minion</a></td></tr>
+<tr class="separator:abec1469d41f286d02c34223171373cd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4fb2bc78efb3393004c0f827000e4f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d04/a00281.html#a7994a32cb10f6de9d90e32ef2d6c1f37">CreatureBoundary</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d9c/a09727.html#aa4fb2bc78efb3393004c0f827000e4f1">boundary</a></td></tr>
+<tr class="separator:aa4fb2bc78efb3393004c0f827000e4f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a455f533d647927d182176c3cceb21f42" name="a455f533d647927d182176c3cceb21f42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a455f533d647927d182176c3cceb21f42">&#9670;&#160;</a></span>BossInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">BossInfo::BossInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  113</span>: <a class="code hl_variable" href="../../d9/d9c/a09727.html#a1e4413b3a8bac20ed9e7ac878e3066f7">state</a>(<a class="code hl_enumvalue" href="../../db/d28/a01133.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958">TO_BE_DECIDED</a>) {}</div>
+<div class="ttc" id="aa01133_html_ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958"><div class="ttname"><a href="../../db/d28/a01133.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958">TO_BE_DECIDED</a></div><div class="ttdeci">@ TO_BE_DECIDED</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:63</div></div>
+<div class="ttc" id="aa09727_html_a1e4413b3a8bac20ed9e7ac878e3066f7"><div class="ttname"><a href="../../d9/d9c/a09727.html#a1e4413b3a8bac20ed9e7ac878e3066f7">BossInfo::state</a></div><div class="ttdeci">EncounterState state</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:114</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aa4fb2bc78efb3393004c0f827000e4f1" name="aa4fb2bc78efb3393004c0f827000e4f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4fb2bc78efb3393004c0f827000e4f1">&#9670;&#160;</a></span>boundary</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d04/a00281.html#a7994a32cb10f6de9d90e32ef2d6c1f37">CreatureBoundary</a> BossInfo::boundary</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a858af8825ed4fe183ee19b6f10239304" name="a858af8825ed4fe183ee19b6f10239304"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a858af8825ed4fe183ee19b6f10239304">&#9670;&#160;</a></span>door</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d28/a01133.html#a17be047bdb4b0361cdee9637ff279e9f">DoorSet</a> BossInfo::door[<a class="el" href="../../db/d28/a01133.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571">MAX_DOOR_TYPES</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00331">InstanceScript::AddDoor()</a>, <a class="el" href="../../#l00385">InstanceScript::SetBossState()</a>, and <a class="el" href="../../#l00139">instance_nexus::instance_nexus_InstanceMapScript::SetBossState()</a>.</p>
+
+</div>
+</div>
+<a id="abec1469d41f286d02c34223171373cd3" name="abec1469d41f286d02c34223171373cd3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abec1469d41f286d02c34223171373cd3">&#9670;&#160;</a></span>minion</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d28/a01133.html#add004a84abc4c98dae65145dce2d17bb">MinionSet</a> BossInfo::minion</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00437">InstanceScript::DoForAllMinions()</a>, and <a class="el" href="../../#l00385">InstanceScript::SetBossState()</a>.</p>
+
+</div>
+</div>
+<a id="a1e4413b3a8bac20ed9e7ac878e3066f7" name="a1e4413b3a8bac20ed9e7ac878e3066f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e4413b3a8bac20ed9e7ac878e3066f7">&#9670;&#160;</a></span>state</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d28/a01133.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a> BossInfo::state</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00385">InstanceScript::SetBossState()</a>, and <a class="el" href="../../#l00252">InstanceScript::UpdateDoorState()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Dec 22 2025 20:49:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d9c/a09727.html">BossInfo</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:50:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

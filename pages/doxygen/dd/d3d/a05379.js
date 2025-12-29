@@ -1,9 +1,8 @@
 var a05379 =
 [
-    [ "IpLocationStore", "dd/d3d/a05379.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "dd/d3d/a05379.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "dd/d3d/a05379.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "dd/d3d/a05379.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "dd/d3d/a05379.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "dd/d3d/a05379.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Decode", "dd/d3d/a05379.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "dd/d3d/a05379.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "dd/d3d/a05379.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "dd/d3d/a05379.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "dd/d3d/a05379.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

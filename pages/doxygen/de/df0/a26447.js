@@ -1,7 +1,10 @@
 var a26447 =
 [
-    [ "HandleScriptEffect", "de/df0/a26447.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "de/df0/a26447.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "de/df0/a26447.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "de/df0/a26447.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "CalculateAPAmount", "de/df0/a26447.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "de/df0/a26447.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "de/df0/a26447.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "de/df0/a26447.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "de/df0/a26447.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "de/df0/a26447.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "de/df0/a26447.html#a88520214bd87511b615965593f1b927f", null ]
 ];

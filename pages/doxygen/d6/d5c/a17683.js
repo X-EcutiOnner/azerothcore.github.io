@@ -1,6 +1,12 @@
 var a17683 =
 [
-    [ "PrepareAuraScript", "d6/d5c/a17683.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d6/d5c/a17683.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d6/d5c/a17683.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "npc_high_overlord_saurfangAI", "d6/d5c/a17683.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d6/d5c/a17683.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d6/d5c/a17683.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d6/d5c/a17683.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d6/d5c/a17683.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d6/d5c/a17683.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d6/d5c/a17683.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d6/d5c/a17683.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d6/d5c/a17683.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

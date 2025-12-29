@@ -1,4 +1,4 @@
 var a01313 =
 [
-    [ "ScriptRegistry< ArenaTeamScript >", "de/d90/a01313.html#a5d2a56a9849b1ba119fd3224685406fe", null ]
+    [ "ScriptRegistry< GlobalScript >", "de/d90/a01313.html#aab5e9d371cdc72eb5a60f210f00cdc34", null ]
 ];

@@ -1,6 +1,8 @@
 var a24567 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "dd/d46/a24567.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "dd/d46/a24567.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "dd/d46/a24567.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "go_skull_pile", "dd/d46/a24567.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dd/d46/a24567.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dd/d46/a24567.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dd/d46/a24567.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dd/d46/a24567.html#af74fcd75404c0886128401d661067394", null ]
 ];

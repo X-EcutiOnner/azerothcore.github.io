@@ -1,6 +1,7 @@
 var a12247 =
 [
-    [ "boss_lord_valthalakAI", "da/def/a12251.html", "da/def/a12251" ],
-    [ "boss_lord_valthalak", "dd/d4f/a12247.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "dd/d4f/a12247.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "boss_okthorAI", "dd/d4f/a12247.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "dd/d4f/a12247.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "dd/d4f/a12247.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "dd/d4f/a12247.html#a21446d2cfc51a05de6cee3ba4301eae9", null ]
 ];

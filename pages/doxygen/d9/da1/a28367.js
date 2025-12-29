@@ -1,7 +1,7 @@
 var a28367 =
 [
-    [ "Displayid", "d9/da1/a28367.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d9/da1/a28367.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d9/da1/a28367.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d9/da1/a28367.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "Class", "d9/da1/a28367.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d9/da1/a28367.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d9/da1/a28367.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d9/da1/a28367.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

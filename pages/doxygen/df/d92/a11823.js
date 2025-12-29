@@ -1,8 +1,21 @@
 var a11823 =
 [
-    [ "CreatureCountWorker", "df/d92/a11823.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "df/d92/a11823.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "df/d92/a11823.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "df/d92/a11823.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "df/d92/a11823.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "account_commandscript", "df/d92/a11823.html#acfea28449f30913389ab2eddfc512dbb", null ],
+    [ "GetCommands", "df/d92/a11823.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
+    [ "HandleAccount2FARemoveCommand", "df/d92/a11823.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
+    [ "HandleAccount2FASetupCommand", "df/d92/a11823.html#aedfc70990dd6211938baad8b11a45e8c", null ],
+    [ "HandleAccountAddonCommand", "df/d92/a11823.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
+    [ "HandleAccountCommand", "df/d92/a11823.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
+    [ "HandleAccountCreateCommand", "df/d92/a11823.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
+    [ "HandleAccountDeleteCommand", "df/d92/a11823.html#a4bb0b76ef822011054d699df31f60d7e", null ],
+    [ "HandleAccountLockCountryCommand", "df/d92/a11823.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
+    [ "HandleAccountLockIpCommand", "df/d92/a11823.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
+    [ "HandleAccountOnlineListCommand", "df/d92/a11823.html#a36cb5b885d6c0745303b386ad42541f6", null ],
+    [ "HandleAccountPasswordCommand", "df/d92/a11823.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
+    [ "HandleAccountRemoveLockCountryCommand", "df/d92/a11823.html#a6a40319f52f00881a5be4a50f812b337", null ],
+    [ "HandleAccountSet2FACommand", "df/d92/a11823.html#a195e5037d3c4886ca8e69a56daadd028", null ],
+    [ "HandleAccountSetAddonCommand", "df/d92/a11823.html#aca017dc33dab7c379d8203569775f21b", null ],
+    [ "HandleAccountSetEmailCommand", "df/d92/a11823.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
+    [ "HandleAccountSetGmLevelCommand", "df/d92/a11823.html#a1aaee019de3b7802281e25e926fa4821", null ],
+    [ "HandleAccountSetPasswordCommand", "df/d92/a11823.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ]
 ];

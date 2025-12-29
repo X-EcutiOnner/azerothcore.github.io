@@ -1,8 +1,6 @@
 var a22483 =
 [
-    [ "AfterRemove", "d9/de2/a22483.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d9/de2/a22483.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d9/de2/a22483.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d9/de2/a22483.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d9/de2/a22483.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_freed_protodrakeAI", "dd/d44/a22487.html", "dd/d44/a22487" ],
+    [ "npc_freed_protodrake", "d9/de2/a22483.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d9/de2/a22483.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

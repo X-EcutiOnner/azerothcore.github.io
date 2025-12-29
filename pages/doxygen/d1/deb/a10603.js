@@ -1,6 +1,6 @@
 var a10603 =
 [
-    [ "SetSheathed", "d1/deb/a10603.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d1/deb/a10603.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d1/deb/a10603.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "PlayedTimeClient", "d1/deb/a10603.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "d1/deb/a10603.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "d1/deb/a10603.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

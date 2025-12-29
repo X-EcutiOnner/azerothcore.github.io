@@ -1,6 +1,5 @@
 var a12423 =
 [
-    [ "go_chromaggus_leverAI", "d8/d39/a12423.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "d8/d39/a12423.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "d8/d39/a12423.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "at_dragonspire_hall", "d8/d39/a12423.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d8/d39/a12423.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

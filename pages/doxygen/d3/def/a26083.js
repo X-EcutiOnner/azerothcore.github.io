@@ -1,9 +1,8 @@
 var a26083 =
 [
-    [ "CheckCast", "d3/def/a26083.html#af92fe276563a8ca0d939d881dba8adda", null ],
-    [ "HandleDummy", "d3/def/a26083.html#a86b4413dd25f96fb197604007171a8d1", null ],
-    [ "Load", "d3/def/a26083.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
-    [ "PrepareSpellScript", "d3/def/a26083.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
-    [ "Register", "d3/def/a26083.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
-    [ "Validate", "d3/def/a26083.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
+    [ "HandleDummy", "d3/def/a26083.html#ae5487bc9e4c7444468d076785af473ca", null ],
+    [ "Load", "d3/def/a26083.html#a3bf16100687a002a0d3b95bea11dc90f", null ],
+    [ "PrepareSpellScript", "d3/def/a26083.html#a8586b480a304f19741de62b606c9f456", null ],
+    [ "Register", "d3/def/a26083.html#a4698eab378b8cf6d4aeb595b53a9df13", null ],
+    [ "Validate", "d3/def/a26083.html#ab3e697ba71654bf9b67e1d1660b3a7ea", null ]
 ];

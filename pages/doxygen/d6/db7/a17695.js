@@ -1,5 +1,6 @@
 var a17695 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d6/db7/a17695.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d6/db7/a17695.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "npc_saurfang_eventAI", "d1/d0a/a17699.html", "d1/d0a/a17699" ],
+    [ "npc_saurfang_event", "d6/db7/a17695.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d6/db7/a17695.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

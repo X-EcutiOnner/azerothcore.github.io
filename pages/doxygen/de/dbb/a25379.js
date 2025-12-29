@@ -1,8 +1,7 @@
 var a25379 =
 [
-    [ "CheckCast", "de/dbb/a25379.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "de/dbb/a25379.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "de/dbb/a25379.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "de/dbb/a25379.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "de/dbb/a25379.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "HandleScriptEffect", "de/dbb/a25379.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
+    [ "PrepareSpellScript", "de/dbb/a25379.html#af4320dd6567d8c9cb2a1492095a98459", null ],
+    [ "Register", "de/dbb/a25379.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
+    [ "Validate", "de/dbb/a25379.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
 ];

@@ -1,8 +1,6 @@
 var a21263 =
 [
-    [ "boss_keleseth", "d3/d6f/a21263.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d3/d6f/a21263.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d3/d6f/a21263.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d3/d6f/a21263.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d3/d6f/a21263.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "HandleEffectPeriodic", "d3/d6f/a21263.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d3/d6f/a21263.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d3/d6f/a21263.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

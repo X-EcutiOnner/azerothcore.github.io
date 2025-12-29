@@ -1,12 +1,4 @@
 var a01136 =
 [
-    [ "InstancePlayerBind", "d7/d67/a09670.html", "d7/d67/a09670" ],
-    [ "BoundInstancesMapWrapper", "da/df6/a09674.html", "da/df6/a09674" ],
-    [ "InstanceSave", "dd/d2e/a09678.html", "dd/d2e/a09678" ],
-    [ "InstanceSaveMgr", "de/dd1/a09682.html", "de/dd1/a09682" ],
-    [ "InstanceSaveMgr::InstResetEvent", "dc/d7c/a09686.html", "dc/d7c/a09686" ],
-    [ "sInstanceSaveMgr", "d1/dae/a01136.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
-    [ "BoundInstancesMap", "d1/dae/a01136.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
-    [ "PlayerBindStorage", "d1/dae/a01136.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
-    [ "ResetTimeByMapDifficultyMap", "d1/dae/a01136.html#aecf15b673beb714ef0acaa3bac23696a", null ]
+    [ "InstanceHasScript", "d1/dae/a01136.html#aad76768c8aee9ce3ac24657437adb0de", null ]
 ];

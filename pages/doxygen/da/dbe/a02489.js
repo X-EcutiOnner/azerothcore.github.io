@@ -1,13 +1,6 @@
 var a02489 =
 [
-    [ "spell_ooze_zap", "de/dea/a15654.html", "de/dea/a15654" ],
-    [ "spell_ooze_zap_channel_end", "de/d57/a15658.html", "de/d57/a15658" ],
-    [ "spell_energize_aoe", "d1/dce/a15662.html", "d1/dce/a15662" ],
-    [ "SpellScripts", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048", [
-      [ "SPELL_OOZE_ZAP", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
-      [ "SPELL_OOZE_ZAP_CHANNEL_END", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
-      [ "SPELL_OOZE_CHANNEL_CREDIT", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
-      [ "SPELL_ENERGIZED", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
-    ] ],
-    [ "AddSC_dustwallow_marsh", "da/dbe/a02489.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
+    [ "instance_culling_of_stratholme", "d9/da8/a15047.html", "d9/da8/a15047" ],
+    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "de/d07/a15051.html", "de/d07/a15051" ],
+    [ "AddSC_instance_culling_of_stratholme", "da/dbe/a02489.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
 ];

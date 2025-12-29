@@ -1,7 +1,8 @@
 var a28695 =
 [
-    [ "from", "dc/d18/a28695.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "dc/d18/a28695.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "dc/d18/a28695.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "dc/d18/a28695.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "Color", "dc/d18/a28695.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "dc/d18/a28695.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "dc/d18/a28695.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "dc/d18/a28695.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "dc/d18/a28695.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

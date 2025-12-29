@@ -1,7 +1,10 @@
 var a24663 =
 [
-    [ "CheckCast", "db/ddc/a24663.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "db/ddc/a24663.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "db/ddc/a24663.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "db/ddc/a24663.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_pet_hunter_snake_trap", "db/ddc/a24663.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "db/ddc/a24663.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "db/ddc/a24663.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "db/ddc/a24663.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "db/ddc/a24663.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "db/ddc/a24663.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "db/ddc/a24663.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

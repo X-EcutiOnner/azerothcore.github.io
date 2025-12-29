@@ -1,15 +1,16 @@
 var a09603 =
 [
-    [ "LogHolder", "df/da2/a09603.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "df/da2/a09603.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "df/da2/a09603.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "df/da2/a09603.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "df/da2/a09603.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "df/da2/a09603.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "df/da2/a09603.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "df/da2/a09603.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "df/da2/a09603.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "df/da2/a09603.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "df/da2/a09603.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "df/da2/a09603.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "GuildBankRightsAndSlots", "df/da2/a09603.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "df/da2/a09603.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "df/da2/a09603.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "df/da2/a09603.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "df/da2/a09603.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "df/da2/a09603.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "df/da2/a09603.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "df/da2/a09603.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "df/da2/a09603.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "df/da2/a09603.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "df/da2/a09603.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "df/da2/a09603.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "df/da2/a09603.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

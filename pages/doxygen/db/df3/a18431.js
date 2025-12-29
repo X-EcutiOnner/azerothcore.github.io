@@ -1,6 +1,5 @@
 var a18431 =
 [
-    [ "npc_tirion_fordringAI", "d6/d23/a18435.html", "d6/d23/a18435" ],
-    [ "npc_tirion_fordring_tft", "db/df3/a18431.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "db/df3/a18431.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "FrozenThroneResetWorker", "db/df3/a18431.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "db/df3/a18431.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

@@ -1,7 +1,6 @@
 var a12127 =
 [
-    [ "boss_gorosh_the_dervishAI", "d6/de1/a12127.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
-    [ "JustEngagedWith", "d6/de1/a12127.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
-    [ "UpdateAI", "d6/de1/a12127.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
-    [ "nextWhirlwindTime", "d6/de1/a12127.html#a4ab769a862310bbd8b283e83077ad23d", null ]
+    [ "npc_lokhtos_darkbargainer", "d6/de1/a12127.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d6/de1/a12127.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d6/de1/a12127.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

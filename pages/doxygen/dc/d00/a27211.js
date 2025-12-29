@@ -1,6 +1,6 @@
 var a27211 =
 [
-    [ "HandleScript", "dc/d00/a27211.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "dc/d00/a27211.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "dc/d00/a27211.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "HandleDummy", "dc/d00/a27211.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "dc/d00/a27211.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "dc/d00/a27211.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

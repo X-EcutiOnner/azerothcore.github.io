@@ -1,10 +1,6 @@
 var a14627 =
 [
-    [ "boss_headless_horseman_pumpkin", "db/d7f/a14627.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "db/d7f/a14627.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "db/d7f/a14627.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "db/d7f/a14627.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "db/d7f/a14627.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "db/d7f/a14627.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "db/d7f/a14627.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "HandleScript", "db/d7f/a14627.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "db/d7f/a14627.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "db/d7f/a14627.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

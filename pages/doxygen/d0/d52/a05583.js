@@ -1,5 +1,7 @@
 var a05583 =
 [
-    [ "FromString", "d0/d52/a05583.html#a6992aa92f56607d9546dae7ab5d1af74", null ],
-    [ "ToString", "d0/d52/a05583.html#abf8940ea78f2f947274a2653da04b0a3", null ]
+    [ "Count", "d0/d52/a05583.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d0/d52/a05583.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d0/d52/a05583.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d0/d52/a05583.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

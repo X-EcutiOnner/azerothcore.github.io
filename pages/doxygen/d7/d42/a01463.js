@@ -1,4 +1,4 @@
 var a01463 =
 [
-    [ "ScriptRegistry< GameEventScript >", "d7/d42/a01463.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
+    [ "BattlegroundScript", "d9/d69/a10343.html", "d9/d69/a10343" ]
 ];

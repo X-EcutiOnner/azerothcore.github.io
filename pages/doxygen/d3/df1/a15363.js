@@ -1,9 +1,13 @@
 var a15363 =
 [
-    [ "boss_fankriss", "d3/df1/a15363.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d3/df1/a15363.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d3/df1/a15363.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d3/df1/a15363.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d3/df1/a15363.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d3/df1/a15363.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "boss_cthun", "d3/df1/a15363.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d3/df1/a15363.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d3/df1/a15363.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d3/df1/a15363.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d3/df1/a15363.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d3/df1/a15363.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d3/df1/a15363.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d3/df1/a15363.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d3/df1/a15363.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d3/df1/a15363.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

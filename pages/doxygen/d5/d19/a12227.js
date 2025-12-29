@@ -1,8 +1,7 @@
 var a12227 =
 [
-    [ "CheckProc", "d5/d19/a12227.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d5/d19/a12227.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d5/d19/a12227.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d5/d19/a12227.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d5/d19/a12227.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_moira_bronzebeardAI", "d5/d19/a12227.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d5/d19/a12227.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "d5/d19/a12227.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d5/d19/a12227.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

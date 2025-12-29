@@ -1,6 +1,5 @@
 var a23839 =
 [
-    [ "PrepareSpellScript", "dd/dbb/a23839.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "dd/dbb/a23839.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "dd/dbb/a23839.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "go_manticron_cube", "dd/dbb/a23839.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "dd/dbb/a23839.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

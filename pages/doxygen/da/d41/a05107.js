@@ -1,6 +1,11 @@
 var a05107 =
 [
-    [ "TriBoundFunc", "da/d41/a05107.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "da/d41/a05107.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "da/d41/a05107.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "~GameObjectModelOwnerBase", "da/d41/a05107.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "da/d41/a05107.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "da/d41/a05107.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "da/d41/a05107.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "da/d41/a05107.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "da/d41/a05107.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "da/d41/a05107.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "da/d41/a05107.html#ad824da6970d512c344160714cd7ec434", null ]
 ];

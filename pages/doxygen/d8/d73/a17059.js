@@ -1,7 +1,8 @@
 var a17059 =
 [
-    [ "OnRemove", "d8/d73/a17059.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d8/d73/a17059.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d8/d73/a17059.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d8/d73/a17059.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_fos_leaderAI", "d8/d73/a17059.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d8/d73/a17059.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d8/d73/a17059.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d8/d73/a17059.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d8/d73/a17059.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

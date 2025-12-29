@@ -1,6 +1,6 @@
 var a20187 =
 [
-    [ "CheckAreaTarget", "d6/df9/a20187.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d6/df9/a20187.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d6/df9/a20187.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "HandleScript", "d6/df9/a20187.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d6/df9/a20187.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d6/df9/a20187.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

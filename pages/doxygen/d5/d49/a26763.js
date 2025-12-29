@@ -1,6 +1,6 @@
 var a26763 =
 [
-    [ "ModDest", "d5/d49/a26763.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d5/d49/a26763.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d5/d49/a26763.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "PrepareSpellScript", "d5/d49/a26763.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "d5/d49/a26763.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "d5/d49/a26763.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

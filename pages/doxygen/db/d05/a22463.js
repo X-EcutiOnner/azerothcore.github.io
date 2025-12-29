@@ -1,11 +1,12 @@
 var a22463 =
 [
-    [ "npc_iron_watcherAI", "db/d05/a22463.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "db/d05/a22463.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "db/d05/a22463.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "db/d05/a22463.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "db/d05/a22463.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "db/d05/a22463.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "db/d05/a22463.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "db/d05/a22463.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d05/a22463.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "db/d05/a22463.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "db/d05/a22463.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "db/d05/a22463.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "db/d05/a22463.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "db/d05/a22463.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "db/d05/a22463.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "db/d05/a22463.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "db/d05/a22463.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

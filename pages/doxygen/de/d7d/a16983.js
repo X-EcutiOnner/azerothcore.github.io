@@ -1,6 +1,7 @@
 var a16983 =
 [
-    [ "PrepareSpellScript", "de/d7d/a16983.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "de/d7d/a16983.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "de/d7d/a16983.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandleScriptEffect", "de/d7d/a16983.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "de/d7d/a16983.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "de/d7d/a16983.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "de/d7d/a16983.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

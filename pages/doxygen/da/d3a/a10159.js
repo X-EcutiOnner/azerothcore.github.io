@@ -1,10 +1,12 @@
 var a10159 =
 [
-    [ "WaypointMgr", "da/d3a/a10159.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "da/d3a/a10159.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "da/d3a/a10159.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "da/d3a/a10159.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "da/d3a/a10159.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "da/d3a/a10159.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "da/d3a/a10159.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "FacingInfo", "da/d3a/a10159.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "da/d3a/a10159.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "da/d3a/a10159.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "da/d3a/a10159.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "da/d3a/a10159.html#a2ec440462f34b9990e6062f7078adb6e", null ],
+    [ "target", "da/d3a/a10159.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "da/d3a/a10159.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "da/d3a/a10159.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "da/d3a/a10159.html#a5ff017b732d47684f675041e44227754", null ]
 ];

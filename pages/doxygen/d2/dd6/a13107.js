@@ -1,6 +1,6 @@
 var a13107 =
 [
-    [ "CheckRequirement", "d2/dd6/a13107.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "d2/dd6/a13107.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "d2/dd6/a13107.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "boss_kagani_nightstrike", "d2/dd6/a13107.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d2/dd6/a13107.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d2/dd6/a13107.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

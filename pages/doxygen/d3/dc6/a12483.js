@@ -1,9 +1,6 @@
 var a12483 =
 [
-    [ "FilterTargets", "d3/dc6/a12483.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d3/dc6/a12483.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d3/dc6/a12483.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d3/dc6/a12483.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d3/dc6/a12483.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d3/dc6/a12483.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "go_chromaggus_leverAI", "df/d41/a12487.html", "df/d41/a12487" ],
+    [ "go_chromaggus_lever", "d3/dc6/a12483.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d3/dc6/a12483.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

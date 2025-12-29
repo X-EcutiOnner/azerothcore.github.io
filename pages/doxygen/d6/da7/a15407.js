@@ -1,14 +1,6 @@
 var a15407 =
 [
-    [ "boss_twinemperorsAI", "d6/da7/a15407.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d6/da7/a15407.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d6/da7/a15407.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d6/da7/a15407.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d6/da7/a15407.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d6/da7/a15407.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d6/da7/a15407.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d6/da7/a15407.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d6/da7/a15407.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d6/da7/a15407.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d6/da7/a15407.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "OnRemove", "d6/da7/a15407.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d6/da7/a15407.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d6/da7/a15407.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

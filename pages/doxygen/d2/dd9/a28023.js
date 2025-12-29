@@ -1,6 +1,5 @@
 var a28023 =
 [
-    [ "X", "d2/dd9/a28023.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d2/dd9/a28023.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d2/dd9/a28023.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "ServerMailReward", "d2/dd9/a28023.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d2/dd9/a28023.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

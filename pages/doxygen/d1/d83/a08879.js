@@ -1,8 +1,9 @@
 var a08879 =
 [
-    [ "Entry", "d1/d83/a08879.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d1/d83/a08879.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d1/d83/a08879.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d1/d83/a08879.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d1/d83/a08879.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "TransportBase", "d1/d83/a08879.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d1/d83/a08879.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d1/d83/a08879.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d1/d83/a08879.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d1/d83/a08879.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d1/d83/a08879.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

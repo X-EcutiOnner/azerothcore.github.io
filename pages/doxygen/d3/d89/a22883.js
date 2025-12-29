@@ -1,15 +1,8 @@
 var a22883 =
 [
-    [ "boss_grandmaster_vorpil", "d3/d89/a22883.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d3/d89/a22883.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d3/d89/a22883.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d3/d89/a22883.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d3/d89/a22883.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d3/d89/a22883.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d3/d89/a22883.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d3/d89/a22883.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d3/d89/a22883.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d3/d89/a22883.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d3/d89/a22883.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d3/d89/a22883.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "FilterTargets", "d3/d89/a22883.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d3/d89/a22883.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d3/d89/a22883.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d3/d89/a22883.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d3/d89/a22883.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

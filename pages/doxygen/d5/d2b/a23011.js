@@ -1,7 +1,8 @@
 var a23011 =
 [
-    [ "OnPeriodic", "d5/d2b/a23011.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d5/d2b/a23011.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d5/d2b/a23011.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d5/d2b/a23011.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "Load", "d5/d2b/a23011.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "d5/d2b/a23011.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "d5/d2b/a23011.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "d5/d2b/a23011.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "d5/d2b/a23011.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

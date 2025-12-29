@@ -1,7 +1,8 @@
 var a14223 =
 [
-    [ "OnRemove", "de/d7a/a14223.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "de/d7a/a14223.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "de/d7a/a14223.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "de/d7a/a14223.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "boss_grilekAI", "de/d7a/a14223.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "de/d7a/a14223.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "de/d7a/a14223.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "de/d7a/a14223.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "de/d7a/a14223.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

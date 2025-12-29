@@ -1,6 +1,12 @@
 var a19523 =
 [
-    [ "ChargeRifts", "de/d27/a19523.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "de/d27/a19523.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "de/d27/a19523.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_hover_diskAI", "de/d27/a19523.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
+    [ "AttackStart", "de/d27/a19523.html#aec7920845132af74ecf83bbbcf221f06", null ],
+    [ "DoAction", "de/d27/a19523.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
+    [ "MoveInLineOfSight", "de/d27/a19523.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
+    [ "MovementInform", "de/d27/a19523.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
+    [ "PassengerBoarded", "de/d27/a19523.html#a130a40916bb42945531b02d2f3385ece", null ],
+    [ "UpdateAI", "de/d27/a19523.html#a5213e9b9a750e53b83621cd981741773", null ],
+    [ "events", "de/d27/a19523.html#adeed5599c5416f3a5d171f70b53d0023", null ],
+    [ "pInstance", "de/d27/a19523.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
 ];

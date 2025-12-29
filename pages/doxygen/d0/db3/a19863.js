@@ -1,6 +1,6 @@
 var a19863 =
 [
-    [ "boss_algalon_the_observerAI", "da/d00/a19867.html", "da/d00/a19867" ],
-    [ "boss_algalon_the_observer", "d0/db3/a19863.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d0/db3/a19863.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "HandleApplyTouch", "d0/db3/a19863.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d0/db3/a19863.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d0/db3/a19863.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

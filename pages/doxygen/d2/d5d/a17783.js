@@ -1,6 +1,9 @@
 var a17783 =
 [
-    [ "npc_zafod_boomboxAI", "da/df9/a17787.html", "da/df9/a17787" ],
-    [ "npc_zafod_boombox", "d2/d5d/a17783.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d2/d5d/a17783.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "BattleExperienceEvent", "d2/d5d/a17783.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d2/d5d/a17783.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d2/d5d/a17783.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d2/d5d/a17783.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d2/d5d/a17783.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d2/d5d/a17783.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

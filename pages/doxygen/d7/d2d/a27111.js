@@ -1,6 +1,7 @@
 var a27111 =
 [
-    [ "CalculateAmount", "d7/d2d/a27111.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d7/d2d/a27111.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d7/d2d/a27111.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "HandleTeleport", "d7/d2d/a27111.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d7/d2d/a27111.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d7/d2d/a27111.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d7/d2d/a27111.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

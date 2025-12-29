@@ -1,25 +1,11 @@
 var a16043 =
 [
-    [ "boss_jedoga_shadowseeker", "d4/db5/a16043.html#ab9cbbc07add92d5e02910660d54bac52", null ],
-    [ "DamageTaken", "d4/db5/a16043.html#a049fa9b95e231bbbbc0f9d1970d1281d", null ],
-    [ "DespawnOOCSummons", "d4/db5/a16043.html#ac52f5994af533906e5b60e539c48abb4", null ],
-    [ "DoAction", "d4/db5/a16043.html#aa1c42164d1eb87240443c21c96805bfa", null ],
-    [ "GetData", "d4/db5/a16043.html#a7829368c62ef80d41480e0f8fdfacd06", null ],
-    [ "JustDied", "d4/db5/a16043.html#af2ea97b4d6b74b81b5abc0520e832dbc", null ],
-    [ "JustEngagedWith", "d4/db5/a16043.html#acbd8518cd3d32ddb98d79659a2aa4313", null ],
-    [ "JustSummoned", "d4/db5/a16043.html#a69cef8ffc1b62eab23538cb3d7f342d7", null ],
-    [ "KilledUnit", "d4/db5/a16043.html#a1d6db2fdd85d4df233a65f8963dcd2ad", null ],
-    [ "MoveInLineOfSight", "d4/db5/a16043.html#a3d70de2d7a6d2c50083a684b9d969550", null ],
-    [ "MovementInform", "d4/db5/a16043.html#a4522476699ac513e209d9ee2d56309f0", null ],
-    [ "ReschedulleCombatEvents", "d4/db5/a16043.html#a501370436e01fb860433a8d782b7b37e", null ],
-    [ "Reset", "d4/db5/a16043.html#a3def3996c41da5a5f5ad1368b1cb973d", null ],
-    [ "SummonedCreatureDies", "d4/db5/a16043.html#a3efaecfd3dcf2987b1a8afced8f674b2", null ],
-    [ "UpdateAI", "d4/db5/a16043.html#a7f1d6998efe3fdeb60ba1743c6561902", null ],
-    [ "combatSummonsSummoned", "d4/db5/a16043.html#af300322d9b1f7705289588e217e120a3", null ],
-    [ "oocSummons", "d4/db5/a16043.html#a8ab34fcd605e5c15c4dab7fb3f5a3160", null ],
-    [ "oocTriggers", "d4/db5/a16043.html#adcec05da7f5feeca36e5e9054fba871f", null ],
-    [ "ritualTriggered", "d4/db5/a16043.html#a28837c2f84acf08657cc301e8d382cfc", null ],
-    [ "sacraficeTarget_GUID", "d4/db5/a16043.html#abb1ee99eb8429b0b8d94b75ea41ced9b", null ],
-    [ "sayPreachTimer", "d4/db5/a16043.html#ac4e501a54c8da479cede1378db0c953c", null ],
-    [ "volunteerWork", "d4/db5/a16043.html#aa0ff8d7556662b8db97aebcf27e0d5e4", null ]
+    [ "boss_amanitar", "d4/db5/a16043.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d4/db5/a16043.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d4/db5/a16043.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d4/db5/a16043.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d4/db5/a16043.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d4/db5/a16043.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d4/db5/a16043.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d4/db5/a16043.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

@@ -1,6 +1,6 @@
 var a16415 =
 [
-    [ "HandleScript", "d2/df0/a16415.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d2/df0/a16415.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d2/df0/a16415.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "HandlePeriodic", "d2/df0/a16415.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d2/df0/a16415.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d2/df0/a16415.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

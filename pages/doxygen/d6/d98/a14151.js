@@ -1,6 +1,14 @@
 var a14151 =
 [
-    [ "boss_arlokkAI", "d0/d80/a14155.html", "d0/d80/a14155" ],
-    [ "boss_arlokk", "d6/d98/a14151.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "d6/d98/a14151.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "npc_harrison_jones", "d6/d98/a14151.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "d6/d98/a14151.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "d6/d98/a14151.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "d6/d98/a14151.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "d6/d98/a14151.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "d6/d98/a14151.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "d6/d98/a14151.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "d6/d98/a14151.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "d6/d98/a14151.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "d6/d98/a14151.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "d6/d98/a14151.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

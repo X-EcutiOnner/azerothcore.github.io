@@ -1,10 +1,5 @@
 var a12847 =
 [
-    [ "npc_netherspite_infernal", "db/d84/a12847.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "db/d84/a12847.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "db/d84/a12847.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "db/d84/a12847.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "db/d84/a12847.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "db/d84/a12847.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "db/d84/a12847.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "npc_chess_move_trigger", "db/d84/a12847.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "db/d84/a12847.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

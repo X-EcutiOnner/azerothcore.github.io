@@ -1,5 +1,5 @@
 var a20487 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d0/d99/a20487.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d0/d99/a20487.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "achievement_cheese_the_freeze", "d0/d99/a20487.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d0/d99/a20487.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

@@ -1,18 +1,10 @@
 var a12811 =
 [
-    [ "boss_moroes", "de/d9d/a12811.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
-    [ "CheckGuestsInRoom", "de/d9d/a12811.html#ad34daa424532003e8da616aed3df6c82", null ],
-    [ "GetRandomGuest", "de/d9d/a12811.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
-    [ "InitializeAI", "de/d9d/a12811.html#a1bba38840a7e6f09720ce33c51802a77", null ],
-    [ "InitializeGuests", "de/d9d/a12811.html#a815ca169e0787c92c09a5803007355aa", null ],
-    [ "JustDied", "de/d9d/a12811.html#a7d425d58b1e64ef174ff92e1263de544", null ],
-    [ "JustEngagedWith", "de/d9d/a12811.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
-    [ "JustReachedHome", "de/d9d/a12811.html#ad67598edc4034dd87ba5260d5f19fd3d", null ],
-    [ "KilledUnit", "de/d9d/a12811.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
-    [ "Reset", "de/d9d/a12811.html#a677f2b8375981d904183dd804f4b32b8", null ],
-    [ "UpdateAI", "de/d9d/a12811.html#aa639032a49b3e9bd4209d17e0863db32", null ],
-    [ "_activeGuests", "de/d9d/a12811.html#a651f53f476f205785d596ed9d52fdb89", null ],
-    [ "_events2", "de/d9d/a12811.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
-    [ "_recentlySpoken", "de/d9d/a12811.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
-    [ "_vanished", "de/d9d/a12811.html#a60d99b80815a2b2626638d6410ce64a2", null ]
+    [ "instance_deadmines_InstanceMapScript", "de/d9d/a12811.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "de/d9d/a12811.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "de/d9d/a12811.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "de/d9d/a12811.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "de/d9d/a12811.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "de/d9d/a12811.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "de/d9d/a12811.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

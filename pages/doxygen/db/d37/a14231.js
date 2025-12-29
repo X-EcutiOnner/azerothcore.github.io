@@ -1,9 +1,11 @@
 var a14231 =
 [
-    [ "boss_hazzarah", "db/d37/a14231.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "db/d37/a14231.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "db/d37/a14231.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "db/d37/a14231.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "db/d37/a14231.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "db/d37/a14231.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "boss_hakkarAI", "db/d37/a14231.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "db/d37/a14231.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "db/d37/a14231.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "db/d37/a14231.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "db/d37/a14231.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "db/d37/a14231.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "db/d37/a14231.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "db/d37/a14231.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

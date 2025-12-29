@@ -1,4 +1,4 @@
 var a01376 =
 [
-    [ "TransportScript", "de/d72/a10450.html", "de/d72/a10450" ]
+    [ "ScriptRegistry< SpellScriptLoader >", "d2/d29/a01376.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
 ];

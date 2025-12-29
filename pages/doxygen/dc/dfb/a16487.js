@@ -1,8 +1,17 @@
 var a16487 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dc/dfb/a16487.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "dc/dfb/a16487.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "dc/dfb/a16487.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "dc/dfb/a16487.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "dc/dfb/a16487.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "boss_paletressAI", "dc/dfb/a16487.html#a3bd22d082434895c4779b121f926a8c4", null ],
+    [ "DamageTaken", "dc/dfb/a16487.html#a54af3ec8de6d0fdb17ae0499645a02bd", null ],
+    [ "DoAction", "dc/dfb/a16487.html#a30babeb3c9644af4e9c6cbc879317299", null ],
+    [ "JustEngagedWith", "dc/dfb/a16487.html#ab8e8485765502d39cb4311d92ac98441", null ],
+    [ "JustSummoned", "dc/dfb/a16487.html#a82df372b8216703b8377ff334aa64684", null ],
+    [ "KilledUnit", "dc/dfb/a16487.html#af9aa74ec5a3c88475734f864ec307563", null ],
+    [ "MovementInform", "dc/dfb/a16487.html#a0ececc88bc520584d1c7baf8d7a5e7f6", null ],
+    [ "Reset", "dc/dfb/a16487.html#af216c7ce539b5e8ce80223270f202603", null ],
+    [ "SummonMemory", "dc/dfb/a16487.html#ae9daef57101d1ab25e9c6fb6980b05ff", null ],
+    [ "UpdateAI", "dc/dfb/a16487.html#a6f8c8d20fbfff32d34cd30f9c3a757a6", null ],
+    [ "events", "dc/dfb/a16487.html#a4b19d38e2a84097c7c47c434d66be052", null ],
+    [ "MemoryGUID", "dc/dfb/a16487.html#a5b2d80b38623174b7913ed4d893f03c9", null ],
+    [ "pInstance", "dc/dfb/a16487.html#a9ef97ec685e516e80b792fa1d7e891c1", null ],
+    [ "summoned", "dc/dfb/a16487.html#a6064594bc0e9bd008b76d498f4cdc36c", null ]
 ];

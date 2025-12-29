@@ -1,7 +1,6 @@
 var a18027 =
 [
-    [ "HandleSpikes", "dc/d8c/a18027.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "dc/d8c/a18027.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "dc/d8c/a18027.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "dc/d8c/a18027.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "HandlePeriodicTick", "dc/d8c/a18027.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "dc/d8c/a18027.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "dc/d8c/a18027.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

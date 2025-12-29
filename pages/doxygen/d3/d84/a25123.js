@@ -1,6 +1,6 @@
 var a25123 =
 [
-    [ "OnPeriodic", "d3/d84/a25123.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
-    [ "PrepareAuraScript", "d3/d84/a25123.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
-    [ "Register", "d3/d84/a25123.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
+    [ "CheckProc", "d3/d84/a25123.html#ad1678a96784add01965d67c3d86bcd77", null ],
+    [ "PrepareAuraScript", "d3/d84/a25123.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
+    [ "Register", "d3/d84/a25123.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
 ];

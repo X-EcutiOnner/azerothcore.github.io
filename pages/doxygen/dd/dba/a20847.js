@@ -1,9 +1,6 @@
 var a20847 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "dd/dba/a20847.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "dd/dba/a20847.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "dd/dba/a20847.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "dd/dba/a20847.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "dd/dba/a20847.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "dd/dba/a20847.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_pillarAI", "d4/d7c/a20851.html", "d4/d7c/a20851" ],
+    [ "boss_thorim_pillar", "dd/dba/a20847.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
+    [ "GetAI", "dd/dba/a20847.html#af95d5e819292af9b54a022674b74af70", null ]
 ];

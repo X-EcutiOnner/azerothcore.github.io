@@ -1,13 +1,12 @@
 var a09247 =
 [
-    [ "MessageDistDelivererToHostile", "d0/df9/a09247.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d0/df9/a09247.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d0/df9/a09247.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d0/df9/a09247.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d0/df9/a09247.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d0/df9/a09247.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d0/df9/a09247.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d0/df9/a09247.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d0/df9/a09247.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d0/df9/a09247.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "VisibleNotifier", "d0/df9/a09247.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d0/df9/a09247.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d0/df9/a09247.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d0/df9/a09247.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d0/df9/a09247.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d0/df9/a09247.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d0/df9/a09247.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d0/df9/a09247.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d0/df9/a09247.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

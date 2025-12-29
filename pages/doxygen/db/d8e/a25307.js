@@ -1,8 +1,8 @@
 var a25307 =
 [
-    [ "OnApply", "db/d8e/a25307.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "db/d8e/a25307.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "db/d8e/a25307.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "db/d8e/a25307.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "db/d8e/a25307.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "AchievementCredit", "db/d8e/a25307.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "db/d8e/a25307.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "db/d8e/a25307.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "db/d8e/a25307.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "db/d8e/a25307.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

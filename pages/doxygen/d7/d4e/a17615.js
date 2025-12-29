@@ -1,7 +1,6 @@
 var a17615 =
 [
-    [ "OnProc", "d7/d4e/a17615.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d7/d4e/a17615.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d7/d4e/a17615.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d7/d4e/a17615.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "VampiricBiteTargetSelector", "d7/d4e/a17615.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "d7/d4e/a17615.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "d7/d4e/a17615.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

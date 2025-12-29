@@ -1,6 +1,5 @@
 var a27371 =
 [
-    [ "boss_ysondreAI", "d6/d10/a27375.html", "d6/d10/a27375" ],
-    [ "boss_ysondre", "d8/dce/a27371.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d8/dce/a27371.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "AreaTrigger_at_nats_landing", "d8/dce/a27371.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d8/dce/a27371.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

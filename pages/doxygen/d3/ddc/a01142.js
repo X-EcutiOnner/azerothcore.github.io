@@ -1,21 +1,12 @@
 var a01142 =
 [
-    [ "CleaningFlags", "d3/ddc/a01142.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d3/ddc/a01142.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "d3/ddc/a01142.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "d3/ddc/a01142.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "d3/ddc/a01142.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "d3/ddc/a01142.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
-    ] ],
-    [ "AchievementProgressCheck", "d3/ddc/a01142.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "d3/ddc/a01142.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "d3/ddc/a01142.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "d3/ddc/a01142.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "d3/ddc/a01142.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "d3/ddc/a01142.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "d3/ddc/a01142.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "d3/ddc/a01142.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "d3/ddc/a01142.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "d3/ddc/a01142.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "d3/ddc/a01142.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "InstancePlayerBind", "db/d4f/a09687.html", "db/d4f/a09687" ],
+    [ "BoundInstancesMapWrapper", "d6/db9/a09691.html", "d6/db9/a09691" ],
+    [ "InstanceSave", "df/dc8/a09695.html", "df/dc8/a09695" ],
+    [ "InstanceSaveMgr", "d1/d90/a09699.html", "d1/d90/a09699" ],
+    [ "InstanceSaveMgr::InstResetEvent", "d9/d1b/a09703.html", "d9/d1b/a09703" ],
+    [ "sInstanceSaveMgr", "d3/ddc/a01142.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
+    [ "BoundInstancesMap", "d3/ddc/a01142.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
+    [ "PlayerBindStorage", "d3/ddc/a01142.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
+    [ "ResetTimeByMapDifficultyMap", "d3/ddc/a01142.html#aecf15b673beb714ef0acaa3bac23696a", null ]
 ];

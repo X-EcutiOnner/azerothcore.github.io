@@ -1,7 +1,5 @@
 var a18935 =
 [
-    [ "HandleScript", "d4/d0d/a18935.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d4/d0d/a18935.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d4/d0d/a18935.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d4/d0d/a18935.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_alchemist_adrianna", "d4/d0d/a18935.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d4/d0d/a18935.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

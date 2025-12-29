@@ -1,6 +1,5 @@
 var a06115 =
 [
-    [ "AggressorAI", "db/d41/a06115.html#a2d4ba3a557832466f29906972d1e14fd", null ],
-    [ "Permissible", "db/d41/a06115.html#a7867a9ca7249eb94a712e34833fae930", null ],
-    [ "UpdateAI", "db/d41/a06115.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
+    [ "changed", "db/d41/a06115.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
+    [ "date", "db/d41/a06115.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
 ];

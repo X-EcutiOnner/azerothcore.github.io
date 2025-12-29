@@ -1,8 +1,7 @@
 var a09543 =
 [
-    [ "LocalizedPacketDo", "d7/dfc/a09543.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d7/dfc/a09543.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d7/dfc/a09543.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d7/dfc/a09543.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d7/dfc/a09543.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "ObjectGUIDCheck", "d7/dfc/a09543.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
+    [ "operator()", "d7/dfc/a09543.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
+    [ "_equals", "d7/dfc/a09543.html#a413d991eeee0294a54f3c803e296c3ac", null ],
+    [ "_GUID", "d7/dfc/a09543.html#a0e97bfe0e160177549a831df8e9b4555", null ]
 ];

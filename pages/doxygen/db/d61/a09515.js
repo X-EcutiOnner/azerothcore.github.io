@@ -1,7 +1,8 @@
 var a09515 =
 [
-    [ "ObjectTypeIdCheck", "db/d61/a09515.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "db/d61/a09515.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "db/d61/a09515.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "db/d61/a09515.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "db/d61/a09515.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "db/d61/a09515.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "db/d61/a09515.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "db/d61/a09515.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "db/d61/a09515.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

@@ -1,5 +1,8 @@
 var a04886 =
 [
-    [ "MDDF", "d6/da4/a29004.html", "d6/da4/a29004" ],
-    [ "MODF", "dd/d40/a29008.html", "dd/d40/a29008" ]
+    [ "AutoBankItem", "de/dea/a10535.html", "de/dea/a10535" ],
+    [ "AutoStoreBankItem", "da/d0d/a10539.html", "da/d0d/a10539" ],
+    [ "BuyBankSlot", "dd/d19/a10543.html", "dd/d19/a10543" ],
+    [ "BuyBankSlotResult", "d8/d33/a10547.html", "d8/d33/a10547" ],
+    [ "ShowBank", "dd/d0d/a10551.html", "dd/d0d/a10551" ]
 ];

@@ -1,6 +1,11 @@
 var a21439 =
 [
-    [ "HandleOnHit", "db/d85/a21439.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "db/d85/a21439.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "db/d85/a21439.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_archavonAI", "db/d85/a21439.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "db/d85/a21439.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "db/d85/a21439.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "db/d85/a21439.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "db/d85/a21439.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "db/d85/a21439.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "db/d85/a21439.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "db/d85/a21439.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

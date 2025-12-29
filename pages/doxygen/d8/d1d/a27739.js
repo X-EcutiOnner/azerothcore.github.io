@@ -1,13 +1,11 @@
 var a27739 =
 [
-    [ "npc_nelsonAI", "d8/d1d/a27739.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "d8/d1d/a27739.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "d8/d1d/a27739.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "d8/d1d/a27739.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "d8/d1d/a27739.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "d8/d1d/a27739.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "d8/d1d/a27739.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "d8/d1d/a27739.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "d8/d1d/a27739.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "d8/d1d/a27739.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_artoriusAI", "d8/d1d/a27739.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d8/d1d/a27739.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d8/d1d/a27739.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d8/d1d/a27739.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d8/d1d/a27739.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d8/d1d/a27739.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d8/d1d/a27739.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d8/d1d/a27739.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

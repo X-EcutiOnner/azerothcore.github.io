@@ -1,10 +1,9 @@
 var a09339 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "d3/def/a09339.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "d3/def/a09339.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "d3/def/a09339.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "d3/def/a09339.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "d3/def/a09339.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "d3/def/a09339.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "d3/def/a09339.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "PlayerSearcher", "d3/def/a09339.html#a7247fcab3841996ed5d699696fb21557", null ],
+    [ "Visit", "d3/def/a09339.html#ab2544b79869ba4de9772b1bff7c40704", null ],
+    [ "Visit", "d3/def/a09339.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
+    [ "i_check", "d3/def/a09339.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
+    [ "i_object", "d3/def/a09339.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
+    [ "i_phaseMask", "d3/def/a09339.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
 ];

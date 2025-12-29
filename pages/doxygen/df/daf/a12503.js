@@ -1,7 +1,7 @@
 var a12503 =
 [
-    [ "HandleDummy", "df/daf/a12503.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "df/daf/a12503.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "df/daf/a12503.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "df/daf/a12503.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_ebonrocAI", "df/daf/a12503.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "df/daf/a12503.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "df/daf/a12503.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "df/daf/a12503.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

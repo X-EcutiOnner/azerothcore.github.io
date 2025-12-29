@@ -1,6 +1,6 @@
 var a25151 =
 [
-    [ "HandleDummy", "da/d73/a25151.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "da/d73/a25151.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "da/d73/a25151.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "OnPeriodic", "da/d73/a25151.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "da/d73/a25151.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "da/d73/a25151.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

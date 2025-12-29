@@ -1,11 +1,9 @@
 var a08687 =
 [
-    [ "FriendInfo", "dc/d0c/a08687.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "dc/d0c/a08687.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "dc/d0c/a08687.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "dc/d0c/a08687.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "dc/d0c/a08687.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "dc/d0c/a08687.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "dc/d0c/a08687.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "dc/d0c/a08687.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "PendingSpellCastRequest", "dc/d0c/a08687.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "dc/d0c/a08687.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "dc/d0c/a08687.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "dc/d0c/a08687.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "dc/d0c/a08687.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "dc/d0c/a08687.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

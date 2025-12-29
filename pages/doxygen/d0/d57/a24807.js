@@ -1,8 +1,9 @@
 var a24807 =
 [
-    [ "HandleEffectApply", "d0/d57/a24807.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
-    [ "HandleEffectRemove", "d0/d57/a24807.html#abb7f01239b5a982ded0244d781c4d856", null ],
-    [ "PrepareAuraScript", "d0/d57/a24807.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
-    [ "Register", "d0/d57/a24807.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
-    [ "Validate", "d0/d57/a24807.html#abc30fd53a7f9234755c292db533ba99c", null ]
+    [ "CheckCast", "d0/d57/a24807.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d0/d57/a24807.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d0/d57/a24807.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d0/d57/a24807.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d0/d57/a24807.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d0/d57/a24807.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: GroupMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d0/d13/a09590.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('dd/dcb/a09587.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,146 +104,584 @@ $(document).ready(function(){initNavTree('d0/d13/a09590.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Guild Member List</div></div>
+  <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pro-types">Protected Types</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="../../d5/dea/a09584.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">GroupMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d0/d13/a09590.html">Guild</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac945bc85b6372915ef1be2c53b5c70b6">_BroadcastEvent</a>(GuildEvents guildEvent, ObjectGuid guid=ObjectGuid::Empty, Optional&lt; std::string_view &gt; param1={}, Optional&lt; std::string_view &gt; param2={}, Optional&lt; std::string_view &gt; param3={}) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aee9f5a339a9073219a29f634072c2f7e">_CreateDefaultGuildRanks</a>(LocaleConstant loc)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a7ade211c2cf31d862d7d0db4a237aa17">_CreateNewBankTab</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a3239e428d8ac00e94e43fcb48a30139e">_CreateRank</a>(std::string_view name, uint32 rights)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a339f2b47fec6228e85ac765a0eebcb3c">_DeleteBankItems</a>(CharacterDatabaseTransaction trans, bool removeItemsFromDB=false)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aea25fad25add2347279b0ccc298e905e">_DeleteMemberFromDB</a>(ObjectGuid::LowType lowguid) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#acf135024c0806e2f4ba80d2af10b659a">_DoItemsMove</a>(MoveItemData *pSrc, MoveItemData *pDest, bool sendError, uint32 splitedAmount=0)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae41626bce98dacc91e0969f7868ad51c">_GetItem</a>(uint8 tabId, uint8 slotId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aed9d9581db0de4d6c73aa8858024e7a1">_GetLowestRankId</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a19ab0b7ff433180bafc6461c7588084c">_GetMemberRemainingMoney</a>(Member const &amp;member) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4e4488776daa471ffb5a31c0770633e6">_GetMemberRemainingSlots</a>(Member const &amp;member, uint8 tabId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a568597dd85eee0c661de9ad12978e527">_GetPurchasedTabsSize</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a75c1af97a252a6ab2eec848c92e7cfc7">_GetRankBankMoneyPerDay</a>(uint8 rankId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a03604640465ea463f12530add6b0eeb7">_GetRankBankTabRights</a>(uint8 rankId, uint8 tabId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a17cdedbc4d68713f4a2be9e44a0c2e77">_GetRankBankTabSlotsPerDay</a>(uint8 rankId, uint8 tabId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a02c0229f70ce90c28278db543e8d30f5">_GetRankName</a>(uint8 rankId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a2d37224ec9bf1c2b1ec75562b62192ea">_GetRankRights</a>(uint8 rankId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac250922a980c212c66ea7a2bb7e5b4b3">_GetRanksSize</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ada75072cb9454accd8b5e859615a6b88">_HasRankRight</a>(Player *player, uint32 right) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aaf78aa36da22b99c10df4a971d538b3d">_IsLeader</a>(Player *player) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae3b50f9118a606289a169f5d2addd894">_LogBankEvent</a>(CharacterDatabaseTransaction trans, GuildBankEventLogTypes eventType, uint8 tabId, ObjectGuid playerGuid, uint32 itemOrMoney, uint16 itemStackCount=0, uint8 destTabId=0)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae5ffb2824665b4297a0b5d6028169d50">_LogEvent</a>(GuildEventLogTypes eventType, ObjectGuid playerGuid1, ObjectGuid playerGuid2=ObjectGuid::Empty, uint8 newRank=0)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aa5ec2e7944cca49cd174c5528e311eb4">_MemberHasTabRights</a>(ObjectGuid guid, uint8 tabId, uint32 rights) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac79dc8d555cb9004969c8d028b370dbe">_ModifyBankMoney</a>(CharacterDatabaseTransaction trans, uint64 amount, bool add)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aedae13ac977ddf2c8947d652144cfd36">_MoveItems</a>(MoveItemData *pSrc, MoveItemData *pDest, uint32 splitedAmount)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aaf69ed8372cb3ba9e26856d1930008ae">_RemoveItem</a>(CharacterDatabaseTransaction trans, uint8 tabId, uint8 slotId)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aa35aaff8114e214a4900b2b39a02c08b">_SendBankContent</a>(WorldSession *session, uint8 tabId, bool sendAllSlots) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ad245500a81dcb14490d5e272a4617003">_SendBankContentUpdate</a>(MoveItemData *pSrc, MoveItemData *pDest) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aa94a2c151c913191af12db2480f28cd0">_SendBankContentUpdate</a>(uint8 tabId, SlotIds slots) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a2f5789fbad9d569864fe4c13f5774c7f">_SendBankList</a>(WorldSession *session=nullptr, uint8 tabId=0, bool sendFullSlots=false, SlotIds *slots=nullptr) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a446fbce6fbb44fb4e45980132e06bf88">_SendBankMoneyUpdate</a>(WorldSession *session) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aac7bfd950eec4b375833956962d0ae57">_SetLeaderGUID</a>(Member &amp;pLeader)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a1da2ede98657c593c8c19b598055369b">_SetRankBankMoneyPerDay</a>(uint8 rankId, uint32 moneyPerDay)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a0e78f93becad55338ec435dc46b9ccc4">_SetRankBankTabRightsAndSlots</a>(uint8 rankId, GuildBankRightsAndSlots rightsAndSlots, bool saveToDB=true)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a86f4c4bcdb3d744f9438d53148830698">_UpdateAccountsNumber</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#af5cec12a703c5b02db7e4270c3b64c44">_UpdateMemberWithdrawSlots</a>(CharacterDatabaseTransaction trans, ObjectGuid guid, uint8 tabId)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ab4d511e35415a734e16f90f8a028d649">AddMember</a>(ObjectGuid guid, uint8 rankId=GUILD_RANK_NONE)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a16a63bd6373e87c43bf74572f5c4f0ca">BroadcastPacket</a>(WorldPacket const *packet) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4b7e4df32defe814cba1a0be525e8beb">BroadcastPacketToRank</a>(WorldPacket const *packet, uint8 rankId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a5cead18a64e4e8077a0ed65de51f7f59">BroadcastToGuild</a>(WorldSession *session, bool officerOnly, std::string_view msg, uint32 language=LANG_UNIVERSAL) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4210800103f4222526827b0e544d446f">BroadcastWorker</a>(Do &amp;_do, Player *except=nullptr)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a8687e8ccceee50ef72dcb0bef0008cc5">ChangeMemberRank</a>(ObjectGuid guid, uint8 newRank)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a8e1dca0dcdc6d8d023e5cd18e656ff7b">Create</a>(Player *pLeader, std::string_view name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4b1c1eae7f85a92e17ba48c4ac52f0c9">DeleteMember</a>(ObjectGuid guid, bool isDisbanding=false, bool isKicked=false, bool canDeleteGuild=false)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#acba39ec95f021c6d02241d9d6b9bd492">Disband</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac64fffad338feef366cbe672439f1027">GetBankTab</a>(uint8 tabId)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#af76df3509c1f01fd6bf2ff07aea4de36">GetBankTab</a>(uint8 tabId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a8e4c74ad2dcde365c6eaf8b45484bf8c">GetCreatedDate</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a66dfb8bfc30bb82d9d4361467ef8b8d5">GetId</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aa0d7bf995c437e586dcf57aed5c7a4af">GetInfo</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a23dbcc9ab646e6799fce50d32f685ca7">GetLeaderGUID</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a828c4a38bd1520e4f993dd8350c64f8b">GetMember</a>(ObjectGuid guid) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a2628b60ac05cb40393a46f18fb35f847">GetMember</a>(ObjectGuid guid)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a496ade99e2972d09884e08c267925dea">GetMember</a>(std::string_view name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a499645830ed2b2b134c1b2fe98a30dc4">GetMemberCount</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aa9c535ebec717fc2f10ac53af306ba1d">GetMemberSize</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#acdab65957fef332bb9ea7f7510fda42d">GetMOTD</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a73c93908066e72bf5519728bddd23d80">GetName</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#acb913d5002329ec1ad98fe269f1ef08a">GetRankInfo</a>(uint8 rankId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a914f8f8ce3ce851aa484cd90c636c932">GetRankInfo</a>(uint8 rankId)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#af0ea8e3ce20309b0790ad813777f1614">GetTotalBankMoney</a>() const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a33e1903aeab4de7dd4de301b36e6f2b4">Guild</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae04c4a0c1976c884a8926cbfae29a408">HandleAcceptMember</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a9bfd9a2e97d72bcacff06a5566a7fee2">HandleAddNewRank</a>(WorldSession *session, std::string_view name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aee0f99254e3c1fb88311876b2562e8a3">HandleBuyBankTab</a>(WorldSession *session, uint8 tabId)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#abc2249229adf1a2ccaa662cd18c02968">HandleDisband</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a736e25af77eb683c295b585c4f5423e0">HandleInviteMember</a>(WorldSession *session, std::string const &amp;name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a3a6aec616c51b90f7232c88e5436516a">HandleLeaveMember</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#addaab43239a5b98c8b4c0b4f13150ccd">HandleMemberDepositMoney</a>(WorldSession *session, uint32 amount)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a9fb545fefdd11bc53ca3e8ffd3d8e5c2">HandleMemberLogout</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a7e0ea01c1d042095c35e2a39ca89da41">HandleMemberWithdrawMoney</a>(WorldSession *session, uint32 amount, bool repair=false)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4788f5b94a3767ddc69824e41343b983">HandleQuery</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#af63746ebc0f20a688ebe68ee66e92fbe">HandleRemoveLowestRank</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a067e583efa5ece0b89800e80e5c0f073">HandleRemoveMember</a>(WorldSession *session, std::string_view name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a3e23517a32fcf165a88b739bd7fd3284">HandleRemoveRank</a>(WorldSession *session, uint8 rankId)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aec337b417dc733be4ca87d3f670b4224">HandleRoster</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a9c1f90753f0ec093e1421288aa9e6072">HandleSetBankTabInfo</a>(WorldSession *session, uint8 tabId, std::string_view name, std::string_view icon)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae80fe1e6c8c5aa4eddb2e9a55802dd9c">HandleSetEmblem</a>(WorldSession *session, const EmblemInfo &amp;emblemInfo)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a01bedc65f1be1b4f56583cdc9810d321">HandleSetInfo</a>(WorldSession *session, std::string_view info)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a0145f8793b5a59d72e6409a68fa2de6f">HandleSetLeader</a>(WorldSession *session, std::string_view name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#abc9e9a957d651237b6b78ea685c44f2d">HandleSetMemberNote</a>(WorldSession *session, std::string_view name, std::string_view note, bool isPublic)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a1cf2f6743e8ca60a2ea0a384e5efbb72">HandleSetMOTD</a>(WorldSession *session, std::string_view motd)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4e136ed59e07705a4ebbded2b792eb4e">HandleSetRankInfo</a>(WorldSession *session, uint8 rankId, std::string_view name, uint32 rights, uint32 moneyPerDay, std::array&lt; GuildBankRightsAndSlots, GUILD_BANK_MAX_TABS &gt; const &amp;rightsAndSlots)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a7a36dcb109e06049519062cc505cbdef">HandleUpdateMemberRank</a>(WorldSession *session, std::string_view name, bool demote)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ab3284a1160d2e339cbdccc8bc5c659eb">LoadBankEventLogFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a5a5267e926e1ab8bc67ff7a7f54401b7">LoadBankItemFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a2083addbe913158d6e369d72c1f4444a">LoadBankRightFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aeb5fdb4b19981409ded323470c120170">LoadBankTabFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a98b993986266e2944c2f931c80ca5c60">LoadEventLogFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a65d2171d25a676929402a800eb7a3e6a">LoadFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a36f774ba251d421ed0a6050b51babbb0">LoadMemberFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#af805b19f736df4c51bacbf96a8e5d38c">LoadRankFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4b93e8964749214369de1f19a9532e2d">m_accountsNumber</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a6579a4863083ec5ea78b73be5395752a">m_bankEventLog</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a148e3da6e65ca7a0724799ad8b09091f">m_bankMoney</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a387321359dc40fb20c38fc2f30992750">m_bankTabs</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4e19285fd1730d3515e69a971918f410">m_createdDate</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ada0bd10a22291059151d9ef42b1e3bba">m_emblemInfo</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a8a9ec63cd5937e0d7967c1d3fb94a0b5">m_eventLog</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a1f3d236dfe2a86fa6c965cc6edbf3e70">m_id</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae3ece52e40aa4cc373116b7c32fbb761">m_info</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a82ebf987d4458f10b90122e69605b096">m_leaderGuid</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a8f0ca92339ce7aea2b8909edd37f9835">m_members</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ab8ca3dad15779135af492a0b26597868">m_motd</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a6aa6b5f1c7e4c81c8800dcc55f65b3c5">m_name</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a6747cafe477510f495f4719c8851413c">m_ranks</a></td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae0ae8ead712acb0a209b42d08197daae">MassInviteToEvent</a>(WorldSession *session, uint32 minLevel, uint32 maxLevel, uint32 minRank)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#afa4b8cefd0140b86ee10d67c0734e17e">ModifyBankMoney</a>(CharacterDatabaseTransaction trans, const uint64 &amp;amount, bool add)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a39f75e3693d9128691c53ade8e93d3d0">OnPlayerStatusChange</a>(Player *player, uint32 flag, bool state)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a19f2098d79ea84109f24e78120783f0f">ResetTimes</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae659e83533b24458bad9a0d675ef68bb">SendBankLog</a>(WorldSession *session, uint8 tabId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aca68f65c236313cb5d2d79065f22d62e">SendBankTabData</a>(WorldSession *session, uint8 tabId, bool sendAllSlots) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a60c5218a615056e34543c47f44270b89">SendBankTabsInfo</a>(WorldSession *session, bool showTabs=false)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac1e4faad0b563dfd69e5536fb035bb29">SendBankTabText</a>(WorldSession *session, uint8 tabId) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ad897c70e81cc04541fe54498cff5f0d8">SendCommandResult</a>(WorldSession *session, GuildCommandType type, GuildCommandError errCode, std::string_view param={})</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a51ac1af417881e348cfa25fe4c4a277e">SendEventLog</a>(WorldSession *session) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ad04b5e1d7a28c7acaa217fad02ff0cd5">SendInfo</a>(WorldSession *session) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a690d3fe379bd3a3fee5531930043e593">SendLoginInfo</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ae4acde295523f9cf9e6f2e3e09ced8f7">SendMoneyInfo</a>(WorldSession *session) const</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a4583ba5df806a9bb7d47d139d8648221">SendPermissions</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac04211f3519113a67aa4b241292c0ae2">SendSaveEmblemResult</a>(WorldSession *session, GuildEmblemError errCode)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a74a0bf05d88af8b558310a9ef0ffcef3">SetBankTabText</a>(uint8 tabId, std::string_view text)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#ac274430ce4ab2da5cdd9dfea9d4a19e1">SetName</a>(std::string_view const &amp;name)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a2f35667276ec851e6c1fd0ceb6c3539a">SwapItems</a>(Player *player, uint8 tabId, uint8 slotId, uint8 destTabId, uint8 destSlotId, uint32 splitedAmount)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a0437adefe4485ff8d9e4e4fa5698ced2">SwapItemsWithInventory</a>(Player *player, bool toChar, uint8 tabId, uint8 slotId, uint8 playerBag, uint8 playerSlotId, uint32 splitedAmount)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a460f284740f1bf12b1662eb0809d333f">UpdateMemberData</a>(Player *player, uint8 dataid, uint32 value)</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#aedeba5c8ed6e8ad422562be594bd46d4">Validate</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d13/a09590.html#a303979c3c98236e3861f8b284ea10cfb">~Guild</a>()</td><td class="entry"><a class="el" href="../../d0/d13/a09590.html">Guild</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">GroupMgr.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a417c5798d50cac5c1bc5b0eae13945cc"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d30/a09579.html">Group</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a417c5798d50cac5c1bc5b0eae13945cc">GroupContainer</a></td></tr>
+<tr class="separator:a417c5798d50cac5c1bc5b0eae13945cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a2af93882e217f762df95ba21af191c89"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d30/a09579.html">Group</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a2af93882e217f762df95ba21af191c89">GetGroupByGUID</a> (<a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid) const</td></tr>
+<tr class="separator:a2af93882e217f762df95ba21af191c89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6881453ec34dc2d9416069a87b1a3234"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a6881453ec34dc2d9416069a87b1a3234">InitGroupIds</a> ()</td></tr>
+<tr class="separator:a6881453ec34dc2d9416069a87b1a3234"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bface2b6600801ebcd1cbb9070ec3ef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a8bface2b6600801ebcd1cbb9070ec3ef">RegisterGroupId</a> (<a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> groupId)</td></tr>
+<tr class="separator:a8bface2b6600801ebcd1cbb9070ec3ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad881433a3836a70e44734bde5a1afc6f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#ad881433a3836a70e44734bde5a1afc6f">GenerateGroupId</a> ()</td></tr>
+<tr class="separator:ad881433a3836a70e44734bde5a1afc6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8548ce88b015ae3040cd5f2cd7b1990"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#ab8548ce88b015ae3040cd5f2cd7b1990">LoadGroups</a> ()</td></tr>
+<tr class="separator:ab8548ce88b015ae3040cd5f2cd7b1990"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb97c613417573dc4cafa117065e7cf8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#abb97c613417573dc4cafa117065e7cf8">AddGroup</a> (<a class="el" href="../../da/d30/a09579.html">Group</a> *group)</td></tr>
+<tr class="separator:abb97c613417573dc4cafa117065e7cf8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a654b7c795c9c3d77a7a39bce58dec2c7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a654b7c795c9c3d77a7a39bce58dec2c7">RemoveGroup</a> (<a class="el" href="../../da/d30/a09579.html">Group</a> *group)</td></tr>
+<tr class="separator:a654b7c795c9c3d77a7a39bce58dec2c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a1b7275cfd70d46216df8c353e70d64c8"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dd/dcb/a09587.html">GroupMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a1b7275cfd70d46216df8c353e70d64c8">instance</a> ()</td></tr>
+<tr class="separator:a1b7275cfd70d46216df8c353e70d64c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-types" name="pro-types"></a>
+Protected Types</h2></td></tr>
+<tr class="memitem:ad3a9005c50a5957d3f47adf60624b9aa"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#ad3a9005c50a5957d3f47adf60624b9aa">GroupIds</a></td></tr>
+<tr class="separator:ad3a9005c50a5957d3f47adf60624b9aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:af260c73ba61242f741103bdfe6d6fb9e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dcb/a09587.html#ad3a9005c50a5957d3f47adf60624b9aa">GroupIds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a></td></tr>
+<tr class="separator:af260c73ba61242f741103bdfe6d6fb9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e41d7444f8b7d3dbb54569be80b65f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a></td></tr>
+<tr class="separator:a4e41d7444f8b7d3dbb54569be80b65f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae897c661dd4b185d205c3a12d17ccb2b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dcb/a09587.html#a417c5798d50cac5c1bc5b0eae13945cc">GroupContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a></td></tr>
+<tr class="separator:ae897c661dd4b185d205c3a12d17ccb2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a663dbeb2e20161d8d6cf72f322c05f0e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#a663dbeb2e20161d8d6cf72f322c05f0e">GroupMgr</a> ()</td></tr>
+<tr class="separator:a663dbeb2e20161d8d6cf72f322c05f0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5a5efeed7f78146983611c2349c111f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html#ad5a5efeed7f78146983611c2349c111f">~GroupMgr</a> ()</td></tr>
+<tr class="separator:ad5a5efeed7f78146983611c2349c111f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a417c5798d50cac5c1bc5b0eae13945cc" name="a417c5798d50cac5c1bc5b0eae13945cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a417c5798d50cac5c1bc5b0eae13945cc">&#9670;&#160;</a></span>GroupContainer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d30/a09579.html">Group</a>*&gt; <a class="el" href="../../dd/dcb/a09587.html#a417c5798d50cac5c1bc5b0eae13945cc">GroupMgr::GroupContainer</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad3a9005c50a5957d3f47adf60624b9aa" name="ad3a9005c50a5957d3f47adf60624b9aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3a9005c50a5957d3f47adf60624b9aa">&#9670;&#160;</a></span>GroupIds</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::vector&lt;bool&gt; <a class="el" href="../../dd/dcb/a09587.html#ad3a9005c50a5957d3f47adf60624b9aa">GroupMgr::GroupIds</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a663dbeb2e20161d8d6cf72f322c05f0e" name="a663dbeb2e20161d8d6cf72f322c05f0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a663dbeb2e20161d8d6cf72f322c05f0e">&#9670;&#160;</a></span>GroupMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">GroupMgr::GroupMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> = 0;</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+<div class="ttc" id="aa09587_html_a4e41d7444f8b7d3dbb54569be80b65f9"><div class="ttname"><a href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">GroupMgr::_nextGroupId</a></div><div class="ttdeci">ObjectGuid::LowType _nextGroupId</div><div class="ttdef"><b>Definition:</b> GroupMgr.h:47</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00047">_nextGroupId</a>.</p>
+
+</div>
+</div>
+<a id="ad5a5efeed7f78146983611c2349c111f" name="ad5a5efeed7f78146983611c2349c111f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5a5efeed7f78146983611c2349c111f">&#9670;&#160;</a></span>~GroupMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">GroupMgr::~GroupMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">for</span> (GroupContainer::iterator itr = <a class="code hl_variable" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.begin(); itr != <a class="code hl_variable" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">   33</span>        <span class="keyword">delete</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">   34</span>}</div>
+<div class="ttc" id="aa09587_html_ae897c661dd4b185d205c3a12d17ccb2b"><div class="ttname"><a href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupMgr::GroupStore</a></div><div class="ttdeci">GroupContainer GroupStore</div><div class="ttdef"><b>Definition:</b> GroupMgr.h:48</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">GroupStore</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="abb97c613417573dc4cafa117065e7cf8" name="abb97c613417573dc4cafa117065e7cf8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb97c613417573dc4cafa117065e7cf8">&#9670;&#160;</a></span>AddGroup()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GroupMgr::AddGroup </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d30/a09579.html">Group</a> *&#160;</td>
+          <td class="paramname"><em>group</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>[group-&gt;<a class="code hl_function" href="../../da/d30/a09579.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../dd/d5b/a08491.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>()] = group;</div>
+<div class="line"><span class="lineno">   93</span>}</div>
+<div class="ttc" id="aa08491_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../dd/d5b/a08491.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:145</div></div>
+<div class="ttc" id="aa09579_html_a68c38a89619391cc85eeac2bf2b96ac4"><div class="ttname"><a href="../../da/d30/a09579.html#a68c38a89619391cc85eeac2bf2b96ac4">Group::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2316</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02316">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+
+</div>
+</div>
+<a id="ad881433a3836a70e44734bde5a1afc6f" name="ad881433a3836a70e44734bde5a1afc6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad881433a3836a70e44734bde5a1afc6f">&#9670;&#160;</a></span>GenerateGroupId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> GroupMgr::GenerateGroupId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_typedef" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> newGroupId = <a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>;</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>    <span class="comment">// find the lowest available id starting from the current _nextGroupId</span></div>
+<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> &lt; 0xFFFFFFFF &amp;&amp; ++<a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> &lt; <a class="code hl_variable" href="../../dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>.size() &amp;&amp; <a class="code hl_variable" href="../../dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>[<a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>]);</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> == 0xFFFFFFFF)</div>
+<div class="line"><span class="lineno">   73</span>    {</div>
+<div class="line"><span class="lineno">   74</span>        <a class="code hl_define" href="../../d0/d5e/a04655.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.worldserver&quot;</span>, <span class="stringliteral">&quot;Group ID overflow!! Can&#39;t continue, shutting down server.&quot;</span>);</div>
+<div class="line"><span class="lineno">   75</span>        <a class="code hl_function" href="../../de/d46/a11795.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../d6/d6f/a04819.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
+<div class="line"><span class="lineno">   76</span>    }</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>    <span class="keywordflow">return</span> newGroupId;</div>
+<div class="line"><span class="lineno">   79</span>}</div>
+<div class="ttc" id="aa04655_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/d5e/a04655.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04819_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08"><div class="ttname"><a href="../../d6/d6f/a04819.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a></div><div class="ttdeci">@ ERROR_EXIT_CODE</div><div class="ttdef"><b>Definition:</b> World.h:54</div></div>
+<div class="ttc" id="aa08491_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
+<div class="ttc" id="aa09587_html_af260c73ba61242f741103bdfe6d6fb9e"><div class="ttname"><a href="../../dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e">GroupMgr::_groupIds</a></div><div class="ttdeci">GroupIds _groupIds</div><div class="ttdef"><b>Definition:</b> GroupMgr.h:46</div></div>
+<div class="ttc" id="aa11795_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../de/d46/a11795.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition:</b> World.h:188</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">_groupIds</a>, <a class="el" href="../../#l00047">_nextGroupId</a>, <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00188">World::StopNow()</a>.</p>
+
+</div>
+</div>
+<a id="a2af93882e217f762df95ba21af191c89" name="a2af93882e217f762df95ba21af191c89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2af93882e217f762df95ba21af191c89">&#9670;&#160;</a></span>GetGroupByGUID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d30/a09579.html">Group</a> * GroupMgr::GetGroupByGUID </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
+<div class="line"><span class="lineno">   83</span>    GroupContainer::const_iterator itr = <a class="code hl_variable" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.find(groupId);</div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.end())</div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   88</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">GroupStore</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+
+</div>
+</div>
+<a id="a6881453ec34dc2d9416069a87b1a3234" name="a6881453ec34dc2d9416069a87b1a3234"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6881453ec34dc2d9416069a87b1a3234">&#9670;&#160;</a></span>InitGroupIds()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GroupMgr::InitGroupIds </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> = 1;</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_typedef" href="../../d9/d0d/a03995.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT MAX(guid) FROM `groups`&quot;</span>);</div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_typedef" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxId = (*result)[0].Get&lt;<a class="code hl_typedef" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   50</span>        <a class="code hl_variable" href="../../dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>.resize(maxId + 1);</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="line"><span class="lineno">   52</span>}</div>
+<div class="ttc" id="aa03983_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
+<div class="ttc" id="aa03995_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d9/d0d/a03995.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
+<div class="ttc" id="aa04325_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">_groupIds</a>, <a class="el" href="../../#l00047">_nextGroupId</a>, and <a class="el" href="../../#l00021">CharacterDatabase</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+
+</div>
+</div>
+<a id="a1b7275cfd70d46216df8c353e70d64c8" name="a1b7275cfd70d46216df8c353e70d64c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b7275cfd70d46216df8c353e70d64c8">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/dcb/a09587.html">GroupMgr</a> * GroupMgr::instance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../dd/dcb/a09587.html">GroupMgr</a> <a class="code hl_function" href="../../dd/dcb/a09587.html#a1b7275cfd70d46216df8c353e70d64c8">instance</a>;</div>
+<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../dd/dcb/a09587.html#a1b7275cfd70d46216df8c353e70d64c8">instance</a>;</div>
+<div class="line"><span class="lineno">   40</span>}</div>
+<div class="ttc" id="aa09587_html"><div class="ttname"><a href="../../dd/dcb/a09587.html">GroupMgr</a></div><div class="ttdef"><b>Definition:</b> GroupMgr.h:24</div></div>
+<div class="ttc" id="aa09587_html_a1b7275cfd70d46216df8c353e70d64c8"><div class="ttname"><a href="../../dd/dcb/a09587.html#a1b7275cfd70d46216df8c353e70d64c8">GroupMgr::instance</a></div><div class="ttdeci">static GroupMgr * instance()</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00036">instance()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00036">instance()</a>.</p>
+
+</div>
+</div>
+<a id="ab8548ce88b015ae3040cd5f2cd7b1990" name="ab8548ce88b015ae3040cd5f2cd7b1990"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8548ce88b015ae3040cd5f2cd7b1990">&#9670;&#160;</a></span>LoadGroups()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GroupMgr::LoadGroups </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
+<div class="line"><span class="lineno">  102</span>    {</div>
+<div class="line"><span class="lineno">  103</span>        <a class="code hl_typedef" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../de/d69/a04679.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>        <span class="comment">// Delete all groups whose leader does not exist</span></div>
+<div class="line"><span class="lineno">  106</span>        <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM `groups` WHERE leaderGuid NOT IN (SELECT guid FROM characters)&quot;</span>);</div>
+<div class="line"><span class="lineno">  107</span> </div>
+<div class="line"><span class="lineno">  108</span>        <span class="comment">// Delete all groups with less than 2 members</span></div>
+<div class="line"><span class="lineno">  109</span>        <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM `groups` WHERE guid NOT IN (SELECT guid FROM group_member GROUP BY guid HAVING COUNT(guid) &gt; 1)&quot;</span>);</div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>        <span class="comment">// Delete invalid lfg_data</span></div>
+<div class="line"><span class="lineno">  112</span>        <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE lfg_data FROM lfg_data LEFT JOIN `groups` ON lfg_data.guid = groups.guid WHERE groups.guid IS NULL OR groups.groupType &lt;&gt; 12&quot;</span>);</div>
+<div class="line"><span class="lineno">  113</span>        <span class="comment">// CharacterDatabase.DirectExecute(&quot;DELETE `groups` FROM `groups` LEFT JOIN lfg_data ON groups.guid = lfg_data.guid WHERE groups.groupType=12 AND lfg_data.guid IS NULL&quot;); // group should be left so binds are cleared when disbanded</span></div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>        <a class="code hl_function" href="../../dd/dcb/a09587.html#a6881453ec34dc2d9416069a87b1a3234">InitGroupIds</a>();</div>
+<div class="line"><span class="lineno">  116</span> </div>
+<div class="line"><span class="lineno">  117</span>        <span class="comment">//                                                        0              1           2             3                 4      5          6      7         8       9</span></div>
+<div class="line"><span class="lineno">  118</span>        <a class="code hl_typedef" href="../../d9/d0d/a03995.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT g.leaderGuid, g.lootMethod, g.looterGuid, g.lootThreshold, g.icon1, g.icon2, g.icon3, g.icon4, g.icon5, g.icon6&quot;</span></div>
+<div class="line"><span class="lineno">  119</span>                             <span class="comment">//  10         11          12         13              14                  15            16        17          18</span></div>
+<div class="line"><span class="lineno">  120</span>                             <span class="stringliteral">&quot;, g.icon7, g.icon8, g.groupType, g.difficulty, g.raidDifficulty, g.masterLooterGuid, g.guid, lfg.dungeon, lfg.state FROM `groups` g LEFT JOIN lfg_data lfg ON lfg.guid = g.guid ORDER BY g.guid ASC&quot;</span>);</div>
+<div class="line"><span class="lineno">  121</span> </div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  123</span>        {</div>
+<div class="line"><span class="lineno">  124</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 group definitions. DB table `groups` is empty!&quot;</span>);</div>
+<div class="line"><span class="lineno">  125</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  126</span>        }</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  128</span>        {</div>
+<div class="line"><span class="lineno">  129</span>            <a class="code hl_typedef" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  130</span>            <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  131</span>            {</div>
+<div class="line"><span class="lineno">  132</span>                <a class="code hl_class" href="../../d8/df0/a05791.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  133</span>                <a class="code hl_class" href="../../da/d30/a09579.html">Group</a>* group = <span class="keyword">new</span> <a class="code hl_class" href="../../da/d30/a09579.html">Group</a>;</div>
+<div class="line"><span class="lineno">  134</span>                <span class="keywordflow">if</span> (!group-&gt;<a class="code hl_function" href="../../da/d30/a09579.html#af7d56d93449ead0315be8602c7112f96">LoadGroupFromDB</a>(fields))</div>
+<div class="line"><span class="lineno">  135</span>                {</div>
+<div class="line"><span class="lineno">  136</span>                    <span class="keyword">delete</span> group;</div>
+<div class="line"><span class="lineno">  137</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  138</span>                }</div>
+<div class="line"><span class="lineno">  139</span>                <a class="code hl_function" href="../../dd/dcb/a09587.html#abb97c613417573dc4cafa117065e7cf8">AddGroup</a>(group);</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>                <a class="code hl_function" href="../../dd/dcb/a09587.html#a8bface2b6600801ebcd1cbb9070ec3ef">RegisterGroupId</a>(group-&gt;<a class="code hl_function" href="../../da/d30/a09579.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../dd/d5b/a08491.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>                ++count;</div>
+<div class="line"><span class="lineno">  144</span>            } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  145</span> </div>
+<div class="line"><span class="lineno">  146</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} group definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../de/d69/a04679.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  147</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  148</span>        }</div>
+<div class="line"><span class="lineno">  149</span>    }</div>
+<div class="line"><span class="lineno">  150</span> </div>
+<div class="line"><span class="lineno">  151</span>    <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading Group Members...&quot;</span>);</div>
+<div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>        <a class="code hl_typedef" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../de/d69/a04679.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>        <span class="comment">// Delete all rows from group_member with no group</span></div>
+<div class="line"><span class="lineno">  156</span>        <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM group_member WHERE guid NOT IN (SELECT guid FROM `groups`)&quot;</span>);</div>
+<div class="line"><span class="lineno">  157</span>        <span class="comment">// Delete all members that does not exist</span></div>
+<div class="line"><span class="lineno">  158</span>        <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM group_member WHERE memberGuid NOT IN (SELECT guid FROM characters)&quot;</span>);</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>        <span class="comment">//                                                    0        1           2            3       4</span></div>
+<div class="line"><span class="lineno">  161</span>        <a class="code hl_typedef" href="../../d9/d0d/a03995.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/de2/a03983.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT guid, memberGuid, memberFlags, subgroup, roles FROM group_member ORDER BY guid&quot;</span>);</div>
+<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  163</span>        {</div>
+<div class="line"><span class="lineno">  164</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 group members. DB table `group_member` is empty!&quot;</span>);</div>
+<div class="line"><span class="lineno">  165</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  166</span>        }</div>
+<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  168</span>        {</div>
+<div class="line"><span class="lineno">  169</span>            <a class="code hl_typedef" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  170</span>            <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  171</span>            {</div>
+<div class="line"><span class="lineno">  172</span>                <a class="code hl_class" href="../../d8/df0/a05791.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  173</span>                <a class="code hl_class" href="../../da/d30/a09579.html">Group</a>* group = <a class="code hl_function" href="../../dd/dcb/a09587.html#a2af93882e217f762df95ba21af191c89">GetGroupByGUID</a>(fields[0].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>                <span class="keywordflow">if</span> (group)</div>
+<div class="line"><span class="lineno">  176</span>                    group-&gt;<a class="code hl_function" href="../../da/d30/a09579.html#ab55738e3f596e337883fc86f590eb1ab">LoadMemberFromDB</a>(fields[1].Get&lt;uint32&gt;(), fields[2].Get&lt;uint8&gt;(), fields[3].Get&lt;uint8&gt;(), fields[4].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>                ++count;</div>
+<div class="line"><span class="lineno">  179</span>            } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} group members in {} ms&quot;</span>, count, <a class="code hl_function" href="../../de/d69/a04679.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  182</span>            <a class="code hl_define" href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  183</span>        }</div>
+<div class="line"><span class="lineno">  184</span>    }</div>
+<div class="line"><span class="lineno">  185</span>}</div>
+<div class="ttc" id="aa04655_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d0/d5e/a04655.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa04655_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d0/d5e/a04655.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+<div class="ttc" id="aa04679_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../de/d69/a04679.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa04679_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../de/d69/a04679.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa05791_html"><div class="ttname"><a href="../../d8/df0/a05791.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa09579_html"><div class="ttname"><a href="../../da/d30/a09579.html">Group</a></div><div class="ttdef"><b>Definition:</b> Group.h:169</div></div>
+<div class="ttc" id="aa09579_html_ab55738e3f596e337883fc86f590eb1ab"><div class="ttname"><a href="../../da/d30/a09579.html#ab55738e3f596e337883fc86f590eb1ab">Group::LoadMemberFromDB</a></div><div class="ttdeci">void LoadMemberFromDB(ObjectGuid::LowType guidLow, uint8 memberFlags, uint8 subgroup, uint8 roles)</div><div class="ttdef"><b>Definition:</b> Group.cpp:229</div></div>
+<div class="ttc" id="aa09579_html_af7d56d93449ead0315be8602c7112f96"><div class="ttname"><a href="../../da/d30/a09579.html#af7d56d93449ead0315be8602c7112f96">Group::LoadGroupFromDB</a></div><div class="ttdeci">bool LoadGroupFromDB(Field *field)</div><div class="ttdef"><b>Definition:</b> Group.cpp:174</div></div>
+<div class="ttc" id="aa09587_html_a2af93882e217f762df95ba21af191c89"><div class="ttname"><a href="../../dd/dcb/a09587.html#a2af93882e217f762df95ba21af191c89">GroupMgr::GetGroupByGUID</a></div><div class="ttdeci">Group * GetGroupByGUID(ObjectGuid::LowType guid) const</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:81</div></div>
+<div class="ttc" id="aa09587_html_a6881453ec34dc2d9416069a87b1a3234"><div class="ttname"><a href="../../dd/dcb/a09587.html#a6881453ec34dc2d9416069a87b1a3234">GroupMgr::InitGroupIds</a></div><div class="ttdeci">void InitGroupIds()</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:42</div></div>
+<div class="ttc" id="aa09587_html_a8bface2b6600801ebcd1cbb9070ec3ef"><div class="ttname"><a href="../../dd/dcb/a09587.html#a8bface2b6600801ebcd1cbb9070ec3ef">GroupMgr::RegisterGroupId</a></div><div class="ttdeci">void RegisterGroupId(ObjectGuid::LowType groupId)</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:54</div></div>
+<div class="ttc" id="aa09587_html_abb97c613417573dc4cafa117065e7cf8"><div class="ttname"><a href="../../dd/dcb/a09587.html#abb97c613417573dc4cafa117065e7cf8">GroupMgr::AddGroup</a></div><div class="ttdeci">void AddGroup(Group *group)</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:90</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00090">AddGroup()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00081">GetGroupByGUID()</a>, <a class="el" href="../../#l02316">Group::GetGUID()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, <a class="el" href="../../#l00174">Group::LoadGroupFromDB()</a>, <a class="el" href="../../#l00229">Group::LoadMemberFromDB()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+
+</div>
+</div>
+<a id="a8bface2b6600801ebcd1cbb9070ec3ef" name="a8bface2b6600801ebcd1cbb9070ec3ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bface2b6600801ebcd1cbb9070ec3ef">&#9670;&#160;</a></span>RegisterGroupId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GroupMgr::RegisterGroupId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
+          <td class="paramname"><em>groupId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    <span class="comment">// Allocation was done in InitGroupIds()</span></div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_variable" href="../../dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>[groupId] = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>    <span class="comment">// Groups are pulled in ascending order from db and _nextGroupId is initialized with 1,</span></div>
+<div class="line"><span class="lineno">   60</span>    <span class="comment">// so if the instance id is used, increment</span></div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> == groupId)</div>
+<div class="line"><span class="lineno">   62</span>        ++<a class="code hl_variable" href="../../dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>;</div>
+<div class="line"><span class="lineno">   63</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">_groupIds</a>, and <a class="el" href="../../#l00047">_nextGroupId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+
+</div>
+</div>
+<a id="a654b7c795c9c3d77a7a39bce58dec2c7" name="a654b7c795c9c3d77a7a39bce58dec2c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a654b7c795c9c3d77a7a39bce58dec2c7">&#9670;&#160;</a></span>RemoveGroup()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GroupMgr::RemoveGroup </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d30/a09579.html">Group</a> *&#160;</td>
+          <td class="paramname"><em>group</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_variable" href="../../dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.erase(group-&gt;<a class="code hl_function" href="../../da/d30/a09579.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../dd/d5b/a08491.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">   98</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02316">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="af260c73ba61242f741103bdfe6d6fb9e" name="af260c73ba61242f741103bdfe6d6fb9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af260c73ba61242f741103bdfe6d6fb9e">&#9670;&#160;</a></span>_groupIds</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/dcb/a09587.html#ad3a9005c50a5957d3f47adf60624b9aa">GroupIds</a> GroupMgr::_groupIds</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00065">GenerateGroupId()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+
+</div>
+</div>
+<a id="a4e41d7444f8b7d3dbb54569be80b65f9" name="a4e41d7444f8b7d3dbb54569be80b65f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e41d7444f8b7d3dbb54569be80b65f9">&#9670;&#160;</a></span>_nextGroupId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d5b/a08491.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> GroupMgr::_nextGroupId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00065">GenerateGroupId()</a>, <a class="el" href="../../#l00025">GroupMgr()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+
+</div>
+</div>
+<a id="ae897c661dd4b185d205c3a12d17ccb2b" name="ae897c661dd4b185d205c3a12d17ccb2b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae897c661dd4b185d205c3a12d17ccb2b">&#9670;&#160;</a></span>GroupStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/dcb/a09587.html#a417c5798d50cac5c1bc5b0eae13945cc">GroupContainer</a> GroupMgr::GroupStore</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00090">AddGroup()</a>, <a class="el" href="../../#l00081">GetGroupByGUID()</a>, <a class="el" href="../../#l00095">RemoveGroup()</a>, and <a class="el" href="../../#l00030">~GroupMgr()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Dec 22 2025 20:49:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/dcb/a09587.html">GroupMgr</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:50:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,10 +1,9 @@
 var a05187 =
 [
-    [ "Hash", "db/d48/a05187.html#ae23bd592ac284f3068c36688d084c24f", null ],
-    [ "Verify", "db/d48/a05187.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
-    [ "DEFAULT_ITERATIONS", "db/d48/a05187.html#a898bbe9b4ffddef1eb067915740d6100", null ],
-    [ "DEFAULT_MEMORY_COST", "db/d48/a05187.html#a413b8cdff629f26836a776412362056d", null ],
-    [ "ENCODED_HASH_LEN", "db/d48/a05187.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
-    [ "HASH_LEN", "db/d48/a05187.html#a923313625297d08ff3ca9a04bbe527aa", null ],
-    [ "PARALLELISM", "db/d48/a05187.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
+    [ "criticalOptionSeverity", "db/d48/a05187.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "db/d48/a05187.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "db/d48/a05187.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "db/d48/a05187.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "db/d48/a05187.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "db/d48/a05187.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

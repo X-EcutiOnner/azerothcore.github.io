@@ -1,10 +1,10 @@
 var a08635 =
 [
-    [ "EquipmentSet", "d1/d58/a08635.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "d1/d58/a08635.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "d1/d58/a08635.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "d1/d58/a08635.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "d1/d58/a08635.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "d1/d58/a08635.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "d1/d58/a08635.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "DuelInfo", "d1/d58/a08635.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d1/d58/a08635.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d1/d58/a08635.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d1/d58/a08635.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d1/d58/a08635.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d1/d58/a08635.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d1/d58/a08635.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

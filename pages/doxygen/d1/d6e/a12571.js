@@ -1,6 +1,7 @@
 var a12571 =
 [
-    [ "boss_garrAI", "da/d90/a12575.html", "da/d90/a12575" ],
-    [ "boss_garr", "d1/d6e/a12571.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "d1/d6e/a12571.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "HandleDummy", "d1/d6e/a12571.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d1/d6e/a12571.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d1/d6e/a12571.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d1/d6e/a12571.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

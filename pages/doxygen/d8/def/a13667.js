@@ -1,7 +1,7 @@
 var a13667 =
 [
-    [ "HandlePull", "d8/def/a13667.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d8/def/a13667.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d8/def/a13667.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d8/def/a13667.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "FilterTargets", "d8/def/a13667.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d8/def/a13667.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d8/def/a13667.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d8/def/a13667.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

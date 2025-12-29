@@ -1,7 +1,11 @@
 var a16163 =
 [
-    [ "HandleScriptEffect", "df/dbb/a16163.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "df/dbb/a16163.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "df/dbb/a16163.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "df/dbb/a16163.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "spell_hadronox_summon_periodic_aura", "df/dbb/a16163.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "df/dbb/a16163.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "df/dbb/a16163.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "df/dbb/a16163.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "df/dbb/a16163.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "df/dbb/a16163.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "df/dbb/a16163.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "df/dbb/a16163.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

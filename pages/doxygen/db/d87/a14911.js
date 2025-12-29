@@ -1,6 +1,6 @@
 var a14911 =
 [
-    [ "HandleHeal", "db/d87/a14911.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "db/d87/a14911.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "db/d87/a14911.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "FilterTargets", "db/d87/a14911.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "db/d87/a14911.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "db/d87/a14911.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

@@ -1,6 +1,7 @@
 var a12599 =
 [
-    [ "boss_gehennasAI", "da/d87/a12599.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "da/d87/a12599.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "da/d87/a12599.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "HandleRemove", "da/d87/a12599.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "da/d87/a12599.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "da/d87/a12599.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "da/d87/a12599.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

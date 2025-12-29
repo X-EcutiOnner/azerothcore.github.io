@@ -1,6 +1,6 @@
 var a19095 =
 [
-    [ "icecrown_citadel_teleport", "d4/d56/a19095.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "d4/d56/a19095.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "d4/d56/a19095.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "df/d29/a19099.html", "df/d29/a19099" ],
+    [ "npc_icc_nerubar_broodkeeper", "d4/d56/a19095.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d4/d56/a19095.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

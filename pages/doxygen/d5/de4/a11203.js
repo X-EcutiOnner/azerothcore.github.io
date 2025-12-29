@@ -1,7 +1,5 @@
 var a11203 =
 [
-    [ "Player", "d5/de4/a11203.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d5/de4/a11203.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d5/de4/a11203.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d5/de4/a11203.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "SocketIPBytes", "d5/de4/a11203.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "d5/de4/a11203.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

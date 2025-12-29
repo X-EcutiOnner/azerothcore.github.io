@@ -1,8 +1,11 @@
 var a12215 =
 [
-    [ "boss_drakkisathAI", "db/d66/a12215.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "db/d66/a12215.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "db/d66/a12215.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "db/d66/a12215.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "db/d66/a12215.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "boss_high_interrogator_gerstahnAI", "db/d66/a12215.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "db/d66/a12215.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "db/d66/a12215.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "db/d66/a12215.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "db/d66/a12215.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "db/d66/a12215.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "db/d66/a12215.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "db/d66/a12215.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

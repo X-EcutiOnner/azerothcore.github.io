@@ -1,44 +1,37 @@
 var a02321 =
 [
-    [ "npc_cork_gizelton", "d7/de8/a15602.html", "d7/de8/a15602" ],
-    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "db/d11/a15606.html", "db/d11/a15606" ],
-    [ "npc_aged_dying_ancient_kodo", "dc/d91/a15610.html", "dc/d91/a15610" ],
-    [ "npc_aged_dying_ancient_kodo::npc_aged_dying_ancient_kodoAI", "de/db3/a15614.html", "de/db3/a15614" ],
-    [ "Caravan", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728", [
-      [ "QUEST_BODYGUARD_FOR_HIRE", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
-      [ "QUEST_GIZELTON_CARAVAN", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],
-      [ "EVENT_RESUME_PATH", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a69f42ceba9244cdbe2e7dfc9e833acc9", null ],
-      [ "EVENT_WAIT_FOR_ASSIST", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728ac88ffb83ceecf13ef48bd0988529cba7", null ],
-      [ "EVENT_RESTART_ESCORT", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a7410480ad3fe5ae4742c8d12f885e2d1", null ],
-      [ "NPC_CORK_GIZELTON", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a3ac8ce9d7c78aa74818eb286eb1530ba", null ],
-      [ "NPC_RIGGER_GIZELTON", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5", null ],
-      [ "NPC_CARAVAN_KODO", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728ae4dd98db048a9b333326fb52a0a08858", null ],
-      [ "NPC_VENDOR_TRON", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728acb0c2bc0eea43af8bd0e1801fac8846f", null ],
-      [ "NPC_SUPER_SELLER", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a8329377778d66d3c939420b04264e573", null ],
-      [ "SAY_CARAVAN_LEAVE", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa", null ],
-      [ "SAY_CARAVAN_HIRE", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728ab0f9b346c5f60c1ec44e45615f360ef3", null ],
-      [ "MAX_CARAVAN_SUMMONS", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362", null ],
-      [ "NPC_KOLKAR_WAYLAYER", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece", null ],
-      [ "NPC_KOLKAR_AMBUSHER", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728a7a9eb27a8fb0e7ef6c66a86720d9233c", null ],
-      [ "NPC_LESSER_INFERNAL", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728aae0903900c838cf1102ca86baa598224", null ],
-      [ "NPC_DOOMWARDER", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728ae43176493b6aa526db1f2f2912bf6027", null ],
-      [ "NPC_NETHER", "d2/d0a/a02321.html#aec2c916c560ca6ceedd660d3b140e728ac95afd23fdda714496e33c6aab109eda", null ]
+    [ "npc_bunthen_plainswind", "d4/d3e/a15735.html", "d4/d3e/a15735" ],
+    [ "npc_great_bear_spirit", "d5/d02/a15739.html", "d5/d02/a15739" ],
+    [ "npc_silva_filnaveth", "d2/d56/a15743.html", "d2/d56/a15743" ],
+    [ "npc_clintar_spirit", "d4/d4d/a15747.html", "d4/d4d/a15747" ],
+    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d3/dd4/a15751.html", "d3/dd4/a15751" ],
+    [ "npc_omen", "d3/dc7/a15755.html", "d3/dc7/a15755" ],
+    [ "npc_omen::npc_omenAI", "dc/dab/a15759.html", "dc/dab/a15759" ],
+    [ "npc_giant_spotlight", "db/d35/a15763.html", "db/d35/a15763" ],
+    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d9/d94/a15767.html", "d9/d94/a15767" ],
+    [ "Bunthen", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
+      [ "QUEST_SEA_LION_HORDE", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
+      [ "QUEST_SEA_LION_ALLY", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
+      [ "TAXI_PATH_ID_ALLY", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
+      [ "TAXI_PATH_ID_HORDE", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
     ] ],
-    [ "DyingKodo", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663", [
-      [ "SAY_SMEED_HOME", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a07ed71cb461662af72c9811505b9c955", null ],
-      [ "QUEST_KODO", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a8019fb9754f039595728a149d4c3214f", null ],
-      [ "NPC_TEXT_KODO", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a934cabb76d1cbddd53e5a682b3560c7e", null ],
-      [ "NPC_SMEED", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663ab289aa3f772d2e87dad418d075ab8dce", null ],
-      [ "NPC_AGED_KODO", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154", null ],
-      [ "NPC_DYING_KODO", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a6116f630ddd9390420cc6aa4230a862e", null ],
-      [ "NPC_ANCIENT_KODO", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a1267b33b446af4c80d35df16c24e2ac3", null ],
-      [ "NPC_TAMED_KODO", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a47e69d141a6091158f3102f0ebc301e3", null ],
-      [ "SPELL_KODO_KOMBO_ITEM", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663ad0806f22dfe303368c6bfef3b25bdbe9", null ],
-      [ "SPELL_KODO_KOMBO_PLAYER_BUFF", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a77343420c8740b50963dbc05382dc5ea", null ],
-      [ "SPELL_KODO_KOMBO_DESPAWN_BUFF", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5", null ],
-      [ "SPELL_KODO_KOMBO_GOSSIP", "d2/d0a/a02321.html#af45ec6fee60329d3c66726e0fa939663a08489d27d91546512009b1555fa59de3", null ]
+    [ "ClintarSpirit", "d2/d0a/a02321.html#af06e96ced22feb1885564950e05417a2", [
+      [ "ASPECT_RAVEN", "d2/d0a/a02321.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
+      [ "CLINTAR_SPIRIT_SAY_START", "d2/d0a/a02321.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
     ] ],
-    [ "AddSC_desolace", "d2/d0a/a02321.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ],
-    [ "TIME_HIRE_STOP", "d2/d0a/a02321.html#a4242da8a27377879882360b83ee517d5", null ],
-    [ "TIME_SHOP_STOP", "d2/d0a/a02321.html#a74a579d621e86ff3a69ffef7b34efe7e", null ]
+    [ "Omen", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793", [
+      [ "NPC_OMEN", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
+      [ "SPELL_OMEN_CLEAVE", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
+      [ "SPELL_OMEN_STARFALL", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
+      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
+      [ "SPELL_ELUNE_CANDLE", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
+      [ "GO_ELUNE_TRAP_1", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
+      [ "GO_ELUNE_TRAP_2", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
+      [ "EVENT_CAST_CLEAVE", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
+      [ "EVENT_CAST_STARFALL", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
+      [ "EVENT_DESPAWN", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    ] ],
+    [ "AddSC_moonglade", "d2/d0a/a02321.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
+    [ "AspectRavenSummon", "d2/d0a/a02321.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
+    [ "Clintar_spirit_WP", "d2/d0a/a02321.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
 ];

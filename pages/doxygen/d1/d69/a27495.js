@@ -1,6 +1,6 @@
 var a27495 =
 [
-    [ "go_l70_etc_musicAI", "da/d7f/a27499.html", "da/d7f/a27499" ],
-    [ "go_l70_etc_music", "d1/d69/a27495.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "d1/d69/a27495.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "go_flamesAI", "da/d7f/a27499.html", "da/d7f/a27499" ],
+    [ "go_flames", "d1/d69/a27495.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d1/d69/a27495.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

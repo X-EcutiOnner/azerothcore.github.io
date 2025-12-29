@@ -1,6 +1,6 @@
 var a24095 =
 [
-    [ "instance_the_eye_InstanceMapScript", "dd/d7d/a24099.html", "dd/d7d/a24099" ],
-    [ "instance_the_eye", "d9/de2/a24095.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d9/de2/a24095.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "HandleScriptEffect", "d9/de2/a24095.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d9/de2/a24095.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d9/de2/a24095.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

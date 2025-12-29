@@ -1,5 +1,5 @@
 var a07763 =
 [
-    [ "IsColorValid", "d0/d17/a07763.html#a5b13574c40a78f28d15e6b11bc7bd5bc", null ],
-    [ "IsTextValid", "d0/d17/a07763.html#a1c9a027ff1f355b16fe629b7c4af7b98", null ]
+    [ "value_type", "d0/d17/a07763.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "d0/d17/a07763.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

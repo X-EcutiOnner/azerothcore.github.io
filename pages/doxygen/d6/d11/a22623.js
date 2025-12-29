@@ -1,5 +1,6 @@
 var a22623 =
 [
-    [ "achievement_wg_within_our_grasp", "d6/d11/a22623.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d6/d11/a22623.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "CheckCast", "d6/d11/a22623.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d6/d11/a22623.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d6/d11/a22623.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

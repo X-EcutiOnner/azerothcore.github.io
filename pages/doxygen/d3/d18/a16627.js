@@ -1,7 +1,6 @@
 var a16627 =
 [
-    [ "npc_toc_priestAI", "d3/d18/a16627.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d3/d18/a16627.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d3/d18/a16627.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d3/d18/a16627.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_anubarak_spikeAI", "df/d75/a16631.html", "df/d75/a16631" ],
+    [ "npc_anubarak_spike", "d3/d18/a16627.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "d3/d18/a16627.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

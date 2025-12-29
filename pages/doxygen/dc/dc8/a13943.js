@@ -1,6 +1,5 @@
 var a13943 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d6/d4d/a13947.html", "d6/d4d/a13947" ],
-    [ "npc_jaina_proudmoore_bfu", "dc/dc8/a13943.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "dc/dc8/a13943.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_king_varian_wrynn", "dc/dc8/a13943.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "dc/dc8/a13943.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ByteConverter Namespace Reference</title>
+<title>AzerothCore: Acore::Banner Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,152 +106,78 @@ $(document).ready(function(){initNavTree('df/da2/a04828.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ByteConverter Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Banner Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplParams" colspan="2">template&lt;std::size_t T&gt; </td></tr>
-<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/da2/a04828.html#a5628479f846d755da3ff53b0e2a66c26">convert</a> (char *val)</td></tr>
-<tr class="separator:a5628479f846d755da3ff53b0e2a66c26"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/da2/a04828.html#aa8017307aa0aa935f062b4f701563d09">convert&lt; 0 &gt;</a> (char *)</td></tr>
-<tr class="separator:aa8017307aa0aa935f062b4f701563d09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/da2/a04828.html#a3717e304a2b8b074fcd513ca8e0db116">convert&lt; 1 &gt;</a> (char *)</td></tr>
-<tr class="separator:a3717e304a2b8b074fcd513ca8e0db116"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/da2/a04828.html#a6177d7ac84a4ea6819c57a124345540e">apply</a> (T *val)</td></tr>
-<tr class="separator:a6177d7ac84a4ea6819c57a124345540e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6170962feecf3d126a80593221a357d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d35/a04325.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da2/a04828.html#af6170962feecf3d126a80593221a357d">Show</a> (std::string_view applicationName, void(*log)(std::string_view text), void(*logExtraInfo)())</td></tr>
+<tr class="separator:af6170962feecf3d126a80593221a357d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../df/da2/a04828.html">ByteConverter</a> reverse your byte order. This is use for cross platform where they have different endians. </p>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="a6177d7ac84a4ea6819c57a124345540e" name="a6177d7ac84a4ea6819c57a124345540e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6177d7ac84a4ea6819c57a124345540e">&#9670;&#160;</a></span>apply()</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="af6170962feecf3d126a80593221a357d" name="af6170962feecf3d126a80593221a357d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6170962feecf3d126a80593221a357d">&#9670;&#160;</a></span>Show()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ByteConverter::apply </td>
+          <td class="memname">void Acore::Banner::Show </td>
           <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>val</em></td><td>)</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>applicationName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">void(*)(std::string_view text)&#160;</td>
+          <td class="paramname"><em>log</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void(*)()&#160;</td>
+          <td class="paramname"><em>logExtraInfo</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        convert&lt;sizeof(T)&gt;((<span class="keywordtype">char</span>*)(val));</div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    log(<a class="code hl_function" href="../../da/d47/a04824.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{} ({})&quot;</span>, <a class="code hl_function" href="../../de/daa/a04840.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>(), applicationName));</div>
+<div class="line"><span class="lineno">   25</span>    log(<span class="stringliteral">&quot;&lt;Ctrl-C&gt; to stop.\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   26</span>    log(<span class="stringliteral">&quot;   █████╗ ███████╗███████╗██████╗  ██████╗ ████████╗██╗  ██╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   27</span>    log(<span class="stringliteral">&quot;  ██╔══██╗╚══███╔╝██╔════╝██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║&quot;</span>);</div>
+<div class="line"><span class="lineno">   28</span>    log(<span class="stringliteral">&quot;  ███████║  ███╔╝ █████╗  ██████╔╝██║   ██║   ██║   ███████║&quot;</span>);</div>
+<div class="line"><span class="lineno">   29</span>    log(<span class="stringliteral">&quot;  ██╔══██║ ███╔╝  ██╔══╝  ██╔══██╗██║   ██║   ██║   ██╔══██║&quot;</span>);</div>
+<div class="line"><span class="lineno">   30</span>    log(<span class="stringliteral">&quot;  ██║  ██║███████╗███████╗██║  ██║╚██████╔╝   ██║   ██║  ██║&quot;</span>);</div>
+<div class="line"><span class="lineno">   31</span>    log(<span class="stringliteral">&quot;  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝&quot;</span>);</div>
+<div class="line"><span class="lineno">   32</span>    log(<span class="stringliteral">&quot;                                 ██████╗ ██████╗ ██████╗ ███████╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   33</span>    log(<span class="stringliteral">&quot;                                ██╔════╝██╔═══██╗██╔══██╗██╔════╝&quot;</span>);</div>
+<div class="line"><span class="lineno">   34</span>    log(<span class="stringliteral">&quot;                                ██║     ██║   ██║██████╔╝█████╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   35</span>    log(<span class="stringliteral">&quot;                                ██║     ██║   ██║██╔══██╗██╔══╝&quot;</span>);</div>
+<div class="line"><span class="lineno">   36</span>    log(<span class="stringliteral">&quot;                                ╚██████╗╚██████╔╝██║  ██║███████╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   37</span>    log(<span class="stringliteral">&quot;                                 ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   38</span>    log(<span class="stringliteral">&quot;     AzerothCore 3.3.5a  -  www.azerothcore.org\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (logExtraInfo)</div>
+<div class="line"><span class="lineno">   41</span>    {</div>
+<div class="line"><span class="lineno">   42</span>        logExtraInfo();</div>
 <div class="line"><span class="lineno">   43</span>    }</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>    log(<span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   46</span>}</div>
+<div class="ttc" id="aa04824_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../da/d47/a04824.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa04840_html_ad68b75fc60314941c3cbade8eafcda23"><div class="ttname"><a href="../../de/daa/a04840.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a></div><div class="ttdeci">AC_COMMON_API char const * GetFullVersion()</div><div class="ttdef"><b>Definition:</b> GitRevision.cpp:82</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a5628479f846d755da3ff53b0e2a66c26" name="a5628479f846d755da3ff53b0e2a66c26"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5628479f846d755da3ff53b0e2a66c26">&#9670;&#160;</a></span>convert()</h2>
+<p class="reference">References <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;std::size_t T&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ByteConverter::convert </td>
-          <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"><em>val</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>    {</div>
-<div class="line"><span class="lineno">   33</span>        std::swap(*val, *(val + T - 1));</div>
-<div class="line"><span class="lineno">   34</span>        <a class="code hl_function" href="../../df/da2/a04828.html#a5628479f846d755da3ff53b0e2a66c26">convert</a> &lt; T - 2 &gt; (val + 1);</div>
-<div class="line"><span class="lineno">   35</span>    }</div>
-<div class="ttc" id="aa04828_html_a5628479f846d755da3ff53b0e2a66c26"><div class="ttname"><a href="../../df/da2/a04828.html#a5628479f846d755da3ff53b0e2a66c26">ByteConverter::convert</a></div><div class="ttdeci">void convert(char *val)</div><div class="ttdef"><b>Definition:</b> ByteConverter.h:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">convert()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">convert()</a>.</p>
-
-</div>
-</div>
-<a id="aa8017307aa0aa935f062b4f701563d09" name="aa8017307aa0aa935f062b4f701563d09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8017307aa0aa935f062b4f701563d09">&#9670;&#160;</a></span>convert&lt; 0 &gt;()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../df/da2/a04828.html#a5628479f846d755da3ff53b0e2a66c26">ByteConverter::convert</a>&lt; 0 &gt; </td>
-          <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3717e304a2b8b074fcd513ca8e0db116" name="a3717e304a2b8b074fcd513ca8e0db116"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3717e304a2b8b074fcd513ca8e0db116">&#9670;&#160;</a></span>convert&lt; 1 &gt;()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../df/da2/a04828.html#a5628479f846d755da3ff53b0e2a66c26">ByteConverter::convert</a>&lt; 1 &gt; </td>
-          <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{ }            <span class="comment">// ignore central byte</span></div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -259,8 +185,8 @@ template&lt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/da2/a04828.html">ByteConverter</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:50:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d47/a04824.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/da2/a04828.html">Banner</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:51:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

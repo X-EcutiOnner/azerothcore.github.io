@@ -1,7 +1,6 @@
 var a16351 =
 [
-    [ "HandleScriptEffect", "dc/d0d/a16351.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "dc/d0d/a16351.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "dc/d0d/a16351.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "dc/d0d/a16351.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_halion_controllerAI", "df/d88/a16355.html", "df/d88/a16355" ],
+    [ "npc_halion_controller", "dc/d0d/a16351.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "dc/d0d/a16351.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

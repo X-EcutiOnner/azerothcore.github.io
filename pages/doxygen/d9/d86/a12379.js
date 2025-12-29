@@ -1,6 +1,6 @@
 var a12379 =
 [
-    [ "OnEffect", "d9/d86/a12379.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d9/d86/a12379.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d9/d86/a12379.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "OrcDeathEvent", "d9/d86/a12379.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d9/d86/a12379.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d9/d86/a12379.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

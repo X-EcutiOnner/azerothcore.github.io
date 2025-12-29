@@ -1,12 +1,6 @@
 var a23127 =
 [
-    [ "boss_essence_of_angerAI", "d4/de2/a23127.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "d4/de2/a23127.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "d4/de2/a23127.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "d4/de2/a23127.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "d4/de2/a23127.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "d4/de2/a23127.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "d4/de2/a23127.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "d4/de2/a23127.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "d4/de2/a23127.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_essence_of_sufferingAI", "d7/d1f/a23131.html", "d7/d1f/a23131" ],
+    [ "boss_essence_of_suffering", "d4/de2/a23127.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d4/de2/a23127.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

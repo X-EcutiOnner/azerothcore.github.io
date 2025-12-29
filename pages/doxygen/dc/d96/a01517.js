@@ -1,10 +1,10 @@
 var a01517 =
 [
-    [ "SavedAddonsList", "dc/d96/a01517.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "dc/d96/a01517.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "dc/d96/a01517.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "dc/d96/a01517.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "dc/d96/a01517.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "dc/d96/a01517.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "dc/d96/a01517.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "CALL_ENABLED_BOOLEAN_HOOKS", "dc/d96/a01517.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
+    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "dc/d96/a01517.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
+    [ "CALL_ENABLED_HOOKS", "dc/d96/a01517.html#a9662d12a9f13490594165729108aa0b1", null ],
+    [ "ExecuteScript", "dc/d96/a01517.html#a80951f767a7c77417a671490893db073", null ],
+    [ "GetReturnAIScript", "dc/d96/a01517.html#aceff01aa3f5ab68a0253704ef30041df", null ],
+    [ "IsValidBoolScript", "dc/d96/a01517.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
+    [ "ReturnValidBool", "dc/d96/a01517.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
 ];

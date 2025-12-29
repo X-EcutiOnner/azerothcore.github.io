@@ -1,9 +1,9 @@
 var a00374 =
 [
-    [ "ABNodeInfo", "d6/d49/a07398.html", "d6/d49/a07398" ],
-    [ "BattlegroundABScore", "dd/db0/a07402.html", "dd/db0/a07402" ],
-    [ "BattlegroundAB", "d4/d87/a07406.html", "d4/d87/a07406" ],
-    [ "BattlegroundAB::CapturePointInfo", "d9/d20/a07410.html", "d9/d20/a07410" ],
+    [ "ABNodeInfo", "d9/d5e/a07415.html", "d9/d5e/a07415" ],
+    [ "BattlegroundABScore", "d4/dc0/a07419.html", "d4/dc0/a07419" ],
+    [ "BattlegroundAB", "dd/d71/a07423.html", "dd/d71/a07423" ],
+    [ "BattlegroundAB::CapturePointInfo", "d8/dcd/a07427.html", "d8/dcd/a07427" ],
     [ "BG_AB_BattlegroundNodes", "d5/db5/a00374.html#a7cb15f4d123cdbe557e15c7daaf014ad", [
       [ "BG_AB_NODE_STABLES", "d5/db5/a00374.html#a7cb15f4d123cdbe557e15c7daaf014ada1659f989b2c934ff7bbb18ddf3889f0f", null ],
       [ "BG_AB_NODE_BLACKSMITH", "d5/db5/a00374.html#a7cb15f4d123cdbe557e15c7daaf014ada0d2696d111c150a16896fc7a9b88af53", null ],

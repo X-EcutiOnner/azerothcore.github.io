@@ -1,10 +1,9 @@
 var a25699 =
 [
-    [ "ApplyMarker", "dc/deb/a25699.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
-    [ "CheckTrapProc", "dc/deb/a25699.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
-    [ "HandleProcs", "dc/deb/a25699.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
-    [ "IsTargetValid", "dc/deb/a25699.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
-    [ "PrepareAuraScript", "dc/deb/a25699.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "dc/deb/a25699.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "dc/deb/a25699.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "CheckIfCorpseNear", "dc/deb/a25699.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "dc/deb/a25699.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "dc/deb/a25699.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "dc/deb/a25699.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "dc/deb/a25699.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "dc/deb/a25699.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

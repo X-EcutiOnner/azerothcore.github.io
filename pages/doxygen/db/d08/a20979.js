@@ -1,6 +1,6 @@
 var a20979 =
 [
-    [ "x", "db/d08/a20979.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "db/d08/a20979.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "db/d08/a20979.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "HandleScript", "db/d08/a20979.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "db/d08/a20979.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "db/d08/a20979.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

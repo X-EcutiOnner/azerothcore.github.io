@@ -1,8 +1,11 @@
 var a13247 =
 [
-    [ "DelayedSummonEvent", "d0/d3a/a13247.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d0/d3a/a13247.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d0/d3a/a13247.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d0/d3a/a13247.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d0/d3a/a13247.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "npc_a_special_surpriseAI", "d0/d3a/a13247.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "d0/d3a/a13247.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "d0/d3a/a13247.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "d0/d3a/a13247.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "d0/d3a/a13247.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "d0/d3a/a13247.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "d0/d3a/a13247.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "d0/d3a/a13247.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

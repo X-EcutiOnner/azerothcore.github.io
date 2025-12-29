@@ -1,4 +1,4 @@
 var a01388 =
 [
-    [ "AllItemScript", "d3/d0d/a10290.html", "d3/d0d/a10290" ]
+    [ "ScriptRegistry< WeatherScript >", "d0/d36/a01388.html#aa691cee39a36861af34c3315e7aa582b", null ]
 ];

@@ -1,12 +1,9 @@
 var a11271 =
 [
-    [ "UnitAura", "d2/d2e/a11271.html#ada4033955271dfb21d16a95b316087f5", null ],
-    [ "_ApplyForTarget", "d2/d2e/a11271.html#a920549cf55c8def37149b00ae971127d", null ],
-    [ "_UnapplyForTarget", "d2/d2e/a11271.html#af4d453cee6758e633bdcae0049581898", null ],
-    [ "FillTargetMap", "d2/d2e/a11271.html#add5ce04446338e078c5986420abfd16e", null ],
-    [ "GetDiminishGroup", "d2/d2e/a11271.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
-    [ "Remove", "d2/d2e/a11271.html#a28f714404942bb5c614ac844cf937546", null ],
-    [ "SetDiminishGroup", "d2/d2e/a11271.html#a6d858a153c5d3046574f3387ab852050", null ],
-    [ "Aura::Create", "d2/d2e/a11271.html#ae2c0fdfb409846fec5e861de60797112", null ],
-    [ "m_AuraDRGroup", "d2/d2e/a11271.html#a4b413c5e62eee76875a22345059e6124", null ]
+    [ "EncryptableAndCompressiblePacket", "d2/d2e/a11271.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d2/d2e/a11271.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d2/d2e/a11271.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d2/d2e/a11271.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d2/d2e/a11271.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d2/d2e/a11271.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

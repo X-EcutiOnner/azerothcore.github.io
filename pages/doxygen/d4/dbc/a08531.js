@@ -1,6 +1,5 @@
 var a08531 =
 [
-    [ "active", "d4/dbc/a08531.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "d4/dbc/a08531.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "d4/dbc/a08531.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "PositionXYZStreamer", "d4/dbc/a08531.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "d4/dbc/a08531.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

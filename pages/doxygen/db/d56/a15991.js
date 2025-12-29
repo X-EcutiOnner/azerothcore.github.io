@@ -1,6 +1,6 @@
 var a15991 =
 [
-    [ "npc_weegli_blastfuseAI", "df/d91/a15995.html", "df/d91/a15995" ],
-    [ "npc_weegli_blastfuse", "db/d56/a15991.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "db/d56/a15991.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "creatureID", "db/d56/a15991.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "db/d56/a15991.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "db/d56/a15991.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

@@ -1,4 +1,5 @@
 var a04688 =
 [
-    [ "SFMTRand", "d4/d74/a05554.html", "d4/d74/a05554" ]
+    [ "EventMap", "d6/d15/a05539.html", "d6/d15/a05539" ],
+    [ "EventMap::Event", "d1/d0f/a05543.html", "d1/d0f/a05543" ]
 ];

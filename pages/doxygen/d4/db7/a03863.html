@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPEP.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPHP.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,595 +106,339 @@ $(document).ready(function(){initNavTree('d4/db7/a03863.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">OutdoorPvPEP.h File Reference</div></div>
+  <div class="headertitle"><div class="title">OutdoorPvPHP.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d98/a22674.html">OPvPCapturePointEP_EWT</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d46/a22747.html">OPvPCapturePointHP</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3d/a22678.html">OPvPCapturePointEP_NPT</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd7/a22751.html">OutdoorPvPHP</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/a22682.html">OPvPCapturePointEP_CGT</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9e/a22686.html">OPvPCapturePointEP_PWT</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df1/a22690.html">OutdoorPvPEP</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a01aada98c8079ea71a361cba06e10640"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a01aada98c8079ea71a361cba06e10640">OutdoorPvPHPBuffZonesNum</a>&#160;&#160;&#160;6</td></tr>
+<tr class="separator:a01aada98c8079ea71a361cba06e10640"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:ad9bf5a52eb45ee872984e5b5001e3847"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847">EP_Summons</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c">EP_EWT_COMMANDER</a> = 0
+<tr class="memitem:a09664100577cc20866b21589f3c1eb4a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4a">OutdoorPvPHPSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc">AlliancePlayerKillReward</a> = 32155
 , <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3">EP_EWT_SOLDIER1</a>
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45">HordePlayerKillReward</a> = 32158
 , <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7">EP_EWT_SOLDIER2</a>
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a">AllianceBuff</a> = 32071
 , <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc">EP_EWT_SOLDIER3</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d">EP_EWT_SOLDIER4</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89">EP_PWT_FLIGHTMASTER</a>
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2">HordeBuff</a> = 32049
 <br />
  }</td></tr>
-<tr class="separator:ad9bf5a52eb45ee872984e5b5001e3847"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b5226d66242870e9f2bd6067ac871da"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871da">EP_GoSummons</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0">EP_NPT_BUFF</a> = 0
+<tr class="separator:a09664100577cc20866b21589f3c1eb4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad618152baad1f5a1d7f70f40941e8f33"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33">OutdoorPvPHPTowerType</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9">HP_TOWER_BROKEN_HILL</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9">EP_NPT_FLAGS</a>
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447">HP_TOWER_OVERLOOK</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0">EP_EWT_FLAGS</a>
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84">HP_TOWER_STADIUM</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc">EP_CGT_FLAGS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d">EP_PWT_FLAGS</a>
+&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a> = 3
 <br />
  }</td></tr>
-<tr class="separator:a0b5226d66242870e9f2bd6067ac871da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb017cec20a6986c80544c74f4755313"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313">EP_Towers</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535">EP_EWT</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869">EP_NPT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e">EP_PWT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda">EP_CGT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a>
-<br />
- }</td></tr>
-<tr class="separator:acb017cec20a6986c80544c74f4755313"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a803bc1884225e56dd663001b104aeb2c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2c">EP_TowerStates</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c">EP_TS_N</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589">EP_TS_N_A</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7">EP_TS_N_H</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf">EP_TS_A_P</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866">EP_TS_H_P</a> = 16
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0">EP_TS_A</a> = 32
-, <br />
-&#160;&#160;<a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b">EP_TS_H</a> = 64
-<br />
- }</td></tr>
-<tr class="separator:a803bc1884225e56dd663001b104aeb2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ad618152baad1f5a1d7f70f40941e8f33"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a39190e48b2170e2d0d0628b06d6da8f1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a39190e48b2170e2d0d0628b06d6da8f1">EP_AllianceBuffs</a> [4] = {11413, 11414, 11415, 1386}</td></tr>
-<tr class="separator:a39190e48b2170e2d0d0628b06d6da8f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a870abed831404a02d171e9cf1bd741cb"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a870abed831404a02d171e9cf1bd741cb">EP_HordeBuffs</a> [4] = {30880, 30683, 30682, 29520}</td></tr>
-<tr class="separator:a870abed831404a02d171e9cf1bd741cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b7f1cd13477df42bd29e674cb329ad4"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a3b7f1cd13477df42bd29e674cb329ad4">EP_GraveyardZone</a> = <a class="el" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a></td></tr>
-<tr class="separator:a3b7f1cd13477df42bd29e674cb329ad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1751b41516eaecd46b28e8a1f80c6f07"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a1751b41516eaecd46b28e8a1f80c6f07">EP_GraveyardId</a> = 927</td></tr>
-<tr class="separator:a1751b41516eaecd46b28e8a1f80c6f07"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e411865d0acd6cd6c6f10172adf4ad4"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a8e411865d0acd6cd6c6f10172adf4ad4">EPBuffZonesNum</a> = 3</td></tr>
-<tr class="separator:a8e411865d0acd6cd6c6f10172adf4ad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bf83dc59a4ca7a56297e572ee782e9e"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a9bf83dc59a4ca7a56297e572ee782e9e">EP_EWT_CM</a> = 17690</td></tr>
-<tr class="separator:a9bf83dc59a4ca7a56297e572ee782e9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4eb66c50d410c58b22546406eda37e5f"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a4eb66c50d410c58b22546406eda37e5f">EP_CGT_CM</a> = 17689</td></tr>
-<tr class="separator:a4eb66c50d410c58b22546406eda37e5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad6c6d1e803fa77420b7d8bc5450975a"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#aad6c6d1e803fa77420b7d8bc5450975a">EP_NPT_CM</a> = 17696</td></tr>
-<tr class="separator:aad6c6d1e803fa77420b7d8bc5450975a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25cbe7281f91d6a29b183f97340385ef"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a25cbe7281f91d6a29b183f97340385ef">EP_PWT_CM</a> = 17698</td></tr>
-<tr class="separator:a25cbe7281f91d6a29b183f97340385ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2acf7be696695ceaa968a2eac356e562"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a2acf7be696695ceaa968a2eac356e562">EPBuffZones</a> [<a class="el" href="../../d4/db7/a03863.html#a8e411865d0acd6cd6c6f10172adf4ad4">EPBuffZonesNum</a>]</td></tr>
-<tr class="separator:a2acf7be696695ceaa968a2eac356e562"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45924b22012276ef73ca0a50fa786e52"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/d10/a10170.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a45924b22012276ef73ca0a50fa786e52">EPCapturePoints</a> [<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a>]</td></tr>
-<tr class="separator:a45924b22012276ef73ca0a50fa786e52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af18f636f66cc238611a1f2dd03b2ddcb"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/d10/a10170.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#af18f636f66cc238611a1f2dd03b2ddcb">EPTowerFlags</a> [<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a>]</td></tr>
-<tr class="separator:af18f636f66cc238611a1f2dd03b2ddcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60340c7ab3a1dd51078336de7759f588"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a60340c7ab3a1dd51078336de7759f588">EP_NUM_CREATURES</a> = 6</td></tr>
-<tr class="separator:a60340c7ab3a1dd51078336de7759f588"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa62021ba8da0171188d5327cade2d79c"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#aa62021ba8da0171188d5327cade2d79c">EP_EWT_NUM_CREATURES</a> = 5</td></tr>
-<tr class="separator:aa62021ba8da0171188d5327cade2d79c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13c9b3f39108790585875365648e6a51"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d1/d32/a10174.html">creature_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a13c9b3f39108790585875365648e6a51">EP_EWT_Summons_A</a> [<a class="el" href="../../d4/db7/a03863.html#aa62021ba8da0171188d5327cade2d79c">EP_EWT_NUM_CREATURES</a>]</td></tr>
-<tr class="separator:a13c9b3f39108790585875365648e6a51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adae054ab5e44ffc0c7a528c417aff670"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d1/d32/a10174.html">creature_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#adae054ab5e44ffc0c7a528c417aff670">EP_EWT_Summons_H</a> [<a class="el" href="../../d4/db7/a03863.html#aa62021ba8da0171188d5327cade2d79c">EP_EWT_NUM_CREATURES</a>]</td></tr>
-<tr class="separator:adae054ab5e44ffc0c7a528c417aff670"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9af729b1e6ed3b993d963037395a531"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d1/d32/a10174.html">creature_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ab9af729b1e6ed3b993d963037395a531">EP_PWT_FlightMaster</a> = {17209, <a class="el" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 2987.5f, -3049.11f, 120.126f, 5.75959f}</td></tr>
-<tr class="separator:ab9af729b1e6ed3b993d963037395a531"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab95dc19577389e3d84821796921e3cc1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/d10/a10170.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ab95dc19577389e3d84821796921e3cc1">EP_NPT_LordaeronShrine</a> = {181682, <a class="el" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3167.72f, -4355.91f, 138.785f, 1.69297f, 0.0f, 0.0f, 0.748956f, 0.66262f}</td></tr>
-<tr class="separator:ab95dc19577389e3d84821796921e3cc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a876ea3aeffde8ab2532706d13ae6e2ce"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a876ea3aeffde8ab2532706d13ae6e2ce">OutdoorPvPHPBuffZones</a> [<a class="el" href="../../d4/db7/a03863.html#a01aada98c8079ea71a361cba06e10640">OutdoorPvPHPBuffZonesNum</a>]</td></tr>
+<tr class="separator:a876ea3aeffde8ab2532706d13ae6e2ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3be5b978c2160f84a013071d76c121aa"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a3be5b978c2160f84a013071d76c121aa">HP_CREDITMARKER</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {19032, 19028, 19029}</td></tr>
+<tr class="separator:a3be5b978c2160f84a013071d76c121aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a39817e7479fa79181e8c99bb83ca5c"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a8a39817e7479fa79181e8c99bb83ca5c">HP_MAP_N</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba92cd2acd2858d2163698c0b446b52b14">WORLD_STATE_OPVP_HP_BROKENHILL_N</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba359fcd3e8b0d320322f99187d076c8fc">WORLD_STATE_OPVP_HP_OVERLOOK_N</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba775442cf2313be1046869472d623f0df">WORLD_STATE_OPVP_HP_STADIUM_N</a> }</td></tr>
+<tr class="separator:a8a39817e7479fa79181e8c99bb83ca5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab540dae1c3c44e27c4441e9d56e10d1d"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ab540dae1c3c44e27c4441e9d56e10d1d">HP_MAP_A</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba2255a4776c6937cbaa6d785eefb689c3">WORLD_STATE_OPVP_HP_BROKENHILL_A</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21bade1759150467ad69f2d4d282a2df12aa">WORLD_STATE_OPVP_HP_OVERLOOK_A</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21bac1434efd35a4f66f82aa6213c27ec5bc">WORLD_STATE_OPVP_HP_STADIUM_A</a> }</td></tr>
+<tr class="separator:ab540dae1c3c44e27c4441e9d56e10d1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab15c51d80dc177784041dedc55e39c56"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ab15c51d80dc177784041dedc55e39c56">HP_MAP_H</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21bac3858ea585ab107f67e032b7245bd4f4">WORLD_STATE_OPVP_HP_BROKENHILL_H</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21baa0a8d7a0d775253aef0bae58b4cd6b08">WORLD_STATE_OPVP_HP_OVERLOOK_H</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba723d63b883cd6320d72186d41a82d43e">WORLD_STATE_OPVP_HP_STADIUM_H</a> }</td></tr>
+<tr class="separator:ab15c51d80dc177784041dedc55e39c56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9c6e470e4a4759ce2e77f88661521bb"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ab9c6e470e4a4759ce2e77f88661521bb">HP_TowerArtKit_A</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {65, 62, 67}</td></tr>
+<tr class="separator:ab9c6e470e4a4759ce2e77f88661521bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6791490624d9d1c2995c6a13659f8692"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a6791490624d9d1c2995c6a13659f8692">HP_TowerArtKit_H</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {64, 61, 68}</td></tr>
+<tr class="separator:a6791490624d9d1c2995c6a13659f8692"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae64775fc45fae501937d72c9d55c8dc1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ae64775fc45fae501937d72c9d55c8dc1">HP_TowerArtKit_N</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {66, 63, 69}</td></tr>
+<tr class="separator:ae64775fc45fae501937d72c9d55c8dc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23f671f25a8a3e3db11f4a0953b34773"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d0/d6b/a10187.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#a23f671f25a8a3e3db11f4a0953b34773">HPCapturePoints</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>]</td></tr>
+<tr class="separator:a23f671f25a8a3e3db11f4a0953b34773"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6571d986fbbf7b469cf495033f46516"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d0/d6b/a10187.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a03863.html#ae6571d986fbbf7b469cf495033f46516">HPTowerFlags</a> [<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>]</td></tr>
+<tr class="separator:ae6571d986fbbf7b469cf495033f46516"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a01aada98c8079ea71a361cba06e10640" name="a01aada98c8079ea71a361cba06e10640"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01aada98c8079ea71a361cba06e10640">&#9670;&#160;</a></span>OutdoorPvPHPBuffZonesNum</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define OutdoorPvPHPBuffZonesNum&#160;&#160;&#160;6</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0b5226d66242870e9f2bd6067ac871da" name="a0b5226d66242870e9f2bd6067ac871da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b5226d66242870e9f2bd6067ac871da">&#9670;&#160;</a></span>EP_GoSummons</h2>
+<a id="a09664100577cc20866b21589f3c1eb4a" name="a09664100577cc20866b21589f3c1eb4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09664100577cc20866b21589f3c1eb4a">&#9670;&#160;</a></span>OutdoorPvPHPSpells</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871da">EP_GoSummons</a></td>
+          <td class="memname">enum <a class="el" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4a">OutdoorPvPHPSpells</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0" name="a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0"></a>EP_NPT_BUFF&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9" name="a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9"></a>EP_NPT_FLAGS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0" name="a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0"></a>EP_EWT_FLAGS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc" name="a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc"></a>EP_CGT_FLAGS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d" name="a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d"></a>EP_PWT_FLAGS&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc" name="a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc"></a>AlliancePlayerKillReward&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45" name="a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45"></a>HordePlayerKillReward&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a" name="a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a"></a>AllianceBuff&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2" name="a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2"></a>HordeBuff&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0">EP_NPT_BUFF</a> = 0,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9">EP_NPT_FLAGS</a>,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0">EP_EWT_FLAGS</a>,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc">EP_CGT_FLAGS</a>,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d">EP_PWT_FLAGS</a></div>
-<div class="line"><span class="lineno">   71</span>};</div>
-<div class="ttc" id="aa03863_html_a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9"><div class="ttname"><a href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9">EP_NPT_FLAGS</a></div><div class="ttdeci">@ EP_NPT_FLAGS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:67</div></div>
-<div class="ttc" id="aa03863_html_a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0"><div class="ttname"><a href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0">EP_EWT_FLAGS</a></div><div class="ttdeci">@ EP_EWT_FLAGS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:68</div></div>
-<div class="ttc" id="aa03863_html_a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc"><div class="ttname"><a href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc">EP_CGT_FLAGS</a></div><div class="ttdeci">@ EP_CGT_FLAGS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:69</div></div>
-<div class="ttc" id="aa03863_html_a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0"><div class="ttname"><a href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0">EP_NPT_BUFF</a></div><div class="ttdeci">@ EP_NPT_BUFF</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:66</div></div>
-<div class="ttc" id="aa03863_html_a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d"><div class="ttname"><a href="../../d4/db7/a03863.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d">EP_PWT_FLAGS</a></div><div class="ttdeci">@ EP_PWT_FLAGS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:70</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc">AlliancePlayerKillReward</a> = 32155,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45">HordePlayerKillReward</a> = 32158,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a">AllianceBuff</a> = 32071,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2">HordeBuff</a> = 32049</div>
+<div class="line"><span class="lineno">   42</span>};</div>
+<div class="ttc" id="aa03863_html_a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a"><div class="ttname"><a href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a">AllianceBuff</a></div><div class="ttdeci">@ AllianceBuff</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:40</div></div>
+<div class="ttc" id="aa03863_html_a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45"><div class="ttname"><a href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45">HordePlayerKillReward</a></div><div class="ttdeci">@ HordePlayerKillReward</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:39</div></div>
+<div class="ttc" id="aa03863_html_a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2"><div class="ttname"><a href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2">HordeBuff</a></div><div class="ttdeci">@ HordeBuff</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:41</div></div>
+<div class="ttc" id="aa03863_html_a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc"><div class="ttname"><a href="../../d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc">AlliancePlayerKillReward</a></div><div class="ttdeci">@ AlliancePlayerKillReward</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:38</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="ad9bf5a52eb45ee872984e5b5001e3847" name="ad9bf5a52eb45ee872984e5b5001e3847"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9bf5a52eb45ee872984e5b5001e3847">&#9670;&#160;</a></span>EP_Summons</h2>
+<a id="ad618152baad1f5a1d7f70f40941e8f33" name="ad618152baad1f5a1d7f70f40941e8f33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad618152baad1f5a1d7f70f40941e8f33">&#9670;&#160;</a></span>OutdoorPvPHPTowerType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847">EP_Summons</a></td>
+          <td class="memname">enum <a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33">OutdoorPvPHPTowerType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c" name="ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c"></a>EP_EWT_COMMANDER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3" name="ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3"></a>EP_EWT_SOLDIER1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7" name="ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7"></a>EP_EWT_SOLDIER2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc" name="ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc"></a>EP_EWT_SOLDIER3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d" name="ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d"></a>EP_EWT_SOLDIER4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89" name="ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89"></a>EP_PWT_FLIGHTMASTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9" name="ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9"></a>HP_TOWER_BROKEN_HILL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447" name="ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447"></a>HP_TOWER_OVERLOOK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84" name="ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84"></a>HP_TOWER_STADIUM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355" name="ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355"></a>HP_TOWER_NUM&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c">EP_EWT_COMMANDER</a> = 0,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3">EP_EWT_SOLDIER1</a>,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7">EP_EWT_SOLDIER2</a>,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc">EP_EWT_SOLDIER3</a>,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d">EP_EWT_SOLDIER4</a>,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89">EP_PWT_FLIGHTMASTER</a>,</div>
-<div class="line"><span class="lineno">   62</span>};</div>
-<div class="ttc" id="aa03863_html_ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c"><div class="ttname"><a href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c">EP_EWT_COMMANDER</a></div><div class="ttdeci">@ EP_EWT_COMMANDER</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:56</div></div>
-<div class="ttc" id="aa03863_html_ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89"><div class="ttname"><a href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89">EP_PWT_FLIGHTMASTER</a></div><div class="ttdeci">@ EP_PWT_FLIGHTMASTER</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:61</div></div>
-<div class="ttc" id="aa03863_html_ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7"><div class="ttname"><a href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7">EP_EWT_SOLDIER2</a></div><div class="ttdeci">@ EP_EWT_SOLDIER2</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:58</div></div>
-<div class="ttc" id="aa03863_html_ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d"><div class="ttname"><a href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d">EP_EWT_SOLDIER4</a></div><div class="ttdeci">@ EP_EWT_SOLDIER4</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:60</div></div>
-<div class="ttc" id="aa03863_html_ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3"><div class="ttname"><a href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3">EP_EWT_SOLDIER1</a></div><div class="ttdeci">@ EP_EWT_SOLDIER1</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:57</div></div>
-<div class="ttc" id="aa03863_html_ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc"><div class="ttname"><a href="../../d4/db7/a03863.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc">EP_EWT_SOLDIER3</a></div><div class="ttdeci">@ EP_EWT_SOLDIER3</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:59</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="acb017cec20a6986c80544c74f4755313" name="acb017cec20a6986c80544c74f4755313"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb017cec20a6986c80544c74f4755313">&#9670;&#160;</a></span>EP_Towers</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313">EP_Towers</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535" name="acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535"></a>EP_EWT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869" name="acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869"></a>EP_NPT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e" name="acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e"></a>EP_PWT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda" name="acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda"></a>EP_CGT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73" name="acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73"></a>EP_TOWER_NUM&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535">EP_EWT</a> = 0, <span class="comment">// plaguelands 03</span></div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869">EP_NPT</a>, <span class="comment">// plaguelands 01</span></div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e">EP_PWT</a>, <span class="comment">// plaguelands 04</span></div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda">EP_CGT</a>, <span class="comment">// plaguelands 02</span></div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a></div>
-<div class="line"><span class="lineno">   80</span>};</div>
-<div class="ttc" id="aa03863_html_acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e"><div class="ttname"><a href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e">EP_PWT</a></div><div class="ttdeci">@ EP_PWT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:77</div></div>
-<div class="ttc" id="aa03863_html_acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869"><div class="ttname"><a href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869">EP_NPT</a></div><div class="ttdeci">@ EP_NPT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:76</div></div>
-<div class="ttc" id="aa03863_html_acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73"><div class="ttname"><a href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a></div><div class="ttdeci">@ EP_TOWER_NUM</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:79</div></div>
-<div class="ttc" id="aa03863_html_acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda"><div class="ttname"><a href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda">EP_CGT</a></div><div class="ttdeci">@ EP_CGT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:78</div></div>
-<div class="ttc" id="aa03863_html_acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535"><div class="ttname"><a href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535">EP_EWT</a></div><div class="ttdeci">@ EP_EWT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:75</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a803bc1884225e56dd663001b104aeb2c" name="a803bc1884225e56dd663001b104aeb2c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a803bc1884225e56dd663001b104aeb2c">&#9670;&#160;</a></span>EP_TowerStates</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2c">EP_TowerStates</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c" name="a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c"></a>EP_TS_N&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589" name="a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589"></a>EP_TS_N_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7" name="a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7"></a>EP_TS_N_H&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf" name="a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf"></a>EP_TS_A_P&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866" name="a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866"></a>EP_TS_H_P&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0" name="a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0"></a>EP_TS_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b" name="a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b"></a>EP_TS_H&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
-<div class="line"><span class="lineno">  127</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c">EP_TS_N</a> = 1,</div>
-<div class="line"><span class="lineno">  128</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589">EP_TS_N_A</a> = 2,</div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7">EP_TS_N_H</a> = 4,</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf">EP_TS_A_P</a> = 8,</div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866">EP_TS_H_P</a> = 16,</div>
-<div class="line"><span class="lineno">  132</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0">EP_TS_A</a> = 32,</div>
-<div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b">EP_TS_H</a> = 64</div>
-<div class="line"><span class="lineno">  134</span>};</div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c">EP_TS_N</a></div><div class="ttdeci">@ EP_TS_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:127</div></div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0">EP_TS_A</a></div><div class="ttdeci">@ EP_TS_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:132</div></div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589">EP_TS_N_A</a></div><div class="ttdeci">@ EP_TS_N_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:128</div></div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7">EP_TS_N_H</a></div><div class="ttdeci">@ EP_TS_N_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:129</div></div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866">EP_TS_H_P</a></div><div class="ttdeci">@ EP_TS_H_P</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:131</div></div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b">EP_TS_H</a></div><div class="ttdeci">@ EP_TS_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:133</div></div>
-<div class="ttc" id="aa03863_html_a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf"><div class="ttname"><a href="../../d4/db7/a03863.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf">EP_TS_A_P</a></div><div class="ttdeci">@ EP_TS_A_P</div><div class="ttdef"><b>Definition:</b> OutdoorPvPEP.h:130</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9">HP_TOWER_BROKEN_HILL</a> = 0,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447">HP_TOWER_OVERLOOK</a> = 1,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84">HP_TOWER_STADIUM</a> = 2,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a> = 3</div>
+<div class="line"><span class="lineno">   50</span>};</div>
+<div class="ttc" id="aa03863_html_ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84"><div class="ttname"><a href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84">HP_TOWER_STADIUM</a></div><div class="ttdeci">@ HP_TOWER_STADIUM</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:48</div></div>
+<div class="ttc" id="aa03863_html_ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355"><div class="ttname"><a href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a></div><div class="ttdeci">@ HP_TOWER_NUM</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:49</div></div>
+<div class="ttc" id="aa03863_html_ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447"><div class="ttname"><a href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447">HP_TOWER_OVERLOOK</a></div><div class="ttdeci">@ HP_TOWER_OVERLOOK</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:47</div></div>
+<div class="ttc" id="aa03863_html_ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9"><div class="ttname"><a href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9">HP_TOWER_BROKEN_HILL</a></div><div class="ttdeci">@ HP_TOWER_BROKEN_HILL</div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.h:46</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a39190e48b2170e2d0d0628b06d6da8f1" name="a39190e48b2170e2d0d0628b06d6da8f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a39190e48b2170e2d0d0628b06d6da8f1">&#9670;&#160;</a></span>EP_AllianceBuffs</h2>
+<a id="a3be5b978c2160f84a013071d76c121aa" name="a3be5b978c2160f84a013071d76c121aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3be5b978c2160f84a013071d76c121aa">&#9670;&#160;</a></span>HP_CREDITMARKER</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_AllianceBuffs[4] = {11413, 11414, 11415, 1386}</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_CREDITMARKER[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {19032, 19028, 19029}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00700">OutdoorPvPEP::BuffTeams()</a>, <a class="el" href="../../#l00668">OutdoorPvPEP::HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00684">OutdoorPvPEP::HandlePlayerLeaveZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>.</p>
 
 </div>
 </div>
-<a id="a4eb66c50d410c58b22546406eda37e5f" name="a4eb66c50d410c58b22546406eda37e5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4eb66c50d410c58b22546406eda37e5f">&#9670;&#160;</a></span>EP_CGT_CM</h2>
+<a id="ab540dae1c3c44e27c4441e9d56e10d1d" name="ab540dae1c3c44e27c4441e9d56e10d1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab540dae1c3c44e27c4441e9d56e10d1d">&#9670;&#160;</a></span>HP_MAP_A</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_CGT_CM = 17689</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_MAP_A[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba2255a4776c6937cbaa6d785eefb689c3">WORLD_STATE_OPVP_HP_BROKENHILL_A</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21bade1759150467ad69f2d4d282a2df12aa">WORLD_STATE_OPVP_HP_OVERLOOK_A</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21bac1434efd35a4f66f82aa6213c27ec5bc">WORLD_STATE_OPVP_HP_STADIUM_A</a> }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00321">OPvPCapturePointEP_CGT::ChangeState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>, <a class="el" href="../../#l00280">OPvPCapturePointHP::FillInitialWorldStates()</a>, and <a class="el" href="../../#l00140">OutdoorPvPHP::SendRemoveWorldStates()</a>.</p>
 
 </div>
 </div>
-<a id="a9bf83dc59a4ca7a56297e572ee782e9e" name="a9bf83dc59a4ca7a56297e572ee782e9e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bf83dc59a4ca7a56297e572ee782e9e">&#9670;&#160;</a></span>EP_EWT_CM</h2>
+<a id="ab15c51d80dc177784041dedc55e39c56" name="ab15c51d80dc177784041dedc55e39c56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab15c51d80dc177784041dedc55e39c56">&#9670;&#160;</a></span>HP_MAP_H</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_EWT_CM = 17690</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_MAP_H[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21bac3858ea585ab107f67e032b7245bd4f4">WORLD_STATE_OPVP_HP_BROKENHILL_H</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21baa0a8d7a0d775253aef0bae58b4cd6b08">WORLD_STATE_OPVP_HP_OVERLOOK_H</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba723d63b883cd6320d72186d41a82d43e">WORLD_STATE_OPVP_HP_STADIUM_H</a> }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00041">OPvPCapturePointEP_EWT::ChangeState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>, <a class="el" href="../../#l00280">OPvPCapturePointHP::FillInitialWorldStates()</a>, and <a class="el" href="../../#l00140">OutdoorPvPHP::SendRemoveWorldStates()</a>.</p>
 
 </div>
 </div>
-<a id="aa62021ba8da0171188d5327cade2d79c" name="aa62021ba8da0171188d5327cade2d79c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa62021ba8da0171188d5327cade2d79c">&#9670;&#160;</a></span>EP_EWT_NUM_CREATURES</h2>
+<a id="a8a39817e7479fa79181e8c99bb83ca5c" name="a8a39817e7479fa79181e8c99bb83ca5c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a39817e7479fa79181e8c99bb83ca5c">&#9670;&#160;</a></span>HP_MAP_N</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> EP_EWT_NUM_CREATURES = 5</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_MAP_N[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba92cd2acd2858d2163698c0b446b52b14">WORLD_STATE_OPVP_HP_BROKENHILL_N</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba359fcd3e8b0d320322f99187d076c8fc">WORLD_STATE_OPVP_HP_OVERLOOK_N</a>, <a class="el" href="../../d8/d11/a01178.html#ae6baf1e387f45e029dcac6faea13c21ba775442cf2313be1046869472d623f0df">WORLD_STATE_OPVP_HP_STADIUM_N</a> }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00153">OPvPCapturePointEP_EWT::SummonSupportUnitAtNorthpassTower()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>, <a class="el" href="../../#l00280">OPvPCapturePointHP::FillInitialWorldStates()</a>, and <a class="el" href="../../#l00140">OutdoorPvPHP::SendRemoveWorldStates()</a>.</p>
 
 </div>
 </div>
-<a id="a13c9b3f39108790585875365648e6a51" name="a13c9b3f39108790585875365648e6a51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13c9b3f39108790585875365648e6a51">&#9670;&#160;</a></span>EP_EWT_Summons_A</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d1/d32/a10174.html">creature_type</a> EP_EWT_Summons_A[<a class="el" href="../../d4/db7/a03863.html#aa62021ba8da0171188d5327cade2d79c">EP_EWT_NUM_CREATURES</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    {17635, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3167.61f, -4352.09f, 138.20f, 4.5811f},</div>
-<div class="line">    {17647, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3172.74f, -4352.99f, 139.14f, 4.9873f},</div>
-<div class="line">    {17647, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3165.89f, -4354.46f, 138.67f, 3.7244f},</div>
-<div class="line">    {17647, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3164.65f, -4350.26f, 138.22f, 2.4794f},</div>
-<div class="line">    {17647, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3169.91f, -4349.68f, 138.37f, 0.7444f}</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01688_html_a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339"><div class="ttname"><a href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a></div><div class="ttdeci">@ MAP_EASTERN_KINGDOMS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:185</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00153">OPvPCapturePointEP_EWT::SummonSupportUnitAtNorthpassTower()</a>.</p>
-
-</div>
-</div>
-<a id="adae054ab5e44ffc0c7a528c417aff670" name="adae054ab5e44ffc0c7a528c417aff670"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adae054ab5e44ffc0c7a528c417aff670">&#9670;&#160;</a></span>EP_EWT_Summons_H</h2>
+<a id="ab9c6e470e4a4759ce2e77f88661521bb" name="ab9c6e470e4a4759ce2e77f88661521bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9c6e470e4a4759ce2e77f88661521bb">&#9670;&#160;</a></span>HP_TowerArtKit_A</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d1/d32/a10174.html">creature_type</a> EP_EWT_Summons_H[<a class="el" href="../../d4/db7/a03863.html#aa62021ba8da0171188d5327cade2d79c">EP_EWT_NUM_CREATURES</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    {17995, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3167.61f, -4352.09f, 138.20f, 4.5811f},</div>
-<div class="line">    {17996, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3172.74f, -4352.99f, 139.14f, 4.9873f},</div>
-<div class="line">    {17996, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3165.89f, -4354.46f, 138.67f, 3.7244f},</div>
-<div class="line">    {17996, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3164.65f, -4350.26f, 138.22f, 2.4794f},</div>
-<div class="line">    {17996, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3169.91f, -4349.68f, 138.37f, 0.7444f}</div>
-<div class="line">}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00153">OPvPCapturePointEP_EWT::SummonSupportUnitAtNorthpassTower()</a>.</p>
-
-</div>
-</div>
-<a id="a1751b41516eaecd46b28e8a1f80c6f07" name="a1751b41516eaecd46b28e8a1f80c6f07"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1751b41516eaecd46b28e8a1f80c6f07">&#9670;&#160;</a></span>EP_GraveyardId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_GraveyardId = 927</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_TowerArtKit_A[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {65, 62, 67}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00433">OPvPCapturePointEP_CGT::LinkGraveyard()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>.</p>
 
 </div>
 </div>
-<a id="a3b7f1cd13477df42bd29e674cb329ad4" name="a3b7f1cd13477df42bd29e674cb329ad4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3b7f1cd13477df42bd29e674cb329ad4">&#9670;&#160;</a></span>EP_GraveyardZone</h2>
+<a id="a6791490624d9d1c2995c6a13659f8692" name="a6791490624d9d1c2995c6a13659f8692"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6791490624d9d1c2995c6a13659f8692">&#9670;&#160;</a></span>HP_TowerArtKit_H</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_GraveyardZone = <a class="el" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a></td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_TowerArtKit_H[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {64, 61, 68}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00041">OPvPCapturePointEP_EWT::ChangeState()</a>, <a class="el" href="../../#l00176">OPvPCapturePointEP_NPT::ChangeState()</a>, <a class="el" href="../../#l00321">OPvPCapturePointEP_CGT::ChangeState()</a>, <a class="el" href="../../#l00451">OPvPCapturePointEP_PWT::ChangeState()</a>, and <a class="el" href="../../#l00433">OPvPCapturePointEP_CGT::LinkGraveyard()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>.</p>
 
 </div>
 </div>
-<a id="a870abed831404a02d171e9cf1bd741cb" name="a870abed831404a02d171e9cf1bd741cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a870abed831404a02d171e9cf1bd741cb">&#9670;&#160;</a></span>EP_HordeBuffs</h2>
+<a id="ae64775fc45fae501937d72c9d55c8dc1" name="ae64775fc45fae501937d72c9d55c8dc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae64775fc45fae501937d72c9d55c8dc1">&#9670;&#160;</a></span>HP_TowerArtKit_N</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_HordeBuffs[4] = {30880, 30683, 30682, 29520}</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_TowerArtKit_N[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {66, 63, 69}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00700">OutdoorPvPEP::BuffTeams()</a>, <a class="el" href="../../#l00668">OutdoorPvPEP::HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00684">OutdoorPvPEP::HandlePlayerLeaveZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>.</p>
 
 </div>
 </div>
-<a id="aad6c6d1e803fa77420b7d8bc5450975a" name="aad6c6d1e803fa77420b7d8bc5450975a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad6c6d1e803fa77420b7d8bc5450975a">&#9670;&#160;</a></span>EP_NPT_CM</h2>
+<a id="a23f671f25a8a3e3db11f4a0953b34773" name="a23f671f25a8a3e3db11f4a0953b34773"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23f671f25a8a3e3db11f4a0953b34773">&#9670;&#160;</a></span>HPCapturePoints</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_NPT_CM = 17696</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00176">OPvPCapturePointEP_NPT::ChangeState()</a>.</p>
-
-</div>
-</div>
-<a id="ab95dc19577389e3d84821796921e3cc1" name="ab95dc19577389e3d84821796921e3cc1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab95dc19577389e3d84821796921e3cc1">&#9670;&#160;</a></span>EP_NPT_LordaeronShrine</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d2/d10/a10170.html">go_type</a> EP_NPT_LordaeronShrine = {181682, <a class="el" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3167.72f, -4355.91f, 138.785f, 1.69297f, 0.0f, 0.0f, 0.748956f, 0.66262f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00298">OPvPCapturePointEP_NPT::SummonGO()</a>.</p>
-
-</div>
-</div>
-<a id="a60340c7ab3a1dd51078336de7759f588" name="a60340c7ab3a1dd51078336de7759f588"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60340c7ab3a1dd51078336de7759f588">&#9670;&#160;</a></span>EP_NUM_CREATURES</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> EP_NUM_CREATURES = 6</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a25cbe7281f91d6a29b183f97340385ef" name="a25cbe7281f91d6a29b183f97340385ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a25cbe7281f91d6a29b183f97340385ef">&#9670;&#160;</a></span>EP_PWT_CM</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EP_PWT_CM = 17698</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00451">OPvPCapturePointEP_PWT::ChangeState()</a>.</p>
-
-</div>
-</div>
-<a id="ab9af729b1e6ed3b993d963037395a531" name="ab9af729b1e6ed3b993d963037395a531"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9af729b1e6ed3b993d963037395a531">&#9670;&#160;</a></span>EP_PWT_FlightMaster</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d1/d32/a10174.html">creature_type</a> EP_PWT_FlightMaster = {17209, <a class="el" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 2987.5f, -3049.11f, 120.126f, 5.75959f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00573">OPvPCapturePointEP_PWT::SummonFlightMaster()</a>.</p>
-
-</div>
-</div>
-<a id="a2acf7be696695ceaa968a2eac356e562" name="a2acf7be696695ceaa968a2eac356e562"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2acf7be696695ceaa968a2eac356e562">&#9670;&#160;</a></span>EPBuffZones</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> EPBuffZones[<a class="el" href="../../d4/db7/a03863.html#a8e411865d0acd6cd6c6f10172adf4ad4">EPBuffZonesNum</a>]</td>
+          <td class="memname">const <a class="el" href="../../d0/d6b/a10187.html">go_type</a> HPCapturePoints[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">{</div>
-<div class="line">    <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line">    <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14">AREA_STRATHOLME</a>,</div>
-<div class="line">    <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a61d0b90c076975fea8216401c4b85921">AREA_SCHOLOMANCE</a></div>
+<div class="line">    {182175, <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>, -471.462f, 3451.09f, 34.6432f, 0.174533f, 0.0f, 0.0f, 0.087156f, 0.996195f},      </div>
+<div class="line">    {182174, <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>, -184.889f, 3476.93f, 38.205f, -0.017453f, 0.0f, 0.0f, 0.008727f, -0.999962f},     </div>
+<div class="line">    {182173, <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>, -290.016f, 3702.42f, 56.6729f, 0.034907f, 0.0f, 0.0f, 0.017452f, 0.999848f}     </div>
 <div class="line">}</div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14">AREA_STRATHOLME</a></div><div class="ttdeci">@ AREA_STRATHOLME</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:86</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3a61d0b90c076975fea8216401c4b85921"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a61d0b90c076975fea8216401c4b85921">AREA_SCHOLOMANCE</a></div><div class="ttdeci">@ AREA_SCHOLOMANCE</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:87</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a></div><div class="ttdeci">@ AREA_EASTERN_PLAGUELANDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:53</div></div>
+<div class="ttc" id="aa01694_html_a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94"><div class="ttname"><a href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a></div><div class="ttdeci">@ MAP_OUTLAND</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:217</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00632">OutdoorPvPEP::SetupOutdoorPvP()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00038">OPvPCapturePointHP::OPvPCapturePointHP()</a>.</p>
 
 </div>
 </div>
-<a id="a8e411865d0acd6cd6c6f10172adf4ad4" name="a8e411865d0acd6cd6c6f10172adf4ad4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e411865d0acd6cd6c6f10172adf4ad4">&#9670;&#160;</a></span>EPBuffZonesNum</h2>
+<a id="ae6571d986fbbf7b469cf495033f46516" name="ae6571d986fbbf7b469cf495033f46516"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6571d986fbbf7b469cf495033f46516">&#9670;&#160;</a></span>HPTowerFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> EPBuffZonesNum = 3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00632">OutdoorPvPEP::SetupOutdoorPvP()</a>.</p>
-
-</div>
-</div>
-<a id="a45924b22012276ef73ca0a50fa786e52" name="a45924b22012276ef73ca0a50fa786e52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45924b22012276ef73ca0a50fa786e52">&#9670;&#160;</a></span>EPCapturePoints</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d2/d10/a10170.html">go_type</a> EPCapturePoints[<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a>]</td>
+          <td class="memname">const <a class="el" href="../../d0/d6b/a10187.html">go_type</a> HPTowerFlags[<a class="el" href="../../d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">{</div>
-<div class="line">    {182097, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 2574.51f, -4794.89f, 144.704f, -1.45003f, -0.097056f, 0.095578f, -0.656229f, 0.742165f},</div>
-<div class="line">    {181899, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3181.08f, -4379.36f, 174.123f, -2.03472f, -0.065392f, 0.119494f, -0.842275f, 0.521553f},</div>
-<div class="line">    {182098, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 2962.71f, -3042.31f, 154.789f, 2.08426f, -0.074807f, -0.113837f, 0.855928f, 0.49883f},</div>
-<div class="line">    {182096, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 1860.85f, -3731.23f, 196.716f, -2.53214f, 0.033967f, -0.131914f, 0.944741f, -0.298177f}</div>
+<div class="line">    {183514, <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>, -467.078f, 3528.17f, 64.7121f, 3.14159f, 0.0f, 0.0f, 1.0f, 0.0f},  </div>
+<div class="line">    {182525, <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>, -187.887f, 3459.38f, 60.0403f, -3.12414f, 0.0f, 0.0f, 0.999962f, -0.008727f}, </div>
+<div class="line">    {183515, <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>, -289.610f, 3696.83f, 75.9447f, 3.12414f, 0.0f, 0.0f, 0.999962f, 0.008727f} </div>
 <div class="line">}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00314">OPvPCapturePointEP_CGT::OPvPCapturePointEP_CGT()</a>, <a class="el" href="../../#l00034">OPvPCapturePointEP_EWT::OPvPCapturePointEP_EWT()</a>, <a class="el" href="../../#l00169">OPvPCapturePointEP_NPT::OPvPCapturePointEP_NPT()</a>, and <a class="el" href="../../#l00444">OPvPCapturePointEP_PWT::OPvPCapturePointEP_PWT()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00038">OPvPCapturePointHP::OPvPCapturePointHP()</a>.</p>
 
 </div>
 </div>
-<a id="af18f636f66cc238611a1f2dd03b2ddcb" name="af18f636f66cc238611a1f2dd03b2ddcb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af18f636f66cc238611a1f2dd03b2ddcb">&#9670;&#160;</a></span>EPTowerFlags</h2>
+<a id="a876ea3aeffde8ab2532706d13ae6e2ce" name="a876ea3aeffde8ab2532706d13ae6e2ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a876ea3aeffde8ab2532706d13ae6e2ce">&#9670;&#160;</a></span>OutdoorPvPHPBuffZones</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/d10/a10170.html">go_type</a> EPTowerFlags[<a class="el" href="../../d4/db7/a03863.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73">EP_TOWER_NUM</a>]</td>
+          <td class="memname">const <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> OutdoorPvPHPBuffZones[<a class="el" href="../../d4/db7/a03863.html#a01aada98c8079ea71a361cba06e10640">OutdoorPvPHPBuffZonesNum</a>]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">{</div>
-<div class="line">    {182106, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 2569.60f, -4772.93f, 115.399f, 2.72271f, 0.0f, 0.0f, 0.978148f, 0.207912f},</div>
-<div class="line">    {182106, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 3148.17f, -4365.51f, 145.029f, 1.53589f, 0.0f, 0.0f, 0.694658f, 0.71934f},</div>
-<div class="line">    {182106, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 2992.63f, -3022.95f, 125.593f, 3.03687f, 0.0f, 0.0f, 0.99863f, 0.052336f},</div>
-<div class="line">    {182106, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, 1838.42f, -3703.56f, 167.713f, 0.890118f, 0.0f, 0.0f, 0.430511f, 0.902585f}</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3ae0ad2662cc4bd03a96e9f7bfa59d9e49">AREA_HELLFIRE_PENINSULA</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3a640280d846ea0fc5548fdad46c59862e">AREA_HELLFIRE_CITADEL</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3abc36c970b4da58e237ab991b3013cf43">AREA_HELLFIRE_RAMPARTS</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8">AREA_THE_BLOOD_FURNACE</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3afad99bea66940d7ebd3572a25d0ac8fb">AREA_THE_SHATTERED_HALLS</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3ace3833850a496ba22004a52e4c70a5f5">AREA_MAGTHERIDONS_LAIR</a></div>
 <div class="line">}</div>
+<div class="ttc" id="aa01694_html_ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8"><div class="ttname"><a href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8">AREA_THE_BLOOD_FURNACE</a></div><div class="ttdeci">@ AREA_THE_BLOOD_FURNACE</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:121</div></div>
+<div class="ttc" id="aa01694_html_ad26fccabf338d55f9fdcce090c8a0aa3a640280d846ea0fc5548fdad46c59862e"><div class="ttname"><a href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3a640280d846ea0fc5548fdad46c59862e">AREA_HELLFIRE_CITADEL</a></div><div class="ttdeci">@ AREA_HELLFIRE_CITADEL</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:111</div></div>
+<div class="ttc" id="aa01694_html_ad26fccabf338d55f9fdcce090c8a0aa3abc36c970b4da58e237ab991b3013cf43"><div class="ttname"><a href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3abc36c970b4da58e237ab991b3013cf43">AREA_HELLFIRE_RAMPARTS</a></div><div class="ttdeci">@ AREA_HELLFIRE_RAMPARTS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:110</div></div>
+<div class="ttc" id="aa01694_html_ad26fccabf338d55f9fdcce090c8a0aa3ace3833850a496ba22004a52e4c70a5f5"><div class="ttname"><a href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3ace3833850a496ba22004a52e4c70a5f5">AREA_MAGTHERIDONS_LAIR</a></div><div class="ttdeci">@ AREA_MAGTHERIDONS_LAIR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:132</div></div>
+<div class="ttc" id="aa01694_html_ad26fccabf338d55f9fdcce090c8a0aa3ae0ad2662cc4bd03a96e9f7bfa59d9e49"><div class="ttname"><a href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3ae0ad2662cc4bd03a96e9f7bfa59d9e49">AREA_HELLFIRE_PENINSULA</a></div><div class="ttdeci">@ AREA_HELLFIRE_PENINSULA</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:98</div></div>
+<div class="ttc" id="aa01694_html_ad26fccabf338d55f9fdcce090c8a0aa3afad99bea66940d7ebd3572a25d0ac8fb"><div class="ttname"><a href="../../d4/d8e/a01694.html#ad26fccabf338d55f9fdcce090c8a0aa3afad99bea66940d7ebd3572a25d0ac8fb">AREA_THE_SHATTERED_HALLS</a></div><div class="ttdeci">@ AREA_THE_SHATTERED_HALLS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:122</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00314">OPvPCapturePointEP_CGT::OPvPCapturePointEP_CGT()</a>, <a class="el" href="../../#l00034">OPvPCapturePointEP_EWT::OPvPCapturePointEP_EWT()</a>, <a class="el" href="../../#l00169">OPvPCapturePointEP_NPT::OPvPCapturePointEP_NPT()</a>, and <a class="el" href="../../#l00444">OPvPCapturePointEP_PWT::OPvPCapturePointEP_PWT()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">OPvPCapturePointHP::ChangeState()</a>, and <a class="el" href="../../#l00071">OutdoorPvPHP::SetupOutdoorPvP()</a>.</p>
 
 </div>
 </div>
@@ -703,8 +447,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d4/db7/a03863.html">OutdoorPvPEP.h</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:48:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d4/db7/a03863.html">OutdoorPvPHP.h</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:50:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

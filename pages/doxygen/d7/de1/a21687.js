@@ -1,8 +1,9 @@
 var a21687 =
 [
-    [ "HandleEffectRemove", "d7/de1/a21687.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d7/de1/a21687.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d7/de1/a21687.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d7/de1/a21687.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d7/de1/a21687.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_azure_sorcerorAI", "d7/de1/a21687.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "d7/de1/a21687.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "d7/de1/a21687.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "d7/de1/a21687.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "d7/de1/a21687.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "d7/de1/a21687.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

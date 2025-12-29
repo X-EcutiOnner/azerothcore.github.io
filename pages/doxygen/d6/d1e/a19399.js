@@ -1,8 +1,6 @@
 var a19399 =
 [
-    [ "HandleAfterCast", "d6/d1e/a19399.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d6/d1e/a19399.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d6/d1e/a19399.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d6/d1e/a19399.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d6/d1e/a19399.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_razuvious_minionAI", "de/d60/a19403.html", "de/d60/a19403" ],
+    [ "boss_razuvious_minion", "d6/d1e/a19399.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d6/d1e/a19399.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

@@ -1,6 +1,6 @@
 var a12203 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "d3/d0c/a12207.html", "d3/d0c/a12207" ],
-    [ "instance_blackrock_depths", "dd/dbf/a12203.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "dd/dbf/a12203.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "boss_hedrumAI", "d3/d0c/a12207.html", "d3/d0c/a12207" ],
+    [ "boss_hedrum", "dd/dbf/a12203.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "dd/dbf/a12203.html#a7033d315852aa4905784e957679ee261", null ]
 ];

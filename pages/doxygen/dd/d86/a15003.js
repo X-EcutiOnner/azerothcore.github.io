@@ -1,6 +1,6 @@
 var a15003 =
 [
-    [ "npc_cos_stratholme_citizienAI", "db/d3e/a15007.html", "db/d3e/a15007" ],
-    [ "npc_cos_stratholme_citizien", "dd/d86/a15003.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "dd/d86/a15003.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_salrammAI", "db/d3e/a15007.html", "db/d3e/a15007" ],
+    [ "boss_salramm", "dd/d86/a15003.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "dd/d86/a15003.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

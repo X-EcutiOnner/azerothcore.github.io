@@ -1,5 +1,5 @@
 var a03263 =
 [
-    [ "go_commandscript", "d5/def/a11854.html", "d5/def/a11854" ],
-    [ "AddSC_go_commandscript", "dc/dc1/a03263.html#a95fcb467686a27e069827ed3775df197", null ]
+    [ "player_commandscript", "d6/d3c/a11983.html", "d6/d3c/a11983" ],
+    [ "AddSC_player_commandscript", "dc/dc1/a03263.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
 ];

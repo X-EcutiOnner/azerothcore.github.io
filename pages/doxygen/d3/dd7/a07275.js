@@ -1,7 +1,7 @@
 var a07275 =
 [
-    [ "ArenaSeasonReward", "d3/dd7/a07275.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "d3/dd7/a07275.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "d3/dd7/a07275.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "d3/dd7/a07275.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "attackText", "d3/dd7/a07275.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "d3/dd7/a07275.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "d3/dd7/a07275.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d3/dd7/a07275.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

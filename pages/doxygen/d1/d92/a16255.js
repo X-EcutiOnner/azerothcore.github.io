@@ -1,7 +1,10 @@
 var a16255 =
 [
-    [ "CheckDistance", "d1/d92/a16255.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d1/d92/a16255.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d1/d92/a16255.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d1/d92/a16255.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "HandleDummy", "d1/d92/a16255.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d1/d92/a16255.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "d1/d92/a16255.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d1/d92/a16255.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d1/d92/a16255.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d1/d92/a16255.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "d1/d92/a16255.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

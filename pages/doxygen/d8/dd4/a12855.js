@@ -1,7 +1,9 @@
 var a12855 =
 [
-    [ "FilterTargets", "d8/dd4/a12855.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d8/dd4/a12855.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d8/dd4/a12855.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d8/dd4/a12855.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "boss_curator", "d8/dd4/a12855.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d8/dd4/a12855.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d8/dd4/a12855.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d8/dd4/a12855.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d8/dd4/a12855.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d8/dd4/a12855.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

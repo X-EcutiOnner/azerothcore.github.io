@@ -1,6 +1,6 @@
 var a16915 =
 [
-    [ "OnPeriodic", "d5/daf/a16915.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d5/daf/a16915.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d5/daf/a16915.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "boss_dredAI", "d9/ddd/a16919.html", "d9/ddd/a16919" ],
+    [ "boss_dred", "d5/daf/a16915.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d5/daf/a16915.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

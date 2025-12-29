@@ -1,6 +1,6 @@
 var a22159 =
 [
-    [ "npc_venture_co_stragglerAI", "da/d6e/a22163.html", "da/d6e/a22163" ],
-    [ "npc_venture_co_straggler", "da/d6e/a22159.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "da/d6e/a22159.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_lake_frogAI", "da/d6e/a22163.html", "da/d6e/a22163" ],
+    [ "npc_lake_frog", "da/d6e/a22159.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "da/d6e/a22159.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

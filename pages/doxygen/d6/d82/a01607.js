@@ -1,5 +1,4 @@
 var a01607 =
 [
-    [ "MotdMgr", "d6/d21/a09970.html", "d6/d21/a09970" ],
-    [ "sMotdMgr", "d6/d82/a01607.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
+    [ "GetAge", "d6/d82/a01607.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
 ];

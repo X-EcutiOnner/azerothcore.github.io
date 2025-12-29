@@ -1,8 +1,6 @@
 var a18919 =
 [
-    [ "CountTargets", "dc/d6e/a18919.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "dc/d6e/a18919.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "dc/d6e/a18919.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "dc/d6e/a18919.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "dc/d6e/a18919.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_frostwing_vrykulAI", "db/dc2/a18923.html", "db/dc2/a18923" ],
+    [ "npc_frostwing_vrykul", "dc/d6e/a18919.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "dc/d6e/a18919.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

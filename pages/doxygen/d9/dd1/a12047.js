@@ -1,6 +1,12 @@
 var a12047 =
 [
-    [ "npc_grimstoneAI", "d3/d62/a12051.html", "d3/d62/a12051" ],
-    [ "npc_grimstone", "d9/dd1/a12047.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "d9/dd1/a12047.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "wp_commandscript", "d9/dd1/a12047.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d9/dd1/a12047.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d9/dd1/a12047.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d9/dd1/a12047.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d9/dd1/a12047.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d9/dd1/a12047.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d9/dd1/a12047.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d9/dd1/a12047.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d9/dd1/a12047.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

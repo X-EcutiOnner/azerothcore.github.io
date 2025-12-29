@@ -1,6 +1,6 @@
 var a24147 =
 [
-    [ "instance_mechanar_InstanceMapScript", "de/d91/a24151.html", "de/d91/a24151" ],
-    [ "instance_mechanar", "d6/d2b/a24147.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d6/d2b/a24147.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "HandleDummy", "d6/d2b/a24147.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "d6/d2b/a24147.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "d6/d2b/a24147.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

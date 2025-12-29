@@ -1,9 +1,6 @@
 var a06279 =
 [
-    [ "Escort_Waypoint", "d4/d36/a06279.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "d4/d36/a06279.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "d4/d36/a06279.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "d4/d36/a06279.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "d4/d36/a06279.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "d4/d36/a06279.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "EntryCheckPredicate", "d4/d36/a06279.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
+    [ "operator()", "d4/d36/a06279.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
+    [ "_entry", "d4/d36/a06279.html#aa83f4537369e740de2d689252409d269", null ]
 ];

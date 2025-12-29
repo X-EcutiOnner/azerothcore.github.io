@@ -1,6 +1,6 @@
 var a16559 =
 [
-    [ "npc_frost_sphereAI", "d0/def/a16563.html", "d0/def/a16563" ],
-    [ "npc_frost_sphere", "df/d68/a16559.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "df/d68/a16559.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d0/def/a16563.html", "d0/def/a16563" ],
+    [ "npc_toc5_grand_champion_minion", "df/d68/a16559.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "df/d68/a16559.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

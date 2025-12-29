@@ -1,6 +1,5 @@
 var a24055 =
 [
-    [ "HandlePeriodic", "dd/d11/a24055.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "dd/d11/a24055.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "dd/d11/a24055.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "npc_telonicus", "dd/d11/a24055.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "dd/d11/a24055.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

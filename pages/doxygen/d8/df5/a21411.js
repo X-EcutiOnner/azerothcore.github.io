@@ -1,8 +1,13 @@
 var a21411 =
 [
-    [ "CheckProc", "d8/df5/a21411.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d8/df5/a21411.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d8/df5/a21411.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d8/df5/a21411.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d8/df5/a21411.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "MoveX", "d8/df5/a21411.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d8/df5/a21411.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d8/df5/a21411.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d8/df5/a21411.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d8/df5/a21411.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d8/df5/a21411.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d8/df5/a21411.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d8/df5/a21411.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d8/df5/a21411.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d8/df5/a21411.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

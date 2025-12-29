@@ -1,6 +1,6 @@
 var a00893 =
 [
-    [ "DynamicObject", "d6/d03/a08202.html", "d6/d03/a08202" ],
+    [ "DynamicObject", "d8/d50/a08219.html", "d8/d50/a08219" ],
     [ "DynamicObjectType", "dc/d2c/a00893.html#aee85c2f840289bcf773609333ee91131", [
       [ "DYNAMIC_OBJECT_PORTAL", "dc/d2c/a00893.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
       [ "DYNAMIC_OBJECT_AREA_SPELL", "dc/d2c/a00893.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],

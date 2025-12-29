@@ -1,6 +1,6 @@
 var a11095 =
 [
-    [ "TotemDestroyed", "dc/da4/a11095.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "dc/da4/a11095.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "dc/da4/a11095.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "PetStopAttack", "dc/da4/a11095.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "dc/da4/a11095.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "dc/da4/a11095.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

@@ -1,15 +1,15 @@
 var a13007 =
 [
-    [ "npc_image_of_medivhAI", "da/d88/a13007.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
-    [ "JustEngagedWith", "da/d88/a13007.html#a1013be426b3567d8cbd1c45debc914c5", null ],
-    [ "NextStep", "da/d88/a13007.html#a87160b37ba61af4866fe3f410813fe9f", null ],
-    [ "Reset", "da/d88/a13007.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
-    [ "UpdateAI", "da/d88/a13007.html#a321d689d645b4630e2e93e6251d5130c", null ],
-    [ "ArcanagosGUID", "da/d88/a13007.html#a877c693b6ac736aa874926d8efe0d79a", null ],
-    [ "ATimer", "da/d88/a13007.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
-    [ "EventStarted", "da/d88/a13007.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
-    [ "instance", "da/d88/a13007.html#a2e02aa8d441426aa51f46121eec0becb", null ],
-    [ "MTimer", "da/d88/a13007.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
-    [ "Step", "da/d88/a13007.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
-    [ "YellTimer", "da/d88/a13007.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
+    [ "boss_tinhead", "da/d88/a13007.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "da/d88/a13007.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "da/d88/a13007.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "da/d88/a13007.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "da/d88/a13007.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "da/d88/a13007.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "da/d88/a13007.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "da/d88/a13007.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "da/d88/a13007.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "da/d88/a13007.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "da/d88/a13007.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "da/d88/a13007.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

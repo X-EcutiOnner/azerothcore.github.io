@@ -1,11 +1,16 @@
 var a16183 =
 [
-    [ "boss_sartharion_tenebronAI", "d3/dad/a16183.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "d3/dad/a16183.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "d3/dad/a16183.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "d3/dad/a16183.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "d3/dad/a16183.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "d3/dad/a16183.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "d3/dad/a16183.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "d3/dad/a16183.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "boss_krik_thirAI", "d3/dad/a16183.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "DoAction", "d3/dad/a16183.html#af62b22ef531ee79805e80f2ee54af473", null ],
+    [ "GetData", "d3/dad/a16183.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "IsInFrenzy", "d3/dad/a16183.html#a9b8453fcfe57b9a87749529002d3879a", null ],
+    [ "JustDied", "d3/dad/a16183.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "d3/dad/a16183.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "KilledUnit", "d3/dad/a16183.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "d3/dad/a16183.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "d3/dad/a16183.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SummonedCreatureDies", "d3/dad/a16183.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "_canTalk", "d3/dad/a16183.html#a6031d8dd33d1f1a312bf5212b34d2bd0", null ],
+    [ "_initTalk", "d3/dad/a16183.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "_minionInCombat", "d3/dad/a16183.html#ac07e8e45693b3239bc061e5500880833", null ]
 ];

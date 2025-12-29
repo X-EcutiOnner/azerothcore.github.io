@@ -1,6 +1,6 @@
 var a18075 =
 [
-    [ "npc_gas_cloudAI", "d0/dd6/a18079.html", "d0/dd6/a18079" ],
-    [ "npc_gas_cloud", "de/dd7/a18075.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "de/dd7/a18075.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "PrepareSpellScript", "de/dd7/a18075.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "de/dd7/a18075.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "de/dd7/a18075.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

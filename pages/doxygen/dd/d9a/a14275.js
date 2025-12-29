@@ -1,6 +1,10 @@
 var a14275 =
 [
-    [ "boss_mandokirAI", "dc/d78/a14279.html", "dc/d78/a14279" ],
-    [ "boss_mandokir", "dd/d9a/a14275.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "dd/d9a/a14275.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "boss_jeklik", "dd/d9a/a14275.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "dd/d9a/a14275.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "dd/d9a/a14275.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "dd/d9a/a14275.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "dd/d9a/a14275.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "dd/d9a/a14275.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "dd/d9a/a14275.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

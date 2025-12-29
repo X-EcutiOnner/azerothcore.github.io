@@ -1,6 +1,6 @@
 var a12055 =
 [
-    [ "npc_phalanxAI", "d5/d27/a12059.html", "d5/d27/a12059" ],
-    [ "npc_phalanx", "d2/d9f/a12055.html#a947ee4659fe2a46d775119ddcefeb939", null ],
-    [ "GetAI", "d2/d9f/a12055.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d5/d27/a12059.html", "d5/d27/a12059" ],
+    [ "npc_av_marshal_or_warmaster", "d2/d9f/a12055.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d2/d9f/a12055.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

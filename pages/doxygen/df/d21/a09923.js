@@ -1,12 +1,9 @@
 var a09923 =
 [
-    [ "TransportTemplate", "df/d21/a09923.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "df/d21/a09923.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "df/d21/a09923.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "df/d21/a09923.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "df/d21/a09923.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "df/d21/a09923.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "df/d21/a09923.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "df/d21/a09923.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "df/d21/a09923.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "MapUpdateRequest", "df/d21/a09923.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "df/d21/a09923.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "df/d21/a09923.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "df/d21/a09923.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "df/d21/a09923.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "df/d21/a09923.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

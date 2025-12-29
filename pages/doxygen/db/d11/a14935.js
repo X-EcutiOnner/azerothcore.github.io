@@ -1,6 +1,8 @@
 var a14935 =
 [
-    [ "boss_epochAI", "d7/db5/a14939.html", "d7/db5/a14939" ],
-    [ "boss_epoch", "db/d11/a14935.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "db/d11/a14935.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "hyjalThrallAI", "db/d11/a14935.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "db/d11/a14935.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "db/d11/a14935.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "db/d11/a14935.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "db/d11/a14935.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

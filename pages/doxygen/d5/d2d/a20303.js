@@ -1,6 +1,6 @@
 var a20303 =
 [
-    [ "boss_vezaxAI", "df/d06/a20307.html", "df/d06/a20307" ],
-    [ "boss_vezax", "d5/d2d/a20303.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d5/d2d/a20303.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "boss_freya_nature_bombAI", "df/d06/a20307.html", "df/d06/a20307" ],
+    [ "boss_freya_nature_bomb", "d5/d2d/a20303.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d5/d2d/a20303.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

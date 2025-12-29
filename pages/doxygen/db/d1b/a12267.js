@@ -1,6 +1,6 @@
 var a12267 =
 [
-    [ "boss_pyroguard_emberseerAI", "d9/d24/a12271.html", "d9/d24/a12271" ],
-    [ "boss_pyroguard_emberseer", "db/d1b/a12267.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "db/d1b/a12267.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "d9/d24/a12271.html", "d9/d24/a12271" ],
+    [ "instance_blackrock_depths", "db/d1b/a12267.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "db/d1b/a12267.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

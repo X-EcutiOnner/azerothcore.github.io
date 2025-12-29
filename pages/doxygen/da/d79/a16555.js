@@ -1,12 +1,8 @@
 var a16555 =
 [
-    [ "npc_swarm_scarabAI", "da/d79/a16555.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "da/d79/a16555.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "da/d79/a16555.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "da/d79/a16555.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "da/d79/a16555.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "da/d79/a16555.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "da/d79/a16555.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "da/d79/a16555.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "da/d79/a16555.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "npc_toc5_player_vehicleAI", "da/d79/a16555.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "da/d79/a16555.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "da/d79/a16555.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "da/d79/a16555.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "da/d79/a16555.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

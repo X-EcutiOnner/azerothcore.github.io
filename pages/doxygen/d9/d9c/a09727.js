@@ -1,7 +1,8 @@
 var a09727 =
 [
-    [ "LootGroupInvalidSelector", "d9/d9c/a09727.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d9/d9c/a09727.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d9/d9c/a09727.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d9/d9c/a09727.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "BossInfo", "d9/d9c/a09727.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d9/d9c/a09727.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d9/d9c/a09727.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d9/d9c/a09727.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d9/d9c/a09727.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

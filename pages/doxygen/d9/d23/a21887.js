@@ -1,9 +1,13 @@
 var a21887 =
 [
-    [ "npc_archmage_landalockAI", "d9/d23/a21887.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d9/d23/a21887.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d9/d23/a21887.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d9/d23/a21887.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d9/d23/a21887.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d9/d23/a21887.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_shandy_dalaranAI", "d9/d23/a21887.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d9/d23/a21887.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d9/d23/a21887.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d9/d23/a21887.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d9/d23/a21887.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d9/d23/a21887.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d9/d23/a21887.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d9/d23/a21887.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d9/d23/a21887.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d9/d23/a21887.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

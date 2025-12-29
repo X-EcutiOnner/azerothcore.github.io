@@ -1,6 +1,8 @@
 var a11295 =
 [
-    [ "ChannelTargetData", "da/df8/a11295.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "da/df8/a11295.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "da/df8/a11295.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "SkillPerfectItemEntry", "da/df8/a11295.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "da/df8/a11295.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "da/df8/a11295.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "da/df8/a11295.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "da/df8/a11295.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

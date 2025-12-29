@@ -1,6 +1,6 @@
 var a14423 =
 [
-    [ "HandleAfterHit", "d7/d40/a14423.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "d7/d40/a14423.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "d7/d40/a14423.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "npc_brewfest_bark_trigger", "d7/d40/a14423.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d7/d40/a14423.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d7/d40/a14423.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

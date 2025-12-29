@@ -1,11 +1,10 @@
 var a11611 =
 [
-    [ "WorldUpdateTime", "d8/d49/a11611.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d8/d49/a11611.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d8/d49/a11611.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d8/d49/a11611.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d8/d49/a11611.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d8/d49/a11611.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d8/d49/a11611.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d8/d49/a11611.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "CustomChatTextBuilder", "d8/d49/a11611.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d8/d49/a11611.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d8/d49/a11611.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d8/d49/a11611.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d8/d49/a11611.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d8/d49/a11611.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d8/d49/a11611.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

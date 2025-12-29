@@ -1,6 +1,6 @@
 var a23903 =
 [
-    [ "npc_warden_mellicharAI", "dd/d50/a23907.html", "dd/d50/a23907" ],
-    [ "npc_warden_mellichar", "d9/dfd/a23903.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d9/dfd/a23903.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "dd/d50/a23907.html", "dd/d50/a23907" ],
+    [ "instance_shattered_halls", "d9/dfd/a23903.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d9/dfd/a23903.html#a82388466811b022a725ba721845cadf3", null ]
 ];

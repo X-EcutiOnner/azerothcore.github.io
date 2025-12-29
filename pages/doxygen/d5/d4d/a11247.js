@@ -1,8 +1,11 @@
 var a11247 =
 [
-    [ "SkillPerfectItemEntry", "d5/d4d/a11247.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d5/d4d/a11247.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d5/d4d/a11247.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d5/d4d/a11247.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d5/d4d/a11247.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "Player", "d5/d4d/a11247.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d5/d4d/a11247.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d5/d4d/a11247.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d5/d4d/a11247.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d5/d4d/a11247.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d5/d4d/a11247.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d5/d4d/a11247.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d5/d4d/a11247.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

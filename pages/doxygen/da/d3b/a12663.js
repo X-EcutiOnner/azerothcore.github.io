@@ -1,6 +1,6 @@
 var a12663 =
 [
-    [ "boss_ragnarosAI", "d5/d67/a12667.html", "d5/d67/a12667" ],
-    [ "boss_ragnaros", "da/d3b/a12663.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "da/d3b/a12663.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "boss_gehennasAI", "da/d3b/a12663.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "da/d3b/a12663.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "da/d3b/a12663.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

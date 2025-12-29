@@ -1,5 +1,6 @@
 var a10687 =
 [
-    [ "GuildPermissionsQuery", "df/d68/a10687.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "df/d68/a10687.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "GuildInviteByName", "df/d68/a10687.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "df/d68/a10687.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "df/d68/a10687.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

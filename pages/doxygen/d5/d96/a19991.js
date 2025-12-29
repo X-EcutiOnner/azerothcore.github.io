@@ -1,6 +1,12 @@
 var a19991 =
 [
-    [ "HandleInstaKill", "d5/d96/a19991.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d5/d96/a19991.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d5/d96/a19991.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "npc_assembly_lightningAI", "d5/d96/a19991.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "d5/d96/a19991.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "d5/d96/a19991.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "d5/d96/a19991.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "d5/d96/a19991.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "d5/d96/a19991.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "d5/d96/a19991.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "d5/d96/a19991.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "d5/d96/a19991.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

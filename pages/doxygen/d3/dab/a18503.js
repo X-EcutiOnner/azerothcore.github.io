@@ -1,6 +1,7 @@
 var a18503 =
 [
-    [ "npc_raging_spiritAI", "df/d70/a18507.html", "df/d70/a18507" ],
-    [ "npc_raging_spirit", "d3/dab/a18503.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d3/dab/a18503.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "OnPeriodic", "d3/dab/a18503.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d3/dab/a18503.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d3/dab/a18503.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d3/dab/a18503.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

@@ -1,16 +1,10 @@
 var a28759 =
 [
-    [ "~SocketMgr", "d3/d4d/a28759.html#a8c8b979692599a68d6f9dbe864e58645", null ],
-    [ "SocketMgr", "d3/d4d/a28759.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
-    [ "CreateThreads", "d3/d4d/a28759.html#ac712a459d409da9e8f21603da8aa0305", null ],
-    [ "GetNetworkThreadCount", "d3/d4d/a28759.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
-    [ "GetSocketForAccept", "d3/d4d/a28759.html#a6d8519103f85522d3bc0bfac5a0955c9", null ],
-    [ "OnSocketOpen", "d3/d4d/a28759.html#a83b2b85da48d4ffb0e1ed7577dde75c4", null ],
-    [ "SelectThreadWithMinConnections", "d3/d4d/a28759.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
-    [ "StartNetwork", "d3/d4d/a28759.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
-    [ "StopNetwork", "d3/d4d/a28759.html#a7966832a9ef2151033ac9eeeadffff34", null ],
-    [ "Wait", "d3/d4d/a28759.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
-    [ "_acceptor", "d3/d4d/a28759.html#af397e6129662d41adeeef25d27a980ea", null ],
-    [ "_threadCount", "d3/d4d/a28759.html#abeae5090b8ea81e39465a20c7b960885", null ],
-    [ "_threads", "d3/d4d/a28759.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
+    [ "area_id", "d3/d4d/a28759.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d3/d4d/a28759.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d3/d4d/a28759.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d3/d4d/a28759.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d3/d4d/a28759.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d3/d4d/a28759.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d3/d4d/a28759.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

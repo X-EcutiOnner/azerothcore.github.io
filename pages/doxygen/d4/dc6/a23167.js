@@ -1,5 +1,7 @@
 var a23167 =
 [
-    [ "npc_ashtongue_sorcerer", "d4/dc6/a23167.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d4/dc6/a23167.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "CalculateAmount", "d4/dc6/a23167.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "d4/dc6/a23167.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "d4/dc6/a23167.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "d4/dc6/a23167.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

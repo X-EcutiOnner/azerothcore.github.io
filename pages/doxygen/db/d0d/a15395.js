@@ -1,7 +1,5 @@
 var a15395 =
 [
-    [ "npc_sartura_royal_guard", "db/d0d/a15395.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "db/d0d/a15395.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "db/d0d/a15395.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "db/d0d/a15395.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "at_cthun_center", "db/d0d/a15395.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "db/d0d/a15395.html#af744df9577e84ab64749076324e574c9", null ]
 ];

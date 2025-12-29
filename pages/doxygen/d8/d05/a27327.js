@@ -1,5 +1,5 @@
 var a27327 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d8/d05/a27327.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d8/d05/a27327.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_killed_exp_or_honor_target", "d8/d05/a27327.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d8/d05/a27327.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

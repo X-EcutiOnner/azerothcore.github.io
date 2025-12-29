@@ -1,6 +1,8 @@
 var a21679 =
 [
-    [ "HandleEffectPeriodic", "db/d61/a21679.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "db/d61/a21679.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "db/d61/a21679.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_azure_captainAI", "db/d61/a21679.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "db/d61/a21679.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "db/d61/a21679.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "db/d61/a21679.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "db/d61/a21679.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

@@ -1,5 +1,15 @@
 var a12043 =
 [
-    [ "at_ring_of_law", "d3/deb/a12043.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "d3/deb/a12043.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "worldstate_commandscript", "d3/deb/a12043.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d3/deb/a12043.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "d3/deb/a12043.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "d3/deb/a12043.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "d3/deb/a12043.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "d3/deb/a12043.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d3/deb/a12043.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d3/deb/a12043.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d3/deb/a12043.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d3/deb/a12043.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d3/deb/a12043.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d3/deb/a12043.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

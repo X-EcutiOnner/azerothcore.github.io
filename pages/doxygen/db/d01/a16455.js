@@ -1,6 +1,7 @@
 var a16455 =
 [
-    [ "npc_argent_soldierAI", "d9/d8c/a16459.html", "d9/d8c/a16459" ],
-    [ "npc_argent_soldier", "db/d01/a16455.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "db/d01/a16455.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "HandleDummy", "db/d01/a16455.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "db/d01/a16455.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "db/d01/a16455.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "db/d01/a16455.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

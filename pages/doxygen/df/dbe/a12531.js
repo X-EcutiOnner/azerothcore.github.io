@@ -1,18 +1,18 @@
 var a12531 =
 [
-    [ "boss_vaelAI", "df/dbe/a12531.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
-    [ "BeginSpeech", "df/dbe/a12531.html#a448dcc64099fff57b4c18841f8715dbe", null ],
-    [ "Initialize", "df/dbe/a12531.html#a4364710f3634b6caeea3b739efe7dc56", null ],
-    [ "JustEngagedWith", "df/dbe/a12531.html#a860aa0077f235f652bd6f9a247a40e30", null ],
-    [ "JustSummoned", "df/dbe/a12531.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
-    [ "KilledUnit", "df/dbe/a12531.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
-    [ "Reset", "df/dbe/a12531.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
-    [ "sGossipSelect", "df/dbe/a12531.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
-    [ "UpdateAI", "df/dbe/a12531.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
-    [ "_burningAdrenalineCast", "df/dbe/a12531.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
-    [ "_eventsIntro", "df/dbe/a12531.html#aed37566236cb2872b3a85de9f994f0cb", null ],
-    [ "_introDone", "df/dbe/a12531.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
-    [ "HasYelled", "df/dbe/a12531.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
-    [ "m_nefariusGuid", "df/dbe/a12531.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
-    [ "PlayerGUID", "df/dbe/a12531.html#a1a86b7b15e0a435284afab6ac724968c", null ]
+    [ "boss_victor_nefariusAI", "df/dbe/a12531.html#a640261332db1736e27d93067fb83c959", null ],
+    [ "BeginEvent", "df/dbe/a12531.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
+    [ "DoAction", "df/dbe/a12531.html#ac30157884fa02dce34051d2f76f94d0a", null ],
+    [ "Initialize", "df/dbe/a12531.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
+    [ "JustDied", "df/dbe/a12531.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
+    [ "JustReachedHome", "df/dbe/a12531.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
+    [ "JustSummoned", "df/dbe/a12531.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
+    [ "Reset", "df/dbe/a12531.html#a4374199f776618afaf00934c93e6e0f4", null ],
+    [ "SetData", "df/dbe/a12531.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
+    [ "sGossipSelect", "df/dbe/a12531.html#ad3d7333e624c70c9c635073a1909c67d", null ],
+    [ "SummonedCreatureDies", "df/dbe/a12531.html#a704489a361ac2034ac65c95e9517772f", null ],
+    [ "UpdateAI", "df/dbe/a12531.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
+    [ "_nefarianLeftTunnel", "df/dbe/a12531.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
+    [ "_nefarianRightTunnel", "df/dbe/a12531.html#ad7e3b70d671080294811e9fb191e880a", null ],
+    [ "KilledAdds", "df/dbe/a12531.html#a88f7040db2bf60fb165a406571471fbb", null ]
 ];

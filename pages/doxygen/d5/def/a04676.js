@@ -1,10 +1,12 @@
 var a04676 =
 [
-    [ "Acore::has_type< T, std::tuple< Us... > >", "d1/d00/a05646.html", null ],
-    [ "Acore::is_tuple< typename >", "db/d53/a05650.html", null ],
-    [ "Acore::is_tuple< std::tuple< Ts... > >", "d1/d96/a05654.html", null ],
-    [ "new_from_tuple", "d5/def/a04676.html#aac12e702d41e9aa126f7d39f0f295252", null ],
-    [ "new_from_tuple", "d5/def/a04676.html#a028fc93107022ad23a763503c9b0bbdb", null ],
-    [ "has_type_v", "d5/def/a04676.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "d5/def/a04676.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "EnumFlag< T >", "d1/d01/a05531.html", "d1/d01/a05531" ],
+    [ "DEFINE_ENUM_FLAG", "d5/def/a04676.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
+    [ "IsFlag", "d5/def/a04676.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
+    [ "IsEnumFlag", "d5/def/a04676.html#ae0992e010612850442fc56bcf2d44b47", null ],
+    [ "operator&", "d5/def/a04676.html#a27ef39aed098304d7387af8257f7cee3", null ],
+    [ "operator&=", "d5/def/a04676.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
+    [ "operator|", "d5/def/a04676.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
+    [ "operator|=", "d5/def/a04676.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
+    [ "operator~", "d5/def/a04676.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
 ];

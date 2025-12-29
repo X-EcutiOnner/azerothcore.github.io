@@ -1,9 +1,12 @@
 var a12059 =
 [
-    [ "npc_phalanxAI", "d5/d27/a12059.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
-    [ "Reset", "d5/d27/a12059.html#a41a14315d82b169528bd764335c16d52", null ],
-    [ "UpdateAI", "d5/d27/a12059.html#a78092bfb2d9b8455b5348d872afc6521", null ],
-    [ "FireballVolley_Timer", "d5/d27/a12059.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
-    [ "MightyBlow_Timer", "d5/d27/a12059.html#ae8fe8a7313f573e910763d5a82303e66", null ],
-    [ "ThunderClap_Timer", "d5/d27/a12059.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d5/d27/a12059.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "d5/d27/a12059.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "d5/d27/a12059.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "d5/d27/a12059.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "d5/d27/a12059.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "d5/d27/a12059.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "d5/d27/a12059.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "d5/d27/a12059.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "d5/d27/a12059.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

@@ -1,6 +1,6 @@
 var a16999 =
 [
-    [ "boss_devourer_of_soulsAI", "de/d84/a17003.html", "de/d84/a17003" ],
-    [ "boss_devourer_of_souls", "d9/d45/a16999.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d9/d45/a16999.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "instance_drak_tharon_keep", "d9/d45/a16999.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "d9/d45/a16999.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "d9/d45/a16999.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

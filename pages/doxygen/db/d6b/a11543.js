@@ -1,6 +1,6 @@
 var a11543 =
 [
-    [ "AfterCheckProcHandler", "db/d6b/a11543.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "db/d6b/a11543.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "db/d6b/a11543.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "AuraDispelHandler", "db/d6b/a11543.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "db/d6b/a11543.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "db/d6b/a11543.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

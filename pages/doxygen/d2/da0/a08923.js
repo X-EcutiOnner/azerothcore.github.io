@@ -1,9 +1,10 @@
 var a08923 =
 [
-    [ "PlayerSearcher", "d2/da0/a08923.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "d2/da0/a08923.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "d2/da0/a08923.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "d2/da0/a08923.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "d2/da0/a08923.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "d2/da0/a08923.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "mapId", "d2/da0/a08923.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d2/da0/a08923.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d2/da0/a08923.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d2/da0/a08923.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d2/da0/a08923.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d2/da0/a08923.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d2/da0/a08923.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

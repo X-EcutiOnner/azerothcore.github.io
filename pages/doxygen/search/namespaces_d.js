@@ -1,22 +1,4 @@
 var searchData=
 [
-  ['anonymous_5fnamespace_7bweathermgr_2ecpp_7d_0',['anonymous_namespace{WeatherMgr.cpp}',['../d0/d62/a04888.html',1,'WeatherMgr']]],
-  ['bank_1',['Bank',['../d4/db9/a04870.html',1,'WorldPackets']]],
-  ['calendar_2',['Calendar',['../da/dbb/a04871.html',1,'WorldPackets']]],
-  ['character_3',['Character',['../de/d6f/a04872.html',1,'WorldPackets']]],
-  ['chat_4',['Chat',['../d3/d24/a04873.html',1,'WorldPackets']]],
-  ['combat_5',['Combat',['../d1/d89/a04875.html',1,'WorldPackets']]],
-  ['combatlog_6',['CombatLog',['../d5/d8e/a04874.html',1,'WorldPackets']]],
-  ['guild_7',['Guild',['../d5/db5/a04861.html',1,'WorldPackets']]],
-  ['item_8',['Item',['../d9/d27/a04876.html',1,'WorldPackets']]],
-  ['lfg_9',['LFG',['../db/dab/a04877.html',1,'WorldPackets']]],
-  ['misc_10',['Misc',['../dd/d60/a04878.html',1,'WorldPackets']]],
-  ['pet_11',['Pet',['../d1/dcd/a04880.html',1,'WorldPackets']]],
-  ['query_12',['Query',['../d3/d92/a04881.html',1,'WorldPackets']]],
-  ['strings_13',['Strings',['../d1/d8e/a04879.html',1,'WorldPackets']]],
-  ['totem_14',['Totem',['../d9/dd0/a04882.html',1,'WorldPackets']]],
-  ['weathermgr_15',['WeatherMgr',['../de/d63/a04887.html',1,'']]],
-  ['wmo_16',['WMO',['../d8/dd4/a04894.html',1,'']]],
-  ['worldpackets_17',['WorldPackets',['../d1/dda/a04860.html',1,'']]],
-  ['worldstate_18',['WorldState',['../d6/d48/a04883.html',1,'WorldPackets']]]
+  ['vmap_0',['VMAP',['../d2/d2e/a04831.html',1,'']]]
 ];

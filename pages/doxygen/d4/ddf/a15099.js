@@ -1,6 +1,9 @@
 var a15099 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d6/dfc/a15103.html", "d6/dfc/a15103" ],
-    [ "instance_dire_maul", "d4/ddf/a15099.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d4/ddf/a15099.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_temporus", "d4/ddf/a15099.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d4/ddf/a15099.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d4/ddf/a15099.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d4/ddf/a15099.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d4/ddf/a15099.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d4/ddf/a15099.html#a99356589a048debbc308b8431259da5c", null ]
 ];

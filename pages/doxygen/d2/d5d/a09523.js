@@ -1,9 +1,8 @@
 var a09523 =
 [
-    [ "UnitAuraCheck", "d2/d5d/a09523.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d2/d5d/a09523.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d2/d5d/a09523.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d2/d5d/a09523.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d2/d5d/a09523.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d2/d5d/a09523.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AllDeadCreaturesInRange", "d2/d5d/a09523.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "d2/d5d/a09523.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "d2/d5d/a09523.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "d2/d5d/a09523.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "d2/d5d/a09523.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

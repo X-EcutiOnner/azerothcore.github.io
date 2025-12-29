@@ -1,8 +1,7 @@
 var a10875 =
 [
-    [ "AutoStoreBagItem", "d2/d20/a10875.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "d2/d20/a10875.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "d2/d20/a10875.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "d2/d20/a10875.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "d2/d20/a10875.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "ReadItem", "d2/d20/a10875.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
+    [ "Read", "d2/d20/a10875.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
+    [ "Bag", "d2/d20/a10875.html#a16c02f27e986ac3d093668092d67a3c9", null ],
+    [ "Slot", "d2/d20/a10875.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
 ];

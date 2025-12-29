@@ -1,6 +1,6 @@
 var a16447 =
 [
-    [ "npc_memoryAI", "d4/d40/a16451.html", "d4/d40/a16451" ],
-    [ "npc_memory", "d2/dae/a16447.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d2/dae/a16447.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "boss_saviana_ragefireAI", "d4/d40/a16451.html", "d4/d40/a16451" ],
+    [ "boss_saviana_ragefire", "d2/dae/a16447.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d2/dae/a16447.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

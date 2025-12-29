@@ -1,6 +1,7 @@
 var a19847 =
 [
-    [ "HandleApplyTouch", "dd/de3/a19847.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "dd/de3/a19847.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "dd/de3/a19847.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "creature", "dd/de3/a19847.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "dd/de3/a19847.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "dd/de3/a19847.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "dd/de3/a19847.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

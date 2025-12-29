@@ -1,21 +1,15 @@
 var a11831 =
 [
-    [ "disable_commandscript", "d5/df0/a11831.html#ae49c0e3ad4aa3147194478180837c07e", null ],
-    [ "GetCommands", "d5/df0/a11831.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
-    [ "HandleAddDisableAchievementCriteriaCommand", "d5/df0/a11831.html#a52376d1885f74d00589acb3443860df9", null ],
-    [ "HandleAddDisableBattlegroundCommand", "d5/df0/a11831.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
-    [ "HandleAddDisableMapCommand", "d5/df0/a11831.html#aea64728b1a70aab3813190c4d5df3859", null ],
-    [ "HandleAddDisableOutdoorPvPCommand", "d5/df0/a11831.html#a3c0250b78258394e78fd918dc43f90a2", null ],
-    [ "HandleAddDisableQuestCommand", "d5/df0/a11831.html#a94537f796e64c68df4600041e2cc0da4", null ],
-    [ "HandleAddDisables", "d5/df0/a11831.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
-    [ "HandleAddDisableSpellCommand", "d5/df0/a11831.html#a23ddab0c714a5adea49d14ecde36391b", null ],
-    [ "HandleAddDisableVmapCommand", "d5/df0/a11831.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
-    [ "HandleRemoveDisableAchievementCriteriaCommand", "d5/df0/a11831.html#ac5088383c36894c7bd753ee99086e508", null ],
-    [ "HandleRemoveDisableBattlegroundCommand", "d5/df0/a11831.html#a9b67a979abb6cde08b4926606a35bf93", null ],
-    [ "HandleRemoveDisableMapCommand", "d5/df0/a11831.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
-    [ "HandleRemoveDisableOutdoorPvPCommand", "d5/df0/a11831.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
-    [ "HandleRemoveDisableQuestCommand", "d5/df0/a11831.html#a60e20d885194bbff5da3e824e05a35b2", null ],
-    [ "HandleRemoveDisables", "d5/df0/a11831.html#a529428b7674ca3446a441bdf65fab756", null ],
-    [ "HandleRemoveDisableSpellCommand", "d5/df0/a11831.html#aaa457682d8621801d457eb734673d745", null ],
-    [ "HandleRemoveDisableVmapCommand", "d5/df0/a11831.html#aae06939a2fc52aedce54a75db4b3c218", null ]
+    [ "arena_commandscript", "d5/df0/a11831.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
+    [ "GetCommands", "d5/df0/a11831.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
+    [ "HandleArenaCaptainCommand", "d5/df0/a11831.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
+    [ "HandleArenaCreateCommand", "d5/df0/a11831.html#a10eab39042cb718d839fbdf7236b1a31", null ],
+    [ "HandleArenaDisbandCommand", "d5/df0/a11831.html#a012626d4c101a63d9a70c530c9e98354", null ],
+    [ "HandleArenaInfoCommand", "d5/df0/a11831.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
+    [ "HandleArenaLookupCommand", "d5/df0/a11831.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
+    [ "HandleArenaRenameCommand", "d5/df0/a11831.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
+    [ "HandleArenaSeasonDeleteTeamsCommand", "d5/df0/a11831.html#a956b4450813331d5bc43c46409c4a095", null ],
+    [ "HandleArenaSeasonRewardCommand", "d5/df0/a11831.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
+    [ "HandleArenaSeasonSetStateCommand", "d5/df0/a11831.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
+    [ "HandleArenaSeasonStartCommand", "d5/df0/a11831.html#a58ea37f547986c084c04064bddc32cfb", null ]
 ];

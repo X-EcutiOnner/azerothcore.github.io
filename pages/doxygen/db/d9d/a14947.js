@@ -1,13 +1,6 @@
 var a14947 =
 [
-    [ "boss_infinite_corruptorAI", "db/d9d/a14947.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "db/d9d/a14947.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "db/d9d/a14947.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "db/d9d/a14947.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "db/d9d/a14947.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "db/d9d/a14947.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "db/d9d/a14947.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "db/d9d/a14947.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "db/d9d/a14947.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "db/d9d/a14947.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "HandleHeal", "db/d9d/a14947.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "db/d9d/a14947.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "db/d9d/a14947.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

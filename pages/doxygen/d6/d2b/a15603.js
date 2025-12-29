@@ -1,8 +1,5 @@
 var a15603 =
 [
-    [ "npc_prospector_remtravelAI", "d6/d2b/a15603.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d6/d2b/a15603.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d6/d2b/a15603.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d6/d2b/a15603.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d6/d2b/a15603.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "go_bristlelimb_cage", "d6/d2b/a15603.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d6/d2b/a15603.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

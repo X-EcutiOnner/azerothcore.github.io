@@ -1,8 +1,9 @@
 var a25695 =
 [
-    [ "HandleFinish", "d1/df6/a25695.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d1/df6/a25695.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d1/df6/a25695.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d1/df6/a25695.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d1/df6/a25695.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "CheckCast", "d1/df6/a25695.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "d1/df6/a25695.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "d1/df6/a25695.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "d1/df6/a25695.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "d1/df6/a25695.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "d1/df6/a25695.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

@@ -1,5 +1,5 @@
 var a00758 =
 [
-    [ "WardenInitModuleRequest", "d6/dac/a11718.html", "d6/dac/a11718" ],
-    [ "WardenWin", "dc/d7d/a11722.html", "dc/d7d/a11722" ]
+    [ "WardenInitModuleRequest", "db/d72/a11759.html", "db/d72/a11759" ],
+    [ "WardenWin", "d2/dae/a11763.html", "d2/dae/a11763" ]
 ];

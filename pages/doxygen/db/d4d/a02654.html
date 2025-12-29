@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/AzjolNerub/ahnkahet/instance_ahnkahet.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/AzjolNerub/AzjolNerub/azjol_nerub.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,153 +105,280 @@ $(document).ready(function(){initNavTree('db/d4d/a02654.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_ahnkahet.cpp File Reference</div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">azjol_nerub.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaBoundary.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ahnkahet.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de8/a16054.html">instance_ahnkahet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3b/a16058.html">instance_ahnkahet::instance_ahnkahet_InstanceScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db5/a16062.html">spell_shadow_sickle_periodic_damage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a042491ef36459046f3866e90f15aae0d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a042491ef36459046f3866e90f15aae0d">DataHeader</a>&#160;&#160;&#160;&quot;AN&quot;</td></tr>
+<tr class="separator:a042491ef36459046f3866e90f15aae0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49c3c3627ce229fce6b1f55755bcb7d7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a49c3c3627ce229fce6b1f55755bcb7d7">AzjolNerubScriptName</a>&#160;&#160;&#160;&quot;instance_azjol_nerub&quot;</td></tr>
+<tr class="separator:a49c3c3627ce229fce6b1f55755bcb7d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a60f3abea9a1edadc00e60726067bba"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a4a60f3abea9a1edadc00e60726067bba">RegisterAzjolNerubCreatureAI</a>(ai_name)&#160;&#160;&#160;<a class="el" href="../../df/d68/a01385.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../db/d4d/a02654.html#a19b3f42ba299e1f42de805f494cd5812">GetAzjolNerubAI</a>)</td></tr>
+<tr class="separator:a4a60f3abea9a1edadc00e60726067bba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a38e14ca59c29a20c7d83feecae87365e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365e">ANData</a> { <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c">DATA_KRIKTHIR</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8">DATA_HADRONOX</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf">DATA_ANUBARAK</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f">DATA_GASHRA</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6">DATA_NARJIL</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2">DATA_SILTHIK</a> = 6
+<br />
+ }</td></tr>
+<tr class="separator:a38e14ca59c29a20c7d83feecae87365e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13c2be6ee4ddd01bcdde2acfa66080eb"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eb">ANIds</a> { <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f">NPC_WATCHER_NARJIL</a> = 28729
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8">NPC_WATCHER_GASHRA</a> = 28730
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08">NPC_WATCHER_SILTHIK</a> = 28731
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429">NPC_SKITTERING_SWARMER</a> = 28735
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b">NPC_SKITTERING_INFECTIOR</a> = 28736
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582">NPC_KRIKTHIR_THE_GATEWATCHER</a> = 28684
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a">NPC_HADRONOX</a> = 28921
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3">NPC_ANUBARAK</a> = 29120
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd">NPC_WORLD_TRIGGER_LAOI</a> = 23472
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc">NPC_ANUB_AR_CHAMPION</a> = 29062
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea">NPC_ANUB_AR_NECROMANCER</a> = 29063
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c">NPC_ANUB_AR_CRYPTFIEND</a> = 29064
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b">GO_KRIKTHIR_DOORS</a> = 192395
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316">GO_ANUBARAK_DOORS1</a> = 192396
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc">GO_ANUBARAK_DOORS2</a> = 192397
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0">GO_ANUBARAK_DOORS3</a> = 192398
+, <br />
+&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b">SPELL_WEB_WRAP_TRIGGER</a> = 52087
+<br />
+ }</td></tr>
+<tr class="separator:a13c2be6ee4ddd01bcdde2acfa66080eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a33aed24f64879c91101f7420c4d49cc3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a33aed24f64879c91101f7420c4d49cc3">AddSC_instance_ahnkahet</a> ()</td></tr>
-<tr class="separator:a33aed24f64879c91101f7420c4d49cc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d3d/a09706.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d01/a09690.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d58/a09698.html">BossBoundaryData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#aa75d7d0ffe0cef214f982966c33db1c1">boundaries</a></td></tr>
-<tr class="separator:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19b3f42ba299e1f42de805f494cd5812"><td class="memTemplParams" colspan="2">template&lt;class AI , class T &gt; </td></tr>
+<tr class="memitem:a19b3f42ba299e1f42de805f494cd5812"><td class="memTemplItemLeft" align="right" valign="top">AI *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a19b3f42ba299e1f42de805f494cd5812">GetAzjolNerubAI</a> (T *obj)</td></tr>
+<tr class="separator:a19b3f42ba299e1f42de805f494cd5812"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a33aed24f64879c91101f7420c4d49cc3" name="a33aed24f64879c91101f7420c4d49cc3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33aed24f64879c91101f7420c4d49cc3">&#9670;&#160;</a></span>AddSC_instance_ahnkahet()</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a49c3c3627ce229fce6b1f55755bcb7d7" name="a49c3c3627ce229fce6b1f55755bcb7d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49c3c3627ce229fce6b1f55755bcb7d7">&#9670;&#160;</a></span>AzjolNerubScriptName</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_ahnkahet </td>
+          <td class="memname">#define AzjolNerubScriptName&#160;&#160;&#160;&quot;instance_azjol_nerub&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a042491ef36459046f3866e90f15aae0d" name="a042491ef36459046f3866e90f15aae0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a042491ef36459046f3866e90f15aae0d">&#9670;&#160;</a></span>DataHeader</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define DataHeader&#160;&#160;&#160;&quot;AN&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4a60f3abea9a1edadc00e60726067bba" name="a4a60f3abea9a1edadc00e60726067bba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a60f3abea9a1edadc00e60726067bba">&#9670;&#160;</a></span>RegisterAzjolNerubCreatureAI</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define RegisterAzjolNerubCreatureAI</td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">ai_name</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="../../df/d68/a01385.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../db/d4d/a02654.html#a19b3f42ba299e1f42de805f494cd5812">GetAzjolNerubAI</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a38e14ca59c29a20c7d83feecae87365e" name="a38e14ca59c29a20c7d83feecae87365e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38e14ca59c29a20c7d83feecae87365e">&#9670;&#160;</a></span>ANData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365e">ANData</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c" name="a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c"></a>DATA_KRIKTHIR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8" name="a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8"></a>DATA_HADRONOX&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf" name="a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf"></a>DATA_ANUBARAK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25" name="a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25"></a>MAX_ENCOUNTERS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f" name="a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f"></a>DATA_GASHRA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6" name="a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6"></a>DATA_NARJIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2" name="a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2"></a>DATA_SILTHIK&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c">DATA_KRIKTHIR</a>                       = 0,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8">DATA_HADRONOX</a>                       = 1,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf">DATA_ANUBARAK</a>                       = 2,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a>                      = 3,</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f">DATA_GASHRA</a>                         = 4,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6">DATA_NARJIL</a>                         = 5,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2">DATA_SILTHIK</a>                        = 6</div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f">DATA_GASHRA</a></div><div class="ttdeci">@ DATA_GASHRA</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:34</div></div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6">DATA_NARJIL</a></div><div class="ttdeci">@ DATA_NARJIL</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:35</div></div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c">DATA_KRIKTHIR</a></div><div class="ttdeci">@ DATA_KRIKTHIR</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:29</div></div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf">DATA_ANUBARAK</a></div><div class="ttdeci">@ DATA_ANUBARAK</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:31</div></div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8">DATA_HADRONOX</a></div><div class="ttdeci">@ DATA_HADRONOX</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:30</div></div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2">DATA_SILTHIK</a></div><div class="ttdeci">@ DATA_SILTHIK</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:36</div></div>
+<div class="ttc" id="aa02654_html_a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25"><div class="ttname"><a href="../../db/d4d/a02654.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a></div><div class="ttdeci">@ MAX_ENCOUNTERS</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:32</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a13c2be6ee4ddd01bcdde2acfa66080eb" name="a13c2be6ee4ddd01bcdde2acfa66080eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13c2be6ee4ddd01bcdde2acfa66080eb">&#9670;&#160;</a></span>ANIds</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eb">ANIds</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f" name="a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f"></a>NPC_WATCHER_NARJIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8" name="a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8"></a>NPC_WATCHER_GASHRA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08" name="a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08"></a>NPC_WATCHER_SILTHIK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429" name="a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429"></a>NPC_SKITTERING_SWARMER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b" name="a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b"></a>NPC_SKITTERING_INFECTIOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582" name="a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582"></a>NPC_KRIKTHIR_THE_GATEWATCHER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a" name="a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a"></a>NPC_HADRONOX&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3" name="a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3"></a>NPC_ANUBARAK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd" name="a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd"></a>NPC_WORLD_TRIGGER_LAOI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc" name="a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc"></a>NPC_ANUB_AR_CHAMPION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea" name="a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea"></a>NPC_ANUB_AR_NECROMANCER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c" name="a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c"></a>NPC_ANUB_AR_CRYPTFIEND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b" name="a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b"></a>GO_KRIKTHIR_DOORS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316" name="a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316"></a>GO_ANUBARAK_DOORS1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc" name="a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc"></a>GO_ANUBARAK_DOORS2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0" name="a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0"></a>GO_ANUBARAK_DOORS3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b" name="a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b"></a>SPELL_WEB_WRAP_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f">NPC_WATCHER_NARJIL</a>                  = 28729,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8">NPC_WATCHER_GASHRA</a>                  = 28730,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08">NPC_WATCHER_SILTHIK</a>                 = 28731,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429">NPC_SKITTERING_SWARMER</a>              = 28735,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b">NPC_SKITTERING_INFECTIOR</a>            = 28736,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582">NPC_KRIKTHIR_THE_GATEWATCHER</a>        = 28684,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a">NPC_HADRONOX</a>                        = 28921,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3">NPC_ANUBARAK</a>                        = 29120,</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd">NPC_WORLD_TRIGGER_LAOI</a>              = 23472,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc">NPC_ANUB_AR_CHAMPION</a>                = 29062,</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea">NPC_ANUB_AR_NECROMANCER</a>             = 29063,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c">NPC_ANUB_AR_CRYPTFIEND</a>              = 29064,</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b">GO_KRIKTHIR_DOORS</a>                   = 192395,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316">GO_ANUBARAK_DOORS1</a>                  = 192396,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc">GO_ANUBARAK_DOORS2</a>                  = 192397,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0">GO_ANUBARAK_DOORS3</a>                  = 192398,</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b">SPELL_WEB_WRAP_TRIGGER</a>              = 52087</div>
+<div class="line"><span class="lineno">   61</span>};</div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c">NPC_ANUB_AR_CRYPTFIEND</a></div><div class="ttdeci">@ NPC_ANUB_AR_CRYPTFIEND</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:53</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc">NPC_ANUB_AR_CHAMPION</a></div><div class="ttdeci">@ NPC_ANUB_AR_CHAMPION</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:51</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8">NPC_WATCHER_GASHRA</a></div><div class="ttdeci">@ NPC_WATCHER_GASHRA</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:42</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b">SPELL_WEB_WRAP_TRIGGER</a></div><div class="ttdeci">@ SPELL_WEB_WRAP_TRIGGER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:60</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea">NPC_ANUB_AR_NECROMANCER</a></div><div class="ttdeci">@ NPC_ANUB_AR_NECROMANCER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:52</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd">NPC_WORLD_TRIGGER_LAOI</a></div><div class="ttdeci">@ NPC_WORLD_TRIGGER_LAOI</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:50</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582">NPC_KRIKTHIR_THE_GATEWATCHER</a></div><div class="ttdeci">@ NPC_KRIKTHIR_THE_GATEWATCHER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:46</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429">NPC_SKITTERING_SWARMER</a></div><div class="ttdeci">@ NPC_SKITTERING_SWARMER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:44</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b">GO_KRIKTHIR_DOORS</a></div><div class="ttdeci">@ GO_KRIKTHIR_DOORS</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:55</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3">NPC_ANUBARAK</a></div><div class="ttdeci">@ NPC_ANUBARAK</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:48</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b">NPC_SKITTERING_INFECTIOR</a></div><div class="ttdeci">@ NPC_SKITTERING_INFECTIOR</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:45</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f">NPC_WATCHER_NARJIL</a></div><div class="ttdeci">@ NPC_WATCHER_NARJIL</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:41</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a">NPC_HADRONOX</a></div><div class="ttdeci">@ NPC_HADRONOX</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:47</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316">GO_ANUBARAK_DOORS1</a></div><div class="ttdeci">@ GO_ANUBARAK_DOORS1</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:56</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0">GO_ANUBARAK_DOORS3</a></div><div class="ttdeci">@ GO_ANUBARAK_DOORS3</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:58</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08">NPC_WATCHER_SILTHIK</a></div><div class="ttdeci">@ NPC_WATCHER_SILTHIK</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:43</div></div>
+<div class="ttc" id="aa02654_html_a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc"><div class="ttname"><a href="../../db/d4d/a02654.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc">GO_ANUBARAK_DOORS2</a></div><div class="ttdeci">@ GO_ANUBARAK_DOORS2</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:57</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a19b3f42ba299e1f42de805f494cd5812" name="a19b3f42ba299e1f42de805f494cd5812"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19b3f42ba299e1f42de805f494cd5812">&#9670;&#160;</a></span>GetAzjolNerubAI()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class AI , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AI * GetAzjolNerubAI </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>obj</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>{</div>
-<div class="line"><span class="lineno">  159</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/de8/a16054.html">instance_ahnkahet</a>;</div>
-<div class="line"><span class="lineno">  160</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/db5/a16062.html">spell_shadow_sickle_periodic_damage</a>);</div>
-<div class="line"><span class="lineno">  161</span>}</div>
-<div class="ttc" id="aa01448_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa16054_html"><div class="ttname"><a href="../../d2/de8/a16054.html">instance_ahnkahet</a></div><div class="ttdef"><b>Definition:</b> instance_ahnkahet.cpp:48</div></div>
-<div class="ttc" id="aa16062_html"><div class="ttname"><a href="../../db/db5/a16062.html">spell_shadow_sickle_periodic_damage</a></div><div class="ttdef"><b>Definition:</b> instance_ahnkahet.cpp:138</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../db/d4d/a02654.html#a49c3c3627ce229fce6b1f55755bcb7d7">AzjolNerubScriptName</a>);</div>
+<div class="line"><span class="lineno">   67</span>}</div>
+<div class="ttc" id="aa02654_html_a49c3c3627ce229fce6b1f55755bcb7d7"><div class="ttname"><a href="../../db/d4d/a02654.html#a49c3c3627ce229fce6b1f55755bcb7d7">AzjolNerubScriptName</a></div><div class="ttdeci">#define AzjolNerubScriptName</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:25</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="aa75d7d0ffe0cef214f982966c33db1c1" name="aa75d7d0ffe0cef214f982966c33db1c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa75d7d0ffe0cef214f982966c33db1c1">&#9670;&#160;</a></span>boundaries</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d58/a09698.html">BossBoundaryData</a> const boundaries</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66">DATA_JEDOGA_SHADOWSEEKER</a>, <span class="keyword">new</span> <a class="code hl_class" href="../../de/d38/a09838.html">ParallelogramBoundary</a>(<a class="code hl_struct" href="../../d6/d22/a08506.html">Position</a>(460.365f, -661.997f, -20.985f), <a class="code hl_struct" href="../../d6/d22/a08506.html">Position</a>(364.958f,-790.211f, -14.207f), <a class="code hl_struct" href="../../d6/d22/a08506.html">Position</a>(347.436f,-657.978f,14.478f)) }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa02660_html_aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66"><div class="ttname"><a href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66">DATA_JEDOGA_SHADOWSEEKER</a></div><div class="ttdeci">@ DATA_JEDOGA_SHADOWSEEKER</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:29</div></div>
-<div class="ttc" id="aa08506_html"><div class="ttname"><a href="../../d6/d22/a08506.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
-<div class="ttc" id="aa09838_html"><div class="ttname"><a href="../../de/d38/a09838.html">ParallelogramBoundary</a></div><div class="ttdef"><b>Definition:</b> AreaBoundary.h:129</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00054">instance_ahnkahet::instance_ahnkahet_InstanceScript::instance_ahnkahet_InstanceScript()</a>.</p>
-
-</div>
-</div>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d3d/a09706.html">ObjectData</a> const creatureData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f">NPC_PRINCE_TALDARAM</a>,     <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0">DATA_PRINCE_TALDARAM</a>     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092">NPC_JEDOGA_SHADOWSEEKER</a>, <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66">DATA_JEDOGA_SHADOWSEEKER</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303">NPC_ELDER_NADOX</a>,         <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f">DATA_ELDER_NADOX</a>         },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85">NPC_HERALD_VOLAZJ</a>,       <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5">DATA_HERALD_VOLAZJ</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f">NPC_AMANITAR</a>,            <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f">DATA_AMANITAR</a>            },</div>
-<div class="line">    { 0,                       0                        }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa02660_html_a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f"><div class="ttname"><a href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f">NPC_AMANITAR</a></div><div class="ttdeci">@ NPC_AMANITAR</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:44</div></div>
-<div class="ttc" id="aa02660_html_a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85"><div class="ttname"><a href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85">NPC_HERALD_VOLAZJ</a></div><div class="ttdeci">@ NPC_HERALD_VOLAZJ</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:43</div></div>
-<div class="ttc" id="aa02660_html_a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092"><div class="ttname"><a href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092">NPC_JEDOGA_SHADOWSEEKER</a></div><div class="ttdeci">@ NPC_JEDOGA_SHADOWSEEKER</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:42</div></div>
-<div class="ttc" id="aa02660_html_a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303"><div class="ttname"><a href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303">NPC_ELDER_NADOX</a></div><div class="ttdeci">@ NPC_ELDER_NADOX</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:40</div></div>
-<div class="ttc" id="aa02660_html_a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f"><div class="ttname"><a href="../../de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f">NPC_PRINCE_TALDARAM</a></div><div class="ttdeci">@ NPC_PRINCE_TALDARAM</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:41</div></div>
-<div class="ttc" id="aa02660_html_aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5"><div class="ttname"><a href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5">DATA_HERALD_VOLAZJ</a></div><div class="ttdeci">@ DATA_HERALD_VOLAZJ</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:30</div></div>
-<div class="ttc" id="aa02660_html_aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f"><div class="ttname"><a href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f">DATA_AMANITAR</a></div><div class="ttdeci">@ DATA_AMANITAR</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:31</div></div>
-<div class="ttc" id="aa02660_html_aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f"><div class="ttname"><a href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f">DATA_ELDER_NADOX</a></div><div class="ttdeci">@ DATA_ELDER_NADOX</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:27</div></div>
-<div class="ttc" id="aa02660_html_aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0"><div class="ttname"><a href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0">DATA_PRINCE_TALDARAM</a></div><div class="ttdeci">@ DATA_PRINCE_TALDARAM</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:28</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00054">instance_ahnkahet::instance_ahnkahet_InstanceScript::instance_ahnkahet_InstanceScript()</a>.</p>
-
-</div>
-</div>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d01/a09690.html">DoorData</a> const doorData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811">GO_TELDARAM_DOOR</a>, <a class="code hl_enumvalue" href="../../de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0">DATA_PRINCE_TALDARAM</a>, <a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { 0,                0,                    <a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01127_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../d9/d5b/a01127.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
-<div class="ttc" id="aa01127_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../d9/d5b/a01127.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:69</div></div>
-<div class="ttc" id="aa02660_html_a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811"><div class="ttname"><a href="../../de/d7b/a02660.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811">GO_TELDARAM_DOOR</a></div><div class="ttdeci">@ GO_TELDARAM_DOOR</div><div class="ttdef"><b>Definition:</b> ahnkahet.h:57</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00054">instance_ahnkahet::instance_ahnkahet_InstanceScript::instance_ahnkahet_InstanceScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00025">AzjolNerubScriptName</a>.</p>
 
 </div>
 </div>
@@ -260,8 +387,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_5cfbf185b44f2e5d76772a862d6b80b6.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../dir_298869b7a89101c5984a6116a9a5fcbc.html">ahnkahet</a></li><li class="navelem"><a class="el" href="../../db/d4d/a02654.html">instance_ahnkahet.cpp</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:48:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_5cfbf185b44f2e5d76772a862d6b80b6.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../dir_0b75308b148efd21a65d1041b5f64421.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../db/d4d/a02654.html">azjol_nerub.h</a></li>
+    <li class="footer">Generated on Mon Dec 29 2025 20:49:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

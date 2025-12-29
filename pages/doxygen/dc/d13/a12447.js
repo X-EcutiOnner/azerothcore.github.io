@@ -1,6 +1,6 @@
 var a12447 =
 [
-    [ "boss_firemawAI", "dc/d13/a12447.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "dc/d13/a12447.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "dc/d13/a12447.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "npc_vaelastrasz_the_redAI", "da/d98/a12451.html", "da/d98/a12451" ],
+    [ "npc_vaelastrasz_the_red", "dc/d13/a12447.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "dc/d13/a12447.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

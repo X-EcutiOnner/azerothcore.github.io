@@ -1,6 +1,13 @@
 var a02501 =
 [
-    [ "instance_maraudon", "dc/d2f/a15086.html", "dc/d2f/a15086" ],
-    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d3/d23/a15090.html", "d3/d23/a15090" ],
-    [ "AddSC_instance_maraudon", "d1/df7/a02501.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
+    [ "spell_ooze_zap", "d3/d7e/a15711.html", "d3/d7e/a15711" ],
+    [ "spell_ooze_zap_channel_end", "df/d51/a15715.html", "df/d51/a15715" ],
+    [ "spell_energize_aoe", "d5/d10/a15719.html", "d5/d10/a15719" ],
+    [ "SpellScripts", "d1/df7/a02501.html#a7da1350130e8c0e2dbb048bb6d532048", [
+      [ "SPELL_OOZE_ZAP", "d1/df7/a02501.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
+      [ "SPELL_OOZE_ZAP_CHANNEL_END", "d1/df7/a02501.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
+      [ "SPELL_OOZE_CHANNEL_CREDIT", "d1/df7/a02501.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
+      [ "SPELL_ENERGIZED", "d1/df7/a02501.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
+    ] ],
+    [ "AddSC_dustwallow_marsh", "d1/df7/a02501.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
 ];

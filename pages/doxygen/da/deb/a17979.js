@@ -1,6 +1,6 @@
 var a17979 =
 [
-    [ "npc_darnavanAI", "d2/d89/a17983.html", "d2/d89/a17983" ],
-    [ "npc_darnavan", "da/deb/a17979.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "da/deb/a17979.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "CheckProc", "da/deb/a17979.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "da/deb/a17979.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "da/deb/a17979.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

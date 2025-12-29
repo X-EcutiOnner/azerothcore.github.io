@@ -1,6 +1,7 @@
 var a12555 =
 [
-    [ "boss_baron_geddonAI", "d8/dfc/a12559.html", "d8/dfc/a12559" ],
-    [ "boss_baron_geddon", "d5/d63/a12555.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d5/d63/a12555.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "HandlePeriodic", "d5/d63/a12555.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "d5/d63/a12555.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "d5/d63/a12555.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "d5/d63/a12555.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

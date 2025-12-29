@@ -1,7 +1,7 @@
 var a23055 =
 [
-    [ "PrepareAuraScript", "d9/dbd/a23055.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d9/dbd/a23055.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d9/dbd/a23055.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d9/dbd/a23055.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_lady_malande", "d9/dbd/a23055.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d9/dbd/a23055.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d9/dbd/a23055.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d9/dbd/a23055.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

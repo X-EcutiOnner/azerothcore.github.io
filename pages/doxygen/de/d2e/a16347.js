@@ -1,10 +1,13 @@
 var a16347 =
 [
-    [ "spell_halion_damage_aoe_summon", "de/d2e/a16347.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "de/d2e/a16347.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "de/d2e/a16347.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "de/d2e/a16347.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "de/d2e/a16347.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "de/d2e/a16347.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "de/d2e/a16347.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "boss_twilight_halionAI", "de/d2e/a16347.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "de/d2e/a16347.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "de/d2e/a16347.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "de/d2e/a16347.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "de/d2e/a16347.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "de/d2e/a16347.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "de/d2e/a16347.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "de/d2e/a16347.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "de/d2e/a16347.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "de/d2e/a16347.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

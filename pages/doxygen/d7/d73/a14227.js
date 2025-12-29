@@ -1,6 +1,6 @@
 var a14227 =
 [
-    [ "HandleOnHit", "d7/d73/a14227.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d7/d73/a14227.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d7/d73/a14227.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "boss_hakkarAI", "db/d37/a14231.html", "db/d37/a14231" ],
+    [ "boss_hakkar", "d7/d73/a14227.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d7/d73/a14227.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

@@ -1,10 +1,7 @@
 var a21851 =
 [
-    [ "npc_preparations_for_war_vehicle", "d3/d9f/a21851.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "d3/d9f/a21851.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "d3/d9f/a21851.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "d3/d9f/a21851.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "d3/d9f/a21851.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "d3/d9f/a21851.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d3/d9f/a21851.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "HandleProc", "d3/d9f/a21851.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d3/d9f/a21851.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d3/d9f/a21851.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d3/d9f/a21851.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

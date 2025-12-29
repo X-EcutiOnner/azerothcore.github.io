@@ -1,8 +1,12 @@
 var a04472 =
 [
-    [ "LIQUID_TILE_SIZE", "df/dfb/a04472.html#a1596e8a465c0638086c77467a2dde3a6", null ],
-    [ "readChunk", "df/dfb/a04472.html#a166f3eeee53079ac9df4f15ccd577974", null ],
-    [ "GAMEOBJECT_MODELS", "df/dfb/a04472.html#ada4191301386f881525b3f0b0760cb60", null ],
-    [ "RAW_VMAP_MAGIC", "df/dfb/a04472.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
-    [ "VMAP_MAGIC", "df/dfb/a04472.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
+    [ "MMAP::MMapFactory", "de/d93/a05019.html", "de/d93/a05019" ],
+    [ "MMAP_LOAD_RESULT", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "df/dfb/a04472.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

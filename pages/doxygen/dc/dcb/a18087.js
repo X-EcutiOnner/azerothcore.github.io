@@ -1,6 +1,6 @@
 var a18087 =
 [
-    [ "PrepareSpellScript", "dc/dcb/a18087.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "dc/dcb/a18087.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "dc/dcb/a18087.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "UnboundPlagueTargetSelector", "dc/dcb/a18087.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "dc/dcb/a18087.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "dc/dcb/a18087.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

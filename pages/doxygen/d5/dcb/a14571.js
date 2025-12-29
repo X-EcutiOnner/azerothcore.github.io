@@ -1,6 +1,5 @@
 var a14571 =
 [
-    [ "HandleScript", "d5/dcb/a14571.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "d5/dcb/a14571.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "d5/dcb/a14571.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "npc_cw_area_triggerAI", "d5/dcb/a14571.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d5/dcb/a14571.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

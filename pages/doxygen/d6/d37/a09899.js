@@ -1,9 +1,14 @@
 var a09899 =
 [
-    [ "MapUpdateRequest", "d6/d37/a09899.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d6/d37/a09899.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d6/d37/a09899.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d6/d37/a09899.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d6/d37/a09899.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d6/d37/a09899.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "BattlegroundMap", "d6/d37/a09899.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
+    [ "~BattlegroundMap", "d6/d37/a09899.html#a327d241fd7930e9b3a98ba50014d5131", null ],
+    [ "AddPlayerToMap", "d6/d37/a09899.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
+    [ "CannotEnter", "d6/d37/a09899.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
+    [ "GetBG", "d6/d37/a09899.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
+    [ "InitVisibilityDistance", "d6/d37/a09899.html#af2d6847765d10fab527d77b26dd770ad", null ],
+    [ "RemoveAllPlayers", "d6/d37/a09899.html#a5093cbf8005d06452eeb202513323c1e", null ],
+    [ "RemovePlayerFromMap", "d6/d37/a09899.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
+    [ "SetBG", "d6/d37/a09899.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
+    [ "SetUnload", "d6/d37/a09899.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
+    [ "m_bg", "d6/d37/a09899.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
 ];

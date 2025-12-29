@@ -1,8 +1,17 @@
 var a17015 =
 [
-    [ "npc_fos_leaderAI", "da/d9d/a17015.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "da/d9d/a17015.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "da/d9d/a17015.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "da/d9d/a17015.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "da/d9d/a17015.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "boss_bronjahmAI", "da/d9d/a17015.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
+    [ "DamageTaken", "da/d9d/a17015.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
+    [ "EnterEvadeMode", "da/d9d/a17015.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
+    [ "JustDied", "da/d9d/a17015.html#aec27198e51022639fd002879d8afa40d", null ],
+    [ "JustEngagedWith", "da/d9d/a17015.html#a60719369456cb55155966ccefffe49ba", null ],
+    [ "JustReachedHome", "da/d9d/a17015.html#adacba5b04f9d0c273226f055a19c0b16", null ],
+    [ "JustSummoned", "da/d9d/a17015.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
+    [ "KilledUnit", "da/d9d/a17015.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
+    [ "Reset", "da/d9d/a17015.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
+    [ "SpellHitTarget", "da/d9d/a17015.html#afdc24fb0a530813e1a6618f469911f89", null ],
+    [ "UpdateAI", "da/d9d/a17015.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
+    [ "events", "da/d9d/a17015.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
+    [ "pInstance", "da/d9d/a17015.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
+    [ "summons", "da/d9d/a17015.html#ad8b011080db0d4829fbbde4739371d36", null ]
 ];

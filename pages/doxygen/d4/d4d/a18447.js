@@ -1,6 +1,6 @@
 var a18447 =
 [
-    [ "HandleScript", "d4/d4d/a18447.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
-    [ "PrepareSpellScript", "d4/d4d/a18447.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
-    [ "Register", "d4/d4d/a18447.html#a172490b953b958df354394e947b7cfd0", null ]
+    [ "LichKingDeathEvent", "d4/d4d/a18447.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d4/d4d/a18447.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d4/d4d/a18447.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

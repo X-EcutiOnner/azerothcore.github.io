@@ -1,35 +1,42 @@
 var a02399 =
 [
-    [ "NpcRunToHome", "d4/d13/a15054.html", "d4/d13/a15054" ],
-    [ "npc_medivh_bm", "d4/dba/a15058.html", "d4/dba/a15058" ],
-    [ "npc_time_rift", "da/d8d/a15062.html", "da/d8d/a15062" ],
-    [ "npc_black_morass_summoned_add", "d7/d6e/a15066.html", "d7/d6e/a15066" ],
-    [ "spell_black_morass_corrupt_medivh", "d2/dc3/a15070.html", "d2/dc3/a15070" ],
-    [ "medivhMisc", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3", [
-      [ "NPC_SHADOW_COUNCIL_ENFORCER", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a6f4bccf9e53aef576344b1521c24e411", null ],
-      [ "GO_DARK_PORTAL", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a34fd16f7266bcf80297889c35fe880c3", null ],
-      [ "EVENT_CHECK_HEALTH_25", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3ab4c8308b4dc44a86daf5ee851c990687", null ],
-      [ "EVENT_CHECK_HEALTH_50", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a279f4abf2411c8e70eb459d7644bc65b", null ],
-      [ "EVENT_CHECK_HEALTH_75", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a80f173b323e09c2480f3e15dbf3cf191", null ],
-      [ "EVENT_SUMMON_CRYSTAL", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a83aaa8976010cea5ab359229b71d206b", null ],
-      [ "EVENT_SUMMON_FLYING_CRYSTAL", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a087df17dd123dd098bd6effa3cac4adf", null ],
-      [ "EVENT_OUTRO_1", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3acb340c9de3b567d6e1f1e9e5b90ec90d", null ],
-      [ "EVENT_OUTRO_2", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a20c3614363fa241f02fede94adfb3ae6", null ],
-      [ "EVENT_OUTRO_3", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a267ae47905d29e505c96215636419e87", null ],
-      [ "EVENT_OUTRO_4", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3afaefee2aa96b9039635b6a80708a82da", null ],
-      [ "EVENT_OUTRO_5", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a5e30e089c85fc4c0318c390d70997e32", null ],
-      [ "EVENT_OUTRO_6", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a99f13835f6b2a5a4e44cd837c0a44680", null ],
-      [ "EVENT_OUTRO_7", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a343360a691f406e01bb1372a17b5b2cc", null ],
-      [ "EVENT_OUTRO_8", "da/d11/a02399.html#a7d484fa8ee0c999014d29246b9ebffb3a6697031d7959ad49f58bffe18fb91611", null ]
+    [ "DataHeader", "da/d11/a02399.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ZFScriptName", "da/d11/a02399.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
+    [ "ZFPyramidPhases", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3", [
+      [ "PYRAMID_NOT_STARTED", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
+      [ "PYRAMID_CAGES_OPEN", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
+      [ "PYRAMID_ARRIVED_AT_STAIR", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
+      [ "PYRAMID_WAVE_1", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
+      [ "PYRAMID_PRE_WAVE_2", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
+      [ "PYRAMID_WAVE_2", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
+      [ "PYRAMID_PRE_WAVE_3", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
+      [ "PYRAMID_WAVE_3", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
+      [ "PYRAMID_KILLED_ALL_TROLLS", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
+      [ "PYRAMID_MOVED_DOWNSTAIRS", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
+      [ "PYRAMID_DESTROY_GATES", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
+      [ "PYRAMID_GATES_DESTROYED", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
+      [ "PYRAMID_DONE", "da/d11/a02399.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
     ] ],
-    [ "timeRift", "da/d11/a02399.html#a88ef578bedf8b5cbdefba9b27f2566b3", [
-      [ "EVENT_SUMMON_AT_RIFT", "da/d11/a02399.html#a88ef578bedf8b5cbdefba9b27f2566b3ad3b69472cb7814dc0d55baa46caef4e2", null ],
-      [ "EVENT_CHECK_DEATH", "da/d11/a02399.html#a88ef578bedf8b5cbdefba9b27f2566b3a7001385aaa3b09d1fd905da6dce0bd7b", null ],
-      [ "EVENT_SUMMON_BOSS", "da/d11/a02399.html#a88ef578bedf8b5cbdefba9b27f2566b3aa50dbf77d563d2fa849566efb87feb60", null ],
-      [ "SAY_RIFT_MOB_SUMMONED", "da/d11/a02399.html#a88ef578bedf8b5cbdefba9b27f2566b3a060162f05198bbed56abe4eb9781b2ec", null ]
+    [ "ZulFarrakCreatures", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
+      [ "NPC_SANDFURY_CRETIN", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
+      [ "NPC_SANDFURY_SLAVE", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
+      [ "NPC_SANDFURY_ACOLYTE", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
+      [ "NPC_SANDFURY_DRUDGE", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
+      [ "NPC_SANDFURY_ZEALOT", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
+      [ "NPC_SHADOWPRIEST_SEZZZIZ", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
+      [ "NPC_NEKRUM_GUTCHEWER", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
+      [ "NPC_BLY", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
+      [ "NPC_RAVEN", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
+      [ "NPC_ORO", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
+      [ "NPC_WEEGLI", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
+      [ "NPC_MURTA", "da/d11/a02399.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
     ] ],
-    [ "AddSC_the_black_morass", "da/d11/a02399.html#a40d83565d4b54b30e895e0b76768246b", null ],
-    [ "firstWave", "da/d11/a02399.html#a60bd1cccea53e743620a4b2f0e9b1f8b", null ],
-    [ "secondWave", "da/d11/a02399.html#ab5bc0c48fcfe78d0b75a06c16fdc5353", null ],
-    [ "thirdWave", "da/d11/a02399.html#adb16e5a74a0d80b396b60d986cc49d4d", null ]
+    [ "ZulFarrakData", "da/d11/a02399.html#a66cc3be5310a2efbacb38d2398d8af24", [
+      [ "DATA_PYRAMID", "da/d11/a02399.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
+      [ "DATA_GAHZRILLA", "da/d11/a02399.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
+    ] ],
+    [ "ZulFarrakGameobjects", "da/d11/a02399.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
+      [ "GO_END_DOOR", "da/d11/a02399.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
+    ] ],
+    [ "GetZulFarrakAI", "da/d11/a02399.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
 ];

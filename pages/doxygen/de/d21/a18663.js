@@ -1,7 +1,6 @@
 var a18663 =
 [
-    [ "AuraRemoveEvent", "de/d21/a18663.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "de/d21/a18663.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "de/d21/a18663.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "de/d21/a18663.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_lk_spirit_bombAI", "de/da4/a18667.html", "de/da4/a18667" ],
+    [ "npc_lk_spirit_bomb", "de/d21/a18663.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "de/d21/a18663.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

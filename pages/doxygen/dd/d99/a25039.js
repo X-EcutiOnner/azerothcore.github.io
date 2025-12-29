@@ -1,6 +1,10 @@
 var a25039 =
 [
-    [ "CheckProc", "dd/d99/a25039.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "dd/d99/a25039.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "dd/d99/a25039.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "HandleEffectApply", "dd/d99/a25039.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "dd/d99/a25039.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "dd/d99/a25039.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "dd/d99/a25039.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "dd/d99/a25039.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "dd/d99/a25039.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "dd/d99/a25039.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

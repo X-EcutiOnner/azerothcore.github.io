@@ -1,6 +1,6 @@
 var a21699 =
 [
-    [ "npc_khunok_the_behemothAI", "db/dc6/a21703.html", "db/dc6/a21703" ],
-    [ "npc_khunok_the_behemoth", "d6/da0/a21699.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d6/da0/a21699.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "HandleEffectPeriodic", "d6/da0/a21699.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d6/da0/a21699.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d6/da0/a21699.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

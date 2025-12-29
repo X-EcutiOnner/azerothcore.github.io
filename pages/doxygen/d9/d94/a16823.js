@@ -1,5 +1,6 @@
 var a16823 =
 [
-    [ "boss_fjolaAI", "d9/d94/a16823.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d9/d94/a16823.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "boss_gormokAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
+    [ "boss_gormok", "d9/d94/a16823.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d9/d94/a16823.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

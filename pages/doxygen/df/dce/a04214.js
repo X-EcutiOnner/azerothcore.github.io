@@ -1,10 +1,8 @@
 var a04214 =
 [
-    [ "MMAP::MapTiles", "d8/d30/a29035.html", "d8/d30/a29035" ],
-    [ "MMAP::Tile", "d3/dc7/a29039.html", "d3/dc7/a29039" ],
-    [ "MMAP::TileConfig", "d9/d40/a29043.html", "d9/d40/a29043" ],
-    [ "MMAP::TileInfo", "d7/d76/a29047.html", "d7/d76/a29047" ],
-    [ "MMAP::TileBuilder", "de/dce/a29051.html", "de/dce/a29051" ],
-    [ "MMAP::MapBuilder", "d7/df3/a29055.html", "d7/df3/a29055" ],
-    [ "TileList", "df/dce/a04214.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
+    [ "wdt_MPHD", "d9/d37/a29011.html", "d9/d37/a29011" ],
+    [ "wdt_MAIN", "da/ddf/a29019.html", "da/ddf/a29019" ],
+    [ "wdt_MAIN::adtData", "db/d48/a29027.html", "db/d48/a29027" ],
+    [ "WDT_file", "db/dfd/a29031.html", "db/dfd/a29031" ],
+    [ "WDT_MAP_SIZE", "df/dce/a04214.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
 ];

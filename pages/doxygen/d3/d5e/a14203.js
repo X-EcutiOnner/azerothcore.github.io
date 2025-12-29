@@ -1,5 +1,5 @@
 var a14203 =
 [
-    [ "at_zulgurub_bridge_speech", "d3/d5e/a14203.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d3/d5e/a14203.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "go_gong_of_bethekk", "d3/d5e/a14203.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "d3/d5e/a14203.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

@@ -1,10 +1,8 @@
 var a28879 =
 [
-    [ "adt_CELLS", "d0/d52/a28887.html", "d0/d52/a28887" ],
-    [ "getMCNK", "dc/d3c/a28879.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "dc/d3c/a28879.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "dc/d3c/a28879.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "dc/d3c/a28879.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "dc/d3c/a28879.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "dc/d3c/a28879.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "prepareLoadedData", "dc/d3c/a28879.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "dc/d3c/a28879.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "dc/d3c/a28879.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "dc/d3c/a28879.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "dc/d3c/a28879.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

@@ -1,6 +1,14 @@
 var a20439 =
 [
-    [ "FilterTargets", "de/dad/a20439.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "de/dad/a20439.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "de/dad/a20439.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "npc_ulduar_hodir_mageAI", "de/dad/a20439.html#a118059c877151a9f6b2b15a4070e2704", null ],
+    [ "AttackStart", "de/dad/a20439.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
+    [ "CanAIAttack", "de/dad/a20439.html#a66ea56e856fcc706e4f938512def1590", null ],
+    [ "EnterEvadeMode", "de/dad/a20439.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
+    [ "JustDied", "de/dad/a20439.html#a0176f8b45c20af1552e1a8b70e307442", null ],
+    [ "MoveInLineOfSight", "de/dad/a20439.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
+    [ "ScheduleAbilities", "de/dad/a20439.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
+    [ "SpellHit", "de/dad/a20439.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
+    [ "UpdateAI", "de/dad/a20439.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
+    [ "events", "de/dad/a20439.html#a556453c557df0be6a57255e400d98a87", null ],
+    [ "pInstance", "de/dad/a20439.html#ac4677898f5612c01d98ab242c7628e8f", null ]
 ];

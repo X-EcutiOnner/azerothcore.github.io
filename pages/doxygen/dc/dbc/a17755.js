@@ -1,8 +1,7 @@
 var a17755 =
 [
-    [ "ResetEncounterEvent", "dc/dbc/a17755.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "dc/dbc/a17755.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "dc/dbc/a17755.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "dc/dbc/a17755.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "dc/dbc/a17755.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "ExtraEffect", "dc/dbc/a17755.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "dc/dbc/a17755.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "dc/dbc/a17755.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "dc/dbc/a17755.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

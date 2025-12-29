@@ -1,6 +1,10 @@
 var a19615 =
 [
-    [ "boss_varosAI", "d8/dc4/a19619.html", "d8/dc4/a19619" ],
-    [ "boss_varos", "d9/d51/a19615.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d9/d51/a19615.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/d51/a19615.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d9/d51/a19615.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "d9/d51/a19615.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d9/d51/a19615.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d9/d51/a19615.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d9/d51/a19615.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d9/d51/a19615.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

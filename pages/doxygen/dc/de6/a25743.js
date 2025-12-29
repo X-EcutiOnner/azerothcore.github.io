@@ -1,9 +1,7 @@
 var a25743 =
 [
-    [ "getMountSpellId", "dc/de6/a25743.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "dc/de6/a25743.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "dc/de6/a25743.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "dc/de6/a25743.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "dc/de6/a25743.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "dc/de6/a25743.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "FilterTargets", "dc/de6/a25743.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "dc/de6/a25743.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "dc/de6/a25743.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "dc/de6/a25743.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

@@ -1,8 +1,9 @@
 var a03989 =
 [
-    [ "GetDefaultDatabaseInfo", "dd/d27/a03989.html#a5560c170776773a1a20d93060003e89d", null ],
-    [ "CHARACTER_DATABASE_INFO_DEFAULT", "dd/d27/a03989.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
-    [ "EMPTY_DATABASE_INFO", "dd/d27/a03989.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
-    [ "LOGIN_DATABASE_INFO_DEFAULT", "dd/d27/a03989.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
-    [ "WORLD_DATABASE_INFO_DEFAULT", "dd/d27/a03989.html#ad2151db3d84513bc271cf642ad76bb80", null ]
+    [ "QueryCallback::QueryCallbackData", "d8/d88/a05899.html", "d8/d88/a05899" ],
+    [ "Construct", "dd/d27/a03989.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
+    [ "ConstructActiveMember", "dd/d27/a03989.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "Destroy", "dd/d27/a03989.html#aa4339e1c31032221caeaaedac04c0b32", null ],
+    [ "DestroyActiveMember", "dd/d27/a03989.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "dd/d27/a03989.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
 ];

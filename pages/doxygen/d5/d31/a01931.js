@@ -1,24 +1,36 @@
 var a01931 =
 [
-    [ "RegisterShadowLabyrinthCreatureAI", "d5/d31/a01931.html#afbd2592662281ddc8b6d11567efe9a50", null ],
-    [ "ShadowLabyrinthScriptName", "d5/d31/a01931.html#ab96ece1dcc827c0af968525da00da892", null ],
-    [ "slData", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87d", [
-      [ "TYPE_RITUALISTS", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
-      [ "TYPE_HELLMAW", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
-      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
-      [ "DATA_GRANDMASTER_VORPIL", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
-      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
-      [ "DATA_MURMUR", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
-      [ "DATA_MURMUREVENT", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
-      [ "MAX_ENCOUNTER", "d5/d31/a01931.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
+    [ "DataHeaders", "d5/d31/a01931.html#a5b5ca0ae07e92e9cad54568049f06fce", null ],
+    [ "RegisterSethekkHallsCreatureAI", "d5/d31/a01931.html#a4d0e02e340e57e5ff9f0184f82b086d5", null ],
+    [ "SethekkHallsScriptName", "d5/d31/a01931.html#a96ebd14b5dafc2480cbdb13e0bc4b7ab", null ],
+    [ "eIds", "d5/d31/a01931.html#a69c4601e4dd1496f746404c6abe87291", [
+      [ "NPC_VOICE_OF_THE_RAVEN_GOD", "d5/d31/a01931.html#a69c4601e4dd1496f746404c6abe87291aad4ab883c15374d38bc38b0f71f0c86a", null ],
+      [ "NPC_ANZU", "d5/d31/a01931.html#a69c4601e4dd1496f746404c6abe87291af130c29d37cee0370ac78ac4be4e415f", null ],
+      [ "GO_IKISS_DOOR", "d5/d31/a01931.html#a69c4601e4dd1496f746404c6abe87291a7975fc4f8b3558e660375d98a9d0e54e", null ],
+      [ "GO_THE_TALON_KINGS_COFFER", "d5/d31/a01931.html#a69c4601e4dd1496f746404c6abe87291a7957c3a97be229f195e4375af7b06e2c", null ]
     ] ],
-    [ "slNPCandGO", "d5/d31/a01931.html#a5aeaf5f332ee73166572f5313be89bf1", [
-      [ "NPC_CABAL_RITUALIST", "d5/d31/a01931.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
-      [ "NPC_HELLMAW", "d5/d31/a01931.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
-      [ "GO_REFECTORY_DOOR", "d5/d31/a01931.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
-      [ "GO_SCREAMING_HALL_DOOR", "d5/d31/a01931.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
+    [ "Encounters", "d5/d31/a01931.html#abf7d0c9385f088b09a017ee50e9db6ee", [
+      [ "DATA_DARKWEAVER_SYTH", "d5/d31/a01931.html#abf7d0c9385f088b09a017ee50e9db6eea6dbed6ec6697669d80047612efd58da9", null ],
+      [ "DATA_ANZU", "d5/d31/a01931.html#abf7d0c9385f088b09a017ee50e9db6eeac072367637c0d4080d6d25a349b54a54", null ],
+      [ "DATA_IKISS", "d5/d31/a01931.html#abf7d0c9385f088b09a017ee50e9db6eea354bfb39a3150d5f75a42abc68cbcc83", null ]
     ] ],
-    [ "GetShadowLabyrinthAI", "d5/d31/a01931.html#a04723307a726c0b79db08448db0704db", null ],
-    [ "EncounterCount", "d5/d31/a01931.html#ae1fbcd81e7256d27efa0288994753839", null ],
-    [ "PersistentDataCount", "d5/d31/a01931.html#aa38a92afffebaf4b33726515956b256b", null ]
+    [ "eTypes", "d5/d31/a01931.html#a31365a35c315c6cb485bcd31f5ba77fd", [
+      [ "DATA_MAGUS_TELESTRA_EVENT", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fda097adced7c95a2c9718c2c785bee7f83", null ],
+      [ "DATA_ANOMALUS_EVENT", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fdaaf86ee46d11b318ef5caffe5d123342a", null ],
+      [ "DATA_ORMOROK_EVENT", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fda521150b4f00d388d28870138ef89029a", null ],
+      [ "DATA_KERISTRASZA_EVENT", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fdacc731df49caf259ade6ae981d7b6fffa", null ],
+      [ "DATA_COMMANDER_EVENT", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fdaeec4cc47ddf1f8b45982ab9b09609204", null ],
+      [ "DATA_TELESTRA_ORB", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fda6070c92aa13cfc41ea707f2e4f317c49", null ],
+      [ "DATA_ANOMALUS_ORB", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fda7ca67e2df8f6c5ba3b64a58ffe838f79", null ],
+      [ "DATA_ORMOROK_ORB", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fda04925ab93b3def016402fa3d6c763cb8", null ],
+      [ "MAX_ENCOUNTERS", "de/d3a/a03200.html#a31365a35c315c6cb485bcd31f5ba77fda9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_IKISSDOOREVENT", "d5/d31/a01931.html#a31365a35c315c6cb485bcd31f5ba77fda4254e5b20964fa4c45d7bed553c3cb95", null ],
+      [ "TYPE_ANZU_ENCOUNTER", "d5/d31/a01931.html#a31365a35c315c6cb485bcd31f5ba77fda7184f794bd903d92cba3eb6fa7297784", null ]
+    ] ],
+    [ "InstanceData", "d5/d31/a01931.html#a453c4190aaa5e59675ce6366d48c4778", [
+      [ "DATA_GO_TALON_KING_COFFER", "d5/d31/a01931.html#a453c4190aaa5e59675ce6366d48c4778a25477ff5678a4450f584b7e148c91101", null ],
+      [ "DATA_VOICE_OF_THE_RAVEN_GOD", "d5/d31/a01931.html#a453c4190aaa5e59675ce6366d48c4778a5c361f6d59a9c9ae12ada6ec074857c9", null ]
+    ] ],
+    [ "GetSethekkHallsAI", "d5/d31/a01931.html#a9b5213e8c6cd59c731bb4eaad803766d", null ],
+    [ "EncounterCount", "d5/d31/a01931.html#ae1fbcd81e7256d27efa0288994753839", null ]
 ];

@@ -1,15 +1,17 @@
 var a18883 =
 [
-    [ "npc_frostwing_vrykulAI", "dc/d2b/a18883.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
-    [ "AttackStart", "dc/d2b/a18883.html#a42a53fedc36aa71f52900a416e414fc6", null ],
-    [ "CanAIAttack", "dc/d2b/a18883.html#a91300d1178a2b433bd8830ec1066368e", null ],
-    [ "JustEngagedWith", "dc/d2b/a18883.html#abc75688914cd4f984448dd3f21527d89", null ],
-    [ "JustSummoned", "dc/d2b/a18883.html#a116908f5689d6d75570379f13ed0bd90", null ],
-    [ "Reset", "dc/d2b/a18883.html#a4baa20089b50acee617c4b85bc6b8478", null ],
-    [ "SpellHitTarget", "dc/d2b/a18883.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
-    [ "UpdateAI", "dc/d2b/a18883.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
-    [ "events", "dc/d2b/a18883.html#accae0992a349361d85200863f5ac4f81", null ],
-    [ "events2", "dc/d2b/a18883.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
-    [ "isRanged", "dc/d2b/a18883.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
-    [ "summons", "dc/d2b/a18883.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
+    [ "npc_argent_captainAI", "dc/d2b/a18883.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "dc/d2b/a18883.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "dc/d2b/a18883.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "dc/d2b/a18883.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "dc/d2b/a18883.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "dc/d2b/a18883.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "dc/d2b/a18883.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "dc/d2b/a18883.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "dc/d2b/a18883.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "dc/d2b/a18883.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "dc/d2b/a18883.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "dc/d2b/a18883.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "dc/d2b/a18883.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "dc/d2b/a18883.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

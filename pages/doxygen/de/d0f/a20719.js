@@ -1,6 +1,5 @@
 var a20719 =
 [
-    [ "boss_razorscaleAI", "d2/d98/a20723.html", "d2/d98/a20723" ],
-    [ "boss_razorscale", "de/d0f/a20719.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "de/d0f/a20719.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "de/d0f/a20719.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "de/d0f/a20719.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

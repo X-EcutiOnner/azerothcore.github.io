@@ -1,9 +1,9 @@
 var a17211 =
 [
-    [ "FilterTargets", "da/db0/a17211.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "da/db0/a17211.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "da/db0/a17211.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "da/db0/a17211.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "da/db0/a17211.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "da/db0/a17211.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/db0/a17211.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "da/db0/a17211.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "da/db0/a17211.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "da/db0/a17211.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "da/db0/a17211.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "da/db0/a17211.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

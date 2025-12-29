@@ -1,9 +1,8 @@
 var a12559 =
 [
-    [ "boss_baron_geddonAI", "d8/dfc/a12559.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "d8/dfc/a12559.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "d8/dfc/a12559.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "d8/dfc/a12559.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "d8/dfc/a12559.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "d8/dfc/a12559.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "FilterTargets", "d8/dfc/a12559.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d8/dfc/a12559.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d8/dfc/a12559.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d8/dfc/a12559.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d8/dfc/a12559.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

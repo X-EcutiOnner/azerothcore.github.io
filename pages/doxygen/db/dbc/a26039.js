@@ -1,7 +1,8 @@
 var a26039 =
 [
-    [ "HandleDummy", "db/dbc/a26039.html#ad6d449ac393851166d8be653639c7d05", null ],
-    [ "PrepareSpellScript", "db/dbc/a26039.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
-    [ "Register", "db/dbc/a26039.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
-    [ "Validate", "db/dbc/a26039.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
+    [ "HandleDummy", "db/dbc/a26039.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "db/dbc/a26039.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "db/dbc/a26039.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "db/dbc/a26039.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "db/dbc/a26039.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

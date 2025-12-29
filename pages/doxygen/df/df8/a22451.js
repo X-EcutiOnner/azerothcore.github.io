@@ -1,6 +1,6 @@
 var a22451 =
 [
-    [ "HandleScriptEffect", "df/df8/a22451.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "df/df8/a22451.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "df/df8/a22451.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_iron_watcherAI", "d4/dbf/a22455.html", "d4/dbf/a22455" ],
+    [ "npc_iron_watcher", "df/df8/a22451.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "df/df8/a22451.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

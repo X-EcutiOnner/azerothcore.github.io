@@ -1,6 +1,6 @@
 var a21555 =
 [
-    [ "boss_xevozzAI", "d5/dbc/a21559.html", "d5/dbc/a21559" ],
-    [ "boss_xevozz", "d4/d2f/a21555.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d4/d2f/a21555.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "boss_lavanthorAI", "d5/dbc/a21559.html", "d5/dbc/a21559" ],
+    [ "boss_lavanthor", "d4/d2f/a21555.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "d4/d2f/a21555.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

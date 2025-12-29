@@ -1,6 +1,7 @@
 var a16515 =
 [
-    [ "boss_grand_championAI", "d0/dcf/a16519.html", "d0/dcf/a16519" ],
-    [ "boss_grand_champion", "db/df3/a16515.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "db/df3/a16515.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "HandleAfterEffectAbsorb", "db/df3/a16515.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "db/df3/a16515.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "db/df3/a16515.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "db/df3/a16515.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

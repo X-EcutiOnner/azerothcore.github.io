@@ -1,6 +1,8 @@
 var a24831 =
 [
-    [ "CheckTargets", "d4/d19/a24831.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "d4/d19/a24831.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "d4/d19/a24831.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "HandleEffectApply", "d4/d19/a24831.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "d4/d19/a24831.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "d4/d19/a24831.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "d4/d19/a24831.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "d4/d19/a24831.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

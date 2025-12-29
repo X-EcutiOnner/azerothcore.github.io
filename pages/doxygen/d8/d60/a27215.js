@@ -1,10 +1,8 @@
 var a27215 =
 [
-    [ "CheckProc", "d8/d60/a27215.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "d8/d60/a27215.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "d8/d60/a27215.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "d8/d60/a27215.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "d8/d60/a27215.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "d8/d60/a27215.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "d8/d60/a27215.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "HandleDamage", "d8/d60/a27215.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d8/d60/a27215.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d8/d60/a27215.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d8/d60/a27215.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d8/d60/a27215.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

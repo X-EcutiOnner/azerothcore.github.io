@@ -1,6 +1,14 @@
 var a21335 =
 [
-    [ "npc_frenzied_worgenAI", "d0/d99/a21339.html", "d0/d99/a21339" ],
-    [ "npc_frenzied_worgen", "d3/d72/a21335.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d3/d72/a21335.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "npc_massive_jormungarAI", "d3/d72/a21335.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d3/d72/a21335.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d3/d72/a21335.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d3/d72/a21335.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d3/d72/a21335.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d3/d72/a21335.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d3/d72/a21335.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d3/d72/a21335.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d3/d72/a21335.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d3/d72/a21335.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d3/d72/a21335.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

@@ -1,16 +1,12 @@
 var a13143 =
 [
-    [ "npc_unworthy_initiateAI", "d0/d10/a13143.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d0/d10/a13143.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d0/d10/a13143.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d0/d10/a13143.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d0/d10/a13143.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d0/d10/a13143.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d0/d10/a13143.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d0/d10/a13143.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d0/d10/a13143.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d0/d10/a13143.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d0/d10/a13143.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d0/d10/a13143.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d0/d10/a13143.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "boss_vexallus", "d0/d10/a13143.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "d0/d10/a13143.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "d0/d10/a13143.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "d0/d10/a13143.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "d0/d10/a13143.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "d0/d10/a13143.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "d0/d10/a13143.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "d0/d10/a13143.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "d0/d10/a13143.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

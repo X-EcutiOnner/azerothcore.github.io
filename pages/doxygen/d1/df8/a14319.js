@@ -1,6 +1,6 @@
 var a14319 =
 [
-    [ "HandleObjectAreaTargetSelect", "d1/df8/a14319.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d1/df8/a14319.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d1/df8/a14319.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "npc_ohganAI", "d2/deb/a14323.html", "d2/deb/a14323" ],
+    [ "npc_ohgan", "d1/df8/a14319.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d1/df8/a14319.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

@@ -1,7 +1,7 @@
 var a10639 =
 [
-    [ "Flags", "d3/d90/a10639.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "d3/d90/a10639.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "d3/d90/a10639.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "d3/d90/a10639.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "QueryGuildInfoResponse", "d3/d90/a10639.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d3/d90/a10639.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d3/d90/a10639.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d3/d90/a10639.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

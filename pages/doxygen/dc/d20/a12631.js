@@ -1,6 +1,7 @@
 var a12631 =
 [
-    [ "boss_magmadarAI", "dc/d20/a12631.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "dc/d20/a12631.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "dc/d20/a12631.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "HandleAfterApply", "dc/d20/a12631.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "dc/d20/a12631.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "dc/d20/a12631.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "dc/d20/a12631.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

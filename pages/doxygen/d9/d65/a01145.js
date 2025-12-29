@@ -1,36 +1,25 @@
 var a01145 =
 [
-    [ "boss_high_king_maulgar", "d4/d58/a23702.html", "d4/d58/a23702" ],
-    [ "boss_olm_the_summoner", "d6/d9f/a23706.html", "d6/d9f/a23706" ],
-    [ "boss_kiggler_the_crazed", "dc/d7a/a23710.html", "dc/d7a/a23710" ],
-    [ "boss_blindeye_the_seer", "db/d68/a23714.html", "db/d68/a23714" ],
-    [ "boss_krosh_firehand", "d0/d96/a23718.html", "d0/d96/a23718" ],
-    [ "HighKingMaulgar", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00", [
-      [ "SAY_AGGRO", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_ENRAGE", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54", null ],
-      [ "SAY_OGRE_DEATH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327", null ],
-      [ "SAY_SLAY", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SPELL_ARCING_SMASH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e", null ],
-      [ "SPELL_MIGHTY_BLOW", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00ae9c68ac99f2257b412925e1b55e98716", null ],
-      [ "SPELL_WHIRLWIND", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801", null ],
-      [ "SPELL_BERSERKER_C", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4", null ],
-      [ "SPELL_ROAR", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f", null ],
-      [ "SPELL_FLURRY", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58", null ],
-      [ "SPELL_DARK_DECAY", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c", null ],
-      [ "SPELL_DEATH_COIL", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163", null ],
-      [ "SPELL_SUMMON_WFH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112", null ],
-      [ "SPELL_GREATER_POLYMORPH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df", null ],
-      [ "SPELL_LIGHTNING_BOLT", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526", null ],
-      [ "SPELL_ARCANE_SHOCK", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a70217cff0adeb1a0499b1651a82f03ef", null ],
-      [ "SPELL_ARCANE_EXPLOSION", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a6cef4c5e88133771f6b27aec8b8cfdce", null ],
-      [ "SPELL_GREATER_PW_SHIELD", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a55ae8f41cbf9520dcf85fbec5a89d7d0", null ],
-      [ "SPELL_HEAL", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a69fcca2d13e03c684fa0459f960ef9a7", null ],
-      [ "SPELL_PRAYER_OH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a60e7f4938fc88cf1649f00a81e4ea95b", null ],
-      [ "SPELL_GREATER_FIREBALL", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7", null ],
-      [ "SPELL_SPELLSHIELD", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a37fcb71489a9591a31c6f74520ed175e", null ],
-      [ "SPELL_BLAST_WAVE", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88", null ],
-      [ "ACTION_ADD_DEATH", "d9/d65/a01145.html#a79b8e9b872a1c2b80ceefb2d55901a00a37c2463b1e6a48c0812bd3a0df718ffd", null ]
+    [ "PlayerDump", "df/d73/a11687.html", "df/d73/a11687" ],
+    [ "PlayerDumpWriter", "dc/dd7/a11691.html", "dc/dd7/a11691" ],
+    [ "PlayerDumpReader", "d6/dae/a11695.html", "d6/dae/a11695" ],
+    [ "DumpReturn", "d9/d65/a01145.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d9/d65/a01145.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d9/d65/a01145.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d9/d65/a01145.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d9/d65/a01145.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d9/d65/a01145.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
     ] ],
-    [ "AddSC_boss_high_king_maulgar", "d9/d65/a01145.html#a834deb3700299f1a26f70d1db3e7c804", null ]
+    [ "DumpTableType", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d9/d65/a01145.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

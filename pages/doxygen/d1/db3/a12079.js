@@ -1,17 +1,14 @@
 var a12079 =
 [
-    [ "boss_ambassador_flamelashAI", "d1/db3/a12079.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
-    [ "DoAction", "d1/db3/a12079.html#a6466b6b4a275849a813a362ef6b1d518", null ],
-    [ "getValidRandomPosition", "d1/db3/a12079.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
-    [ "JustDied", "d1/db3/a12079.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
-    [ "JustEngagedWith", "d1/db3/a12079.html#a79138cf6c886c843544b948778f91145", null ],
-    [ "JustSummoned", "d1/db3/a12079.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
-    [ "Reset", "d1/db3/a12079.html#ae2dd71a0edfc489645de130a8b731392", null ],
-    [ "SummonSpirits", "d1/db3/a12079.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
-    [ "TurnRunes", "d1/db3/a12079.html#aefcdf4c5b663671fb96395e280141bbb", null ],
-    [ "UpdateAI", "d1/db3/a12079.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
-    [ "_events", "d1/db3/a12079.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
-    [ "foundValidPosition", "d1/db3/a12079.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
-    [ "summons", "d1/db3/a12079.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
-    [ "validPosition", "d1/db3/a12079.html#af11a0cddced13c34a012c8df964ab68a", null ]
+    [ "boss_galvangarAI", "d1/db3/a12079.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
+    [ "JustEngagedWith", "d1/db3/a12079.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
+    [ "JustRespawned", "d1/db3/a12079.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
+    [ "Reset", "d1/db3/a12079.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
+    [ "UpdateAI", "d1/db3/a12079.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
+    [ "CleaveTimer", "d1/db3/a12079.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
+    [ "FrighteningShoutTimer", "d1/db3/a12079.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
+    [ "MortalStrikeTimer", "d1/db3/a12079.html#acbfa384508002ba9505d280c448f1f0e", null ],
+    [ "ResetTimer", "d1/db3/a12079.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
+    [ "Whirlwind1Timer", "d1/db3/a12079.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
+    [ "Whirlwind2Timer", "d1/db3/a12079.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
 ];

@@ -1,14 +1,10 @@
 var a09155 =
 [
-    [ "areaMapOffset", "d8/d88/a09155.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "d8/d88/a09155.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "d8/d88/a09155.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "d8/d88/a09155.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "d8/d88/a09155.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "d8/d88/a09155.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "d8/d88/a09155.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "d8/d88/a09155.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "d8/d88/a09155.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "d8/d88/a09155.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "d8/d88/a09155.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "GridObjectLoader", "d8/d88/a09155.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d8/d88/a09155.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d8/d88/a09155.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d8/d88/a09155.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d8/d88/a09155.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d8/d88/a09155.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d8/d88/a09155.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

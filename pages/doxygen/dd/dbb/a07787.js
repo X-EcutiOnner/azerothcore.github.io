@@ -1,5 +1,5 @@
 var a07787 =
 [
-    [ "IsColorValid", "dd/dbb/a07787.html#a4e2a1ab20d086987429174f41887bc45", null ],
-    [ "IsTextValid", "dd/dbb/a07787.html#a4704555f7e926f8facce237de6772a3d", null ]
+    [ "IsColorValid", "dd/dbb/a07787.html#a5b13574c40a78f28d15e6b11bc7bd5bc", null ],
+    [ "IsTextValid", "dd/dbb/a07787.html#a1c9a027ff1f355b16fe629b7c4af7b98", null ]
 ];

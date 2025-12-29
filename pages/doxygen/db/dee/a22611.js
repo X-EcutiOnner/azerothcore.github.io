@@ -1,6 +1,6 @@
 var a22611 =
 [
-    [ "PrepareSpellScript", "db/dee/a22611.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "db/dee/a22611.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "db/dee/a22611.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "HandleSummon", "db/dee/a22611.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "db/dee/a22611.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "db/dee/a22611.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

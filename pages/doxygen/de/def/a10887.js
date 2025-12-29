@@ -1,9 +1,11 @@
 var a10887 =
 [
-    [ "WrapItem", "de/def/a10887.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "de/def/a10887.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "de/def/a10887.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "de/def/a10887.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "de/def/a10887.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "de/def/a10887.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "BuyItemInSlot", "de/def/a10887.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "de/def/a10887.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "de/def/a10887.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "de/def/a10887.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "de/def/a10887.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "de/def/a10887.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "de/def/a10887.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "de/def/a10887.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

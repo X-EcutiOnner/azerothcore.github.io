@@ -1,6 +1,6 @@
 var a13455 =
 [
-    [ "HandleActivateObject", "d0/df8/a13455.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d0/df8/a13455.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d0/df8/a13455.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "instance_stratholme_InstanceMapScript", "db/d08/a13459.html", "db/d08/a13459" ],
+    [ "instance_stratholme", "d0/df8/a13455.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d0/df8/a13455.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

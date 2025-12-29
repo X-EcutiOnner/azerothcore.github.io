@@ -1,7 +1,6 @@
 var a18235 =
 [
-    [ "FrostBombExplosion", "d2/d7a/a18235.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d2/d7a/a18235.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d2/d7a/a18235.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d2/d7a/a18235.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "ExtraRemoveEffect", "d2/d7a/a18235.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d2/d7a/a18235.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d2/d7a/a18235.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

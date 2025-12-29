@@ -1,8 +1,5 @@
 var a18363 =
 [
-    [ "FilterTargets", "d1/df9/a18363.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d1/df9/a18363.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d1/df9/a18363.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d1/df9/a18363.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d1/df9/a18363.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "achievement_all_you_can_eat", "d1/df9/a18363.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d1/df9/a18363.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

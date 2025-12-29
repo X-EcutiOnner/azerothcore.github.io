@@ -1,6 +1,6 @@
 var a12147 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d5/de3/a12151.html", "d5/de3/a12151" ],
-    [ "boss_high_interrogator_gerstahn", "df/dc8/a12147.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "df/dc8/a12147.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "npc_burning_spiritAI", "d5/de3/a12151.html", "d5/de3/a12151" ],
+    [ "npc_burning_spirit", "df/dc8/a12147.html#a596e654486c82d15d7a37b069a99856d", null ],
+    [ "GetAI", "df/dc8/a12147.html#a3c704a0856d669a1e684e5a858bc4334", null ]
 ];

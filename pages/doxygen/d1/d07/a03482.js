@@ -1,23 +1,16 @@
 var a03482 =
 [
-    [ "npc_eris_hevenfire", "df/dca/a13742.html", "df/dca/a13742" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d9/dc7/a13746.html", "d9/dc7/a13746" ],
-    [ "npc_balance_of_light_and_shadow", "da/d61/a13750.html", "da/d61/a13750" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "df/de9/a13754.html", "df/de9/a13754" ],
-    [ "npc_augustus_the_touched", "dc/d42/a13758.html", "dc/d42/a13758" ],
-    [ "eEris", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "d1/d07/a03482.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
+    [ "npc_corporal_keeshan", "dd/d92/a13887.html", "dd/d92/a13887" ],
+    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d7/dde/a13891.html", "d7/dde/a13891" ],
+    [ "CorporalKeeshan", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
+      [ "QUEST_MISSING_IN_ACTION", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
+      [ "SAY_CORPORAL_1", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
+      [ "SAY_CORPORAL_2", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
+      [ "SAY_CORPORAL_3", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
+      [ "SAY_CORPORAL_4", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
+      [ "SAY_CORPORAL_5", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
+      [ "SPELL_MOCKING_BLOW", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
+      [ "SPELL_SHIELD_BASH", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
     ] ],
-    [ "AddSC_eastern_plaguelands", "d1/d07/a03482.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "AddSC_redridge_mountains", "d1/d07/a03482.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
 ];

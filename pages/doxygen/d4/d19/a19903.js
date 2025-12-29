@@ -1,6 +1,6 @@
 var a19903 =
 [
-    [ "go_celestial_planetarium_accessAI", "d6/dc4/a19907.html", "d6/dc4/a19907" ],
-    [ "go_celestial_planetarium_access", "d4/d19/a19903.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d4/d19/a19903.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "npc_living_constellationAI", "d6/dc4/a19907.html", "d6/dc4/a19907" ],
+    [ "npc_living_constellation", "d4/d19/a19903.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d4/d19/a19903.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

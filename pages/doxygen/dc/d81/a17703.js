@@ -1,7 +1,9 @@
 var a17703 =
 [
-    [ "npc_icc_blood_beastAI", "dc/d81/a17703.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "dc/d81/a17703.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "dc/d81/a17703.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "dc/d81/a17703.html#a1074059162f818088808795119f081be", null ]
+    [ "CheckProc", "dc/d81/a17703.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "dc/d81/a17703.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "dc/d81/a17703.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "dc/d81/a17703.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "dc/d81/a17703.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "dc/d81/a17703.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

@@ -1,5 +1,5 @@
 var a27599 =
 [
-    [ "go_dragonflayer_cage", "dc/d72/a27599.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "dc/d72/a27599.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "go_scourge_cage", "dc/d72/a27599.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "dc/d72/a27599.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

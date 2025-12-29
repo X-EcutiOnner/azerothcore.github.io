@@ -1,8 +1,8 @@
 var a05003 =
 [
-    [ "MMapData", "d7/d3c/a05003.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
-    [ "~MMapData", "d7/d3c/a05003.html#a28ad87f05014c49373557369e9177df5", null ],
-    [ "loadedTileRefs", "d7/d3c/a05003.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
-    [ "navMesh", "d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66", null ],
-    [ "navMeshQueries", "d7/d3c/a05003.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
+    [ "AreaInfo", "db/d5b/a05007.html", "db/d5b/a05007" ],
+    [ "LiquidInfo", "db/dc2/a05011.html", "db/dc2/a05011" ],
+    [ "areaInfo", "d7/d3c/a05003.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "d7/d3c/a05003.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "d7/d3c/a05003.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

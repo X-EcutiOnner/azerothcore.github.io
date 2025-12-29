@@ -1,10 +1,7 @@
 var a12859 =
 [
-    [ "boss_servant_quarters", "d1/d7e/a12859.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d1/d7e/a12859.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d1/d7e/a12859.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d1/d7e/a12859.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d1/d7e/a12859.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d1/d7e/a12859.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d1/d7e/a12859.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "boss_maiden_of_virtue", "d1/d7e/a12859.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d1/d7e/a12859.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d1/d7e/a12859.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d1/d7e/a12859.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

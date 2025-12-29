@@ -1,7 +1,16 @@
 var a26359 =
 [
-    [ "OnProc", "da/dbc/a26359.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "da/dbc/a26359.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "da/dbc/a26359.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "da/dbc/a26359.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "Spell", "da/dbc/a26359.html#ae62bcfdf7168a58818ffc8b302cffcb7", [
+      [ "PAL_SPELL_ARDENT_DEFENDER_DEBUFF", "da/dbc/a26359.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b", null ],
+      [ "PAL_SPELL_ARDENT_DEFENDER_HEAL", "da/dbc/a26359.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe", null ]
+    ] ],
+    [ "spell_pal_ardent_defender", "da/dbc/a26359.html#a9bc7f72089287dbac352b308489c7781", null ],
+    [ "Absorb", "da/dbc/a26359.html#aee6b0b00078a880dc5ed6684991ee8c8", null ],
+    [ "CalculateAmount", "da/dbc/a26359.html#a749742ceb8be20f5d327becbea7c64d5", null ],
+    [ "Load", "da/dbc/a26359.html#a3718265890fad2a6c6d53b5f401d16dd", null ],
+    [ "PrepareAuraScript", "da/dbc/a26359.html#a33dd57579e724aee0c6f2a8d767fc3c8", null ],
+    [ "Register", "da/dbc/a26359.html#af405994d4be5f11ce63028d0dba1e1da", null ],
+    [ "Validate", "da/dbc/a26359.html#a74fafd4bde88c2e581cac555a131b39d", null ],
+    [ "absorbPct", "da/dbc/a26359.html#a408fe2ab57ae0adcf803c71b5f6cd724", null ],
+    [ "healPct", "da/dbc/a26359.html#a325024973959856c000f380b0bfc3bda", null ]
 ];

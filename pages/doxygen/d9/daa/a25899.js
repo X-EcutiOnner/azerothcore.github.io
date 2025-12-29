@@ -1,6 +1,6 @@
 var a25899 =
 [
-    [ "HandleScript", "d9/daa/a25899.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "d9/daa/a25899.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "d9/daa/a25899.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "HandlePeriodicTick", "d9/daa/a25899.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "d9/daa/a25899.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "d9/daa/a25899.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

@@ -1,9 +1,9 @@
 var a09295 =
 [
-    [ "UnitListSearcher", "de/d58/a09295.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "de/d58/a09295.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "de/d58/a09295.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "de/d58/a09295.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "de/d58/a09295.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "de/d58/a09295.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "GameObjectSearcher", "de/d58/a09295.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
+    [ "Visit", "de/d58/a09295.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
+    [ "Visit", "de/d58/a09295.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
+    [ "i_check", "de/d58/a09295.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
+    [ "i_object", "de/d58/a09295.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
+    [ "i_phaseMask", "de/d58/a09295.html#ac11e036da088f6e62556c42965530040", null ]
 ];

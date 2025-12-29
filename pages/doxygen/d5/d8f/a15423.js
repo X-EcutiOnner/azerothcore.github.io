@@ -1,7 +1,13 @@
 var a15423 =
 [
-    [ "FilterTargets", "d5/d8f/a15423.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d5/d8f/a15423.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d5/d8f/a15423.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d5/d8f/a15423.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_dirt_mound", "d5/d8f/a15423.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "d5/d8f/a15423.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "d5/d8f/a15423.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "d5/d8f/a15423.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "d5/d8f/a15423.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "d5/d8f/a15423.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "d5/d8f/a15423.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "d5/d8f/a15423.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "d5/d8f/a15423.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "d5/d8f/a15423.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

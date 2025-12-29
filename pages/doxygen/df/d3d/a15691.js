@@ -1,5 +1,6 @@
 var a15691 =
 [
-    [ "at_ancient_leaf", "df/d3d/a15691.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "df/d3d/a15691.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "npc_troll_volunteerAI", "de/da0/a15695.html", "de/da0/a15695" ],
+    [ "npc_troll_volunteer", "df/d3d/a15691.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "df/d3d/a15691.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

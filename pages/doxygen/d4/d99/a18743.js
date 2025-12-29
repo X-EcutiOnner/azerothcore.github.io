@@ -1,6 +1,6 @@
 var a18743 =
 [
-    [ "npc_gluttonous_abominationAI", "d7/d07/a18747.html", "d7/d07/a18747" ],
-    [ "npc_gluttonous_abomination", "d4/d99/a18743.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d4/d99/a18743.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "npc_valithria_portalAI", "d7/d07/a18747.html", "d7/d07/a18747" ],
+    [ "npc_valithria_portal", "d4/d99/a18743.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d4/d99/a18743.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

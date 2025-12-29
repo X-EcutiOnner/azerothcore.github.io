@@ -1,5 +1,9 @@
 var a17935 =
 [
-    [ "achievement_im_on_a_boat", "d0/d9f/a17935.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d0/d9f/a17935.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "CalculatePower", "d0/d9f/a17935.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d0/d9f/a17935.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d0/d9f/a17935.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d0/d9f/a17935.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d0/d9f/a17935.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d0/d9f/a17935.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

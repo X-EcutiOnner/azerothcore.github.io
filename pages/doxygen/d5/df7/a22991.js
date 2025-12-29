@@ -1,8 +1,7 @@
 var a22991 =
 [
-    [ "Load", "d5/df7/a22991.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d5/df7/a22991.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d5/df7/a22991.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d5/df7/a22991.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d5/df7/a22991.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "HandleEffectRemove", "d5/df7/a22991.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "d5/df7/a22991.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "d5/df7/a22991.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "d5/df7/a22991.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

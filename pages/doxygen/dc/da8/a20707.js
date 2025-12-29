@@ -1,5 +1,6 @@
 var a20707 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "dc/da8/a20707.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "dc/da8/a20707.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "d7/d41/a20711.html", "d7/d41/a20711" ],
+    [ "npc_ulduar_emergency_fire_bot", "dc/da8/a20707.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
+    [ "GetAI", "dc/da8/a20707.html#afb3ab952495175c5f571d4e39a5acea4", null ]
 ];

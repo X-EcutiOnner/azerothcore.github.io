@@ -1,5 +1,5 @@
 var a27459 =
 [
-    [ "go_resonite_cask", "d4/d66/a27459.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d4/d66/a27459.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "go_seer_of_zebhalak", "d4/d66/a27459.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d4/d66/a27459.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

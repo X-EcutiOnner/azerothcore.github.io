@@ -1,11 +1,8 @@
 var a12307 =
 [
-    [ "boss_solakar_flamewreathAI", "d0/d0c/a12307.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "d0/d0c/a12307.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "d0/d0c/a12307.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "d0/d0c/a12307.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "d0/d0c/a12307.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "d0/d0c/a12307.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "d0/d0c/a12307.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "d0/d0c/a12307.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "boss_highlordomokkAI", "d0/d0c/a12307.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d0/d0c/a12307.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d0/d0c/a12307.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d0/d0c/a12307.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d0/d0c/a12307.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

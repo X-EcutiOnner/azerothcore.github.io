@@ -1,5 +1,8 @@
 var a26587 =
 [
-    [ "PrepareSpellScript", "dc/d53/a26587.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "dc/d53/a26587.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "HandleEffectRemove", "dc/d53/a26587.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "dc/d53/a26587.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "dc/d53/a26587.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "dc/d53/a26587.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "dc/d53/a26587.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

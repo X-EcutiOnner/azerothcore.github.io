@@ -1,6 +1,11 @@
 var a05207 =
 [
-    [ "AppendToBack", "d8/d42/a05207.html#a631dbb5771929cb72bd090e3ced49523", null ],
-    [ "GenerateRandomIV", "d8/d42/a05207.html#afd4b9dd6223e8bd48810b88adc24a4b7", null ],
-    [ "SplitFromBack", "d8/d42/a05207.html#ac27f3335f0fadf98dbd0bedebbfd8390", null ]
+    [ "ARC4", "d8/d42/a05207.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "d8/d42/a05207.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "d8/d42/a05207.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "d8/d42/a05207.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "d8/d42/a05207.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "d8/d42/a05207.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "d8/d42/a05207.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "d8/d42/a05207.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

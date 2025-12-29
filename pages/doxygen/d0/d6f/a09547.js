@@ -1,9 +1,9 @@
 var a09547 =
 [
-    [ "WorldPacketList", "d0/d6f/a09547.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "d0/d6f/a09547.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "d0/d6f/a09547.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "d0/d6f/a09547.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "d0/d6f/a09547.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "d0/d6f/a09547.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "UnitAuraCheck", "d0/d6f/a09547.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d0/d6f/a09547.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d0/d6f/a09547.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d0/d6f/a09547.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d0/d6f/a09547.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d0/d6f/a09547.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

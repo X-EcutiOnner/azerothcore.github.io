@@ -1,6 +1,5 @@
 var a15823 =
 [
-    [ "npc_custodian_of_timeAI", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
-    [ "npc_custodian_of_time", "d9/d28/a15823.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d9/d28/a15823.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "go_crystalline_tear", "d9/d28/a15823.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "d9/d28/a15823.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

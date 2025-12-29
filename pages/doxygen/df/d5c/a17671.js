@@ -1,8 +1,6 @@
 var a17671 =
 [
-    [ "CheckProc", "df/d5c/a17671.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "df/d5c/a17671.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "df/d5c/a17671.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "df/d5c/a17671.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "df/d5c/a17671.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "boss_deathbringer_saurfangAI", "d6/dcd/a17675.html", "d6/dcd/a17675" ],
+    [ "boss_deathbringer_saurfang", "df/d5c/a17671.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "df/d5c/a17671.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

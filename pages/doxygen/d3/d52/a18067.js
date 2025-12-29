@@ -1,6 +1,7 @@
 var a18067 =
 [
-    [ "npc_volatile_oozeAI", "d0/d24/a18071.html", "d0/d24/a18071" ],
-    [ "npc_volatile_ooze", "d3/d52/a18067.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d3/d52/a18067.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "HandleSpikes", "d3/d52/a18067.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d3/d52/a18067.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d3/d52/a18067.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d3/d52/a18067.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

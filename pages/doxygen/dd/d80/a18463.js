@@ -1,7 +1,6 @@
 var a18463 =
 [
-    [ "OnPeriodic", "dd/d80/a18463.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "dd/d80/a18463.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "dd/d80/a18463.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "dd/d80/a18463.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "boss_the_lich_kingAI", "d9/d35/a18467.html", "d9/d35/a18467" ],
+    [ "boss_the_lich_king", "dd/d80/a18463.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "dd/d80/a18463.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

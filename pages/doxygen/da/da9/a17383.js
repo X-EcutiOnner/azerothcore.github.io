@@ -1,6 +1,6 @@
 var a17383 =
 [
-    [ "npc_living_mojoAI", "d8/d87/a17387.html", "d8/d87/a17387" ],
-    [ "npc_living_mojo", "da/da9/a17383.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "da/da9/a17383.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "HandleDummy", "da/da9/a17383.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "da/da9/a17383.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "da/da9/a17383.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

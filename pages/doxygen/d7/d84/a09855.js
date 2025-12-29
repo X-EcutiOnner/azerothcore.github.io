@@ -1,8 +1,13 @@
 var a09855 =
 [
-    [ "PositionFullTerrainStatus", "d7/d84/a09855.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "d7/d84/a09855.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "d7/d84/a09855.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "d7/d84/a09855.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "d7/d84/a09855.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "ParallelogramBoundary", "d7/d84/a09855.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d7/d84/a09855.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d7/d84/a09855.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d7/d84/a09855.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d7/d84/a09855.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d7/d84/a09855.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d7/d84/a09855.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d7/d84/a09855.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d7/d84/a09855.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d7/d84/a09855.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

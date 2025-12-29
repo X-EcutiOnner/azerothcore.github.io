@@ -1,10 +1,13 @@
 var a19635 =
 [
-    [ "npc_oculus_drakegiverAI", "d0/d26/a19635.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d0/d26/a19635.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d0/d26/a19635.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d0/d26/a19635.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d0/d26/a19635.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d0/d26/a19635.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d0/d26/a19635.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "npc_oculus_unstable_sphereAI", "d0/d26/a19635.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d0/d26/a19635.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d0/d26/a19635.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d0/d26/a19635.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d0/d26/a19635.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d0/d26/a19635.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d0/d26/a19635.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d0/d26/a19635.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d0/d26/a19635.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d0/d26/a19635.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

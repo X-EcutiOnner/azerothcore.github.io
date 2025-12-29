@@ -1,8 +1,7 @@
 var a14667 =
 [
-    [ "OnApply", "d7/d94/a14667.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "d7/d94/a14667.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "d7/d94/a14667.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "d7/d94/a14667.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "d7/d94/a14667.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "go_loosely_turned_soilAI", "db/d91/a14671.html", "db/d91/a14671" ],
+    [ "go_loosely_turned_soil", "d7/d94/a14667.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d7/d94/a14667.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d7/d94/a14667.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];
