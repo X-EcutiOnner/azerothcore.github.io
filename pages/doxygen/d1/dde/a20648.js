@@ -1,12 +1,24 @@
 var a20648 =
 [
-    [ "npc_ulduar_flames_initialAI", "d1/dde/a20648.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "d1/dde/a20648.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "d1/dde/a20648.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "d1/dde/a20648.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "d1/dde/a20648.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "d1/dde/a20648.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "d1/dde/a20648.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "d1/dde/a20648.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "d1/dde/a20648.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "npc_ulduar_vx001AI", "d1/dde/a20648.html#a47b46f1110a0a376544e388501a5dc82", null ],
+    [ "AttackStart", "d1/dde/a20648.html#a5b3fdc76e6ea484a7d0fdc815dad56c7", null ],
+    [ "DamageTaken", "d1/dde/a20648.html#a41b562b4df965445e8581eec12a4bcfa", null ],
+    [ "DoAction", "d1/dde/a20648.html#aacbaae85f9870e64ca43a42c224bb12e", null ],
+    [ "EnterEvadeMode", "d1/dde/a20648.html#aed853ac2a262750d1ccb636146897f06", null ],
+    [ "GetData", "d1/dde/a20648.html#a7b7387c58924d3e05ed1e5fc9273e1fa", null ],
+    [ "KilledUnit", "d1/dde/a20648.html#a0a12f7cfd55b0e14f41b8ae3107656fc", null ],
+    [ "MoveInLineOfSight", "d1/dde/a20648.html#a37295ca8047d2cb2248faa59b68830bf", null ],
+    [ "PassengerBoarded", "d1/dde/a20648.html#a8b9f0a4a56f38f527ce1c80202ce084f", null ],
+    [ "Reset", "d1/dde/a20648.html#a07dcd2c5ce8125bff0287f172ead79d5", null ],
+    [ "SetData", "d1/dde/a20648.html#a3cfeac1b6f76d9c337ceb64dd8647980", null ],
+    [ "SpellHit", "d1/dde/a20648.html#abf25b8b64231c1aba63a381734709d76", null ],
+    [ "UpdateAI", "d1/dde/a20648.html#aeb7956153cbfcac4064a5896c231bebb", null ],
+    [ "bIsEvading", "d1/dde/a20648.html#ab0230a2e72f5a0f37abcb01428749db2", null ],
+    [ "events", "d1/dde/a20648.html#a4728fe7157b76c4841a29548817ca3be", null ],
+    [ "fighting", "d1/dde/a20648.html#a53ff3572622d29e3b58719990df8ce6a", null ],
+    [ "leftarm", "d1/dde/a20648.html#a52c6c4e1ed36f81b5d655e0399d485e1", null ],
+    [ "Phase", "d1/dde/a20648.html#a17aa1eaa6af8e450f47348096d9ed400", null ],
+    [ "pInstance", "d1/dde/a20648.html#a05d8dfa16d609a8689e7b1f01cd4333b", null ],
+    [ "spinningUpOrientation", "d1/dde/a20648.html#a2d696433e3897b0ddbc2d22da8af741f", null ],
+    [ "spinningUpTimer", "d1/dde/a20648.html#ab42021785e07a3ca000ae807c53c84a8", null ]
 ];

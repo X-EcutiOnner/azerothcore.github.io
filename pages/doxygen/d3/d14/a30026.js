@@ -1,6 +1,7 @@
 var a30026 =
 [
-    [ "ID", "d3/d14/a30026.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "d3/d14/a30026.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "d3/d14/a30026.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "MPQArchive", "de/d07/a29020.html", "de/d07/a29020" ],
+    [ "MPQFile", "d7/d0c/a29024.html", "d7/d0c/a29024" ],
+    [ "ArchiveSet", "d3/d14/a30026.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d3/d14/a30026.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

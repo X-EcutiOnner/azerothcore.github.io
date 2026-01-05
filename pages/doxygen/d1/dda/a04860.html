@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AIRegistry Namespace Reference</title>
+<title>AzerothCore: anonymous_namespace{DatabaseLoader.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,65 +105,124 @@ $(document).ready(function(){initNavTree('d1/dda/a04860.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">AIRegistry Namespace Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">anonymous_namespace{DatabaseLoader.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a9ddfbc9345acf19d3b4bcb7ce7804c94"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dda/a04860.html#a9ddfbc9345acf19d3b4bcb7ce7804c94">Initialize</a> ()</td></tr>
-<tr class="separator:a9ddfbc9345acf19d3b4bcb7ce7804c94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5560c170776773a1a20d93060003e89d"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dda/a04860.html#a5560c170776773a1a20d93060003e89d">GetDefaultDatabaseInfo</a> (std::string_view name)</td></tr>
+<tr class="separator:a5560c170776773a1a20d93060003e89d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aa2920a017ca93e102f17b0ca20885c5b"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dda/a04860.html#aa2920a017ca93e102f17b0ca20885c5b">EMPTY_DATABASE_INFO</a></td></tr>
+<tr class="separator:aa2920a017ca93e102f17b0ca20885c5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5457f479ebc812232cc3f0d67fabde1"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dda/a04860.html#aa5457f479ebc812232cc3f0d67fabde1">LOGIN_DATABASE_INFO_DEFAULT</a> = &quot;127.0.0.1;3306;acore;acore;acore_auth&quot;</td></tr>
+<tr class="separator:aa5457f479ebc812232cc3f0d67fabde1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2151db3d84513bc271cf642ad76bb80"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dda/a04860.html#ad2151db3d84513bc271cf642ad76bb80">WORLD_DATABASE_INFO_DEFAULT</a> = &quot;127.0.0.1;3306;acore;acore;acore_world&quot;</td></tr>
+<tr class="separator:ad2151db3d84513bc271cf642ad76bb80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6854faf653c8b94d9e1b611db3269d1a"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dda/a04860.html#a6854faf653c8b94d9e1b611db3269d1a">CHARACTER_DATABASE_INFO_DEFAULT</a> = &quot;127.0.0.1;3306;acore;acore;acore_characters&quot;</td></tr>
+<tr class="separator:a6854faf653c8b94d9e1b611db3269d1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a9ddfbc9345acf19d3b4bcb7ce7804c94" name="a9ddfbc9345acf19d3b4bcb7ce7804c94"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ddfbc9345acf19d3b4bcb7ce7804c94">&#9670;&#160;</a></span>Initialize()</h2>
+<a id="a5560c170776773a1a20d93060003e89d" name="a5560c170776773a1a20d93060003e89d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5560c170776773a1a20d93060003e89d">&#9670;&#160;</a></span>GetDefaultDatabaseInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AIRegistry::Initialize </td>
+          <td class="memname">std::string const  &amp; anonymous_namespace{DatabaseLoader.cpp}::GetDefaultDatabaseInfo </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;NullCreatureAI&gt;</a>(<span class="stringliteral">&quot;NullCreatureAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   37</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;TriggerAI&gt;</a>(<span class="stringliteral">&quot;TriggerAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   38</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;AggressorAI&gt;</a>(<span class="stringliteral">&quot;AggressorAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   39</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;ReactorAI&gt;</a>(<span class="stringliteral">&quot;ReactorAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   40</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;PassiveAI&gt;</a>(<span class="stringliteral">&quot;PassiveAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   41</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;CritterAI&gt;</a>(<span class="stringliteral">&quot;CritterAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   42</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;GuardAI&gt;</a>(<span class="stringliteral">&quot;GuardAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   43</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;PetAI&gt;</a>(<span class="stringliteral">&quot;PetAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   44</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;TotemAI&gt;</a>(<span class="stringliteral">&quot;TotemAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   45</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;CombatAI&gt;</a>(<span class="stringliteral">&quot;CombatAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   46</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;ArcherAI&gt;</a>(<span class="stringliteral">&quot;ArcherAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   47</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;TurretAI&gt;</a>(<span class="stringliteral">&quot;TurretAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   48</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;VehicleAI&gt;</a>(<span class="stringliteral">&quot;VehicleAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   49</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d8/d45/a06251.html">CreatureAIFactory&lt;SmartAI&gt;</a>(<span class="stringliteral">&quot;SmartAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d4/d72/a06267.html">GameObjectAIFactory&lt;NullGameObjectAI&gt;</a>(<span class="stringliteral">&quot;NullGameObjectAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   52</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d4/d72/a06267.html">GameObjectAIFactory&lt;GameObjectAI&gt;</a>(<span class="stringliteral">&quot;GameObjectAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   53</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../d4/d72/a06267.html">GameObjectAIFactory&lt;SmartGameObjectAI&gt;</a>(<span class="stringliteral">&quot;SmartGameObjectAI&quot;</span>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../de/d38/a10023.html">IdleMovementFactory</a>())-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   56</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../dc/dfd/a10019.html">MovementGeneratorFactory&lt;RandomMovementGenerator&lt;Creature&gt;</a>&gt;(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2">RANDOM_MOTION_TYPE</a>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   57</span>        (<span class="keyword">new</span> <a class="code hl_struct" href="../../dc/dfd/a10019.html">MovementGeneratorFactory&lt;WaypointMovementGenerator&lt;Creature&gt;</a>&gt;(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>))-&gt;RegisterSelf();</div>
-<div class="line"><span class="lineno">   58</span>    }</div>
-<div class="ttc" id="aa00458_html_a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9"><div class="ttname"><a href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a></div><div class="ttdeci">@ WAYPOINT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:41</div></div>
-<div class="ttc" id="aa00458_html_a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2"><div class="ttname"><a href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2">RANDOM_MOTION_TYPE</a></div><div class="ttdeci">@ RANDOM_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:40</div></div>
-<div class="ttc" id="aa06251_html"><div class="ttname"><a href="../../d8/d45/a06251.html">CreatureAIFactory</a></div><div class="ttdef"><b>Definition:</b> CreatureAIFactory.h:33</div></div>
-<div class="ttc" id="aa06267_html"><div class="ttname"><a href="../../d4/d72/a06267.html">GameObjectAIFactory</a></div><div class="ttdef"><b>Definition:</b> GameObjectAIFactory.h:33</div></div>
-<div class="ttc" id="aa10019_html"><div class="ttname"><a href="../../dc/dfd/a10019.html">MovementGeneratorFactory</a></div><div class="ttdef"><b>Definition:</b> MovementGenerator.h:87</div></div>
-<div class="ttc" id="aa10023_html"><div class="ttname"><a href="../../de/d38/a10023.html">IdleMovementFactory</a></div><div class="ttdef"><b>Definition:</b> MovementGenerator.h:97</div></div>
+<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">if</span> (name == <span class="stringliteral">&quot;Login&quot;</span>)</div>
+<div class="line"><span class="lineno">   37</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dda/a04860.html#aa5457f479ebc812232cc3f0d67fabde1">LOGIN_DATABASE_INFO_DEFAULT</a>;</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">if</span> (name == <span class="stringliteral">&quot;World&quot;</span>)</div>
+<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dda/a04860.html#ad2151db3d84513bc271cf642ad76bb80">WORLD_DATABASE_INFO_DEFAULT</a>;</div>
+<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">if</span> (name == <span class="stringliteral">&quot;Character&quot;</span>)</div>
+<div class="line"><span class="lineno">   41</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dda/a04860.html#a6854faf653c8b94d9e1b611db3269d1a">CHARACTER_DATABASE_INFO_DEFAULT</a>;</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dda/a04860.html#aa2920a017ca93e102f17b0ca20885c5b">EMPTY_DATABASE_INFO</a>;</div>
+<div class="line"><span class="lineno">   43</span>    }</div>
+<div class="ttc" id="aa04860_html_a6854faf653c8b94d9e1b611db3269d1a"><div class="ttname"><a href="../../d1/dda/a04860.html#a6854faf653c8b94d9e1b611db3269d1a">anonymous_namespace{DatabaseLoader.cpp}::CHARACTER_DATABASE_INFO_DEFAULT</a></div><div class="ttdeci">std::string const CHARACTER_DATABASE_INFO_DEFAULT</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.cpp:33</div></div>
+<div class="ttc" id="aa04860_html_aa2920a017ca93e102f17b0ca20885c5b"><div class="ttname"><a href="../../d1/dda/a04860.html#aa2920a017ca93e102f17b0ca20885c5b">anonymous_namespace{DatabaseLoader.cpp}::EMPTY_DATABASE_INFO</a></div><div class="ttdeci">std::string const EMPTY_DATABASE_INFO</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.cpp:30</div></div>
+<div class="ttc" id="aa04860_html_aa5457f479ebc812232cc3f0d67fabde1"><div class="ttname"><a href="../../d1/dda/a04860.html#aa5457f479ebc812232cc3f0d67fabde1">anonymous_namespace{DatabaseLoader.cpp}::LOGIN_DATABASE_INFO_DEFAULT</a></div><div class="ttdeci">std::string const LOGIN_DATABASE_INFO_DEFAULT</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.cpp:31</div></div>
+<div class="ttc" id="aa04860_html_ad2151db3d84513bc271cf642ad76bb80"><div class="ttname"><a href="../../d1/dda/a04860.html#ad2151db3d84513bc271cf642ad76bb80">anonymous_namespace{DatabaseLoader.cpp}::WORLD_DATABASE_INFO_DEFAULT</a></div><div class="ttdeci">std::string const WORLD_DATABASE_INFO_DEFAULT</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.cpp:32</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">RANDOM_MOTION_TYPE</a>, and <a class="el" href="../../#l00041">WAYPOINT_MOTION_TYPE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00033">CHARACTER_DATABASE_INFO_DEFAULT</a>, <a class="el" href="../../#l00030">EMPTY_DATABASE_INFO</a>, <a class="el" href="../../#l00031">LOGIN_DATABASE_INFO_DEFAULT</a>, and <a class="el" href="../../#l00032">WORLD_DATABASE_INFO_DEFAULT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a6854faf653c8b94d9e1b611db3269d1a" name="a6854faf653c8b94d9e1b611db3269d1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6854faf653c8b94d9e1b611db3269d1a">&#9670;&#160;</a></span>CHARACTER_DATABASE_INFO_DEFAULT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const anonymous_namespace{DatabaseLoader.cpp}::CHARACTER_DATABASE_INFO_DEFAULT = &quot;127.0.0.1;3306;acore;acore;acore_characters&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">GetDefaultDatabaseInfo()</a>.</p>
+
+</div>
+</div>
+<a id="aa2920a017ca93e102f17b0ca20885c5b" name="aa2920a017ca93e102f17b0ca20885c5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2920a017ca93e102f17b0ca20885c5b">&#9670;&#160;</a></span>EMPTY_DATABASE_INFO</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const anonymous_namespace{DatabaseLoader.cpp}::EMPTY_DATABASE_INFO</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">GetDefaultDatabaseInfo()</a>.</p>
+
+</div>
+</div>
+<a id="aa5457f479ebc812232cc3f0d67fabde1" name="aa5457f479ebc812232cc3f0d67fabde1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5457f479ebc812232cc3f0d67fabde1">&#9670;&#160;</a></span>LOGIN_DATABASE_INFO_DEFAULT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const anonymous_namespace{DatabaseLoader.cpp}::LOGIN_DATABASE_INFO_DEFAULT = &quot;127.0.0.1;3306;acore;acore;acore_auth&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">GetDefaultDatabaseInfo()</a>.</p>
+
+</div>
+</div>
+<a id="ad2151db3d84513bc271cf642ad76bb80" name="ad2151db3d84513bc271cf642ad76bb80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2151db3d84513bc271cf642ad76bb80">&#9670;&#160;</a></span>WORLD_DATABASE_INFO_DEFAULT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const anonymous_namespace{DatabaseLoader.cpp}::WORLD_DATABASE_INFO_DEFAULT = &quot;127.0.0.1;3306;acore;acore;acore_world&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">GetDefaultDatabaseInfo()</a>.</p>
 
 </div>
 </div>
@@ -172,8 +231,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/dda/a04860.html">AIRegistry</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 20:51:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/dda/a04860.html">anonymous_namespace{DatabaseLoader.cpp}</a></li>
+    <li class="footer">Generated on Mon Jan 5 2026 20:55:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,6 @@
 var a19024 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "df/d10/a19024.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "df/d10/a19024.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "df/d10/a19024.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "df/d10/a19024.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "df/d10/a19024.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "df/d10/a19024.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "df/d10/a19024.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "df/d10/a19024.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "df/d10/a19024.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "HandleScript", "df/d10/a19024.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "df/d10/a19024.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "df/d10/a19024.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

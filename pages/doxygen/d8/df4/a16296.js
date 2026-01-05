@@ -1,7 +1,8 @@
 var a16296 =
 [
-    [ "HandlePeriodic", "d8/df4/a16296.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d8/df4/a16296.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d8/df4/a16296.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d8/df4/a16296.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "RestoreFight", "d8/df4/a16296.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d8/df4/a16296.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d8/df4/a16296.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d8/df4/a16296.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d8/df4/a16296.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

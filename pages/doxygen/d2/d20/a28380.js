@@ -1,6 +1,9 @@
 var a28380 =
 [
-    [ "Id", "d2/d20/a28380.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d2/d20/a28380.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d2/d20/a28380.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "HolidayWorldStateId", "d2/d20/a28380.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "d2/d20/a28380.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "d2/d20/a28380.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "d2/d20/a28380.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "d2/d20/a28380.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "d2/d20/a28380.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

@@ -1,8 +1,7 @@
 var a18724 =
 [
-    [ "Load", "d9/d86/a18724.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d9/d86/a18724.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d9/d86/a18724.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d9/d86/a18724.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d9/d86/a18724.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "ValithriaDespawner", "d9/d86/a18724.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d9/d86/a18724.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d9/d86/a18724.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d9/d86/a18724.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

@@ -1,5 +1,6 @@
 var a28752 =
 [
-    [ "type", "d7/de0/a28752.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "d7/de0/a28752.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "categoryMask", "d7/de0/a28752.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "d7/de0/a28752.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "d7/de0/a28752.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

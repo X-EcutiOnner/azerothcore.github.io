@@ -1,6 +1,6 @@
 var a12236 =
 [
-    [ "boss_highlordomokkAI", "d6/d91/a12240.html", "d6/d91/a12240" ],
-    [ "boss_highlord_omokk", "d8/d99/a12236.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "d8/d99/a12236.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "boss_magmusAI", "d6/d91/a12240.html", "d6/d91/a12240" ],
+    [ "boss_magmus", "d8/d99/a12236.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "d8/d99/a12236.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

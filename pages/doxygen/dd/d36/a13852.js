@@ -1,13 +1,9 @@
 var a13852 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dd/d36/a13852.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "dd/d36/a13852.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "dd/d36/a13852.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "dd/d36/a13852.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "dd/d36/a13852.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "dd/d36/a13852.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "dd/d36/a13852.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "dd/d36/a13852.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "dd/d36/a13852.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "dd/d36/a13852.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_partygoer", "dd/d36/a13852.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "dd/d36/a13852.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "dd/d36/a13852.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "dd/d36/a13852.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "dd/d36/a13852.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "dd/d36/a13852.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

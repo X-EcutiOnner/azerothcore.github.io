@@ -1,7 +1,8 @@
 var a22200 =
 [
-    [ "npc_battle_at_valhalasAI", "d2/d4c/a22204.html", "d2/d4c/a22204" ],
-    [ "npc_battle_at_valhalas", "da/dc1/a22200.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "da/dc1/a22200.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "da/dc1/a22200.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "HandleEffectApply", "da/dc1/a22200.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "da/dc1/a22200.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "da/dc1/a22200.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "da/dc1/a22200.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "da/dc1/a22200.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

@@ -1,7 +1,8 @@
 var a11316 =
 [
-    [ "chance", "d0/d7b/a11316.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d0/d7b/a11316.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d0/d7b/a11316.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d0/d7b/a11316.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "SkillExtraItemEntry", "d0/d7b/a11316.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d0/d7b/a11316.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d0/d7b/a11316.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d0/d7b/a11316.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d0/d7b/a11316.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

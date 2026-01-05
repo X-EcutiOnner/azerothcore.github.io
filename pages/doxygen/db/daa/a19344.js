@@ -1,6 +1,6 @@
 var a19344 =
 [
-    [ "FilterTargets", "db/daa/a19344.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "db/daa/a19344.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "db/daa/a19344.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_kelthuzad_minionAI", "d0/d56/a19348.html", "d0/d56/a19348" ],
+    [ "boss_kelthuzad_minion", "db/daa/a19344.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "db/daa/a19344.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

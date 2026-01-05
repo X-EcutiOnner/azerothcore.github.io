@@ -1,6 +1,7 @@
 var a18264 =
 [
-    [ "FilterTargets", "df/dfa/a18264.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "df/dfa/a18264.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "df/dfa/a18264.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "HandleScript", "df/dfa/a18264.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "df/dfa/a18264.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "df/dfa/a18264.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "df/dfa/a18264.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

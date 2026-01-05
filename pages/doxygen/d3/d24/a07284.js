@@ -1,5 +1,7 @@
 var a07284 =
 [
-    [ "~ArenaSeasonTeamRewarder", "d3/d24/a07284.html#a8f7eb844a39cd5213134ef4f4d4b1fde", null ],
-    [ "RewardTeamWithRewardGroup", "d3/d24/a07284.html#a2beaf893f95e16c4d388ad048885848b", null ]
+    [ "attackText", "d3/d24/a07284.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "d3/d24/a07284.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "d3/d24/a07284.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d3/d24/a07284.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

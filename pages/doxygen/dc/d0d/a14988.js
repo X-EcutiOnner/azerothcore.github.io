@@ -1,14 +1,6 @@
 var a14988 =
 [
-    [ "boss_captain_skarloc", "dc/d0d/a14988.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "dc/d0d/a14988.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "dc/d0d/a14988.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "dc/d0d/a14988.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "dc/d0d/a14988.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "dc/d0d/a14988.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "dc/d0d/a14988.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "dc/d0d/a14988.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "dc/d0d/a14988.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "dc/d0d/a14988.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "dc/d0d/a14988.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "boss_epochAI", "d6/d88/a14992.html", "d6/d88/a14992" ],
+    [ "boss_epoch", "dc/d0d/a14988.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "dc/d0d/a14988.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

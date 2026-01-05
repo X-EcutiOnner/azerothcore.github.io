@@ -1,5 +1,6 @@
 var a04352 =
 [
-    [ "SHA1", "d3/dea/a04352.html#af1f12790805678378554ea1c14b0c1df", null ],
-    [ "SRP6", "d3/dea/a04352.html#a80857313fb18764ec6d5834e183889f8", null ]
+    [ "Acore::Impl::GenericHMAC< HashCreator, DigestLength >", "d9/df0/a05252.html", "d9/df0/a05252" ],
+    [ "HMAC_SHA1", "d3/dea/a04352.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
+    [ "HMAC_SHA256", "d3/dea/a04352.html#a80d906d20826d6c963f50eba5f7c4c2a", null ]
 ];

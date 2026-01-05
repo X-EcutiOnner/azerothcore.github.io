@@ -1,6 +1,6 @@
 var a22228 =
 [
-    [ "npc_boneguard_footmanAI", "d6/dbc/a22228.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d6/dbc/a22228.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d6/dbc/a22228.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_plaguehound_trackerAI", "da/d50/a22232.html", "da/d50/a22232" ],
+    [ "npc_plaguehound_tracker", "d6/dbc/a22228.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d6/dbc/a22228.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

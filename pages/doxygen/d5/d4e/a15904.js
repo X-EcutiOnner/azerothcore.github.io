@@ -1,6 +1,7 @@
 var a15904 =
 [
-    [ "SayerEntry", "d5/d4e/a15904.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d5/d4e/a15904.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d5/d4e/a15904.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_giltharesAI", "d5/d4e/a15904.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d5/d4e/a15904.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d5/d4e/a15904.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d5/d4e/a15904.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

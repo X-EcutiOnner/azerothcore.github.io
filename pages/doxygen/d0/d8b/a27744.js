@@ -1,8 +1,10 @@
 var a27744 =
 [
-    [ "npc_chicken_cluckAI", "d3/de1/a27748.html", "d3/de1/a27748" ],
-    [ "npc_chicken_cluck", "d0/d8b/a27744.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d0/d8b/a27744.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d0/d8b/a27744.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d0/d8b/a27744.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_prof_tailor", "d0/d8b/a27744.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "d0/d8b/a27744.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "d0/d8b/a27744.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "d0/d8b/a27744.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "d0/d8b/a27744.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "d0/d8b/a27744.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "d0/d8b/a27744.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

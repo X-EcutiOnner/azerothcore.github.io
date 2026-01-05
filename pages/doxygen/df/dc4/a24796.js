@@ -1,11 +1,10 @@
 var a24796 =
 [
-    [ "CalcPeriodic", "df/dc4/a24796.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "df/dc4/a24796.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "df/dc4/a24796.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "df/dc4/a24796.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "df/dc4/a24796.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "df/dc4/a24796.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "df/dc4/a24796.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "df/dc4/a24796.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "Absorb", "df/dc4/a24796.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "df/dc4/a24796.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "df/dc4/a24796.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "df/dc4/a24796.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "df/dc4/a24796.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "df/dc4/a24796.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "df/dc4/a24796.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

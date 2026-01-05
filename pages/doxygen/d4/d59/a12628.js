@@ -1,6 +1,7 @@
 var a12628 =
 [
-    [ "boss_magmadarAI", "d4/d59/a12628.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d4/d59/a12628.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d4/d59/a12628.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "HandleEffectScriptEffect", "d4/d59/a12628.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d4/d59/a12628.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d4/d59/a12628.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d4/d59/a12628.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

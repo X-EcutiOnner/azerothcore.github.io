@@ -1,6 +1,7 @@
 var a19592 =
 [
-    [ "instance_oculus_InstanceMapScript", "d4/df2/a19596.html", "d4/df2/a19596" ],
-    [ "instance_oculus", "d9/d9b/a19592.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d9/d9b/a19592.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "boss_commander_stoutbeard", "d9/d9b/a19592.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d9/d9b/a19592.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d9/d9b/a19592.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d9/d9b/a19592.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

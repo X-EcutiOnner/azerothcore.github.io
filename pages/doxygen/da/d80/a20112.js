@@ -1,8 +1,12 @@
 var a20112 =
 [
-    [ "npc_mechanoliftAI", "da/d80/a20112.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
-    [ "Reset", "da/d80/a20112.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
-    [ "UpdateAI", "da/d80/a20112.html#a3f8634abde6b3aa00acf03c77df433be", null ],
-    [ "_evadeTimer", "da/d80/a20112.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
-    [ "_startTimer", "da/d80/a20112.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
+    [ "npc_freya_wardAI", "da/d80/a20112.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
+    [ "DoAction", "da/d80/a20112.html#a4c9418b5474eb572a76168d4a460159a", null ],
+    [ "JustSummoned", "da/d80/a20112.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
+    [ "Reset", "da/d80/a20112.html#a65d304edd3b00b4a45c58bf36b926900", null ],
+    [ "SummonedCreatureDespawn", "da/d80/a20112.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
+    [ "UpdateAI", "da/d80/a20112.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
+    [ "_castTimer", "da/d80/a20112.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
+    [ "_summoned", "da/d80/a20112.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
+    [ "summons", "da/d80/a20112.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
 ];

@@ -1,6 +1,10 @@
 var a11536 =
 [
-    [ "CheckProcHandler", "d3/dec/a11536.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "d3/dec/a11536.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "d3/dec/a11536.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "TargetHook", "d3/dec/a11536.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "d3/dec/a11536.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "d3/dec/a11536.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "d3/dec/a11536.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "d3/dec/a11536.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "d3/dec/a11536.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "d3/dec/a11536.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

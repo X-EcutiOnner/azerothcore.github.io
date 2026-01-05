@@ -1,6 +1,9 @@
 var a12140 =
 [
-    [ "boss_hedrumAI", "db/daf/a12140.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "db/daf/a12140.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "db/daf/a12140.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "npc_phalanxAI", "db/daf/a12140.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "db/daf/a12140.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "db/daf/a12140.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "db/daf/a12140.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "db/daf/a12140.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "db/daf/a12140.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

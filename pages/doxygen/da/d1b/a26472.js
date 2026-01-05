@@ -1,6 +1,8 @@
 var a26472 =
 [
-    [ "HandleScriptEffect", "da/d1b/a26472.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "da/d1b/a26472.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "da/d1b/a26472.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "CheckProc", "da/d1b/a26472.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "da/d1b/a26472.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "da/d1b/a26472.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "da/d1b/a26472.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "da/d1b/a26472.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

@@ -1,6 +1,5 @@
 var a22268 =
 [
-    [ "ChangeSummonPos", "d1/df9/a22268.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d1/df9/a22268.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d1/df9/a22268.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_black_knight_graveyardAI", "d1/df9/a22268.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d1/df9/a22268.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

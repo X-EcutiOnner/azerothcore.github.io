@@ -1,17 +1,10 @@
 var a16936 =
 [
-    [ "boss_bronjahmAI", "d4/d05/a16936.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
-    [ "DamageTaken", "d4/d05/a16936.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
-    [ "EnterEvadeMode", "d4/d05/a16936.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
-    [ "JustDied", "d4/d05/a16936.html#aec27198e51022639fd002879d8afa40d", null ],
-    [ "JustEngagedWith", "d4/d05/a16936.html#a60719369456cb55155966ccefffe49ba", null ],
-    [ "JustReachedHome", "d4/d05/a16936.html#adacba5b04f9d0c273226f055a19c0b16", null ],
-    [ "JustSummoned", "d4/d05/a16936.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
-    [ "KilledUnit", "d4/d05/a16936.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
-    [ "Reset", "d4/d05/a16936.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
-    [ "SpellHitTarget", "d4/d05/a16936.html#afdc24fb0a530813e1a6618f469911f89", null ],
-    [ "UpdateAI", "d4/d05/a16936.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
-    [ "events", "d4/d05/a16936.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
-    [ "pInstance", "d4/d05/a16936.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
-    [ "summons", "d4/d05/a16936.html#ad8b011080db0d4829fbbde4739371d36", null ]
+    [ "boss_dredAI", "d4/d05/a16936.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d4/d05/a16936.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d4/d05/a16936.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d4/d05/a16936.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d4/d05/a16936.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d4/d05/a16936.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d4/d05/a16936.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

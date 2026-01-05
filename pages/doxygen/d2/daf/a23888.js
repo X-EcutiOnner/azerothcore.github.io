@@ -1,7 +1,6 @@
 var a23888 =
 [
-    [ "HandleCast", "d2/daf/a23888.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d2/daf/a23888.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d2/daf/a23888.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d2/daf/a23888.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "boss_porung", "d2/daf/a23888.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d2/daf/a23888.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d2/daf/a23888.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

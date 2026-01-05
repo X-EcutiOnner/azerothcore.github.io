@@ -1,8 +1,8 @@
 var a16632 =
 [
-    [ "npc_toc_hunterAI", "d6/d39/a16632.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d6/d39/a16632.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d6/d39/a16632.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d6/d39/a16632.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d6/d39/a16632.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_frost_sphereAI", "d6/d39/a16632.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d6/d39/a16632.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d6/d39/a16632.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d6/d39/a16632.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d6/d39/a16632.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

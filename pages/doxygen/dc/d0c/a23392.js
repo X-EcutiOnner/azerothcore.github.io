@@ -1,12 +1,6 @@
 var a23392 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d0c/a23392.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "dc/d0c/a23392.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "dc/d0c/a23392.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "dc/d0c/a23392.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnGameObjectCreate", "dc/d0c/a23392.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "dc/d0c/a23392.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "dc/d0c/a23392.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "dc/d0c/a23392.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
-    [ "_shieldGeneratorGUID", "dc/d0c/a23392.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "HandleEffectRemove", "dc/d0c/a23392.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "dc/d0c/a23392.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "dc/d0c/a23392.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

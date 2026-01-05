@@ -1,8 +1,12 @@
 var a19780 =
 [
-    [ "brann_bronzebeardAI", "d2/d4c/a19784.html", "d2/d4c/a19784" ],
-    [ "brann_bronzebeard", "de/d70/a19780.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "de/d70/a19780.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "de/d70/a19780.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "de/d70/a19780.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_loken", "de/d70/a19780.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "de/d70/a19780.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "de/d70/a19780.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "de/d70/a19780.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "de/d70/a19780.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "de/d70/a19780.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "de/d70/a19780.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "de/d70/a19780.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "de/d70/a19780.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

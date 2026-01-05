@@ -1,6 +1,7 @@
 var a15676 =
 [
-    [ "npc_silva_filnaveth", "d3/ddc/a15676.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d3/ddc/a15676.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d3/ddc/a15676.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_cork_gizeltonAI", "de/d35/a15680.html", "de/d35/a15680" ],
+    [ "npc_cork_gizelton", "d3/ddc/a15676.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d3/ddc/a15676.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d3/ddc/a15676.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

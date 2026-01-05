@@ -1,15 +1,18 @@
 var a11780 =
 [
-    [ "arena_commandscript", "d0/dde/a11780.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
-    [ "GetCommands", "d0/dde/a11780.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
-    [ "HandleArenaCaptainCommand", "d0/dde/a11780.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
-    [ "HandleArenaCreateCommand", "d0/dde/a11780.html#a10eab39042cb718d839fbdf7236b1a31", null ],
-    [ "HandleArenaDisbandCommand", "d0/dde/a11780.html#a012626d4c101a63d9a70c530c9e98354", null ],
-    [ "HandleArenaInfoCommand", "d0/dde/a11780.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
-    [ "HandleArenaLookupCommand", "d0/dde/a11780.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
-    [ "HandleArenaRenameCommand", "d0/dde/a11780.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
-    [ "HandleArenaSeasonDeleteTeamsCommand", "d0/dde/a11780.html#a956b4450813331d5bc43c46409c4a095", null ],
-    [ "HandleArenaSeasonRewardCommand", "d0/dde/a11780.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
-    [ "HandleArenaSeasonSetStateCommand", "d0/dde/a11780.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
-    [ "HandleArenaSeasonStartCommand", "d0/dde/a11780.html#a58ea37f547986c084c04064bddc32cfb", null ]
+    [ "WardenWin", "d0/dde/a11780.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
+    [ "~WardenWin", "d0/dde/a11780.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
+    [ "ForceChecks", "d0/dde/a11780.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetModuleForClient", "d0/dde/a11780.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
+    [ "HandleData", "d0/dde/a11780.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
+    [ "HandleHashResult", "d0/dde/a11780.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
+    [ "Init", "d0/dde/a11780.html#a3222620148b84a4d95593800a83ba3fa", null ],
+    [ "InitializeModule", "d0/dde/a11780.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
+    [ "IsCheckInProgress", "d0/dde/a11780.html#aee57f10f6f4f676908c54f305210b6bc", null ],
+    [ "RequestChecks", "d0/dde/a11780.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
+    [ "RequestHash", "d0/dde/a11780.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
+    [ "_ChecksTodo", "d0/dde/a11780.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
+    [ "_CurrentChecks", "d0/dde/a11780.html#a9cb49a2629d08e0f54d363f81c284425", null ],
+    [ "_PendingChecks", "d0/dde/a11780.html#a463e1f12600b12ddf54f762093ae57f0", null ],
+    [ "_serverTicks", "d0/dde/a11780.html#a79e969e649fa057cd3a1a835837188c6", null ]
 ];

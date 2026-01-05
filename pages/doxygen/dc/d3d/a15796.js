@@ -1,9 +1,9 @@
 var a15796 =
 [
-    [ "npc_custodian_of_timeAI", "dc/d3d/a15796.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "dc/d3d/a15796.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "dc/d3d/a15796.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "dc/d3d/a15796.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "dc/d3d/a15796.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "dc/d3d/a15796.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "npc_thrall_warchiefAI", "d0/d14/a15800.html", "d0/d14/a15800" ],
+    [ "npc_thrall_warchief", "dc/d3d/a15796.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "dc/d3d/a15796.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "dc/d3d/a15796.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "dc/d3d/a15796.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "dc/d3d/a15796.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

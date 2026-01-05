@@ -1,5 +1,7 @@
 var a20492 =
 [
-    [ "achievement_ignis_shattered", "df/d11/a20492.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "df/d11/a20492.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "HandleEffectPeriodic", "df/d11/a20492.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "df/d11/a20492.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "df/d11/a20492.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "df/d11/a20492.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

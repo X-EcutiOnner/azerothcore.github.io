@@ -1,5 +1,6 @@
 var a17316 =
 [
-    [ "at_tyrannus_event_starter", "db/dba/a17316.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "db/dba/a17316.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "npc_pos_leaderAI", "d1/dea/a17320.html", "d1/dea/a17320" ],
+    [ "npc_pos_leader", "db/dba/a17316.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "db/dba/a17316.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

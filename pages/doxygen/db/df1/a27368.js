@@ -1,9 +1,5 @@
 var a27368 =
 [
-    [ "ChatLogScript", "db/df1/a27368.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "db/df1/a27368.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "db/df1/a27368.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "db/df1/a27368.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "db/df1/a27368.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "db/df1/a27368.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "db/df1/a27368.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "db/df1/a27368.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

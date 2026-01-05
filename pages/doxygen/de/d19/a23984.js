@@ -1,6 +1,7 @@
 var a23984 =
 [
-    [ "HandlePeriodic", "de/d19/a23984.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "de/d19/a23984.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "de/d19/a23984.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "HandleCast", "de/d19/a23984.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "de/d19/a23984.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "de/d19/a23984.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "de/d19/a23984.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

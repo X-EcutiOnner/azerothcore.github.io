@@ -1,9 +1,9 @@
 var a24168 =
 [
-    [ "npc_aeranasAI", "d0/dc5/a24168.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d0/dc5/a24168.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d0/dc5/a24168.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d0/dc5/a24168.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d0/dc5/a24168.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d0/dc5/a24168.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "boss_nethermancer_sepethrea", "d0/dc5/a24168.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d0/dc5/a24168.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d0/dc5/a24168.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d0/dc5/a24168.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d0/dc5/a24168.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d0/dc5/a24168.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

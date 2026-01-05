@@ -1,5 +1,8 @@
 var a11312 =
 [
-    [ "effectMask", "d6/dfb/a11312.html#a3161ec2ffdf794c000cc94b91519d009", null ],
-    [ "item", "d6/dfb/a11312.html#afce5eba99c3dc33698dd12af8432f357", null ]
+    [ "SkillPerfectItemEntry", "d6/dfb/a11312.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "d6/dfb/a11312.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "d6/dfb/a11312.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "d6/dfb/a11312.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "d6/dfb/a11312.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

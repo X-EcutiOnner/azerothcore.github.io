@@ -1,7 +1,11 @@
 var a05116 =
 [
-    [ "WModelAreaCallback", "db/dbc/a05116.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
-    [ "operator()", "db/dbc/a05116.html#a8024f924c258932c874c0ac3539d2755", null ],
-    [ "hit", "db/dbc/a05116.html#a92b907262a6e2fa630148580da43c612", null ],
-    [ "prims", "db/dbc/a05116.html#abe509366e68fff92e07c1aacb90da04f", null ]
+    [ "~GameObjectModelOwnerBase", "db/dbc/a05116.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "db/dbc/a05116.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "db/dbc/a05116.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "db/dbc/a05116.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "db/dbc/a05116.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "db/dbc/a05116.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "db/dbc/a05116.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "db/dbc/a05116.html#ad824da6970d512c344160714cd7ec434", null ]
 ];

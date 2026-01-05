@@ -1,12 +1,7 @@
 var a04960 =
 [
-    [ "base", "d6/d0f/a04960.html#a810cca29867b0864537650c7dc26a270", null ],
-    [ "Model", "d6/d0f/a04960.html#af55ad14532683c79e402195333fcba18", null ],
-    [ "DynTreeImpl", "d6/d0f/a04960.html#afa10e244de517c1808ba5401a726a94f", null ],
-    [ "balance", "d6/d0f/a04960.html#a589f4028f0a9dca9901ad77fd71b44db", null ],
-    [ "insert", "d6/d0f/a04960.html#ab31def0d383072bc7ca3def402d7e052", null ],
-    [ "remove", "d6/d0f/a04960.html#a74369a94f135b664528f91f5050894cb", null ],
-    [ "update", "d6/d0f/a04960.html#ae41bd2b901a27801da839c3345e8a2ed", null ],
-    [ "rebalance_timer", "d6/d0f/a04960.html#a752ef384318fa1652ad94f0ff72d1574", null ],
-    [ "unbalanced_times", "d6/d0f/a04960.html#ad1e55f97cb7d72beefcd68649a7eb6bf", null ]
+    [ "indices", "d6/d0f/a04960.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "d6/d0f/a04960.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "d6/d0f/a04960.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "d6/d0f/a04960.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

@@ -1,6 +1,7 @@
 var a23244 =
 [
-    [ "boss_doomlordkazzakAI", "d4/d2c/a23248.html", "d4/d2c/a23248" ],
-    [ "boss_doomlord_kazzak", "de/d4f/a23244.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "de/d4f/a23244.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "CalculateAmount", "de/d4f/a23244.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "de/d4f/a23244.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "de/d4f/a23244.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "de/d4f/a23244.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

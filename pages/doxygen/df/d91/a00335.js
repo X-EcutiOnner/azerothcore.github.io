@@ -1,19 +1,23 @@
 var a00335 =
 [
-    [ "BattlegroundRL", "d0/d06/a07503.html", "d0/d06/a07503" ],
-    [ "BattlegroundRLObjects", "df/d91/a00335.html#a07ba947d37c83568823ee5313377497a", [
-      [ "BG_RL_OBJECT_TYPE_DOOR_1", "df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
-      [ "BG_RL_OBJECT_TYPE_DOOR_2", "df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_1", "df/d91/a00335.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_2", "df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921", null ]
+    [ "BattlegroundBE", "db/d91/a07452.html", "db/d91/a07452" ],
+    [ "BattlegroundBEGameObjects", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575e", [
+      [ "BG_BE_OBJECT_TYPE_DOOR_1", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_2", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_3", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_4", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_1", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_2", "df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
     ] ],
-    [ "BattlegroundRLObjectTypes", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24", [
-      [ "BG_RL_OBJECT_DOOR_1", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636", null ],
-      [ "BG_RL_OBJECT_DOOR_2", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058", null ],
-      [ "BG_RL_OBJECT_BUFF_1", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4", null ],
-      [ "BG_RL_OBJECT_BUFF_2", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac", null ],
-      [ "BG_RL_OBJECT_READY_MARKER_1", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2", null ],
-      [ "BG_RL_OBJECT_READY_MARKER_2", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755", null ],
-      [ "BG_RL_OBJECT_MAX", "df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813", null ]
+    [ "BattlegroundBEObjectTypes", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
+      [ "BG_BE_OBJECT_DOOR_1", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
+      [ "BG_BE_OBJECT_DOOR_2", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
+      [ "BG_BE_OBJECT_DOOR_3", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
+      [ "BG_BE_OBJECT_DOOR_4", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
+      [ "BG_BE_OBJECT_BUFF_1", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
+      [ "BG_BE_OBJECT_BUFF_2", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
+      [ "BG_BE_OBJECT_READY_MARKER_1", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
+      [ "BG_BE_OBJECT_READY_MARKER_2", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
+      [ "BG_BE_OBJECT_MAX", "df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
     ] ]
 ];

@@ -1,7 +1,6 @@
 var a19120 =
 [
-    [ "OnRemove", "d0/d15/a19120.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d0/d15/a19120.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d0/d15/a19120.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d0/d15/a19120.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d9/d68/a19124.html", "d9/d68/a19124" ],
+    [ "npc_icc_gauntlet_controller", "d0/d15/a19120.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d0/d15/a19120.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

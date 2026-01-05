@@ -1,7 +1,10 @@
 var a17892 =
 [
-    [ "PrepareSpellScript", "dd/d30/a17892.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "dd/d30/a17892.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "dd/d30/a17892.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "dd/d30/a17892.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "npc_gunship_gunnerAI", "dd/d30/a17892.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "dd/d30/a17892.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "dd/d30/a17892.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "dd/d30/a17892.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "dd/d30/a17892.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "dd/d30/a17892.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "dd/d30/a17892.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

@@ -1,7 +1,8 @@
 var a20152 =
 [
-    [ "OnPeriodic", "dd/d4f/a20152.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "dd/d4f/a20152.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "dd/d4f/a20152.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "dd/d4f/a20152.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "npc_brann_radioAI", "dd/d4f/a20152.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "dd/d4f/a20152.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "dd/d4f/a20152.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "dd/d4f/a20152.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "dd/d4f/a20152.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

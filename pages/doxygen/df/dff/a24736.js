@@ -1,7 +1,6 @@
 var a24736 =
 [
-    [ "CalcDamage", "df/dff/a24736.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "df/dff/a24736.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "df/dff/a24736.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "df/dff/a24736.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "HandlePeriodic", "df/dff/a24736.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "df/dff/a24736.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "df/dff/a24736.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

@@ -1,6 +1,6 @@
 var a25236 =
 [
-    [ "CheckSeat", "d9/d43/a25236.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d9/d43/a25236.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d9/d43/a25236.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleScript", "d9/d43/a25236.html#aa6104370d5700e43223c7138e941ba05", null ],
+    [ "PrepareSpellScript", "d9/d43/a25236.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
+    [ "Register", "d9/d43/a25236.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
 ];

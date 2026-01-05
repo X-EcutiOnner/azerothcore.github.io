@@ -1,7 +1,8 @@
 var a17716 =
 [
-    [ "DelayedMovementEvent", "dd/d5f/a17716.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "dd/d5f/a17716.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "dd/d5f/a17716.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "dd/d5f/a17716.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_saurfang_eventAI", "dd/d5f/a17716.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "dd/d5f/a17716.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "dd/d5f/a17716.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "dd/d5f/a17716.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "dd/d5f/a17716.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

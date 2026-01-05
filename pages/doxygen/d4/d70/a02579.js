@@ -1,6 +1,6 @@
 var a02579 =
 [
-    [ "fireworkShowGameobjectStormwind", "d4/d70/a02579.html#ae843a13f6116ce380e3890397d825ae6", null ],
-    [ "fireworkShowScheduleStormwind", "d4/d70/a02579.html#af98c86c5b3725a8753fc620996c94b7f", null ],
-    [ "fireworkShowStormwind", "d4/d70/a02579.html#a378278257abadcd4369abd66f412d8e6", null ]
+    [ "fireworkShowExodar", "d4/d70/a02579.html#a62ccee24b6a90b61a19256b66e97c1dd", null ],
+    [ "fireworkShowGameobjectExodar", "d4/d70/a02579.html#a5b7a7ca2308d23103ee3d053d6301e5c", null ],
+    [ "fireworkShowScheduleExodar", "d4/d70/a02579.html#a44290c427b72dfa245ba73b6fa1ea317", null ]
 ];

@@ -1,16 +1,15 @@
 var a08208 =
 [
-    [ "WorldLocation", "d8/d8a/a08208.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
-    [ "WorldLocation", "d8/d8a/a08208.html#a04d7814f5d846259c5af562ce856f468", null ],
-    [ "GetDebugInfo", "d8/d8a/a08208.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
-    [ "GetMapId", "d8/d8a/a08208.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
-    [ "GetWorldLocation", "d8/d8a/a08208.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
-    [ "GetWorldLocation", "d8/d8a/a08208.html#aa2623109f914fd8592f865545696d27b", null ],
-    [ "GetWorldLocation", "d8/d8a/a08208.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
-    [ "GetWorldLocation", "d8/d8a/a08208.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
-    [ "GetWorldLocation", "d8/d8a/a08208.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
-    [ "SetMapId", "d8/d8a/a08208.html#ac425c27c61ecc169fe3df61991011988", null ],
-    [ "WorldRelocate", "d8/d8a/a08208.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
-    [ "WorldRelocate", "d8/d8a/a08208.html#adc762865d564319245ffc3363c080365", null ],
-    [ "m_mapId", "d8/d8a/a08208.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
+    [ "Guardian", "d8/d8a/a08208.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "d8/d8a/a08208.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "d8/d8a/a08208.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "d8/d8a/a08208.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "d8/d8a/a08208.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "d8/d8a/a08208.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "d8/d8a/a08208.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "d8/d8a/a08208.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "d8/d8a/a08208.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "d8/d8a/a08208.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "d8/d8a/a08208.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "d8/d8a/a08208.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

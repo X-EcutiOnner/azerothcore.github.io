@@ -1,6 +1,6 @@
 var a23632 =
 [
-    [ "CalculateDamage", "d8/d9f/a23632.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "d8/d9f/a23632.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "d8/d9f/a23632.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d8/d9f/a23632.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d8/d9f/a23632.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d8/d9f/a23632.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

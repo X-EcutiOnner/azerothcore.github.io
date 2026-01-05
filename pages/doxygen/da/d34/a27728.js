@@ -1,9 +1,10 @@
 var a27728 =
 [
-    [ "npc_target_dummyAI", "da/d34/a27728.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "da/d34/a27728.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "da/d34/a27728.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "da/d34/a27728.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "da/d34/a27728.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "da/d34/a27728.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_prof_alchemy", "da/d34/a27728.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "da/d34/a27728.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "da/d34/a27728.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "da/d34/a27728.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "da/d34/a27728.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "da/d34/a27728.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "da/d34/a27728.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

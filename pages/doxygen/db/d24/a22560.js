@@ -1,5 +1,7 @@
 var a22560 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "db/d24/a22560.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "db/d24/a22560.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "HandleScript", "db/d24/a22560.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "db/d24/a22560.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "db/d24/a22560.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "db/d24/a22560.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

@@ -1,8 +1,5 @@
 var a12976 =
 [
-    [ "CalcPeriodic", "db/d38/a12976.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "db/d38/a12976.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "db/d38/a12976.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "db/d38/a12976.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "db/d38/a12976.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "PrepareSpellScript", "db/d38/a12976.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "db/d38/a12976.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

@@ -1,7 +1,5 @@
 var a26680 =
 [
-    [ "HandleEffectPeriodic", "d8/de4/a26680.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
-    [ "PrepareAuraScript", "d8/de4/a26680.html#ae0e3b459c71933c25da8136cdcddf200", null ],
-    [ "Register", "d8/de4/a26680.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
-    [ "Validate", "d8/de4/a26680.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d8/de4/a26680.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d8/de4/a26680.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

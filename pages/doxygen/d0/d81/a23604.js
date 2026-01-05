@@ -1,7 +1,5 @@
 var a23604 =
 [
-    [ "CalcPeriodic", "d0/d81/a23604.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d0/d81/a23604.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d0/d81/a23604.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d0/d81/a23604.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "at_quagmirran_lair", "d0/d81/a23604.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d0/d81/a23604.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

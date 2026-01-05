@@ -1,5 +1,6 @@
 var a18036 =
 [
-    [ "npc_volatile_oozeAI", "d3/d16/a18036.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d3/d16/a18036.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "npc_darnavanAI", "de/d05/a18040.html", "de/d05/a18040" ],
+    [ "npc_darnavan", "d3/d16/a18036.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d3/d16/a18036.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

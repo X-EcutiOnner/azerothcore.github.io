@@ -1,5 +1,6 @@
 var a27956 =
 [
-    [ "go_transport_the_purple_princess", "d7/d42/a27956.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d7/d42/a27956.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_venomhide_hatchlingAI", "d7/d42/a27956.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d7/d42/a27956.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d7/d42/a27956.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

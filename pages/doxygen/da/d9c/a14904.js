@@ -1,6 +1,6 @@
 var a14904 =
 [
-    [ "boss_epochAI", "da/d72/a14908.html", "da/d72/a14908" ],
-    [ "boss_epoch", "da/d9c/a14904.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "da/d9c/a14904.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "HandleHit", "da/d9c/a14904.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "da/d9c/a14904.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "da/d9c/a14904.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

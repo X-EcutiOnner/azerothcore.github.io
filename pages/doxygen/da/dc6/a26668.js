@@ -1,6 +1,7 @@
 var a26668 =
 [
-    [ "HandleDummy", "da/dc6/a26668.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
-    [ "PrepareSpellScript", "da/dc6/a26668.html#a4411e4317053450a0ac5217d546952b2", null ],
-    [ "Register", "da/dc6/a26668.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
+    [ "HandleEffectApply", "da/dc6/a26668.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "da/dc6/a26668.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "da/dc6/a26668.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "da/dc6/a26668.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

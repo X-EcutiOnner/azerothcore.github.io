@@ -1,6 +1,7 @@
 var a13396 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d2/d94/a13400.html", "d2/d94/a13400" ],
-    [ "instance_sunken_temple", "d8/dcd/a13396.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d8/dcd/a13396.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "boss_apothecary_hummelAI", "d2/d94/a13400.html", "d2/d94/a13400" ],
+    [ "boss_apothecary_hummel", "d8/dcd/a13396.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d8/dcd/a13396.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d8/dcd/a13396.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

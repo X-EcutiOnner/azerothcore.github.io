@@ -1,7 +1,10 @@
 var a16324 =
 [
-    [ "OnApply", "d7/ded/a16324.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d7/ded/a16324.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d7/ded/a16324.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d7/ded/a16324.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "npc_xerestraszaAI", "d7/ded/a16324.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d7/ded/a16324.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d7/ded/a16324.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d7/ded/a16324.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d7/ded/a16324.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d7/ded/a16324.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d7/ded/a16324.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

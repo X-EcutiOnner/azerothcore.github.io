@@ -1,4 +1,4 @@
 var a04577 =
 [
-    [ "Acore::Asio::Resolver", "d3/d16/a04935.html", "d3/d16/a04935" ]
+    [ "Acore::Asio::Strand", "de/d1b/a04948.html", "de/d1b/a04948" ]
 ];

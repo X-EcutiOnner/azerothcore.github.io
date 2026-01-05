@@ -1,9 +1,8 @@
 var a15032 =
 [
-    [ "boss_temporus", "dd/db0/a15032.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "dd/db0/a15032.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "dd/db0/a15032.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "dd/db0/a15032.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "dd/db0/a15032.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "dd/db0/a15032.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_arthasAI", "d8/d1c/a15036.html", "d8/d1c/a15036" ],
+    [ "npc_arthas", "dd/db0/a15032.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "dd/db0/a15032.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "dd/db0/a15032.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "dd/db0/a15032.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

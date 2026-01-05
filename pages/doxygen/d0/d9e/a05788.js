@@ -1,10 +1,11 @@
 var a05788 =
 [
-    [ "MySQLConnectionInfo", "d0/d9e/a05788.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d0/d9e/a05788.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d0/d9e/a05788.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d0/d9e/a05788.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d0/d9e/a05788.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d0/d9e/a05788.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d0/d9e/a05788.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "DatabaseWorker", "d0/d9e/a05788.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "d0/d9e/a05788.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "d0/d9e/a05788.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "d0/d9e/a05788.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "d0/d9e/a05788.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "d0/d9e/a05788.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "d0/d9e/a05788.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "d0/d9e/a05788.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

@@ -1,12 +1,13 @@
 var a21876 =
 [
-    [ "npc_dalaran_warriorAI", "d4/d07/a21876.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d4/d07/a21876.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d4/d07/a21876.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d4/d07/a21876.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d4/d07/a21876.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d4/d07/a21876.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d4/d07/a21876.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d4/d07/a21876.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d4/d07/a21876.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_preparations_for_war_vehicle", "d4/d07/a21876.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "d4/d07/a21876.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "d4/d07/a21876.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "d4/d07/a21876.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "d4/d07/a21876.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "d4/d07/a21876.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "d4/d07/a21876.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "d4/d07/a21876.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "d4/d07/a21876.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d4/d07/a21876.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

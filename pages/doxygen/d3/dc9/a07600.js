@@ -1,13 +1,17 @@
 var a07600 =
 [
-    [ "InvokerEntry", "d4/d3b/a07604.html", "d4/d3b/a07604" ],
-    [ "SubCommandEntry", "d3/dc9/a07600.html#a9a01b487be01e84573f7ebe99620541b", null ],
-    [ "ChatCommandBuilder", "d3/dc9/a07600.html#a894f6ae19d715d9d3f395736bf7cdb41", null ],
-    [ "ChatCommandBuilder", "d3/dc9/a07600.html#ad9b8a40b28eb5944512b6f3033b3a933", null ],
-    [ "ChatCommandBuilder", "d3/dc9/a07600.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa", null ],
-    [ "ChatCommandBuilder", "d3/dc9/a07600.html#ac2c8cc88865de637f322b54bf6a47e13", null ],
-    [ "ChatCommandBuilder", "d3/dc9/a07600.html#a9ecbebaa3c839f57a90dcccca1473913", null ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d3/dc9/a07600.html#a3b9ea3963b82697cbe5d6ca86ff29847", null ],
-    [ "_data", "d3/dc9/a07600.html#aff0a8c833c04f98abf46aaba4fbf9374", null ],
-    [ "_name", "d3/dc9/a07600.html#a4315363c5d25bb157481cbbd3fa0286f", null ]
+    [ "ChatHandler", "d3/dc9/a07600.html#aae585fad45749fd46fa28d36fdad9760", null ],
+    [ "ChatHandler", "d3/dc9/a07600.html#a7ab2c0deb500bef6654274630815bb75", null ],
+    [ "IsHumanReadable", "d3/dc9/a07600.html#acd17995bc95b6e449d5e185bfe523b84", null ],
+    [ "ParseCommands", "d3/dc9/a07600.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
+    [ "Send", "d3/dc9/a07600.html#a2961b609065a68245d1556d3b32af013", null ],
+    [ "SendAck", "d3/dc9/a07600.html#a0e886c68796eb6a2a529186279dd778d", null ],
+    [ "SendFailed", "d3/dc9/a07600.html#aa3a06fffce2472b941163d062f1b3569", null ],
+    [ "SendOK", "d3/dc9/a07600.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
+    [ "SendSysMessage", "d3/dc9/a07600.html#a289a9806b8a083e063b8c83ea7016718", null ],
+    [ "SendSysMessage", "d3/dc9/a07600.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
+    [ "SendSysMessage", "d3/dc9/a07600.html#a1f915beeda589704808dc727c3edcb63", null ],
+    [ "echo", "d3/dc9/a07600.html#a9c87777b4249795b41163b2294f44746", null ],
+    [ "hadAck", "d3/dc9/a07600.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
+    [ "humanReadable", "d3/dc9/a07600.html#a85407d3478890e8f4c43377de7eb0993", null ]
 ];

@@ -1,11 +1,6 @@
 var a08752 =
 [
-    [ "DispelInfo", "df/d50/a08752.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "df/d50/a08752.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "df/d50/a08752.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "df/d50/a08752.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "df/d50/a08752.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "df/d50/a08752.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "df/d50/a08752.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "df/d50/a08752.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "GlobalCooldown", "df/d50/a08752.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "df/d50/a08752.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "df/d50/a08752.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

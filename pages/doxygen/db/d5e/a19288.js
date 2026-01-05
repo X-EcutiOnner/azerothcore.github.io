@@ -1,15 +1,12 @@
 var a19288 =
 [
-    [ "boss_maexxnaAI", "db/d5e/a19288.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "db/d5e/a19288.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "db/d5e/a19288.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "db/d5e/a19288.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "db/d5e/a19288.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "db/d5e/a19288.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "db/d5e/a19288.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "db/d5e/a19288.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "db/d5e/a19288.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "db/d5e/a19288.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "db/d5e/a19288.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "db/d5e/a19288.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "npc_boss_gothik_minionAI", "db/d5e/a19288.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "db/d5e/a19288.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "db/d5e/a19288.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "db/d5e/a19288.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "db/d5e/a19288.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "db/d5e/a19288.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "db/d5e/a19288.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "db/d5e/a19288.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "db/d5e/a19288.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

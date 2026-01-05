@@ -1,7 +1,7 @@
 var a26140 =
 [
-    [ "OnApply", "dd/da5/a26140.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "dd/da5/a26140.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "dd/da5/a26140.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "dd/da5/a26140.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleEnergize", "dd/da5/a26140.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "dd/da5/a26140.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "dd/da5/a26140.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "dd/da5/a26140.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

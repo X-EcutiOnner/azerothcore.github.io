@@ -1,7 +1,7 @@
 var a16220 =
 [
-    [ "CheckDistance", "d1/d3c/a16220.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d1/d3c/a16220.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d1/d3c/a16220.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d1/d3c/a16220.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "OnRemove", "d1/d3c/a16220.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d1/d3c/a16220.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d1/d3c/a16220.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d1/d3c/a16220.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

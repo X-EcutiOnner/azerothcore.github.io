@@ -1,7 +1,6 @@
 var a12792 =
 [
-    [ "boss_maiden_of_virtue", "dc/d69/a12792.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "dc/d69/a12792.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "dc/d69/a12792.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "dc/d69/a12792.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "instance_molten_core_InstanceMapScript", "d6/d59/a12796.html", "d6/d59/a12796" ],
+    [ "instance_molten_core", "dc/d69/a12792.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "dc/d69/a12792.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

@@ -1,6 +1,9 @@
 var a22292 =
 [
-    [ "npc_blessed_bannerAI", "d5/d64/a22296.html", "d5/d64/a22296" ],
-    [ "npc_blessed_banner", "d4/d0d/a22292.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d4/d0d/a22292.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_lord_areteAI", "d4/d0d/a22292.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "d4/d0d/a22292.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "d4/d0d/a22292.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "d4/d0d/a22292.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "d4/d0d/a22292.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "d4/d0d/a22292.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

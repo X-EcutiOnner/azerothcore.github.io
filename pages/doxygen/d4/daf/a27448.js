@@ -1,7 +1,6 @@
 var a27448 =
 [
-    [ "go_brewfest_musicAI", "d4/daf/a27448.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d4/daf/a27448.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d4/daf/a27448.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d4/daf/a27448.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "boss_taerarAI", "d1/dd4/a27452.html", "d1/dd4/a27452" ],
+    [ "boss_taerar", "d4/daf/a27448.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d4/daf/a27448.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

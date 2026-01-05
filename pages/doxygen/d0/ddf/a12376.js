@@ -1,6 +1,6 @@
 var a12376 =
 [
-    [ "OnEffect", "d0/ddf/a12376.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d0/ddf/a12376.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d0/ddf/a12376.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "npc_rookery_hatcherAI", "dc/d2a/a12380.html", "dc/d2a/a12380" ],
+    [ "npc_rookery_hatcher", "d0/ddf/a12376.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d0/ddf/a12376.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

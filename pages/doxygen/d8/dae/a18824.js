@@ -1,6 +1,8 @@
 var a18824 =
 [
-    [ "npc_captain_brandonAI", "d8/dae/a18824.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d8/dae/a18824.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d8/dae/a18824.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "DecayPeriodicTimer", "d8/dae/a18824.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d8/dae/a18824.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d8/dae/a18824.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d8/dae/a18824.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d8/dae/a18824.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

@@ -1,5 +1,8 @@
 var a18608 =
 [
-    [ "achievement_been_waiting_long_time", "d6/d71/a18608.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d6/d71/a18608.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "Load", "d6/d71/a18608.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "d6/d71/a18608.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "d6/d71/a18608.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "d6/d71/a18608.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "d6/d71/a18608.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

@@ -1,6 +1,8 @@
 var a23824 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d2/d36/a23828.html", "d2/d36/a23828" ],
-    [ "instance_shattered_halls", "d8/daf/a23824.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d8/daf/a23824.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d8/daf/a23824.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d8/daf/a23824.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d8/daf/a23824.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d8/daf/a23824.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d8/daf/a23824.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

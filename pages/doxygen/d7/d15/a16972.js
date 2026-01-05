@@ -1,9 +1,6 @@
 var a16972 =
 [
-    [ "HandlePeriodicTick", "d7/d15/a16972.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d7/d15/a16972.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d7/d15/a16972.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d7/d15/a16972.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d7/d15/a16972.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d7/d15/a16972.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "boss_tharon_jaAI", "d8/dd7/a16976.html", "d8/dd7/a16976" ],
+    [ "boss_tharon_ja", "d7/d15/a16972.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "d7/d15/a16972.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

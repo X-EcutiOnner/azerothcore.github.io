@@ -1,8 +1,9 @@
 var a08920 =
 [
-    [ "target_mapId", "d8/d05/a08920.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "d8/d05/a08920.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "d8/d05/a08920.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "d8/d05/a08920.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "d8/d05/a08920.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "day", "d8/d05/a08920.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "d8/d05/a08920.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "d8/d05/a08920.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "d8/d05/a08920.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "d8/d05/a08920.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "d8/d05/a08920.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

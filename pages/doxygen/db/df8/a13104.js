@@ -1,6 +1,8 @@
 var a13104 =
 [
-    [ "CheckRequirement", "db/df8/a13104.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "db/df8/a13104.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "db/df8/a13104.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "CheckProc", "db/df8/a13104.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "db/df8/a13104.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "db/df8/a13104.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "db/df8/a13104.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "db/df8/a13104.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

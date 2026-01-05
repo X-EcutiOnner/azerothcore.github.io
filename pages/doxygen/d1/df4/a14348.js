@@ -1,6 +1,10 @@
 var a14348 =
 [
-    [ "npc_brewfest_keg_thrower", "d1/df4/a14348.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d1/df4/a14348.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d1/df4/a14348.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "npc_vilebranch_speaker", "d1/df4/a14348.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d1/df4/a14348.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d1/df4/a14348.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d1/df4/a14348.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d1/df4/a14348.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d1/df4/a14348.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d1/df4/a14348.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

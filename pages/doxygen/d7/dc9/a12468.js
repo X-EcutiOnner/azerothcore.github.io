@@ -1,13 +1,9 @@
 var a12468 =
 [
-    [ "boss_nefarian", "d7/dc9/a12468.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "d7/dc9/a12468.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "d7/dc9/a12468.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "d7/dc9/a12468.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "d7/dc9/a12468.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "d7/dc9/a12468.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "d7/dc9/a12468.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "d7/dc9/a12468.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "d7/dc9/a12468.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "d7/dc9/a12468.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "npc_vaelastrasz_the_redAI", "d7/dc9/a12468.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d7/dc9/a12468.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d7/dc9/a12468.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d7/dc9/a12468.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d7/dc9/a12468.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d7/dc9/a12468.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

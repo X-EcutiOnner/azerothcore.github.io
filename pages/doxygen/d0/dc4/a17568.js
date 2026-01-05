@@ -1,9 +1,10 @@
 var a17568 =
 [
-    [ "FilterTargets", "d0/dc4/a17568.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d0/dc4/a17568.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d0/dc4/a17568.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d0/dc4/a17568.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d0/dc4/a17568.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d0/dc4/a17568.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_dark_nucleusAI", "d0/dc4/a17568.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d0/dc4/a17568.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d0/dc4/a17568.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d0/dc4/a17568.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d0/dc4/a17568.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d0/dc4/a17568.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d0/dc4/a17568.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

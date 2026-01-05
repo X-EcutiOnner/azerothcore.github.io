@@ -1,6 +1,6 @@
 var a26820 =
 [
-    [ "CheckCast", "d9/dbd/a26820.html#aecbecbd753b8ed32d51971a090063ef4", null ],
-    [ "PrepareSpellScript", "d9/dbd/a26820.html#a0efb319154edb2c798460de72d6a56ed", null ],
-    [ "Register", "d9/dbd/a26820.html#acd6ecb0204dd369c410e465551328f56", null ]
+    [ "HandleScript", "d9/dbd/a26820.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "d9/dbd/a26820.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "d9/dbd/a26820.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

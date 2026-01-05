@@ -1,9 +1,9 @@
 var a21860 =
 [
-    [ "npc_minigob_manabonk", "d2/d9d/a21860.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d2/d9d/a21860.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d2/d9d/a21860.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d2/d9d/a21860.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d2/d9d/a21860.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d2/d9d/a21860.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_counselor_talbotAI", "d2/d9d/a21860.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d2/d9d/a21860.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d2/d9d/a21860.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d2/d9d/a21860.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d2/d9d/a21860.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d2/d9d/a21860.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

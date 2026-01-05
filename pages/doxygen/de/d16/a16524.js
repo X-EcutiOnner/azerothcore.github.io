@@ -1,6 +1,6 @@
 var a16524 =
 [
-    [ "npc_swarm_scarabAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
-    [ "npc_swarm_scarab", "de/d16/a16524.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "de/d16/a16524.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "FilterTargets", "de/d16/a16524.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "de/d16/a16524.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "de/d16/a16524.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

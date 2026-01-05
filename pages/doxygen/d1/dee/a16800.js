@@ -1,5 +1,6 @@
 var a16800 =
 [
-    [ "npc_essence_of_twin", "d1/dee/a16800.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d1/dee/a16800.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "boss_jaraxxusAI", "d1/d4c/a16804.html", "d1/d4c/a16804" ],
+    [ "boss_jaraxxus", "d1/dee/a16800.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d1/dee/a16800.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

@@ -1,6 +1,5 @@
 var a13136 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d5/d3c/a13140.html", "d5/d3c/a13140" ],
-    [ "npc_unworthy_initiate_anchor", "dd/d81/a13136.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "dd/d81/a13136.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "boss_yazzai", "dd/d81/a13136.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "dd/d81/a13136.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

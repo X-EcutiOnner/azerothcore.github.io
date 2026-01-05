@@ -1,6 +1,8 @@
 var a14960 =
 [
-    [ "npc_crate_helperAI", "dd/da5/a14960.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "dd/da5/a14960.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "dd/da5/a14960.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "hyjalTyrandeAI", "dd/da5/a14960.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "dd/da5/a14960.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "dd/da5/a14960.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "dd/da5/a14960.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "dd/da5/a14960.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

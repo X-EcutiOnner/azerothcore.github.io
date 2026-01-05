@@ -1,7 +1,6 @@
 var a17636 =
 [
-    [ "HandleDummy", "da/dbf/a17636.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "da/dbf/a17636.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "da/dbf/a17636.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "da/dbf/a17636.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "boss_blood_queen_lana_thelAI", "d8/d6e/a17640.html", "d8/d6e/a17640" ],
+    [ "boss_blood_queen_lana_thel", "da/dbf/a17636.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "da/dbf/a17636.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

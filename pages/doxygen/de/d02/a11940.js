@@ -1,10 +1,10 @@
 var a11940 =
 [
-    [ "quest_commandscript", "de/d02/a11940.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "de/d02/a11940.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "de/d02/a11940.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "de/d02/a11940.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "de/d02/a11940.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "de/d02/a11940.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "de/d02/a11940.html#adbba92d0cf47879e94710c971fd994ff", null ]
+    [ "item_commandscript", "de/d02/a11940.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "de/d02/a11940.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "de/d02/a11940.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "de/d02/a11940.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "de/d02/a11940.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "de/d02/a11940.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "de/d02/a11940.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

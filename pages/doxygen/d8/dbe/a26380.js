@@ -1,6 +1,8 @@
 var a26380 =
 [
-    [ "FilterTargets", "d8/dbe/a26380.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "d8/dbe/a26380.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "d8/dbe/a26380.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "HandleApply", "d8/dbe/a26380.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d8/dbe/a26380.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d8/dbe/a26380.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d8/dbe/a26380.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d8/dbe/a26380.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

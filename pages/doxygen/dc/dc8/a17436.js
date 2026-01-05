@@ -1,6 +1,6 @@
 var a17436 =
 [
-    [ "ShockVortexExplodeEvent", "dc/dc8/a17436.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "dc/dc8/a17436.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "dc/dc8/a17436.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "boss_drakkari_elementalAI", "df/d7d/a17440.html", "df/d7d/a17440" ],
+    [ "boss_drakkari_elemental", "dc/dc8/a17436.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "dc/dc8/a17436.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

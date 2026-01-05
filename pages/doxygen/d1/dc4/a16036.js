@@ -1,7 +1,6 @@
 var a16036 =
 [
-    [ "HandleScript", "d1/dc4/a16036.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d1/dc4/a16036.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d1/dc4/a16036.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d1/dc4/a16036.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "go_troll_cageAI", "d8/dec/a16040.html", "d8/dec/a16040" ],
+    [ "go_troll_cage", "d1/dc4/a16036.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d1/dc4/a16036.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

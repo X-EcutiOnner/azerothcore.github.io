@@ -1,6 +1,8 @@
 var a17724 =
 [
-    [ "npc_gunshipAI", "df/d6e/a17728.html", "df/d6e/a17728" ],
-    [ "npc_gunship", "d3/d39/a17724.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d3/d39/a17724.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "CheckProc", "d3/d39/a17724.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "d3/d39/a17724.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "d3/d39/a17724.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "d3/d39/a17724.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "d3/d39/a17724.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

@@ -1,6 +1,6 @@
 var a12164 =
 [
-    [ "boss_high_priestess_thaurissanAI", "d3/d06/a12164.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "d3/d06/a12164.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "d3/d06/a12164.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "npc_burning_spiritAI", "d8/dff/a12168.html", "d8/dff/a12168" ],
+    [ "npc_burning_spirit", "d3/d06/a12164.html#a596e654486c82d15d7a37b069a99856d", null ],
+    [ "GetAI", "d3/d06/a12164.html#a3c704a0856d669a1e684e5a858bc4334", null ]
 ];

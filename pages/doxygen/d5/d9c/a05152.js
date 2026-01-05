@@ -1,7 +1,8 @@
 var a05152 =
 [
-    [ "operator()", "d5/d9c/a05152.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "d5/d9c/a05152.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "d5/d9c/a05152.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "d5/d9c/a05152.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "MeshTriangle", "d5/d9c/a05152.html#af99ecf0b02af73e6727095df1dce8422", null ],
+    [ "MeshTriangle", "d5/d9c/a05152.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
+    [ "idx0", "d5/d9c/a05152.html#aed1048a2b6745215a7b8f70dec378371", null ],
+    [ "idx1", "d5/d9c/a05152.html#a560bb163f63ff7202aade4d115f31664", null ],
+    [ "idx2", "d5/d9c/a05152.html#ac939c5e66526c67c067288b9d6484cac", null ]
 ];

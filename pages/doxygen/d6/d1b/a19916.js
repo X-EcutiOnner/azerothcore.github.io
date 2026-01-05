@@ -1,5 +1,6 @@
 var a19916 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d6/d1b/a19916.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d6/d1b/a19916.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "npc_collapsing_starAI", "d6/d1b/a19916.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d6/d1b/a19916.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d6/d1b/a19916.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

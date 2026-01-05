@@ -1,6 +1,6 @@
 var a21200 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "de/d56/a21204.html", "de/d56/a21204" ],
-    [ "npc_ulduar_storm_tempered_keeper", "d0/dc9/a21200.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "d0/dc9/a21200.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "OnEffect", "d0/dc9/a21200.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d0/dc9/a21200.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d0/dc9/a21200.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

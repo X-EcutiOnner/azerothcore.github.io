@@ -1,6 +1,7 @@
 var a16704 =
 [
-    [ "boss_jaraxxusAI", "d0/dd5/a16708.html", "d0/dd5/a16708" ],
-    [ "boss_jaraxxus", "da/d31/a16704.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "da/d31/a16704.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_shadow_priestAI", "da/d31/a16704.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "da/d31/a16704.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "da/d31/a16704.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "da/d31/a16704.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

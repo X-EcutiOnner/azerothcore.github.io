@@ -1,6 +1,7 @@
 var a18576 =
 [
-    [ "npc_icc_lk_checktargetAI", "d0/d7b/a18580.html", "d0/d7b/a18580" ],
-    [ "npc_icc_lk_checktarget", "d0/dd1/a18576.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d0/dd1/a18576.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "OnPeriodic", "d0/dd1/a18576.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d0/dd1/a18576.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d0/dd1/a18576.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d0/dd1/a18576.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

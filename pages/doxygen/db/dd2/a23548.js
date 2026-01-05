@@ -1,8 +1,6 @@
 var a23548 =
 [
-    [ "boss_hungarfen", "db/dd2/a23548.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "db/dd2/a23548.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "db/dd2/a23548.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "db/dd2/a23548.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "db/dd2/a23548.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "HandleScript", "db/dd2/a23548.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "db/dd2/a23548.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "db/dd2/a23548.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

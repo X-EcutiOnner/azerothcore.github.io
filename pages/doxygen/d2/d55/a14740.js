@@ -1,6 +1,6 @@
 var a14740 =
 [
-    [ "PrepareAuraScript", "d2/d55/a14740.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d2/d55/a14740.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d2/d55/a14740.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "OnApply", "d2/d55/a14740.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d2/d55/a14740.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d2/d55/a14740.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

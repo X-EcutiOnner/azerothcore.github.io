@@ -1,6 +1,6 @@
 var a24600 =
 [
-    [ "FilterTargets", "d8/dcf/a24600.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "d8/dcf/a24600.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "d8/dcf/a24600.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_pet_dk_ghoul", "d8/dcf/a24600.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d8/dcf/a24600.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d8/dcf/a24600.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

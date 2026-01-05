@@ -1,8 +1,12 @@
 var a06152 =
 [
-    [ "PassiveAI", "d6/dc2/a06152.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d6/dc2/a06152.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d6/dc2/a06152.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d6/dc2/a06152.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d6/dc2/a06152.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "CombatAI", "d6/dc2/a06152.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "d6/dc2/a06152.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "d6/dc2/a06152.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "d6/dc2/a06152.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "d6/dc2/a06152.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "d6/dc2/a06152.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "d6/dc2/a06152.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "d6/dc2/a06152.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "d6/dc2/a06152.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

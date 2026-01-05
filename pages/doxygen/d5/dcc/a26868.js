@@ -1,5 +1,9 @@
 var a26868 =
 [
-    [ "EarthenPowerTargetSelector", "d5/dcc/a26868.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d5/dcc/a26868.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleAfterHit", "d5/dcc/a26868.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d5/dcc/a26868.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d5/dcc/a26868.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d5/dcc/a26868.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d5/dcc/a26868.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d5/dcc/a26868.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

@@ -1,6 +1,6 @@
 var a21820 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d4/d00/a21824.html", "d4/d00/a21824" ],
-    [ "npc_steam_powered_auctioneer", "de/dcc/a21820.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "de/dcc/a21820.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "HandleEffect", "de/dcc/a21820.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "de/dcc/a21820.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "de/dcc/a21820.html#a14bd854db86750704c8377d457dea360", null ]
 ];

@@ -1,7 +1,9 @@
 var a14016 =
 [
-    [ "HandleDispel", "db/dea/a14016.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "db/dea/a14016.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "db/dea/a14016.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "db/dea/a14016.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_thrall_bfuAI", "de/dcb/a14020.html", "de/dcb/a14020" ],
+    [ "npc_thrall_bfu", "db/dea/a14016.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "db/dea/a14016.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "db/dea/a14016.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "db/dea/a14016.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "db/dea/a14016.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

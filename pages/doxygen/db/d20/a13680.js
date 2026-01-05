@@ -1,4 +1,6 @@
 var a13680 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "db/d20/a13680.html#a255ebc2ebda65b412f46e05e332d605e", null ]
+    [ "PrepareSpellScript", "db/d20/a13680.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "db/d20/a13680.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "db/d20/a13680.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

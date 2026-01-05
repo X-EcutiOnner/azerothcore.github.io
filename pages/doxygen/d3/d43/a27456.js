@@ -1,7 +1,7 @@
 var a27456 =
 [
-    [ "go_pirate_day_musicAI", "d3/d43/a27456.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d3/d43/a27456.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d3/d43/a27456.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d3/d43/a27456.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "FilterTargets", "d3/d43/a27456.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d3/d43/a27456.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d3/d43/a27456.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d3/d43/a27456.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

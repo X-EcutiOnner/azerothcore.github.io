@@ -1,6 +1,6 @@
 var a27724 =
 [
-    [ "npc_target_dummyAI", "da/d34/a27728.html", "da/d34/a27728" ],
-    [ "npc_target_dummy", "d9/d94/a27724.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "d9/d94/a27724.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "npc_innkeeper", "d9/d94/a27724.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d9/d94/a27724.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d9/d94/a27724.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

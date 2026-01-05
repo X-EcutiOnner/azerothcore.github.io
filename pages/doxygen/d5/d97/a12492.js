@@ -1,8 +1,6 @@
 var a12492 =
 [
-    [ "FilterTargets", "d5/d97/a12492.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d5/d97/a12492.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d5/d97/a12492.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d5/d97/a12492.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d5/d97/a12492.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_chromaggusAI", "db/deb/a12496.html", "db/deb/a12496" ],
+    [ "boss_chromaggus", "d5/d97/a12492.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "d5/d97/a12492.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

@@ -1,6 +1,6 @@
 var a15552 =
 [
-    [ "npc_murkdeepAI", "d9/d58/a15556.html", "d9/d58/a15556" ],
-    [ "npc_murkdeep", "dc/ddc/a15552.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "dc/ddc/a15552.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "HandleApply", "dc/ddc/a15552.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "dc/ddc/a15552.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "dc/ddc/a15552.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

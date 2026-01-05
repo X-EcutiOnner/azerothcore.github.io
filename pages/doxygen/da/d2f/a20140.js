@@ -1,6 +1,6 @@
 var a20140 =
 [
-    [ "HandleScript", "da/d2f/a20140.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "da/d2f/a20140.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "da/d2f/a20140.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "npc_pool_of_tarAI", "d6/d35/a20144.html", "d6/d35/a20144" ],
+    [ "npc_pool_of_tar", "da/d2f/a20140.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "da/d2f/a20140.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

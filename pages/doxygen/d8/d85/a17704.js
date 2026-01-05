@@ -1,6 +1,8 @@
 var a17704 =
 [
-    [ "Cooldown", "d8/d85/a17704.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d8/d85/a17704.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d8/d85/a17704.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d7/d81/a17708.html", "d7/d81/a17708" ],
+    [ "npc_muradin_bronzebeard_icc", "d8/d85/a17704.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d8/d85/a17704.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d8/d85/a17704.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d8/d85/a17704.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

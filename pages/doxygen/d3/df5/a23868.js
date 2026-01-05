@@ -1,7 +1,5 @@
 var a23868 =
 [
-    [ "boss_zereketh_the_unbound", "d3/df5/a23868.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d3/df5/a23868.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d3/df5/a23868.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d3/df5/a23868.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "spellId", "d3/df5/a23868.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d3/df5/a23868.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

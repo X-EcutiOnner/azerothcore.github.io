@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_ban.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_misc.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,98 +106,214 @@ $(document).ready(function(){initNavTree('da/dcf/a03344.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">cs_ban.cpp File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">cs_misc.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BanMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CharacterCache.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameGraveyard.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridTerrainLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GuildMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IPLocation.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">LFG.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MovementGenerator.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Realm.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WeatherMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db8/a11839.html">ban_commandscript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a11964.html">AccountFlagText</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:aee9acfaac97a86a40bad738a75eb5264"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264">BanMode</a> { <br />
-&#160;&#160;<a class="el" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1">BAN_ACCOUNT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79">BAN_CHARACTER</a>
-, <br />
-&#160;&#160;<a class="el" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b">BAN_IP</a>
-<br />
- }</td></tr>
-<tr class="memdesc:aee9acfaac97a86a40bad738a75eb5264"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ban function modes.  <a href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264">More...</a><br /></td></tr>
-<tr class="separator:aee9acfaac97a86a40bad738a75eb5264"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1c/a11968.html">misc_commandscript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aac8ae57b7b7f9ef5cb5aa2975ef444ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff">AddSC_ban_commandscript</a> ()</td></tr>
-<tr class="separator:aac8ae57b7b7f9ef5cb5aa2975ef444ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaedbdfd3cae227b11684151f41e3b977"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#aaedbdfd3cae227b11684151f41e3b977">GetLocalizeCreatureName</a> (<a class="el" href="../../d7/df6/a08080.html">Creature</a> *creature, <a class="el" href="../../d0/d15/a04574.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale)</td></tr>
+<tr class="separator:aaedbdfd3cae227b11684151f41e3b977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac722d20c86b9502b7c4c8ae711cc3917"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#ac722d20c86b9502b7c4c8ae711cc3917">AddSC_misc_commandscript</a> ()</td></tr>
+<tr class="separator:ac722d20c86b9502b7c4c8ae711cc3917"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a1706df7feb0ef4f693c388033ace5fb7"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#a1706df7feb0ef4f693c388033ace5fb7">SPELL_STUCK</a> = 7355</td></tr>
+<tr class="separator:a1706df7feb0ef4f693c388033ace5fb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a181bdc61e4eb1d21db975ca0227cb086"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#a181bdc61e4eb1d21db975ca0227cb086">SPELL_FREEZE</a> = 9454</td></tr>
+<tr class="separator:a181bdc61e4eb1d21db975ca0227cb086"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a704344ab0c20d3674c76d1dcf177ec9a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2e/a11964.html">AccountFlagText</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a03344.html#a704344ab0c20d3674c76d1dcf177ec9a">accountFlagText</a> [<a class="el" href="../../d0/d15/a04574.html#a1ff1011aab9a1d06f6526efcd7c334e7">MAX_ACCOUNT_FLAG</a>]</td></tr>
+<tr class="separator:a704344ab0c20d3674c76d1dcf177ec9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="aee9acfaac97a86a40bad738a75eb5264" name="aee9acfaac97a86a40bad738a75eb5264"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee9acfaac97a86a40bad738a75eb5264">&#9670;&#160;</a></span>BanMode</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264">BanMode</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Ban function modes. </p>
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1" name="aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1"></a>BAN_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79" name="aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79"></a>BAN_CHARACTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b" name="aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b"></a>BAN_IP&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1">BAN_ACCOUNT</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79">BAN_CHARACTER</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b">BAN_IP</a></div>
-<div class="line"><span class="lineno">   35</span>};</div>
-<div class="ttc" id="aa03344_html_aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1"><div class="ttname"><a href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1">BAN_ACCOUNT</a></div><div class="ttdeci">@ BAN_ACCOUNT</div><div class="ttdef"><b>Definition:</b> cs_ban.cpp:32</div></div>
-<div class="ttc" id="aa03344_html_aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b"><div class="ttname"><a href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b">BAN_IP</a></div><div class="ttdeci">@ BAN_IP</div><div class="ttdef"><b>Definition:</b> cs_ban.cpp:34</div></div>
-<div class="ttc" id="aa03344_html_aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79"><div class="ttname"><a href="../../da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79">BAN_CHARACTER</a></div><div class="ttdeci">@ BAN_CHARACTER</div><div class="ttdef"><b>Definition:</b> cs_ban.cpp:33</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aac8ae57b7b7f9ef5cb5aa2975ef444ff" name="aac8ae57b7b7f9ef5cb5aa2975ef444ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac8ae57b7b7f9ef5cb5aa2975ef444ff">&#9670;&#160;</a></span>AddSC_ban_commandscript()</h2>
+<a id="ac722d20c86b9502b7c4c8ae711cc3917" name="ac722d20c86b9502b7c4c8ae711cc3917"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac722d20c86b9502b7c4c8ae711cc3917">&#9670;&#160;</a></span>AddSC_misc_commandscript()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_ban_commandscript </td>
+          <td class="memname">void AddSC_misc_commandscript </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  756</span>{</div>
-<div class="line"><span class="lineno">  757</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/db8/a11839.html">ban_commandscript</a>();</div>
-<div class="line"><span class="lineno">  758</span>}</div>
-<div class="ttc" id="aa11839_html"><div class="ttname"><a href="../../d1/db8/a11839.html">ban_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_ban.cpp:44</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 3142</span>{</div>
+<div class="line"><span class="lineno"> 3143</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d1c/a11968.html">misc_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 3144</span>}</div>
+<div class="ttc" id="aa11968_html"><div class="ttname"><a href="../../d2/d1c/a11968.html">misc_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_misc.cpp:131</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00070">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aaedbdfd3cae227b11684151f41e3b977" name="aaedbdfd3cae227b11684151f41e3b977"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaedbdfd3cae227b11684151f41e3b977">&#9670;&#160;</a></span>GetLocalizeCreatureName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const GetLocalizeCreatureName </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df6/a08080.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>creature</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d15/a04574.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>locale</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
+<div class="line"><span class="lineno">  106</span>    <span class="keyword">auto</span> creatureTemplate = <a class="code hl_define" href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(creature-&gt;<a class="code hl_function" href="../../d3/d78/a08448.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
+<div class="line"><span class="lineno">  107</span>    <span class="keyword">auto</span> cretureLocale = <a class="code hl_define" href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureLocale(creature-&gt;<a class="code hl_function" href="../../d3/d78/a08448.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
+<div class="line"><span class="lineno">  108</span>    std::string name;</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">if</span> (cretureLocale)</div>
+<div class="line"><span class="lineno">  111</span>    {</div>
+<div class="line"><span class="lineno">  112</span>        name = cretureLocale-&gt;Name[locale];</div>
+<div class="line"><span class="lineno">  113</span>    }</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (name.empty() &amp;&amp; creatureTemplate)</div>
+<div class="line"><span class="lineno">  116</span>    {</div>
+<div class="line"><span class="lineno">  117</span>        name = creatureTemplate-&gt;Name;</div>
+<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (name.empty())</div>
+<div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        name = <span class="stringliteral">&quot;Unknown creature&quot;</span>;</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
+<div class="line"><span class="lineno">  124</span> </div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">return</span> name;</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+<div class="ttc" id="aa01646_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1644</div></div>
+<div class="ttc" id="aa08448_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d3/d78/a08448.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00116">Object::GetEntry()</a>, and <a class="el" href="../../#l01644">sObjectMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02890">misc_commandscript::HandleFreezeCommand()</a>, and <a class="el" href="../../#l02933">misc_commandscript::HandleUnFreezeCommand()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a704344ab0c20d3674c76d1dcf177ec9a" name="a704344ab0c20d3674c76d1dcf177ec9a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a704344ab0c20d3674c76d1dcf177ec9a">&#9670;&#160;</a></span>accountFlagText</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d2e/a11964.html">AccountFlagText</a> const accountFlagText[<a class="el" href="../../d0/d15/a04574.html#a1ff1011aab9a1d06f6526efcd7c334e7">MAX_ACCOUNT_FLAG</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01966">misc_commandscript::HandlePInfoCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a181bdc61e4eb1d21db975ca0227cb086" name="a181bdc61e4eb1d21db975ca0227cb086"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a181bdc61e4eb1d21db975ca0227cb086">&#9670;&#160;</a></span>SPELL_FREEZE</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr auto SPELL_FREEZE = 9454</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02890">misc_commandscript::HandleFreezeCommand()</a>, and <a class="el" href="../../#l02933">misc_commandscript::HandleUnFreezeCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a1706df7feb0ef4f693c388033ace5fb7" name="a1706df7feb0ef4f693c388033ace5fb7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1706df7feb0ef4f693c388033ace5fb7">&#9670;&#160;</a></span>SPELL_STUCK</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr auto SPELL_STUCK = 7355</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d6/d34/a04823.html#_todo000171">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01453">misc_commandscript::HandleUnstuckCommand()</a>.</p>
 
 </div>
 </div>
@@ -206,8 +322,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../da/dcf/a03344.html">cs_ban.cpp</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 20:49:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../da/dcf/a03344.html">cs_misc.cpp</a></li>
+    <li class="footer">Generated on Mon Jan 5 2026 20:53:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

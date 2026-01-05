@@ -1,8 +1,8 @@
 var a09468 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d4/dbf/a09468.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d4/dbf/a09468.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d4/dbf/a09468.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d4/dbf/a09468.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d4/dbf/a09468.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d4/dbf/a09468.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "d4/dbf/a09468.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "d4/dbf/a09468.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "d4/dbf/a09468.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "d4/dbf/a09468.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

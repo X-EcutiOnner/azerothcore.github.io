@@ -1,9 +1,12 @@
 var a08232 =
 [
-    [ "PetInfo", "d2/d05/a08236.html", "d2/d05/a08236" ],
-    [ "GetUnslottedHunterPet", "d7/d21/a08232.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d7/d21/a08232.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d7/d21/a08232.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d7/d21/a08232.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d7/d21/a08232.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "GameObjectModelOwnerImpl", "d7/d21/a08232.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "d7/d21/a08232.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "d7/d21/a08232.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "d7/d21/a08232.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "d7/d21/a08232.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "d7/d21/a08232.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "d7/d21/a08232.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "d7/d21/a08232.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "d7/d21/a08232.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

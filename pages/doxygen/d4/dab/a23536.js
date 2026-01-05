@@ -1,6 +1,7 @@
 var a23536 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d4/dab/a23536.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d4/dab/a23536.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d4/dab/a23536.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "npc_ahune_ice_spear_bunny", "d4/dab/a23536.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d4/dab/a23536.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d4/dab/a23536.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d4/dab/a23536.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

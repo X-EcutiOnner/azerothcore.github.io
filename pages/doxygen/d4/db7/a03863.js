@@ -1,28 +1,28 @@
 var a03863 =
 [
-    [ "OPvPCapturePointHP", "da/d46/a22747.html", "da/d46/a22747" ],
-    [ "OutdoorPvPHP", "d5/dd7/a22751.html", "d5/dd7/a22751" ],
-    [ "OutdoorPvPHPBuffZonesNum", "d4/db7/a03863.html#a01aada98c8079ea71a361cba06e10640", null ],
-    [ "OutdoorPvPHPSpells", "d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4a", [
-      [ "AlliancePlayerKillReward", "d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
-      [ "HordePlayerKillReward", "d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
-      [ "AllianceBuff", "d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
-      [ "HordeBuff", "d4/db7/a03863.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
+    [ "tf_tower_world_state", "dc/d34/a22804.html", "dc/d34/a22804" ],
+    [ "OPvPCapturePointTF", "d2/d36/a22808.html", "d2/d36/a22808" ],
+    [ "OutdoorPvPTF", "d0/d35/a22812.html", "d0/d35/a22812" ],
+    [ "TF_CAPTURE_BUFF", "d4/db7/a03863.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
+    [ "OutdoorPvPTF_TowerType", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999", [
+      [ "TF_TOWER_NW", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
+      [ "TF_TOWER_N", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
+      [ "TF_TOWER_NE", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
+      [ "TF_TOWER_SE", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
+      [ "TF_TOWER_S", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
+      [ "TF_TOWER_NUM", "d4/db7/a03863.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
     ] ],
-    [ "OutdoorPvPHPTowerType", "d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33", [
-      [ "HP_TOWER_BROKEN_HILL", "d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
-      [ "HP_TOWER_OVERLOOK", "d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
-      [ "HP_TOWER_STADIUM", "d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
-      [ "HP_TOWER_NUM", "d4/db7/a03863.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
+    [ "TFTowerStates", "d4/db7/a03863.html#a5815248809b8fd06bd664886846a7126", [
+      [ "TF_TOWERSTATE_N", "d4/db7/a03863.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
+      [ "TF_TOWERSTATE_H", "d4/db7/a03863.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
+      [ "TF_TOWERSTATE_A", "d4/db7/a03863.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
     ] ],
-    [ "HP_CREDITMARKER", "d4/db7/a03863.html#a3be5b978c2160f84a013071d76c121aa", null ],
-    [ "HP_MAP_A", "d4/db7/a03863.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
-    [ "HP_MAP_H", "d4/db7/a03863.html#ab15c51d80dc177784041dedc55e39c56", null ],
-    [ "HP_MAP_N", "d4/db7/a03863.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
-    [ "HP_TowerArtKit_A", "d4/db7/a03863.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
-    [ "HP_TowerArtKit_H", "d4/db7/a03863.html#a6791490624d9d1c2995c6a13659f8692", null ],
-    [ "HP_TowerArtKit_N", "d4/db7/a03863.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
-    [ "HPCapturePoints", "d4/db7/a03863.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
-    [ "HPTowerFlags", "d4/db7/a03863.html#ae6571d986fbbf7b469cf495033f46516", null ],
-    [ "OutdoorPvPHPBuffZones", "d4/db7/a03863.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
+    [ "OutdoorPvPTFBuffZones", "d4/db7/a03863.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
+    [ "OutdoorPvPTFBuffZonesNum", "d4/db7/a03863.html#acde5c9331776adb4ed27c2319476e550", null ],
+    [ "TF_ALLY_QUEST", "d4/db7/a03863.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
+    [ "TF_HORDE_QUEST", "d4/db7/a03863.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
+    [ "TF_LOCK_TIME", "d4/db7/a03863.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
+    [ "TF_LOCK_TIME_UPDATE", "d4/db7/a03863.html#a9ef7be226d98726081fd3cb435d223b5", null ],
+    [ "TFCapturePoints", "d4/db7/a03863.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
+    [ "TFTowerWorldStates", "d4/db7/a03863.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
 ];

@@ -1,6 +1,6 @@
 var a18776 =
 [
-    [ "npc_rotting_frost_giantAI", "db/dbc/a18780.html", "db/dbc/a18780" ],
-    [ "npc_rotting_frost_giant", "d6/deb/a18776.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d6/deb/a18776.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_blazing_skeletonAI", "db/dbc/a18780.html", "db/dbc/a18780" ],
+    [ "npc_blazing_skeleton", "d6/deb/a18776.html#a158720704479946048472ffe0beec492", null ],
+    [ "GetAI", "d6/deb/a18776.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
 ];

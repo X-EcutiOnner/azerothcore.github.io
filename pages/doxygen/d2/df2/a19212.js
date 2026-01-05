@@ -1,6 +1,7 @@
 var a19212 =
 [
-    [ "boss_grobbulusAI", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
-    [ "boss_grobbulus", "d2/df2/a19212.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d2/df2/a19212.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "OnRemove", "d2/df2/a19212.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d2/df2/a19212.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d2/df2/a19212.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d2/df2/a19212.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

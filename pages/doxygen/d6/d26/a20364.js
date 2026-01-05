@@ -1,6 +1,7 @@
 var a20364 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d9/d08/a20368.html", "d9/d08/a20368" ],
-    [ "npc_ulduar_hodir_priest", "d6/d26/a20364.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "d6/d26/a20364.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "HandleEffectPeriodic", "d6/d26/a20364.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "d6/d26/a20364.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "d6/d26/a20364.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "d6/d26/a20364.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

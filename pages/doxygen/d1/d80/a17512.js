@@ -1,6 +1,5 @@
 var a17512 =
 [
-    [ "ModAuraStack", "d1/d80/a17512.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d1/d80/a17512.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d1/d80/a17512.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d1/d80/a17512.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d1/d80/a17512.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

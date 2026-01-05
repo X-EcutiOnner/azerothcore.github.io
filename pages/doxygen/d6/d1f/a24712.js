@@ -1,8 +1,6 @@
 var a24712 =
 [
-    [ "CheckCast", "d6/d1f/a24712.html#a94851a2b6a62138e28466317e9e88480", null ],
-    [ "HandleDummy", "d6/d1f/a24712.html#a970684d219c99519512c437a8efd8d43", null ],
-    [ "PrepareSpellScript", "d6/d1f/a24712.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
-    [ "Register", "d6/d1f/a24712.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
-    [ "Validate", "d6/d1f/a24712.html#a59cca008a97447e257bf24071301b366", null ]
+    [ "HandleEffectRemove", "d6/d1f/a24712.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d6/d1f/a24712.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d6/d1f/a24712.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

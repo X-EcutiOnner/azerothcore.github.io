@@ -1,11 +1,7 @@
 var a18348 =
 [
-    [ "NonTankLKTargetSelector", "d3/ded/a18348.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d3/ded/a18348.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d3/ded/a18348.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d3/ded/a18348.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d3/ded/a18348.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d3/ded/a18348.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d3/ded/a18348.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d3/ded/a18348.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "PeriodicTick", "d3/ded/a18348.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d3/ded/a18348.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d3/ded/a18348.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d3/ded/a18348.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

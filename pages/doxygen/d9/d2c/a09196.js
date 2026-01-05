@@ -1,9 +1,14 @@
 var a09196 =
 [
-    [ "LiquidData", "d9/d2c/a09196.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d9/d2c/a09196.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d9/d2c/a09196.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d9/d2c/a09196.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d9/d2c/a09196.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d9/d2c/a09196.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "areaMapOffset", "d9/d2c/a09196.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "d9/d2c/a09196.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "d9/d2c/a09196.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "d9/d2c/a09196.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "d9/d2c/a09196.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "d9/d2c/a09196.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "d9/d2c/a09196.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "d9/d2c/a09196.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "d9/d2c/a09196.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "d9/d2c/a09196.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "d9/d2c/a09196.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

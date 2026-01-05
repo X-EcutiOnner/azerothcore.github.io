@@ -1,7 +1,12 @@
 var a11624 =
 [
-    [ "StringTransaction", "dd/d3b/a11624.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "dd/d3b/a11624.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "dd/d3b/a11624.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "dd/d3b/a11624.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "BroadcastTextBuilder", "dd/d3b/a11624.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "dd/d3b/a11624.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "dd/d3b/a11624.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "dd/d3b/a11624.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "dd/d3b/a11624.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "dd/d3b/a11624.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "dd/d3b/a11624.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "dd/d3b/a11624.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "dd/d3b/a11624.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

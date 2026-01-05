@@ -1,10 +1,11 @@
 var a10460 =
 [
-    [ "WorldObjectScript", "d1/d2a/a10460.html#af044c3699a591c137abc5e03c772890b", null ],
-    [ "IsDatabaseBound", "d1/d2a/a10460.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "d1/d2a/a10460.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "d1/d2a/a10460.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "d1/d2a/a10460.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "d1/d2a/a10460.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "d1/d2a/a10460.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "PetScript", "d1/d2a/a10460.html#acccf0b5fa2e346c800925142ed52c917", null ],
+    [ "CanResetTalents", "d1/d2a/a10460.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d1/d2a/a10460.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d1/d2a/a10460.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d1/d2a/a10460.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d1/d2a/a10460.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d1/d2a/a10460.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d1/d2a/a10460.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

@@ -1,5 +1,7 @@
 var a13064 =
 [
-    [ "boss_apoko", "d5/df3/a13064.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d5/df3/a13064.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "PeriodicTick", "d5/df3/a13064.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d5/df3/a13064.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d5/df3/a13064.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d5/df3/a13064.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

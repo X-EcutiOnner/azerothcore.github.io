@@ -1,6 +1,6 @@
 var a14288 =
 [
-    [ "HandleObjectAreaTargetSelect", "d4/d32/a14288.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d4/d32/a14288.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d4/d32/a14288.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "FilterTargets", "d4/d32/a14288.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "d4/d32/a14288.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "d4/d32/a14288.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

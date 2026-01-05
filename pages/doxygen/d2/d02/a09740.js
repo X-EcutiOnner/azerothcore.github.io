@@ -1,7 +1,5 @@
 var a09740 =
 [
-    [ "QuestItem", "d2/d02/a09740.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "d2/d02/a09740.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "d2/d02/a09740.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "d2/d02/a09740.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "entry", "d2/d02/a09740.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "d2/d02/a09740.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

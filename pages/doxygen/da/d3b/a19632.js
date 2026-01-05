@@ -1,7 +1,10 @@
 var a19632 =
 [
-    [ "CalcDamage", "da/d3b/a19632.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "da/d3b/a19632.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "da/d3b/a19632.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "da/d3b/a19632.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "instance_nexus_InstanceMapScript", "da/d3b/a19632.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "da/d3b/a19632.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "da/d3b/a19632.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "da/d3b/a19632.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "da/d3b/a19632.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "da/d3b/a19632.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "da/d3b/a19632.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

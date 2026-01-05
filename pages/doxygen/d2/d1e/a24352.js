@@ -1,8 +1,5 @@
 var a24352 =
 [
-    [ "CreatureId", "d2/d1e/a24352.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d2/d1e/a24352.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d2/d1e/a24352.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d2/d1e/a24352.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d2/d1e/a24352.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "at_commander_dawnforge", "d2/d1e/a24352.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d2/d1e/a24352.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

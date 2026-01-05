@@ -1,6 +1,10 @@
 var a26120 =
 [
-    [ "OnPeriodic", "de/d77/a26120.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "de/d77/a26120.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "de/d77/a26120.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "CalcPeriodic", "de/d77/a26120.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "de/d77/a26120.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "de/d77/a26120.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "de/d77/a26120.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "de/d77/a26120.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "de/d77/a26120.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "de/d77/a26120.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

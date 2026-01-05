@@ -1,8 +1,7 @@
 var a21184 =
 [
-    [ "npc_ulduar_keeperAI", "d0/ddd/a21188.html", "d0/ddd/a21188" ],
-    [ "npc_ulduar_keeper", "d8/d6d/a21184.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d8/d6d/a21184.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d8/d6d/a21184.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d8/d6d/a21184.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "OnPeriodic", "d8/d6d/a21184.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d8/d6d/a21184.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d8/d6d/a21184.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d8/d6d/a21184.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

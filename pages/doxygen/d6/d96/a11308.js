@@ -1,7 +1,8 @@
 var a11308 =
 [
-    [ "effectMask", "d6/d96/a11308.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d6/d96/a11308.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d6/d96/a11308.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d6/d96/a11308.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "SkillDiscoveryEntry", "d6/d96/a11308.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d6/d96/a11308.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d6/d96/a11308.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d6/d96/a11308.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d6/d96/a11308.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

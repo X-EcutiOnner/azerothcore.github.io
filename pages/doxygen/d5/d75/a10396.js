@@ -1,5 +1,7 @@
 var a10396 =
 [
-    [ "MailScript", "d5/d75/a10396.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "d5/d75/a10396.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "GameEventScript", "d5/d75/a10396.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "d5/d75/a10396.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "d5/d75/a10396.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "d5/d75/a10396.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

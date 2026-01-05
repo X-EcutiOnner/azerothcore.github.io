@@ -1,6 +1,10 @@
 var a10868 =
 [
-    [ "ListInventory", "d4/d06/a10868.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "d4/d06/a10868.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "d4/d06/a10868.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "SplitItem", "d4/d06/a10868.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
+    [ "Read", "d4/d06/a10868.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
+    [ "Count", "d4/d06/a10868.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
+    [ "DestinationBag", "d4/d06/a10868.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
+    [ "DestinationSlot", "d4/d06/a10868.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
+    [ "SourceBag", "d4/d06/a10868.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
+    [ "SourceSlot", "d4/d06/a10868.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
 ];

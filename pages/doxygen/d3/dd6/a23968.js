@@ -1,5 +1,6 @@
 var a23968 =
 [
-    [ "npc_lord_sanguinar", "d3/dd6/a23968.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d3/dd6/a23968.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d3/d66/a23972.html", "d3/d66/a23972" ],
+    [ "instance_arcatraz", "d3/dd6/a23968.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d3/dd6/a23968.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

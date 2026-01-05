@@ -1,6 +1,6 @@
 var a18456 =
 [
-    [ "npc_icc_ice_sphereAI", "dc/d8d/a18460.html", "dc/d8d/a18460" ],
-    [ "npc_icc_ice_sphere", "d4/d59/a18456.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d4/d59/a18456.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "VileSpiritActivateEvent", "d4/d59/a18456.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d4/d59/a18456.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d4/d59/a18456.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

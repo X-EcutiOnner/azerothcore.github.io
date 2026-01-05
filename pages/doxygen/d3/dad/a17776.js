@@ -1,7 +1,7 @@
 var a17776 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d3/dad/a17776.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "d3/dad/a17776.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "d3/dad/a17776.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "d3/dad/a17776.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "HandleScript", "d3/dad/a17776.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d3/dad/a17776.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d3/dad/a17776.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d3/dad/a17776.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

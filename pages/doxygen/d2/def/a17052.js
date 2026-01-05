@@ -1,6 +1,7 @@
 var a17052 =
 [
-    [ "npc_phantom_hallucinationAI", "d5/d09/a17056.html", "d5/d09/a17056" ],
-    [ "npc_phantom_hallucination", "d2/def/a17052.html#a685889c090152a2562ee9adef7efbf71", null ],
-    [ "GetAI", "d2/def/a17052.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
+    [ "HandlePeriodicTick", "d2/def/a17052.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d2/def/a17052.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d2/def/a17052.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d2/def/a17052.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

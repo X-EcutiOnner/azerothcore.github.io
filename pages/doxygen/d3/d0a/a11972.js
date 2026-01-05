@@ -1,9 +1,10 @@
 var a11972 =
 [
-    [ "titles_commandscript", "d3/d0a/a11972.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d3/d0a/a11972.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d3/d0a/a11972.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d3/d0a/a11972.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d3/d0a/a11972.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d3/d0a/a11972.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "mmaps_commandscript", "d3/d0a/a11972.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d3/d0a/a11972.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d3/d0a/a11972.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d3/d0a/a11972.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d3/d0a/a11972.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d3/d0a/a11972.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d3/d0a/a11972.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

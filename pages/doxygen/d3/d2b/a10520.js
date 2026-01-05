@@ -1,6 +1,13 @@
 var a10520 =
 [
-    [ "BuyBankSlotResult", "d3/d2b/a10520.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "d3/d2b/a10520.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "d3/d2b/a10520.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "ScriptObject", "d3/d2b/a10520.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
+    [ "~ScriptObject", "d3/d2b/a10520.html#a80c704c939f54eee6655d68509598c42", null ],
+    [ "checkValidity", "d3/d2b/a10520.html#a585e75e34aed7aa32205daad85f8fe08", null ],
+    [ "GetName", "d3/d2b/a10520.html#a79588d839860d2f5caab60c5f1368f10", null ],
+    [ "GetTotalAvailableHooks", "d3/d2b/a10520.html#a69ee35ec7d54226264efef558022c1c0", null ],
+    [ "isAfterLoadScript", "d3/d2b/a10520.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
+    [ "IsDatabaseBound", "d3/d2b/a10520.html#a37da453729d5c8fbe2d06f905563f47c", null ],
+    [ "ScriptMgr", "d3/d2b/a10520.html#a7a753f61d57353451e90f3f23fec4851", null ],
+    [ "_name", "d3/d2b/a10520.html#a90b63e382cac17922ae57fe22b84718c", null ],
+    [ "_totalAvailableHooks", "d3/d2b/a10520.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
 ];

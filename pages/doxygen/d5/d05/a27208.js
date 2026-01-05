@@ -1,5 +1,7 @@
 var a27208 =
 [
-    [ "achievement_bg_ic_mowed_down", "d5/d05/a27208.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d5/d05/a27208.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleDummy", "d5/d05/a27208.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "d5/d05/a27208.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "d5/d05/a27208.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "d5/d05/a27208.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

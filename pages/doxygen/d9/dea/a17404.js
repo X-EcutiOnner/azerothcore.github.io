@@ -1,5 +1,7 @@
 var a17404 =
 [
-    [ "achievement_less_rabi", "d9/dea/a17404.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "d9/dea/a17404.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "HandleEffectPeriodic", "d9/dea/a17404.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d9/dea/a17404.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d9/dea/a17404.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d9/dea/a17404.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

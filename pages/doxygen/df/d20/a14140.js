@@ -1,6 +1,7 @@
 var a14140 =
 [
-    [ "boss_gahzranka", "df/d20/a14140.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "df/d20/a14140.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "df/d20/a14140.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "HandleScript", "df/d20/a14140.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "df/d20/a14140.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "df/d20/a14140.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "df/d20/a14140.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

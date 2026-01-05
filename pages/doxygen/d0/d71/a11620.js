@@ -1,5 +1,7 @@
 var a11620 =
 [
-    [ "Name", "d0/d71/a11620.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
-    [ "Type", "d0/d71/a11620.html#aeacac864bd23dcb7b24efc484810f592", null ]
+    [ "ScriptStateStore", "d0/d71/a11620.html#a51baffee5c9dbf255591db8ea13ee516", null ],
+    [ "_auraApplication", "d0/d71/a11620.html#af5098bcedac048808e11bf2f82d705a7", null ],
+    [ "_currentScriptState", "d0/d71/a11620.html#adddf594d9468b16455da6e2aef683d44", null ],
+    [ "_defaultActionPrevented", "d0/d71/a11620.html#a63cf373d469af72bc96a3e72351e3256", null ]
 ];

@@ -1,6 +1,8 @@
 var a20176 =
 [
-    [ "achievement_flame_leviathan_towers", "d9/dd5/a20176.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "d9/dd5/a20176.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "d9/dd5/a20176.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "npc_mechanoliftAI", "d9/dd5/a20176.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
+    [ "Reset", "d9/dd5/a20176.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
+    [ "UpdateAI", "d9/dd5/a20176.html#a3f8634abde6b3aa00acf03c77df433be", null ],
+    [ "_evadeTimer", "d9/dd5/a20176.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
+    [ "_startTimer", "d9/dd5/a20176.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
 ];

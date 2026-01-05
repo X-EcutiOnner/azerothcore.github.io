@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Object/Object.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Object/ObjectVisibilityContainer.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,93 +105,56 @@ $(document).ready(function(){initNavTree('d3/d13/a00836.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Object.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">ObjectVisibilityContainer.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Battlefield.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DynamicVisibility.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MovementPacketBuilder.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Physics.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Totem.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateFieldFlags.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateMask.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a6165c6736a6e152a38f7dea1aa2c956b"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d13/a00836.html#a6165c6736a6e152a38f7dea1aa2c956b">VisibilityDistances</a> [<a class="el" href="../../d3/d06/a04733.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="el" href="../../d5/d72/a00803.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233">VisibilityDistanceType::Max</a>)]</td></tr>
-<tr class="separator:a6165c6736a6e152a38f7dea1aa2c956b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d65/a08528.html">ObjectVisibilityContainer</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a6fe979433a4dd2c9023626ecc74bf6a5"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../db/d2c/a08500.html">ObjectGuid</a>, <a class="el" href="../../d2/de1/a08484.html">WorldObject</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d13/a00836.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a></td></tr>
+<tr class="separator:a6fe979433a4dd2c9023626ecc74bf6a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52b38df575afa7eef8fb58759ee03bd8"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../db/d2c/a08500.html">ObjectGuid</a>, <a class="el" href="../../d7/d6b/a08700.html">Player</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d13/a00836.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a></td></tr>
+<tr class="separator:a52b38df575afa7eef8fb58759ee03bd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a6165c6736a6e152a38f7dea1aa2c956b" name="a6165c6736a6e152a38f7dea1aa2c956b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6165c6736a6e152a38f7dea1aa2c956b">&#9670;&#160;</a></span>VisibilityDistances</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a52b38df575afa7eef8fb58759ee03bd8" name="a52b38df575afa7eef8fb58759ee03bd8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52b38df575afa7eef8fb58759ee03bd8">&#9670;&#160;</a></span>VisiblePlayersMap</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr float VisibilityDistances[<a class="el" href="../../d3/d06/a04733.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="el" href="../../d5/d72/a00803.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233">VisibilityDistanceType::Max</a>)]</td>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../db/d2c/a08500.html">ObjectGuid</a>, <a class="el" href="../../d7/d6b/a08700.html">Player</a>*&gt; <a class="el" href="../../d3/d13/a00836.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    <a class="code hl_define" href="../../d5/d72/a00803.html#a22c041da6769a0cb3ef89726dd33981d">DEFAULT_VISIBILITY_DISTANCE</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../d5/d72/a00803.html#a3e2fbd681c4b511f283f7b4d429a5f80">VISIBILITY_DISTANCE_TINY</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../d5/d72/a00803.html#ae57720dd4437b418bb332db290c71d45">VISIBILITY_DISTANCE_SMALL</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../d5/d72/a00803.html#a2c7e0d3a0783990d50e50d41a916a595">VISIBILITY_DISTANCE_LARGE</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../d5/d72/a00803.html#ac42804b48d734699eef6b8f584e2fb90">VISIBILITY_DISTANCE_GIGANTIC</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../d5/d72/a00803.html#a383cb16bb626159d72cc6b5928429f90">VISIBILITY_DISTANCE_INFINITE</a></div>
-<div class="line">}</div>
-<div class="ttc" id="aa00803_html_a22c041da6769a0cb3ef89726dd33981d"><div class="ttname"><a href="../../d5/d72/a00803.html#a22c041da6769a0cb3ef89726dd33981d">DEFAULT_VISIBILITY_DISTANCE</a></div><div class="ttdeci">#define DEFAULT_VISIBILITY_DISTANCE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:39</div></div>
-<div class="ttc" id="aa00803_html_a2c7e0d3a0783990d50e50d41a916a595"><div class="ttname"><a href="../../d5/d72/a00803.html#a2c7e0d3a0783990d50e50d41a916a595">VISIBILITY_DISTANCE_LARGE</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_LARGE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:35</div></div>
-<div class="ttc" id="aa00803_html_a383cb16bb626159d72cc6b5928429f90"><div class="ttname"><a href="../../d5/d72/a00803.html#a383cb16bb626159d72cc6b5928429f90">VISIBILITY_DISTANCE_INFINITE</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_INFINITE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:33</div></div>
-<div class="ttc" id="aa00803_html_a3e2fbd681c4b511f283f7b4d429a5f80"><div class="ttname"><a href="../../d5/d72/a00803.html#a3e2fbd681c4b511f283f7b4d429a5f80">VISIBILITY_DISTANCE_TINY</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_TINY</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:38</div></div>
-<div class="ttc" id="aa00803_html_ac42804b48d734699eef6b8f584e2fb90"><div class="ttname"><a href="../../d5/d72/a00803.html#ac42804b48d734699eef6b8f584e2fb90">VISIBILITY_DISTANCE_GIGANTIC</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_GIGANTIC</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:34</div></div>
-<div class="ttc" id="aa00803_html_ae57720dd4437b418bb332db290c71d45"><div class="ttname"><a href="../../d5/d72/a00803.html#ae57720dd4437b418bb332db290c71d45">VISIBILITY_DISTANCE_SMALL</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_SMALL</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:37</div></div>
-</div><!-- fragment --><dl class="todo"><dt><b><a class="el" href="../../d0/de6/a04814.html#_todo000041">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01078">WorldObject::GetVisibilityOverrideDistance()</a>.</p>
+</div>
+</div>
+<a id="a6fe979433a4dd2c9023626ecc74bf6a5" name="a6fe979433a4dd2c9023626ecc74bf6a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fe979433a4dd2c9023626ecc74bf6a5">&#9670;&#160;</a></span>VisibleWorldObjectsMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../db/d2c/a08500.html">ObjectGuid</a>, <a class="el" href="../../d2/de1/a08484.html">WorldObject</a>*&gt; <a class="el" href="../../d3/d13/a00836.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -200,8 +163,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../d3/d13/a00836.html">Object.cpp</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 20:49:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../d3/d13/a00836.html">ObjectVisibilityContainer.h</a></li>
+    <li class="footer">Generated on Mon Jan 5 2026 20:53:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

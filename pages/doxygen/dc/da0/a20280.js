@@ -1,6 +1,6 @@
 var a20280 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "db/d90/a20284.html", "db/d90/a20284" ],
-    [ "npc_ulduar_saronite_vapors", "dc/da0/a20280.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "dc/da0/a20280.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "boss_freya_elder_ironbranchAI", "db/d90/a20284.html", "db/d90/a20284" ],
+    [ "boss_freya_elder_ironbranch", "dc/da0/a20280.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "dc/da0/a20280.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

@@ -1,8 +1,6 @@
 var a19880 =
 [
-    [ "HandlePeriodic", "de/dd1/a19880.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "de/dd1/a19880.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "de/dd1/a19880.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "de/dd1/a19880.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "de/dd1/a19880.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "HandleApplyTouch", "de/dd1/a19880.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "de/dd1/a19880.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "de/dd1/a19880.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

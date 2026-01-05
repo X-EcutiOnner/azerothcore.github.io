@@ -1,5 +1,5 @@
 var a11984 =
 [
-    [ "npcEntry", "da/d29/a11984.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
-    [ "spellId", "da/d29/a11984.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
+    [ "flag", "da/d29/a11984.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "da/d29/a11984.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

@@ -1,12 +1,7 @@
 var a14908 =
 [
-    [ "boss_epochAI", "da/d72/a14908.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "da/d72/a14908.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "da/d72/a14908.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "da/d72/a14908.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "da/d72/a14908.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "da/d72/a14908.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "da/d72/a14908.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "da/d72/a14908.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "da/d72/a14908.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "PeriodicTick", "da/d72/a14908.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "da/d72/a14908.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "da/d72/a14908.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "da/d72/a14908.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

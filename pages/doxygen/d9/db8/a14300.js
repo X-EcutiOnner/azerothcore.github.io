@@ -1,6 +1,7 @@
 var a14300 =
 [
-    [ "boss_renatakiAI", "d2/dc8/a14304.html", "d2/dc8/a14304" ],
-    [ "boss_renataki", "d9/db8/a14300.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d9/db8/a14300.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "HandleScriptEffect", "d9/db8/a14300.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d9/db8/a14300.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d9/db8/a14300.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d9/db8/a14300.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

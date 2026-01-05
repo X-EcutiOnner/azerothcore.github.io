@@ -1,6 +1,5 @@
 var a19804 =
 [
-    [ "iron_golem_custodianAI", "de/de9/a19808.html", "de/de9/a19808" ],
-    [ "iron_golem_custodian", "dd/d48/a19804.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "dd/d48/a19804.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "at_hol_hall_of_watchers", "dd/d48/a19804.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "dd/d48/a19804.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

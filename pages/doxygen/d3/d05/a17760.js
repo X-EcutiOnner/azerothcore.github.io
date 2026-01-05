@@ -1,6 +1,6 @@
 var a17760 =
 [
-    [ "npc_igb_ship_crewAI", "d3/d05/a17760.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d3/d05/a17760.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d3/d05/a17760.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "boss_festergutAI", "db/dc1/a17764.html", "db/dc1/a17764" ],
+    [ "boss_festergut", "d3/d05/a17760.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d3/d05/a17760.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

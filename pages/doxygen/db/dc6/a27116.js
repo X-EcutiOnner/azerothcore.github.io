@@ -1,8 +1,8 @@
 var a27116 =
 [
-    [ "HandleDummy", "db/dc6/a27116.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "db/dc6/a27116.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "db/dc6/a27116.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "db/dc6/a27116.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "db/dc6/a27116.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "CheckProc", "db/dc6/a27116.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "db/dc6/a27116.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "db/dc6/a27116.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "db/dc6/a27116.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "db/dc6/a27116.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

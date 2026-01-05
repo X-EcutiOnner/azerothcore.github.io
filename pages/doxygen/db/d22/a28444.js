@@ -1,5 +1,8 @@
 var a28444 =
 [
-    [ "ID", "db/d22/a28444.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "db/d22/a28444.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "difficulty", "db/d22/a28444.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "db/d22/a28444.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "db/d22/a28444.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "db/d22/a28444.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "db/d22/a28444.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

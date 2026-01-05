@@ -1,5 +1,6 @@
 var a27612 =
 [
-    [ "item_generic_limit_chance_above_60", "d0/d6c/a27612.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d0/d6c/a27612.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "go_bashir_crystalforge", "d0/d6c/a27612.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d0/d6c/a27612.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d0/d6c/a27612.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

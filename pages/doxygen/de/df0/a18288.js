@@ -1,5 +1,7 @@
 var a18288 =
 [
-    [ "achievement_all_you_can_eat", "de/df0/a18288.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "de/df0/a18288.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "FrostwyrmLandEvent", "de/df0/a18288.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "de/df0/a18288.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "de/df0/a18288.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "de/df0/a18288.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

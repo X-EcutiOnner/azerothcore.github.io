@@ -1,6 +1,5 @@
 var a16948 =
 [
-    [ "PrepareSpellScript", "d5/d72/a16948.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d5/d72/a16948.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d5/d72/a16948.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "achievement_better_off_dred", "d5/d72/a16948.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d5/d72/a16948.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

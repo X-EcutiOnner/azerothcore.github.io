@@ -1,6 +1,6 @@
 var a16432 =
 [
-    [ "FilterTargets", "d1/d00/a16432.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d1/d00/a16432.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d1/d00/a16432.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "HandlePeriodic", "d1/d00/a16432.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d1/d00/a16432.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d1/d00/a16432.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

@@ -1,17 +1,17 @@
 var a28468 =
 [
-    [ "Entry", "df/dcf/a28468.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "df/dcf/a28468.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "df/dcf/a28468.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "df/dcf/a28468.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "df/dcf/a28468.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "df/dcf/a28468.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "df/dcf/a28468.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "df/dcf/a28468.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "df/dcf/a28468.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "df/dcf/a28468.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "df/dcf/a28468.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "df/dcf/a28468.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "df/dcf/a28468.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "df/dcf/a28468.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "FactionRespondsToCallForHelp", "df/dcf/a28468.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "df/dcf/a28468.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "df/dcf/a28468.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "df/dcf/a28468.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToPlayers", "df/dcf/a28468.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "df/dcf/a28468.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "df/dcf/a28468.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "df/dcf/a28468.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "df/dcf/a28468.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "df/dcf/a28468.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "df/dcf/a28468.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "df/dcf/a28468.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "df/dcf/a28468.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "df/dcf/a28468.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

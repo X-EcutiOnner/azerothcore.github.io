@@ -1,8 +1,6 @@
 var a18480 =
 [
-    [ "ChangeDamageAndGrow", "df/d30/a18480.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "df/d30/a18480.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "df/d30/a18480.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "df/d30/a18480.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "df/d30/a18480.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "boss_the_lich_kingAI", "d0/daa/a18484.html", "d0/daa/a18484" ],
+    [ "boss_the_lich_king", "df/d30/a18480.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "df/d30/a18480.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

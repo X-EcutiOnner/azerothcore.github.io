@@ -1,11 +1,14 @@
 var a22820 =
 [
-    [ "boss_blackheart_the_inciter", "de/d03/a22820.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "de/d03/a22820.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "de/d03/a22820.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "de/d03/a22820.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "de/d03/a22820.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "de/d03/a22820.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "de/d03/a22820.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "de/d03/a22820.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "event_enter", "de/d03/a22820.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "de/d03/a22820.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "de/d03/a22820.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "de/d03/a22820.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "de/d03/a22820.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "de/d03/a22820.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "de/d03/a22820.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "de/d03/a22820.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "de/d03/a22820.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "de/d03/a22820.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "de/d03/a22820.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

@@ -1,6 +1,6 @@
 var a03473 =
 [
-    [ "DataHeader", "d2/d50/a03473.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ScarletMonasteryScriptName", "d2/d50/a03473.html#ac64beb71a88e1265849782b79406b585", null ],
-    [ "GetScarletMonasteryAI", "d2/d50/a03473.html#aecdcabc87b1cc31996b702fd11416f35", null ]
+    [ "instance_the_stockade", "d9/d12/a13760.html", "d9/d12/a13760" ],
+    [ "instance_the_stockade::instance_the_stockade_InstanceMapScript", "d1/d1a/a13764.html", "d1/d1a/a13764" ],
+    [ "AddSC_instance_the_stockade", "d2/d50/a03473.html#a185a86af6f910845f0f833704f0101af", null ]
 ];

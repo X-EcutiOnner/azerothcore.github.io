@@ -1,8 +1,9 @@
 var a10924 =
 [
-    [ "PlayObjectSound", "d3/de7/a10924.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d3/de7/a10924.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d3/de7/a10924.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d3/de7/a10924.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d3/de7/a10924.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "ItemEnchantTimeUpdate", "d3/de7/a10924.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "d3/de7/a10924.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "d3/de7/a10924.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "d3/de7/a10924.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "d3/de7/a10924.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "d3/de7/a10924.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

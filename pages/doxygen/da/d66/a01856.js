@@ -1,7 +1,9 @@
 var a01856 =
 [
-    [ "IsAcceptedClientBuild", "da/d66/a01856.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "da/d66/a01856.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "da/d66/a01856.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "da/d66/a01856.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "PacketLog", "d7/dc9/a11224.html", "d7/dc9/a11224" ],
+    [ "sPacketLog", "da/d66/a01856.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
+    [ "Direction", "da/d66/a01856.html#a224b9163917ac32fc95a60d8c1eec3aa", [
+      [ "CLIENT_TO_SERVER", "da/d66/a01856.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
+      [ "SERVER_TO_CLIENT", "da/d66/a01856.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
+    ] ]
 ];

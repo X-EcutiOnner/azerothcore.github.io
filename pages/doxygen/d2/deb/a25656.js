@@ -1,6 +1,6 @@
 var a25656 =
 [
-    [ "HandleFinish", "d2/deb/a25656.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d2/deb/a25656.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d2/deb/a25656.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "PrepareAuraScript", "d2/deb/a25656.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d2/deb/a25656.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d2/deb/a25656.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

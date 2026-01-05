@@ -1,17 +1,11 @@
 var a12996 =
 [
-    [ "npc_barnesAI", "d0/df3/a12996.html#acf165009e5b2164d8244e709043eba09", null ],
-    [ "JustEngagedWith", "d0/df3/a12996.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
-    [ "PrepareEncounter", "d0/df3/a12996.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
-    [ "Reset", "d0/df3/a12996.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
-    [ "StartEvent", "d0/df3/a12996.html#ab5ed76e189150b2bb8a57095289246fe", null ],
-    [ "Talk", "d0/df3/a12996.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
-    [ "UpdateAI", "d0/df3/a12996.html#a19c6ac3829ae4c38263eda116d56df88", null ],
-    [ "WaypointReached", "d0/df3/a12996.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
-    [ "instance", "d0/df3/a12996.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
-    [ "m_uiEventId", "d0/df3/a12996.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
-    [ "m_uiSpotlightGUID", "d0/df3/a12996.html#aceae6d1588aec9035fb80678af32e96c", null ],
-    [ "PerformanceReady", "d0/df3/a12996.html#a27a8ceb27724f074de840d24dcf0e284", null ],
-    [ "TalkCount", "d0/df3/a12996.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
-    [ "TalkTimer", "d0/df3/a12996.html#afa7fd12da57b887f1254e24d444f43d1", null ]
+    [ "npc_kilrek", "d0/df3/a12996.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "d0/df3/a12996.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "d0/df3/a12996.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "d0/df3/a12996.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "d0/df3/a12996.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "d0/df3/a12996.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "d0/df3/a12996.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "d0/df3/a12996.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

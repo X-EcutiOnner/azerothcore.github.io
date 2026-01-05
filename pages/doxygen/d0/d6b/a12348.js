@@ -1,6 +1,6 @@
 var a12348 =
 [
-    [ "instance_blackrock_spireMapScript", "d6/d3f/a12352.html", "d6/d3f/a12352" ],
-    [ "instance_blackrock_spire", "d0/d6b/a12348.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
-    [ "GetInstanceScript", "d0/d6b/a12348.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
+    [ "boss_pyroguard_emberseerAI", "d6/d3f/a12352.html", "d6/d3f/a12352" ],
+    [ "boss_pyroguard_emberseer", "d0/d6b/a12348.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d0/d6b/a12348.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

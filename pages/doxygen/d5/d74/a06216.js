@@ -1,5 +1,6 @@
 var a06216 =
 [
-    [ "SimpleCharmedAI", "d5/d74/a06216.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d5/d74/a06216.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "KillMagnetEvent", "d5/d74/a06216.html#a1f044cb51674faebe45c0e2119601b59", null ],
+    [ "Execute", "d5/d74/a06216.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
+    [ "_self", "d5/d74/a06216.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
 ];

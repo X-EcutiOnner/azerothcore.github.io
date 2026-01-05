@@ -1,5 +1,6 @@
 var a25460 =
 [
-    [ "PrepareSpellScript", "d7/d23/a25460.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
-    [ "Register", "d7/d23/a25460.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
+    [ "CalculateAmount", "d7/d23/a25460.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "d7/d23/a25460.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "d7/d23/a25460.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

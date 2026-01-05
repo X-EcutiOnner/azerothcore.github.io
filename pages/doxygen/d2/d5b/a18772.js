@@ -1,13 +1,11 @@
 var a18772 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d2/d5b/a18772.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d2/d5b/a18772.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d2/d5b/a18772.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d2/d5b/a18772.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d2/d5b/a18772.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d2/d5b/a18772.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d2/d5b/a18772.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d2/d5b/a18772.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d2/d5b/a18772.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d2/d5b/a18772.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_valithria_cloudAI", "d2/d5b/a18772.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "d2/d5b/a18772.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "d2/d5b/a18772.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "d2/d5b/a18772.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "d2/d5b/a18772.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "d2/d5b/a18772.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "d2/d5b/a18772.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "d2/d5b/a18772.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

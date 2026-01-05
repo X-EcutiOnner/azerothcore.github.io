@@ -1,12 +1,7 @@
 var a23052 =
 [
-    [ "boss_essence_of_sufferingAI", "d4/ddd/a23052.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d4/ddd/a23052.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d4/ddd/a23052.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d4/ddd/a23052.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d4/ddd/a23052.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d4/ddd/a23052.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d4/ddd/a23052.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d4/ddd/a23052.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d4/ddd/a23052.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "VerasEnvenom", "d4/ddd/a23052.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d4/ddd/a23052.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d4/ddd/a23052.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d4/ddd/a23052.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

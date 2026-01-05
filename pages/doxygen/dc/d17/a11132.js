@@ -1,6 +1,7 @@
 var a11132 =
 [
-    [ "ClientOpcodeHandler", "d3/d7d/a04797.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d3/d7d/a04797.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d3/d7d/a04797.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "PetActionSound", "dc/d17/a11132.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "dc/d17/a11132.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "dc/d17/a11132.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "dc/d17/a11132.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

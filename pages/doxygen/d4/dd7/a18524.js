@@ -1,9 +1,7 @@
 var a18524 =
 [
-    [ "HandleScript", "d4/dd7/a18524.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d4/dd7/a18524.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d4/dd7/a18524.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d4/dd7/a18524.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d4/dd7/a18524.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d4/dd7/a18524.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "OnRemove", "d4/dd7/a18524.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d4/dd7/a18524.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d4/dd7/a18524.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d4/dd7/a18524.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

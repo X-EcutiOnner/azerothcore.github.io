@@ -1,9 +1,8 @@
 var a13448 =
 [
-    [ "spell_eredar_twins_apply_touch", "de/d39/a13448.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "de/d39/a13448.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "de/d39/a13448.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "de/d39/a13448.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "de/d39/a13448.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "de/d39/a13448.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "CalcPeriodic", "de/d39/a13448.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "de/d39/a13448.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "de/d39/a13448.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "de/d39/a13448.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "de/d39/a13448.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

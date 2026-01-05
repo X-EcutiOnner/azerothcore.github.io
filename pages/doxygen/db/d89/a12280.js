@@ -1,11 +1,6 @@
 var a12280 =
 [
-    [ "boss_quartermaster_zigris", "db/d89/a12280.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "db/d89/a12280.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "db/d89/a12280.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "db/d89/a12280.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "db/d89/a12280.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "db/d89/a12280.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "db/d89/a12280.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "db/d89/a12280.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "RestoreAttack", "db/d89/a12280.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "db/d89/a12280.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "db/d89/a12280.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

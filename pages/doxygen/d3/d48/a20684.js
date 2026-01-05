@@ -1,5 +1,8 @@
 var a20684 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "d3/d48/a20684.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "d3/d48/a20684.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d3/d48/a20684.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "d3/d48/a20684.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "d3/d48/a20684.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "d3/d48/a20684.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "d3/d48/a20684.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

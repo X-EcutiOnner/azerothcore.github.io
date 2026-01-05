@@ -1,5 +1,5 @@
 var a07772 =
 [
-    [ "IsColorValid", "de/d73/a07772.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
-    [ "IsTextValid", "de/d73/a07772.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
+    [ "value_type", "de/d73/a07772.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "de/d73/a07772.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

@@ -1,6 +1,5 @@
 var a11988 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "df/d0e/a11992.html", "df/d0e/a11992" ],
-    [ "npc_av_marshal_or_warmaster", "d5/d2a/a11988.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "d5/d2a/a11988.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "flag", "d5/d2a/a11988.html#a6cae645736c697e2c2bf51a70c230070", null ],
+    [ "text", "d5/d2a/a11988.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
 ];

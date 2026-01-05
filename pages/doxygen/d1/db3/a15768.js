@@ -1,9 +1,17 @@
 var a15768 =
 [
-    [ "go_wind_stoneAI", "d1/db3/a15768.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d1/db3/a15768.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d1/db3/a15768.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d1/db3/a15768.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d1/db3/a15768.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d1/db3/a15768.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_clintar_spiritAI", "d1/db3/a15768.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
+    [ "EnterEvadeMode", "d1/db3/a15768.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
+    [ "IsSummonedBy", "d1/db3/a15768.html#af55bc32b17bfd45968e668c5591325ae", null ],
+    [ "JustDied", "d1/db3/a15768.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
+    [ "Reset", "d1/db3/a15768.html#afd59b5e50deb65f7175138272f439740", null ],
+    [ "StartEvent", "d1/db3/a15768.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
+    [ "UpdateAI", "d1/db3/a15768.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
+    [ "WaypointReached", "d1/db3/a15768.html#a98315f3202daaac261a1e7f0222b01c5", null ],
+    [ "checkPlayerTimer", "d1/db3/a15768.html#a10165a369bb8a7775050ae425cb94123", null ],
+    [ "CurrWP", "d1/db3/a15768.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
+    [ "EventOnWait", "d1/db3/a15768.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
+    [ "EventTimer", "d1/db3/a15768.html#a27b0a90757df63df276b1e26bfbaba83", null ],
+    [ "PlayerGUID", "d1/db3/a15768.html#ad721852353215d46bc623efca358981f", null ],
+    [ "Step", "d1/db3/a15768.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
 ];

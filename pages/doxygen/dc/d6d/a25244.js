@@ -1,7 +1,7 @@
 var a25244 =
 [
-    [ "HandleDummy", "dc/d6d/a25244.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "dc/d6d/a25244.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "dc/d6d/a25244.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "dc/d6d/a25244.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "HandleProc", "dc/d6d/a25244.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "dc/d6d/a25244.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "dc/d6d/a25244.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "dc/d6d/a25244.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

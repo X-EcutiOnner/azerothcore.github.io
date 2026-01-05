@@ -1,9 +1,6 @@
 var a17132 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "da/d42/a17132.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "da/d42/a17132.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "da/d42/a17132.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "da/d42/a17132.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "da/d42/a17132.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "da/d42/a17132.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "npc_ghostly_priestAI", "dc/dfe/a17136.html", "dc/dfe/a17136" ],
+    [ "npc_ghostly_priest", "da/d42/a17132.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "da/d42/a17132.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

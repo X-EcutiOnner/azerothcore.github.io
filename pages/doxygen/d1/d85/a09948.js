@@ -1,10 +1,7 @@
 var a09948 =
 [
-    [ "ID", "d1/d85/a09948.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d1/d85/a09948.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d1/d85/a09948.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d1/d85/a09948.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d1/d85/a09948.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d1/d85/a09948.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d1/d85/a09948.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "LFGUpdateRequest", "d1/d85/a09948.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "d1/d85/a09948.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "d1/d85/a09948.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "d1/d85/a09948.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

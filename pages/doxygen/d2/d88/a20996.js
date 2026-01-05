@@ -1,6 +1,6 @@
 var a20996 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d3/dfd/a21000.html", "d3/dfd/a21000" ],
-    [ "boss_yoggsaron_death_orb", "d2/d88/a20996.html#a862d01f012cee832b41bc7c584816b93", null ],
-    [ "GetAI", "d2/d88/a20996.html#a3169cd0e78642503f394a6cb74307871", null ]
+    [ "HandleScript", "d2/d88/a20996.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d2/d88/a20996.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d2/d88/a20996.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

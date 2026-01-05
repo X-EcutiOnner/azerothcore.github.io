@@ -1,7 +1,10 @@
 var a19688 =
 [
-    [ "OnRemove", "d8/d6f/a19688.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d8/d6f/a19688.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d8/d6f/a19688.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d8/d6f/a19688.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "npc_oculus_drakegiverAI", "dc/d6b/a19692.html", "dc/d6b/a19692" ],
+    [ "npc_oculus_drakegiver", "d8/d6f/a19688.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d8/d6f/a19688.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d8/d6f/a19688.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d8/d6f/a19688.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d8/d6f/a19688.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d8/d6f/a19688.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

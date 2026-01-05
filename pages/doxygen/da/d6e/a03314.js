@@ -1,5 +1,5 @@
 var a03314 =
 [
-    [ "spectator_commandscript", "d2/d99/a12027.html", "d2/d99/a12027" ],
-    [ "AddSC_spectator_commandscript", "da/d6e/a03314.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
+    [ "cheat_commandscript", "db/d2f/a11880.html", "db/d2f/a11880" ],
+    [ "AddSC_cheat_commandscript", "da/d6e/a03314.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

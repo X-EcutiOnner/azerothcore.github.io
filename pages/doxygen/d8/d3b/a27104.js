@@ -1,7 +1,10 @@
 var a27104 =
 [
-    [ "HandleDummy", "d8/d3b/a27104.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "d8/d3b/a27104.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "d8/d3b/a27104.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "d8/d3b/a27104.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "CalculateAmount", "d8/d3b/a27104.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
+    [ "Detonate", "d8/d3b/a27104.html#adc622aae157984546dfe3d8373c0c413", null ],
+    [ "HandleProc", "d8/d3b/a27104.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
+    [ "OnRemove", "d8/d3b/a27104.html#a5067cef0afc99d487f995f8d6edea21f", null ],
+    [ "PrepareAuraScript", "d8/d3b/a27104.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
+    [ "Register", "d8/d3b/a27104.html#acc4819698e175889a0491d7f7cc680fd", null ],
+    [ "Validate", "d8/d3b/a27104.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
 ];

@@ -1,8 +1,9 @@
 var a24264 =
 [
-    [ "npc_bessyAI", "d2/d2e/a24264.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d2/d2e/a24264.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d2/d2e/a24264.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d2/d2e/a24264.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d2/d2e/a24264.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_aeranasAI", "d2/d2e/a24264.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d2/d2e/a24264.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d2/d2e/a24264.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d2/d2e/a24264.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d2/d2e/a24264.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d2/d2e/a24264.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

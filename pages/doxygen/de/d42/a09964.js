@@ -1,6 +1,12 @@
 var a09964 =
 [
-    [ "sourceObjectDestroyLink", "de/d42/a09964.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
-    [ "targetObjectBuildLink", "de/d42/a09964.html#abf8c86604c3ef4349567c736090402f6", null ],
-    [ "targetObjectDestroyLink", "de/d42/a09964.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
+    [ "TransportTemplate", "de/d42/a09964.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "de/d42/a09964.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "de/d42/a09964.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "de/d42/a09964.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "de/d42/a09964.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "de/d42/a09964.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "de/d42/a09964.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "de/d42/a09964.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "de/d42/a09964.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

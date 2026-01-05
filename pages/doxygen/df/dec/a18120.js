@@ -1,8 +1,14 @@
 var a18120 =
 [
-    [ "HandleScript", "df/dec/a18120.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "df/dec/a18120.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "df/dec/a18120.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "df/dec/a18120.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "df/dec/a18120.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "npc_putricide_oozeAI", "df/dec/a18120.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
+    [ "CastMainSpell", "df/dec/a18120.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
+    [ "IsSummonedBy", "df/dec/a18120.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
+    [ "SelectNewTarget", "df/dec/a18120.html#a0a4167a73249967fcf268683f936647d", null ],
+    [ "SetGUID", "df/dec/a18120.html#af8abd6581901df51a3757f4a19443045", null ],
+    [ "SpellHit", "df/dec/a18120.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
+    [ "SpellHitTarget", "df/dec/a18120.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
+    [ "UpdateAI", "df/dec/a18120.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
+    [ "_hitTargetSpellId", "df/dec/a18120.html#a728b62580e7a84e9947a45b460ab140c", null ],
+    [ "_newTargetSelectTimer", "df/dec/a18120.html#a9615a0e6c73c155330c1791c2a205553", null ],
+    [ "targetGUID", "df/dec/a18120.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
 ];

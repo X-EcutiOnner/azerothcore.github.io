@@ -1,12 +1,9 @@
 var a23260 =
 [
-    [ "boss_fathomlord_karathress", "dc/dbc/a23260.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "dc/dbc/a23260.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "dc/dbc/a23260.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "dc/dbc/a23260.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "dc/dbc/a23260.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "dc/dbc/a23260.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "dc/dbc/a23260.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "dc/dbc/a23260.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "dc/dbc/a23260.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "boss_najentus", "dc/dbc/a23260.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "dc/dbc/a23260.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "dc/dbc/a23260.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "dc/dbc/a23260.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "dc/dbc/a23260.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "dc/dbc/a23260.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

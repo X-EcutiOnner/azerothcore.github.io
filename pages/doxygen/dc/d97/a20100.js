@@ -1,6 +1,6 @@
 var a20100 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "d8/d39/a20104.html", "d8/d39/a20104" ],
-    [ "boss_flame_leviathan_safety_container", "dc/d97/a20100.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
-    [ "GetAI", "dc/d97/a20100.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "d8/d39/a20104.html", "d8/d39/a20104" ],
+    [ "boss_flame_leviathan_overload_device", "dc/d97/a20100.html#ad00f601170c1af833aadb17eab5d19a8", null ],
+    [ "GetAI", "dc/d97/a20100.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
 ];

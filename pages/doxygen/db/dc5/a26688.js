@@ -1,6 +1,8 @@
 var a26688 =
 [
-    [ "PrepareSpellScript", "db/dc5/a26688.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "db/dc5/a26688.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "db/dc5/a26688.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleDummy", "db/dc5/a26688.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "db/dc5/a26688.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "db/dc5/a26688.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "db/dc5/a26688.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "db/dc5/a26688.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

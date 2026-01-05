@@ -1,5 +1,5 @@
 var a16108 =
 [
-    [ "achievement_watch_him_die", "dd/d4a/a16108.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "dd/d4a/a16108.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "achievement_volunteer_work", "dd/d4a/a16108.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "dd/d4a/a16108.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

@@ -1,5 +1,6 @@
 var a15268 =
 [
-    [ "boss_kri", "d2/d78/a15268.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d2/d78/a15268.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "HandleDummyHitTarget", "d2/d78/a15268.html#ae773d73496578170061baedd8f7daec1", null ],
+    [ "PrepareSpellScript", "d2/d78/a15268.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
+    [ "Register", "d2/d78/a15268.html#a651cc94581130224ba23e864f8ad7060", null ]
 ];

@@ -1,10 +1,7 @@
 var a24308 =
 [
-    [ "npc_infernal_attackerAI", "d2/dbf/a24308.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d2/dbf/a24308.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d2/dbf/a24308.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d2/dbf/a24308.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d2/dbf/a24308.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d2/dbf/a24308.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d2/dbf/a24308.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_maghar_captiveAI", "d4/d88/a24312.html", "d4/d88/a24312" ],
+    [ "npc_maghar_captive", "d2/dbf/a24308.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d2/dbf/a24308.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d2/dbf/a24308.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

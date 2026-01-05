@@ -1,8 +1,5 @@
 var a20292 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d5/dda/a20292.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "d5/dda/a20292.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "d5/dda/a20292.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "d5/dda/a20292.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "d5/dda/a20292.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "boss_freya_iron_rootAI", "d5/dda/a20292.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "d5/dda/a20292.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

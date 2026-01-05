@@ -1,12 +1,8 @@
 var a17040 =
 [
-    [ "npc_ghostly_priestAI", "d4/d50/a17040.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "d4/d50/a17040.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "d4/d50/a17040.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "d4/d50/a17040.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "d4/d50/a17040.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "d4/d50/a17040.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "d4/d50/a17040.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "d4/d50/a17040.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "d4/d50/a17040.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d4/d50/a17040.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "d4/d50/a17040.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "d4/d50/a17040.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "d4/d50/a17040.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "d4/d50/a17040.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

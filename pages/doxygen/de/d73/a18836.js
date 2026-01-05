@@ -1,6 +1,7 @@
 var a18836 =
 [
-    [ "npc_captain_rupertAI", "d3/dc9/a18840.html", "d3/dc9/a18840" ],
-    [ "npc_captain_rupert", "de/d73/a18836.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "de/d73/a18836.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "HandleForceCast", "de/d73/a18836.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "de/d73/a18836.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "de/d73/a18836.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "de/d73/a18836.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

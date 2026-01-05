@@ -1,7 +1,12 @@
 var a05424 =
 [
-    [ "MetricStopWatch", "df/d39/a05424.html#a2007207e0985949f478fdeee300ea0d5", null ],
-    [ "~MetricStopWatch", "df/d39/a05424.html#a712b660e090531e69455096afeb60c4c", null ],
-    [ "_logger", "df/d39/a05424.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
-    [ "_startTime", "df/d39/a05424.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
+    [ "AppenderConsole", "df/d39/a05424.html#aaf770a87f2151a7e6f92087751528c68", null ],
+    [ "_write", "df/d39/a05424.html#a94e529229bd707fa2bad0a0206a386d5", null ],
+    [ "getType", "df/d39/a05424.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
+    [ "InitColors", "df/d39/a05424.html#a1a4deceeafc9a111a519ea55dc646266", null ],
+    [ "ResetColor", "df/d39/a05424.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
+    [ "SetColor", "df/d39/a05424.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
+    [ "_colored", "df/d39/a05424.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
+    [ "_colors", "df/d39/a05424.html#acdf277241cd25715e48500a15ab6bd30", null ],
+    [ "type", "df/d39/a05424.html#ab5cbc074f7d9306838974863913c8a5b", null ]
 ];

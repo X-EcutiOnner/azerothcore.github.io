@@ -1,6 +1,5 @@
 var a10036 =
 [
-    [ "AssistanceDistractMovementGenerator", "db/d64/a10036.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
-    [ "Finalize", "db/d64/a10036.html#a1511f74a52e5ad92471e554eb77c235a", null ],
-    [ "GetMovementGeneratorType", "db/d64/a10036.html#a233eb9333ea365955589932ddbd18d8a", null ]
+    [ "MovementGeneratorFactory", "db/d64/a10036.html#a8b473ae9fa2af60a7fa92727ce163305", null ],
+    [ "Create", "db/d64/a10036.html#af3a494507c8d910bd98bb0989d42ba6f", null ]
 ];

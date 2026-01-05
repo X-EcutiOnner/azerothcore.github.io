@@ -1,6 +1,6 @@
 var a24876 =
 [
-    [ "PrepareAuraScript", "d4/d6f/a24876.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "d4/d6f/a24876.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "d4/d6f/a24876.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "CheckTargets", "d4/d6f/a24876.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "d4/d6f/a24876.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "d4/d6f/a24876.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

@@ -1,6 +1,6 @@
 var a23496 =
 [
-    [ "boss_rokmar_the_crackler", "da/de5/a23496.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "da/de5/a23496.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "da/de5/a23496.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "HandleEffectRemove", "da/de5/a23496.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "da/de5/a23496.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "da/de5/a23496.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

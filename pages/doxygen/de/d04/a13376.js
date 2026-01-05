@@ -1,11 +1,24 @@
 var a13376 =
 [
-    [ "boss_baroness_anastariAI", "de/d04/a13376.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "de/d04/a13376.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "de/d04/a13376.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "de/d04/a13376.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "de/d04/a13376.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "de/d04/a13376.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "de/d04/a13376.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "de/d04/a13376.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "instance_scholomance_InstanceMapScript", "de/d04/a13376.html#a1cbe369b03021735cf7876e86dae49f2", null ],
+    [ "GetData", "de/d04/a13376.html#aaca1b46e452647f6bad61a6b1174dd29", null ],
+    [ "GetGuidData", "de/d04/a13376.html#a90c6af9770ec27c49abe4b5ea3b6894d", null ],
+    [ "OnCreatureCreate", "de/d04/a13376.html#ace5725c66d3c0c19cea850ca6b9fb8f9", null ],
+    [ "OnGameObjectCreate", "de/d04/a13376.html#a3961462fc7e59f271ac47acf4e620e36", null ],
+    [ "ReadSaveDataMore", "de/d04/a13376.html#a7a6e2af7869d085e2bd513d334a4aad0", null ],
+    [ "SetData", "de/d04/a13376.html#a3d90f5cdce97f45901cdeb9ebbd835a8", null ],
+    [ "WriteSaveDataMore", "de/d04/a13376.html#acc973023282f0cc264436f242f640280", null ],
+    [ "_kirtonosState", "de/d04/a13376.html#ac321ae0d11075e61b487f7723553a8c6", null ],
+    [ "_miniBosses", "de/d04/a13376.html#ae28f9a4784448ad00206e88f135c04ab", null ],
+    [ "_rasHuman", "de/d04/a13376.html#ab0ad333c9e6b819060f2dcb09e4086e8", null ],
+    [ "BrazierKirtonosGUID", "de/d04/a13376.html#aade0fc294bf0044c3702ef1a10c1dbca", null ],
+    [ "GandlingGatesGUID", "de/d04/a13376.html#ab2f5b7333d09dd480a60004cc001dad7", null ],
+    [ "GandlingGUID", "de/d04/a13376.html#a5ed2541153458234087f89716686e5af", null ],
+    [ "GateBarovGUID", "de/d04/a13376.html#a1e56cb4f5ee0f728e5d7806517d8cb14", null ],
+    [ "GateIlluciaGUID", "de/d04/a13376.html#a65e67ab0abac41f9636a927549fced6d", null ],
+    [ "GateKirtonosGUID", "de/d04/a13376.html#aab77a0473c18db23a7cceabb141d6d2c", null ],
+    [ "GateMiliciaGUID", "de/d04/a13376.html#a0782a1b49dfd38d0b97987f2a600ce03", null ],
+    [ "GatePolkeltGUID", "de/d04/a13376.html#a6da25614197b9fea7799a034031addff", null ],
+    [ "GateRavenianGUID", "de/d04/a13376.html#afa421865ce7f1db6b41494a5a84cc6c7", null ],
+    [ "GateTheolenGUID", "de/d04/a13376.html#a035ec607b3e0622cb5a794dfa3ff1fc1", null ]
 ];

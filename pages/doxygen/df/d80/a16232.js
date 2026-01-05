@@ -1,5 +1,25 @@
 var a16232 =
 [
-    [ "at_baltharus_plateau", "df/d80/a16232.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "df/d80/a16232.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "boss_sartharionAI", "df/d80/a16232.html#aea51fa7b0e55c9ae635a95f7a1aea161", null ],
+    [ "DamageTaken", "df/d80/a16232.html#a0f16f9865159338c46e140c01650a728", null ],
+    [ "DoAction", "df/d80/a16232.html#af3c28d7eff6df494bbca6156df5fb014", null ],
+    [ "GetData", "df/d80/a16232.html#a6d45699d2efacdc0aca88dba3f67d20a", null ],
+    [ "IsTargetInBounds", "df/d80/a16232.html#a5ed942da2e53ecc63ec15fa8cf8c3325", null ],
+    [ "JustDied", "df/d80/a16232.html#ac0a2915976f7dfb21786c161d5e43d3f", null ],
+    [ "JustEngagedWith", "df/d80/a16232.html#a15c50a40ae2a6caa873993c6e330600c", null ],
+    [ "JustSummoned", "df/d80/a16232.html#ac5dc745f044bdf673b7f92b194063d94", null ],
+    [ "KilledUnit", "df/d80/a16232.html#a8502d5c79b7baac2f9a68349e99b7b16", null ],
+    [ "Reset", "df/d80/a16232.html#ab72889e00eb1fad659f807620e81e23e", null ],
+    [ "RespawnDragons", "df/d80/a16232.html#a5014e6aebdda3b84cd22fd2f66ed691b", null ],
+    [ "SendLavaWaves", "df/d80/a16232.html#a14384c3853570d0f7580d72d0008b986", null ],
+    [ "SetData", "df/d80/a16232.html#ad992cf36966069dc00d5509a54445213", null ],
+    [ "SummonLavaWaves", "df/d80/a16232.html#aadd3b8f29b49b67685d67036c5f2775f", null ],
+    [ "SummonStartingTriggers", "df/d80/a16232.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4", null ],
+    [ "UpdateAI", "df/d80/a16232.html#a7aaca15038bf53ff3baaeb39c7713bff", null ],
+    [ "below11PctReached", "df/d80/a16232.html#ae838ffe0fdee72f4d4b1c02a9cbde949", null ],
+    [ "dragonsCount", "df/d80/a16232.html#a3bb9defa2a2a3acc6caadaaa361027ee", null ],
+    [ "extraEvents", "df/d80/a16232.html#a4d2e7a5aae63664e437c1e9ac22846cb", null ],
+    [ "lastLavaSide", "df/d80/a16232.html#ab9c3a5d19c966e547328ce2a28674069", null ],
+    [ "usedBerserk", "df/d80/a16232.html#a4790e98b3e8d02021b00e14aafec3aff", null ],
+    [ "volcanoBlows", "df/d80/a16232.html#a1d6e306084fb64742d28beb1f65ef338", null ]
 ];

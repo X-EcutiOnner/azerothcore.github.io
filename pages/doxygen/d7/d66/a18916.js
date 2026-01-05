@@ -1,5 +1,6 @@
 var a18916 =
 [
-    [ "at_icc_start_blood_quickening", "d7/d66/a18916.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d7/d66/a18916.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "npc_captain_brandonAI", "d7/d66/a18916.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d7/d66/a18916.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d7/d66/a18916.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

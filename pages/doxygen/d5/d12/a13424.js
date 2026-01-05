@@ -1,6 +1,7 @@
 var a13424 =
 [
-    [ "HandleActivateObject", "d5/d12/a13424.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d5/d12/a13424.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d5/d12/a13424.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "HandleScript", "d5/d12/a13424.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "d5/d12/a13424.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "d5/d12/a13424.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "d5/d12/a13424.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

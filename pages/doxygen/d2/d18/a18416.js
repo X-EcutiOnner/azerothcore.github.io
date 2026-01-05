@@ -1,7 +1,6 @@
 var a18416 =
 [
-    [ "HandleScript", "d2/d18/a18416.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d2/d18/a18416.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d2/d18/a18416.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d2/d18/a18416.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "OrderWhelpTargetSelector", "d2/d18/a18416.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d2/d18/a18416.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d2/d18/a18416.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

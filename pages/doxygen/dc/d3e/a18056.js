@@ -1,7 +1,6 @@
 var a18056 =
 [
-    [ "HandleTriggerSpell", "dc/d3e/a18056.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "dc/d3e/a18056.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "dc/d3e/a18056.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "dc/d3e/a18056.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "BoneStormMoveTargetSelector", "dc/d3e/a18056.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "dc/d3e/a18056.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "dc/d3e/a18056.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

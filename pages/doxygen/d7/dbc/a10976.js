@@ -1,6 +1,7 @@
 var a10976 =
 [
-    [ "ComplainResult", "d7/dbc/a10976.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "d7/dbc/a10976.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "d7/dbc/a10976.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "MinimapPingClient", "d7/dbc/a10976.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d7/dbc/a10976.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d7/dbc/a10976.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d7/dbc/a10976.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

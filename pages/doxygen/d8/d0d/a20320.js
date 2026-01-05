@@ -1,5 +1,6 @@
 var a20320 =
 [
-    [ "achievement_shadowdodger", "d8/d0d/a20320.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d8/d0d/a20320.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "boss_freya_nature_bombAI", "d9/dd1/a20324.html", "d9/dd1/a20324" ],
+    [ "boss_freya_nature_bomb", "d8/d0d/a20320.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d8/d0d/a20320.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

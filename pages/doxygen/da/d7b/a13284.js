@@ -1,7 +1,7 @@
 var a13284 =
 [
-    [ "HandleScript", "da/d7b/a13284.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "da/d7b/a13284.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "da/d7b/a13284.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "da/d7b/a13284.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "HandleHit", "da/d7b/a13284.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "da/d7b/a13284.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "da/d7b/a13284.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "da/d7b/a13284.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

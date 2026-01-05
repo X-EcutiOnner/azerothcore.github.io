@@ -1,6 +1,6 @@
 var a16816 =
 [
-    [ "HandleEffectPeriodic", "da/d42/a16816.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "da/d42/a16816.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "da/d42/a16816.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_mistress_of_painAI", "d1/dfc/a16820.html", "d1/dfc/a16820" ],
+    [ "npc_mistress_of_pain", "da/d42/a16816.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "da/d42/a16816.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

@@ -1,6 +1,6 @@
 var a24892 =
 [
-    [ "CheckCast", "d7/dd2/a24892.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "d7/dd2/a24892.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "d7/dd2/a24892.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "CalculateAmount", "d7/dd2/a24892.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "d7/dd2/a24892.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "d7/dd2/a24892.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

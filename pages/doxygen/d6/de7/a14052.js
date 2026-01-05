@@ -1,7 +1,12 @@
 var a14052 =
 [
-    [ "OnPeriodic", "d6/de7/a14052.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d6/de7/a14052.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d6/de7/a14052.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d6/de7/a14052.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_daphne_stilwellAI", "d6/de7/a14052.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d6/de7/a14052.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d6/de7/a14052.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d6/de7/a14052.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d6/de7/a14052.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d6/de7/a14052.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d6/de7/a14052.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "summons", "d6/de7/a14052.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d6/de7/a14052.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

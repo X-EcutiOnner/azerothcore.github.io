@@ -1,7 +1,6 @@
 var a20344 =
 [
-    [ "npc_ulduar_icicleAI", "de/d34/a20344.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
-    [ "UpdateAI", "de/d34/a20344.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
-    [ "timer1", "de/d34/a20344.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
-    [ "timer2", "de/d34/a20344.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d3/dc3/a20348.html", "d3/dc3/a20348" ],
+    [ "npc_ulduar_saronite_vapors", "de/d34/a20344.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
+    [ "GetAI", "de/d34/a20344.html#a3c2e7b6263f8935da9291c736b14d139", null ]
 ];

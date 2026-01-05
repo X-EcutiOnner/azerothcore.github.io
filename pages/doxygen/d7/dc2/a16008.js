@@ -1,8 +1,6 @@
 var a16008 =
 [
-    [ "HandleScriptEffect", "d7/dc2/a16008.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "d7/dc2/a16008.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "d7/dc2/a16008.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "d7/dc2/a16008.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "d7/dc2/a16008.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "creatureID", "d7/dc2/a16008.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d7/dc2/a16008.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d7/dc2/a16008.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

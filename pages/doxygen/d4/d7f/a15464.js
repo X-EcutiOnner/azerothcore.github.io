@@ -1,6 +1,6 @@
 var a15464 =
 [
-    [ "HandleDummy", "d4/d7f/a15464.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d4/d7f/a15464.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d4/d7f/a15464.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "boss_veknilash", "d4/d7f/a15464.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d4/d7f/a15464.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d4/d7f/a15464.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

@@ -1,11 +1,5 @@
 var a22800 =
 [
-    [ "boss_talon_king_ikiss", "d9/d45/a22800.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "CanAIAttack", "d9/d45/a22800.html#ab4858d845f149b6333941d8f8ab59afb", null ],
-    [ "JustDied", "d9/d45/a22800.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "d9/d45/a22800.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "d9/d45/a22800.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "d9/d45/a22800.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "d9/d45/a22800.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "d9/d45/a22800.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "OutdoorPvP_terokkar_forest", "d9/d45/a22800.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d9/d45/a22800.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

@@ -1,9 +1,7 @@
 var a26852 =
 [
-    [ "HandleHeal", "d8/d6b/a26852.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d8/d6b/a26852.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d8/d6b/a26852.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d8/d6b/a26852.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d8/d6b/a26852.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d8/d6b/a26852.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CalcPeriodic", "d8/d6b/a26852.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "d8/d6b/a26852.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "d8/d6b/a26852.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "d8/d6b/a26852.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

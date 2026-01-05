@@ -1,6 +1,6 @@
 var a19856 =
 [
-    [ "npc_living_constellationAI", "d2/d19/a19860.html", "d2/d19/a19860" ],
-    [ "npc_living_constellation", "de/d81/a19856.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "de/d81/a19856.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/d19/a19860.html", "d2/d19/a19860" ],
+    [ "boss_sjonnir_malformed_ooze", "de/d81/a19856.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "de/d81/a19856.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

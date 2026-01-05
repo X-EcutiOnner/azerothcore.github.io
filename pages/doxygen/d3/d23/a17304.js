@@ -1,6 +1,13 @@
 var a17304 =
 [
-    [ "HandleDummy", "d3/d23/a17304.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d3/d23/a17304.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d3/d23/a17304.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "boss_tyrannusAI", "d3/d23/a17304.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d3/d23/a17304.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d3/d23/a17304.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d3/d23/a17304.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d3/d23/a17304.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d3/d23/a17304.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d3/d23/a17304.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d3/d23/a17304.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d3/d23/a17304.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d3/d23/a17304.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

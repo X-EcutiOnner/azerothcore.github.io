@@ -1,10 +1,13 @@
 var a15024 =
 [
-    [ "boss_aeonus", "d8/d58/a15024.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d8/d58/a15024.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d8/d58/a15024.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d8/d58/a15024.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d8/d58/a15024.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d8/d58/a15024.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d8/d58/a15024.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "boss_salrammAI", "d8/d58/a15024.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "d8/d58/a15024.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "d8/d58/a15024.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "d8/d58/a15024.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "d8/d58/a15024.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "d8/d58/a15024.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "d8/d58/a15024.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "d8/d58/a15024.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "d8/d58/a15024.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "d8/d58/a15024.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

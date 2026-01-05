@@ -1,9 +1,7 @@
 var a22988 =
 [
-    [ "HandleAfterCast", "d0/d98/a22988.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d0/d98/a22988.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d0/d98/a22988.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d0/d98/a22988.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d0/d98/a22988.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d0/d98/a22988.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "npc_blade_of_azzinoth", "d0/d98/a22988.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/d98/a22988.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/d98/a22988.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/d98/a22988.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

@@ -1,6 +1,10 @@
 var a14936 =
 [
-    [ "boss_salrammAI", "db/d18/a14940.html", "db/d18/a14940" ],
-    [ "boss_salramm", "d8/dd0/a14936.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d8/dd0/a14936.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "boss_rage_winterchill", "d8/dd0/a14936.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d8/dd0/a14936.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d8/dd0/a14936.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d8/dd0/a14936.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d8/dd0/a14936.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d8/dd0/a14936.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d8/dd0/a14936.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

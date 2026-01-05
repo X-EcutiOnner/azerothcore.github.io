@@ -1,10 +1,12 @@
 var a21584 =
 [
-    [ "npc_azure_invaderAI", "df/db2/a21584.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "df/db2/a21584.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "df/db2/a21584.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "df/db2/a21584.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "df/db2/a21584.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "df/db2/a21584.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "df/db2/a21584.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "boss_moraggAI", "df/db2/a21584.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "df/db2/a21584.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "df/db2/a21584.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "df/db2/a21584.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "df/db2/a21584.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "df/db2/a21584.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "df/db2/a21584.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "df/db2/a21584.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "df/db2/a21584.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

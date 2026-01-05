@@ -1,5 +1,9 @@
 var a23108 =
 [
-    [ "npc_ashtongue_sorcerer", "d0/da7/a23108.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d0/da7/a23108.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "boss_mother_shahraz", "d0/da7/a23108.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d0/da7/a23108.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d0/da7/a23108.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d0/da7/a23108.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d0/da7/a23108.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d0/da7/a23108.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

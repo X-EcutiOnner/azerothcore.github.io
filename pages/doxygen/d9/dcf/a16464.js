@@ -1,6 +1,6 @@
 var a16464 =
 [
-    [ "HandleSpellHit", "d9/dcf/a16464.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "d9/dcf/a16464.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "d9/dcf/a16464.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "boss_saviana_ragefireAI", "d1/dad/a16468.html", "d1/dad/a16468" ],
+    [ "boss_saviana_ragefire", "d9/dcf/a16464.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d9/dcf/a16464.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

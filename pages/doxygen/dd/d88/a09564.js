@@ -1,13 +1,9 @@
 var a09564 =
 [
-    [ "GroupReference", "dd/d88/a09564.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "dd/d88/a09564.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "dd/d88/a09564.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "dd/d88/a09564.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "dd/d88/a09564.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "dd/d88/a09564.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "dd/d88/a09564.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "dd/d88/a09564.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "dd/d88/a09564.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "dd/d88/a09564.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "UnitAuraCheck", "dd/d88/a09564.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "dd/d88/a09564.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "dd/d88/a09564.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "dd/d88/a09564.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "dd/d88/a09564.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "dd/d88/a09564.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

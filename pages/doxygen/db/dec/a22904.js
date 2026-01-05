@@ -1,7 +1,6 @@
 var a22904 =
 [
-    [ "HandleEffectRemove", "db/dec/a22904.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "db/dec/a22904.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "db/dec/a22904.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "db/dec/a22904.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "de/d1c/a22908.html", "de/d1c/a22908" ],
+    [ "instance_sethekk_halls", "db/dec/a22904.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "db/dec/a22904.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

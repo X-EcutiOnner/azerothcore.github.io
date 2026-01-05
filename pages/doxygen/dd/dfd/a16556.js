@@ -1,7 +1,10 @@
 var a16556 =
 [
-    [ "HandleEffectPeriodic", "dd/dfd/a16556.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "dd/dfd/a16556.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "dd/dfd/a16556.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "dd/dfd/a16556.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_black_knight_ghoulAI", "dd/dfd/a16556.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "dd/dfd/a16556.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "dd/dfd/a16556.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "dd/dfd/a16556.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "dd/dfd/a16556.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "dd/dfd/a16556.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "dd/dfd/a16556.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

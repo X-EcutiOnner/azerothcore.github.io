@@ -1,7 +1,5 @@
 var a23884 =
 [
-    [ "AfterApply", "dd/d11/a23884.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "dd/d11/a23884.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "dd/d11/a23884.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "dd/d11/a23884.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "at_rp_nethekurse", "dd/d11/a23884.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "dd/d11/a23884.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

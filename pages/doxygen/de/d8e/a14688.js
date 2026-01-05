@@ -1,6 +1,5 @@
 var a14688 =
 [
-    [ "HandleAfterEffectRemove", "de/d8e/a14688.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
-    [ "PrepareAuraScript", "de/d8e/a14688.html#a3b54e232c0502eaa03b314a05dce1835", null ],
-    [ "Register", "de/d8e/a14688.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
+    [ "go_loosely_turned_soilAI", "de/d8e/a14688.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "de/d8e/a14688.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

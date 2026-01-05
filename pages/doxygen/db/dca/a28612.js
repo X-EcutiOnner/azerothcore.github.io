@@ -1,5 +1,5 @@
 var a28612 =
 [
-    [ "HasMissile", "db/dca/a28612.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "db/dca/a28612.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "id", "db/dca/a28612.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "db/dca/a28612.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

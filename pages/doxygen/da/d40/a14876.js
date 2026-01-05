@@ -1,8 +1,7 @@
 var a14876 =
 [
-    [ "hyjalTyrandeAI", "da/d40/a14876.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "da/d40/a14876.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "da/d40/a14876.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "da/d40/a14876.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "da/d40/a14876.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "HandleOnHit", "da/d40/a14876.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "da/d40/a14876.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "da/d40/a14876.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "da/d40/a14876.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

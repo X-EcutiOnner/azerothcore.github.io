@@ -1,16 +1,20 @@
 var a28840 =
 [
-    [ "adt_LIQUID", "da/dd4/a28848.html", "da/dd4/a28848" ],
-    [ "GetLiquidAttributes", "d1/d19/a28840.html#a343859f1c04059988ca0e4050ffac22f", null ],
-    [ "GetLiquidDepth", "d1/d19/a28840.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
-    [ "GetLiquidExistsBitmap", "d1/d19/a28840.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
-    [ "GetLiquidHeight", "d1/d19/a28840.html#a73ad976bf67c8adba2443190e6db533f", null ],
-    [ "GetLiquidInstance", "d1/d19/a28840.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
-    [ "GetLiquidTextureCoordMap", "d1/d19/a28840.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
-    [ "GetLiquidType", "d1/d19/a28840.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
-    [ "prepareLoadedData", "d1/d19/a28840.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
-    [ "fcc", "d1/d19/a28840.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
-    [ "fcc_txt", "d1/d19/a28840.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
-    [ "liquid", "d1/d19/a28840.html#aaaff4b98a34d81985b552fd671411450", null ],
-    [ "size", "d1/d19/a28840.html#a2110a26debb714695e38e5ec159131f2", null ]
+    [ "RealmMap", "d1/d19/a28840.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "d1/d19/a28840.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "d1/d19/a28840.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "d1/d19/a28840.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "d1/d19/a28840.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "d1/d19/a28840.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "d1/d19/a28840.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "d1/d19/a28840.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "d1/d19/a28840.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "d1/d19/a28840.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "d1/d19/a28840.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "d1/d19/a28840.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "d1/d19/a28840.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "d1/d19/a28840.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "d1/d19/a28840.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "d1/d19/a28840.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "d1/d19/a28840.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

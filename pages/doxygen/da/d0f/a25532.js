@@ -1,5 +1,7 @@
 var a25532 =
 [
-    [ "PrepareSpellScript", "da/d0f/a25532.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
-    [ "Register", "da/d0f/a25532.html#a0ca6ec06108f964432f1cafc00b96313", null ]
+    [ "HandleDummy", "da/d0f/a25532.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "da/d0f/a25532.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "da/d0f/a25532.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "da/d0f/a25532.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

@@ -1,6 +1,7 @@
 var a13176 =
 [
-    [ "npc_a_special_surpriseAI", "d6/d5a/a13180.html", "d6/d5a/a13180" ],
-    [ "npc_a_special_surprise", "de/d5a/a13176.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "de/d5a/a13176.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "HandleScriptEffect", "de/d5a/a13176.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "de/d5a/a13176.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "de/d5a/a13176.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "de/d5a/a13176.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

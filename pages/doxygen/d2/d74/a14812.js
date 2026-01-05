@@ -1,8 +1,6 @@
 var a14812 =
 [
-    [ "npc_doomfire_spirit", "d2/d74/a14812.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d2/d74/a14812.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d2/d74/a14812.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d2/d74/a14812.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d2/d74/a14812.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "HandleDummy", "d2/d74/a14812.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "d2/d74/a14812.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "d2/d74/a14812.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

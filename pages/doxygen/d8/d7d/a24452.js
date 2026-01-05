@@ -1,6 +1,6 @@
 var a24452 =
 [
-    [ "HandleSendEvent", "d8/d7d/a24452.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d8/d7d/a24452.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d8/d7d/a24452.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_torloth_the_magnificentAI", "df/d2c/a24456.html", "df/d2c/a24456" ],
+    [ "npc_torloth_the_magnificent", "d8/d7d/a24452.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d8/d7d/a24452.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

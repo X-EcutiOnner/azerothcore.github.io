@@ -1,6 +1,5 @@
 var a15408 =
 [
-    [ "HandleOnHit", "d5/d6c/a15408.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d5/d6c/a15408.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d5/d6c/a15408.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "at_cthun_stomach_exit", "d5/d6c/a15408.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "d5/d6c/a15408.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

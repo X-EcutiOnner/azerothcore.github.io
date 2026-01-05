@@ -1,6 +1,8 @@
 var a11524 =
 [
-    [ "EffectAbsorbHandler", "de/d89/a11524.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "de/d89/a11524.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "de/d89/a11524.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "EffectHandler", "de/d89/a11524.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "de/d89/a11524.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "de/d89/a11524.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "de/d89/a11524.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "de/d89/a11524.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

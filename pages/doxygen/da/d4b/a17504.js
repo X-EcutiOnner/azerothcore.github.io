@@ -1,6 +1,11 @@
 var a17504 =
 [
-    [ "HandleScript", "da/d4b/a17504.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "da/d4b/a17504.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "da/d4b/a17504.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "boss_slad_ranAI", "da/d4b/a17504.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "da/d4b/a17504.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "da/d4b/a17504.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "da/d4b/a17504.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "da/d4b/a17504.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "da/d4b/a17504.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "da/d4b/a17504.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "da/d4b/a17504.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

@@ -1,5 +1,6 @@
 var a25508 =
 [
-    [ "PrepareSpellScript", "d8/d7f/a25508.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "d8/d7f/a25508.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "CheckRequirement", "d8/d7f/a25508.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d8/d7f/a25508.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d8/d7f/a25508.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

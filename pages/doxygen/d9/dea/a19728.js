@@ -1,7 +1,6 @@
 var a19728 =
 [
-    [ "HandleScript", "d9/dea/a19728.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d9/dea/a19728.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d9/dea/a19728.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d9/dea/a19728.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "HandleDamageCalc", "d9/dea/a19728.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "d9/dea/a19728.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "d9/dea/a19728.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

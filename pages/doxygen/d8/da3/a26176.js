@@ -1,6 +1,9 @@
 var a26176 =
 [
-    [ "CheckProc", "d8/da3/a26176.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "d8/da3/a26176.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "d8/da3/a26176.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "OnEffectHitTargetDisarm", "d8/da3/a26176.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d8/da3/a26176.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d8/da3/a26176.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d8/da3/a26176.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d8/da3/a26176.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d8/da3/a26176.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

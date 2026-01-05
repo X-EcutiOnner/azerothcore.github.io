@@ -1,9 +1,10 @@
 var a28620 =
 [
-    [ "Category", "d4/d1c/a28620.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d4/d1c/a28620.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d4/d1c/a28620.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d4/d1c/a28620.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d4/d1c/a28620.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d4/d1c/a28620.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "PvPDifficultyEntry", "d4/d1c/a28620.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d4/d1c/a28620.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d4/d1c/a28620.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d4/d1c/a28620.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d4/d1c/a28620.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d4/d1c/a28620.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d4/d1c/a28620.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

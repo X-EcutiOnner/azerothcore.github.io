@@ -1,5 +1,6 @@
 var a19472 =
 [
-    [ "go_the_focusing_iris", "d7/d2a/a19472.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "d7/d2a/a19472.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "DespawnTime", "d7/d2a/a19472.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d7/d2a/a19472.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d7/d2a/a19472.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

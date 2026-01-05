@@ -1,7 +1,11 @@
 var a14968 =
 [
-    [ "npc_cos_chromie_middle", "dd/d0f/a14968.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "dd/d0f/a14968.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "dd/d0f/a14968.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "dd/d0f/a14968.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_hyjal_ground_trash", "dd/d0f/a14968.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "dd/d0f/a14968.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "dd/d0f/a14968.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "dd/d0f/a14968.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "dd/d0f/a14968.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "dd/d0f/a14968.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "dd/d0f/a14968.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "dd/d0f/a14968.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

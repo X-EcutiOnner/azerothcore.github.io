@@ -1,6 +1,7 @@
 var a12216 =
 [
-    [ "boss_gythAI", "df/d11/a12220.html", "df/d11/a12220" ],
-    [ "boss_gyth", "d1/d96/a12216.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "d1/d96/a12216.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "boss_grizzleAI", "d1/d96/a12216.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d1/d96/a12216.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d1/d96/a12216.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d1/d96/a12216.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

@@ -1,7 +1,11 @@
 var a28476 =
 [
-    [ "Id", "dc/d90/a28476.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "dc/d90/a28476.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "dc/d90/a28476.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "dc/d90/a28476.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "Displayid", "dc/d90/a28476.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "dc/d90/a28476.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "dc/d90/a28476.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "dc/d90/a28476.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "dc/d90/a28476.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "dc/d90/a28476.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "dc/d90/a28476.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "dc/d90/a28476.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

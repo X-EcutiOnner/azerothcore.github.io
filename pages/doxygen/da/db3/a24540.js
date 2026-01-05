@@ -1,8 +1,6 @@
 var a24540 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "da/db3/a24540.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "da/db3/a24540.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "da/db3/a24540.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "da/db3/a24540.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "da/db3/a24540.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "PrepareSpellScript", "da/db3/a24540.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "da/db3/a24540.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "da/db3/a24540.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

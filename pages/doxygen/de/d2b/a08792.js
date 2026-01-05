@@ -1,8 +1,8 @@
 var a08792 =
 [
-    [ "AttackPosition", "de/d2b/a08792.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "de/d2b/a08792.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "de/d2b/a08792.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "de/d2b/a08792.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "de/d2b/a08792.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "CleanDamage", "de/d2b/a08792.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "de/d2b/a08792.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "de/d2b/a08792.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "de/d2b/a08792.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "de/d2b/a08792.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

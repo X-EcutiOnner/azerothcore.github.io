@@ -1,7 +1,6 @@
 var a25180 =
 [
-    [ "HandleEffectApply", "d6/da7/a25180.html#a97a639459622c9e3e995057989cf9eda", null ],
-    [ "HandleEffectRemove", "d6/da7/a25180.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
-    [ "PrepareAuraScript", "d6/da7/a25180.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
-    [ "Register", "d6/da7/a25180.html#a40793c696a759db4920c4c34f5b9fa66", null ]
+    [ "CheckProc", "d6/da7/a25180.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "d6/da7/a25180.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "d6/da7/a25180.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

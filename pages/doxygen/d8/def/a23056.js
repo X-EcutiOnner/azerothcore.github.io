@@ -1,6 +1,10 @@
 var a23056 =
 [
-    [ "boss_essence_of_desireAI", "d9/d59/a23060.html", "d9/d59/a23060" ],
-    [ "boss_essence_of_desire", "d8/def/a23056.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d8/def/a23056.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "boss_illidari_council", "d8/def/a23056.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d8/def/a23056.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d8/def/a23056.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d8/def/a23056.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d8/def/a23056.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d8/def/a23056.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d8/def/a23056.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

@@ -1,10 +1,7 @@
 var a11904 =
 [
-    [ "mmaps_commandscript", "db/d59/a11904.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "db/d59/a11904.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "db/d59/a11904.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "db/d59/a11904.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "db/d59/a11904.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "db/d59/a11904.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "db/d59/a11904.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "gear_commandscript", "db/d59/a11904.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "db/d59/a11904.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "db/d59/a11904.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "db/d59/a11904.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

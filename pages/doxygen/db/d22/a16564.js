@@ -1,7 +1,6 @@
 var a16564 =
 [
-    [ "HandleAfterHit", "db/d22/a16564.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "db/d22/a16564.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "db/d22/a16564.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "db/d22/a16564.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "HandleSpellHit", "db/d22/a16564.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "db/d22/a16564.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "db/d22/a16564.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

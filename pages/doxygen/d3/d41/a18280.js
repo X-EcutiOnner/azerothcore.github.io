@@ -1,6 +1,6 @@
 var a18280 =
 [
-    [ "FilterTargets", "d3/d41/a18280.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d3/d41/a18280.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d3/d41/a18280.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "npc_precious_iccAI", "d9/d68/a18284.html", "d9/d68/a18284" ],
+    [ "npc_precious_icc", "d3/d41/a18280.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d3/d41/a18280.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

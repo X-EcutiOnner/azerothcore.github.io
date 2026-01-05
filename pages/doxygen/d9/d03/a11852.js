@@ -1,11 +1,6 @@
 var a11852 =
 [
-    [ "group_commandscript", "d9/d03/a11852.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d9/d03/a11852.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d9/d03/a11852.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d9/d03/a11852.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d9/d03/a11852.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d9/d03/a11852.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d9/d03/a11852.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d9/d03/a11852.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "bg_commandscript", "d9/d03/a11852.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "d9/d03/a11852.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "d9/d03/a11852.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

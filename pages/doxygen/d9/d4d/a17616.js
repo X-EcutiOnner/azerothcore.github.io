@@ -1,12 +1,6 @@
 var a17616 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d9/d4d/a17616.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "d9/d4d/a17616.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "d9/d4d/a17616.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "d9/d4d/a17616.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "d9/d4d/a17616.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "d9/d4d/a17616.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "d9/d4d/a17616.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "d9/d4d/a17616.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "d9/d4d/a17616.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "OnAbsorb", "d9/d4d/a17616.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d9/d4d/a17616.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d9/d4d/a17616.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

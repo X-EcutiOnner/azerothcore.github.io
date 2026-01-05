@@ -1,11 +1,9 @@
 var a06156 =
 [
-    [ "PossessedAI", "d4/dac/a06156.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
-    [ "AttackStart", "d4/dac/a06156.html#a293a49d5cffd58dff103b0aacc558cde", null ],
-    [ "EnterEvadeMode", "d4/dac/a06156.html#ad99b9c297289b819157be56d8049320e", null ],
-    [ "JustDied", "d4/dac/a06156.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
-    [ "KilledUnit", "d4/dac/a06156.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
-    [ "MoveInLineOfSight", "d4/dac/a06156.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
-    [ "Permissible", "d4/dac/a06156.html#aafc2d20dff60c6e5401eaa579844430d", null ],
-    [ "UpdateAI", "d4/dac/a06156.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
+    [ "CasterAI", "d4/dac/a06156.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "d4/dac/a06156.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "d4/dac/a06156.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "d4/dac/a06156.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "d4/dac/a06156.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "d4/dac/a06156.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

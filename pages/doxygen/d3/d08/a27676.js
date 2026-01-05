@@ -1,8 +1,10 @@
 var a27676 =
 [
-    [ "npc_nelsonAI", "dd/d04/a27680.html", "dd/d04/a27680" ],
-    [ "npc_nelson", "d3/d08/a27676.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "d3/d08/a27676.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "d3/d08/a27676.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "d3/d08/a27676.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "guard_shattrath_scryerAI", "d3/d08/a27676.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d3/d08/a27676.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d3/d08/a27676.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d3/d08/a27676.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d3/d08/a27676.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d3/d08/a27676.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d3/d08/a27676.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

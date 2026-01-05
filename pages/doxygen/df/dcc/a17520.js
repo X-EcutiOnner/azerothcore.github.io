@@ -1,7 +1,17 @@
 var a17520 =
 [
-    [ "HandleDummyTick", "df/dcc/a17520.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "df/dcc/a17520.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "df/dcc/a17520.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "df/dcc/a17520.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "instance_gundrak_InstanceMapScript", "df/dcc/a17520.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
+    [ "Initialize", "df/dcc/a17520.html#a680e2b0263e64f4f0b0a71f011199202", null ],
+    [ "OnGameObjectCreate", "df/dcc/a17520.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
+    [ "OnGameObjectRemove", "df/dcc/a17520.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
+    [ "OnUnitDeath", "df/dcc/a17520.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
+    [ "SetBossState", "df/dcc/a17520.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
+    [ "SetData", "df/dcc/a17520.html#a39611dead845510e26b16e8eb54114a2", null ],
+    [ "Update", "df/dcc/a17520.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
+    [ "_activateTimer", "df/dcc/a17520.html#a4457a3506a587d7337042eb489b441dc", null ],
+    [ "_bridgeGUIDs", "df/dcc/a17520.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
+    [ "_drakkariAltarGUID", "df/dcc/a17520.html#a8e34281d52ac3199b90e1971899db6b1", null ],
+    [ "_keysInCount", "df/dcc/a17520.html#a9b014cab41720868f61028ef201cadaa", null ],
+    [ "_moorabiAltarGUID", "df/dcc/a17520.html#a39875572cef853eb3d3f624366e3f93f", null ],
+    [ "_sladRanAltarGUID", "df/dcc/a17520.html#a93b651e93e28c63272a8d06d0c521aef", null ]
 ];

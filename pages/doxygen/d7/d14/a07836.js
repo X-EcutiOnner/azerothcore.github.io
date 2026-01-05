@@ -1,6 +1,5 @@
 var a07836 =
 [
-    [ "value_type", "d7/d14/a07836.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
-    [ "StoreTo", "d7/d14/a07836.html#ac01b3840e65515853e26c16dd3caaf58", null ],
-    [ "tag", "d7/d14/a07836.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
+    [ "Glyph", "d7/d14/a07836.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d7/d14/a07836.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

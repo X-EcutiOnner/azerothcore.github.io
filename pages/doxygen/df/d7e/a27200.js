@@ -1,5 +1,6 @@
 var a27200 =
 [
-    [ "achievement_bg_ic_resource_glut", "df/d7e/a27200.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "df/d7e/a27200.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "HandleRemove", "df/d7e/a27200.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "df/d7e/a27200.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "df/d7e/a27200.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

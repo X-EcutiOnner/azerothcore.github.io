@@ -1,6 +1,5 @@
 var a24676 =
 [
-    [ "CheckProc", "dc/d43/a24676.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "dc/d43/a24676.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "dc/d43/a24676.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "npc_pet_proto_drake_whelp", "dc/d43/a24676.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
+    [ "Reset", "dc/d43/a24676.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
 ];

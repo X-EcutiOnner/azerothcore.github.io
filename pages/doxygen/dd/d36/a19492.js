@@ -1,6 +1,5 @@
 var a19492 =
 [
-    [ "ChargeRifts", "dd/d36/a19492.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "dd/d36/a19492.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "dd/d36/a19492.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "at_naxxramas_hub_portal", "dd/d36/a19492.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "dd/d36/a19492.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

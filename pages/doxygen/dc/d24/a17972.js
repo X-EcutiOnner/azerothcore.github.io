@@ -1,6 +1,6 @@
 var a17972 =
 [
-    [ "npc_coldflameAI", "d0/d32/a17976.html", "d0/d32/a17976" ],
-    [ "npc_coldflame", "dc/d24/a17972.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "dc/d24/a17972.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "IgbArtilleryCheck", "dc/d24/a17972.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "dc/d24/a17972.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "dc/d24/a17972.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

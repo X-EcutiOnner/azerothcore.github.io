@@ -1,6 +1,7 @@
 var a16412 =
 [
-    [ "npc_memoryAI", "db/d2e/a16416.html", "db/d2e/a16416" ],
-    [ "npc_memory", "dd/dae/a16412.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "dd/dae/a16412.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "HandleScriptEffect", "dd/dae/a16412.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "dd/dae/a16412.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "dd/dae/a16412.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "dd/dae/a16412.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

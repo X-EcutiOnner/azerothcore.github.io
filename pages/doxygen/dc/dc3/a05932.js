@@ -1,7 +1,11 @@
 var a05932 =
 [
-    [ "TransactionWithResultTask", "dc/dc3/a05932.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "dc/dc3/a05932.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "dc/dc3/a05932.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "dc/dc3/a05932.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "SQLQueryHolderCallback", "dc/dc3/a05932.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "dc/dc3/a05932.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "dc/dc3/a05932.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "dc/dc3/a05932.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "dc/dc3/a05932.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "dc/dc3/a05932.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "dc/dc3/a05932.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "dc/dc3/a05932.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

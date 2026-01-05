@@ -1,15 +1,11 @@
 var a05092 =
 [
-    [ "GetBounds", "d9/d2c/a05092.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "d9/d2c/a05092.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "d9/d2c/a05092.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d9/d2c/a05092.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "d9/d2c/a05092.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d9/d2c/a05092.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d9/d2c/a05092.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d9/d2c/a05092.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d9/d2c/a05092.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d9/d2c/a05092.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d9/d2c/a05092.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d9/d2c/a05092.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "ModelPosition", "d9/d2c/a05092.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "d9/d2c/a05092.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "d9/d2c/a05092.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "d9/d2c/a05092.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "d9/d2c/a05092.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "d9/d2c/a05092.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "d9/d2c/a05092.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "d9/d2c/a05092.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

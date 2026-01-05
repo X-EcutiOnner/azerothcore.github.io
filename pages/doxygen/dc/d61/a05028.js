@@ -1,9 +1,7 @@
 var a05028 =
 [
-    [ "MapRayCallback", "dc/d61/a05028.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
-    [ "didHit", "dc/d61/a05028.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
-    [ "operator()", "dc/d61/a05028.html#a0f218465b321da5f8289dfa815acbfd4", null ],
-    [ "flags", "dc/d61/a05028.html#a88d1e6d6fa43608bcee21a822488f061", null ],
-    [ "hit", "dc/d61/a05028.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
-    [ "prims", "dc/d61/a05028.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
+    [ "clear", "dc/d61/a05028.html#af2120a6bb6aa223baa117e5699c93012", null ],
+    [ "createOrGetMMapMgr", "dc/d61/a05028.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
+    [ "InitializeDisabledMaps", "dc/d61/a05028.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
+    [ "forbiddenMaps", "dc/d61/a05028.html#a2301f091e1f1e3359dbded7f054eb219", null ]
 ];

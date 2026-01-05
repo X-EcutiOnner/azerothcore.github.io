@@ -1,6 +1,9 @@
 var a24016 =
 [
-    [ "HandleScriptEffect", "d1/df4/a24016.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d1/df4/a24016.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d1/df4/a24016.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "HandleEffectApply", "d1/df4/a24016.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d1/df4/a24016.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d1/df4/a24016.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d1/df4/a24016.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d1/df4/a24016.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d1/df4/a24016.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

@@ -1,10 +1,8 @@
 var a25216 =
 [
-    [ "Load", "da/d47/a25216.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "da/d47/a25216.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "da/d47/a25216.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "da/d47/a25216.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "da/d47/a25216.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "da/d47/a25216.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "da/d47/a25216.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "Absorb", "da/d47/a25216.html#aecfcbafe098adddba0a73965c447558c", null ],
+    [ "Load", "da/d47/a25216.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
+    [ "PrepareAuraScript", "da/d47/a25216.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
+    [ "Register", "da/d47/a25216.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
+    [ "_limit", "da/d47/a25216.html#a5985a97749e318e3ccba4c96724d8704", null ]
 ];

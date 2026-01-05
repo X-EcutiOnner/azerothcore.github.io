@@ -1,9 +1,6 @@
 var a13768 =
 [
-    [ "npc_partygoer", "d4/d6c/a13768.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d4/d6c/a13768.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d4/d6c/a13768.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d4/d6c/a13768.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d4/d6c/a13768.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d4/d6c/a13768.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "instance_uldaman_InstanceMapScript", "d2/d12/a13772.html", "d2/d12/a13772" ],
+    [ "instance_uldaman", "d4/d6c/a13768.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "d4/d6c/a13768.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

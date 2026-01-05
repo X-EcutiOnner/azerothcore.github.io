@@ -1,10 +1,6 @@
 var a16992 =
 [
-    [ "HandleAfterEffectAbsorb", "d4/d1e/a16992.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d4/d1e/a16992.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d4/d1e/a16992.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d4/d1e/a16992.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d4/d1e/a16992.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d4/d1e/a16992.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d4/d1e/a16992.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "boss_trollgoreAI", "d8/d6e/a16996.html", "d8/d6e/a16996" ],
+    [ "boss_trollgore", "d4/d1e/a16992.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d4/d1e/a16992.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

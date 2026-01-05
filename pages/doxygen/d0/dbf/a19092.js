@@ -1,9 +1,9 @@
 var a19092 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d0/dbf/a19092.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d0/dbf/a19092.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d0/dbf/a19092.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d0/dbf/a19092.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d0/dbf/a19092.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d0/dbf/a19092.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_icc_severed_essenceAI", "d0/dbf/a19092.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d0/dbf/a19092.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d0/dbf/a19092.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d0/dbf/a19092.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d0/dbf/a19092.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d0/dbf/a19092.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

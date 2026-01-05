@@ -1,9 +1,6 @@
 var a18004 =
 [
-    [ "CountTargets", "d6/d1e/a18004.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d6/d1e/a18004.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d6/d1e/a18004.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d6/d1e/a18004.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d6/d1e/a18004.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d6/d1e/a18004.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "boss_lady_deathwhisperAI", "d5/d19/a18008.html", "d5/d19/a18008" ],
+    [ "boss_lady_deathwhisper", "d6/d1e/a18004.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d6/d1e/a18004.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

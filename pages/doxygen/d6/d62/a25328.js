@@ -1,7 +1,10 @@
 var a25328 =
 [
-    [ "HandleEffectApply", "d6/d62/a25328.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
-    [ "OnRemove", "d6/d62/a25328.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
-    [ "PrepareAuraScript", "d6/d62/a25328.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
-    [ "Register", "d6/d62/a25328.html#a473189971d0a03e7305b7b9e41dc5207", null ]
+    [ "Load", "d6/d62/a25328.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d6/d62/a25328.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d6/d62/a25328.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d6/d62/a25328.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d6/d62/a25328.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d6/d62/a25328.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d6/d62/a25328.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

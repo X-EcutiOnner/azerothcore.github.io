@@ -1,12 +1,9 @@
 var a14492 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d2/d2a/a14492.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d2/d2a/a14492.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d2/d2a/a14492.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d2/d2a/a14492.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d2/d2a/a14492.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d2/d2a/a14492.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d2/d2a/a14492.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d2/d2a/a14492.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d2/d2a/a14492.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_brew_bubble", "d2/d2a/a14492.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d2/d2a/a14492.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d2/d2a/a14492.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d2/d2a/a14492.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d2/d2a/a14492.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d2/d2a/a14492.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

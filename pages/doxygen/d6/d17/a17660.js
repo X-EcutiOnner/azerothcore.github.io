@@ -1,6 +1,9 @@
 var a17660 =
 [
-    [ "npc_icc_blood_beastAI", "d9/dea/a17664.html", "d9/dea/a17664" ],
-    [ "npc_icc_blood_beast", "d6/d17/a17660.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "d6/d17/a17660.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "FilterTargets", "d6/d17/a17660.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "d6/d17/a17660.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "d6/d17/a17660.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "d6/d17/a17660.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "d6/d17/a17660.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "d6/d17/a17660.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

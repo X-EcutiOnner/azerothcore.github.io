@@ -1,7 +1,7 @@
 var a13536 =
 [
-    [ "OnRemove", "de/d98/a13536.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "de/d98/a13536.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "de/d98/a13536.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "de/d98/a13536.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "CheckCast", "de/d98/a13536.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "de/d98/a13536.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "de/d98/a13536.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "de/d98/a13536.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

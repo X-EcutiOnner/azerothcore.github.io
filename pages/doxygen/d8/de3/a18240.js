@@ -1,6 +1,6 @@
 var a18240 =
 [
-    [ "CheckProc", "d8/de3/a18240.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d8/de3/a18240.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d8/de3/a18240.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "npc_big_oozeAI", "df/de3/a18244.html", "df/de3/a18244" ],
+    [ "npc_big_ooze", "d8/de3/a18240.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d8/de3/a18240.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

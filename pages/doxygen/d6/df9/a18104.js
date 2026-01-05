@@ -1,6 +1,6 @@
 var a18104 =
 [
-    [ "OnRemove", "d6/df9/a18104.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d6/df9/a18104.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d6/df9/a18104.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "UnboundPlagueTargetSelector", "d6/df9/a18104.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d6/df9/a18104.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d6/df9/a18104.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

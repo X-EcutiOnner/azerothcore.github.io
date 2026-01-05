@@ -1,7 +1,7 @@
 var a10636 =
 [
-    [ "Flags", "de/da0/a10636.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "de/da0/a10636.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "de/da0/a10636.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "de/da0/a10636.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "ChatServerMessage", "de/da0/a10636.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "de/da0/a10636.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "de/da0/a10636.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "de/da0/a10636.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

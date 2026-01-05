@@ -1,6 +1,5 @@
 var a17084 =
 [
-    [ "boss_frostsworn_generalAI", "db/dbd/a17088.html", "db/dbd/a17088" ],
-    [ "boss_frostsworn_general", "dc/dd2/a17084.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "dc/dd2/a17084.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_fos_leader_secondAI", "dc/dd2/a17084.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "dc/dd2/a17084.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

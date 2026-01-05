@@ -1,6 +1,7 @@
 var a18840 =
 [
-    [ "npc_captain_rupertAI", "d3/dc9/a18840.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d3/dc9/a18840.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d3/dc9/a18840.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "OnApply", "d3/dc9/a18840.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d3/dc9/a18840.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d3/dc9/a18840.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d3/dc9/a18840.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

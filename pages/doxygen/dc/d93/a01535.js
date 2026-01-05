@@ -1,47 +1,22 @@
 var a01535 =
 [
-    [ "MailSender", "d4/d17/a09795.html", "d4/d17/a09795" ],
-    [ "MailReceiver", "d6/da5/a09799.html", "d6/da5/a09799" ],
-    [ "MailDraft", "d6/dbe/a09803.html", "d6/dbe/a09803" ],
-    [ "MailItemInfo", "d4/dc7/a09807.html", "d4/dc7/a09807" ],
-    [ "Mail", "d3/d74/a09811.html", "d3/d74/a09811" ],
-    [ "MAIL_BODY_ITEM_TEMPLATE", "dc/d93/a01535.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
-    [ "MAX_MAIL_ITEMS", "dc/d93/a01535.html#a92d79b5b2210d828abe28a8834a50770", null ],
-    [ "MailItemInfoVec", "dc/d93/a01535.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
-    [ "MailCheckMask", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
-      [ "MAIL_CHECK_MASK_NONE", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
-      [ "MAIL_CHECK_MASK_READ", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
-      [ "MAIL_CHECK_MASK_RETURNED", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
-      [ "MAIL_CHECK_MASK_COPIED", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
-      [ "MAIL_CHECK_MASK_COD_PAYMENT", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
-      [ "MAIL_CHECK_MASK_HAS_BODY", "dc/d93/a01535.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
+    [ "ServerMailCondition", "d5/d25/a09832.html", "d5/d25/a09832" ],
+    [ "ServerMailItems", "df/da6/a09836.html", "df/da6/a09836" ],
+    [ "ServerMail", "d3/dd2/a09840.html", "d3/dd2/a09840" ],
+    [ "ServerMailMgr", "dd/d36/a09844.html", "dd/d36/a09844" ],
+    [ "sServerMailMgr", "dc/d93/a01535.html#a6423d219eaead162b40b6021eadca0c4", null ],
+    [ "ServerMailContainer", "dc/d93/a01535.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
+    [ "ServerMailConditionType", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2b", [
+      [ "Invalid", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
+      [ "Level", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
+      [ "PlayTime", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
+      [ "Quest", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
+      [ "Achievement", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
+      [ "Reputation", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
+      [ "Faction", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
+      [ "Race", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
+      [ "Class", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "AccountFlags", "dc/d93/a01535.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
     ] ],
-    [ "MailMessageType", "dc/d93/a01535.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
-      [ "MAIL_NORMAL", "dc/d93/a01535.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
-      [ "MAIL_AUCTION", "dc/d93/a01535.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
-      [ "MAIL_CREATURE", "dc/d93/a01535.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
-      [ "MAIL_GAMEOBJECT", "dc/d93/a01535.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
-      [ "MAIL_CALENDAR", "dc/d93/a01535.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
-    ] ],
-    [ "MailShowFlags", "dc/d93/a01535.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
-      [ "MAIL_SHOW_UNK0", "dc/d93/a01535.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
-      [ "MAIL_SHOW_DELETE", "dc/d93/a01535.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
-      [ "MAIL_SHOW_AUCTION", "dc/d93/a01535.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
-      [ "MAIL_SHOW_UNK2", "dc/d93/a01535.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
-      [ "MAIL_SHOW_RETURN", "dc/d93/a01535.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
-    ] ],
-    [ "MailState", "dc/d93/a01535.html#a38d587a785c6fa4c4342574233684a20", [
-      [ "MAIL_STATE_UNCHANGED", "dc/d93/a01535.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
-      [ "MAIL_STATE_CHANGED", "dc/d93/a01535.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
-      [ "MAIL_STATE_DELETED", "dc/d93/a01535.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
-    ] ],
-    [ "MailStationery", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094", [
-      [ "MAIL_STATIONERY_TEST", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
-      [ "MAIL_STATIONERY_DEFAULT", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
-      [ "MAIL_STATIONERY_GM", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
-      [ "MAIL_STATIONERY_AUCTION", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
-      [ "MAIL_STATIONERY_VAL", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
-      [ "MAIL_STATIONERY_CHR", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
-      [ "MAIL_STATIONERY_ORP", "dc/d93/a01535.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
-    ] ]
+    [ "ServerMailConditionTypePairs", "dc/d93/a01535.html#af981b509cb816fa6720cf16cceaa9081", null ]
 ];

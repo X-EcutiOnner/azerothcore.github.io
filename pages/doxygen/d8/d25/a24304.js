@@ -1,6 +1,6 @@
 var a24304 =
 [
-    [ "npc_infernal_attackerAI", "d2/dbf/a24308.html", "d2/dbf/a24308" ],
-    [ "npc_infernal_attacker", "d8/d25/a24304.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d8/d25/a24304.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "go_magtheridons_head", "d8/d25/a24304.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d8/d25/a24304.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d8/d25/a24304.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

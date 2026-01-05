@@ -1,6 +1,8 @@
 var a20360 =
 [
-    [ "npc_ulduar_toasty_fireAI", "df/d2b/a20360.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "df/d2b/a20360.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "df/d2b/a20360.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "OnApply", "df/d2b/a20360.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "df/d2b/a20360.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "df/d2b/a20360.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "df/d2b/a20360.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "df/d2b/a20360.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

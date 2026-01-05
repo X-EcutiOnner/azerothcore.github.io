@@ -1,10 +1,10 @@
 var a10300 =
 [
-    [ "ArenaScript", "df/d24/a10300.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "df/d24/a10300.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "df/d24/a10300.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "df/d24/a10300.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "df/d24/a10300.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "df/d24/a10300.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnGetPoints", "df/d24/a10300.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AchievementScript", "df/d24/a10300.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "df/d24/a10300.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "df/d24/a10300.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "df/d24/a10300.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "df/d24/a10300.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "df/d24/a10300.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "df/d24/a10300.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

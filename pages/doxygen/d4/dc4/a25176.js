@@ -1,7 +1,5 @@
 var a25176 =
 [
-    [ "HandleEffectApply", "d4/dc4/a25176.html#a2854357f92b1faac6e7840f1576138e0", null ],
-    [ "HandleEffectRemove", "d4/dc4/a25176.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
-    [ "PrepareAuraScript", "d4/dc4/a25176.html#a2120cecbca61e4c7380892fe8d43772a", null ],
-    [ "Register", "d4/dc4/a25176.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
+    [ "PrepareSpellScript", "d4/dc4/a25176.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "d4/dc4/a25176.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

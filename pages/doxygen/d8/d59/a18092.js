@@ -1,6 +1,6 @@
 var a18092 =
 [
-    [ "HandleScript", "d8/d59/a18092.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d8/d59/a18092.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d8/d59/a18092.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "PrepareSpellScript", "d8/d59/a18092.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d8/d59/a18092.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d8/d59/a18092.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

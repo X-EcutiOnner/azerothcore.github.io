@@ -1,8 +1,10 @@
 var a14028 =
 [
-    [ "FilterTargets", "d7/d9c/a14028.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d7/d9c/a14028.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d7/d9c/a14028.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d7/d9c/a14028.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d7/d9c/a14028.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d7/d9c/a14028.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d7/d9c/a14028.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d7/d9c/a14028.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d7/d9c/a14028.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d7/d9c/a14028.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d7/d9c/a14028.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d7/d9c/a14028.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

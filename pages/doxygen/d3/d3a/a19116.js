@@ -1,10 +1,12 @@
 var a19116 =
 [
-    [ "boss_isle_of_conquestAI", "d3/d3a/a19116.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "d3/d3a/a19116.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "d3/d3a/a19116.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "d3/d3a/a19116.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "d3/d3a/a19116.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "d3/d3a/a19116.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "d3/d3a/a19116.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d3/d3a/a19116.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "d3/d3a/a19116.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "d3/d3a/a19116.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "d3/d3a/a19116.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "d3/d3a/a19116.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "d3/d3a/a19116.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "d3/d3a/a19116.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "d3/d3a/a19116.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "d3/d3a/a19116.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

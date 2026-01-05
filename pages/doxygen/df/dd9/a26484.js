@@ -1,8 +1,10 @@
 var a26484 =
 [
-    [ "HandleDummy", "df/dd9/a26484.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "df/dd9/a26484.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "df/dd9/a26484.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "df/dd9/a26484.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "df/dd9/a26484.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "Absorb", "df/dd9/a26484.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "df/dd9/a26484.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "df/dd9/a26484.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "df/dd9/a26484.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "df/dd9/a26484.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "df/dd9/a26484.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "df/dd9/a26484.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

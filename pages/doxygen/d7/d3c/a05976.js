@@ -1,7 +1,7 @@
 var a05976 =
 [
-    [ "arg1", "d7/d3c/a05976.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "d7/d3c/a05976.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "d7/d3c/a05976.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "d7/d3c/a05976.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "UpdateException", "d7/d3c/a05976.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "d7/d3c/a05976.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "d7/d3c/a05976.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "d7/d3c/a05976.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

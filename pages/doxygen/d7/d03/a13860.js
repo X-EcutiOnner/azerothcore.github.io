@@ -1,9 +1,10 @@
 var a13860 =
 [
-    [ "npc_marzon_silent_bladeAI", "d7/d03/a13860.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d7/d03/a13860.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d7/d03/a13860.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d7/d03/a13860.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d7/d03/a13860.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d7/d03/a13860.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_sentinel_leader", "d7/d03/a13860.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d7/d03/a13860.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d7/d03/a13860.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d7/d03/a13860.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d7/d03/a13860.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d7/d03/a13860.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d7/d03/a13860.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

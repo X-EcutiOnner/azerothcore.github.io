@@ -1,8 +1,9 @@
 var a17792 =
 [
-    [ "npc_gunship_mageAI", "dd/dd8/a17792.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "dd/dd8/a17792.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "dd/dd8/a17792.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "dd/dd8/a17792.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "dd/dd8/a17792.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_stinky_iccAI", "dd/dd8/a17792.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "dd/dd8/a17792.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "dd/dd8/a17792.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "dd/dd8/a17792.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "dd/dd8/a17792.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "dd/dd8/a17792.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

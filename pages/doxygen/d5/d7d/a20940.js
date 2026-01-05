@@ -1,6 +1,6 @@
 var a20940 =
 [
-    [ "OnRemove", "d5/d7d/a20940.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d5/d7d/a20940.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d5/d7d/a20940.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "npc_xt002_heartAI", "d7/dc3/a20944.html", "d7/dc3/a20944" ],
+    [ "npc_xt002_heart", "d5/d7d/a20940.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "d5/d7d/a20940.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

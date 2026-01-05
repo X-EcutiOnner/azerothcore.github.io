@@ -1,10 +1,9 @@
 var a13944 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "dd/d84/a13944.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "dd/d84/a13944.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "dd/d84/a13944.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "dd/d84/a13944.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "dd/d84/a13944.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "dd/d84/a13944.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "dd/d84/a13944.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_marzon_silent_bladeAI", "dd/d84/a13944.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "dd/d84/a13944.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "dd/d84/a13944.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "dd/d84/a13944.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "dd/d84/a13944.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "dd/d84/a13944.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

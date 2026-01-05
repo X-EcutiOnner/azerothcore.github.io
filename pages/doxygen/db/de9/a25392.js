@@ -1,6 +1,6 @@
 var a25392 =
 [
-    [ "OnApply", "db/de9/a25392.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "db/de9/a25392.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "db/de9/a25392.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "HandleScriptEffect", "db/de9/a25392.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "db/de9/a25392.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "db/de9/a25392.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

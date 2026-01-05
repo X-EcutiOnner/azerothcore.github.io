@@ -1,11 +1,7 @@
 var a23608 =
 [
-    [ "boss_gruul", "db/da9/a23608.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "db/da9/a23608.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "db/da9/a23608.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "db/da9/a23608.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "db/da9/a23608.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "db/da9/a23608.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "db/da9/a23608.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "db/da9/a23608.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "boss_hydromancer_thespia", "db/da9/a23608.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "db/da9/a23608.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "db/da9/a23608.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "db/da9/a23608.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

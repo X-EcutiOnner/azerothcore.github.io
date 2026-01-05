@@ -1,6 +1,7 @@
 var a18148 =
 [
-    [ "npc_big_oozeAI", "df/dab/a18152.html", "df/dab/a18152" ],
-    [ "npc_big_ooze", "d9/da4/a18148.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d9/da4/a18148.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "HandleTriggerSpell", "d9/da4/a18148.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d9/da4/a18148.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d9/da4/a18148.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d9/da4/a18148.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

@@ -1,5 +1,10 @@
 var a12024 =
 [
-    [ "go_shadowforge_brazier", "d2/de0/a12024.html#aafc1d2e865294bb102c918d6016aab4b", null ],
-    [ "OnGossipHello", "d2/de0/a12024.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
+    [ "quest_commandscript", "d2/de0/a12024.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d2/de0/a12024.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d2/de0/a12024.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d2/de0/a12024.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d2/de0/a12024.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d2/de0/a12024.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "d2/de0/a12024.html#adbba92d0cf47879e94710c971fd994ff", null ]
 ];

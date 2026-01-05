@@ -1,8 +1,6 @@
 var a22420 =
 [
-    [ "AfterRemove", "d6/dd2/a22420.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d6/dd2/a22420.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d6/dd2/a22420.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d6/dd2/a22420.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d6/dd2/a22420.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_bushwhackerAI", "d6/dd2/a22420.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d6/dd2/a22420.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d6/dd2/a22420.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

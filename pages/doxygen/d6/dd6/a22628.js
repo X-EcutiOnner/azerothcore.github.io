@@ -1,5 +1,6 @@
 var a22628 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d6/dd6/a22628.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "d6/dd6/a22628.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "HandleSummon", "d6/dd6/a22628.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "d6/dd6/a22628.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "d6/dd6/a22628.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

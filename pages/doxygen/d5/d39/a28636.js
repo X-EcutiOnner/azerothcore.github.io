@@ -1,7 +1,7 @@
 var a28636 =
 [
-    [ "from", "d5/d39/a28636.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d5/d39/a28636.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d5/d39/a28636.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d5/d39/a28636.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "EpicPropertiesPoints", "d5/d39/a28636.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d5/d39/a28636.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d5/d39/a28636.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d5/d39/a28636.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

@@ -1,6 +1,6 @@
 var a27440 =
 [
-    [ "go_l70_etc_musicAI", "d0/de2/a27440.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d0/de2/a27440.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d0/de2/a27440.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "boss_emerissAI", "d4/d72/a27444.html", "d4/d72/a27444" ],
+    [ "boss_emeriss", "d0/de2/a27440.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d0/de2/a27440.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

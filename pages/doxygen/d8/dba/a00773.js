@@ -1,6 +1,5 @@
 var a00773 =
 [
-    [ "Bag", "d1/d09/a08391.html", "d1/d09/a08391" ],
-    [ "MAX_BAG_SIZE", "d8/dba/a00773.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "d8/dba/a00773.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d8/dba/a00773.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d8/dba/a00773.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

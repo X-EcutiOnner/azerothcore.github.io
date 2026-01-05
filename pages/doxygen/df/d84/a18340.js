@@ -1,7 +1,7 @@
 var a18340 =
 [
-    [ "HandleInfusion", "df/d84/a18340.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "df/d84/a18340.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "df/d84/a18340.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "df/d84/a18340.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "HandleScript", "df/d84/a18340.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "df/d84/a18340.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "df/d84/a18340.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "df/d84/a18340.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

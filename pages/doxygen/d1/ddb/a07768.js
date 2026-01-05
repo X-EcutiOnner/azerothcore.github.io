@@ -1,5 +1,5 @@
 var a07768 =
 [
-    [ "IsColorValid", "d1/ddb/a07768.html#a537a2beaa8321095d2d67b8fb655acea", null ],
-    [ "IsTextValid", "d1/ddb/a07768.html#aeaa47302a91b5882afae3950ffc460cc", null ]
+    [ "value_type", "d1/ddb/a07768.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "d1/ddb/a07768.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

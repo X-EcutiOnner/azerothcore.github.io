@@ -1,4 +1,4 @@
 var a04151 =
 [
-    [ "SocketMgr< SocketType >", "d9/d58/a28787.html", "d9/d58/a28787" ]
+    [ "NetworkThread< SocketType >", "d6/df6/a28796.html", "d6/df6/a28796" ]
 ];

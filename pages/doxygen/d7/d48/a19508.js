@@ -1,14 +1,13 @@
 var a19508 =
 [
-    [ "boss_keristrasza", "d7/d48/a19508.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d7/d48/a19508.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d7/d48/a19508.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d7/d48/a19508.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d7/d48/a19508.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d7/d48/a19508.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d7/d48/a19508.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d7/d48/a19508.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d7/d48/a19508.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d7/d48/a19508.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d7/d48/a19508.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "npc_vortex_rideAI", "d7/d48/a19508.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
+    [ "AttackStart", "d7/d48/a19508.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
+    [ "DamageTaken", "d7/d48/a19508.html#a39e33812041877296c11c9bace6a4667", null ],
+    [ "MoveInLineOfSight", "d7/d48/a19508.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
+    [ "PassengerBoarded", "d7/d48/a19508.html#a77234a8f4ec9c687b194a8c332820609", null ],
+    [ "UpdateAI", "d7/d48/a19508.html#ad450120965f9e85bdb69ffc4c092c901", null ],
+    [ "bUpdatedFlying", "d7/d48/a19508.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
+    [ "despawnTimer", "d7/d48/a19508.html#acd7a8c972db52077f8b02317f5398ff0", null ],
+    [ "timer", "d7/d48/a19508.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
+    [ "VORTEX_RADIUS", "d7/d48/a19508.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
 ];

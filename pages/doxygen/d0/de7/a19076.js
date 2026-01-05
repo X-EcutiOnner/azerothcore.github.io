@@ -1,7 +1,6 @@
 var a19076 =
 [
-    [ "DelayedCastMincharEvent", "d0/de7/a19076.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d0/de7/a19076.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d0/de7/a19076.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d0/de7/a19076.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_valkyr_heraldAI", "d4/d03/a19080.html", "d4/d03/a19080" ],
+    [ "npc_icc_valkyr_herald", "d0/de7/a19076.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d0/de7/a19076.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

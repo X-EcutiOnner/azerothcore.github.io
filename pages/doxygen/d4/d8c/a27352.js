@@ -1,7 +1,5 @@
 var a27352 =
 [
-    [ "FilterTargets", "d4/d8c/a27352.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d4/d8c/a27352.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d4/d8c/a27352.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d4/d8c/a27352.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d4/d8c/a27352.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d4/d8c/a27352.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

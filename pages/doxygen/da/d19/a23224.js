@@ -1,6 +1,6 @@
 var a23224 =
 [
-    [ "HandleProc", "da/d19/a23224.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "da/d19/a23224.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "da/d19/a23224.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "npc_supremus_punch_invisible_stalker", "da/d19/a23224.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "da/d19/a23224.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "da/d19/a23224.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

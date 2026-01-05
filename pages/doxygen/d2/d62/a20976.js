@@ -1,8 +1,6 @@
 var a20976 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d2/d62/a20976.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "d2/d62/a20976.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "d2/d62/a20976.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "d2/d62/a20976.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "d2/d62/a20976.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "npc_xt002_life_sparkAI", "d6/d11/a20980.html", "d6/d11/a20980" ],
+    [ "npc_xt002_life_spark", "d2/d62/a20976.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "d2/d62/a20976.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

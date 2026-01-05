@@ -1,7 +1,7 @@
 var a12648 =
 [
-    [ "HandleHit", "d0/d41/a12648.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d0/d41/a12648.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d0/d41/a12648.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d0/d41/a12648.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "HandleAfterApply", "d0/d41/a12648.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d0/d41/a12648.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d0/d41/a12648.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d0/d41/a12648.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

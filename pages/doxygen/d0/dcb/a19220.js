@@ -1,6 +1,8 @@
 var a19220 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "da/d2f/a19224.html", "da/d2f/a19224" ],
-    [ "boss_grobbulus_poison_cloud", "d0/dcb/a19220.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d0/dcb/a19220.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "HandleScript", "d0/dcb/a19220.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "d0/dcb/a19220.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "d0/dcb/a19220.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "d0/dcb/a19220.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "d0/dcb/a19220.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

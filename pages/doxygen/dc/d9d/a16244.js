@@ -1,6 +1,11 @@
 var a16244 =
 [
-    [ "npc_onyx_flamecallerAI", "d8/ddd/a16248.html", "d8/ddd/a16248" ],
-    [ "npc_onyx_flamecaller", "dc/d9d/a16244.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "dc/d9d/a16244.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "boss_sartharion_tenebronAI", "dc/d9d/a16244.html#a9996fce9320390ead967ad82bcef9554", null ],
+    [ "ClearInstance", "dc/d9d/a16244.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
+    [ "ExecuteEvent", "dc/d9d/a16244.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
+    [ "HandleExtraEvent", "dc/d9d/a16244.html#ad78a939f0584b775e29341ff08f0eee1", null ],
+    [ "JustDied", "dc/d9d/a16244.html#ac3e03263a174dd147854fa6d714ec003", null ],
+    [ "JustSummoned", "dc/d9d/a16244.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
+    [ "Reset", "dc/d9d/a16244.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
+    [ "summons2", "dc/d9d/a16244.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
 ];

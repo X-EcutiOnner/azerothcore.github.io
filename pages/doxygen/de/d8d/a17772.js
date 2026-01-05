@@ -1,6 +1,7 @@
 var a17772 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d3/dad/a17776.html", "d3/dad/a17776" ],
-    [ "npc_gunship_boarding_leader", "de/d8d/a17772.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "de/d8d/a17772.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "ExtraEffect", "de/d8d/a17772.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "de/d8d/a17772.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "de/d8d/a17772.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "de/d8d/a17772.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

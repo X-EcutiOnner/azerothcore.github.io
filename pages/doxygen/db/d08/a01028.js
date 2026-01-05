@@ -1,4 +1,5 @@
 var a01028 =
 [
-    [ "CanRollOnItem", "db/d08/a01028.html#afbaf3417177da71d9f3c8be9eab09c2b", null ]
+    [ "GroupMgr", "d7/d1a/a09604.html", "d7/d1a/a09604" ],
+    [ "sGroupMgr", "db/d08/a01028.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

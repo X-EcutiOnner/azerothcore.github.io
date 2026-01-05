@@ -1,7 +1,11 @@
 var a19524 =
 [
-    [ "HandlePull", "d4/df8/a19524.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d4/df8/a19524.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d4/df8/a19524.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d4/df8/a19524.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "npc_nexus_lordAI", "d4/df8/a19524.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "d4/df8/a19524.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "d4/df8/a19524.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "d4/df8/a19524.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "d4/df8/a19524.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "d4/df8/a19524.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "d4/df8/a19524.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "d4/df8/a19524.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

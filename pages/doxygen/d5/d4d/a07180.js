@@ -1,7 +1,12 @@
 var a07180 =
 [
-    [ "AuctionSorter", "d5/d4d/a07180.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "d5/d4d/a07180.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "d5/d4d/a07180.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "d5/d4d/a07180.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "Type", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "d5/d4d/a07180.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "d5/d4d/a07180.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "d5/d4d/a07180.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "d5/d4d/a07180.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

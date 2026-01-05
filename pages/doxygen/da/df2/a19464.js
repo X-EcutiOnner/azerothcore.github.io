@@ -1,6 +1,8 @@
 var a19464 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d1/d8c/a19468.html", "d1/d8c/a19468" ],
-    [ "npc_eoe_wyrmrest_skytalon", "da/df2/a19464.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "da/df2/a19464.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "npc_teslaAI", "da/df2/a19464.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "da/df2/a19464.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "da/df2/a19464.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "da/df2/a19464.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "da/df2/a19464.html#a962745569b07e368067ee483d2379840", null ]
 ];

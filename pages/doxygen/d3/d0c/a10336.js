@@ -1,5 +1,6 @@
 var a10336 =
 [
-    [ "FactoryCreatureScript", "d3/d0c/a10336.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "d3/d0c/a10336.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "AreaTriggerScript", "d3/d0c/a10336.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "d3/d0c/a10336.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "d3/d0c/a10336.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

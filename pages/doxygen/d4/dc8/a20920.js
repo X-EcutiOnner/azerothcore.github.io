@@ -1,7 +1,6 @@
 var a20920 =
 [
-    [ "FilterTargets", "d4/dc8/a20920.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d4/dc8/a20920.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d4/dc8/a20920.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d4/dc8/a20920.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "OnPeriodic", "d4/dc8/a20920.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d4/dc8/a20920.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d4/dc8/a20920.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

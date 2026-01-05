@@ -1,6 +1,11 @@
 var a12152 =
 [
-    [ "boss_magmusAI", "da/d1b/a12156.html", "da/d1b/a12156" ],
-    [ "boss_magmus", "d8/d50/a12152.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "d8/d50/a12152.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "npc_rocknotAI", "d8/d50/a12152.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d8/d50/a12152.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d8/d50/a12152.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d8/d50/a12152.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d8/d50/a12152.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d8/d50/a12152.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d8/d50/a12152.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d8/d50/a12152.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

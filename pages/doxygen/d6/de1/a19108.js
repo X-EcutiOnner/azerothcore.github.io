@@ -1,7 +1,5 @@
 var a19108 =
 [
-    [ "npc_ioc_gunship_captainAI", "d6/de1/a19108.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d6/de1/a19108.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d6/de1/a19108.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d6/de1/a19108.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_icc_buff_switcher", "d6/de1/a19108.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d6/de1/a19108.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

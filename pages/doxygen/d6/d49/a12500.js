@@ -1,7 +1,6 @@
 var a12500 =
 [
-    [ "HandleDummy", "d6/d49/a12500.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d6/d49/a12500.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d6/d49/a12500.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d6/d49/a12500.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "go_chromaggus_leverAI", "d7/d32/a12504.html", "d7/d32/a12504" ],
+    [ "go_chromaggus_lever", "d6/d49/a12500.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d6/d49/a12500.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

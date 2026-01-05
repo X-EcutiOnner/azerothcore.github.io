@@ -1,9 +1,7 @@
 var a05896 =
 [
-    [ "SQLQueryHolderTask", "d5/dd4/a05896.html#a017ab0275ea42132bb1e4ece7111572e", null ],
-    [ "~SQLQueryHolderTask", "d5/dd4/a05896.html#a0d1122160565c8f20f9a48390352c770", null ],
-    [ "Execute", "d5/dd4/a05896.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
-    [ "GetFuture", "d5/dd4/a05896.html#a73199c4e5805933c9f79091797dedc5d", null ],
-    [ "m_holder", "d5/dd4/a05896.html#a64b624b8e77c819f5b47d592edc0979d", null ],
-    [ "m_result", "d5/dd4/a05896.html#ab27ce22bdb505509662d862e92fe7e77", null ]
+    [ "ToString", "d5/dd4/a05896.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "d5/dd4/a05896.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "d5/dd4/a05896.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "d5/dd4/a05896.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

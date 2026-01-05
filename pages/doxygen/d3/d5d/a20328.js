@@ -1,6 +1,5 @@
 var a20328 =
 [
-    [ "id", "d3/d5d/a20328.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d3/d5d/a20328.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d3/d5d/a20328.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "achievement_freya_getting_back_to_nature", "d3/d5d/a20328.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d3/d5d/a20328.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

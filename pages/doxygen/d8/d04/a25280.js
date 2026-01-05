@@ -1,7 +1,7 @@
 var a25280 =
 [
-    [ "HandleChargeEffect", "d8/d04/a25280.html#ad8d2871e6277dd982653fa864010d084", null ],
-    [ "HandleScriptEffect", "d8/d04/a25280.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
-    [ "PrepareSpellScript", "d8/d04/a25280.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
-    [ "Register", "d8/d04/a25280.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
+    [ "HandleEffectApply", "d8/d04/a25280.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d8/d04/a25280.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d8/d04/a25280.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d8/d04/a25280.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

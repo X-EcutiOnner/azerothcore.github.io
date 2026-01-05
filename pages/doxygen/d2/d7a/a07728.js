@@ -1,5 +1,6 @@
 var a07728 =
 [
-    [ "value_type", "d2/d7a/a07728.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
-    [ "TryConsume", "d2/d7a/a07728.html#a7320475f165952ef8ebf69407b533248", null ]
+    [ "operator bool", "d2/d7a/a07728.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "d2/d7a/a07728.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "d2/d7a/a07728.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

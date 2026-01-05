@@ -1,9 +1,14 @@
 var a14092 =
 [
-    [ "npc_amanishi_lookout", "d6/dd2/a14092.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "d6/dd2/a14092.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "d6/dd2/a14092.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "d6/dd2/a14092.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "d6/dd2/a14092.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "d6/dd2/a14092.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "boss_hexlord_malacrass", "d6/dd2/a14092.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d6/dd2/a14092.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d6/dd2/a14092.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d6/dd2/a14092.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d6/dd2/a14092.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d6/dd2/a14092.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d6/dd2/a14092.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d6/dd2/a14092.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d6/dd2/a14092.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d6/dd2/a14092.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d6/dd2/a14092.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

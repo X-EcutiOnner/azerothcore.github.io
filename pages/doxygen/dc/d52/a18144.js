@@ -1,11 +1,6 @@
 var a18144 =
 [
-    [ "npc_little_oozeAI", "dc/d52/a18144.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "dc/d52/a18144.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "dc/d52/a18144.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "dc/d52/a18144.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "dc/d52/a18144.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "dc/d52/a18144.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "dc/d52/a18144.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "dc/d52/a18144.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "PrepareSpellScript", "dc/d52/a18144.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "dc/d52/a18144.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "dc/d52/a18144.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

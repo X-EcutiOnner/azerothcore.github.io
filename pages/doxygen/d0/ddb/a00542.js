@@ -1,7 +1,6 @@
 var a00542 =
 [
-    [ "Movement::FallInitializer", "d0/db5/a10127.html", "d0/db5/a10127" ],
-    [ "Movement::CommonInitializer", "da/d66/a10131.html", "da/d66/a10131" ],
-    [ "CHECK", "d0/ddb/a00542.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
-    [ "computeDuration", "d0/ddb/a00542.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
+    [ "Movement::FacingInfo", "d6/d23/a10176.html", "d6/d23/a10176" ],
+    [ "Movement::MoveSplineInitArgs", "d9/da3/a10184.html", "d9/da3/a10184" ],
+    [ "PointsArray", "d0/ddb/a00542.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
 ];

@@ -1,6 +1,7 @@
 var a15316 =
 [
-    [ "FilterTargets", "d3/d42/a15316.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d3/d42/a15316.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d3/d42/a15316.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "boss_rajaxx", "d3/d42/a15316.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d3/d42/a15316.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d3/d42/a15316.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d3/d42/a15316.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

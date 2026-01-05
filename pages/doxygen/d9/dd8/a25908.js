@@ -1,6 +1,6 @@
 var a25908 =
 [
-    [ "HandleScript", "d9/dd8/a25908.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "d9/dd8/a25908.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "d9/dd8/a25908.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "HandleSummon", "d9/dd8/a25908.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "d9/dd8/a25908.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "d9/dd8/a25908.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

@@ -1,7 +1,6 @@
 var a13656 =
 [
-    [ "HandleAfterCast", "d3/ddf/a13656.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d3/ddf/a13656.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d3/ddf/a13656.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d3/ddf/a13656.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "FilterTargets", "d3/ddf/a13656.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "d3/ddf/a13656.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "d3/ddf/a13656.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

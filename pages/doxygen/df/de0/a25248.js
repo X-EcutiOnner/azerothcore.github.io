@@ -1,8 +1,7 @@
 var a25248 =
 [
-    [ "OnApply", "df/de0/a25248.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "df/de0/a25248.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "df/de0/a25248.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "df/de0/a25248.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "df/de0/a25248.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "HandleScript", "df/de0/a25248.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
+    [ "PrepareSpellScript", "df/de0/a25248.html#ad511986b26dccd1be8206f01458c2b40", null ],
+    [ "Register", "df/de0/a25248.html#aa8ea297d751913def150dc1e29d37664", null ],
+    [ "Validate", "df/de0/a25248.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
 ];

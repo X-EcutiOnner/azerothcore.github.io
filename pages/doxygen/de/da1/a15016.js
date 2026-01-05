@@ -1,7 +1,10 @@
 var a15016 =
 [
-    [ "npc_tarethaAI", "dd/d8d/a15020.html", "dd/d8d/a15020" ],
-    [ "npc_taretha", "de/da1/a15016.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "de/da1/a15016.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "de/da1/a15016.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "boss_meathookAI", "de/da1/a15016.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "de/da1/a15016.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "de/da1/a15016.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "de/da1/a15016.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "de/da1/a15016.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "de/da1/a15016.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "de/da1/a15016.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

@@ -1,7 +1,11 @@
 var a14556 =
 [
-    [ "HandleEffectApply", "dd/d40/a14556.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "dd/d40/a14556.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "dd/d40/a14556.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "dd/d40/a14556.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "npc_snowfall_glade_playmate", "dd/d40/a14556.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
+    [ "MoveInLineOfSight", "dd/d40/a14556.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
+    [ "Reset", "dd/d40/a14556.html#a89040d9843852b01123e102b49509857", null ],
+    [ "UpdateAI", "dd/d40/a14556.html#a6dedc1cae1e568a792341842e8a922e8", null ],
+    [ "orphanGUID", "dd/d40/a14556.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
+    [ "phase", "dd/d40/a14556.html#a9a5b2348313063bc389b99158fc72e3f", null ],
+    [ "playerGUID", "dd/d40/a14556.html#a4ca4198fdbf3c98291255916ee53c637", null ],
+    [ "timer", "dd/d40/a14556.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
 ];

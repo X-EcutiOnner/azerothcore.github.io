@@ -1,6 +1,5 @@
 var a20504 =
 [
-    [ "boss_kologarn_armsAI", "de/de7/a20508.html", "de/de7/a20508" ],
-    [ "boss_kologarn_arms", "df/dcd/a20504.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "df/dcd/a20504.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "achievement_cheese_the_freeze", "df/dcd/a20504.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "df/dcd/a20504.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

@@ -1,23 +1,30 @@
 var a00308 =
 [
-    [ "BattlegroundScore", "da/dae/a07407.html", "da/dae/a07407" ],
-    [ "ScoreType", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18", [
-      [ "SCORE_KILLING_BLOWS", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046", null ],
-      [ "SCORE_DEATHS", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412", null ],
-      [ "SCORE_HONORABLE_KILLS", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7", null ],
-      [ "SCORE_BONUS_HONOR", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f", null ],
-      [ "SCORE_DAMAGE_DONE", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527", null ],
-      [ "SCORE_HEALING_DONE", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2", null ],
-      [ "SCORE_FLAG_CAPTURES", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b", null ],
-      [ "SCORE_FLAG_RETURNS", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a", null ],
-      [ "SCORE_BASES_ASSAULTED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1", null ],
-      [ "SCORE_BASES_DEFENDED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408", null ],
-      [ "SCORE_GRAVEYARDS_ASSAULTED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b", null ],
-      [ "SCORE_GRAVEYARDS_DEFENDED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a", null ],
-      [ "SCORE_TOWERS_ASSAULTED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027", null ],
-      [ "SCORE_TOWERS_DEFENDED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a", null ],
-      [ "SCORE_MINES_CAPTURED", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015", null ],
-      [ "SCORE_DESTROYED_DEMOLISHER", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e", null ],
-      [ "SCORE_DESTROYED_WALL", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80", null ]
-    ] ]
+    [ "MAX_ACCOUNT_STR", "d5/d0f/a00308.html#a134ebf22666a6525929447b2d869d400", null ],
+    [ "MAX_EMAIL_STR", "d5/d0f/a00308.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
+    [ "MAX_PASS_STR", "d5/d0f/a00308.html#a45827712253b6d66092106cef5ae724b", null ],
+    [ "AccountOpResult", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703e", [
+      [ "AOR_OK", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
+      [ "AOR_NAME_TOO_LONG", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
+      [ "AOR_PASS_TOO_LONG", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
+      [ "AOR_EMAIL_TOO_LONG", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
+      [ "AOR_NAME_ALREADY_EXIST", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
+      [ "AOR_NAME_NOT_EXIST", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
+      [ "AOR_DB_INTERNAL_ERROR", "d5/d0f/a00308.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
+    ] ],
+    [ "ChangeEmail", "d5/d0f/a00308.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
+    [ "ChangePassword", "d5/d0f/a00308.html#a6a9cb892c15d78b5de65738005234ff6", null ],
+    [ "ChangeUsername", "d5/d0f/a00308.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
+    [ "CheckPassword", "d5/d0f/a00308.html#a17c28dfcb31af8f4241bb5210408185a", null ],
+    [ "CreateAccount", "d5/d0f/a00308.html#a761f39260d15a979ce0214f212b936b7", null ],
+    [ "DeleteAccount", "d5/d0f/a00308.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
+    [ "GetCharactersCount", "d5/d0f/a00308.html#a4fb760897161c3d463f842b28bcf7c20", null ],
+    [ "GetId", "d5/d0f/a00308.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
+    [ "GetName", "d5/d0f/a00308.html#af911e3860ec519c541d6df35468ee41b", null ],
+    [ "GetSecurity", "d5/d0f/a00308.html#a8280510b2564ec6ea76727218c1687b3", null ],
+    [ "GetSecurity", "d5/d0f/a00308.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+    [ "IsAdminAccount", "d5/d0f/a00308.html#adb1b210137b09011677c74011addeefa", null ],
+    [ "IsConsoleAccount", "d5/d0f/a00308.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
+    [ "IsGMAccount", "d5/d0f/a00308.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
+    [ "IsPlayerAccount", "d5/d0f/a00308.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
 ];

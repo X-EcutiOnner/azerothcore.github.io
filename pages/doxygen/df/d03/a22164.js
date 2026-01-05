@@ -1,7 +1,6 @@
 var a22164 =
 [
-    [ "npc_Apothecary_HanesAI", "db/d02/a22168.html", "db/d02/a22168" ],
-    [ "npc_apothecary_hanes", "df/d03/a22164.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "df/d03/a22164.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "df/d03/a22164.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "CheckRequirement", "df/d03/a22164.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "df/d03/a22164.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "df/d03/a22164.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

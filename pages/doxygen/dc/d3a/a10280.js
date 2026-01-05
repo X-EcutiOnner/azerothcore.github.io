@@ -1,10 +1,10 @@
 var a10280 =
 [
-    [ "AllItemScript", "dc/d3a/a10280.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "dc/d3a/a10280.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "dc/d3a/a10280.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "dc/d3a/a10280.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "dc/d3a/a10280.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "dc/d3a/a10280.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "dc/d3a/a10280.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "QuestStatusData", "dc/d3a/a10280.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "dc/d3a/a10280.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "dc/d3a/a10280.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "dc/d3a/a10280.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "dc/d3a/a10280.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "dc/d3a/a10280.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "dc/d3a/a10280.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

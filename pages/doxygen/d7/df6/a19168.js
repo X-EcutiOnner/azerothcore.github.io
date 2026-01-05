@@ -1,6 +1,7 @@
 var a19168 =
 [
-    [ "boss_gluthAI", "d5/d97/a19172.html", "d5/d97/a19172" ],
-    [ "boss_gluth", "d7/df6/a19168.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d7/df6/a19168.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "DelayedCastMincharEvent", "d7/df6/a19168.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d7/df6/a19168.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d7/df6/a19168.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d7/df6/a19168.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

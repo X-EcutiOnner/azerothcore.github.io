@@ -1,7 +1,11 @@
 var a24884 =
 [
-    [ "CalculateAmount", "dc/dff/a24884.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
-    [ "Load", "dc/dff/a24884.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
-    [ "PrepareAuraScript", "dc/dff/a24884.html#a93df43072a344485c389160306b1fecd", null ],
-    [ "Register", "dc/dff/a24884.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
+    [ "HandleAfterHit", "dc/dff/a24884.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "dc/dff/a24884.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "dc/dff/a24884.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "dc/dff/a24884.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "dc/dff/a24884.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "dc/dff/a24884.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "dc/dff/a24884.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "dc/dff/a24884.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

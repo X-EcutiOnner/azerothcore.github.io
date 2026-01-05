@@ -1,20 +1,14 @@
 var a28020 =
 [
-    [ "iterator", "de/de4/a28020.html#acbe3d8adad76c063eeff0472b14e9c2d", null ],
-    [ "DBCStorage", "de/de4/a28020.html#a1aac83146adf1d72b98f641acf133353", null ],
-    [ "~DBCStorage", "de/de4/a28020.html#a52478c32db2c7d0bfddfc5c3f614b2c2", null ],
-    [ "DBCStorage", "de/de4/a28020.html#af1212e7eac4a35aed1cc30d1885093d0", null ],
-    [ "AssertEntry", "de/de4/a28020.html#a2193a31f1a96f04c113191e0e200af57", null ],
-    [ "begin", "de/de4/a28020.html#a43338cbd450480a91ed25228611dfe89", null ],
-    [ "end", "de/de4/a28020.html#a00d89ccb706cdf73c3cd3840333504cc", null ],
-    [ "GetNumRows", "de/de4/a28020.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1", null ],
-    [ "Load", "de/de4/a28020.html#aad72c211d47bfeb5b82636c131507083", null ],
-    [ "LoadFromDB", "de/de4/a28020.html#a3900db604c7fa373d55c161006f8752a", null ],
-    [ "LoadStringsFrom", "de/de4/a28020.html#a26fd44b61cf6352b99122abb23768a97", null ],
-    [ "LookupEntry", "de/de4/a28020.html#a6cb9477a0d94271c073f5850ad23ae07", null ],
-    [ "operator=", "de/de4/a28020.html#ace37b566e9013928a845c981437158ae", null ],
-    [ "SetEntry", "de/de4/a28020.html#a2e738aadf73e51ee4787a45d8b4908d3", null ],
-    [ "_indexTable", "de/de4/a28020.html#a760521e80f7a4a0c8fe28a0674777921", null ],
-    [ "AsChar", "de/de4/a28020.html#a7ef1de4ced6822e264b73cbe72dcfc7c", null ],
-    [ "AsT", "de/de4/a28020.html#a2002a0adee55fa79ec5a0cceab48b607", null ]
+    [ "FlameshockerCheck", "d6/d38/a28024.html", "d6/d38/a28024" ],
+    [ "npc_pallid_horror", "de/de4/a28020.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "de/de4/a28020.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "de/de4/a28020.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "de/de4/a28020.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "de/de4/a28020.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "de/de4/a28020.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "de/de4/a28020.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "de/de4/a28020.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "de/de4/a28020.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "de/de4/a28020.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

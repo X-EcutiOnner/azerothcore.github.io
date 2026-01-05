@@ -1,6 +1,6 @@
 var a14004 =
 [
-    [ "cooldown", "de/d32/a14004.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "de/d32/a14004.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "de/d32/a14004.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "boss_blight_wormAI", "db/dc6/a14008.html", "db/dc6/a14008" ],
+    [ "boss_blight_worm", "de/d32/a14004.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "de/d32/a14004.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

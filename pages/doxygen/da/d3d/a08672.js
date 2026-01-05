@@ -1,5 +1,7 @@
 var a08672 =
 [
-    [ "bgQueueTypeId", "da/d3d/a08672.html#a171a9be34883429a97f6f2e3035b5fca", null ],
-    [ "invitedToInstance", "da/d3d/a08672.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
+    [ "ItemPosCount", "da/d3d/a08672.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "da/d3d/a08672.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "da/d3d/a08672.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "da/d3d/a08672.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

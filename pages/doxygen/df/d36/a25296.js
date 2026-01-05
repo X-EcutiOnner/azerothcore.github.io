@@ -1,7 +1,8 @@
 var a25296 =
 [
-    [ "CheckIfLanceEquipped", "df/d36/a25296.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "df/d36/a25296.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "df/d36/a25296.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "df/d36/a25296.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "OnApply", "df/d36/a25296.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "df/d36/a25296.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "df/d36/a25296.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "df/d36/a25296.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "df/d36/a25296.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

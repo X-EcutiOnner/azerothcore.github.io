@@ -1,6 +1,10 @@
 var a21776 =
 [
-    [ "npc_thassarian2AI", "da/deb/a21780.html", "da/deb/a21780" ],
-    [ "npc_thassarian2", "d1/d0f/a21776.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d1/d0f/a21776.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d1/d0f/a21776.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d1/d0f/a21776.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d1/d0f/a21776.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d1/d0f/a21776.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d1/d0f/a21776.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d1/d0f/a21776.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d1/d0f/a21776.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

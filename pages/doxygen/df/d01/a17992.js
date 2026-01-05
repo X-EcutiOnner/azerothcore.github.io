@@ -1,7 +1,5 @@
 var a17992 =
 [
-    [ "HandleSpikes", "df/d01/a17992.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "df/d01/a17992.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "df/d01/a17992.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "df/d01/a17992.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "achievement_im_on_a_boat", "df/d01/a17992.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "df/d01/a17992.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

@@ -1,6 +1,6 @@
 var a17880 =
 [
-    [ "IgbArtilleryCheck", "d0/dfa/a17880.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d0/dfa/a17880.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d0/dfa/a17880.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "npc_gunship_mageAI", "d6/dc8/a17884.html", "d6/dc8/a17884" ],
+    [ "npc_gunship_mage", "d0/dfa/a17880.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d0/dfa/a17880.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

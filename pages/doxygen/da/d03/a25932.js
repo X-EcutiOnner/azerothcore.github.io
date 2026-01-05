@@ -1,9 +1,9 @@
 var a25932 =
 [
-    [ "CheckProc", "da/d03/a25932.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
-    [ "HandleProc", "da/d03/a25932.html#a67db21e0293f336a31bf518c0fac85d1", null ],
-    [ "OnRemove", "da/d03/a25932.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
-    [ "PrepareAuraScript", "da/d03/a25932.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
-    [ "Register", "da/d03/a25932.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
-    [ "Validate", "da/d03/a25932.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
+    [ "spell_item_trigger_spell", "da/d03/a25932.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "da/d03/a25932.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "da/d03/a25932.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "da/d03/a25932.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "da/d03/a25932.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "da/d03/a25932.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

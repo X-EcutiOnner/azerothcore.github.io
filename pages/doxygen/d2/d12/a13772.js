@@ -1,7 +1,14 @@
 var a13772 =
 [
-    [ "npc_ranger_lilatha", "d2/d12/a13772.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d2/d12/a13772.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d2/d12/a13772.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d2/d12/a13772.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "instance_uldaman_InstanceMapScript", "d2/d12/a13772.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d2/d12/a13772.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d2/d12/a13772.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d2/d12/a13772.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d2/d12/a13772.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d2/d12/a13772.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d2/d12/a13772.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d2/d12/a13772.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d2/d12/a13772.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d2/d12/a13772.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d2/d12/a13772.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

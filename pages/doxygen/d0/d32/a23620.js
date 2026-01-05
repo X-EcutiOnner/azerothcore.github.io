@@ -1,6 +1,6 @@
 var a23620 =
 [
-    [ "HandleScriptEffect", "d0/d32/a23620.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "d0/d32/a23620.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "d0/d32/a23620.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "HandleAfterRemove", "d0/d32/a23620.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d0/d32/a23620.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d0/d32/a23620.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

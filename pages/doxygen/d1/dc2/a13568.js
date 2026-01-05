@@ -1,8 +1,8 @@
 var a13568 =
 [
-    [ "FilterTargets", "d1/dc2/a13568.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "d1/dc2/a13568.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "d1/dc2/a13568.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "d1/dc2/a13568.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "d1/dc2/a13568.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "npc_demonic_vapor", "d1/dc2/a13568.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d1/dc2/a13568.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d1/dc2/a13568.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d1/dc2/a13568.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d1/dc2/a13568.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

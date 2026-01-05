@@ -1,7 +1,6 @@
 var a13352 =
 [
-    [ "OnPeriodic", "d6/df6/a13352.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d6/df6/a13352.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d6/df6/a13352.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d6/df6/a13352.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "boss_kirtonos_the_heraldAI", "d3/d27/a13356.html", "d3/d27/a13356" ],
+    [ "boss_kirtonos_the_herald", "d6/df6/a13352.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "d6/df6/a13352.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

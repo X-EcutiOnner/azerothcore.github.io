@@ -1,8 +1,8 @@
 var a27132 =
 [
-    [ "HandleDamage", "d1/d72/a27132.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d1/d72/a27132.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d1/d72/a27132.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d1/d72/a27132.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d1/d72/a27132.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "CheckProc", "d1/d72/a27132.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "d1/d72/a27132.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "d1/d72/a27132.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "d1/d72/a27132.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "d1/d72/a27132.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

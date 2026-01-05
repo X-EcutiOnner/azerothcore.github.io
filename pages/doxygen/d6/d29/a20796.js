@@ -1,10 +1,8 @@
 var a20796 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d6/d29/a20796.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "d6/d29/a20796.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "d6/d29/a20796.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "d6/d29/a20796.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "d6/d29/a20796.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "d6/d29/a20796.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "d6/d29/a20796.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "d6/d29/a20796.html#aedb43124c923621aadecb77511204fc6", null ],
+    [ "CanAIAttack", "d6/d29/a20796.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
+    [ "Reset", "d6/d29/a20796.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
+    [ "UpdateAI", "d6/d29/a20796.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
+    [ "timer2", "d6/d29/a20796.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
 ];

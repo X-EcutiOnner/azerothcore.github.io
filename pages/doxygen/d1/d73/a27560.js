@@ -1,6 +1,6 @@
 var a27560 =
 [
-    [ "go_bellsAI", "d8/d9a/a27564.html", "d8/d9a/a27564" ],
-    [ "go_bells", "d1/d73/a27560.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d1/d73/a27560.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "go_darkmoon_faire_musicAI", "d8/d9a/a27564.html", "d8/d9a/a27564" ],
+    [ "go_darkmoon_faire_music", "d1/d73/a27560.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d1/d73/a27560.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

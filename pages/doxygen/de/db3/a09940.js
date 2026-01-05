@@ -1,6 +1,9 @@
 var a09940 =
 [
-    [ "aiNotifyDelay", "de/db3/a09940.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "de/db3/a09940.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "de/db3/a09940.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "MapUpdateRequest", "de/db3/a09940.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "de/db3/a09940.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "de/db3/a09940.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "de/db3/a09940.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "de/db3/a09940.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "de/db3/a09940.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

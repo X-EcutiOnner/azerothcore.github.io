@@ -1,7 +1,7 @@
 var a13916 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "db/d34/a13916.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "db/d34/a13916.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "db/d34/a13916.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "db/d34/a13916.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_deathstalker_erlandAI", "db/d34/a13916.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "db/d34/a13916.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "db/d34/a13916.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "db/d34/a13916.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

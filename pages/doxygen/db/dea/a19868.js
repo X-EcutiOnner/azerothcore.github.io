@@ -1,8 +1,8 @@
 var a19868 =
 [
-    [ "npc_algalon_worm_holeAI", "db/dea/a19868.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "db/dea/a19868.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "db/dea/a19868.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "db/dea/a19868.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "db/dea/a19868.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "brann_bronzebeardAI", "dc/da7/a19872.html", "dc/da7/a19872" ],
+    [ "brann_bronzebeard", "db/dea/a19868.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "db/dea/a19868.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "db/dea/a19868.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "db/dea/a19868.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

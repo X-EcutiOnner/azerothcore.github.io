@@ -1,5 +1,5 @@
 var a03326 =
 [
-    [ "titles_commandscript", "dc/de8/a12039.html", "dc/de8/a12039" ],
-    [ "AddSC_titles_commandscript", "dc/de3/a03326.html#abd13948cbed6e10bdbf797847a0f6839", null ]
+    [ "lookup_commandscript", "d4/d75/a11956.html", "d4/d75/a11956" ],
+    [ "AddSC_lookup_commandscript", "dc/de3/a03326.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

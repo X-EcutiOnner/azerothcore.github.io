@@ -1,6 +1,6 @@
 var a19960 =
 [
-    [ "HandleInstaKill", "d0/dc7/a19960.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d0/dc7/a19960.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d0/dc7/a19960.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "PrepareSpellScript", "d0/dc7/a19960.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d0/dc7/a19960.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d0/dc7/a19960.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

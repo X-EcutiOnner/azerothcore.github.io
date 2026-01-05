@@ -1,6 +1,13 @@
 var a13028 =
 [
-    [ "HandleAfterCast", "df/d85/a13028.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "df/d85/a13028.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "df/d85/a13028.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "boss_crone", "df/d85/a13028.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "df/d85/a13028.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "df/d85/a13028.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "df/d85/a13028.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "df/d85/a13028.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "df/d85/a13028.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "df/d85/a13028.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "df/d85/a13028.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "df/d85/a13028.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "df/d85/a13028.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

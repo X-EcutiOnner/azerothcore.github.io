@@ -1,6 +1,6 @@
 var a23500 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "df/d29/a23504.html", "df/d29/a23504" ],
-    [ "instance_the_slave_pens", "d5/dd4/a23500.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d5/dd4/a23500.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "HandleApplyAura", "d5/dd4/a23500.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "d5/dd4/a23500.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "d5/dd4/a23500.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

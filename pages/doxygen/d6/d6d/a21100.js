@@ -1,7 +1,6 @@
 var a21100 =
 [
-    [ "OnApply", "d6/d6d/a21100.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d6/d6d/a21100.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d6/d6d/a21100.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d6/d6d/a21100.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d6/d6d/a21100.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d6/d6d/a21100.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d6/d6d/a21100.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

@@ -1,7 +1,7 @@
 var a10932 =
 [
-    [ "MinimapPingClient", "db/da9/a10932.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "db/da9/a10932.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "db/da9/a10932.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "db/da9/a10932.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "SocketGems", "db/da9/a10932.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
+    [ "Read", "db/da9/a10932.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
+    [ "GemGuids", "db/da9/a10932.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
+    [ "ItemGuid", "db/da9/a10932.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
 ];

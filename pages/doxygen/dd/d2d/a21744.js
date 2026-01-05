@@ -1,9 +1,6 @@
 var a21744 =
 [
-    [ "npc_warmage_coldarraAI", "dd/d2d/a21744.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "dd/d2d/a21744.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "dd/d2d/a21744.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "dd/d2d/a21744.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "dd/d2d/a21744.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "dd/d2d/a21744.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_iruk", "dd/d2d/a21744.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "dd/d2d/a21744.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "dd/d2d/a21744.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

@@ -1,6 +1,6 @@
 var a18932 =
 [
-    [ "HandleScript", "db/ddf/a18932.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "db/ddf/a18932.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "db/ddf/a18932.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_captain_rupertAI", "db/ddf/a18932.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "db/ddf/a18932.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "db/ddf/a18932.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

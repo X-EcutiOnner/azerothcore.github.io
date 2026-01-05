@@ -1,5 +1,7 @@
 var a28032 =
 [
-    [ "ID", "da/da6/a28032.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "da/da6/a28032.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "HandleDummy", "da/da6/a28032.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "da/da6/a28032.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "da/da6/a28032.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "da/da6/a28032.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

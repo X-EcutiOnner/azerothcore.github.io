@@ -1,5 +1,7 @@
 var a26532 =
 [
-    [ "PrepareSpellScript", "dd/d48/a26532.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "dd/d48/a26532.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "HandleHeal", "dd/d48/a26532.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "dd/d48/a26532.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "dd/d48/a26532.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "dd/d48/a26532.html#aa300822cf5455404482124a6853fb314", null ]
 ];

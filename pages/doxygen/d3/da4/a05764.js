@@ -1,10 +1,10 @@
 var a05764 =
 [
-    [ "Alias", "d3/da4/a05764.html#ac885c365760ade7b0c74e5fead82a210", null ],
-    [ "Index", "d3/da4/a05764.html#ad841e71a9394fc114a35f0234ef581b6", null ],
-    [ "Name", "d3/da4/a05764.html#af8b9f87733157401cff6b0846a545fa4", null ],
-    [ "TableAlias", "d3/da4/a05764.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
-    [ "TableName", "d3/da4/a05764.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
-    [ "Type", "d3/da4/a05764.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
-    [ "TypeName", "d3/da4/a05764.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
+    [ "BasicStatementTask", "d3/da4/a05764.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "d3/da4/a05764.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "d3/da4/a05764.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "d3/da4/a05764.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "d3/da4/a05764.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "d3/da4/a05764.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "d3/da4/a05764.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

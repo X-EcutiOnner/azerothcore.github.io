@@ -1,10 +1,9 @@
 var a05724 =
 [
-    [ "FreezeDetector", "d8/dc6/a04796.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
-    [ "Handler", "d8/dc6/a04796.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
-    [ "Start", "d8/dc6/a04796.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
-    [ "_lastChangeMsTime", "d8/dc6/a04796.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
-    [ "_maxCoreStuckTimeInMs", "d8/dc6/a04796.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
-    [ "_timer", "d8/dc6/a04796.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
-    [ "_worldLoopCounter", "d8/dc6/a04796.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
+    [ "AccountFlags", "de/d6e/a05724.html#aa8e111f748d165f854b2deff5a81577f", null ],
+    [ "cmd", "de/d6e/a05724.html#a5846630b9df94b9f4784e59e7f320257", null ],
+    [ "error", "de/d6e/a05724.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
+    [ "LoginFlags", "de/d6e/a05724.html#adb807963195c0abbb840aca64499f630", null ],
+    [ "M2", "de/d6e/a05724.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
+    [ "SurveyId", "de/d6e/a05724.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
 ];

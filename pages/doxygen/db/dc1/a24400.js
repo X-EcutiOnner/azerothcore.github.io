@@ -1,9 +1,6 @@
 var a24400 =
 [
-    [ "npc_korkron_or_wildhammer", "db/dc1/a24400.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "db/dc1/a24400.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "db/dc1/a24400.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "db/dc1/a24400.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "db/dc1/a24400.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "db/dc1/a24400.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_infernal_attackerAI", "d7/dcf/a24404.html", "d7/dcf/a24404" ],
+    [ "npc_infernal_attacker", "db/dc1/a24400.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "db/dc1/a24400.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

@@ -1,12 +1,6 @@
 var a22288 =
 [
-    [ "npc_tournament_training_dummyAI", "d5/dab/a22288.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
-    [ "DamageTaken", "d5/dab/a22288.html#a98c18794124922e6946a82a324410837", null ],
-    [ "EnterEvadeMode", "d5/dab/a22288.html#a3f31d705284b0fad2f00c9210ff06646", null ],
-    [ "MoveInLineOfSight", "d5/dab/a22288.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
-    [ "Reset", "d5/dab/a22288.html#a7339ffe52dc789f9480afca7141a169e", null ],
-    [ "SpellHit", "d5/dab/a22288.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
-    [ "UpdateAI", "d5/dab/a22288.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
-    [ "events", "d5/dab/a22288.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
-    [ "isVulnerable", "d5/dab/a22288.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
+    [ "npc_lord_areteAI", "d4/d0d/a22292.html", "d4/d0d/a22292" ],
+    [ "npc_lord_arete", "d5/dab/a22288.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d5/dab/a22288.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

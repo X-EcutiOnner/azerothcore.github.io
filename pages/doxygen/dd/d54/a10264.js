@@ -1,22 +1,12 @@
 var a10264 =
 [
-    [ "AllBattlegroundScript", "dd/d54/a10264.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03", null ],
-    [ "CanFillPlayersToBG", "dd/d54/a10264.html#a3c70c7c71f2b941cf42607806ea19874", null ],
-    [ "CanSendMessageBGQueue", "dd/d54/a10264.html#a1407ab7e2b4630ec8def2f7e6e532831", null ],
-    [ "IsCheckNormalMatch", "dd/d54/a10264.html#a638cd6beb9edf2c538f4ac079560a07c", null ],
-    [ "IsDatabaseBound", "dd/d54/a10264.html#a91c57b646aae6467e06b4cc13b89cfb4", null ],
-    [ "OnAddGroup", "dd/d54/a10264.html#ae315ebbf606d85f59b6c0e6558283088", null ],
-    [ "OnBattlegroundAddPlayer", "dd/d54/a10264.html#aa6affc2d98448a93ac15a2a54327cba9", null ],
-    [ "OnBattlegroundBeforeAddPlayer", "dd/d54/a10264.html#a30ec158dc1fdc13712de9db261eac589", null ],
-    [ "OnBattlegroundCreate", "dd/d54/a10264.html#adea000f8e6470a2d69843c2894102086", null ],
-    [ "OnBattlegroundDestroy", "dd/d54/a10264.html#a1991c567eb8578f1874613987526ce10", null ],
-    [ "OnBattlegroundEnd", "dd/d54/a10264.html#a8c2588bb5b7c193b0c85b26de5210dd5", null ],
-    [ "OnBattlegroundEndReward", "dd/d54/a10264.html#a91225952a9567a2408ea8b1f52660599", null ],
-    [ "OnBattlegroundRemovePlayerAtLeave", "dd/d54/a10264.html#acf48de938b3535c1d64d5e69b7e4c3cc", null ],
-    [ "OnBattlegroundStart", "dd/d54/a10264.html#a00e6e5d7ec0925a28b84719f1ef32b8d", null ],
-    [ "OnBattlegroundUpdate", "dd/d54/a10264.html#a4a5c88793e3147af07482f5081106173", null ],
-    [ "OnBeforeSendExitMessageArenaQueue", "dd/d54/a10264.html#a53eb5af1d9dc2a4bfbba33ce75170f34", null ],
-    [ "OnBeforeSendJoinMessageArenaQueue", "dd/d54/a10264.html#a159e7e138cb75f57f013cd50a4a16a49", null ],
-    [ "OnQueueUpdate", "dd/d54/a10264.html#a46675aeb8e2d066d0efaf2559ec6754c", null ],
-    [ "OnQueueUpdateValidity", "dd/d54/a10264.html#a39a66e14a6e18f233ce33a86492142f7", null ]
+    [ "QuestLocale", "dd/d54/a10264.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "dd/d54/a10264.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "dd/d54/a10264.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "dd/d54/a10264.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "dd/d54/a10264.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "dd/d54/a10264.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "dd/d54/a10264.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "dd/d54/a10264.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "dd/d54/a10264.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

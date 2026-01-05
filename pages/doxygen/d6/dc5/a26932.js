@@ -1,6 +1,6 @@
 var a26932 =
 [
-    [ "CheckProc", "d6/dc5/a26932.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "d6/dc5/a26932.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "d6/dc5/a26932.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandlePeriodic", "d6/dc5/a26932.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d6/dc5/a26932.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d6/dc5/a26932.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

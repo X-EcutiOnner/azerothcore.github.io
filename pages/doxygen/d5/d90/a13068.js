@@ -1,5 +1,7 @@
 var a13068 =
 [
-    [ "boss_zelfan", "d5/d90/a13068.html#a169e72dfe50c5199bf0053828888095b", null ],
-    [ "JustEngagedWith", "d5/d90/a13068.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
+    [ "HandleDummy", "d5/d90/a13068.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d5/d90/a13068.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d5/d90/a13068.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d5/d90/a13068.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

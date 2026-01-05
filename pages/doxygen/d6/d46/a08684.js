@@ -1,11 +1,9 @@
 var a08684 =
 [
-    [ "FriendInfo", "d6/d46/a08684.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d6/d46/a08684.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d6/d46/a08684.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d6/d46/a08684.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d6/d46/a08684.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d6/d46/a08684.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d6/d46/a08684.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d6/d46/a08684.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "achievements", "d6/d46/a08684.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d6/d46/a08684.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d6/d46/a08684.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d6/d46/a08684.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d6/d46/a08684.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d6/d46/a08684.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

@@ -1,12 +1,21 @@
 var a09592 =
 [
-    [ "EventLogEntry", "dc/d08/a09592.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "dc/d08/a09592.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "dc/d08/a09592.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "dc/d08/a09592.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "dc/d08/a09592.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "dc/d08/a09592.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "dc/d08/a09592.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "dc/d08/a09592.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "dc/d08/a09592.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "PlayerVote", "dc/d08/a09592.html#a9b86264db334335ec202909fc7130b77", null ],
+    [ "Roll", "dc/d08/a09592.html#abffce9339088167e812f51481c336bf7", null ],
+    [ "~Roll", "dc/d08/a09592.html#a843879734a9c86a97d7f26b672f37f2a", null ],
+    [ "getLoot", "dc/d08/a09592.html#af0c8c87b3fa9cd45cf51e774123d3b58", null ],
+    [ "setLoot", "dc/d08/a09592.html#a34869ee15d87708859cd51262ad160fc", null ],
+    [ "targetObjectBuildLink", "dc/d08/a09592.html#a2dc422a05158521f857caf7dce005f72", null ],
+    [ "itemCount", "dc/d08/a09592.html#a7c98449785629933a0e5e8bee7deb272", null ],
+    [ "itemGUID", "dc/d08/a09592.html#af4877388e7efe95452541a3d2788fa7f", null ],
+    [ "itemid", "dc/d08/a09592.html#a7b40118e2d489177a268301636b9994f", null ],
+    [ "itemRandomPropId", "dc/d08/a09592.html#a5154a19624a6e0d9657a697f9b235491", null ],
+    [ "itemRandomSuffix", "dc/d08/a09592.html#acfd3e2d5fb152a9848e6e4fe47111bad", null ],
+    [ "itemSlot", "dc/d08/a09592.html#a6e170a8296949cd76baa7992f30a61d6", null ],
+    [ "playerVote", "dc/d08/a09592.html#aff97626c4d749bf0acbd165f289b5a57", null ],
+    [ "rollVoteMask", "dc/d08/a09592.html#a9c86d54397c4ce46d691e77cc476ffe6", null ],
+    [ "totalGreed", "dc/d08/a09592.html#a6187dd03a275f9e51d489709c9cf6d13", null ],
+    [ "totalNeed", "dc/d08/a09592.html#ae02ba19cfd317143e839cd4a3751a3eb", null ],
+    [ "totalPass", "dc/d08/a09592.html#aeeac3fb83c410a3d256c0cbf45f48e95", null ],
+    [ "totalPlayersRolling", "dc/d08/a09592.html#a6a6ea6885bc68272520c018a83b2106f", null ]
 ];

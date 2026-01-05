@@ -1,6 +1,8 @@
 var a17464 =
 [
-    [ "npc_blood_queen_lana_thelAI", "db/dcc/a17468.html", "db/dcc/a17468" ],
-    [ "npc_blood_queen_lana_thel", "dd/d82/a17464.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "dd/d82/a17464.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "boss_eck", "dd/d82/a17464.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "dd/d82/a17464.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "dd/d82/a17464.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "dd/d82/a17464.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "dd/d82/a17464.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

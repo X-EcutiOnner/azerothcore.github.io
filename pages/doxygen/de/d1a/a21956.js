@@ -1,7 +1,5 @@
 var a21956 =
 [
-    [ "HandleApplyEffect", "de/d1a/a21956.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "de/d1a/a21956.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "de/d1a/a21956.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "de/d1a/a21956.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "go_the_pearl_of_the_depths", "de/d1a/a21956.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "de/d1a/a21956.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

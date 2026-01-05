@@ -1,6 +1,9 @@
 var a23952 =
 [
-    [ "AfterRemove", "d0/d9c/a23952.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d0/d9c/a23952.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d0/d9c/a23952.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "boss_dalliah_the_doomsayer", "d0/d9c/a23952.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d0/d9c/a23952.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d0/d9c/a23952.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d0/d9c/a23952.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d0/d9c/a23952.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d0/d9c/a23952.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

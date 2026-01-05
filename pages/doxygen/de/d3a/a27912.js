@@ -1,7 +1,6 @@
 var a27912 =
 [
-    [ "npc_flameshocker", "de/d3a/a27912.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "de/d3a/a27912.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "de/d3a/a27912.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "de/d3a/a27912.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_pet_trainerAI", "d0/d03/a27916.html", "d0/d03/a27916" ],
+    [ "npc_pet_trainer", "de/d3a/a27912.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "de/d3a/a27912.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

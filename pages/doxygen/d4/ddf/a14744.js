@@ -1,6 +1,8 @@
 var a14744 =
 [
-    [ "HandleScriptEffect", "d4/ddf/a14744.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d4/ddf/a14744.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d4/ddf/a14744.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "OnApply", "d4/ddf/a14744.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d4/ddf/a14744.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d4/ddf/a14744.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d4/ddf/a14744.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d4/ddf/a14744.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

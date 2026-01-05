@@ -1,6 +1,6 @@
 var a12016 =
 [
-    [ "boss_vanndarAI", "d3/d6d/a12020.html", "d3/d6d/a12020" ],
-    [ "boss_vanndar", "da/de8/a12016.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "da/de8/a12016.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "CapturedGroups", "da/de8/a12016.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "da/de8/a12016.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "da/de8/a12016.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

@@ -1,6 +1,6 @@
 var a15344 =
 [
-    [ "FilterTargets", "d9/dbd/a15344.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "d9/dbd/a15344.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "d9/dbd/a15344.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "HandleScript", "d9/dbd/a15344.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "d9/dbd/a15344.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "d9/dbd/a15344.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

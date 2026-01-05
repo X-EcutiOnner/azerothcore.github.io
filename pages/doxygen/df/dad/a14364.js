@@ -1,11 +1,11 @@
 var a14364 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "df/dad/a14364.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "df/dad/a14364.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "df/dad/a14364.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "df/dad/a14364.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "df/dad/a14364.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "df/dad/a14364.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "df/dad/a14364.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "df/dad/a14364.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "boss_marli", "df/dad/a14364.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "df/dad/a14364.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "df/dad/a14364.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "df/dad/a14364.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "df/dad/a14364.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "df/dad/a14364.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "df/dad/a14364.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "df/dad/a14364.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

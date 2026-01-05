@@ -1,6 +1,6 @@
 var a17516 =
 [
-    [ "ChangeSummonPos", "d3/d02/a17516.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d3/d02/a17516.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d3/d02/a17516.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "instance_gundrak_InstanceMapScript", "df/dcc/a17520.html", "df/dcc/a17520" ],
+    [ "instance_gundrak", "d3/d02/a17516.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d3/d02/a17516.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

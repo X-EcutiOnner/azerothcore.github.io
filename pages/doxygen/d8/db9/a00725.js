@@ -1,6 +1,6 @@
 var a00725 =
 [
-    [ "npc_suns_reach_reclamation", "db/d61/a27970.html", "db/d61/a27970" ],
-    [ "npc_sunwell_gate", "d3/d29/a27974.html", "d3/d29/a27974" ],
-    [ "AddSC_suns_reach_reclamation", "d8/db9/a00725.html#ae3e186d64e39803c404f1afb2144557b", null ]
+    [ "clearAcceptTradeMode", "d8/db9/a00725.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d8/db9/a00725.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d8/db9/a00725.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

@@ -1,6 +1,6 @@
 var a18996 =
 [
-    [ "npc_icc_severed_essenceAI", "d0/dd4/a19000.html", "d0/dd4/a19000" ],
-    [ "npc_icc_severed_essence", "d4/d11/a18996.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d4/d11/a18996.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "PrepareSpellScript", "d4/d11/a18996.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d4/d11/a18996.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d4/d11/a18996.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

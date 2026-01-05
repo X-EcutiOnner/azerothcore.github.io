@@ -1,7 +1,11 @@
 var a15704 =
 [
-    [ "npc_shenthulAI", "dc/d69/a15708.html", "dc/d69/a15708" ],
-    [ "npc_shenthul", "d3/d6a/a15704.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d3/d6a/a15704.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d3/d6a/a15704.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_tiger_matriarchAI", "d3/d6a/a15704.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d3/d6a/a15704.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d3/d6a/a15704.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d3/d6a/a15704.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d3/d6a/a15704.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d3/d6a/a15704.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d3/d6a/a15704.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d3/d6a/a15704.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

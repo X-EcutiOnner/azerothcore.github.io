@@ -1,8 +1,9 @@
 var a20700 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "db/d10/a20704.html", "db/d10/a20704" ],
-    [ "npc_ulduar_expedition_commander", "de/d6e/a20700.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "de/d6e/a20700.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "de/d6e/a20700.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "de/d6e/a20700.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "HandleEffectPeriodic", "de/d6e/a20700.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "de/d6e/a20700.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "de/d6e/a20700.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "de/d6e/a20700.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "de/d6e/a20700.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "de/d6e/a20700.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

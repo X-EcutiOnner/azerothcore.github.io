@@ -1,9 +1,10 @@
 var a10640 =
 [
-    [ "GuildRoster", "da/dbd/a10640.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "da/dbd/a10640.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "da/dbd/a10640.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "da/dbd/a10640.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "da/dbd/a10640.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "da/dbd/a10640.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "EnvironmentalDamageLog", "da/dbd/a10640.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "da/dbd/a10640.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "da/dbd/a10640.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "da/dbd/a10640.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "da/dbd/a10640.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "da/dbd/a10640.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "da/dbd/a10640.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

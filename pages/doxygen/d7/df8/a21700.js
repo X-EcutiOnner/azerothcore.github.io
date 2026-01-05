@@ -1,10 +1,6 @@
 var a21700 =
 [
-    [ "npc_jenny", "d7/df8/a21700.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d7/df8/a21700.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d7/df8/a21700.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d7/df8/a21700.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d7/df8/a21700.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d7/df8/a21700.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d7/df8/a21700.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_azure_sorcerorAI", "d2/d15/a21704.html", "d2/d15/a21704" ],
+    [ "npc_azure_sorceror", "d7/df8/a21700.html#ab81ec144680a37312b0a5e0110365a1a", null ],
+    [ "GetAI", "d7/df8/a21700.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
 ];

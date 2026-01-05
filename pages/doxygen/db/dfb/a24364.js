@@ -1,6 +1,7 @@
 var a24364 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d6/dfe/a24368.html", "d6/dfe/a24368" ],
-    [ "npc_lord_illidan_stormrage", "db/dfb/a24364.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "db/dfb/a24364.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_maxx_a_million_escortAI", "d6/dfe/a24368.html", "d6/dfe/a24368" ],
+    [ "npc_maxx_a_million_escort", "db/dfb/a24364.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "db/dfb/a24364.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "db/dfb/a24364.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

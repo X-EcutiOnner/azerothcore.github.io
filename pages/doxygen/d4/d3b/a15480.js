@@ -1,13 +1,15 @@
 var a15480 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d4/d3b/a15480.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d4/d3b/a15480.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d4/d3b/a15480.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d4/d3b/a15480.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d4/d3b/a15480.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d4/d3b/a15480.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d4/d3b/a15480.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d4/d3b/a15480.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d4/d3b/a15480.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d4/d3b/a15480.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "boss_viscidus", "d4/d3b/a15480.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d4/d3b/a15480.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d4/d3b/a15480.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d4/d3b/a15480.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d4/d3b/a15480.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d4/d3b/a15480.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d4/d3b/a15480.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d4/d3b/a15480.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d4/d3b/a15480.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d4/d3b/a15480.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d4/d3b/a15480.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d4/d3b/a15480.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

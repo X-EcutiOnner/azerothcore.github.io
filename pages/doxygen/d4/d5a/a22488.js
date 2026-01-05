@@ -1,7 +1,6 @@
 var a22488 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/d5a/a22488.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/d5a/a22488.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/d5a/a22488.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/d5a/a22488.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_roxi_ramrocket", "d4/d5a/a22488.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d4/d5a/a22488.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d4/d5a/a22488.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

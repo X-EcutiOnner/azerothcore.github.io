@@ -1,6 +1,5 @@
 var a10812 =
 [
-    [ "GuildSetGuildMaster", "d9/d32/a10812.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "d9/d32/a10812.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "d9/d32/a10812.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "SocketEnchantID", "d9/d32/a10812.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d9/d32/a10812.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

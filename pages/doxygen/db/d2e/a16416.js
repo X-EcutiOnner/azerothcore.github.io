@@ -1,9 +1,8 @@
 var a16416 =
 [
-    [ "npc_memoryAI", "db/d2e/a16416.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "db/d2e/a16416.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "db/d2e/a16416.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "db/d2e/a16416.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "db/d2e/a16416.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "db/d2e/a16416.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "Load", "db/d2e/a16416.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "db/d2e/a16416.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "db/d2e/a16416.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "db/d2e/a16416.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "db/d2e/a16416.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

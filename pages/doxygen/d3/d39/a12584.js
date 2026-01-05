@@ -1,7 +1,7 @@
 var a12584 =
 [
-    [ "HandlePeriodic", "d3/d39/a12584.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "d3/d39/a12584.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "d3/d39/a12584.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "d3/d39/a12584.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "HandleDummy", "d3/d39/a12584.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "d3/d39/a12584.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "d3/d39/a12584.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "d3/d39/a12584.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

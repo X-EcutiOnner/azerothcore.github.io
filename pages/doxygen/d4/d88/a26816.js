@@ -1,6 +1,6 @@
 var a26816 =
 [
-    [ "HandleAfterCast", "d4/d88/a26816.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d4/d88/a26816.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d4/d88/a26816.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleEffectPeriodic", "d4/d88/a26816.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
+    [ "PrepareAuraScript", "d4/d88/a26816.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
+    [ "Register", "d4/d88/a26816.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
 ];

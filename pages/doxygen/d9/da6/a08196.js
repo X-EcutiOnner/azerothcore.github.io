@@ -1,12 +1,7 @@
 var a08196 =
 [
-    [ "GameObjectModelOwnerImpl", "d9/da6/a08196.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "d9/da6/a08196.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "d9/da6/a08196.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "d9/da6/a08196.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "d9/da6/a08196.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "d9/da6/a08196.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "d9/da6/a08196.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "d9/da6/a08196.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "d9/da6/a08196.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "entry", "d9/da6/a08196.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
+    [ "pos", "d9/da6/a08196.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
+    [ "time", "d9/da6/a08196.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
+    [ "type", "d9/da6/a08196.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
 ];

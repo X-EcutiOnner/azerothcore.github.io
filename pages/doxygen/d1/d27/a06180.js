@@ -1,12 +1,8 @@
 var a06180 =
 [
-    [ "TotemAI", "d1/d27/a06180.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "d1/d27/a06180.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "d1/d27/a06180.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "d1/d27/a06180.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "d1/d27/a06180.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "d1/d27/a06180.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "d1/d27/a06180.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "d1/d27/a06180.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "d1/d27/a06180.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "GuardAI", "d1/d27/a06180.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "d1/d27/a06180.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "d1/d27/a06180.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "d1/d27/a06180.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "d1/d27/a06180.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

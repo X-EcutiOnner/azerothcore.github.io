@@ -1,6 +1,8 @@
 var a19708 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d9/d67/a19712.html", "d9/d67/a19712" ],
-    [ "instance_halls_of_lightning", "d0/d14/a19708.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d0/d14/a19708.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "npc_centrifuge_constructAI", "d0/d14/a19708.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d0/d14/a19708.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d0/d14/a19708.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d0/d14/a19708.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d0/d14/a19708.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

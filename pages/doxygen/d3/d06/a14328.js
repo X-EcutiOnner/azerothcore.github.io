@@ -1,6 +1,6 @@
 var a14328 =
 [
-    [ "boss_wushoolayAI", "d3/d06/a14328.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d3/d06/a14328.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d3/d06/a14328.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "boss_mandokirAI", "d0/d8e/a14332.html", "d0/d8e/a14332" ],
+    [ "boss_mandokir", "d3/d06/a14328.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d3/d06/a14328.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

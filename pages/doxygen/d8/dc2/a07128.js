@@ -1,16 +1,9 @@
 var a07128 =
 [
-    [ "BuildAuctionInfo", "d8/dc2/a07128.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
-    [ "CompareAuctionEntry", "d8/dc2/a07128.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
-    [ "SetItemNames", "d8/dc2/a07128.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
-    [ "bid", "d8/dc2/a07128.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
-    [ "bidderGuid", "d8/dc2/a07128.html#ada14d168bde5da2b39c93a240941a80a", null ],
-    [ "buyout", "d8/dc2/a07128.html#a978fea69d5c823f71e681903a432ec51", null ],
-    [ "expire_time", "d8/dc2/a07128.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
-    [ "Id", "d8/dc2/a07128.html#aa52368fdef3baed1aed4af459f764b8b", null ],
-    [ "item", "d8/dc2/a07128.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
-    [ "listFaction", "d8/dc2/a07128.html#a988bdc1b8ae87c3797b24534e853213f", null ],
-    [ "ownerGuid", "d8/dc2/a07128.html#a75e8c535be797d015ed970d896a56c29", null ],
-    [ "ownerName", "d8/dc2/a07128.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
-    [ "startbid", "d8/dc2/a07128.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
+    [ "ObjectGuidVector", "d8/dc2/a07128.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d8/dc2/a07128.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d8/dc2/a07128.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d8/dc2/a07128.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d8/dc2/a07128.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d8/dc2/a07128.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

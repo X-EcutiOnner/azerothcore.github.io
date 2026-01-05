@@ -1,6 +1,9 @@
 var a24620 =
 [
-    [ "HandlePeriodic", "de/d4c/a24620.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "de/d4c/a24620.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "de/d4c/a24620.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "de/d4c/a24620.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "de/d4c/a24620.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "de/d4c/a24620.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "de/d4c/a24620.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "de/d4c/a24620.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "de/d4c/a24620.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

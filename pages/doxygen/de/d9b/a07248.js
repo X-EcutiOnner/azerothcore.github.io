@@ -1,7 +1,7 @@
 var a07248 =
 [
-    [ "attackText", "de/d9b/a07248.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "de/d9b/a07248.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "de/d9b/a07248.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "de/d9b/a07248.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "BfGraveyardWG", "de/d9b/a07248.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "de/d9b/a07248.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
+    [ "SetTextId", "de/d9b/a07248.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "m_GossipTextId", "de/d9b/a07248.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
 ];

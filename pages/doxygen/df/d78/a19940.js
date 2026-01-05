@@ -1,6 +1,8 @@
 var a19940 =
 [
-    [ "npc_assembly_lightningAI", "d2/d18/a19944.html", "d2/d18/a19944" ],
-    [ "npc_assembly_lightning", "df/d78/a19940.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "df/d78/a19940.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "go_celestial_planetarium_accessAI", "df/d78/a19940.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "df/d78/a19940.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "df/d78/a19940.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "df/d78/a19940.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "df/d78/a19940.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

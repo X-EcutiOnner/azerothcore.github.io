@@ -1,6 +1,6 @@
 var a21136 =
 [
-    [ "OnEffect", "d1/ddf/a21136.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d1/ddf/a21136.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d1/ddf/a21136.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "boss_yoggsaron_neltharionAI", "d6/d25/a21140.html", "d6/d25/a21140" ],
+    [ "boss_yoggsaron_neltharion", "d1/ddf/a21136.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d1/ddf/a21136.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

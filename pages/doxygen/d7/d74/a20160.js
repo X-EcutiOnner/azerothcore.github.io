@@ -1,6 +1,7 @@
 var a20160 =
 [
-    [ "PrepareSpellScript", "d7/d74/a20160.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d7/d74/a20160.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d7/d74/a20160.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "npc_storm_beacon_spawnAI", "d7/d74/a20160.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d7/d74/a20160.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d7/d74/a20160.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d7/d74/a20160.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

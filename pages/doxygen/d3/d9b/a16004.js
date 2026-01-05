@@ -1,8 +1,5 @@
 var a16004 =
 [
-    [ "HandleAfterCast", "d3/d9b/a16004.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d3/d9b/a16004.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d3/d9b/a16004.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d3/d9b/a16004.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d3/d9b/a16004.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "go_elune_fire", "d3/d9b/a16004.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "d3/d9b/a16004.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

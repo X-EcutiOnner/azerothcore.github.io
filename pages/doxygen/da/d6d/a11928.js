@@ -1,8 +1,8 @@
 var a11928 =
 [
-    [ "pet_commandscript", "da/d6d/a11928.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "da/d6d/a11928.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "da/d6d/a11928.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "da/d6d/a11928.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "da/d6d/a11928.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "honor_commandscript", "da/d6d/a11928.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "da/d6d/a11928.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "da/d6d/a11928.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "da/d6d/a11928.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "da/d6d/a11928.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

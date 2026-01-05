@@ -1,7 +1,5 @@
 var a19480 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d8/d5e/a19480.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d8/d5e/a19480.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d8/d5e/a19480.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d8/d5e/a19480.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "npc_mr_bigglesworth", "d8/d5e/a19480.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d8/d5e/a19480.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

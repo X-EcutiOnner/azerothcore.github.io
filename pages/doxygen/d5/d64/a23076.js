@@ -1,6 +1,7 @@
 var a23076 =
 [
-    [ "FilterTargets", "d5/d64/a23076.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d5/d64/a23076.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d5/d64/a23076.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "boss_veras_darkshadow", "d5/d64/a23076.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d5/d64/a23076.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d5/d64/a23076.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d5/d64/a23076.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

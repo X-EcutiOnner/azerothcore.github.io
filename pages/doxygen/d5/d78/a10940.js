@@ -1,7 +1,6 @@
 var a10940 =
 [
-    [ "RandomRollClient", "d5/d78/a10940.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d5/d78/a10940.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d5/d78/a10940.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d5/d78/a10940.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "ItemRefundInfo", "d5/d78/a10940.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
+    [ "Read", "d5/d78/a10940.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
+    [ "ItemGuid", "d5/d78/a10940.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
 ];

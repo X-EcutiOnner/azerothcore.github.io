@@ -1,7 +1,12 @@
 var a20532 =
 [
-    [ "FilterTargetsInitial", "d4/d3d/a20532.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d4/d3d/a20532.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d4/d3d/a20532.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d4/d3d/a20532.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_iron_constructAI", "d4/d3d/a20532.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "d4/d3d/a20532.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "d4/d3d/a20532.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "d4/d3d/a20532.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "d4/d3d/a20532.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "d4/d3d/a20532.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "d4/d3d/a20532.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "d4/d3d/a20532.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "d4/d3d/a20532.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

@@ -1,8 +1,7 @@
 var a26416 =
 [
-    [ "CalculateAmount", "de/dc4/a26416.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "de/dc4/a26416.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "de/dc4/a26416.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "de/dc4/a26416.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "de/dc4/a26416.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "HandleScriptEffect", "de/dc4/a26416.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "de/dc4/a26416.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "de/dc4/a26416.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "de/dc4/a26416.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

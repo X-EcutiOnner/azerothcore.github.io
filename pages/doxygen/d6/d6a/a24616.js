@@ -1,6 +1,6 @@
 var a24616 =
 [
-    [ "PrepareSpellScript", "d6/d6a/a24616.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d6/d6a/a24616.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d6/d6a/a24616.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "HandleDamageCalc", "d6/d6a/a24616.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d6/d6a/a24616.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d6/d6a/a24616.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

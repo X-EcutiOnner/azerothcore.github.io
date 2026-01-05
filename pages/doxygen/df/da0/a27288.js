@@ -1,5 +1,5 @@
 var a27288 =
 [
-    [ "AreaTrigger_at_sentry_point", "df/da0/a27288.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "df/da0/a27288.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "achievement_resilient_victory", "df/da0/a27288.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "df/da0/a27288.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

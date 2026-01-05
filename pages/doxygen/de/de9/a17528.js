@@ -1,6 +1,6 @@
 var a17528 =
 [
-    [ "KnockIntoAir", "de/de9/a17528.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "de/de9/a17528.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "de/de9/a17528.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "ShockVortexExplodeEvent", "de/de9/a17528.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "de/de9/a17528.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "de/de9/a17528.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

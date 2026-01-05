@@ -1,6 +1,7 @@
 var a27736 =
 [
-    [ "npc_air_force_botsAI", "dc/d74/a27740.html", "dc/d74/a27740" ],
-    [ "npc_air_force_bots", "d4/df4/a27736.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d4/df4/a27736.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_engineering_tele_trinket", "d4/df4/a27736.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d4/df4/a27736.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d4/df4/a27736.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d4/df4/a27736.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

@@ -1,10 +1,15 @@
 var a19604 =
 [
-    [ "npc_oculus_drakegiverAI", "d7/d2c/a19604.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d7/d2c/a19604.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d7/d2c/a19604.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d7/d2c/a19604.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d7/d2c/a19604.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d7/d2c/a19604.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d7/d2c/a19604.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "boss_magus_telestra", "d7/d2c/a19604.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d7/d2c/a19604.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d7/d2c/a19604.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d7/d2c/a19604.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d7/d2c/a19604.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d7/d2c/a19604.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d7/d2c/a19604.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d7/d2c/a19604.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d7/d2c/a19604.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d7/d2c/a19604.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d7/d2c/a19604.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
+    [ "copiesDied", "d7/d2c/a19604.html#a5738bf62869f9958448213b28c1bf771", null ]
 ];

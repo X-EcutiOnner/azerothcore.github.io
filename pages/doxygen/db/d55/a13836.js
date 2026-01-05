@@ -1,15 +1,12 @@
 var a13836 =
 [
-    [ "npc_deathstalker_fearleia", "db/d55/a13836.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "db/d55/a13836.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "db/d55/a13836.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "db/d55/a13836.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "db/d55/a13836.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "db/d55/a13836.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "db/d55/a13836.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "db/d55/a13836.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "db/d55/a13836.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "db/d55/a13836.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "db/d55/a13836.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "db/d55/a13836.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_cameron", "db/d55/a13836.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "db/d55/a13836.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "db/d55/a13836.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "db/d55/a13836.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "db/d55/a13836.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "db/d55/a13836.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "db/d55/a13836.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "db/d55/a13836.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "db/d55/a13836.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

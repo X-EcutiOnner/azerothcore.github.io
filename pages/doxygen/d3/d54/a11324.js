@@ -1,7 +1,5 @@
 var a11324 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d3/d54/a11324.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "d3/d54/a11324.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d3/d54/a11324.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d3/d54/a11324.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "AbsorbAuraOrderPred", "d3/d54/a11324.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "d3/d54/a11324.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

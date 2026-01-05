@@ -1,8 +1,5 @@
 var a20620 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d4/db5/a20620.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "d4/db5/a20620.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "d4/db5/a20620.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "d4/db5/a20620.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "d4/db5/a20620.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d4/db5/a20620.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d4/db5/a20620.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

@@ -1,5 +1,6 @@
 var a01667 =
 [
-    [ "MapMgr", "d5/da9/a09907.html", "d5/da9/a09907" ],
-    [ "sMapMgr", "dd/d8d/a01667.html#a9132749f8376c48b0ca7212eb3293905", null ]
+    [ "ResetNotifier", "db/d25/a09888.html", "db/d25/a09888" ],
+    [ "MAP_INVALID_ZONE", "dd/d8d/a01667.html#ab627038bd646584995dec28f4e212525", null ],
+    [ "IsInWMOInterior", "dd/d8d/a01667.html#ad41458075af3abab316f89b325f54b7e", null ]
 ];

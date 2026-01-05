@@ -1,6 +1,6 @@
 var a16064 =
 [
-    [ "HandleApplyAura", "d9/d73/a16064.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "d9/d73/a16064.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "d9/d73/a16064.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "HandleApply", "d9/d73/a16064.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d9/d73/a16064.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d9/d73/a16064.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

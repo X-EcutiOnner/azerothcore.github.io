@@ -1,12 +1,8 @@
 var a21248 =
 [
-    [ "boss_skarvald_the_constructor", "d4/d01/a21248.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d4/d01/a21248.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d4/d01/a21248.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d4/d01/a21248.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d4/d01/a21248.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d4/d01/a21248.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d4/d01/a21248.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d4/d01/a21248.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d4/d01/a21248.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "npc_ulduar_keeperAI", "d7/da5/a21252.html", "d7/da5/a21252" ],
+    [ "npc_ulduar_keeper", "d4/d01/a21248.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d4/d01/a21248.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d4/d01/a21248.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d4/d01/a21248.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

@@ -1,6 +1,9 @@
 var a17236 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/dd5/a17240.html", "d2/dd5/a17240" ],
-    [ "npc_pos_after_first_boss", "d8/dc3/a17236.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d8/dc3/a17236.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "npc_hor_lumbering_abominationAI", "d8/dc3/a17236.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d8/dc3/a17236.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d8/dc3/a17236.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d8/dc3/a17236.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d8/dc3/a17236.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d8/dc3/a17236.html#aee9063950477b50e38ec904e91882689", null ]
 ];

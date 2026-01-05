@@ -1,7 +1,8 @@
 var a23756 =
 [
-    [ "FilterTargets", "d6/d42/a23756.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d6/d42/a23756.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d6/d42/a23756.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d6/d42/a23756.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d6/d42/a23756.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d6/d42/a23756.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d6/d42/a23756.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d6/d42/a23756.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d6/d42/a23756.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

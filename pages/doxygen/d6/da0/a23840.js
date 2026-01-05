@@ -1,16 +1,8 @@
 var a23840 =
 [
-    [ "npc_millhouse_manastormAI", "d6/da0/a23840.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
-    [ "AttackStart", "d6/da0/a23840.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
-    [ "DamageTaken", "d6/da0/a23840.html#a30ed336d552596211b3bfc316d223968", null ],
-    [ "InitializeAI", "d6/da0/a23840.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
-    [ "JustDied", "d6/da0/a23840.html#aaa22ed7812600c1670d12d6887d316d6", null ],
-    [ "JustEngagedWith", "d6/da0/a23840.html#a5e643192572f29f954a31b7b949f6525", null ],
-    [ "KilledUnit", "d6/da0/a23840.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
-    [ "Reset", "d6/da0/a23840.html#a74076048ea382816fa9c98a0d759af46", null ],
-    [ "UpdateAI", "d6/da0/a23840.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
-    [ "_usedIceblock", "d6/da0/a23840.html#af0ce341df018dafdce89f75fcb9f0063", null ],
-    [ "events", "d6/da0/a23840.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
-    [ "events2", "d6/da0/a23840.html#ac762ce5981457cbcf6ec73236bab2486", null ],
-    [ "instance", "d6/da0/a23840.html#aff28c68ed9575440f5732df855ab4372", null ]
+    [ "HandleDummyApply", "d6/da0/a23840.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d6/da0/a23840.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d6/da0/a23840.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d6/da0/a23840.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d6/da0/a23840.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

@@ -1,6 +1,9 @@
 var a25388 =
 [
-    [ "HandleCast", "da/dc8/a25388.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "da/dc8/a25388.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "da/dc8/a25388.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "PrepareAuraScript", "da/dc8/a25388.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "da/dc8/a25388.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "da/dc8/a25388.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "da/dc8/a25388.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "da/dc8/a25388.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "da/dc8/a25388.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

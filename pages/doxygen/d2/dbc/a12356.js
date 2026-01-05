@@ -1,5 +1,6 @@
 var a12356 =
 [
-    [ "at_dragonspire_hall", "d2/dbc/a12356.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d2/dbc/a12356.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "npc_blackhand_incarceratorAI", "de/dc4/a12360.html", "de/dc4/a12360" ],
+    [ "npc_blackhand_incarcerator", "d2/dbc/a12356.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "d2/dbc/a12356.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

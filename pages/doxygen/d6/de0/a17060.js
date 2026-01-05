@@ -1,6 +1,6 @@
 var a17060 =
 [
-    [ "npc_shadowy_mercenaryAI", "da/dce/a17064.html", "da/dce/a17064" ],
-    [ "npc_shadowy_mercenary", "d6/de0/a17060.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
-    [ "GetAI", "d6/de0/a17060.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
+    [ "boss_devourer_of_soulsAI", "da/dce/a17064.html", "da/dce/a17064" ],
+    [ "boss_devourer_of_souls", "d6/de0/a17060.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "d6/de0/a17060.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

@@ -1,5 +1,5 @@
 var a21224 =
 [
-    [ "npc_salvaged_siege_engine", "d4/d0c/a21224.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d4/d0c/a21224.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d4/d0c/a21224.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d4/d0c/a21224.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

@@ -1,6 +1,8 @@
 var a24652 =
 [
-    [ "PrepareSpellScript", "da/d97/a24652.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "da/d97/a24652.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "da/d97/a24652.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "npc_pet_gen_wind_rider_cub", "da/d97/a24652.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "da/d97/a24652.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "da/d97/a24652.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "da/d97/a24652.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "da/d97/a24652.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

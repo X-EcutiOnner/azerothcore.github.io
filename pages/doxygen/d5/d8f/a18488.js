@@ -1,6 +1,6 @@
 var a18488 =
 [
-    [ "npc_valkyr_shadowguardAI", "d6/d50/a18492.html", "d6/d50/a18492" ],
-    [ "npc_valkyr_shadowguard", "d5/d8f/a18488.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "d5/d8f/a18488.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "npc_tirion_fordringAI", "d6/d50/a18492.html", "d6/d50/a18492" ],
+    [ "npc_tirion_fordring_tft", "d5/d8f/a18488.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d5/d8f/a18488.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

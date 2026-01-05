@@ -1,18 +1,16 @@
 var a15208 =
 [
-    [ "boss_ossirian", "d6/db3/a15208.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
-    [ "InitializeAI", "d6/db3/a15208.html#a76731e2594cfadf5305d8abc502f665a", null ],
-    [ "JustEngagedWith", "d6/db3/a15208.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
-    [ "JustSummoned", "d6/db3/a15208.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
-    [ "KilledUnit", "d6/db3/a15208.html#a716acecfc8e38eb663557fafb56719fd", null ],
-    [ "MoveInLineOfSight", "d6/db3/a15208.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
-    [ "Reset", "d6/db3/a15208.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "d6/db3/a15208.html#a87369e8995c096301908ec209e17b274", null ],
-    [ "SpawnNextCrystal", "d6/db3/a15208.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
-    [ "SpellHit", "d6/db3/a15208.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
-    [ "SummonedCreatureDespawn", "d6/db3/a15208.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
-    [ "UpdateAI", "d6/db3/a15208.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
-    [ "_crystalIterator", "d6/db3/a15208.html#adc049248fa851c954d5fcbf643d47c16", null ],
-    [ "_firstCrystalGUID", "d6/db3/a15208.html#a498d562d4ceeaecc6a01047bc4559235", null ],
-    [ "_saidIntro", "d6/db3/a15208.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
+    [ "npc_belnistraszAI", "d6/db3/a15208.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
+    [ "JustDied", "d6/db3/a15208.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
+    [ "JustEngagedWith", "d6/db3/a15208.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
+    [ "MovementInform", "d6/db3/a15208.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
+    [ "Reset", "d6/db3/a15208.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
+    [ "sQuestAccept", "d6/db3/a15208.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
+    [ "UpdateAI", "d6/db3/a15208.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
+    [ "channeling", "d6/db3/a15208.html#a88ff13ec705d11475de5a2080998c905", null ],
+    [ "eventInProgress", "d6/db3/a15208.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
+    [ "eventProgress", "d6/db3/a15208.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
+    [ "events", "d6/db3/a15208.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
+    [ "instance", "d6/db3/a15208.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
+    [ "spawnerCount", "d6/db3/a15208.html#aa5124160ecba044a3752f68945068776", null ]
 ];

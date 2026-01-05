@@ -1,10 +1,23 @@
 var a09972 =
 [
-    [ "ChaseRange", "db/dfc/a09972.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "db/dfc/a09972.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "db/dfc/a09972.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "db/dfc/a09972.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "db/dfc/a09972.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "db/dfc/a09972.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "db/dfc/a09972.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "TransportMgr", "db/dfc/a09972.html#a864650522d61689f4915228165849d38", null ],
+    [ "~TransportMgr", "db/dfc/a09972.html#a3804895a34944bf7971b27f6069e4e33", null ],
+    [ "TransportMgr", "db/dfc/a09972.html#a6aff0c119db7cd54732955f684acfab4", null ],
+    [ "AddPathNodeToTransport", "db/dfc/a09972.html#aac45c48421abd6a85bddf4b2570807dc", null ],
+    [ "AddPathRotationToTransport", "db/dfc/a09972.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8", null ],
+    [ "CreateInstanceTransports", "db/dfc/a09972.html#a818028f54e44fd23ca0afecccf44ccba", null ],
+    [ "CreateTransport", "db/dfc/a09972.html#a7e0ba6cf10e10a6aeca1f683bbf7e755", null ],
+    [ "GeneratePath", "db/dfc/a09972.html#afd703e2da6667f5499e75eb6c85c4fec", null ],
+    [ "GetTransportAnimInfo", "db/dfc/a09972.html#a205be05963bc790f64ed5bfac58a87e2", null ],
+    [ "GetTransportTemplate", "db/dfc/a09972.html#a93ea26ec255ff5be114b3c0779ae894f", null ],
+    [ "instance", "db/dfc/a09972.html#a843726202931931587280fefd703cff8", null ],
+    [ "LoadTransportTemplates", "db/dfc/a09972.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
+    [ "operator=", "db/dfc/a09972.html#accb329967e8129ddcf857ecb6269c4d5", null ],
+    [ "PreloadGridsFromQuery", "db/dfc/a09972.html#abbb04cc2b20a061c8044735cd1db7446", null ],
+    [ "SpawnContinentTransports", "db/dfc/a09972.html#afff76c3893f5a76d83d48f0074e77349", null ],
+    [ "Unload", "db/dfc/a09972.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
+    [ "LoadDBCStores", "db/dfc/a09972.html#a0bbf145faec5eed353431235243dbcbf", null ],
+    [ "_instanceTransports", "db/dfc/a09972.html#a97799b68a08a24beb14abd4fae1468d1", null ],
+    [ "_transportAnimations", "db/dfc/a09972.html#a4dc2def28c51bfa78fdf01aaa25e40ae", null ],
+    [ "_transportTemplates", "db/dfc/a09972.html#a0b89cc26375f14eb4bb5f8b0d1722f8f", null ]
 ];

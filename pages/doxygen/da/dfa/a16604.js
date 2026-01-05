@@ -1,6 +1,8 @@
 var a16604 =
 [
-    [ "npc_toc_shadow_priestAI", "db/dc0/a16608.html", "db/dc0/a16608" ],
-    [ "npc_toc_shadow_priest", "da/dfa/a16604.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "da/dfa/a16604.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_announcer_toc5AI", "da/dfa/a16604.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "da/dfa/a16604.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "da/dfa/a16604.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "da/dfa/a16604.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "da/dfa/a16604.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

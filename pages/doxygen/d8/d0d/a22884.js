@@ -1,12 +1,12 @@
 var a22884 =
 [
-    [ "npc_maiev_illidan", "d8/d0d/a22884.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "d8/d0d/a22884.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "d8/d0d/a22884.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "d8/d0d/a22884.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "d8/d0d/a22884.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "d8/d0d/a22884.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "d8/d0d/a22884.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "d8/d0d/a22884.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "d8/d0d/a22884.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "boss_anzu", "d8/d0d/a22884.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d8/d0d/a22884.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d8/d0d/a22884.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d8/d0d/a22884.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d8/d0d/a22884.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d8/d0d/a22884.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d8/d0d/a22884.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d8/d0d/a22884.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d8/d0d/a22884.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

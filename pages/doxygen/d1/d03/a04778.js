@@ -1,9 +1,6 @@
 var a04778 =
 [
-    [ "getAngle", "d1/d03/a04778.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "d1/d03/a04778.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "d1/d03/a04778.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "d1/d03/a04778.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "d1/d03/a04778.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "d1/d03/a04778.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "mean", "d1/d03/a04778.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "d1/d03/a04778.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "d1/d03/a04778.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

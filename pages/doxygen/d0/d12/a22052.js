@@ -1,8 +1,12 @@
 var a22052 =
 [
-    [ "OnRemove", "d0/d12/a22052.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d0/d12/a22052.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d0/d12/a22052.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d0/d12/a22052.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d0/d12/a22052.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d0/d12/a22052.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d0/d12/a22052.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d0/d12/a22052.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d0/d12/a22052.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d0/d12/a22052.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d0/d12/a22052.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d0/d12/a22052.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d0/d12/a22052.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d0/d12/a22052.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

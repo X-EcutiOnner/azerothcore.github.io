@@ -1,5 +1,7 @@
 var a16916 =
 [
-    [ "achievement_consumption_junction", "d6/d47/a16916.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "d6/d47/a16916.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "HandleEffectPeriodic", "d6/d47/a16916.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d6/d47/a16916.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d6/d47/a16916.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d6/d47/a16916.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

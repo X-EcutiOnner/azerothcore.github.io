@@ -1,5 +1,5 @@
 var a13960 =
 [
-    [ "npc_andorhal_towerAI", "d4/d8c/a13960.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "d4/d8c/a13960.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "npc_king_varian_wrynn", "d4/d8c/a13960.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "d4/d8c/a13960.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

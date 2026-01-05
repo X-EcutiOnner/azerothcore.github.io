@@ -1,11 +1,13 @@
 var a15564 =
 [
-    [ "npc_kerlonianAI", "d3/d25/a15564.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d3/d25/a15564.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d3/d25/a15564.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d3/d25/a15564.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d3/d25/a15564.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d3/d25/a15564.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d3/d25/a15564.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d3/d25/a15564.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d3/d25/a15564.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "d3/d25/a15564.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "d3/d25/a15564.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "d3/d25/a15564.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "d3/d25/a15564.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "d3/d25/a15564.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "d3/d25/a15564.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "d3/d25/a15564.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "d3/d25/a15564.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "d3/d25/a15564.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

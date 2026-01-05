@@ -1,6 +1,6 @@
 var a20332 =
 [
-    [ "boss_hodirAI", "d4/d90/a20336.html", "d4/d90/a20336" ],
-    [ "boss_hodir", "d9/df0/a20332.html#a5740f489f57380d2633a8ee5a18de339", null ],
-    [ "GetAI", "d9/df0/a20332.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
+    [ "achievement_freya_knock_on_wood", "d9/df0/a20332.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d9/df0/a20332.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d9/df0/a20332.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

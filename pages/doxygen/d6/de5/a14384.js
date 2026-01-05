@@ -1,7 +1,6 @@
 var a14384 =
 [
-    [ "FilterTargets", "d6/de5/a14384.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "d6/de5/a14384.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "d6/de5/a14384.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "d6/de5/a14384.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "boss_renatakiAI", "d9/df5/a14388.html", "d9/df5/a14388" ],
+    [ "boss_renataki", "d6/de5/a14384.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d6/de5/a14384.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

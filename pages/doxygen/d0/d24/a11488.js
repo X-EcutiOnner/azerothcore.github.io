@@ -1,6 +1,7 @@
 var a11488 =
 [
-    [ "CheckAreaTargetHandler", "d0/d24/a11488.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d0/d24/a11488.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d0/d24/a11488.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "CategoryRecoveryTime", "d0/d24/a11488.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d0/d24/a11488.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d0/d24/a11488.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d0/d24/a11488.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

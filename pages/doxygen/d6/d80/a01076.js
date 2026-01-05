@@ -1,7 +1,7 @@
 var a01076 =
 [
-    [ "ChannelMgr", "d0/df8/a07571.html", "d0/df8/a07571" ],
-    [ "AllianceChannelMgr", "da/db4/a07575.html", "da/db4/a07575" ],
-    [ "HordeChannelMgr", "de/de7/a07579.html", "de/de7/a07579" ],
-    [ "MAX_CHANNEL_PASS_STR", "d6/d80/a01076.html#a06f16ee81d2214d67575f108b76f6333", null ]
+    [ "OutdoorPvPData", "d0/df4/a10220.html", "d0/df4/a10220" ],
+    [ "OutdoorPvPMgr", "d1/dc1/a10224.html", "d1/dc1/a10224" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "d6/d80/a01076.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "d6/d80/a01076.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

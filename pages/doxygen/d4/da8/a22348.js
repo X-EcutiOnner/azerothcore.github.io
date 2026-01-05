@@ -1,6 +1,6 @@
 var a22348 =
 [
-    [ "npc_bushwhackerAI", "d4/da8/a22348.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d4/da8/a22348.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d4/da8/a22348.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_guardian_pavilionAI", "d9/d0b/a22352.html", "d9/d0b/a22352" ],
+    [ "npc_guardian_pavilion", "d4/da8/a22348.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d4/da8/a22348.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

@@ -1,6 +1,6 @@
 var a25868 =
 [
-    [ "FilterTargets", "df/d49/a25868.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "df/d49/a25868.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "df/d49/a25868.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "OnRemove", "df/d49/a25868.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "df/d49/a25868.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "df/d49/a25868.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

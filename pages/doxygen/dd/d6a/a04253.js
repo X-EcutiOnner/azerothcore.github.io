@@ -1,22 +1,16 @@
 var a04253 =
 [
-    [ "WMO::MODS", "de/d24/a29135.html", "de/d24/a29135" ],
-    [ "WMO::MODD", "db/db0/a29139.html", "db/db0/a29139" ],
-    [ "WMODoodadData", "d7/d55/a29143.html", "d7/d55/a29143" ],
-    [ "WMORoot", "d6/d1a/a29147.html", "d6/d1a/a29147" ],
-    [ "WMOLiquidHeader", "d0/d29/a29151.html", "d0/d29/a29151" ],
-    [ "WMOLiquidVert", "da/de5/a29155.html", "da/de5/a29155" ],
-    [ "WMOGroup", "d9/d34/a29159.html", "d9/d34/a29159" ],
-    [ "MopyFlags", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3da", [
-      [ "WHO_MATERIAL_UNK01", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b", null ],
-      [ "WMO_MATERIAL_NOCAMCOLLIDE", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6", null ],
-      [ "WMO_MATERIAL_DETAIL", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20", null ],
-      [ "WMO_MATERIAL_COLLISION", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192", null ],
-      [ "WMO_MATERIAL_HINT", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2", null ],
-      [ "WMO_MATERIAL_RENDER", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc", null ],
-      [ "WMO_MATERIAL_WALL_SURFACE", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a", null ],
-      [ "WMO_MATERIAL_COLLIDE_HIT", "dd/d6a/a04253.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885", null ]
+    [ "ModelFlags", "dd/d6a/a04253.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
+      [ "MOD_M2", "dd/d6a/a04253.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
+      [ "MOD_WORLDSPAWN", "dd/d6a/a04253.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
+      [ "MOD_HAS_BOUND", "dd/d6a/a04253.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
     ] ],
-    [ "Extract", "dd/d6a/a04253.html#a9148b3ef5b412564a285737b0bd104dd", null ],
-    [ "fixCoords", "dd/d6a/a04253.html#ab265837fe64577975f97318431c69e9c", null ]
+    [ "ExtractGameobjectModels", "dd/d6a/a04253.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
+    [ "ExtractSingleModel", "dd/d6a/a04253.html#a6a96194f748b715f0400249583336ae5", null ],
+    [ "ExtractSingleWmo", "dd/d6a/a04253.html#afc9839262206eb10094c1769141ae146", null ],
+    [ "FileExists", "dd/d6a/a04253.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "GenerateUniqueObjectId", "dd/d6a/a04253.html#a6a3d179f34597554b17a122f27cd6be5", null ],
+    [ "strToLower", "dd/d6a/a04253.html#ac9e88429cc2168db83793cb7074bc69f", null ],
+    [ "szWorkDirWmo", "dd/d6a/a04253.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
+    [ "WmoDoodads", "dd/d6a/a04253.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

@@ -1,4 +1,5 @@
 var a04364 =
 [
-    [ "AuthCrypt", "d3/dd2/a05215.html", "d3/dd2/a05215" ]
+    [ "SessionKey", "d3/dd1/a04364.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
+    [ "SESSION_KEY_LENGTH", "d3/dd1/a04364.html#accf22e06a217bb405f0ee6f240d2e263", null ]
 ];

@@ -1,7 +1,6 @@
 var a13640 =
 [
-    [ "PeriodicTick", "d5/d25/a13640.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "d5/d25/a13640.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "d5/d25/a13640.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "d5/d25/a13640.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "FixOrientation", "d5/d25/a13640.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d5/d25/a13640.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d5/d25/a13640.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

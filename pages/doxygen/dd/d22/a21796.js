@@ -1,9 +1,6 @@
 var a21796 =
 [
-    [ "npc_counselor_talbotAI", "dd/d22/a21796.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "dd/d22/a21796.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "dd/d22/a21796.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "dd/d22/a21796.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "dd/d22/a21796.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "dd/d22/a21796.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d6/dd8/a21800.html", "d6/dd8/a21800" ],
+    [ "npc_valiance_keep_cannoneer", "dd/d22/a21796.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "dd/d22/a21796.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

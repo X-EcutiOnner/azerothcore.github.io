@@ -1,7 +1,7 @@
 var a17024 =
 [
-    [ "OnRemove", "d3/d71/a17024.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d3/d71/a17024.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d3/d71/a17024.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d3/d71/a17024.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "HandleScriptEffect", "d3/d71/a17024.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d3/d71/a17024.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d3/d71/a17024.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d3/d71/a17024.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

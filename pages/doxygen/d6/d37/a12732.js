@@ -1,6 +1,7 @@
 var a12732 =
 [
-    [ "boss_mr_smiteAI", "d5/d61/a12736.html", "d5/d61/a12736" ],
-    [ "boss_mr_smite", "d6/d37/a12732.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d6/d37/a12732.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "HandleHit", "d6/d37/a12732.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d6/d37/a12732.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d6/d37/a12732.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d6/d37/a12732.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

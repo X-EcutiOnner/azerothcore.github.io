@@ -1,5 +1,6 @@
 var a27244 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d2/d43/a27244.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d2/d43/a27244.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "FilterTargets", "d2/d43/a27244.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d2/d43/a27244.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d2/d43/a27244.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

@@ -1,4 +1,5 @@
 var a28428 =
 [
-    [ "ratio", "de/ded/a28428.html#a614fdab0bf0be8c91775b49d020cdc7c", null ]
+    [ "ID", "de/ded/a28428.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "de/ded/a28428.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

@@ -1,6 +1,7 @@
 var a21080 =
 [
-    [ "boss_yoggsaron_voiceAI", "d3/d3a/a21084.html", "d3/d3a/a21084" ],
-    [ "boss_yoggsaron_voice", "d6/dd0/a21080.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "d6/dd0/a21080.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d6/dd0/a21080.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "d6/dd0/a21080.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "d6/dd0/a21080.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "d6/dd0/a21080.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

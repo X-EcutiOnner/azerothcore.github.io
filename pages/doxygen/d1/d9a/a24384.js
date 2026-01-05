@@ -1,6 +1,7 @@
 var a24384 =
 [
-    [ "npc_enraged_spiritAI", "de/d7c/a24388.html", "de/d7c/a24388" ],
-    [ "npc_enraged_spirit", "d1/d9a/a24384.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d1/d9a/a24384.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "HandleScriptEffect", "d1/d9a/a24384.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d1/d9a/a24384.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d1/d9a/a24384.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d1/d9a/a24384.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

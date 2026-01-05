@@ -1,7 +1,7 @@
 var a23552 =
 [
-    [ "npc_underbog_mushroom", "d0/dff/a23552.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d0/dff/a23552.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d0/dff/a23552.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d0/dff/a23552.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "PeriodicTick", "d0/dff/a23552.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "d0/dff/a23552.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "d0/dff/a23552.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "d0/dff/a23552.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

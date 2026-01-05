@@ -1,9 +1,11 @@
 var a13264 =
 [
-    [ "npc_risen_guardianAI", "dd/dda/a13264.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "dd/dda/a13264.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "dd/dda/a13264.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "dd/dda/a13264.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "dd/dda/a13264.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "dd/dda/a13264.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_a_special_surpriseAI", "dd/dda/a13264.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "dd/dda/a13264.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "dd/dda/a13264.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "dd/dda/a13264.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "dd/dda/a13264.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "dd/dda/a13264.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "dd/dda/a13264.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "dd/dda/a13264.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

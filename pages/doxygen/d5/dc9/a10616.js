@@ -1,6 +1,5 @@
 var a10616 =
 [
-    [ "GuildCreate", "d5/dc9/a10616.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d5/dc9/a10616.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d5/dc9/a10616.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "PlayerLogout", "d5/dc9/a10616.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
+    [ "Read", "d5/dc9/a10616.html#accbe1ced6a10ea2fa699df5e74575795", null ]
 ];

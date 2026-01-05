@@ -1,14 +1,10 @@
 var a07568 =
 [
-    [ "FilteredCommandListIterator", "dd/df0/a07568.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "dd/df0/a07568.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "dd/df0/a07568.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "dd/df0/a07568.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "dd/df0/a07568.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "dd/df0/a07568.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "dd/df0/a07568.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "dd/df0/a07568.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "dd/df0/a07568.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "dd/df0/a07568.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "dd/df0/a07568.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "ChannelRights", "dd/df0/a07568.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
+    [ "ChannelRights", "dd/df0/a07568.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
+    [ "flags", "dd/df0/a07568.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
+    [ "joinMessage", "dd/df0/a07568.html#af8797ef8c642f3a954b1581fb54ed545", null ],
+    [ "moderators", "dd/df0/a07568.html#ac80f92b9e633bf309970179b32e29cee", null ],
+    [ "speakDelay", "dd/df0/a07568.html#a9883582d36b8cc67ab5d649670441000", null ],
+    [ "speakMessage", "dd/df0/a07568.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
 ];

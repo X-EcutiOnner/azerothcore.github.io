@@ -1,5 +1,6 @@
 var a20004 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d8/d65/a20004.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d8/d65/a20004.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "npc_assembly_lightningAI", "d2/d21/a20008.html", "d2/d21/a20008" ],
+    [ "npc_assembly_lightning", "d8/d65/a20004.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
+    [ "GetAI", "d8/d65/a20004.html#a4054ea8bb68b2742847b359e19b477df", null ]
 ];

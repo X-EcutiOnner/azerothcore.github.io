@@ -1,7 +1,10 @@
 var a23472 =
 [
-    [ "HandleScriptEffect", "dd/df8/a23472.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "dd/df8/a23472.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "dd/df8/a23472.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "dd/df8/a23472.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "boss_morogrim_tidewalker", "dd/df8/a23472.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "dd/df8/a23472.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "dd/df8/a23472.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "dd/df8/a23472.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "dd/df8/a23472.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "dd/df8/a23472.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "dd/df8/a23472.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

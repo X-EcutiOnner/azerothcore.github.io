@@ -1,6 +1,7 @@
 var a16652 =
 [
-    [ "npc_toc_dkAI", "d9/d6e/a16656.html", "d9/d6e/a16656" ],
-    [ "npc_toc_dk", "d4/d21/a16652.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "d4/d21/a16652.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "HandleEffectPeriodic", "d4/d21/a16652.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d4/d21/a16652.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d4/d21/a16652.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d4/d21/a16652.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

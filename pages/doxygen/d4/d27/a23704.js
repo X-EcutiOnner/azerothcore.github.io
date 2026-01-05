@@ -1,14 +1,11 @@
 var a23704 =
 [
-    [ "boss_vazruden", "d4/d27/a23704.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "d4/d27/a23704.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "d4/d27/a23704.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "d4/d27/a23704.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "d4/d27/a23704.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "d4/d27/a23704.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "d4/d27/a23704.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "d4/d27/a23704.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "d4/d27/a23704.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "d4/d27/a23704.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "d4/d27/a23704.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "boss_gruul", "d4/d27/a23704.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d4/d27/a23704.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d4/d27/a23704.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d4/d27/a23704.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d4/d27/a23704.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d4/d27/a23704.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d4/d27/a23704.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "d4/d27/a23704.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

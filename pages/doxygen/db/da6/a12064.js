@@ -1,7 +1,12 @@
 var a12064 =
 [
-    [ "npc_rocknotAI", "d5/d09/a12068.html", "d5/d09/a12068" ],
-    [ "npc_rocknot", "db/da6/a12064.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
-    [ "GetAI", "db/da6/a12064.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
-    [ "OnQuestReward", "db/da6/a12064.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
+    [ "wp_commandscript", "db/da6/a12064.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "db/da6/a12064.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "db/da6/a12064.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "db/da6/a12064.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "db/da6/a12064.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "db/da6/a12064.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "db/da6/a12064.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "db/da6/a12064.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "db/da6/a12064.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

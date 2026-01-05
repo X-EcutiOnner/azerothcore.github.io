@@ -1,6 +1,5 @@
 var a10452 =
 [
-    [ "WeatherScript", "d6/da4/a10452.html#a4f86b051364c95f5389d7ed473429b7b", null ],
-    [ "IsDatabaseBound", "d6/da4/a10452.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "d6/da4/a10452.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "MovementHandlerScript", "d6/da4/a10452.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d6/da4/a10452.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

@@ -1,10 +1,10 @@
 var a08668 =
 [
-    [ "Index", "dd/df9/a08668.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "dd/df9/a08668.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "dd/df9/a08668.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "dd/df9/a08668.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "dd/df9/a08668.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "dd/df9/a08668.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "EquipmentSet", "dd/df9/a08668.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "dd/df9/a08668.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "dd/df9/a08668.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "dd/df9/a08668.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "dd/df9/a08668.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "dd/df9/a08668.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "dd/df9/a08668.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

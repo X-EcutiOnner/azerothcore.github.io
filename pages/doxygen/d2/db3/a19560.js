@@ -1,6 +1,5 @@
 var a19560 =
 [
-    [ "npc_oculus_unstable_sphereAI", "dc/d58/a19564.html", "dc/d58/a19564" ],
-    [ "npc_oculus_unstable_sphere", "d2/db3/a19560.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d2/db3/a19560.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "go_the_focusing_iris", "d2/db3/a19560.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
+    [ "OnGossipHello", "d2/db3/a19560.html#a7f3f1170713d63f912ca5732453a7e33", null ]
 ];

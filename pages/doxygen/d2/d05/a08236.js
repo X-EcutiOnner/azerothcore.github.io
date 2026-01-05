@@ -1,19 +1,13 @@
 var a08236 =
 [
-    [ "PetInfo", "d2/d05/a08236.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
-    [ "ActionBar", "d2/d05/a08236.html#affe10e9845d23f597df23ed271d91039", null ],
-    [ "CreatedBySpellId", "d2/d05/a08236.html#a40d2f28579271de9b1533b5d412fecbb", null ],
-    [ "CreatureId", "d2/d05/a08236.html#a879009caeaa61fdef801db178599197e", null ],
-    [ "DisplayId", "d2/d05/a08236.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
-    [ "Experience", "d2/d05/a08236.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
-    [ "Happiness", "d2/d05/a08236.html#a39ee3606989e65fc284a6701482c2aa9", null ],
-    [ "Health", "d2/d05/a08236.html#a5e0835afbf2f396e8030236484984628", null ],
-    [ "LastSaveTime", "d2/d05/a08236.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
-    [ "Level", "d2/d05/a08236.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
-    [ "Mana", "d2/d05/a08236.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
-    [ "Name", "d2/d05/a08236.html#adb037d9f6d2606baa469c5c63385476a", null ],
-    [ "PetNumber", "d2/d05/a08236.html#af57645f36ae45c0045abe991419b797d", null ],
-    [ "ReactState", "d2/d05/a08236.html#ad7cd098ff265de389412626fad6d6d6f", null ],
-    [ "Type", "d2/d05/a08236.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
-    [ "WasRenamed", "d2/d05/a08236.html#a98827cf01b6f610692fe4295582ead34", null ]
+    [ "AnimationInfo", "d2/d05/a08236.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "d2/d05/a08236.html#a77ff98e13c5152e74701c236bbd9439a", null ],
+    [ "CapturePoint", "d2/d05/a08236.html#a6d1cf65fb52fa2dd983b0e768ba6a533", null ],
+    [ "FishingHole", "d2/d05/a08236.html#a9f5207745bfdc5d0fcdd09fe2429ac95", null ],
+    [ "Health", "d2/d05/a08236.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "d2/d05/a08236.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "d2/d05/a08236.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "d2/d05/a08236.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "d2/d05/a08236.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "Transport", "d2/d05/a08236.html#aba7d64e566577c0b9ea05c0bed5d4fa8", null ]
 ];

@@ -1,5 +1,7 @@
 var a10552 =
 [
-    [ "LogoutRequest", "d4/d05/a10552.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "d4/d05/a10552.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "AutoBankItem", "d4/d05/a10552.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "d4/d05/a10552.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "d4/d05/a10552.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "d4/d05/a10552.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

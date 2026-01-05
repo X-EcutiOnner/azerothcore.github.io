@@ -1,7 +1,6 @@
 var a24212 =
 [
-    [ "npc_maghar_captiveAI", "d3/d51/a24216.html", "d3/d51/a24216" ],
-    [ "npc_maghar_captive", "d9/d18/a24212.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d9/d18/a24212.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d9/d18/a24212.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_nether_drakeAI", "d3/d51/a24216.html", "d3/d51/a24216" ],
+    [ "npc_nether_drake", "d9/d18/a24212.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d9/d18/a24212.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

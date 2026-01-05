@@ -1,8 +1,12 @@
 var a23660 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "dc/dbf/a23660.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "dc/dbf/a23660.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "dc/dbf/a23660.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "dc/dbf/a23660.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "dc/dbf/a23660.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_swamplord_muselek", "dc/dbf/a23660.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
+    [ "AttackStart", "dc/dbf/a23660.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
+    [ "CanShootVictim", "dc/dbf/a23660.html#af84af5e4b344fc5f5da9f2047519710a", null ],
+    [ "JustDied", "dc/dbf/a23660.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
+    [ "JustEngagedWith", "dc/dbf/a23660.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
+    [ "KilledUnit", "dc/dbf/a23660.html#a9f2afd6aacb9befa956079a42fbace37", null ],
+    [ "Reset", "dc/dbf/a23660.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
+    [ "_canChase", "dc/dbf/a23660.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
+    [ "_markTarget", "dc/dbf/a23660.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
 ];

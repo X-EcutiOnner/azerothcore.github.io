@@ -1,12 +1,14 @@
 var a22788 =
 [
-    [ "boss_anzu", "dc/dab/a22788.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "dc/dab/a22788.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "dc/dab/a22788.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "dc/dab/a22788.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "dc/dab/a22788.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "dc/dab/a22788.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "dc/dab/a22788.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "dc/dab/a22788.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "dc/dab/a22788.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "OutdoorPvPNA", "dc/dab/a22788.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "dc/dab/a22788.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "dc/dab/a22788.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "dc/dab/a22788.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "dc/dab/a22788.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "dc/dab/a22788.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "dc/dab/a22788.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "dc/dab/a22788.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "dc/dab/a22788.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "dc/dab/a22788.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "dc/dab/a22788.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

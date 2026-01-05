@@ -1,8 +1,8 @@
 var a27904 =
 [
-    [ "npc_minion_spawner", "d3/d62/a27904.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d3/d62/a27904.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d3/d62/a27904.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d3/d62/a27904.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d3/d62/a27904.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_wormholeAI", "da/df2/a27908.html", "da/df2/a27908" ],
+    [ "npc_wormhole", "d3/d62/a27904.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d3/d62/a27904.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d3/d62/a27904.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d3/d62/a27904.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

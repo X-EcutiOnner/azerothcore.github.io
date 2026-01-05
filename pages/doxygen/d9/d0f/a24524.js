@@ -1,6 +1,7 @@
 var a24524 =
 [
-    [ "achievement", "d9/d0f/a24524.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d9/d0f/a24524.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d9/d0f/a24524.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_kservantAI", "d9/d0f/a24524.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d9/d0f/a24524.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d9/d0f/a24524.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d9/d0f/a24524.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

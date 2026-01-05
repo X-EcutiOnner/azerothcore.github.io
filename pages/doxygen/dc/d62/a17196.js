@@ -1,7 +1,5 @@
 var a17196 =
 [
-    [ "HandlePeriodicTick", "dc/d62/a17196.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "dc/d62/a17196.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "dc/d62/a17196.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "dc/d62/a17196.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "at_hor_shadow_throne", "dc/d62/a17196.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "dc/d62/a17196.html#a0166b1a58f4171c4d9893010df5831c4", null ]
 ];

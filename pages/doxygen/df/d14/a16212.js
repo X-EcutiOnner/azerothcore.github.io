@@ -1,6 +1,6 @@
 var a16212 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "de/d9f/a16216.html", "de/d9f/a16216" ],
-    [ "npc_baltharus_the_warborn_clone", "df/d14/a16212.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "df/d14/a16212.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "instance_azjol_nerub_InstanceScript", "df/d14/a16212.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "df/d14/a16212.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "df/d14/a16212.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

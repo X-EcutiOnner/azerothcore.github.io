@@ -1,6 +1,7 @@
 var a25276 =
 [
-    [ "HandleScriptEffect", "df/ddd/a25276.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "df/ddd/a25276.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "df/ddd/a25276.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "HandleEffectApply", "df/ddd/a25276.html#a65ad32ded4246c3469f15b6ab167830e", null ],
+    [ "HandleEffectRemove", "df/ddd/a25276.html#a8aab4a5dab173bd0296843a0c2991142", null ],
+    [ "PrepareAuraScript", "df/ddd/a25276.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
+    [ "Register", "df/ddd/a25276.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
 ];

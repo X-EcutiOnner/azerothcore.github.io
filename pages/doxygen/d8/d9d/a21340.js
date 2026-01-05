@@ -1,6 +1,6 @@
 var a21340 =
 [
-    [ "boss_svalaAI", "da/da5/a21344.html", "da/da5/a21344" ],
-    [ "boss_svala", "d8/d9d/a21340.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d8/d9d/a21340.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "boss_palehoofAI", "da/da5/a21344.html", "da/da5/a21344" ],
+    [ "boss_palehoof", "d8/d9d/a21340.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "d8/d9d/a21340.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

@@ -1,6 +1,7 @@
 var a17980 =
 [
-    [ "npc_bone_spikeAI", "d4/d15/a17984.html", "d4/d15/a17984" ],
-    [ "npc_bone_spike", "d0/d72/a17980.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d0/d72/a17980.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "DamageGunship", "d0/d72/a17980.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "d0/d72/a17980.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "d0/d72/a17980.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "d0/d72/a17980.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

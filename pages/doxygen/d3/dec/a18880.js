@@ -1,6 +1,7 @@
 var a18880 =
 [
-    [ "HandleEvent", "d3/dec/a18880.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d3/dec/a18880.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d3/dec/a18880.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_frost_freeze_trapAI", "d3/dec/a18880.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d3/dec/a18880.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d3/dec/a18880.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d3/dec/a18880.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

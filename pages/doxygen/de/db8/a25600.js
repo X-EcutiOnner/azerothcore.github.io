@@ -1,8 +1,9 @@
 var a25600 =
 [
-    [ "HandlePeriodic", "de/db8/a25600.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "de/db8/a25600.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "de/db8/a25600.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "de/db8/a25600.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "de/db8/a25600.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "spell_gen_translocate", "de/db8/a25600.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "de/db8/a25600.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "de/db8/a25600.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "de/db8/a25600.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "de/db8/a25600.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "de/db8/a25600.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

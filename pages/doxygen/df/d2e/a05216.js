@@ -1,22 +1,11 @@
 var a05216 =
 [
-    [ "Digest", "df/d2e/a05216.html#abf69027dd4096b1bda0e5d78fbceba05", null ],
-    [ "GenericHash", "df/d2e/a05216.html#a6eccaf97a504b613089a825baed128e6", null ],
-    [ "GenericHash", "df/d2e/a05216.html#a03d5bc2bc2e7366c407d95c5b84127d9", null ],
-    [ "GenericHash", "df/d2e/a05216.html#a2b50d27bb0e3c3f3ef22abee357f3194", null ],
-    [ "~GenericHash", "df/d2e/a05216.html#a15ef55147adf4d6957d62d9cc7e3544c", null ],
-    [ "Finalize", "df/d2e/a05216.html#a8dc1415e2f1211753059ba2569fa049e", null ],
-    [ "GetDigest", "df/d2e/a05216.html#ae1ea3a430fe6f5659cfd28f93e67dbea", null ],
-    [ "GetDigestOf", "df/d2e/a05216.html#a363f6b4b036fb006f43040183eff37a4", null ],
-    [ "GetDigestOf", "df/d2e/a05216.html#a42db9cd1a68778340bfdb7c7a8a049de", null ],
-    [ "operator=", "df/d2e/a05216.html#a9d3fab78ba706e1d71141d1baff733cb", null ],
-    [ "operator=", "df/d2e/a05216.html#aebfb39f72d9bd1e717f75d687ddad352", null ],
-    [ "UpdateData", "df/d2e/a05216.html#adbf1dbd8ed910f3a9ccd6c98d241085f", null ],
-    [ "UpdateData", "df/d2e/a05216.html#ae2a76339e35dfeb87c134db2ffcd84c9", null ],
-    [ "UpdateData", "df/d2e/a05216.html#a9f8078da8ab86b94c5bdb6f683094e76", null ],
-    [ "UpdateData", "df/d2e/a05216.html#ad09ad852820ff44378c09b245ae9e055", null ],
-    [ "UpdateData", "df/d2e/a05216.html#abe1705975eec03929bd7c603bb563d19", null ],
-    [ "_ctx", "df/d2e/a05216.html#a5a7d841e6fba7ae09705261fb0ca0228", null ],
-    [ "_digest", "df/d2e/a05216.html#a162b593f942b5a1f18468ad76e56816c", null ],
-    [ "DIGEST_LENGTH", "df/d2e/a05216.html#af6e4303fbffe4f52dec13026532f0a87", null ]
+    [ "ARC4", "df/d2e/a05216.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "df/d2e/a05216.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "df/d2e/a05216.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "df/d2e/a05216.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "df/d2e/a05216.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "df/d2e/a05216.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "df/d2e/a05216.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "df/d2e/a05216.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

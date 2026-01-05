@@ -1,6 +1,6 @@
 var a22048 =
 [
-    [ "HandleScriptEffect", "d0/d40/a22048.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "d0/d40/a22048.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "d0/d40/a22048.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d0/d12/a22052.html", "d0/d12/a22052" ],
+    [ "npc_q24545_wretched_ghoul", "d0/d40/a22048.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d0/d40/a22048.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

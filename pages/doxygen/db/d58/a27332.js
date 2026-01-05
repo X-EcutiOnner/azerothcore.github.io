@@ -1,7 +1,5 @@
 var a27332 =
 [
-    [ "npc_spirit_shadeAI", "db/d58/a27332.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "db/d58/a27332.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "db/d58/a27332.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "db/d58/a27332.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "achievement_sa_defense_of_the_ancients", "db/d58/a27332.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "db/d58/a27332.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

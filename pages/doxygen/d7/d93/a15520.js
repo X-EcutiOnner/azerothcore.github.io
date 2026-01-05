@@ -1,6 +1,6 @@
 var a15520 =
 [
-    [ "npc_death_ravagerAI", "d0/de7/a15524.html", "d0/de7/a15524" ],
-    [ "npc_death_ravager", "d7/d93/a15520.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "d7/d93/a15520.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "HandleDummy", "d7/d93/a15520.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "d7/d93/a15520.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "d7/d93/a15520.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

@@ -1,10 +1,6 @@
 var a14212 =
 [
-    [ "npc_batrider", "d0/d30/a14212.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d0/d30/a14212.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d0/d30/a14212.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d0/d30/a14212.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d0/d30/a14212.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d0/d30/a14212.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d0/d30/a14212.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_zulian_prowlerAI", "d4/d32/a14216.html", "d4/d32/a14216" ],
+    [ "npc_zulian_prowler", "d0/d30/a14212.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d0/d30/a14212.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

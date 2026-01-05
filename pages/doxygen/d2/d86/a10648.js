@@ -1,8 +1,6 @@
 var a10648 =
 [
-    [ "GuildCommandResult", "d2/d86/a10648.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d2/d86/a10648.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d2/d86/a10648.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d2/d86/a10648.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d2/d86/a10648.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "QueryGuildInfo", "d2/d86/a10648.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "d2/d86/a10648.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "d2/d86/a10648.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

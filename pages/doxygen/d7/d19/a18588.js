@@ -1,6 +1,6 @@
 var a18588 =
 [
-    [ "npc_lk_spirit_bombAI", "da/d46/a18592.html", "da/d46/a18592" ],
-    [ "npc_lk_spirit_bomb", "d7/d19/a18588.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d7/d19/a18588.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "ModDestHeight", "d7/d19/a18588.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d7/d19/a18588.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d7/d19/a18588.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

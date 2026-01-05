@@ -1,6 +1,9 @@
 var a21092 =
 [
-    [ "FilterTargets", "d7/dba/a21092.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d7/dba/a21092.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d7/dba/a21092.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_keeper", "d7/dba/a21092.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d7/dba/a21092.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d7/dba/a21092.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d7/dba/a21092.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d7/dba/a21092.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d7/dba/a21092.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

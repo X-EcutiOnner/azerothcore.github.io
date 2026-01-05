@@ -1,9 +1,12 @@
 var a15304 =
 [
-    [ "npc_claw_tentacle", "dc/d2b/a15304.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "dc/d2b/a15304.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "dc/d2b/a15304.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "dc/d2b/a15304.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "dc/d2b/a15304.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "dc/d2b/a15304.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "npc_anubisath_guardian", "dc/d2b/a15304.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "dc/d2b/a15304.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "dc/d2b/a15304.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "dc/d2b/a15304.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "dc/d2b/a15304.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "dc/d2b/a15304.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "dc/d2b/a15304.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "dc/d2b/a15304.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "dc/d2b/a15304.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

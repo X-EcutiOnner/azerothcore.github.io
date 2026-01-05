@@ -1,6 +1,8 @@
 var a28376 =
 [
-    [ "color", "dc/d68/a28376.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "dc/d68/a28376.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "dc/d68/a28376.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "gender", "dc/d68/a28376.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dc/d68/a28376.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dc/d68/a28376.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dc/d68/a28376.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dc/d68/a28376.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

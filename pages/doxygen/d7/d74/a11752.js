@@ -1,19 +1,16 @@
 var a11752 =
 [
-    [ "CityAttack", "d1/d51/a11760.html", "d1/d51/a11760" ],
-    [ "InvasionZone", "d5/dc5/a11756.html", "d5/dc5/a11756" ],
-    [ "ScourgeInvasionData", "d7/d74/a11752.html#a40749458bbad64d1d277cd7cd9dac939", null ],
-    [ "GetData", "d7/d74/a11752.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
-    [ "Reset", "d7/d74/a11752.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
-    [ "m_activeInvasions", "d7/d74/a11752.html#af98aea31bf9c878adf2870890911282f", null ],
-    [ "m_battlesWon", "d7/d74/a11752.html#aea7079c6f876188857219c574ca0798d", null ],
-    [ "m_broadcastTimer", "d7/d74/a11752.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
-    [ "m_cityAttacks", "d7/d74/a11752.html#a70127135568b3a439f040697f1dc525c", null ],
-    [ "m_lastAttackZone", "d7/d74/a11752.html#a38ead6b33009083055538fd4f0b7de35", null ],
-    [ "m_pendingInvasions", "d7/d74/a11752.html#af62efb05ce49a3cb764328976f8054f6", null ],
-    [ "m_pendingPallids", "d7/d74/a11752.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
-    [ "m_remaining", "d7/d74/a11752.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
-    [ "m_siMutex", "d7/d74/a11752.html#acefb72f28d000395bc1362cd9a62b26a", null ],
-    [ "m_state", "d7/d74/a11752.html#acb26a954f14aec654513b16e5e53cad8", null ],
-    [ "m_timers", "d7/d74/a11752.html#a06375cf97a023be4f3fff94cc43405a9", null ]
+    [ "CheckContainer", "d7/d74/a11752.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "d7/d74/a11752.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "d7/d74/a11752.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "d7/d74/a11752.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "d7/d74/a11752.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "d7/d74/a11752.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "d7/d74/a11752.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "d7/d74/a11752.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "d7/d74/a11752.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "d7/d74/a11752.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "d7/d74/a11752.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "d7/d74/a11752.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "d7/d74/a11752.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

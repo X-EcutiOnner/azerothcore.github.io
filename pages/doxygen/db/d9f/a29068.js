@@ -1,6 +1,7 @@
 var a29068 =
 [
-    [ "height", "db/d9f/a29068.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "db/d9f/a29068.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "db/d9f/a29068.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "walkableClimb", "db/d9f/a29068.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "db/d9f/a29068.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "db/d9f/a29068.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "db/d9f/a29068.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

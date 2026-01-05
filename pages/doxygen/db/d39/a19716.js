@@ -1,5 +1,7 @@
 var a19716 =
 [
-    [ "at_hol_hall_of_watchers", "db/d39/a19716.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "db/d39/a19716.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "HandleProc", "db/d39/a19716.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "db/d39/a19716.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "db/d39/a19716.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "db/d39/a19716.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

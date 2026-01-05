@@ -1,12 +1,15 @@
 var a13024 =
 [
-    [ "boss_felblood_kaelthas", "d2/dd2/a13024.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d2/dd2/a13024.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d2/dd2/a13024.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d2/dd2/a13024.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d2/dd2/a13024.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d2/dd2/a13024.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d2/dd2/a13024.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d2/dd2/a13024.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d2/dd2/a13024.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "boss_tinhead", "d2/dd2/a13024.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "d2/dd2/a13024.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "d2/dd2/a13024.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "d2/dd2/a13024.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "d2/dd2/a13024.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "d2/dd2/a13024.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "d2/dd2/a13024.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "d2/dd2/a13024.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "d2/dd2/a13024.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "d2/dd2/a13024.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "d2/dd2/a13024.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "d2/dd2/a13024.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

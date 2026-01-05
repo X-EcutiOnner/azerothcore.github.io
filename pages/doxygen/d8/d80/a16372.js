@@ -1,11 +1,14 @@
 var a16372 =
 [
-    [ "boss_saviana_ragefireAI", "d8/d80/a16372.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d8/d80/a16372.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d8/d80/a16372.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d8/d80/a16372.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d8/d80/a16372.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d8/d80/a16372.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d8/d80/a16372.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d8/d80/a16372.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "npc_halion_controllerAI", "d8/d80/a16372.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "d8/d80/a16372.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "d8/d80/a16372.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "d8/d80/a16372.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "d8/d80/a16372.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "d8/d80/a16372.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "d8/d80/a16372.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "d8/d80/a16372.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "d8/d80/a16372.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "d8/d80/a16372.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "d8/d80/a16372.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

@@ -1,6 +1,7 @@
 var a05584 =
 [
-    [ "~AsyncProcessResult", "da/d9f/a05584.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
-    [ "GetFutureResult", "da/d9f/a05584.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
-    [ "Terminate", "da/d9f/a05584.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
+    [ "~SignalHandler", "da/d9f/a05584.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "da/d9f/a05584.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "da/d9f/a05584.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

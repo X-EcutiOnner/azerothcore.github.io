@@ -1,6 +1,6 @@
 var a25768 =
 [
-    [ "PrepareSpellScript", "d4/de7/a25768.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d4/de7/a25768.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d4/de7/a25768.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "HandleItemRemove", "d4/de7/a25768.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "d4/de7/a25768.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "d4/de7/a25768.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

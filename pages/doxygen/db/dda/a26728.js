@@ -1,6 +1,7 @@
 var a26728 =
 [
-    [ "PrepareAuraScript", "db/dda/a26728.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "db/dda/a26728.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "db/dda/a26728.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "HandleScript", "db/dda/a26728.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "db/dda/a26728.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "db/dda/a26728.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "db/dda/a26728.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

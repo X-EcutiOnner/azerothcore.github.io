@@ -1,8 +1,8 @@
 var a13420 =
 [
-    [ "npc_madrigosa", "d0/de5/a13420.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d0/de5/a13420.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d0/de5/a13420.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d0/de5/a13420.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d0/de5/a13420.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "FilterTargets", "d0/de5/a13420.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "d0/de5/a13420.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "d0/de5/a13420.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "d0/de5/a13420.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "d0/de5/a13420.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

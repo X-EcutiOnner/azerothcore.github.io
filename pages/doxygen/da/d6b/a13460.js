@@ -1,7 +1,11 @@
 var a13460 =
 [
-    [ "HandleScript", "da/d6b/a13460.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "da/d6b/a13460.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "da/d6b/a13460.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "da/d6b/a13460.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "boss_baroness_anastariAI", "da/d6b/a13460.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "da/d6b/a13460.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "da/d6b/a13460.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "da/d6b/a13460.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "da/d6b/a13460.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "da/d6b/a13460.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "da/d6b/a13460.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "da/d6b/a13460.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

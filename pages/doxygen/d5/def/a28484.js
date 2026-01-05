@@ -1,5 +1,6 @@
 var a28484 =
 [
-    [ "content", "d5/def/a28484.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "d5/def/a28484.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "Id", "d5/def/a28484.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d5/def/a28484.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d5/def/a28484.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

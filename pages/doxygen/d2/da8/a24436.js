@@ -1,6 +1,5 @@
 var a24436 =
 [
-    [ "PrepareSpellScript", "d2/da8/a24436.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d2/da8/a24436.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d2/da8/a24436.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_karynaku", "d2/da8/a24436.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d2/da8/a24436.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

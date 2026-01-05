@@ -1,7 +1,8 @@
 var a07176 =
 [
-    [ "AuctionSearchUpdateBid", "d7/de3/a07176.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "d7/de3/a07176.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "d7/de3/a07176.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "d7/de3/a07176.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "faction", "d7/de3/a07176.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "d7/de3/a07176.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "d7/de3/a07176.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "d7/de3/a07176.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "d7/de3/a07176.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

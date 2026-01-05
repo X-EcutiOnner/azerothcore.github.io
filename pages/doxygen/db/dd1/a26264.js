@@ -1,8 +1,6 @@
 var a26264 =
 [
-    [ "CalculateAmount", "db/dd1/a26264.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "db/dd1/a26264.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "db/dd1/a26264.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "db/dd1/a26264.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "db/dd1/a26264.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "CheckProc", "db/dd1/a26264.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "db/dd1/a26264.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "db/dd1/a26264.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

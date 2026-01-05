@@ -1,6 +1,6 @@
 var a25888 =
 [
-    [ "HandleScript", "db/dad/a25888.html#ab923050ce4613538ee4837daba09dd33", null ],
-    [ "PrepareSpellScript", "db/dad/a25888.html#a9fa37b95f9c3788764922f4414c383f5", null ],
-    [ "Register", "db/dad/a25888.html#a4bacedda40b04934e7473f7a92f6a314", null ]
+    [ "HandleProc", "db/dad/a25888.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "db/dad/a25888.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "db/dad/a25888.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

@@ -1,75 +1,46 @@
 var a03908 =
 [
-    [ "NPCStaveQuestAI", "dd/d42/a27775.html", "dd/d42/a27775" ],
-    [ "Common", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecd", [
-      [ "GOSSIP_EVENT_START_OPTION_ID", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936", null ],
-      [ "EVENT_ENCOUNTER_START", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecda0f5bec07177a7a6bdbdf76abcbadf05a", null ],
-      [ "EVENT_REVEAL", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecdab1074563852eb0de868ad858b218823c", null ],
-      [ "EVENT_FOOLS_PLIGHT", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecda2ec763aa4426d90ec616777639d20d1c", null ],
-      [ "EVENT_RANGE_CHECK", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecda7fcd9a3142a87856248cbc51a25268ee", null ],
-      [ "EVENT_UNFAIR_FIGHT", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecda1d894628cbd27d1bcf490577a9ae22f0", null ],
-      [ "QUEST_STAVE_OF_THE_ANCIENTS", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf1e382929ce37d0beeb97fd31eaed5e2", null ],
-      [ "SPELL_FEIGN_DEATH", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecda882c4c20d663e5bbdb81fc74aacf77c8", null ],
-      [ "SPELL_DEMONIC_ENRAGE", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecda607e929a10d88ac2761d12fef6cab706", null ],
-      [ "SPELL_FOOLS_PLIGHT", "dc/dce/a03908.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf781ca12c0d42795eae352e22e9f89ee", null ]
+    [ "ZeppelinEvent", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042", [
+      [ "EVENT_UC_FROM_GROMGOL_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042ad8c3b3e97c6776a5f533b6fdadf5564c", null ],
+      [ "EVENT_GROMGOL_FROM_UC_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a0d7270e5463c8d0c7f1b6287ea9623f8", null ],
+      [ "EVENT_OG_FROM_UC_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a359c0cfd8564260f755d081f4a72aaf8", null ],
+      [ "EVENT_UC_FROM_OG_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a71ba8526f6b6da8d27559d08da3a043d", null ],
+      [ "EVENT_OG_FROM_GROMGOL_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a404b382addc43d908acf571a3543acaa", null ],
+      [ "EVENT_GROMGOL_FROM_OG_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042afe3801ab9e0f7c0438996827c281b9d2", null ],
+      [ "EVENT_WK_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84", null ],
+      [ "EVENT_VL_FROM_UC_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042ac8b6b89345c6fe78a7dbb5197b16041f", null ],
+      [ "EVENT_UC_FROM_VL_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a628abde60b661eb144377f12c792b331", null ],
+      [ "EVENT_OG_FROM_BT_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042ac1182a82039ec21248a14b0dacd5fdf9", null ],
+      [ "EVENT_BT_FROM_OG_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a495dcdd368ee1050722706e45639eb7c", null ],
+      [ "EVENT_OG_FROM_TB_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042aa3e2aa342e976c9298df23edb99e7d01", null ],
+      [ "EVENT_TB_FROM_OG_ARRIVAL", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a5c1e71dd6ac0b00949242285a18465c9", null ],
+      [ "EVENT_OG_TO_GROMGOL_DEPARTURE", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a6e4a87ae8612d4f5f219c534f0601588", null ],
+      [ "EVENT_GROMGOL_TO_OG_DEPARTURE", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a1c629700ce98fb01d1749368613c52fd", null ],
+      [ "EVENT_OG_TO_UC_DEPARTURE", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a995774e8491af931828dba45955065ff", null ],
+      [ "EVENT_UC_TO_OG_DEPARTURE", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a3fcf4fc5145b77ab22eea5a29b1298ce", null ],
+      [ "EVENT_UC_TO_GROMGOL_DEPARTURE", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a294ed6ed695d3b69af3c2739d05ab84a", null ],
+      [ "EVENT_GROMGOL_TO_UC_DEPARTURE", "dc/dce/a03908.html#a79ab5591f9534775ed690dc76f71b042a5ba57a07d4d85759cbaac823104741c8", null ]
     ] ],
-    [ "NPCArtorius", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1ede", [
-      [ "ARTORIUS_EVENT_DEMONIC_DOOM", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea5630fafdd2954b2520ba2b721872555f", null ],
-      [ "ARTORIUS_EVENT_DEMONIC_ENRAGE", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea45adb6c2214dbf19fde4a3273ca3ad24", null ],
-      [ "ARTORIUS_WEAKNESS_EMOTE", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea07c2a58a57c5aaac815f93d435707ba8", null ],
-      [ "ARTORIUS_SAY", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea980b15e2a702653cf8a1d03ffb34d236", null ],
-      [ "ARTORIUS_NORMAL_ENTRY", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea8aff1ec4cbd2e1493b173f0d079e6015", null ],
-      [ "ARTORIUS_EVIL_ENTRY", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea5bd83368acfd9f2af012a6f80d9fc84e", null ],
-      [ "ARTORIUS_HEAD", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edea7dfe6305ba551298a4074c2aba0cdd62", null ],
-      [ "ARTORIUS_SPELL_DEMONIC_DOOM", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edeadc3e9c5249b4da7a9f2e1c97caaa900e", null ],
-      [ "ARTORIUS_SPELL_STINGING_TRAUMA", "dc/dce/a03908.html#abe201f9ef5f58feb36b74aed845c1edeaf78c2ad18353df6ab6937f7e48ee8363", null ]
+    [ "ZeppelinMaster", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16a", [
+      [ "NPC_NEZRAZ", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa9dafa4aafab1e41697e00451566d77a5", null ],
+      [ "NPC_HINDENBURG", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa3ae3d747b633a660fa8c1fdc7630724f", null ],
+      [ "NPC_FREZZA", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa108f93f6b9254fafdbbd93c327bdd4cc", null ],
+      [ "NPC_ZAPETTA", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa6e153644c37eb87e753d443564b3abf8", null ],
+      [ "NPC_SNURK_BUCKSQUICK", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aad7c14130ab0f04b4805f8c841d733f9e", null ],
+      [ "NPC_SQUIBBY_OVERSPECK", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa09d5e48c24e03306a4d0d12e08262b90", null ],
+      [ "NPC_HARROWMEISER", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aad428ead4634d411ce7fb653948cf4998", null ],
+      [ "NPC_GREEB_RAMROCKET", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aabb311f9be7358b3bff7676b80881bf2c", null ],
+      [ "NPC_NARGO_SCREWBORE", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa61d8fcf1d72150cfc7e1a5abdfc71f21", null ],
+      [ "NPC_MEEFI_FARTHROTTLE", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa36328bd68c5f25b7f8209c43a180c3ad", null ],
+      [ "NPC_DRENK_SPANNERSPARK", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa23f2b96f68a213c9abe2d9d74bf3ef6e", null ],
+      [ "NPC_ZELLI_HOTNOZZLE", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aa1724626eca7bd8e8e1b78bd0785e5fd5", null ],
+      [ "NPC_KRENDLE_BIGPOCKETS", "dc/dce/a03908.html#a8f8deae914061890416155e26c96f16aad567c94242534f784c0211341fe1002b", null ]
     ] ],
-    [ "NPCFranklin", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0", [
-      [ "FRANKLIN_EVENT_DEMONIC_ENRAGE", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0ae616cb7a6f91a45be7c3a8d19650b774", null ],
-      [ "FRANKLIN_SAY", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0a550bafc03ddc74e0ecf73a9f4cba3a2e", null ],
-      [ "FRANKLIN_ENRAGE_EMOTE", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0ab16e542061d6af16958045076a03ba67", null ],
-      [ "FRANKLIN_DESPAWN_SAY", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0a844b5a83e900c9c660276a0ad26d2842", null ],
-      [ "FRANKLIN_NORMAL_ENTRY", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0af9bbce82aff6a6472a73ef14ecef5a5c", null ],
-      [ "FRANKLIN_EVIL_ENTRY", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0a5cf966dad889c919847929436971f40d", null ],
-      [ "FRANKLIN_HEAD", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0a895e6fec3b7df29b1c8e98b1b5f5dfe0", null ],
-      [ "FRANKLIN_WEAKNESS_SCORPID_STING", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0a4c2dde25de7b18cdde01eddb47a39601", null ],
-      [ "FRANKLIN_SPELL_ENTROPIC_STING", "dc/dce/a03908.html#a16be495faad2ebc93bc68267328d78c0aee0f260a794aacbd8616fa9970c47589", null ]
+    [ "ZeppelinPassenger", "dc/dce/a03908.html#a84ac3a8fc106c05c2d0bd523feae76f5", [
+      [ "NPC_SKY_CAPTAIN_CLOUDKICKER", "dc/dce/a03908.html#a84ac3a8fc106c05c2d0bd523feae76f5a2c56c53c589bf23482cfd7b6634feec9", null ],
+      [ "NPC_CHIEF_OFFICER_COPPERNUT", "dc/dce/a03908.html#a84ac3a8fc106c05c2d0bd523feae76f5a1a94d73b5d5e70d7c17e463556e8e876", null ],
+      [ "NPC_SKY_CAPTAIN_CABLELAMP", "dc/dce/a03908.html#a84ac3a8fc106c05c2d0bd523feae76f5abfdb729378b13ab02f84c546478b1f84", null ],
+      [ "NPC_WATCHER_UMJIN", "dc/dce/a03908.html#a84ac3a8fc106c05c2d0bd523feae76f5a507e22eb760b71237f8238d944d0e5f8", null ]
     ] ],
-    [ "NPCNelson", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248", [
-      [ "NELSON_EVENT_DREADFUL_FRIGHT", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a0110a6743a2be1f6b1686e1c80a1ab9f", null ],
-      [ "NELSON_EVENT_CREEPING_DOOM", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a570c75d31f474e305588b313cb74fa2a", null ],
-      [ "NELSON_SAY", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a3a8074ec57e11c8646aa853eb0fc574d", null ],
-      [ "NELSON_WEAKNESS_EMOTE", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248abb3404c3907acebfdbf1102d6dc34041", null ],
-      [ "NELSON_DESPAWN_SAY", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a5df97a8c38be38427c8dea2f63034605", null ],
-      [ "NELSON_NORMAL_ENTRY", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a0fe2e60baa947b6fcd3d0a6736a9a7ff", null ],
-      [ "NELSON_EVIL_ENTRY", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248aea664410af0966c75d8c81ca790c1463", null ],
-      [ "CREEPING_DOOM_ENTRY", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a9300940a11d265d7b0c4f85422830a50", null ],
-      [ "NELSON_HEAD", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a32250a2a128ab64840b48aa2e45594fb", null ],
-      [ "NELSON_WEAKNESS_WING_CLIP", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a74f08862597370408b33e568ea6a173a", null ],
-      [ "NELSON_WEAKNESS_FROST_TRAP", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a67cc21ff77c5f4888e7be11fe8b76de1", null ],
-      [ "NELSON_SPELL_SOUL_FLAME", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a90773794bb36fe4afd1df8465b4476ae", null ],
-      [ "NELSON_SPELL_DREADFUL_FRIGHT", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248ab5e17fcc103d5693704ebb772ced41c8", null ],
-      [ "NELSON_SPELL_CRIPPLING_CLIP", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248af258b492afa6684ce60918ec506e0474", null ],
-      [ "NELSON_SPELL_CREEPING_DOOM", "dc/dce/a03908.html#ad8c06f7bd08693fefc384a9896581248a2b343ce324b5fb0ffc7109e79ce0ec80", null ]
-    ] ],
-    [ "NPCPrecious", "dc/dce/a03908.html#aa5ed2f1543f33f7119a73d663739cb5a", [
-      [ "PRECIOUS_NORMAL_ENTRY", "dc/dce/a03908.html#aa5ed2f1543f33f7119a73d663739cb5aa01a00ad67f65745c45300c65fb85a329", null ],
-      [ "PRECIOUS_EVIL_ENTRY", "dc/dce/a03908.html#aa5ed2f1543f33f7119a73d663739cb5aa537440d3949e818014bd5962f1faab81", null ]
-    ] ],
-    [ "NPCSimone", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699", [
-      [ "SIMONE_EVENT_TALK", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a816e796693162a325889759fec978faf", null ],
-      [ "SIMONE_EVENT_CHECK_PET_STATE", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699aaaf2d11bfd889a617e21d7d27c4a147d", null ],
-      [ "SIMONE_EVENT_CHAIN_LIGHTNING", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a1479d23f092d0513368359e90ef569c2", null ],
-      [ "SIMONE_EVENT_TEMPTRESS_KISS", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699af60fa3aee8dd197cc23ec263218d2757", null ],
-      [ "SIMONE_EMOTE", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a5fe44bebd8a62f2d15aff79bddeb5786", null ],
-      [ "SIMONE_SAY", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a5a37bd0ac82d9ed49b7cf13b0921293d", null ],
-      [ "SIMONE_WEAKNESS_EMOTE", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a1efe1796dc81c4cc729abeaf3bebdf45", null ],
-      [ "SIMONE_NORMAL_ENTRY", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a7b49323d8ed43bd879d95e4798eadbd0", null ],
-      [ "SIMONE_EVIL_ENTRY", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a782c849344053aef075d44e2a306fd80", null ],
-      [ "SIMONE_HEAD", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a3e7f38d02528648ac55edd93db080e9f", null ],
-      [ "SIMONE_SPELL_WEAKNESS_VIPER_STING", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699ad4d7fe972b6e280e7b144da8d2ebefd8", null ],
-      [ "SIMONE_SPELL_TEMPTRESS_KISS", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699abb9f754a03ddaddc3e1f21615562d1b6", null ],
-      [ "SIMONE_SPELL_CHAIN_LIGHTNING", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a98bccf366154d8dbc5a65b4c1e9a466d", null ],
-      [ "SIMONE_SPELL_SILENCE", "dc/dce/a03908.html#ac2bd4827fd0d6efa51d00cda84192699a06f4aa887fa7256bf35a2f460bce1b76", null ]
-    ] ]
+    [ "SEARCH_RANGE_ZEPPELIN_MASTER", "dc/dce/a03908.html#ab326c00672be06c22ee74bd2dc7a3ce0", null ]
 ];

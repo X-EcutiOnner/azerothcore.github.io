@@ -1,6 +1,6 @@
 var a27032 =
 [
-    [ "HandleAfterHit", "dc/d21/a27032.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "dc/d21/a27032.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "dc/d21/a27032.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "HandleKnockBack", "dc/d21/a27032.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "dc/d21/a27032.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "dc/d21/a27032.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

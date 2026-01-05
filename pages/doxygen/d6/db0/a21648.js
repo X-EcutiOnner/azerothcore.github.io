@@ -1,14 +1,10 @@
 var a21648 =
 [
-    [ "npc_azure_saboteurAI", "d6/db0/a21648.html#a09fc1e8f171209471c5403af33b05a58", null ],
-    [ "FinishPointReached", "d6/db0/a21648.html#a322380edef5dbefe5ac4ab0040183010", null ],
-    [ "MoveInLineOfSight", "d6/db0/a21648.html#a21868549892cdd0e67d6403dece9efce", null ],
-    [ "UpdateAI", "d6/db0/a21648.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
-    [ "WaypointReached", "d6/db0/a21648.html#ac17dc46bfe75582a789a2056978218fb", null ],
-    [ "bAddedWPs", "d6/db0/a21648.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
-    [ "bOpening", "d6/db0/a21648.html#a924ceb13552f0f01d55375af0324bf5a", null ],
-    [ "count", "d6/db0/a21648.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
-    [ "pInstance", "d6/db0/a21648.html#a1375420fe4bf16f122aa93f5c847a464", null ],
-    [ "timer", "d6/db0/a21648.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
-    [ "uiBoss", "d6/db0/a21648.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
+    [ "npc_azure_invaderAI", "d6/db0/a21648.html#a85f164a6ba24d7a14d77264441a78f46", null ],
+    [ "Reset", "d6/db0/a21648.html#ada44600272b19d9416d957bc52bc3be4", null ],
+    [ "UpdateAI", "d6/db0/a21648.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
+    [ "uiBrutalStrikeTimer", "d6/db0/a21648.html#a4b88a85f3344edbdadde0104668509aa", null ],
+    [ "uiCleaveTimer", "d6/db0/a21648.html#a8b1792a8a405651d602d9ed634f52689", null ],
+    [ "uiImpaleTimer", "d6/db0/a21648.html#aa709ee8919a2d0317d563259c7630c99", null ],
+    [ "uiSunderArmorTimer", "d6/db0/a21648.html#ab2e6d01df033985ac29e963cf2895466", null ]
 ];

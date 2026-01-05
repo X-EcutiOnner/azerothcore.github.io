@@ -1,6 +1,6 @@
 var a23940 =
 [
-    [ "HandleCast", "d5/d91/a23940.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d5/d91/a23940.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d5/d91/a23940.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "npc_warden_mellicharAI", "de/db9/a23944.html", "de/db9/a23944" ],
+    [ "npc_warden_mellichar", "d5/d91/a23940.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d5/d91/a23940.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

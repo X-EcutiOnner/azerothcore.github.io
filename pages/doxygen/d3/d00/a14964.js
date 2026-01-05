@@ -1,6 +1,6 @@
 var a14964 =
 [
-    [ "npc_cos_chromie_start", "d3/d00/a14964.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d3/d00/a14964.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d3/d00/a14964.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "HandleHeal", "d3/d00/a14964.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d3/d00/a14964.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d3/d00/a14964.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

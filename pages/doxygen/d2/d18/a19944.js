@@ -1,12 +1,8 @@
 var a19944 =
 [
-    [ "npc_assembly_lightningAI", "d2/d18/a19944.html#a4b778b6545e7c93e66a07160db793651", null ],
-    [ "AttackStart", "d2/d18/a19944.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
-    [ "EnterEvadeMode", "d2/d18/a19944.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
-    [ "MoveInLineOfSight", "d2/d18/a19944.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
-    [ "MovementInform", "d2/d18/a19944.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
-    [ "OnCharmed", "d2/d18/a19944.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
-    [ "Reset", "d2/d18/a19944.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
-    [ "UpdateAI", "d2/d18/a19944.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
-    [ "_boomed", "d2/d18/a19944.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
+    [ "HandlePeriodic", "d2/d18/a19944.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d2/d18/a19944.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d2/d18/a19944.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d2/d18/a19944.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d2/d18/a19944.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

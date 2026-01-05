@@ -1,6 +1,6 @@
 var a20496 =
 [
-    [ "boss_kologarnAI", "dd/dd9/a20500.html", "dd/dd9/a20500" ],
-    [ "boss_kologarn", "d8/d0b/a20496.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "d8/d0b/a20496.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "HandleAfterEffectApply", "d8/d0b/a20496.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d8/d0b/a20496.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d8/d0b/a20496.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

@@ -1,6 +1,9 @@
 var a19852 =
 [
-    [ "npc_collapsing_starAI", "dd/d72/a19852.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "dd/d72/a19852.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "dd/d72/a19852.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "dd/d72/a19852.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "dd/d72/a19852.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "dd/d72/a19852.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "dd/d72/a19852.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "dd/d72/a19852.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "dd/d72/a19852.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

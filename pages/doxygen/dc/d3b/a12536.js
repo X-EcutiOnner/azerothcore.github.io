@@ -1,6 +1,6 @@
 var a12536 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "dd/d5f/a12540.html", "dd/d5f/a12540" ],
-    [ "instance_blackwing_lair", "dc/d3b/a12536.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "dc/d3b/a12536.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "boss_flamegorAI", "dc/d3b/a12536.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
+    [ "JustEngagedWith", "dc/d3b/a12536.html#a6005dca71e2f20ee599e053e531377d6", null ],
+    [ "UpdateAI", "dc/d3b/a12536.html#a2e5146815e533cf62e0084a54aa222d5", null ]
 ];

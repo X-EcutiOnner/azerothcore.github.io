@@ -1,6 +1,8 @@
 var a24636 =
 [
-    [ "HandleSummon", "d4/d2a/a24636.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "d4/d2a/a24636.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "d4/d2a/a24636.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d4/d2a/a24636.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d4/d2a/a24636.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d4/d2a/a24636.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d4/d2a/a24636.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d4/d2a/a24636.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

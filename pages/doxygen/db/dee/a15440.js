@@ -1,10 +1,13 @@
 var a15440 =
 [
-    [ "npc_anubisath_defender", "db/dee/a15440.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "db/dee/a15440.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "db/dee/a15440.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "db/dee/a15440.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "db/dee/a15440.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "db/dee/a15440.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "db/dee/a15440.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "npc_dirt_mound", "db/dee/a15440.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "db/dee/a15440.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "db/dee/a15440.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "db/dee/a15440.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "db/dee/a15440.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "db/dee/a15440.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "db/dee/a15440.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "db/dee/a15440.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "db/dee/a15440.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "db/dee/a15440.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

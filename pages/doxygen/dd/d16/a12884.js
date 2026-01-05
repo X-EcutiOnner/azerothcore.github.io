@@ -1,6 +1,14 @@
 var a12884 =
 [
-    [ "HandleHit", "dd/d16/a12884.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "dd/d16/a12884.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "dd/d16/a12884.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "boss_midnight", "dd/d16/a12884.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "dd/d16/a12884.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "dd/d16/a12884.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "dd/d16/a12884.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "dd/d16/a12884.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "dd/d16/a12884.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "dd/d16/a12884.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "dd/d16/a12884.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "dd/d16/a12884.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "dd/d16/a12884.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "dd/d16/a12884.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

@@ -1,8 +1,10 @@
 var a24896 =
 [
-    [ "AfterApply", "df/d7b/a24896.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "df/d7b/a24896.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "df/d7b/a24896.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "df/d7b/a24896.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "df/d7b/a24896.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "Absorb", "df/d7b/a24896.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
+    [ "CalculateAmount", "df/d7b/a24896.html#aed6e525b71f18dafb6f458bc255a6495", null ],
+    [ "Load", "df/d7b/a24896.html#af73fcf4a73ba60e214c045471569f7b0", null ],
+    [ "PrepareAuraScript", "df/d7b/a24896.html#a884927612b8ab2712a057da72f8180c6", null ],
+    [ "Register", "df/d7b/a24896.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
+    [ "Validate", "df/d7b/a24896.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
+    [ "absorbPct", "df/d7b/a24896.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
 ];

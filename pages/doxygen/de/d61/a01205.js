@@ -1,6 +1,10 @@
 var a01205 =
 [
-    [ "MapScript< BattlegroundMap >", "de/d61/a01205.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "de/d61/a01205.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "de/d61/a01205.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "AutobroadcastMgr", "df/da9/a07228.html", "df/da9/a07228" ],
+    [ "sAutobroadcastMgr", "de/d61/a01205.html#a34abff2dadcb74370b0749fe9fda3878", null ],
+    [ "AnnounceType", "de/d61/a01205.html#a28a4ef2f64643c76d8be05bf9eafc731", [
+      [ "World", "de/d61/a01205.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
+      [ "Notification", "de/d61/a01205.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
+      [ "Both", "de/d61/a01205.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
+    ] ]
 ];

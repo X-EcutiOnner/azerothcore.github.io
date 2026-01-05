@@ -1,7 +1,6 @@
 var a17156 =
 [
-    [ "UtherBatteredHiltEvent", "de/d5d/a17156.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "de/d5d/a17156.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "de/d5d/a17156.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "de/d5d/a17156.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_shadowy_mercenaryAI", "d1/d17/a17160.html", "d1/d17/a17160" ],
+    [ "npc_shadowy_mercenary", "de/d5d/a17156.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
+    [ "GetAI", "de/d5d/a17156.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
 ];

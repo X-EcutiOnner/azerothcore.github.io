@@ -1,6 +1,8 @@
 var a12316 =
 [
-    [ "boss_thebeastAI", "df/da2/a12320.html", "df/da2/a12320" ],
-    [ "boss_the_beast", "d1/d5a/a12316.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d1/d5a/a12316.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "boss_halyconAI", "d1/d5a/a12316.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d1/d5a/a12316.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d1/d5a/a12316.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d1/d5a/a12316.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d1/d5a/a12316.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

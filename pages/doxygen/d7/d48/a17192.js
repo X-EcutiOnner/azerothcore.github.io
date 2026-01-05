@@ -1,8 +1,10 @@
 var a17192 =
 [
-    [ "boss_krickAI", "d7/d48/a17192.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d7/d48/a17192.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d7/d48/a17192.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d7/d48/a17192.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d7/d48/a17192.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d7/d48/a17192.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "d7/d48/a17192.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "d7/d48/a17192.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "d7/d48/a17192.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "d7/d48/a17192.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "d7/d48/a17192.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "d7/d48/a17192.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

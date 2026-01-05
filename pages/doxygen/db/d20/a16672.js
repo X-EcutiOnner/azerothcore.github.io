@@ -1,7 +1,7 @@
 var a16672 =
 [
-    [ "npc_toc_enh_shamanAI", "db/d20/a16672.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "db/d20/a16672.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "db/d20/a16672.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "db/d20/a16672.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_druidAI", "db/d20/a16672.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "db/d20/a16672.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "db/d20/a16672.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "db/d20/a16672.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

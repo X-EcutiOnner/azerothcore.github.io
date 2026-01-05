@@ -1,5 +1,8 @@
 var a13716 =
 [
-    [ "npc_maredis_firestarAI", "d6/d48/a13720.html", "d6/d48/a13720" ],
-    [ "npc_maredis_firestar", "df/d05/a13716.html#a91015d70203597db3dda10b695565740", null ]
+    [ "HandleApply", "df/d05/a13716.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "df/d05/a13716.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "df/d05/a13716.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "df/d05/a13716.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "df/d05/a13716.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

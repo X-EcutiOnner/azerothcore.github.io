@@ -1,6 +1,9 @@
 var a27472 =
 [
-    [ "go_midsummer_musicAI", "de/de4/a27472.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "de/de4/a27472.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "de/de4/a27472.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "ChatLogScript", "de/de4/a27472.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "de/de4/a27472.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "de/de4/a27472.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "de/de4/a27472.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "de/de4/a27472.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "de/de4/a27472.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

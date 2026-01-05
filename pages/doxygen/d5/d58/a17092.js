@@ -1,6 +1,6 @@
 var a17092 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "df/dd5/a17096.html", "df/dd5/a17096" ],
-    [ "npc_hor_spiritual_reflection", "d5/d58/a17092.html#a5f43c7b336335698468092f72c804fea", null ],
-    [ "GetAI", "d5/d58/a17092.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
+    [ "entry", "d5/d58/a17092.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d5/d58/a17092.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d5/d58/a17092.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

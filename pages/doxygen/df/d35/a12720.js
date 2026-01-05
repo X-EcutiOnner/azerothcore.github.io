@@ -1,9 +1,8 @@
 var a12720 =
 [
-    [ "npc_mc_core_houndAI", "df/d35/a12720.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "df/d35/a12720.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "df/d35/a12720.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "df/d35/a12720.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "df/d35/a12720.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "df/d35/a12720.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "MajordomoAddData", "df/d35/a12720.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "df/d35/a12720.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "df/d35/a12720.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "df/d35/a12720.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "df/d35/a12720.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

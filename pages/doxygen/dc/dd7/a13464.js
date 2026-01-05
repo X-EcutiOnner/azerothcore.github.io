@@ -1,11 +1,14 @@
 var a13464 =
 [
-    [ "spell_eredar_twins_handle_touch_periodic", "dc/dd7/a13464.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
-    [ "OnPeriodic", "dc/dd7/a13464.html#a8d863af82300eacc1456a08f8461d5a7", null ],
-    [ "PrepareAuraScript", "dc/dd7/a13464.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
-    [ "Register", "dc/dd7/a13464.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
-    [ "Validate", "dc/dd7/a13464.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
-    [ "_aura", "dc/dd7/a13464.html#a0b1df96674584554d53688e993c2a310", null ],
-    [ "_effectIndex", "dc/dd7/a13464.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
-    [ "_touchSpell", "dc/dd7/a13464.html#ae60a5c2918105785805dc45b3942ee4a", null ]
+    [ "boss_jarien", "dc/dd7/a13464.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
+    [ "DoAction", "dc/dd7/a13464.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
+    [ "IsSummonedBy", "dc/dd7/a13464.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
+    [ "JustDied", "dc/dd7/a13464.html#a418380b56f3432b5aec84737012f4693", null ],
+    [ "JustEngagedWith", "dc/dd7/a13464.html#ab6590cf6626a12e804520b2cde84a93e", null ],
+    [ "Reset", "dc/dd7/a13464.html#ac85ca96b42aa5115500bd24454f84209", null ],
+    [ "UpdateAI", "dc/dd7/a13464.html#acf7157ec7af7356beddc8a2429177b95", null ],
+    [ "_phase", "dc/dd7/a13464.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
+    [ "_scheduler", "dc/dd7/a13464.html#abce9540798dbae1026d1c74bfeb111a6", null ],
+    [ "_sothosDied", "dc/dd7/a13464.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
+    [ "_talked", "dc/dd7/a13464.html#ae0c943c970990b055ebc8c31d81a7198", null ]
 ];

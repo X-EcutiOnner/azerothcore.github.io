@@ -1,6 +1,7 @@
 var a20464 =
 [
-    [ "npc_ulduar_iron_constructAI", "d1/d84/a20468.html", "d1/d84/a20468" ],
-    [ "npc_ulduar_iron_construct", "d0/d55/a20464.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d0/d55/a20464.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "HandleEffectPeriodic", "d0/d55/a20464.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d0/d55/a20464.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d0/d55/a20464.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d0/d55/a20464.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

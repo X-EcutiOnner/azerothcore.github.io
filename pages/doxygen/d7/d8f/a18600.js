@@ -1,6 +1,6 @@
 var a18600 =
 [
-    [ "npc_lk_wicked_spiritAI", "de/de5/a18604.html", "de/de5/a18604" ],
-    [ "npc_lk_wicked_spirit", "d7/d8f/a18600.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d7/d8f/a18600.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "HandleScript", "d7/d8f/a18600.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d7/d8f/a18600.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d7/d8f/a18600.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

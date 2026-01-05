@@ -1,6 +1,7 @@
 var a24908 =
 [
-    [ "CheckCast", "dd/d3f/a24908.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "dd/d3f/a24908.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "dd/d3f/a24908.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "CheckProc", "dd/d3f/a24908.html#a5a74f30b941460c8347dca81dcee1bf6", null ],
+    [ "HandleProc", "dd/d3f/a24908.html#a15592382213762145eb30d85bfcbd60a", null ],
+    [ "PrepareAuraScript", "dd/d3f/a24908.html#a82201b03b7b642e7898889412a617712", null ],
+    [ "Register", "dd/d3f/a24908.html#aba014f9b0000d19cabbc5a9c763b934b", null ]
 ];

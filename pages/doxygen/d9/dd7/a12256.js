@@ -1,6 +1,5 @@
 var a12256 =
 [
-    [ "boss_overlordwyrmthalakAI", "da/dd6/a12260.html", "da/dd6/a12260" ],
-    [ "boss_overlord_wyrmthalak", "d9/dd7/a12256.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "d9/dd7/a12256.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "boss_high_priestess_thaurissan", "d9/dd7/a12256.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
+    [ "GetAI", "d9/dd7/a12256.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
 ];

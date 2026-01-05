@@ -1,9 +1,12 @@
 var a17856 =
 [
-    [ "HandleApply", "dc/d75/a17856.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "dc/d75/a17856.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "dc/d75/a17856.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "dc/d75/a17856.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "dc/d75/a17856.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "dc/d75/a17856.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "gunship_npc_AI", "dc/d75/a17856.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "dc/d75/a17856.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "dc/d75/a17856.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "dc/d75/a17856.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "dc/d75/a17856.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "dc/d75/a17856.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "dc/d75/a17856.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "dc/d75/a17856.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "dc/d75/a17856.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

@@ -1,6 +1,7 @@
 var a23048 =
 [
-    [ "boss_essence_of_sufferingAI", "d4/ddd/a23052.html", "d4/ddd/a23052" ],
-    [ "boss_essence_of_suffering", "d0/ddb/a23048.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d0/ddb/a23048.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "OnPeriodic", "d0/ddb/a23048.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d0/ddb/a23048.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d0/ddb/a23048.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d0/ddb/a23048.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

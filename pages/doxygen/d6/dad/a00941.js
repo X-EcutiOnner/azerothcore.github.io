@@ -1,9 +1,20 @@
 var a00941 =
 [
-    [ "PetSpell", "d7/d03/a08538.html", "d7/d03/a08538" ],
-    [ "Pet", "d3/d31/a08542.html", "d3/d31/a08542" ],
-    [ "AutoSpellList", "d6/dad/a00941.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "d6/dad/a00941.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "d6/dad/a00941.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "d6/dad/a00941.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "FormationInfo", "d8/db5/a08160.html", "d8/db5/a08160" ],
+    [ "FormationMgr", "d0/dba/a08164.html", "d0/dba/a08164" ],
+    [ "CreatureGroup", "d9/dae/a08168.html", "d9/dae/a08168" ],
+    [ "sFormationMgr", "d6/dad/a00941.html#ae80a51404625cee821a8727ed7369352", null ],
+    [ "CreatureGroupInfoType", "d6/dad/a00941.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "GroupAIFlags", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869c", [
+      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
+      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
+      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
+      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
+      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
+      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
+      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
+      [ "GROUP_AI_FLAG_ASSIST_MASK", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
+      [ "GROUP_AI_FLAG_EVADE_MASK", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
+      [ "GROUP_AI_FLAG_SUPPORTED", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
+    ] ]
 ];

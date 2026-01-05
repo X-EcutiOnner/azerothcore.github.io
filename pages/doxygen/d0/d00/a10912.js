@@ -1,9 +1,6 @@
 var a10912 =
 [
-    [ "Weather", "d0/d00/a10912.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d0/d00/a10912.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d0/d00/a10912.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d0/d00/a10912.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d0/d00/a10912.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d0/d00/a10912.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "ListInventory", "d0/d00/a10912.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d0/d00/a10912.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d0/d00/a10912.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

@@ -1,5 +1,6 @@
 var a19068 =
 [
-    [ "creatureEntry", "d5/dad/a19068.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d5/dad/a19068.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dd/d78/a19072.html", "dd/d78/a19072" ],
+    [ "npc_icc_skybreaker_luminary", "d5/dad/a19068.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d5/dad/a19068.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

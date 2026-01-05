@@ -1,5 +1,6 @@
 var a24432 =
 [
-    [ "npc_shattrath_daily_quest", "dc/d57/a24432.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "dc/d57/a24432.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "dc/d57/a24432.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "dc/d57/a24432.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "dc/d57/a24432.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

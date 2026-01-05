@@ -1,12 +1,11 @@
 var a08160 =
 [
-    [ "QuestMenu", "d8/db5/a08160.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "d8/db5/a08160.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "d8/db5/a08160.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "d8/db5/a08160.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "d8/db5/a08160.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "d8/db5/a08160.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "d8/db5/a08160.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "d8/db5/a08160.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "d8/db5/a08160.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "FormationInfo", "d8/db5/a08160.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d8/db5/a08160.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d8/db5/a08160.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d8/db5/a08160.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d8/db5/a08160.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d8/db5/a08160.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d8/db5/a08160.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d8/db5/a08160.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

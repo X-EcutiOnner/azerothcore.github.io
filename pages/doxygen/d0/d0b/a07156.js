@@ -1,6 +1,6 @@
 var a07156 =
 [
-    [ "AuctionSearchBidderListRequest", "d0/d0b/a07156.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "d0/d0b/a07156.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "d0/d0b/a07156.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "charges", "d0/d0b/a07156.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "d0/d0b/a07156.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "d0/d0b/a07156.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

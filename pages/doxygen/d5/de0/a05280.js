@@ -1,15 +1,13 @@
 var a05280 =
 [
-    [ "iterator", "d5/de0/a05280.html#a301cf316e15e5f55046c1c25ef2a4f5b", null ],
-    [ "RefMgr", "d5/de0/a05280.html#a72110d71a275f564d31d2e6c84c331c3", null ],
-    [ "~RefMgr", "d5/de0/a05280.html#ab386dd35fa62dbf7f1ba2131e6e99f7c", null ],
-    [ "begin", "d5/de0/a05280.html#aacaf11c49931c87bd52b8382065447d3", null ],
-    [ "clearReferences", "d5/de0/a05280.html#a912750f6257a33cd1f85079448b45928", null ],
-    [ "end", "d5/de0/a05280.html#aab6573a792b9b24c3dc4a690c6ff77d9", null ],
-    [ "getFirst", "d5/de0/a05280.html#a67de35d375c34c38db2b87481a141ebf", null ],
-    [ "getFirst", "d5/de0/a05280.html#a2636030fdcd2312e7c2556c2da3ef948", null ],
-    [ "getLast", "d5/de0/a05280.html#a6695bac4fd79bb428fd1f6a72ad6c3e3", null ],
-    [ "getLast", "d5/de0/a05280.html#afab4e70c39d83e38048c5fe80166e5fa", null ],
-    [ "rbegin", "d5/de0/a05280.html#a4c64b9aad3611aff0d1c419b5d5fa8f0", null ],
-    [ "rend", "d5/de0/a05280.html#ae5ef045c8e3bbce625ffdc2c075b90c2", null ]
+    [ "SymbolDetail", "d5/de0/a05280.html#a980674204558954b7a10799c5e71fb31", null ],
+    [ "empty", "d5/de0/a05280.html#a0cd6b5c40ffb307db4a3930ba5a36b76", null ],
+    [ "ToString", "d5/de0/a05280.html#a5466cf91b53b85332b301b3d51b075aa", null ],
+    [ "HasChildren", "d5/de0/a05280.html#abb8aaaf18cc617dbf5628bd10dc76bc8", null ],
+    [ "Logged", "d5/de0/a05280.html#a89231f1fafa96100d432ace9fc1f08c3", null ],
+    [ "Name", "d5/de0/a05280.html#acb905ff2f54f69367de324b2bf33fbe7", null ],
+    [ "Prefix", "d5/de0/a05280.html#a21fb89604255111403d1c0bf331d72fb", null ],
+    [ "Suffix", "d5/de0/a05280.html#ab3e36a19236208f25dddaf0ff8ecec4f", null ],
+    [ "Type", "d5/de0/a05280.html#a8cb6fb216847f8e1b669b9693ef017dc", null ],
+    [ "Value", "d5/de0/a05280.html#a8a469bdb1f1ea087f5c0a95fc0431b55", null ]
 ];

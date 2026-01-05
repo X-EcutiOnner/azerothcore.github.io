@@ -1,9 +1,7 @@
 var a14080 =
 [
-    [ "npc_zulaman_hostageAI", "dc/df8/a14080.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "dc/df8/a14080.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "dc/df8/a14080.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "dc/df8/a14080.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "dc/df8/a14080.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "dc/df8/a14080.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "FilterTargets", "dc/df8/a14080.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "dc/df8/a14080.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "dc/df8/a14080.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "dc/df8/a14080.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

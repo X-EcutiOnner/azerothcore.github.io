@@ -1,10 +1,7 @@
 var a08896 =
 [
-    [ "mapId", "d5/d2d/a08896.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d5/d2d/a08896.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d5/d2d/a08896.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d5/d2d/a08896.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d5/d2d/a08896.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d5/d2d/a08896.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d5/d2d/a08896.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "Done", "d5/d2d/a08896.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d5/d2d/a08896.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d5/d2d/a08896.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d5/d2d/a08896.html#ae1d182aef449388993e4965de447d971", null ]
 ];

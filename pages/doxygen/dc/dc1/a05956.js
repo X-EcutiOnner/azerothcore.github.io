@@ -1,6 +1,15 @@
 var a05956 =
 [
-    [ "DirectoryEntry", "dc/dc1/a05956.html#a02538aefc1b014b60957d4c67793000f", null ],
-    [ "path", "dc/dc1/a05956.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
-    [ "state", "dc/dc1/a05956.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
+    [ "TransactionBase", "dc/dc1/a05956.html#a663d13ba0b22e0711d135073ff80ee47", null ],
+    [ "~TransactionBase", "dc/dc1/a05956.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
+    [ "Append", "dc/dc1/a05956.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "dc/dc1/a05956.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
+    [ "AppendPreparedStatement", "dc/dc1/a05956.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
+    [ "Cleanup", "dc/dc1/a05956.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
+    [ "GetSize", "dc/dc1/a05956.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
+    [ "DatabaseWorkerPool", "dc/dc1/a05956.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "MySQLConnection", "dc/dc1/a05956.html#a06fa417f69e0a67da8f249333b1d189d", null ],
+    [ "TransactionTask", "dc/dc1/a05956.html#a377add6d6b5e34e774d2497d58f4a180", null ],
+    [ "_cleanedUp", "dc/dc1/a05956.html#aa82af96128bfcee997423a54396d40d4", null ],
+    [ "m_queries", "dc/dc1/a05956.html#a156f1a8316358c05285778e5734eade1", null ]
 ];

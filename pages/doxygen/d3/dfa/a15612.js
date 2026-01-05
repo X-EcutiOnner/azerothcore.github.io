@@ -1,6 +1,6 @@
 var a15612 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d3/dfa/a15612.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d3/dfa/a15612.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d3/dfa/a15612.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_stillpine_capitiveAI", "db/df9/a15616.html", "db/df9/a15616" ],
+    [ "npc_stillpine_capitive", "d3/dfa/a15612.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d3/dfa/a15612.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

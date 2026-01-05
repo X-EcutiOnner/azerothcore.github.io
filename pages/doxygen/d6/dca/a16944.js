@@ -1,8 +1,6 @@
 var a16944 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d6/dca/a16944.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "d6/dca/a16944.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "d6/dca/a16944.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "d6/dca/a16944.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "d6/dca/a16944.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "HandleDummy", "d6/dca/a16944.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "d6/dca/a16944.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "d6/dca/a16944.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

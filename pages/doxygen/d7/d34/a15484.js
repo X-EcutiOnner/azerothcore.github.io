@@ -1,6 +1,7 @@
 var a15484 =
 [
-    [ "npc_muglashAI", "d1/d7e/a15488.html", "d1/d7e/a15488" ],
-    [ "npc_muglash", "d7/d34/a15484.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d7/d34/a15484.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "boss_glob_of_viscidus", "d7/d34/a15484.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d7/d34/a15484.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d7/d34/a15484.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d7/d34/a15484.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

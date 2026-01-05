@@ -1,13 +1,9 @@
 var a24992 =
 [
-    [ "CalcPeriodic", "df/ddb/a24992.html#a08dca1818a687bb5862779e261dafb00", null ],
-    [ "CalculateExpertiseAmount", "df/ddb/a24992.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
-    [ "CalculateHitAmount", "df/ddb/a24992.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
-    [ "CalculateSpellHitAmount", "df/ddb/a24992.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
-    [ "HandleEffectApply", "df/ddb/a24992.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
-    [ "HandlePeriodic", "df/ddb/a24992.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
-    [ "PrepareAuraScript", "df/ddb/a24992.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
-    [ "Register", "df/ddb/a24992.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
-    [ "cap", "df/ddb/a24992.html#a9c3e35d01ad863d146566efe7cca2637", null ],
-    [ "maxChance", "df/ddb/a24992.html#a34933c7fe8b570214c821347f4ba974b", null ]
+    [ "Absorb", "df/ddb/a24992.html#a8f6e773840274e07d685c891561f72d8", null ],
+    [ "CalculateAmount", "df/ddb/a24992.html#af337ef5d5cea283f4e43b943961838d6", null ],
+    [ "Load", "df/ddb/a24992.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
+    [ "PrepareAuraScript", "df/ddb/a24992.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
+    [ "Register", "df/ddb/a24992.html#a80982626e1b67374629cb6e0800ccaea", null ],
+    [ "absorbPct", "df/ddb/a24992.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
 ];

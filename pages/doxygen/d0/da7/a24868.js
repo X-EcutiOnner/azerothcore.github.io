@@ -1,9 +1,6 @@
 var a24868 =
 [
-    [ "Absorb", "d0/da7/a24868.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "d0/da7/a24868.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "d0/da7/a24868.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "d0/da7/a24868.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "d0/da7/a24868.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "d0/da7/a24868.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "RaiseDeadCheck", "d0/da7/a24868.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d0/da7/a24868.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d0/da7/a24868.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

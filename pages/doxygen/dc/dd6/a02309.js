@@ -1,6 +1,33 @@
 var a02309 =
 [
-    [ "instance_razorfen_downs", "dc/d4a/a15179.html", "dc/d4a/a15179" ],
-    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "dd/d37/a15183.html", "dd/d37/a15183" ],
-    [ "AddSC_instance_razorfen_downs", "dc/dd6/a02309.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
+    [ "npc_belnistrasz", "d3/d97/a15204.html", "d3/d97/a15204" ],
+    [ "npc_belnistrasz::npc_belnistraszAI", "d6/db3/a15208.html", "d6/db3/a15208" ],
+    [ "npc_idol_room_spawner", "dd/dc4/a15212.html", "dd/dc4/a15212" ],
+    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "da/deb/a15216.html", "da/deb/a15216" ],
+    [ "Belnistrasz", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afba", [
+      [ "EVENT_CHANNEL", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
+      [ "EVENT_IDOL_ROOM_SPAWNER", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
+      [ "EVENT_PROGRESS", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
+      [ "EVENT_COMPLETE", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
+      [ "EVENT_FIREBALL", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROST_NOVA", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
+      [ "PATH_ESCORT", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
+      [ "POINT_REACH_IDOL", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
+      [ "QUEST_EXTINGUISHING_THE_IDOL", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
+      [ "SAY_QUEST_ACCEPTED", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
+      [ "SAY_EVENT_START", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
+      [ "SAY_EVENT_THREE_MIN_LEFT", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
+      [ "SAY_EVENT_TWO_MIN_LEFT", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
+      [ "SAY_EVENT_ONE_MIN_LEFT", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
+      [ "SAY_EVENT_END", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
+      [ "SAY_AGGRO", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_WATCH_OUT", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
+      [ "SPELL_ARCANE_INTELLECT", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
+      [ "SPELL_FIREBALL", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROST_NOVA", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
+      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "dc/dd6/a02309.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
+    ] ],
+    [ "AddSC_razorfen_downs", "dc/dd6/a02309.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
+    [ "PosSummonSpawner", "dc/dd6/a02309.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
 ];

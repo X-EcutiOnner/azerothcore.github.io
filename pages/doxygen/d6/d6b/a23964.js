@@ -1,13 +1,7 @@
 var a23964 =
 [
-    [ "advisor_baseAI", "d6/d6b/a23964.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "d6/d6b/a23964.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "d6/d6b/a23964.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "d6/d6b/a23964.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "Reset", "d6/d6b/a23964.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "d6/d6b/a23964.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "d6/d6b/a23964.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "d6/d6b/a23964.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "d6/d6b/a23964.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "d6/d6b/a23964.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "boss_zereketh_the_unbound", "d6/d6b/a23964.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d6/d6b/a23964.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d6/d6b/a23964.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d6/d6b/a23964.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

@@ -1,7 +1,9 @@
 var a16812 =
 [
-    [ "HandleAfterEffectAbsorb", "d1/d02/a16812.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d1/d02/a16812.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d1/d02/a16812.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d1/d02/a16812.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_fel_infernalAI", "d1/d02/a16812.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
+    [ "EnterEvadeMode", "d1/d02/a16812.html#aedec8729b9be931a74fe00d1aa649848", null ],
+    [ "JustDied", "d1/d02/a16812.html#a599786069f98231eeb7f9ca809f8e671", null ],
+    [ "Reset", "d1/d02/a16812.html#a09f408c9250467228b91ef9f6c9544f4", null ],
+    [ "UpdateAI", "d1/d02/a16812.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
+    [ "events", "d1/d02/a16812.html#acf955037c246f7b5f12cc5338b300b63", null ]
 ];

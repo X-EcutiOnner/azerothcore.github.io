@@ -1,9 +1,7 @@
 var a17240 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/dd5/a17240.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d2/dd5/a17240.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d2/dd5/a17240.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d2/dd5/a17240.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d2/dd5/a17240.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d2/dd5/a17240.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "HandleEffectPeriodic", "d2/dd5/a17240.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d2/dd5/a17240.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d2/dd5/a17240.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d2/dd5/a17240.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

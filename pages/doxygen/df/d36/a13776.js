@@ -1,10 +1,6 @@
 var a13776 =
 [
-    [ "npc_sentinel_leader", "df/d36/a13776.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "df/d36/a13776.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "df/d36/a13776.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "df/d36/a13776.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "df/d36/a13776.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "df/d36/a13776.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "df/d36/a13776.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "HandleSendEvent", "df/d36/a13776.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "df/d36/a13776.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "df/d36/a13776.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

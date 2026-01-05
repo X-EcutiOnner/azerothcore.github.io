@@ -1,8 +1,6 @@
 var a10752 =
 [
-    [ "GuildBankQueryTab", "d4/d84/a10752.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "d4/d84/a10752.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "d4/d84/a10752.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "d4/d84/a10752.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "d4/d84/a10752.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "GuildUpdateInfoText", "d4/d84/a10752.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "d4/d84/a10752.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "d4/d84/a10752.html#a786802ce427465d66a4cea1365743975", null ]
 ];

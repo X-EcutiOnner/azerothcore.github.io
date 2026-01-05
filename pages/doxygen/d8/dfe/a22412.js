@@ -1,6 +1,6 @@
 var a22412 =
 [
-    [ "npc_wild_wyrmAI", "d0/d0b/a22416.html", "d0/d0b/a22416" ],
-    [ "npc_wild_wyrm", "d8/dfe/a22412.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "d8/dfe/a22412.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "npc_avatar_of_freya", "d8/dfe/a22412.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d8/dfe/a22412.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d8/dfe/a22412.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

@@ -1,10 +1,18 @@
 var a12612 =
 [
-    [ "npc_core_ragerAI", "d8/d8d/a12612.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "d8/d8d/a12612.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "d8/d8d/a12612.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "d8/d8d/a12612.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "d8/d8d/a12612.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "d8/d8d/a12612.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "d8/d8d/a12612.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "boss_vaelAI", "d8/d8d/a12612.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
+    [ "BeginSpeech", "d8/d8d/a12612.html#a448dcc64099fff57b4c18841f8715dbe", null ],
+    [ "Initialize", "d8/d8d/a12612.html#a4364710f3634b6caeea3b739efe7dc56", null ],
+    [ "JustEngagedWith", "d8/d8d/a12612.html#a860aa0077f235f652bd6f9a247a40e30", null ],
+    [ "JustSummoned", "d8/d8d/a12612.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
+    [ "KilledUnit", "d8/d8d/a12612.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
+    [ "Reset", "d8/d8d/a12612.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
+    [ "sGossipSelect", "d8/d8d/a12612.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
+    [ "UpdateAI", "d8/d8d/a12612.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
+    [ "_burningAdrenalineCast", "d8/d8d/a12612.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
+    [ "_eventsIntro", "d8/d8d/a12612.html#aed37566236cb2872b3a85de9f994f0cb", null ],
+    [ "_introDone", "d8/d8d/a12612.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
+    [ "HasYelled", "d8/d8d/a12612.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
+    [ "m_nefariusGuid", "d8/d8d/a12612.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
+    [ "PlayerGUID", "d8/d8d/a12612.html#a1a86b7b15e0a435284afab6ac724968c", null ]
 ];

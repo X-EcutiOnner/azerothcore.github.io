@@ -1,4 +1,6 @@
 var a28392 =
 [
-    [ "ratio", "d0/d27/a28392.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
+    [ "ChannelID", "d0/d27/a28392.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d0/d27/a28392.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d0/d27/a28392.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

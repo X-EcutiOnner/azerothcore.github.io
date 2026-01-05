@@ -1,12 +1,7 @@
 var a13544 =
 [
-    [ "npc_kiljaeden_controller", "d0/dff/a13544.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d0/dff/a13544.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d0/dff/a13544.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d0/dff/a13544.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d0/dff/a13544.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d0/dff/a13544.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d0/dff/a13544.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d0/dff/a13544.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d0/dff/a13544.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "HandleScript", "d0/dff/a13544.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d0/dff/a13544.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d0/dff/a13544.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d0/dff/a13544.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

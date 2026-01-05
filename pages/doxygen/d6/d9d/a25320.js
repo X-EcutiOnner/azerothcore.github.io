@@ -1,8 +1,10 @@
 var a25320 =
 [
-    [ "CheckCast", "d6/d9d/a25320.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "d6/d9d/a25320.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "d6/d9d/a25320.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "d6/d9d/a25320.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "d6/d9d/a25320.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "Load", "d6/d9d/a25320.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d6/d9d/a25320.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d6/d9d/a25320.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d6/d9d/a25320.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d6/d9d/a25320.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d6/d9d/a25320.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d6/d9d/a25320.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

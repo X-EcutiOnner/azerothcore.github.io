@@ -1,10 +1,13 @@
 var a10824 =
 [
-    [ "SplitItem", "db/da6/a10824.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
-    [ "Read", "db/da6/a10824.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
-    [ "Count", "db/da6/a10824.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
-    [ "DestinationBag", "db/da6/a10824.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
-    [ "DestinationSlot", "db/da6/a10824.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
-    [ "SourceBag", "db/da6/a10824.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
-    [ "SourceSlot", "db/da6/a10824.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
+    [ "GuildBankQueryResults", "db/da6/a10824.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "db/da6/a10824.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "db/da6/a10824.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "db/da6/a10824.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "db/da6/a10824.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "db/da6/a10824.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "db/da6/a10824.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "db/da6/a10824.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "db/da6/a10824.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "db/da6/a10824.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

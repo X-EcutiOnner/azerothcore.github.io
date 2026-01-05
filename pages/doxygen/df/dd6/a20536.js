@@ -1,6 +1,6 @@
 var a20536 =
 [
-    [ "OnRemoveStun", "df/dd6/a20536.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "df/dd6/a20536.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "df/dd6/a20536.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "boss_ignisAI", "db/d05/a20540.html", "db/d05/a20540" ],
+    [ "boss_ignis", "df/dd6/a20536.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "df/dd6/a20536.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

@@ -1,7 +1,5 @@
 var a28628 =
 [
-    [ "ClassMask", "d5/d51/a28628.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "d5/d51/a28628.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "d5/d51/a28628.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "d5/d51/a28628.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "Exp", "d5/d51/a28628.html#aa34490babd6ccdc45857947db3f36d60", null ],
+    [ "id", "d5/d51/a28628.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
 ];

@@ -1,12 +1,5 @@
 var a12956 =
 [
-    [ "boss_bigbadwolf", "de/daa/a12956.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "de/daa/a12956.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "de/daa/a12956.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "de/daa/a12956.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "de/daa/a12956.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "de/daa/a12956.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "de/daa/a12956.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "de/daa/a12956.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "de/daa/a12956.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "at_karazhan_atiesh_aran", "de/daa/a12956.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "de/daa/a12956.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

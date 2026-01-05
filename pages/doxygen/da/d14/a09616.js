@@ -1,10 +1,17 @@
 var a09616 =
 [
-    [ "PlayerMoveItemData", "da/d14/a09616.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "da/d14/a09616.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "da/d14/a09616.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "da/d14/a09616.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "da/d14/a09616.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "da/d14/a09616.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "da/d14/a09616.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "EmblemInfo", "da/d14/a09616.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
+    [ "GetBackgroundColor", "da/d14/a09616.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
+    [ "GetBorderColor", "da/d14/a09616.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
+    [ "GetBorderStyle", "da/d14/a09616.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
+    [ "GetColor", "da/d14/a09616.html#a15108f3a2a93ebbc01111672dd238d63", null ],
+    [ "GetStyle", "da/d14/a09616.html#a0e6d684542535d537bdeba4104b7a18d", null ],
+    [ "LoadFromDB", "da/d14/a09616.html#a17de371e72a2b29a7f249dbe912636bc", null ],
+    [ "ReadPacket", "da/d14/a09616.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
+    [ "SaveToDB", "da/d14/a09616.html#aea1326261d893ef3beff026402bf8272", null ],
+    [ "m_backgroundColor", "da/d14/a09616.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
+    [ "m_borderColor", "da/d14/a09616.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
+    [ "m_borderStyle", "da/d14/a09616.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
+    [ "m_color", "da/d14/a09616.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
+    [ "m_style", "da/d14/a09616.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
 ];

@@ -1,6 +1,5 @@
 var a15236 =
 [
-    [ "HandleDamageCalc", "da/dd8/a15236.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "da/dd8/a15236.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "da/dd8/a15236.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "npc_hive_zara_swarmer", "da/dd8/a15236.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "da/dd8/a15236.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

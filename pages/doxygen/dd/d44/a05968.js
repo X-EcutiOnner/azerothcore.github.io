@@ -1,11 +1,10 @@
 var a05968 =
 [
-    [ "AppliedFileEntry", "dd/d44/a05968.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "dd/d44/a05968.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "dd/d44/a05968.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "dd/d44/a05968.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "dd/d44/a05968.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "dd/d44/a05968.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "dd/d44/a05968.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "dd/d44/a05968.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "TransactionCallback", "dd/d44/a05968.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "dd/d44/a05968.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "dd/d44/a05968.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "dd/d44/a05968.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "dd/d44/a05968.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "dd/d44/a05968.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "dd/d44/a05968.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

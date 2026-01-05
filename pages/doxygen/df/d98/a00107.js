@@ -1,7 +1,4 @@
 var a00107 =
 [
-    [ "AuraApplication", "dd/d8b/a11311.html", "dd/d8b/a11311" ],
-    [ "Aura", "d1/de3/a11315.html", "d1/de3/a11315" ],
-    [ "UnitAura", "d5/d0f/a11319.html", "d5/d0f/a11319" ],
-    [ "DynObjAura", "d4/db3/a11323.html", "d4/db3/a11323" ]
+    [ "UPDATE_TARGET_MAP_INTERVAL", "df/d98/a00107.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
 ];

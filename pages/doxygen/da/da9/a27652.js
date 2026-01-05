@@ -1,8 +1,5 @@
 var a27652 =
 [
-    [ "npc_artoriusAI", "dd/dcc/a27656.html", "dd/dcc/a27656" ],
-    [ "npc_artorius", "da/da9/a27652.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "da/da9/a27652.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "da/da9/a27652.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "da/da9/a27652.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "go_massive_seaforium_charge", "da/da9/a27652.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "da/da9/a27652.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

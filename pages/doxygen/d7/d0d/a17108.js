@@ -1,17 +1,15 @@
 var a17108 =
 [
-    [ "npc_hor_lich_kingAI", "d7/d0d/a17108.html#a689fd445286595780c3d842976a5913f", null ],
-    [ "DoAction", "d7/d0d/a17108.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
-    [ "JustSummoned", "d7/d0d/a17108.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
-    [ "MovementInform", "d7/d0d/a17108.html#aeeea82d3e5869e5f604314474533975c", null ],
-    [ "Reset", "d7/d0d/a17108.html#a1f1bb445ea29daaf479e7171c96db901", null ],
-    [ "SpellHitTarget", "d7/d0d/a17108.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
-    [ "SummonedCreatureDespawn", "d7/d0d/a17108.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
-    [ "UpdateAI", "d7/d0d/a17108.html#a127cc66ea4804da51eb9069037b9ba33", null ],
-    [ "currentWall", "d7/d0d/a17108.html#a13c505b17edf9f843c6c638802eb62aa", null ],
-    [ "div2", "d7/d0d/a17108.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
-    [ "events", "d7/d0d/a17108.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
-    [ "pInstance", "d7/d0d/a17108.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
-    [ "reqKillCount", "d7/d0d/a17108.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
-    [ "summons", "d7/d0d/a17108.html#af55dd229cd141ffab701c6ab77304127", null ]
+    [ "boss_falricAI", "d7/d0d/a17108.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "d7/d0d/a17108.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "d7/d0d/a17108.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "d7/d0d/a17108.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "d7/d0d/a17108.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "d7/d0d/a17108.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "d7/d0d/a17108.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "d7/d0d/a17108.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "d7/d0d/a17108.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "d7/d0d/a17108.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "d7/d0d/a17108.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "d7/d0d/a17108.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

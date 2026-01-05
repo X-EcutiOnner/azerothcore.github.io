@@ -1,6 +1,13 @@
 var a16364 =
 [
-    [ "npc_living_infernoAI", "df/d20/a16364.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "df/d20/a16364.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "df/d20/a16364.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "boss_twilight_halionAI", "df/d20/a16364.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "df/d20/a16364.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "df/d20/a16364.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "df/d20/a16364.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "df/d20/a16364.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "df/d20/a16364.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "df/d20/a16364.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "df/d20/a16364.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "df/d20/a16364.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "df/d20/a16364.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

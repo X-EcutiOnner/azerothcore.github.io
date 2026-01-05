@@ -1,12 +1,7 @@
 var a19612 =
 [
-    [ "npc_oculus_drakeAI", "dd/d3f/a19612.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "dd/d3f/a19612.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "dd/d3f/a19612.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "dd/d3f/a19612.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "dd/d3f/a19612.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "dd/d3f/a19612.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "dd/d3f/a19612.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "dd/d3f/a19612.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "dd/d3f/a19612.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "HandlePull", "dd/d3f/a19612.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "dd/d3f/a19612.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "dd/d3f/a19612.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "dd/d3f/a19612.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

@@ -1,5 +1,6 @@
 var a20756 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "de/def/a20756.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "de/def/a20756.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "boss_razorscaleAI", "d6/d81/a20760.html", "d6/d81/a20760" ],
+    [ "boss_razorscale", "de/def/a20756.html#ad8fe81f1b553414df3fa07c646029065", null ],
+    [ "GetAI", "de/def/a20756.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
 ];

@@ -1,10 +1,12 @@
 var a20712 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "dd/d13/a20712.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "dd/d13/a20712.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "dd/d13/a20712.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "dd/d13/a20712.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "dd/d13/a20712.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "dd/d13/a20712.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "dd/d13/a20712.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "npc_ulduar_flames_initialAI", "dd/d13/a20712.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "dd/d13/a20712.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "dd/d13/a20712.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "dd/d13/a20712.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "dd/d13/a20712.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "dd/d13/a20712.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "dd/d13/a20712.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "dd/d13/a20712.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "dd/d13/a20712.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

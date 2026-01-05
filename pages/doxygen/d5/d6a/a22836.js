@@ -1,6 +1,12 @@
 var a22836 =
 [
-    [ "PrepareSpellScript", "d5/d6a/a22836.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d5/d6a/a22836.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d5/d6a/a22836.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "boss_exarch_maladaar", "d5/d6a/a22836.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d5/d6a/a22836.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d5/d6a/a22836.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d5/d6a/a22836.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d5/d6a/a22836.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d5/d6a/a22836.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d5/d6a/a22836.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d5/d6a/a22836.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d5/d6a/a22836.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

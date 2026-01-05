@@ -1,6 +1,7 @@
 var a15076 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d8/da2/a15080.html", "d8/da2/a15080" ],
-    [ "instance_maraudon", "d1/d53/a15076.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d1/d53/a15076.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "boss_epoch_hunter", "d1/d53/a15076.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d1/d53/a15076.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d1/d53/a15076.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d1/d53/a15076.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

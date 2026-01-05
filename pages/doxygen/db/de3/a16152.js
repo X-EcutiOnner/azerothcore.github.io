@@ -1,6 +1,6 @@
 var a16152 =
 [
-    [ "boss_sartharion_shadronAI", "d8/de2/a16156.html", "d8/de2/a16156" ],
-    [ "boss_sartharion_shadron", "db/de3/a16152.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "db/de3/a16152.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "PrepareSpellScript", "db/de3/a16152.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "db/de3/a16152.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "db/de3/a16152.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

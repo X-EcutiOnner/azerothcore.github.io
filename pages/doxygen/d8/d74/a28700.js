@@ -1,16 +1,10 @@
 var a28700 =
 [
-    [ "~SocketMgr", "d8/d74/a28700.html#a8c8b979692599a68d6f9dbe864e58645", null ],
-    [ "SocketMgr", "d8/d74/a28700.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
-    [ "CreateThreads", "d8/d74/a28700.html#ac712a459d409da9e8f21603da8aa0305", null ],
-    [ "GetNetworkThreadCount", "d8/d74/a28700.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
-    [ "GetSocketForAccept", "d8/d74/a28700.html#a6d8519103f85522d3bc0bfac5a0955c9", null ],
-    [ "OnSocketOpen", "d8/d74/a28700.html#a83b2b85da48d4ffb0e1ed7577dde75c4", null ],
-    [ "SelectThreadWithMinConnections", "d8/d74/a28700.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
-    [ "StartNetwork", "d8/d74/a28700.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
-    [ "StopNetwork", "d8/d74/a28700.html#a7966832a9ef2151033ac9eeeadffff34", null ],
-    [ "Wait", "d8/d74/a28700.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
-    [ "_acceptor", "d8/d74/a28700.html#af397e6129662d41adeeef25d27a980ea", null ],
-    [ "_threadCount", "d8/d74/a28700.html#abeae5090b8ea81e39465a20c7b960885", null ],
-    [ "_threads", "d8/d74/a28700.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
+    [ "attackSpeed", "d8/d74/a28700.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d8/d74/a28700.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d8/d74/a28700.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d8/d74/a28700.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d8/d74/a28700.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d8/d74/a28700.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d8/d74/a28700.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

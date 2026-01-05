@@ -1,6 +1,9 @@
 var a14912 =
 [
-    [ "boss_infinite_corruptorAI", "de/d23/a14916.html", "de/d23/a14916" ],
-    [ "boss_infinite_corruptor", "d6/d12/a14912.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "d6/d12/a14912.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "boss_azgalor", "d6/d12/a14912.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d6/d12/a14912.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d6/d12/a14912.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d6/d12/a14912.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d6/d12/a14912.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "d6/d12/a14912.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

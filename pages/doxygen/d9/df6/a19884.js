@@ -1,6 +1,6 @@
 var a19884 =
 [
-    [ "HandlePeriodic", "d9/df6/a19884.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d9/df6/a19884.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d9/df6/a19884.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "de/dfd/a19888.html", "de/dfd/a19888" ],
+    [ "instance_halls_of_stone", "d9/df6/a19884.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d9/df6/a19884.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

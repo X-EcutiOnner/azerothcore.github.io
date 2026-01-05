@@ -1,9 +1,6 @@
 var a24520 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "de/d6b/a24520.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "de/d6b/a24520.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "de/d6b/a24520.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "de/d6b/a24520.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "de/d6b/a24520.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "de/d6b/a24520.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_kservantAI", "d9/d0f/a24524.html", "d9/d0f/a24524" ],
+    [ "npc_kservant", "de/d6b/a24520.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "de/d6b/a24520.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

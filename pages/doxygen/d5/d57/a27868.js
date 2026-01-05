@@ -1,5 +1,6 @@
 var a27868 =
 [
-    [ "npc_controller", "d5/d57/a27868.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d5/d57/a27868.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_injured_patientAI", "d4/df5/a27872.html", "d4/df5/a27872" ],
+    [ "npc_injured_patient", "d5/d57/a27868.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d5/d57/a27868.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

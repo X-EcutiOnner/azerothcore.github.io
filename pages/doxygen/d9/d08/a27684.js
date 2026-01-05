@@ -1,8 +1,10 @@
 var a27684 =
 [
-    [ "npc_franklinAI", "d6/d3a/a27688.html", "d6/d3a/a27688" ],
-    [ "npc_franklin", "d9/d08/a27684.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d9/d08/a27684.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d9/d08/a27684.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d9/d08/a27684.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "guard_shattrath_aldorAI", "d9/d08/a27684.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d9/d08/a27684.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d9/d08/a27684.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d9/d08/a27684.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d9/d08/a27684.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d9/d08/a27684.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d9/d08/a27684.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

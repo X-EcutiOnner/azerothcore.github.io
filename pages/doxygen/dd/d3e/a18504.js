@@ -1,10 +1,6 @@
 var a18504 =
 [
-    [ "HandleScript", "dd/d3e/a18504.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "dd/d3e/a18504.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "dd/d3e/a18504.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "dd/d3e/a18504.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "dd/d3e/a18504.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "dd/d3e/a18504.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "dd/d3e/a18504.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "HandleScript", "dd/d3e/a18504.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "dd/d3e/a18504.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "dd/d3e/a18504.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

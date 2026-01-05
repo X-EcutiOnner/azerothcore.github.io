@@ -1,6 +1,7 @@
 var a19228 =
 [
-    [ "FilterTargets", "d2/ddc/a19228.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "d2/ddc/a19228.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "d2/ddc/a19228.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "HandleScript", "d2/ddc/a19228.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d2/ddc/a19228.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d2/ddc/a19228.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d2/ddc/a19228.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

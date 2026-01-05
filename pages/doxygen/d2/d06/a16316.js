@@ -1,7 +1,7 @@
 var a16316 =
 [
-    [ "HandleScriptEffect", "d2/d06/a16316.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d2/d06/a16316.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d2/d06/a16316.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d2/d06/a16316.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "CheckDistance", "d2/d06/a16316.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d2/d06/a16316.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d2/d06/a16316.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d2/d06/a16316.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

@@ -1,7 +1,6 @@
 var a21736 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d2/d20/a21736.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d2/d20/a21736.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d2/d20/a21736.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d2/d20/a21736.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_khunok_the_behemothAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
+    [ "npc_khunok_the_behemoth", "d2/d20/a21736.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d2/d20/a21736.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

@@ -1,9 +1,12 @@
 var a23488 =
 [
-    [ "boss_mennu_the_betrayer", "dc/d2b/a23488.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "dc/d2b/a23488.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "dc/d2b/a23488.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "dc/d2b/a23488.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "dc/d2b/a23488.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "dc/d2b/a23488.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d2b/a23488.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "dc/d2b/a23488.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "dc/d2b/a23488.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "dc/d2b/a23488.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnGameObjectCreate", "dc/d2b/a23488.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "dc/d2b/a23488.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "dc/d2b/a23488.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "dc/d2b/a23488.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
+    [ "_shieldGeneratorGUID", "dc/d2b/a23488.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

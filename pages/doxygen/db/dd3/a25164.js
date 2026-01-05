@@ -1,6 +1,6 @@
 var a25164 =
 [
-    [ "HandleScript", "db/dd3/a25164.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "db/dd3/a25164.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "db/dd3/a25164.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "CheckLevel", "db/dd3/a25164.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "db/dd3/a25164.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "db/dd3/a25164.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

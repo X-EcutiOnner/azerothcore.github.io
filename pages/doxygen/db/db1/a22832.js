@@ -1,11 +1,18 @@
 var a22832 =
 [
-    [ "boss_murmur", "db/db1/a22832.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "db/db1/a22832.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "db/db1/a22832.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "db/db1/a22832.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "db/db1/a22832.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "db/db1/a22832.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "db/db1/a22832.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "db/db1/a22832.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "OutdoorPvPZM", "db/db1/a22832.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "db/db1/a22832.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "db/db1/a22832.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "db/db1/a22832.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "db/db1/a22832.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "db/db1/a22832.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "db/db1/a22832.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "db/db1/a22832.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "db/db1/a22832.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "db/db1/a22832.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "db/db1/a22832.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "db/db1/a22832.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "db/db1/a22832.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "db/db1/a22832.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "db/db1/a22832.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

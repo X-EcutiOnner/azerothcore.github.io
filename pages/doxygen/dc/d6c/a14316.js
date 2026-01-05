@@ -1,10 +1,6 @@
 var a14316 =
 [
-    [ "npc_zealot_zath", "dc/d6c/a14316.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "dc/d6c/a14316.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "dc/d6c/a14316.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "dc/d6c/a14316.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "dc/d6c/a14316.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "dc/d6c/a14316.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "dc/d6c/a14316.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "HandleOnHit", "dc/d6c/a14316.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "dc/d6c/a14316.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "dc/d6c/a14316.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

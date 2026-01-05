@@ -1,12 +1,9 @@
 var a22160 =
 [
-    [ "npc_your_inner_turmoilAI", "d4/dbe/a22160.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
-    [ "DamageTaken", "d4/dbe/a22160.html#a0e14a306db46e817e6d8f7a358519f83", null ],
-    [ "JustDied", "d4/dbe/a22160.html#a142359bf1661542d044a7d27b764832b", null ],
-    [ "Reset", "d4/dbe/a22160.html#a4e17e9642ec11712652f41495974b716", null ],
-    [ "setphase", "d4/dbe/a22160.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
-    [ "UpdateAI", "d4/dbe/a22160.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
-    [ "health50", "d4/dbe/a22160.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
-    [ "phase", "d4/dbe/a22160.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
-    [ "timer", "d4/dbe/a22160.html#af2c272de51aa15a41af9837f99256a62", null ]
+    [ "npc_wounded_skirmisher", "d4/dbe/a22160.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d4/dbe/a22160.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d4/dbe/a22160.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d4/dbe/a22160.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d4/dbe/a22160.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d4/dbe/a22160.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

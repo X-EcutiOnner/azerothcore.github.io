@@ -1,5 +1,6 @@
 var a19512 =
 [
-    [ "achievement_intense_cold", "d4/d2d/a19512.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d4/d2d/a19512.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "npc_power_sparkAI", "df/d94/a19516.html", "df/d94/a19516" ],
+    [ "npc_power_spark", "d4/d2d/a19512.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
+    [ "GetAI", "d4/d2d/a19512.html#a573198b86697d222c693581bf430453f", null ]
 ];

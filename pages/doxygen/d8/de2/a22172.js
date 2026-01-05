@@ -1,6 +1,9 @@
 var a22172 =
 [
-    [ "npc_plaguehound_trackerAI", "d5/d70/a22176.html", "d5/d70/a22176" ],
-    [ "npc_plaguehound_tracker", "d8/de2/a22172.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d8/de2/a22172.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_venture_co_stragglerAI", "d8/de2/a22172.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d8/de2/a22172.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d8/de2/a22172.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d8/de2/a22172.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d8/de2/a22172.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d8/de2/a22172.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

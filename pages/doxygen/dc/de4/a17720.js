@@ -1,8 +1,9 @@
 var a17720 =
 [
-    [ "ResetEncounterEvent", "dc/de4/a17720.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "dc/de4/a17720.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "dc/de4/a17720.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "dc/de4/a17720.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "dc/de4/a17720.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "CheckProc", "dc/de4/a17720.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "dc/de4/a17720.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "dc/de4/a17720.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "dc/de4/a17720.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "dc/de4/a17720.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "dc/de4/a17720.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

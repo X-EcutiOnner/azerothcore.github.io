@@ -1,6 +1,6 @@
 var a16264 =
 [
-    [ "boss_twilight_halionAI", "dd/d79/a16268.html", "dd/d79/a16268" ],
-    [ "boss_twilight_halion", "d0/d02/a16264.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d0/d02/a16264.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "npc_twilight_summonAI", "dd/d79/a16268.html", "dd/d79/a16268" ],
+    [ "npc_twilight_summon", "d0/d02/a16264.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d0/d02/a16264.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

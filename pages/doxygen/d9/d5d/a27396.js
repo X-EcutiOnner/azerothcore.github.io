@@ -1,5 +1,6 @@
 var a27396 =
 [
-    [ "go_ethereum_stasis", "d9/d5d/a27396.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "d9/d5d/a27396.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "AreaTrigger_at_brewfest", "d9/d5d/a27396.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d9/d5d/a27396.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d9/d5d/a27396.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

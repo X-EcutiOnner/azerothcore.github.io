@@ -1,6 +1,6 @@
 var a18000 =
 [
-    [ "PrepareSpellScript", "d4/d9a/a18000.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d4/d9a/a18000.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d4/d9a/a18000.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "DaranavanMoveEvent", "d4/d9a/a18000.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d4/d9a/a18000.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d4/d9a/a18000.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

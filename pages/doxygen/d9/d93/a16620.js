@@ -1,6 +1,6 @@
 var a16620 =
 [
-    [ "npc_toc_mageAI", "da/d26/a16624.html", "da/d26/a16624" ],
-    [ "npc_toc_mage", "d9/d93/a16620.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "d9/d93/a16620.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_swarm_scarabAI", "da/d26/a16624.html", "da/d26/a16624" ],
+    [ "npc_swarm_scarab", "d9/d93/a16620.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d9/d93/a16620.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

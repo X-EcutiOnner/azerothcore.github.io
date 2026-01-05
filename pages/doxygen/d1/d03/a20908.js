@@ -1,12 +1,11 @@
 var a20908 =
 [
-    [ "npc_xt002_boombotAI", "d1/d03/a20908.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "d1/d03/a20908.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "d1/d03/a20908.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "d1/d03/a20908.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "d1/d03/a20908.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "d1/d03/a20908.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "d1/d03/a20908.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "d1/d03/a20908.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "d1/d03/a20908.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "boss_thorim_arena_npcsAI", "d1/d03/a20908.html#aab66eff737c803f6680ca5f93baaa6ca", null ],
+    [ "CanAIAttack", "d1/d03/a20908.html#ae214fabcc4db1f40a15be3369e66b030", null ],
+    [ "JustEngagedWith", "d1/d03/a20908.html#a60530453c2cbf5f22fb0d45088f90706", null ],
+    [ "Reset", "d1/d03/a20908.html#a83cb4bdb14a757733333f94d02fbf8db", null ],
+    [ "SelectT", "d1/d03/a20908.html#a84f22d142aad0ed7354784192bd5df3b", null ],
+    [ "UpdateAI", "d1/d03/a20908.html#acf09c7b12bce41c38980905457d4dbb4", null ],
+    [ "_isCaster", "d1/d03/a20908.html#a2c55eacc7b16be459935b586a0654500", null ],
+    [ "events", "d1/d03/a20908.html#aea5a9f9c915a7827316c48a504bc992e", null ]
 ];

@@ -1,6 +1,6 @@
 var a16912 =
 [
-    [ "HandleScriptEffect", "d3/d87/a16912.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d3/d87/a16912.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d3/d87/a16912.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "HandleEffectPeriodic", "d3/d87/a16912.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d3/d87/a16912.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d3/d87/a16912.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

@@ -1,23 +1,17 @@
 var a05524 =
 [
-    [ "AbortState", "d7/d66/a05524.html#a3f26f839ff35d80af2a8f885ca1a1554", [
-      [ "STATE_RUNNING", "d7/d66/a05524.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e", null ],
-      [ "STATE_ABORT_SCHEDULED", "d7/d66/a05524.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a", null ],
-      [ "STATE_ABORTED", "d7/d66/a05524.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5", null ]
-    ] ],
-    [ "BasicEvent", "d7/d66/a05524.html#a9c3cd17edab7fc410f88bb680d756975", null ],
-    [ "~BasicEvent", "d7/d66/a05524.html#a0c3860e1c8854c2db20a225944792afd", null ],
-    [ "Abort", "d7/d66/a05524.html#a5584968148a48bd7ba072515bd489963", null ],
-    [ "Execute", "d7/d66/a05524.html#a89297a10b64d01895332655122ed8ccb", null ],
-    [ "IsAborted", "d7/d66/a05524.html#a4b05df0749b6a18ef0e0b4137e727d7d", null ],
-    [ "IsAbortScheduled", "d7/d66/a05524.html#a1ee71d72964b7124e8e137b02c81eac2", null ],
-    [ "IsDeletable", "d7/d66/a05524.html#a62c0483af9fd1885e779cf088a50eb02", null ],
-    [ "IsRunning", "d7/d66/a05524.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2", null ],
-    [ "ScheduleAbort", "d7/d66/a05524.html#afafade0729f08b8f1193a66f50c18348", null ],
-    [ "SetAborted", "d7/d66/a05524.html#a9224c2878bff4f6df28bedb973be2d27", null ],
-    [ "EventProcessor", "d7/d66/a05524.html#acce868eb94e25fcad6a070753b63bdfc", null ],
-    [ "m_abortState", "d7/d66/a05524.html#afd9cf18b8a00c6195b9120f3fcf7ca69", null ],
-    [ "m_addTime", "d7/d66/a05524.html#ac236835e6298588e834cde7a8c2bfece", null ],
-    [ "m_eventGroup", "d7/d66/a05524.html#a2ee03f01e03347d04eb38a215d10f036", null ],
-    [ "m_execTime", "d7/d66/a05524.html#afbd8d5728992e7676fde628fc03dc588", null ]
+    [ "CircularBuffer", "d7/d66/a05524.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
+    [ "capacity", "d7/d66/a05524.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
+    [ "content", "d7/d66/a05524.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
+    [ "empty", "d7/d66/a05524.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
+    [ "full", "d7/d66/a05524.html#a2a2f13f00dca028142c250b5f2183097", null ],
+    [ "peak_back", "d7/d66/a05524.html#ad4bb17889033526da4605ebddd60f3c7", null ],
+    [ "put", "d7/d66/a05524.html#a2a5e093804731b69969c18e49a206572", null ],
+    [ "size", "d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7", null ],
+    [ "buf_", "d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
+    [ "full_", "d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
+    [ "head_", "d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
+    [ "max_size_", "d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a", null ],
+    [ "mutex_", "d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
+    [ "tail_", "d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
 ];

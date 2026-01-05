@@ -1,5 +1,6 @@
 var a20452 =
 [
-    [ "achievement_i_have_the_coolest_friends", "dc/dce/a20452.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "dc/dce/a20452.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "npc_ulduar_hodir_mageAI", "df/de2/a20456.html", "df/de2/a20456" ],
+    [ "npc_ulduar_hodir_mage", "dc/dce/a20452.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "dc/dce/a20452.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

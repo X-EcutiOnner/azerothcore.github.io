@@ -1,10 +1,7 @@
 var a24760 =
 [
-    [ "HandleEffectRemove", "d1/dce/a24760.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "d1/dce/a24760.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "d1/dce/a24760.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "d1/dce/a24760.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "d1/dce/a24760.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "d1/dce/a24760.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "d1/dce/a24760.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "HandleProc", "d1/dce/a24760.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d1/dce/a24760.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d1/dce/a24760.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d1/dce/a24760.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

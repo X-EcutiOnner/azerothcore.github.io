@@ -1,5 +1,6 @@
 var a27280 =
 [
-    [ "AreaTrigger_at_last_rites", "d9/d2b/a27280.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d9/d2b/a27280.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "HandleOnHit", "d9/d2b/a27280.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d9/d2b/a27280.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d9/d2b/a27280.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

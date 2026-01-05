@@ -1,6 +1,8 @@
 var a15340 =
 [
-    [ "OnRemove", "d7/d6b/a15340.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d7/d6b/a15340.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d7/d6b/a15340.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "npc_obsidian_destroyer", "d7/d6b/a15340.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d7/d6b/a15340.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d7/d6b/a15340.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d7/d6b/a15340.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d7/d6b/a15340.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

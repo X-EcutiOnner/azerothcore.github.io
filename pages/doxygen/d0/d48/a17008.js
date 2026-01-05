@@ -1,6 +1,6 @@
 var a17008 =
 [
-    [ "boss_falricAI", "d5/d67/a17012.html", "d5/d67/a17012" ],
-    [ "boss_falric", "d0/d48/a17008.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "d0/d48/a17008.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "HandleScriptEffect", "d0/d48/a17008.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "d0/d48/a17008.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "d0/d48/a17008.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

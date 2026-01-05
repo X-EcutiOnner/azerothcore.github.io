@@ -1,9 +1,8 @@
 var a26340 =
 [
-    [ "CheckCast", "db/db4/a26340.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "db/db4/a26340.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "db/db4/a26340.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "db/db4/a26340.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "db/db4/a26340.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "db/db4/a26340.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "HandleDummy", "db/db4/a26340.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "db/db4/a26340.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "db/db4/a26340.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "db/db4/a26340.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "db/db4/a26340.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

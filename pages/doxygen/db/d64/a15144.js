@@ -1,14 +1,8 @@
 var a15144 =
 [
-    [ "boss_ayamiss", "db/d64/a15144.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "db/d64/a15144.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "db/d64/a15144.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "db/d64/a15144.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "db/d64/a15144.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "db/d64/a15144.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "db/d64/a15144.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "db/d64/a15144.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "db/d64/a15144.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "db/d64/a15144.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "db/d64/a15144.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "Load", "db/d64/a15144.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "db/d64/a15144.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "db/d64/a15144.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "db/d64/a15144.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "db/d64/a15144.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

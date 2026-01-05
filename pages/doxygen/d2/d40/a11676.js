@@ -1,12 +1,11 @@
 var a11676 =
 [
-    [ "Action", "d2/d40/a11676.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d2/d40/a11676.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d2/d40/a11676.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d2/d40/a11676.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d2/d40/a11676.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d2/d40/a11676.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d2/d40/a11676.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d2/d40/a11676.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d2/d40/a11676.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "WorldUpdateTime", "d2/d40/a11676.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d2/d40/a11676.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d2/d40/a11676.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d2/d40/a11676.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d2/d40/a11676.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d2/d40/a11676.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d2/d40/a11676.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d2/d40/a11676.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

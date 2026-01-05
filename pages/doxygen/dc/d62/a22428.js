@@ -1,6 +1,9 @@
 var a22428 =
 [
-    [ "npc_roxi_ramrocket", "dc/d62/a22428.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "dc/d62/a22428.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "dc/d62/a22428.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_engineer_heliceAI", "dc/d62/a22428.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "dc/d62/a22428.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "dc/d62/a22428.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "dc/d62/a22428.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "dc/d62/a22428.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "dc/d62/a22428.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

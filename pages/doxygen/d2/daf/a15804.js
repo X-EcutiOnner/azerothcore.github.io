@@ -1,6 +1,6 @@
 var a15804 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d2/daf/a15804.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d2/daf/a15804.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d2/daf/a15804.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "Creature", "d2/daf/a15804.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d2/daf/a15804.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d2/daf/a15804.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

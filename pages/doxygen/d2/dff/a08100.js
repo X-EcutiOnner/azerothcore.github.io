@@ -1,8 +1,19 @@
 var a08100 =
 [
-    [ "bounding_radius", "d2/dff/a08100.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d2/dff/a08100.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d2/dff/a08100.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d2/dff/a08100.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d2/dff/a08100.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "CreatureMovementData", "d2/dff/a08100.html#acb8099aff89bb3526a78073fd5503e9b", null ],
+    [ "GetChase", "d2/dff/a08100.html#aa9e0267e4c73ec837653113394841fcf", null ],
+    [ "GetInteractionPauseTimer", "d2/dff/a08100.html#ac16489cdc845f350e98da595269b7770", null ],
+    [ "GetRandom", "d2/dff/a08100.html#af2c8281192f6234bd19e030237c77b5a", null ],
+    [ "IsFlightAllowed", "d2/dff/a08100.html#ad2e480bc7a0b98c417be077305392647", null ],
+    [ "IsGroundAllowed", "d2/dff/a08100.html#a0820b5840321870dafa9119d404ad0d9", null ],
+    [ "IsRooted", "d2/dff/a08100.html#a530b2bbf530e553687c23555f3ffe655", null ],
+    [ "IsSwimAllowed", "d2/dff/a08100.html#a3ed4b7f140537f9d066344c50a79b0b1", null ],
+    [ "ToString", "d2/dff/a08100.html#ad76c73b59fa83682a9ae43389fed95b0", null ],
+    [ "Chase", "d2/dff/a08100.html#ae2a19ebf47bacb304a450f7d9c6dbc6d", null ],
+    [ "Flight", "d2/dff/a08100.html#aa535d32995ba28e11915dd56494f4a72", null ],
+    [ "Ground", "d2/dff/a08100.html#ae603273724f448c95dc3a7cd3aec5b68", null ],
+    [ "InteractionPauseTimer", "d2/dff/a08100.html#ae701d7622d7e24c0b8673863a2d75742", null ],
+    [ "Random", "d2/dff/a08100.html#a1457436a01d5007235224fa9bfb93745", null ],
+    [ "Rooted", "d2/dff/a08100.html#a0ca3905bb168b81853091a7d56796c1f", null ],
+    [ "Swim", "d2/dff/a08100.html#a04966dc48fffcd65574314f238ba9be2", null ]
 ];

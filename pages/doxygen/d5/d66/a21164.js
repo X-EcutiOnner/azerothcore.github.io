@@ -1,6 +1,7 @@
 var a21164 =
 [
-    [ "achievement_yogg_saron_darkness", "d5/d66/a21164.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "d5/d66/a21164.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "d5/d66/a21164.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "OnApply", "d5/d66/a21164.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d5/d66/a21164.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d5/d66/a21164.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d5/d66/a21164.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

@@ -1,12 +1,8 @@
 var a18472 =
 [
-    [ "npc_raging_spiritAI", "d6/d7c/a18472.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "d6/d7c/a18472.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "d6/d7c/a18472.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "d6/d7c/a18472.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "d6/d7c/a18472.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "d6/d7c/a18472.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "d6/d7c/a18472.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "d6/d7c/a18472.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "d6/d7c/a18472.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "NecroticPlagueTargetCheck", "d6/d7c/a18472.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d6/d7c/a18472.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d6/d7c/a18472.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d6/d7c/a18472.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d6/d7c/a18472.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

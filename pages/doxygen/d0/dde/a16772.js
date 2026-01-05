@@ -1,6 +1,6 @@
 var a16772 =
 [
-    [ "boss_icehowlAI", "d9/df6/a16776.html", "d9/df6/a16776" ],
-    [ "boss_icehowl", "d0/dde/a16772.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d0/dde/a16772.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "npc_toc_retro_paladinAI", "d9/df6/a16776.html", "d9/df6/a16776" ],
+    [ "npc_toc_retro_paladin", "d0/dde/a16772.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "d0/dde/a16772.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

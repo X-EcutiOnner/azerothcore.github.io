@@ -1,6 +1,7 @@
 var a21768 =
 [
-    [ "npc_thassarianAI", "d8/d57/a21772.html", "d8/d57/a21772" ],
-    [ "npc_thassarian", "d8/d11/a21768.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "d8/d11/a21768.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "HandleScriptEffect", "d8/d11/a21768.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d8/d11/a21768.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d8/d11/a21768.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d8/d11/a21768.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

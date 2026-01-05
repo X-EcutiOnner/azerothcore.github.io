@@ -1,12 +1,20 @@
 var a16484 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d4/d37/a16484.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "d4/d37/a16484.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "d4/d37/a16484.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "MoveInLineOfSight", "d4/d37/a16484.html#a527113ecd490c937fc1f3e34b6b1d32d", null ],
-    [ "Reset", "d4/d37/a16484.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "d4/d37/a16484.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "d4/d37/a16484.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "d4/d37/a16484.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "d4/d37/a16484.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d4/d37/a16484.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
+    [ "FillInitialWorldStates", "d4/d37/a16484.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
+    [ "GetGuidData", "d4/d37/a16484.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
+    [ "OnCreatureCreate", "d4/d37/a16484.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
+    [ "OnGameObjectCreate", "d4/d37/a16484.html#a27c4858d5972471ef91a269c11fc0494", null ],
+    [ "OnGameObjectRemove", "d4/d37/a16484.html#ac53fa1af91c66a264fdd016abe40168c", null ],
+    [ "OnPlayerEnter", "d4/d37/a16484.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
+    [ "SetBossState", "d4/d37/a16484.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
+    [ "BaltharusTheWarbornGUID", "d4/d37/a16484.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
+    [ "FlameRingGUID", "d4/d37/a16484.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
+    [ "GeneralZarithrianGUID", "d4/d37/a16484.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
+    [ "HalionControllerGUID", "d4/d37/a16484.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
+    [ "HalionGUID", "d4/d37/a16484.html#a0b824e7cf269619220329aecba08e448", null ],
+    [ "OrbCarrierGUID", "d4/d37/a16484.html#a723b8a7384d0b9455b3a99172a903868", null ],
+    [ "TwilightHalionGUID", "d4/d37/a16484.html#a165f776c123fa595b6424be666fa8570", null ],
+    [ "XerestraszaGUID", "d4/d37/a16484.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
+    [ "ZarithrianSpawnStalkerGUID", "d4/d37/a16484.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
 ];

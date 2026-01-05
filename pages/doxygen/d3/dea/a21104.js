@@ -1,8 +1,6 @@
 var a21104 =
 [
-    [ "FilterTargets", "d3/dea/a21104.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d3/dea/a21104.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d3/dea/a21104.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d3/dea/a21104.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d3/dea/a21104.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "dd/d87/a21108.html", "dd/d87/a21108" ],
+    [ "boss_yoggsaron_influence_tentacle", "d3/dea/a21104.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "d3/dea/a21104.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

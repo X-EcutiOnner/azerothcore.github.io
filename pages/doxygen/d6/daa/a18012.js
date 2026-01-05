@@ -1,6 +1,6 @@
 var a18012 =
 [
-    [ "UnboundPlagueTargetSelector", "d6/daa/a18012.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d6/daa/a18012.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d6/daa/a18012.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_cult_fanaticAI", "db/d34/a18016.html", "db/d34/a18016" ],
+    [ "npc_cult_fanatic", "d6/daa/a18012.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d6/daa/a18012.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

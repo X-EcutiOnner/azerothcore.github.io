@@ -1,6 +1,16 @@
 var a13564 =
 [
-    [ "HandlePeriodic", "d4/d85/a13564.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d4/d85/a13564.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d4/d85/a13564.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "boss_felmyst", "d4/d85/a13564.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "d4/d85/a13564.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "d4/d85/a13564.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "d4/d85/a13564.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "d4/d85/a13564.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "d4/d85/a13564.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "d4/d85/a13564.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "d4/d85/a13564.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "d4/d85/a13564.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "d4/d85/a13564.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "d4/d85/a13564.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "d4/d85/a13564.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "d4/d85/a13564.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

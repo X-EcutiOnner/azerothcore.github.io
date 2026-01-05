@@ -1,6 +1,4 @@
 var a22780 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d0/d14/a22784.html", "d0/d14/a22784" ],
-    [ "instance_mana_tombs", "d5/d7e/a22780.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "d5/d7e/a22780.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "idPatrol", "d5/d7e/a22780.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
 ];

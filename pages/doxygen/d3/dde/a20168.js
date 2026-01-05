@@ -1,9 +1,7 @@
 var a20168 =
 [
-    [ "Absorb", "d3/dde/a20168.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d3/dde/a20168.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d3/dde/a20168.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d3/dde/a20168.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d3/dde/a20168.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d3/dde/a20168.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d3/dde/a20168.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "d3/dde/a20168.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "d3/dde/a20168.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "d3/dde/a20168.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

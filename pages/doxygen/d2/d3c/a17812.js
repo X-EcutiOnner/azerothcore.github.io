@@ -1,8 +1,8 @@
 var a17812 =
 [
-    [ "HandlePeriodic", "d2/d3c/a17812.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d2/d3c/a17812.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d2/d3c/a17812.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d2/d3c/a17812.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d2/d3c/a17812.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "ResetEncounterEvent", "d2/d3c/a17812.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d2/d3c/a17812.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d2/d3c/a17812.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d2/d3c/a17812.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d2/d3c/a17812.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

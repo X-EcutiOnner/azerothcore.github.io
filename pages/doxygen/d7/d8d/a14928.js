@@ -1,6 +1,6 @@
 var a14928 =
 [
-    [ "boss_meathookAI", "de/d84/a14932.html", "de/d84/a14932" ],
-    [ "boss_meathook", "d7/d8d/a14928.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "d7/d8d/a14928.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "FilterTargets", "d7/d8d/a14928.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "d7/d8d/a14928.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "d7/d8d/a14928.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

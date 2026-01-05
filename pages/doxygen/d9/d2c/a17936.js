@@ -1,6 +1,6 @@
 var a17936 =
 [
-    [ "npc_vengeful_shadeAI", "d7/dcb/a17940.html", "d7/dcb/a17940" ],
-    [ "npc_vengeful_shade", "d9/d2c/a17936.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d9/d2c/a17936.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "IgbTeleportOnVictoryCheck", "d9/d2c/a17936.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d9/d2c/a17936.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d9/d2c/a17936.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

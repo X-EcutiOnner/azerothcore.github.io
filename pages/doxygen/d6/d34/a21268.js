@@ -1,10 +1,11 @@
 var a21268 =
 [
-    [ "npc_enslaved_proto_drake", "d6/d34/a21268.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "d6/d34/a21268.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "d6/d34/a21268.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "d6/d34/a21268.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "d6/d34/a21268.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "d6/d34/a21268.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "d6/d34/a21268.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d6/d34/a21268.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
+    [ "JustDied", "d6/d34/a21268.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
+    [ "JustEngagedWith", "d6/d34/a21268.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
+    [ "JustSummoned", "d6/d34/a21268.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
+    [ "Reset", "d6/d34/a21268.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
+    [ "UpdateAI", "d6/d34/a21268.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
+    [ "events", "d6/d34/a21268.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
+    [ "otherGUID", "d6/d34/a21268.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
 ];

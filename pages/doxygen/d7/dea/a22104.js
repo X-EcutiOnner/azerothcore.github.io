@@ -1,6 +1,11 @@
 var a22104 =
 [
-    [ "npc_venture_co_stragglerAI", "d2/d99/a22108.html", "d2/d99/a22108" ],
-    [ "npc_venture_co_straggler", "d7/dea/a22104.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d7/dea/a22104.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_torturer_lecraftAI", "d7/dea/a22104.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "d7/dea/a22104.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "d7/dea/a22104.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "d7/dea/a22104.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "d7/dea/a22104.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "d7/dea/a22104.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "d7/dea/a22104.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "d7/dea/a22104.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

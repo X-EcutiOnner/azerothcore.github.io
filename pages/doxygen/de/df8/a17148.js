@@ -1,5 +1,6 @@
 var a17148 =
 [
-    [ "at_hor_battered_hilt_start", "de/df8/a17148.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "de/df8/a17148.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_phantom_hallucinationAI", "de/d90/a17152.html", "de/d90/a17152" ],
+    [ "npc_phantom_hallucination", "de/df8/a17148.html#a685889c090152a2562ee9adef7efbf71", null ],
+    [ "GetAI", "de/df8/a17148.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
 ];

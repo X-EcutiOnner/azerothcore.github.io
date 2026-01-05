@@ -1,7 +1,7 @@
 var a27040 =
 [
-    [ "HandleDispel", "dd/da8/a27040.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "dd/da8/a27040.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "dd/da8/a27040.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "dd/da8/a27040.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleProc", "dd/da8/a27040.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "dd/da8/a27040.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "dd/da8/a27040.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "dd/da8/a27040.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

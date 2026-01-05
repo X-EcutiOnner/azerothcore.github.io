@@ -1,6 +1,10 @@
 var a12836 =
 [
-    [ "FilterTargets", "da/d8e/a12836.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "da/d8e/a12836.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "da/d8e/a12836.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "da/d8e/a12836.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "da/d8e/a12836.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "da/d8e/a12836.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "da/d8e/a12836.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "da/d8e/a12836.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "da/d8e/a12836.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "da/d8e/a12836.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

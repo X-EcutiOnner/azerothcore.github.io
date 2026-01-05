@@ -1,8 +1,7 @@
 var a27044 =
 [
-    [ "Load", "dc/d9d/a27044.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "dc/d9d/a27044.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "dc/d9d/a27044.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "dc/d9d/a27044.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "dc/d9d/a27044.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "HandleAuraApply", "dc/d9d/a27044.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "dc/d9d/a27044.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "dc/d9d/a27044.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "dc/d9d/a27044.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

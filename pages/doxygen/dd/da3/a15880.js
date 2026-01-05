@@ -1,12 +1,9 @@
 var a15880 =
 [
-    [ "npc_cairne_bloodhoofAI", "dd/da3/a15880.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
-    [ "Reset", "dd/da3/a15880.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
-    [ "sGossipSelect", "dd/da3/a15880.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
-    [ "UpdateAI", "dd/da3/a15880.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
-    [ "_berserkerChargeTimer", "dd/da3/a15880.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
-    [ "_cleaveTimer", "dd/da3/a15880.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
-    [ "_mortalStrikeTimer", "dd/da3/a15880.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
-    [ "_thunderclapTimer", "dd/da3/a15880.html#a6bdca667875353db2badc40fd95a1ce4", null ],
-    [ "_uppercutTimer", "dd/da3/a15880.html#a9f13acd7df900d9bdac64898b183c67d", null ]
+    [ "npc_custodian_of_timeAI", "dd/da3/a15880.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "dd/da3/a15880.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "dd/da3/a15880.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "dd/da3/a15880.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "dd/da3/a15880.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "dd/da3/a15880.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

@@ -1,7 +1,10 @@
 var a25048 =
 [
-    [ "HandleEffectRemove", "d0/dd2/a25048.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
-    [ "PrepareAuraScript", "d0/dd2/a25048.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
-    [ "Register", "d0/dd2/a25048.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
-    [ "AuraEffectHandleModes", "d0/dd2/a25048.html#a97370dd3f7c3e58a719090176c397386", null ]
+    [ "Load", "d0/dd2/a25048.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d0/dd2/a25048.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d0/dd2/a25048.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d0/dd2/a25048.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d0/dd2/a25048.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d0/dd2/a25048.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d0/dd2/a25048.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

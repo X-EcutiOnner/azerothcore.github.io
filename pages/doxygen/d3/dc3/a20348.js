@@ -1,6 +1,7 @@
 var a20348 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d7/d46/a20352.html", "d7/d46/a20352" ],
-    [ "npc_ulduar_flash_freeze", "d3/dc3/a20348.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "d3/dc3/a20348.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d3/dc3/a20348.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "d3/dc3/a20348.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "d3/dc3/a20348.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "d3/dc3/a20348.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

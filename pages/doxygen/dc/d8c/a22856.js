@@ -1,7 +1,4 @@
 var a22856 =
 [
-    [ "HandleProc", "dc/d8c/a22856.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "dc/d8c/a22856.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "dc/d8c/a22856.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "dc/d8c/a22856.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "dc/d8c/a22856.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
 ];

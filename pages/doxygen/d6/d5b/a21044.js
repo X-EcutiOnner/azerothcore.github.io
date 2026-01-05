@@ -1,6 +1,6 @@
 var a21044 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "d6/d5b/a21044.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
-    [ "DamageTaken", "d6/d5b/a21044.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
-    [ "JustDied", "d6/d5b/a21044.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
+    [ "boss_yoggsaronAI", "d8/dbc/a21048.html", "d8/dbc/a21048" ],
+    [ "boss_yoggsaron", "d6/d5b/a21044.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "d6/d5b/a21044.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

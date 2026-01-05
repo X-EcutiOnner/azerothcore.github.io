@@ -1,5 +1,8 @@
 var a28576 =
 [
-    [ "ID", "d2/d4b/a28576.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "d2/d4b/a28576.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "Id", "d2/d4b/a28576.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "d2/d4b/a28576.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "d2/d4b/a28576.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "d2/d4b/a28576.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "d2/d4b/a28576.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

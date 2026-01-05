@@ -1,8 +1,6 @@
 var a07648 =
 [
-    [ "SearchMap", "db/d13/a07648.html#a21bc680abec11928000923003bbad93f", null ],
-    [ "MakeSearchMap", "db/d13/a07648.html#a8dc3337ff2ed1427fa9efdf35e458d7d", null ],
-    [ "Match", "db/d13/a07648.html#a9f447ee626e80d616c304a4d07f25987", null ],
-    [ "TryConsume", "db/d13/a07648.html#ac5bc3cde0205d8a1b200989cf6eb09cb", null ],
-    [ "_map", "db/d13/a07648.html#a97e69e0044967ebb5369bfa0f46bd7bf", null ]
+    [ "value_type", "db/d13/a07648.html#adbfeb8f2823f763fdae25b87fbbdcfbf", null ],
+    [ "operator()", "db/d13/a07648.html#abeff0e73688ad4745201c5d817f7a442", null ],
+    [ "operator()", "db/d13/a07648.html#a8ee9220d4226b4dd028f3f9c438f34ba", null ]
 ];

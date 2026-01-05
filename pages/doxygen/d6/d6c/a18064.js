@@ -1,6 +1,6 @@
 var a18064 =
 [
-    [ "FilterTargets", "d6/d6c/a18064.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "d6/d6c/a18064.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "d6/d6c/a18064.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "npc_coldflameAI", "d9/d53/a18068.html", "d9/d53/a18068" ],
+    [ "npc_coldflame", "d6/d6c/a18064.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d6/d6c/a18064.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

@@ -1,7 +1,7 @@
 var a20308 =
 [
-    [ "HandleAfterEffectApply", "da/d79/a20308.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "da/d79/a20308.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "da/d79/a20308.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "da/d79/a20308.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "boss_freya_healthy_sporeAI", "da/d79/a20308.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "da/d79/a20308.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "da/d79/a20308.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "da/d79/a20308.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

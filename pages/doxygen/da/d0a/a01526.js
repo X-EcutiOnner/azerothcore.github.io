@@ -1,11 +1,12 @@
 var a01526 =
 [
-    [ "npc_announcer_toc10", "dc/dc7/a16838.html", "dc/dc7/a16838" ],
-    [ "MenuTexts", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "da/d0a/a01526.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "AddonInfo", "d3/da4/a06136.html", "d3/da4/a06136" ],
+    [ "SavedAddon", "d6/db5/a06140.html", "d6/db5/a06140" ],
+    [ "BannedAddon", "d5/db3/a06144.html", "d5/db3/a06144" ],
+    [ "STANDARD_ADDON_CRC", "da/d0a/a01526.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "da/d0a/a01526.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "da/d0a/a01526.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "da/d0a/a01526.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "da/d0a/a01526.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "da/d0a/a01526.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

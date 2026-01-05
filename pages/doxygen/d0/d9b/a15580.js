@@ -1,10 +1,14 @@
 var a15580 =
 [
-    [ "npc_rabid_thistle_bearAI", "d0/d9b/a15580.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d0/d9b/a15580.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d0/d9b/a15580.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d0/d9b/a15580.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d0/d9b/a15580.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d0/d9b/a15580.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d0/d9b/a15580.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_draenei_survivorAI", "d0/d9b/a15580.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
+    [ "JustEngagedWith", "d0/d9b/a15580.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
+    [ "MoveInLineOfSight", "d0/d9b/a15580.html#a2b3f0a595fde04ad1e054331a596e225", null ],
+    [ "Reset", "d0/d9b/a15580.html#a3db19a846ce3b4810321eb02d314633f", null ],
+    [ "SpellHit", "d0/d9b/a15580.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
+    [ "UpdateAI", "d0/d9b/a15580.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
+    [ "CanSayHelp", "d0/d9b/a15580.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
+    [ "pCaster", "d0/d9b/a15580.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
+    [ "RunAwayTimer", "d0/d9b/a15580.html#a233885b12615bfbc927d8845d0cff3fd", null ],
+    [ "SayHelpTimer", "d0/d9b/a15580.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
+    [ "SayThanksTimer", "d0/d9b/a15580.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
 ];

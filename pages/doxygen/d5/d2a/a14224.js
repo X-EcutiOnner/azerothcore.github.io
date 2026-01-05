@@ -1,9 +1,6 @@
 var a14224 =
 [
-    [ "npc_healing_ward", "d5/d2a/a14224.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d5/d2a/a14224.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d5/d2a/a14224.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d5/d2a/a14224.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d5/d2a/a14224.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d5/d2a/a14224.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "boss_gahzranka", "d5/d2a/a14224.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d5/d2a/a14224.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d5/d2a/a14224.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

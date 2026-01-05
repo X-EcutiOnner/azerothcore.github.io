@@ -1,7 +1,7 @@
 var a18080 =
 [
-    [ "HandleTriggerSpell", "d3/d12/a18080.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d3/d12/a18080.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d3/d12/a18080.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d3/d12/a18080.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "HandleScriptEffect", "d3/d12/a18080.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d3/d12/a18080.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d3/d12/a18080.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d3/d12/a18080.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

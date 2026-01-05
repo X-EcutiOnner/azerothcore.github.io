@@ -1,6 +1,6 @@
 var a18112 =
 [
-    [ "OnRemove", "d0/d08/a18112.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d0/d08/a18112.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d0/d08/a18112.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "boss_professor_putricideAI", "da/df7/a18116.html", "da/df7/a18116" ],
+    [ "boss_professor_putricide", "d0/d08/a18112.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d0/d08/a18112.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

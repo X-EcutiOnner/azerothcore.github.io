@@ -1,5 +1,6 @@
 var a24996 =
 [
-    [ "PrepareSpellScript", "da/d76/a24996.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "da/d76/a24996.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "CheckCast", "da/d76/a24996.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "da/d76/a24996.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "da/d76/a24996.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

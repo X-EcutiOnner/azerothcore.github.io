@@ -1,6 +1,12 @@
 var a16580 =
 [
-    [ "npc_toc_shamanAI", "d2/d79/a16584.html", "d2/d79/a16584" ],
-    [ "npc_toc_shaman", "dd/d32/a16580.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "dd/d32/a16580.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "npc_toc5_grand_champion_minionAI", "dd/d32/a16580.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
+    [ "JustDied", "dd/d32/a16580.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
+    [ "JustEngagedWith", "dd/d32/a16580.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
+    [ "MoveInLineOfSight", "dd/d32/a16580.html#a527113ecd490c937fc1f3e34b6b1d32d", null ],
+    [ "Reset", "dd/d32/a16580.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
+    [ "UpdateAI", "dd/d32/a16580.html#a2b9fdd3daa725921819ae2acee418d51", null ],
+    [ "events", "dd/d32/a16580.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
+    [ "pInstance", "dd/d32/a16580.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
+    [ "ShieldTimer", "dd/d32/a16580.html#a080916d385f4157afbe4c455033b88ba", null ]
 ];

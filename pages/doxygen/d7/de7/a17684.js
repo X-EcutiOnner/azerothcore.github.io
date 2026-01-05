@@ -1,7 +1,7 @@
 var a17684 =
 [
-    [ "HandleScript", "d7/de7/a17684.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d7/de7/a17684.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d7/de7/a17684.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d7/de7/a17684.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "achievement_once_bitten_twice_shy", "d7/de7/a17684.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d7/de7/a17684.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d7/de7/a17684.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d7/de7/a17684.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

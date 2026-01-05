@@ -1,5 +1,9 @@
 var a21160 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "d0/df9/a21160.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "d0/df9/a21160.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "HandleOnEffectApply", "d0/df9/a21160.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d0/df9/a21160.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d0/df9/a21160.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d0/df9/a21160.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d0/df9/a21160.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d0/df9/a21160.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

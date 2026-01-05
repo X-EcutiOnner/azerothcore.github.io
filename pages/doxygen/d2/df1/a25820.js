@@ -1,7 +1,7 @@
 var a25820 =
 [
-    [ "OnRemove", "d2/df1/a25820.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "d2/df1/a25820.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "d2/df1/a25820.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "d2/df1/a25820.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "HandleJump", "d2/df1/a25820.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "d2/df1/a25820.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "d2/df1/a25820.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "d2/df1/a25820.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

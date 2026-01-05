@@ -1,7 +1,6 @@
 var a15604 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d9/d73/a15604.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d9/d73/a15604.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d9/d73/a15604.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d9/d73/a15604.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_death_ravagerAI", "dd/d42/a15608.html", "dd/d42/a15608" ],
+    [ "npc_death_ravager", "d9/d73/a15604.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d9/d73/a15604.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

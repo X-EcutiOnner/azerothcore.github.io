@@ -1,8 +1,9 @@
 var a14284 =
 [
-    [ "npc_spawn_of_marli", "dc/daa/a14284.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "dc/daa/a14284.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "dc/daa/a14284.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "dc/daa/a14284.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "dc/daa/a14284.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "boss_hazzarah", "dc/daa/a14284.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "dc/daa/a14284.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "dc/daa/a14284.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "dc/daa/a14284.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "dc/daa/a14284.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "dc/daa/a14284.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

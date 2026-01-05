@@ -1,11 +1,14 @@
 var a13116 =
 [
-    [ "npc_scarlet_ghoulAI", "d6/d8e/a13116.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d6/d8e/a13116.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d6/d8e/a13116.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d6/d8e/a13116.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d6/d8e/a13116.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
-    [ "UpdateAI", "d6/d8e/a13116.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d6/d8e/a13116.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d6/d8e/a13116.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "boss_priestess_delrissa", "d6/d8e/a13116.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d6/d8e/a13116.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d6/d8e/a13116.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d6/d8e/a13116.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d6/d8e/a13116.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d6/d8e/a13116.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d6/d8e/a13116.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d6/d8e/a13116.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d6/d8e/a13116.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d6/d8e/a13116.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d6/d8e/a13116.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

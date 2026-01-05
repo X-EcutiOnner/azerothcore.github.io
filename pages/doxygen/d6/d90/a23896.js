@@ -1,5 +1,7 @@
 var a23896 =
 [
-    [ "modelId", "d6/d90/a23896.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "d6/d90/a23896.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "FilterTargets", "d6/d90/a23896.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d6/d90/a23896.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d6/d90/a23896.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d6/d90/a23896.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

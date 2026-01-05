@@ -1,9 +1,6 @@
 var a23380 =
 [
-    [ "FilterTargets", "d0/dcd/a23380.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "d0/dcd/a23380.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "d0/dcd/a23380.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "d0/dcd/a23380.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "d0/dcd/a23380.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "d0/dcd/a23380.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "OnPeriodic", "d0/dcd/a23380.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d0/dcd/a23380.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d0/dcd/a23380.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

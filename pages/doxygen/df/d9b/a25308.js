@@ -1,6 +1,8 @@
 var a25308 =
 [
-    [ "HandleScript", "df/d9b/a25308.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
-    [ "PrepareSpellScript", "df/d9b/a25308.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
-    [ "Register", "df/d9b/a25308.html#a54bb0fe145f99ea484724052c8bb1227", null ]
+    [ "CheckRequirement", "df/d9b/a25308.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "df/d9b/a25308.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "df/d9b/a25308.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "df/d9b/a25308.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "df/d9b/a25308.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

@@ -1,7 +1,6 @@
 var a10804 =
 [
-    [ "GuildBankTextQueryResult", "d6/d1c/a10804.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d6/d1c/a10804.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d6/d1c/a10804.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d6/d1c/a10804.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankRemainingWithdrawMoney", "d6/d1c/a10804.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
+    [ "Write", "d6/d1c/a10804.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
+    [ "RemainingWithdrawMoney", "d6/d1c/a10804.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
 ];

@@ -1,9 +1,16 @@
 var a19988 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d7/d22/a19988.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
-    [ "JustEngagedWith", "d7/d22/a19988.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
-    [ "Reset", "d7/d22/a19988.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
-    [ "UpdateAI", "d7/d22/a19988.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
-    [ "_ripFleshTimer", "d7/d22/a19988.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
-    [ "_savagePounceTimer", "d7/d22/a19988.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
+    [ "boss_steelbreakerAI", "d7/d22/a19988.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
+    [ "DoAction", "d7/d22/a19988.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
+    [ "JustDied", "d7/d22/a19988.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
+    [ "JustEngagedWith", "d7/d22/a19988.html#a0f207b2a274c7266f6882205e510f346", null ],
+    [ "JustReachedHome", "d7/d22/a19988.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
+    [ "KilledUnit", "d7/d22/a19988.html#a5a0a92144412259bfa02abc04bdc4425", null ],
+    [ "Reset", "d7/d22/a19988.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
+    [ "SpellHit", "d7/d22/a19988.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
+    [ "UpdateAI", "d7/d22/a19988.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
+    [ "UpdatePhase", "d7/d22/a19988.html#af217acbeab5032b8a16180f4ff021e0a", null ],
+    [ "_phase", "d7/d22/a19988.html#ae71145ec4a82d1f024892181daebace9", null ],
+    [ "events", "d7/d22/a19988.html#a8085a615ff5d252452616ef69dfd3249", null ],
+    [ "pInstance", "d7/d22/a19988.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
 ];

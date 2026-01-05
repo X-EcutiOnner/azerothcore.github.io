@@ -1,9 +1,8 @@
 var a21696 =
 [
-    [ "npc_lurgglbrAI", "d9/d2f/a21696.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d9/d2f/a21696.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d9/d2f/a21696.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d9/d2f/a21696.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "d9/d2f/a21696.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d9/d2f/a21696.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_azure_captainAI", "d9/d2f/a21696.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "d9/d2f/a21696.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "d9/d2f/a21696.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "d9/d2f/a21696.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "d9/d2f/a21696.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

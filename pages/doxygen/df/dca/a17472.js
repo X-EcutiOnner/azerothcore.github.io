@@ -1,6 +1,7 @@
 var a17472 =
 [
-    [ "npc_dark_nucleusAI", "d1/dd0/a17476.html", "d1/dd0/a17476" ],
-    [ "npc_dark_nucleus", "df/dca/a17472.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "df/dca/a17472.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "HandleApplyAura", "df/dca/a17472.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "df/dca/a17472.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "df/dca/a17472.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "df/dca/a17472.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

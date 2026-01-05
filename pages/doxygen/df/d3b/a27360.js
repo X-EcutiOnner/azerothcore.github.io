@@ -1,7 +1,8 @@
 var a27360 =
 [
-    [ "HandlePeriodic", "df/d3b/a27360.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "df/d3b/a27360.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "df/d3b/a27360.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "df/d3b/a27360.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "CharacterActionIpLogger", "df/d3b/a27360.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "df/d3b/a27360.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "df/d3b/a27360.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "df/d3b/a27360.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "df/d3b/a27360.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

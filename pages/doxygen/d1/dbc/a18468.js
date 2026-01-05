@@ -1,6 +1,6 @@
 var a18468 =
 [
-    [ "npc_raging_spiritAI", "d6/d7c/a18472.html", "d6/d7c/a18472" ],
-    [ "npc_raging_spirit", "d1/dbc/a18468.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d1/dbc/a18468.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "LichKingMovieEvent", "d1/dbc/a18468.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d1/dbc/a18468.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d1/dbc/a18468.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

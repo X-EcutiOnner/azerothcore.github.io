@@ -1,8 +1,7 @@
 var a14076 =
 [
-    [ "npc_zulaman_hostageAI", "dc/df8/a14080.html", "dc/df8/a14080" ],
-    [ "npc_zulaman_hostage", "d7/d77/a14076.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "d7/d77/a14076.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "d7/d77/a14076.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "d7/d77/a14076.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "Load", "d7/d77/a14076.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d7/d77/a14076.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d7/d77/a14076.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d7/d77/a14076.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

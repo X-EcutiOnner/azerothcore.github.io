@@ -1,6 +1,6 @@
 var a18372 =
 [
-    [ "LichKingDeathEvent", "dd/da3/a18372.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "dd/da3/a18372.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "dd/da3/a18372.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "FilterTargets", "dd/da3/a18372.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "dd/da3/a18372.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "dd/da3/a18372.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

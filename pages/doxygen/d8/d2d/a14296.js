@@ -1,7 +1,10 @@
 var a14296 =
 [
-    [ "HandleApply", "d8/d2d/a14296.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d8/d2d/a14296.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d8/d2d/a14296.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d8/d2d/a14296.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "npc_batrider", "d8/d2d/a14296.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d8/d2d/a14296.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d8/d2d/a14296.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d8/d2d/a14296.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d8/d2d/a14296.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d8/d2d/a14296.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d8/d2d/a14296.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

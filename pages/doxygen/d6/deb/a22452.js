@@ -1,12 +1,8 @@
 var a22452 =
 [
-    [ "npc_icefangAI", "d6/deb/a22452.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "d6/deb/a22452.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "d6/deb/a22452.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "d6/deb/a22452.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "d6/deb/a22452.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "d6/deb/a22452.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "d6/deb/a22452.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "d6/deb/a22452.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d6/deb/a22452.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "CheckCast", "d6/deb/a22452.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "d6/deb/a22452.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "d6/deb/a22452.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "d6/deb/a22452.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "d6/deb/a22452.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

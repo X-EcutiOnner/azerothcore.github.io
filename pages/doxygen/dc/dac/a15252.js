@@ -1,7 +1,8 @@
 var a15252 =
 [
-    [ "npc_hivezara_stinger", "dc/dac/a15252.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "dc/dac/a15252.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "dc/dac/a15252.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "dc/dac/a15252.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "HandleScript", "dc/dac/a15252.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "dc/dac/a15252.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "dc/dac/a15252.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "dc/dac/a15252.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "dc/dac/a15252.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

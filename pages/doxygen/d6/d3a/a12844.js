@@ -1,10 +1,8 @@
 var a12844 =
 [
-    [ "npc_netherspite_infernal", "d6/d3a/a12844.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d6/d3a/a12844.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d6/d3a/a12844.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d6/d3a/a12844.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d6/d3a/a12844.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d6/d3a/a12844.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d6/d3a/a12844.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "npc_kernobeeAI", "d6/d3a/a12844.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d6/d3a/a12844.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "d6/d3a/a12844.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d6/d3a/a12844.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d6/d3a/a12844.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

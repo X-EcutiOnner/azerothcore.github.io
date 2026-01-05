@@ -1,7 +1,7 @@
 var a25420 =
 [
-    [ "ModDest", "dd/d47/a25420.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "dd/d47/a25420.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "dd/d47/a25420.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "dd/d47/a25420.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "HandleDummy", "dd/d47/a25420.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "dd/d47/a25420.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "dd/d47/a25420.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "dd/d47/a25420.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

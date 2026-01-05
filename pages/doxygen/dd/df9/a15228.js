@@ -1,6 +1,14 @@
 var a15228 =
 [
-    [ "FilterTargets", "dd/df9/a15228.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "dd/df9/a15228.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "dd/df9/a15228.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "boss_ayamiss", "dd/df9/a15228.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "dd/df9/a15228.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "dd/df9/a15228.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "dd/df9/a15228.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "dd/df9/a15228.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "dd/df9/a15228.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "dd/df9/a15228.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "dd/df9/a15228.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "dd/df9/a15228.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "dd/df9/a15228.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "dd/df9/a15228.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

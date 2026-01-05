@@ -1,10 +1,17 @@
 var a06308 =
 [
-    [ "bvar", "d9/d9f/a06308.html#aa6e8fda81f0f4b6d8f6e984616b5952d", null ],
-    [ "gob", "d9/d9f/a06308.html#ad654cef8dd1ab99af027ff31c160a36d", null ],
-    [ "holder", "d9/d9f/a06308.html#a46e408867f98388ecf66692438d48000", null ],
-    [ "spell", "d9/d9f/a06308.html#a6678b172ab306d90b04341dcb17a132e", null ],
-    [ "unit", "d9/d9f/a06308.html#a210df2cde720f8eb4c956444fb536150", null ],
-    [ "var0", "d9/d9f/a06308.html#a4d90bbe920dca0d5a5be8e2a93a0af99", null ],
-    [ "var1", "d9/d9f/a06308.html#a6aafd8266267ea053a538a813acccb78", null ]
+    [ "WorldBossAI", "d9/d9f/a06308.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
+    [ "~WorldBossAI", "d9/d9f/a06308.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
+    [ "_JustDied", "d9/d9f/a06308.html#a72e92da9585e41f742ee0ff964340230", null ],
+    [ "_JustEngagedWith", "d9/d9f/a06308.html#a451c933079bd3b887079b15b74c22b5e", null ],
+    [ "_Reset", "d9/d9f/a06308.html#ac11f7b51038891d8e10427ca10aa516c", null ],
+    [ "ExecuteEvent", "d9/d9f/a06308.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
+    [ "JustDied", "d9/d9f/a06308.html#a012c70e390c46b8f326b91014091b3d7", null ],
+    [ "JustEngagedWith", "d9/d9f/a06308.html#ab84cb945e773c41d22b682996c744768", null ],
+    [ "JustSummoned", "d9/d9f/a06308.html#aa783665ce6e43e76a18515f511f82efb", null ],
+    [ "Reset", "d9/d9f/a06308.html#ad19a91bf2344f531e01db07efd04c395", null ],
+    [ "SummonedCreatureDespawn", "d9/d9f/a06308.html#af7a1e062b13d997def99c077a79cd12f", null ],
+    [ "UpdateAI", "d9/d9f/a06308.html#a31686947c399d780ea5220dae5e4820b", null ],
+    [ "events", "d9/d9f/a06308.html#abba6c74269442b0bbfe94ab583904485", null ],
+    [ "summons", "d9/d9f/a06308.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
 ];

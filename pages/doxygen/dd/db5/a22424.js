@@ -1,7 +1,7 @@
 var a22424 =
 [
-    [ "HandleDummy", "dd/db5/a22424.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "dd/db5/a22424.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "dd/db5/a22424.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "dd/db5/a22424.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_engineer_heliceAI", "dc/d62/a22428.html", "dc/d62/a22428" ],
+    [ "npc_engineer_helice", "dd/db5/a22424.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "dd/db5/a22424.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "dd/db5/a22424.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

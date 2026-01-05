@@ -1,7 +1,6 @@
 var a11616 =
 [
-    [ "PlayerGuid", "df/d4b/a11616.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "df/d4b/a11616.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "df/d4b/a11616.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "df/d4b/a11616.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "EffectProcHandler", "df/d4b/a11616.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
+    [ "Call", "df/d4b/a11616.html#ae03d27451f687319629b3c54c5a7eed5", null ],
+    [ "_EffectHandlerScript", "df/d4b/a11616.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
 ];

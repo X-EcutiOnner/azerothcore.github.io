@@ -1,6 +1,6 @@
 var a14244 =
 [
-    [ "boss_mandokirAI", "dc/d33/a14248.html", "dc/d33/a14248" ],
-    [ "boss_mandokir", "dc/d1e/a14244.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "dc/d1e/a14244.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "boss_hakkarAI", "dc/d33/a14248.html", "dc/d33/a14248" ],
+    [ "boss_hakkar", "dc/d1e/a14244.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "dc/d1e/a14244.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

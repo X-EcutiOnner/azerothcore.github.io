@@ -1,5 +1,6 @@
 var a20444 =
 [
-    [ "achievement_getting_cold_in_here", "dc/d76/a20444.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "dc/d76/a20444.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "npc_ulduar_hodir_shamanAI", "d8/dc8/a20448.html", "d8/dc8/a20448" ],
+    [ "npc_ulduar_hodir_shaman", "dc/d76/a20444.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "dc/d76/a20444.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

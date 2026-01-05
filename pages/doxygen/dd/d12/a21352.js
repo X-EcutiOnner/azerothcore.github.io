@@ -1,5 +1,14 @@
 var a21352 =
 [
-    [ "npc_ritual_channelerAI", "dd/d12/a21352.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "dd/d12/a21352.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_massive_jormungarAI", "dd/d12/a21352.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "dd/d12/a21352.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "dd/d12/a21352.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "dd/d12/a21352.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "dd/d12/a21352.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "dd/d12/a21352.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "dd/d12/a21352.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "dd/d12/a21352.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "dd/d12/a21352.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "dd/d12/a21352.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "dd/d12/a21352.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

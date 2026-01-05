@@ -1,6 +1,7 @@
 var a12716 =
 [
-    [ "npc_mc_core_houndAI", "df/d35/a12720.html", "df/d35/a12720" ],
-    [ "npc_mc_core_hound", "d9/de6/a12716.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "d9/de6/a12716.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "HandleDummy", "d9/de6/a12716.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "d9/de6/a12716.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "d9/de6/a12716.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "d9/de6/a12716.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

@@ -1,45 +1,10 @@
 var a02672 =
 [
-    [ "AhnKahetScriptName", "d0/d9f/a02672.html#a506431ce00265fd3122a043804560c86", null ],
-    [ "DataHeader", "d0/d9f/a02672.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAhnKahetCreatureAI", "d0/d9f/a02672.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
-    [ "AhnKahetActions", "d0/d9f/a02672.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
-      [ "ACTION_REMOVE_PRISON", "d0/d9f/a02672.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
-    ] ],
-    [ "AhnKahetCreatures", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
-      [ "NPC_ELDER_NADOX", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
-      [ "NPC_PRINCE_TALDARAM", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
-      [ "NPC_JEDOGA_SHADOWSEEKER", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
-      [ "NPC_HERALD_VOLAZJ", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
-      [ "NPC_AMANITAR", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
-      [ "NPC_JEDOGA_CONTROLLER", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ],
-      [ "NPC_TWILIGHT_WORSHIPPER", "d0/d9f/a02672.html#a0a7022dbeba8e4c5922bca61c1ac6be0ab0141026243071cdda0cc9e51f1e1c99", null ]
-    ] ],
-    [ "AhnkahetData", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8dd", [
-      [ "DATA_ELDER_NADOX", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
-      [ "DATA_PRINCE_TALDARAM", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
-      [ "DATA_JEDOGA_SHADOWSEEKER", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
-      [ "DATA_HERALD_VOLAZJ", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
-      [ "DATA_AMANITAR", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
-      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d0/d9f/a02672.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
-    ] ],
-    [ "AhnkahetObjects", "d0/d9f/a02672.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
-      [ "GO_TELDARAM_DOOR", "d0/d9f/a02672.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
-      [ "GO_TELDARAM_SPHERE1", "d0/d9f/a02672.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
-      [ "GO_TELDARAM_SPHERE2", "d0/d9f/a02672.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
-      [ "GO_TELDARAM_PLATFORM", "d0/d9f/a02672.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
-    ] ],
-    [ "AhnKahetPersistentData", "d0/d9f/a02672.html#acc056f2f7be3fe09395716ca57e7c7f3", [
-      [ "DATA_TELDRAM_SPHERE1", "d0/d9f/a02672.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
-      [ "DATA_TELDRAM_SPHERE2", "d0/d9f/a02672.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
-      [ "MAX_PERSISTENT_DATA", "d0/d9f/a02672.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "AhnkahetSpells", "d0/d9f/a02672.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
-      [ "SPELL_SHADOW_SICKLE", "d0/d9f/a02672.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
-    ] ],
-    [ "AhnKahetTexts", "d0/d9f/a02672.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
-      [ "SAY_SPHERE_ACTIVATED", "d0/d9f/a02672.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
-    ] ],
-    [ "GetAhnKahetAI", "d0/d9f/a02672.html#a7d67882176cbe7ff747f0bb785985b00", null ],
-    [ "MAX_ENCOUNTER", "d0/d9f/a02672.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
+    [ "instance_ahnkahet", "dc/d8e/a16128.html", "dc/d8e/a16128" ],
+    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "da/d38/a16132.html", "da/d38/a16132" ],
+    [ "spell_shadow_sickle_periodic_damage", "d2/ddc/a16136.html", "d2/ddc/a16136" ],
+    [ "AddSC_instance_ahnkahet", "d0/d9f/a02672.html#a33aed24f64879c91101f7420c4d49cc3", null ],
+    [ "boundaries", "d0/d9f/a02672.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d0/d9f/a02672.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d0/d9f/a02672.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

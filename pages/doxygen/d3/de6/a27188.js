@@ -1,5 +1,7 @@
 var a27188 =
 [
-    [ "achievement_resilient_victory", "d3/de6/a27188.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d3/de6/a27188.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleApplyAura", "d3/de6/a27188.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d3/de6/a27188.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d3/de6/a27188.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d3/de6/a27188.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

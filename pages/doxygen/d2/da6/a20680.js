@@ -1,5 +1,6 @@
 var a20680 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d2/da6/a20680.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d2/da6/a20680.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d3/d48/a20684.html", "d3/d48/a20684" ],
+    [ "npc_ulduar_magnetic_core", "d2/da6/a20680.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
+    [ "GetAI", "d2/da6/a20680.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
 ];

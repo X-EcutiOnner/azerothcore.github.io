@@ -1,6 +1,15 @@
 var a09168 =
 [
-    [ "AreaMapType", "dd/df0/a09168.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "dd/df0/a09168.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "dd/df0/a09168.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "CoordPair", "dd/df0/a09168.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "dd/df0/a09168.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
+    [ "dec_x", "dd/df0/a09168.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "dd/df0/a09168.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "dd/df0/a09168.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "dd/df0/a09168.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "dd/df0/a09168.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "dd/df0/a09168.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "dd/df0/a09168.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "dd/df0/a09168.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
+    [ "x_coord", "dd/df0/a09168.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "dd/df0/a09168.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

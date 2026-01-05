@@ -1,6 +1,8 @@
 var a19384 =
 [
-    [ "DespawnTime", "da/d29/a19384.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "da/d29/a19384.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "da/d29/a19384.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_maexxna_webwrapAI", "da/d29/a19384.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "da/d29/a19384.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "da/d29/a19384.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "da/d29/a19384.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "da/d29/a19384.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

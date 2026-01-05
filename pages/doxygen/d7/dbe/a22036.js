@@ -1,6 +1,5 @@
 var a22036 =
 [
-    [ "npc_torturer_lecraftAI", "d6/d77/a22040.html", "d6/d77/a22040" ],
-    [ "npc_torturer_lecraft", "d7/dbe/a22036.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d7/dbe/a22036.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "at_q24545_frostmourne_cavern", "d7/dbe/a22036.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d7/dbe/a22036.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

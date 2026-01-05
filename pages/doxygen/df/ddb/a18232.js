@@ -1,6 +1,6 @@
 var a18232 =
 [
-    [ "UnchainedMagicTargetSelector", "df/ddb/a18232.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "df/ddb/a18232.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "df/ddb/a18232.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_little_oozeAI", "d4/d20/a18236.html", "d4/d20/a18236" ],
+    [ "npc_little_ooze", "df/ddb/a18232.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "df/ddb/a18232.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

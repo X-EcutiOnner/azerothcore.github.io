@@ -1,8 +1,9 @@
 var a26448 =
 [
-    [ "AfterCheckProc", "d7/d4c/a26448.html#ad817bc9b07538434956bf64ea1dd0367", null ],
-    [ "HandleProc", "d7/d4c/a26448.html#af972e6ed5524dadd618d6cd907c0241b", null ],
-    [ "PrepareAuraScript", "d7/d4c/a26448.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
-    [ "Register", "d7/d4c/a26448.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
-    [ "Validate", "d7/d4c/a26448.html#aa15febbd22621da12b567fc429917bf0", null ]
+    [ "CheckCast", "d7/d4c/a26448.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d7/d4c/a26448.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d7/d4c/a26448.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d7/d4c/a26448.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d7/d4c/a26448.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d7/d4c/a26448.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

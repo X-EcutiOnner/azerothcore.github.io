@@ -1,14 +1,6 @@
 var a09984 =
 [
-    [ "~MovementGenerator", "dc/d12/a09984.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "dc/d12/a09984.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "dc/d12/a09984.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "dc/d12/a09984.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "dc/d12/a09984.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "dc/d12/a09984.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "dc/d12/a09984.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "dc/d12/a09984.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "dc/d12/a09984.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "dc/d12/a09984.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "dc/d12/a09984.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "aiNotifyDelay", "dc/d12/a09984.html#af70453021c5ded85c73a4d5559dca2ea", null ],
+    [ "requiredMoveDistanceSq", "dc/d12/a09984.html#aaa4faa0170181e409940b5441eb2f586", null ],
+    [ "visibilityNotifyDelay", "dc/d12/a09984.html#ad566fd5eff102929247b75cf5092a60b", null ]
 ];

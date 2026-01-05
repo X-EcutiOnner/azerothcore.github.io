@@ -1,12 +1,13 @@
 var a05436 =
 [
-    [ "Node", "d3/d72/a05440.html", "d3/d72/a05440" ],
-    [ "MPSCQueueNonIntrusive", "d9/d54/a05436.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "d9/d54/a05436.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "d9/d54/a05436.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "d9/d54/a05436.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "d9/d54/a05436.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "d9/d54/a05436.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "d9/d54/a05436.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "d9/d54/a05436.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "Logger", "d9/d54/a05436.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "d9/d54/a05436.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "d9/d54/a05436.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "d9/d54/a05436.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "d9/d54/a05436.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "d9/d54/a05436.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "d9/d54/a05436.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "d9/d54/a05436.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "d9/d54/a05436.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "d9/d54/a05436.html#ada299a7dd268085371557213e36695a9", null ]
 ];

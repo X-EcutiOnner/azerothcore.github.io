@@ -1,5 +1,5 @@
 var a03353 =
 [
-    [ "server_commandscript", "dc/da4/a12023.html", "dc/da4/a12023" ],
-    [ "AddSC_server_commandscript", "d1/d3a/a03353.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "pet_commandscript", "d7/d7c/a11996.html", "d7/d7c/a11996" ],
+    [ "AddSC_pet_commandscript", "d1/d3a/a03353.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
 ];

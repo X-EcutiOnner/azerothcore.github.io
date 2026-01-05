@@ -1,8 +1,7 @@
 var a27364 =
 [
-    [ "FilterTargets", "d4/da8/a27364.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d4/da8/a27364.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d4/da8/a27364.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d4/da8/a27364.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d4/da8/a27364.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "CharacterDeleteActionIpLogger", "d4/da8/a27364.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d4/da8/a27364.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d4/da8/a27364.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d4/da8/a27364.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

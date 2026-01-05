@@ -1,10 +1,4 @@
 var a11100 =
 [
-    [ "WorldStateInfo", "d6/dc7/a11104.html", "d6/dc7/a11104" ],
-    [ "InitWorldStates", "d3/de3/a11100.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d3/de3/a11100.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d3/de3/a11100.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d3/de3/a11100.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d3/de3/a11100.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d3/de3/a11100.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "format", "d3/de3/a11100.html#a24a0c7409f4aa2903361863f9cc4c8b6", null ]
 ];

@@ -1,6 +1,7 @@
 var a11508 =
 [
-    [ "EffectCalcAmountHandler", "dc/dda/a11508.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "dc/dda/a11508.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "dc/dda/a11508.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "EffectAuraNameCheck", "dc/dda/a11508.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "dc/dda/a11508.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "dc/dda/a11508.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "dc/dda/a11508.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

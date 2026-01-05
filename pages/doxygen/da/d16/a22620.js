@@ -1,8 +1,8 @@
 var a22620 =
 [
-    [ "HandleApply", "da/d16/a22620.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "da/d16/a22620.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "da/d16/a22620.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "da/d16/a22620.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "da/d16/a22620.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "go_wg_vehicle_teleporterAI", "da/d16/a22620.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "da/d16/a22620.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "da/d16/a22620.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "da/d16/a22620.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "da/d16/a22620.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

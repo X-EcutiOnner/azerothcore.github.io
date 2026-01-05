@@ -1,6 +1,7 @@
 var a22448 =
 [
-    [ "npc_icefangAI", "d6/deb/a22452.html", "d6/deb/a22452" ],
-    [ "npc_icefang", "df/dec/a22448.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "df/dec/a22448.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "HandleSendEvent", "df/dec/a22448.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "df/dec/a22448.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "df/dec/a22448.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "df/dec/a22448.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

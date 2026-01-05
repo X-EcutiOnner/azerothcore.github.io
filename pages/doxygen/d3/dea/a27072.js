@@ -1,7 +1,11 @@
 var a27072 =
 [
-    [ "HandleApply", "d3/dea/a27072.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "d3/dea/a27072.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "d3/dea/a27072.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "d3/dea/a27072.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "CalcPeriodic", "d3/dea/a27072.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "d3/dea/a27072.html#a55f649687813eb915c71ead6afb27276", null ],
+    [ "CalculateResistanceAmount", "d3/dea/a27072.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "d3/dea/a27072.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "d3/dea/a27072.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "d3/dea/a27072.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "d3/dea/a27072.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "d3/dea/a27072.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

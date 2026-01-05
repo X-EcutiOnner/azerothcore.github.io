@@ -1,6 +1,8 @@
 var a13060 =
 [
-    [ "boss_garaxxas", "d3/d61/a13060.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d3/d61/a13060.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d3/d61/a13060.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "CalcPeriodic", "d3/d61/a13060.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d3/d61/a13060.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d3/d61/a13060.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d3/d61/a13060.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d3/d61/a13060.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

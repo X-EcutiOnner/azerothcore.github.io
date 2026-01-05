@@ -1,9 +1,6 @@
 var a25604 =
 [
-    [ "CheckCast", "d4/dd9/a25604.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "d4/dd9/a25604.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "d4/dd9/a25604.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "d4/dd9/a25604.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "d4/dd9/a25604.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "d4/dd9/a25604.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "HandleScript", "d4/dd9/a25604.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
+    [ "PrepareSpellScript", "d4/dd9/a25604.html#a16c358062cee300e4c54f046a6c1accf", null ],
+    [ "Register", "d4/dd9/a25604.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
 ];

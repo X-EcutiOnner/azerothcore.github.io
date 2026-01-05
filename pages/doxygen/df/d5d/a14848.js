@@ -1,7 +1,6 @@
 var a14848 =
 [
-    [ "OnPeriodic", "df/d5d/a14848.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "df/d5d/a14848.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "df/d5d/a14848.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "df/d5d/a14848.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "HandleTriggerSpell", "df/d5d/a14848.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "df/d5d/a14848.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "df/d5d/a14848.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

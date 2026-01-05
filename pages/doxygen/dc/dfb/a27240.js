@@ -1,5 +1,7 @@
 var a27240 =
 [
-    [ "achievement_not_even_a_scratch", "dc/dfb/a27240.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "dc/dfb/a27240.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleEffect", "dc/dfb/a27240.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "dc/dfb/a27240.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "dc/dfb/a27240.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "dc/dfb/a27240.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

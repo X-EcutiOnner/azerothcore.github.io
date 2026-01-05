@@ -1,10 +1,8 @@
 var a26952 =
 [
-    [ "CalcPeriodic", "d6/d24/a26952.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
-    [ "CalculateAmount", "d6/d24/a26952.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
-    [ "HandleEffectCalcSpellMod", "d6/d24/a26952.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
-    [ "HandlePeriodic", "d6/d24/a26952.html#ae2c4de235fc727039a50f1b6ba729422", null ],
-    [ "Load", "d6/d24/a26952.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
-    [ "PrepareAuraScript", "d6/d24/a26952.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
-    [ "Register", "d6/d24/a26952.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
+    [ "ApplyDebuff", "d6/d24/a26952.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d6/d24/a26952.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d6/d24/a26952.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d6/d24/a26952.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d6/d24/a26952.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

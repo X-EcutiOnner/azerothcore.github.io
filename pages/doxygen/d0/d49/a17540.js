@@ -1,6 +1,6 @@
 var a17540 =
 [
-    [ "VampiricBiteTargetSelector", "d0/d49/a17540.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "d0/d49/a17540.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "d0/d49/a17540.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "boss_prince_taldaramAI", "d6/d8c/a17544.html", "d6/d8c/a17544" ],
+    [ "boss_prince_taldaram_icc", "d0/d49/a17540.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d0/d49/a17540.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

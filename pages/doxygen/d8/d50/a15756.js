@@ -1,5 +1,6 @@
 var a15756 =
 [
-    [ "go_crystalline_tear", "d8/d50/a15756.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d8/d50/a15756.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_great_bear_spirit", "d8/d50/a15756.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "d8/d50/a15756.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "d8/d50/a15756.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

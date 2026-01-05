@@ -1,10 +1,6 @@
 var a14860 =
 [
-    [ "hyjalJainaAI", "d5/de9/a14860.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d5/de9/a14860.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d5/de9/a14860.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d5/de9/a14860.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d5/de9/a14860.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d5/de9/a14860.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d5/de9/a14860.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d2/d18/a14864.html", "d2/d18/a14864" ],
+    [ "instance_blackfathom_deeps", "d5/de9/a14860.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d5/de9/a14860.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

@@ -1,6 +1,7 @@
 var a22312 =
 [
-    [ "HandleHealPct", "de/d84/a22312.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "de/d84/a22312.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "de/d84/a22312.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "GetSeatNumber", "de/d84/a22312.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "de/d84/a22312.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "de/d84/a22312.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "de/d84/a22312.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

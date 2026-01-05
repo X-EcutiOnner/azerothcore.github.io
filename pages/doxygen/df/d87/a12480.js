@@ -1,9 +1,7 @@
 var a12480 =
 [
-    [ "FilterTargets", "df/d87/a12480.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "df/d87/a12480.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "df/d87/a12480.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "df/d87/a12480.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "df/d87/a12480.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "df/d87/a12480.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "go_suppression_deviceAI", "d7/d8f/a12484.html", "d7/d8f/a12484" ],
+    [ "go_suppression_device", "df/d87/a12480.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "df/d87/a12480.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "df/d87/a12480.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

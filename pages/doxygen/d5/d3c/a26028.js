@@ -1,7 +1,7 @@
 var a26028 =
 [
-    [ "HandleHeal", "d5/d3c/a26028.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d5/d3c/a26028.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d5/d3c/a26028.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d5/d3c/a26028.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleScript", "d5/d3c/a26028.html#a7c7f92d21898322c501f582a524f4052", null ],
+    [ "Load", "d5/d3c/a26028.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
+    [ "PrepareSpellScript", "d5/d3c/a26028.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
+    [ "Register", "d5/d3c/a26028.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
 ];

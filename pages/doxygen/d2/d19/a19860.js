@@ -1,11 +1,9 @@
 var a19860 =
 [
-    [ "npc_living_constellationAI", "d2/d19/a19860.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "d2/d19/a19860.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "d2/d19/a19860.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "d2/d19/a19860.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "d2/d19/a19860.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "d2/d19/a19860.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "d2/d19/a19860.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "d2/d19/a19860.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/d19/a19860.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "d2/d19/a19860.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "d2/d19/a19860.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "d2/d19/a19860.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "d2/d19/a19860.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "d2/d19/a19860.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

@@ -1,6 +1,9 @@
 var a27580 =
 [
-    [ "guard_shattrath_aldorAI", "d0/d64/a27584.html", "d0/d64/a27584" ],
-    [ "guard_shattrath_aldor", "dc/de8/a27580.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "dc/de8/a27580.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_gilded_brazierAI", "dc/de8/a27580.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "dc/de8/a27580.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "dc/de8/a27580.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "dc/de8/a27580.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "dc/de8/a27580.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "dc/de8/a27580.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

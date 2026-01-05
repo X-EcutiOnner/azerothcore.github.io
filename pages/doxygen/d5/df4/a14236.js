@@ -1,7 +1,6 @@
 var a14236 =
 [
-    [ "HandleOnHit", "d5/df4/a14236.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d5/df4/a14236.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d5/df4/a14236.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d5/df4/a14236.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "boss_grilekAI", "d3/dc2/a14240.html", "d3/dc2/a14240" ],
+    [ "boss_grilek", "d5/df4/a14236.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d5/df4/a14236.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

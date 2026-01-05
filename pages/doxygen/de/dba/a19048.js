@@ -1,5 +1,9 @@
 var a19048 =
 [
-    [ "at_icc_putricide_trap", "de/dba/a19048.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "de/dba/a19048.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "de/dba/a19048.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "de/dba/a19048.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "de/dba/a19048.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "de/dba/a19048.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "de/dba/a19048.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "de/dba/a19048.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

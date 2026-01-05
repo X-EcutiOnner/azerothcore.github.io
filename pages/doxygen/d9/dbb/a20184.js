@@ -1,7 +1,8 @@
 var a20184 =
 [
-    [ "achievement_flame_leviathan_garage", "d9/dbb/a20184.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d9/dbb/a20184.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d9/dbb/a20184.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d9/dbb/a20184.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "OnApply", "d9/dbb/a20184.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d9/dbb/a20184.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d9/dbb/a20184.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d9/dbb/a20184.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d9/dbb/a20184.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

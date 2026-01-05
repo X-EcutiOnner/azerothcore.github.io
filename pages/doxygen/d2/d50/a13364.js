@@ -1,8 +1,7 @@
 var a13364 =
 [
-    [ "CalcPeriodic", "d2/d50/a13364.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "d2/d50/a13364.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "d2/d50/a13364.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "d2/d50/a13364.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "d2/d50/a13364.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "HandleScript", "d2/d50/a13364.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d2/d50/a13364.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d2/d50/a13364.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d2/d50/a13364.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

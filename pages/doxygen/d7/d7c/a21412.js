@@ -1,6 +1,6 @@
 var a21412 =
 [
-    [ "HandleOnHit", "d7/d7c/a21412.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d7/d7c/a21412.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d7/d7c/a21412.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_ritual_channelerAI", "d5/d86/a21416.html", "d5/d86/a21416" ],
+    [ "npc_ritual_channeler", "d7/d7c/a21412.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d7/d7c/a21412.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

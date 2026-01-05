@@ -1,7 +1,6 @@
 var a17872 =
 [
-    [ "FilterTargets", "d0/d25/a17872.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "d0/d25/a17872.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "d0/d25/a17872.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "d0/d25/a17872.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "npc_gunship_boarding_add_realAI", "df/d0c/a17876.html", "df/d0c/a17876" ],
+    [ "npc_gunship_boarding_add", "d0/d25/a17872.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "d0/d25/a17872.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

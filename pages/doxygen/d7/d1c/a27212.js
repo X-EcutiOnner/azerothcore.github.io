@@ -1,5 +1,7 @@
 var a27212 =
 [
-    [ "achievement_bg_sa_artillery", "d7/d1c/a27212.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "d7/d1c/a27212.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "HandleDummy", "d7/d1c/a27212.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d7/d1c/a27212.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d7/d1c/a27212.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d7/d1c/a27212.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

@@ -1,6 +1,7 @@
 var a19256 =
 [
-    [ "boss_kelthuzad_minionAI", "d1/d73/a19260.html", "d1/d73/a19260" ],
-    [ "boss_kelthuzad_minion", "d1/dfe/a19256.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d1/dfe/a19256.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "OnApply", "d1/dfe/a19256.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d1/dfe/a19256.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d1/dfe/a19256.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d1/dfe/a19256.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

@@ -1,12 +1,12 @@
 var a14072 =
 [
-    [ "npc_forest_frog", "da/d98/a14072.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "da/d98/a14072.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "da/d98/a14072.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "da/d98/a14072.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "da/d98/a14072.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "da/d98/a14072.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "da/d98/a14072.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "da/d98/a14072.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "da/d98/a14072.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "npc_akilzon_eagle", "da/d98/a14072.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "da/d98/a14072.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "da/d98/a14072.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "da/d98/a14072.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "da/d98/a14072.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "da/d98/a14072.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "da/d98/a14072.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "da/d98/a14072.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "da/d98/a14072.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

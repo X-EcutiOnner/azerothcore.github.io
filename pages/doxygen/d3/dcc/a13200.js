@@ -1,7 +1,11 @@
 var a13200 =
 [
-    [ "HandleHit", "d3/dcc/a13200.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d3/dcc/a13200.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d3/dcc/a13200.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d3/dcc/a13200.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "npc_scarlet_ghoulAI", "d3/dcc/a13200.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d3/dcc/a13200.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d3/dcc/a13200.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d3/dcc/a13200.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d3/dcc/a13200.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
+    [ "UpdateAI", "d3/dcc/a13200.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d3/dcc/a13200.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d3/dcc/a13200.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

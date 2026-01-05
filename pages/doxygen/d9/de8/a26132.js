@@ -1,7 +1,9 @@
 var a26132 =
 [
-    [ "CheckCast", "d9/de8/a26132.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d9/de8/a26132.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d9/de8/a26132.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d9/de8/a26132.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "CheckCast", "d9/de8/a26132.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "d9/de8/a26132.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "d9/de8/a26132.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "d9/de8/a26132.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "d9/de8/a26132.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "d9/de8/a26132.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

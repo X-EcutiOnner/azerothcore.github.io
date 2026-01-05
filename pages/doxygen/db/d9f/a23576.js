@@ -1,7 +1,6 @@
 var a23576 =
 [
-    [ "HandleScript", "db/d9f/a23576.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "db/d9f/a23576.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "db/d9f/a23576.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "db/d9f/a23576.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "HandleScript", "db/d9f/a23576.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "db/d9f/a23576.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "db/d9f/a23576.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

@@ -1,6 +1,16 @@
 var a17280 =
 [
-    [ "npc_pos_freed_slaveAI", "d7/dcd/a17280.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d7/dcd/a17280.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d7/dcd/a17280.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "boss_ickAI", "d7/dcd/a17280.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d7/dcd/a17280.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d7/dcd/a17280.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d7/dcd/a17280.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d7/dcd/a17280.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d7/dcd/a17280.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d7/dcd/a17280.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d7/dcd/a17280.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d7/dcd/a17280.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d7/dcd/a17280.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d7/dcd/a17280.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d7/dcd/a17280.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d7/dcd/a17280.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

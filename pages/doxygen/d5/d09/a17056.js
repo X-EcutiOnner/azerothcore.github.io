@@ -1,8 +1,6 @@
 var a17056 =
 [
-    [ "npc_phantom_hallucinationAI", "d5/d09/a17056.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d5/d09/a17056.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d5/d09/a17056.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d5/d09/a17056.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d5/d09/a17056.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "FilterTargets", "d5/d09/a17056.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d5/d09/a17056.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d5/d09/a17056.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

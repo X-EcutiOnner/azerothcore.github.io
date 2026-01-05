@@ -1,5 +1,6 @@
 var a27936 =
 [
-    [ "ServerMailReward", "d6/d82/a27936.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d6/d82/a27936.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "npc_spring_rabbitAI", "d4/ded/a27940.html", "d4/ded/a27940" ],
+    [ "npc_spring_rabbit", "d6/d82/a27936.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d6/d82/a27936.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

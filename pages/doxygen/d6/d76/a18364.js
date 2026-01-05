@@ -1,6 +1,9 @@
 var a18364 =
 [
-    [ "VileSpiritActivateEvent", "d6/d76/a18364.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d6/d76/a18364.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d6/d76/a18364.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "AfterApply", "d6/d76/a18364.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "d6/d76/a18364.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "d6/d76/a18364.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "d6/d76/a18364.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "d6/d76/a18364.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "d6/d76/a18364.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

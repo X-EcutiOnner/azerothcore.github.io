@@ -1,6 +1,7 @@
 var a15720 =
 [
-    [ "Creature", "d8/d4e/a15720.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d8/d4e/a15720.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d8/d4e/a15720.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "HandleDummy", "d8/d4e/a15720.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d8/d4e/a15720.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d8/d4e/a15720.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d8/d4e/a15720.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

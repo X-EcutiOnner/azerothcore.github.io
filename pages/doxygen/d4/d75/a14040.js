@@ -1,7 +1,6 @@
 var a14040 =
 [
-    [ "spell", "d4/d75/a14040.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d4/d75/a14040.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d4/d75/a14040.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d4/d75/a14040.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "npc_andorhal_towerAI", "d9/d96/a14044.html", "d9/d96/a14044" ],
+    [ "npc_andorhal_tower", "d4/d75/a14040.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "d4/d75/a14040.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

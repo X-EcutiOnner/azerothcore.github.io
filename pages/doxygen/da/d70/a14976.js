@@ -1,14 +1,10 @@
 var a14976 =
 [
-    [ "npc_cos_stratholme_citizienAI", "da/d70/a14976.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "da/d70/a14976.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "da/d70/a14976.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "da/d70/a14976.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "da/d70/a14976.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "da/d70/a14976.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "da/d70/a14976.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "da/d70/a14976.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "da/d70/a14976.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "da/d70/a14976.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "da/d70/a14976.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "npc_hyjal_frost_wyrm", "da/d70/a14976.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "da/d70/a14976.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "da/d70/a14976.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "da/d70/a14976.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "da/d70/a14976.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "da/d70/a14976.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "da/d70/a14976.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

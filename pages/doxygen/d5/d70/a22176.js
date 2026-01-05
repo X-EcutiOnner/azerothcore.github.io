@@ -1,6 +1,6 @@
 var a22176 =
 [
-    [ "npc_plaguehound_trackerAI", "d5/d70/a22176.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d5/d70/a22176.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d5/d70/a22176.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_lake_frogAI", "dc/d0e/a22180.html", "dc/d0e/a22180" ],
+    [ "npc_lake_frog", "d5/d70/a22176.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d5/d70/a22176.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

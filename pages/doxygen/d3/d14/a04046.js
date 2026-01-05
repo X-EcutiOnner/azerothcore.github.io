@@ -1,7 +1,6 @@
 var a04046 =
 [
-    [ "FieldTypeToString", "d3/d14/a04046.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
-    [ "InitializeDatabaseFieldMetadata", "d3/d14/a04046.html#a5e0e57902060d1fcd32688acb949b98e", null ],
-    [ "MysqlTypeToFieldType", "d3/d14/a04046.html#a1a26932646b97d033efdf53078561a90", null ],
-    [ "SizeForType", "d3/d14/a04046.html#ae077e892df09ce687a0a50be949ad69f", null ]
+    [ "GetLibraryVersion", "d3/d14/a04046.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "d3/d14/a04046.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "d3/d14/a04046.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

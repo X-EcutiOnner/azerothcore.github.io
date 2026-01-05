@@ -1,6 +1,10 @@
 var a13896 =
 [
-    [ "npc_parqual_fintallas", "de/d48/a13896.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "de/d48/a13896.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "de/d48/a13896.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_grand_magister_rommathAI", "de/d48/a13896.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "de/d48/a13896.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "de/d48/a13896.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "de/d48/a13896.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "de/d48/a13896.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "de/d48/a13896.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "de/d48/a13896.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

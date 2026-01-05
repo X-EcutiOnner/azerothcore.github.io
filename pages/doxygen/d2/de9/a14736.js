@@ -1,6 +1,5 @@
 var a14736 =
 [
-    [ "OnAuraRemove", "d2/de9/a14736.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d2/de9/a14736.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d2/de9/a14736.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "PrepareSpellScript", "d2/de9/a14736.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d2/de9/a14736.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

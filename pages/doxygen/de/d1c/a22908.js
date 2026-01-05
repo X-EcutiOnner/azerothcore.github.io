@@ -1,6 +1,5 @@
 var a22908 =
 [
-    [ "HandleScriptEffect", "de/d1c/a22908.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "de/d1c/a22908.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "de/d1c/a22908.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "de/d1c/a22908.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "de/d1c/a22908.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

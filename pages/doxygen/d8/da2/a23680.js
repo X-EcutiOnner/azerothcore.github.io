@@ -1,7 +1,7 @@
 var a23680 =
 [
-    [ "boss_the_maker", "d8/da2/a23680.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d8/da2/a23680.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d8/da2/a23680.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d8/da2/a23680.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "HandleScript", "d8/da2/a23680.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "d8/da2/a23680.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "d8/da2/a23680.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "d8/da2/a23680.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

@@ -1,15 +1,10 @@
 var a19516 =
 [
-    [ "boss_magus_telestra", "df/d94/a19516.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "df/d94/a19516.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "df/d94/a19516.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "df/d94/a19516.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "df/d94/a19516.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "df/d94/a19516.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "df/d94/a19516.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "df/d94/a19516.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "df/d94/a19516.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "df/d94/a19516.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "df/d94/a19516.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
-    [ "copiesDied", "df/d94/a19516.html#a5738bf62869f9958448213b28c1bf771", null ]
+    [ "npc_power_sparkAI", "df/d94/a19516.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
+    [ "DamageTaken", "df/d94/a19516.html#aebd86516e17e77711d3877a11a159105", null ],
+    [ "DoAction", "df/d94/a19516.html#a54b4578be614da76cc886dedbe3d853e", null ],
+    [ "UpdateAI", "df/d94/a19516.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
+    [ "CheckTimer", "df/d94/a19516.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
+    [ "MoveTimer", "df/d94/a19516.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
+    [ "pInstance", "df/d94/a19516.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
 ];

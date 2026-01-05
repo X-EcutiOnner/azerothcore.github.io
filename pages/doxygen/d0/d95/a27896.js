@@ -1,6 +1,6 @@
 var a27896 =
 [
-    [ "npc_necropolis_relay", "d0/d95/a27896.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d0/d95/a27896.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d0/d95/a27896.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_steam_tonkAI", "db/d30/a27900.html", "db/d30/a27900" ],
+    [ "npc_steam_tonk", "d0/d95/a27896.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d0/d95/a27896.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

@@ -1,8 +1,18 @@
 var a13632 =
 [
-    [ "HandleApply", "d1/de1/a13632.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d1/de1/a13632.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d1/de1/a13632.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d1/de1/a13632.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d1/de1/a13632.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "boss_kiljaeden", "d1/de1/a13632.html#a573b32098eac346f3f9485eb46792b1b", null ],
+    [ "AttackStart", "d1/de1/a13632.html#a9ad882dda480a564406628bfde386e57", null ],
+    [ "DamageTaken", "d1/de1/a13632.html#afd668a9d98182d7e05ca38040e55e908", null ],
+    [ "DoAction", "d1/de1/a13632.html#a53f78e51932d98886fadd9422adf96ce", null ],
+    [ "EmpowerOrb", "d1/de1/a13632.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
+    [ "EnterEvadeMode", "d1/de1/a13632.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
+    [ "InitializeAI", "d1/de1/a13632.html#ac72d5d9615040c981e8e4e932be8c362", null ],
+    [ "JustDied", "d1/de1/a13632.html#a82376e807061529bfd8fb4e52d409acf", null ],
+    [ "JustEngagedWith", "d1/de1/a13632.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
+    [ "JustSummoned", "d1/de1/a13632.html#a3b983a903618b5bfebf7b45819207fde", null ],
+    [ "KilledUnit", "d1/de1/a13632.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
+    [ "Reset", "d1/de1/a13632.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
+    [ "ScheduleBasicAbilities", "d1/de1/a13632.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
+    [ "UpdateAI", "d1/de1/a13632.html#aedcd604a535ce354881d7e59a05a79b9", null ],
+    [ "_phase", "d1/de1/a13632.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
 ];

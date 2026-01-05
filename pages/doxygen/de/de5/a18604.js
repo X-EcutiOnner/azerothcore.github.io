@@ -1,8 +1,7 @@
 var a18604 =
 [
-    [ "npc_lk_wicked_spiritAI", "de/de5/a18604.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "de/de5/a18604.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "de/de5/a18604.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "de/de5/a18604.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "de/de5/a18604.html#a8b15079251b6855679d738a342126006", null ]
+    [ "PrepareSpellScript", "de/de5/a18604.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "de/de5/a18604.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "de/de5/a18604.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "de/de5/a18604.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

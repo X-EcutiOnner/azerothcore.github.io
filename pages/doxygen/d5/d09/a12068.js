@@ -1,11 +1,5 @@
 var a12068 =
 [
-    [ "npc_rocknotAI", "d5/d09/a12068.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d5/d09/a12068.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d5/d09/a12068.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d5/d09/a12068.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d5/d09/a12068.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d5/d09/a12068.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d5/d09/a12068.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d5/d09/a12068.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "npcEntry", "d5/d09/a12068.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "d5/d09/a12068.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

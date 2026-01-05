@@ -1,6 +1,11 @@
 var a18236 =
 [
-    [ "FilterTargets", "d4/d20/a18236.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "d4/d20/a18236.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "d4/d20/a18236.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "npc_little_oozeAI", "d4/d20/a18236.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d4/d20/a18236.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d4/d20/a18236.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d4/d20/a18236.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d4/d20/a18236.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d4/d20/a18236.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d4/d20/a18236.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d4/d20/a18236.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

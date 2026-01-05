@@ -1,6 +1,8 @@
 var a28784 =
 [
-    [ "ForceInitValues", "da/d62/a28784.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
-    [ "Player", "da/d62/a28784.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "UpdateObjectVisibility", "da/d62/a28784.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
+    [ "MapDifficulty", "da/d62/a28784.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "da/d62/a28784.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "da/d62/a28784.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "da/d62/a28784.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "da/d62/a28784.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

@@ -1,6 +1,6 @@
 var a26460 =
 [
-    [ "HandleDummyEffect", "d6/dc7/a26460.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d6/dc7/a26460.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d6/dc7/a26460.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "CheckCast", "d6/dc7/a26460.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "d6/dc7/a26460.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "d6/dc7/a26460.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

@@ -1,7 +1,7 @@
 var a22060 =
 [
-    [ "OnRemove", "dc/d59/a22060.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "dc/d59/a22060.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "dc/d59/a22060.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "dc/d59/a22060.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "FilterTargets", "dc/d59/a22060.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "dc/d59/a22060.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "dc/d59/a22060.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "dc/d59/a22060.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

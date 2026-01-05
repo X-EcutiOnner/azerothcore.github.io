@@ -1,7 +1,8 @@
 var a24960 =
 [
-    [ "if", "de/d44/a24960.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "de/d44/a24960.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "de/d44/a24960.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "de/d44/a24960.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "AfterRemove", "de/d44/a24960.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "de/d44/a24960.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "de/d44/a24960.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "de/d44/a24960.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "de/d44/a24960.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

@@ -1,6 +1,6 @@
 var a21004 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d2/d12/a21008.html", "d2/d12/a21008" ],
-    [ "boss_yoggsaron_crusher_tentacle", "d8/d18/a21004.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "d8/d18/a21004.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "OnRemove", "d8/d18/a21004.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "d8/d18/a21004.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "d8/d18/a21004.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

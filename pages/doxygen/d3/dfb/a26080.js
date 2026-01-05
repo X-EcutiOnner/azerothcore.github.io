@@ -1,6 +1,6 @@
 var a26080 =
 [
-    [ "HandleScriptEffect", "d3/dfb/a26080.html#a14df2ed73118826254a6ffa923063f6c", null ],
-    [ "PrepareSpellScript", "d3/dfb/a26080.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
-    [ "Register", "d3/dfb/a26080.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
+    [ "HandleDummy", "d3/dfb/a26080.html#ab146c4026bc8ad129bb3d421891d344b", null ],
+    [ "PrepareSpellScript", "d3/dfb/a26080.html#aa9743f357b9800ab2990fb584011b0a6", null ],
+    [ "Register", "d3/dfb/a26080.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
 ];

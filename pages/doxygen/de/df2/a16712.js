@@ -1,6 +1,8 @@
 var a16712 =
 [
-    [ "npc_fel_infernalAI", "db/dcc/a16716.html", "db/dcc/a16716" ],
-    [ "npc_fel_infernal", "de/df2/a16712.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "de/df2/a16712.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_toc_warlockAI", "de/df2/a16712.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "de/df2/a16712.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "de/df2/a16712.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "de/df2/a16712.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "de/df2/a16712.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

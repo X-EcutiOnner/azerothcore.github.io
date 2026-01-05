@@ -1,6 +1,6 @@
 var a12196 =
 [
-    [ "RestoreAttack", "d3/d6b/a12196.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d3/d6b/a12196.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d3/d6b/a12196.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "boss_general_angerforgeAI", "d1/d89/a12200.html", "d1/d89/a12200" ],
+    [ "boss_general_angerforge", "d3/d6b/a12196.html#a00c94097831dc52d31505f312a04f562", null ],
+    [ "GetAI", "d3/d6b/a12196.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
 ];

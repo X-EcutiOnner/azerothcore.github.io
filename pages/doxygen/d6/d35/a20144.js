@@ -1,6 +1,6 @@
 var a20144 =
 [
-    [ "OnPeriodic", "d6/d35/a20144.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d6/d35/a20144.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d6/d35/a20144.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "npc_pool_of_tarAI", "d6/d35/a20144.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "d6/d35/a20144.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "d6/d35/a20144.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

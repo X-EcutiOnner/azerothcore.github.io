@@ -1,6 +1,8 @@
 var a26084 =
 [
-    [ "CheckCast", "de/d5a/a26084.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "de/d5a/a26084.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "de/d5a/a26084.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandleDummy", "de/d5a/a26084.html#a5a628501371e7af224ce44594459b24d", null ],
+    [ "Load", "de/d5a/a26084.html#aeeab8e1eadb83827b035e07887a59ad1", null ],
+    [ "PrepareSpellScript", "de/d5a/a26084.html#a163c9510d29cc2fb454a9d8b437f0496", null ],
+    [ "Register", "de/d5a/a26084.html#aa46a2b76153ffdbea565374899ab31a3", null ],
+    [ "Validate", "de/d5a/a26084.html#a7a15b3f6aa7ca1458895b445c90509ee", null ]
 ];

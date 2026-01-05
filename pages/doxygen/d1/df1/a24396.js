@@ -1,11 +1,11 @@
 var a24396 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d1/df1/a24396.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "d1/df1/a24396.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "d1/df1/a24396.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "d1/df1/a24396.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "d1/df1/a24396.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "d1/df1/a24396.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "d1/df1/a24396.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "d1/df1/a24396.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_invis_infernal_casterAI", "d1/df1/a24396.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d1/df1/a24396.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d1/df1/a24396.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d1/df1/a24396.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d1/df1/a24396.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d1/df1/a24396.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d1/df1/a24396.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d1/df1/a24396.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

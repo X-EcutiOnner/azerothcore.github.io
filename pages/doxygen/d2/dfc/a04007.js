@@ -1,8 +1,9 @@
 var a04007 =
 [
-    [ "PingOperation", "d6/d37/a05783.html", "d6/d37/a05783" ],
-    [ "DatabaseIncompatibleVersion", "d2/dfc/a04007.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
-    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d2/dfc/a04007.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
-    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d2/dfc/a04007.html#a8751940b74a554bf0a86046325e0c5ed", null ],
-    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d2/dfc/a04007.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
+    [ "SQLElementData", "de/db2/a05948.html", "de/db2/a05948" ],
+    [ "SQLOperation", "db/d0b/a05952.html", "db/d0b/a05952" ],
+    [ "SQLElementDataType", "d2/dfc/a04007.html#abb4a6cfcce013f18b29779f1f435e627", [
+      [ "SQL_ELEMENT_RAW", "d2/dfc/a04007.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
+      [ "SQL_ELEMENT_PREPARED", "d2/dfc/a04007.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
+    ] ]
 ];

@@ -1,13 +1,9 @@
 var a18804 =
 [
-    [ "boss_sister_svalnaAI", "da/d5f/a18804.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "da/d5f/a18804.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "JustDied", "da/d5f/a18804.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "da/d5f/a18804.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "KilledUnit", "da/d5f/a18804.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "da/d5f/a18804.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "da/d5f/a18804.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "da/d5f/a18804.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "da/d5f/a18804.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "da/d5f/a18804.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
+    [ "npc_gluttonous_abominationAI", "da/d5f/a18804.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "da/d5f/a18804.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "da/d5f/a18804.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "da/d5f/a18804.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "da/d5f/a18804.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "da/d5f/a18804.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

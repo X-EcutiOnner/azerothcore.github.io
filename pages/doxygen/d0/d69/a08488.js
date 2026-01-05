@@ -1,7 +1,7 @@
 var a08488 =
 [
-    [ "UsedPos", "d0/d69/a08488.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "d0/d69/a08488.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "d0/d69/a08488.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "d0/d69/a08488.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "ObjectDistanceOrderPred", "d0/d69/a08488.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "d0/d69/a08488.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "d0/d69/a08488.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "d0/d69/a08488.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

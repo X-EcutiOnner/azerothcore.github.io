@@ -1,7 +1,7 @@
 var a12672 =
 [
-    [ "HandleScript", "d9/df3/a12672.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d9/df3/a12672.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d9/df3/a12672.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d9/df3/a12672.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleHit", "d9/df3/a12672.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d9/df3/a12672.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d9/df3/a12672.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d9/df3/a12672.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

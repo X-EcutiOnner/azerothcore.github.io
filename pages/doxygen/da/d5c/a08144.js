@@ -1,10 +1,9 @@
 var a08144 =
 [
-    [ "BoxMessage", "da/d5c/a08144.html#a450f6063a89db2d152370bc997c844a3", null ],
-    [ "BoxMoney", "da/d5c/a08144.html#a52a12645b55f5757cc61e9a014a71f32", null ],
-    [ "IsCoded", "da/d5c/a08144.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
-    [ "MenuItemIcon", "da/d5c/a08144.html#a987724c4673be20f5386f44245267bc9", null ],
-    [ "Message", "da/d5c/a08144.html#af130b33294cd49261b3c093cf6f9542c", null ],
-    [ "OptionType", "da/d5c/a08144.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
-    [ "Sender", "da/d5c/a08144.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
+    [ "VendorItem", "da/d5c/a08144.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
+    [ "IsGoldRequired", "da/d5c/a08144.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
+    [ "ExtendedCost", "da/d5c/a08144.html#a18234f38ff242b8687265f9acf70dbe0", null ],
+    [ "incrtime", "da/d5c/a08144.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
+    [ "item", "da/d5c/a08144.html#a6b26a96440c885684c173ee17d788896", null ],
+    [ "maxcount", "da/d5c/a08144.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
 ];

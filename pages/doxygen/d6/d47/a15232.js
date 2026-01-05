@@ -1,7 +1,7 @@
 var a15232 =
 [
-    [ "boss_rajaxx", "d6/d47/a15232.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d6/d47/a15232.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d6/d47/a15232.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d6/d47/a15232.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "npc_hive_zara_larva", "d6/d47/a15232.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d6/d47/a15232.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d6/d47/a15232.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d6/d47/a15232.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

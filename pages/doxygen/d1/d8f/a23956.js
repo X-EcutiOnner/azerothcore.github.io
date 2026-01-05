@@ -1,7 +1,10 @@
 var a23956 =
 [
-    [ "OnApply", "d1/d8f/a23956.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d1/d8f/a23956.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d1/d8f/a23956.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d1/d8f/a23956.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "boss_harbinger_skyriss", "d1/d8f/a23956.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d1/d8f/a23956.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d1/d8f/a23956.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d1/d8f/a23956.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d1/d8f/a23956.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d1/d8f/a23956.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d1/d8f/a23956.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

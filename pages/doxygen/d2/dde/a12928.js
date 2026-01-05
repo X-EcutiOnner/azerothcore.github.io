@@ -1,8 +1,10 @@
 var a12928 =
 [
-    [ "npc_tito", "d2/dde/a12928.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d2/dde/a12928.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d2/dde/a12928.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d2/dde/a12928.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d2/dde/a12928.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "npc_netherspite_infernal", "d2/dde/a12928.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d2/dde/a12928.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d2/dde/a12928.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d2/dde/a12928.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d2/dde/a12928.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d2/dde/a12928.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d2/dde/a12928.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

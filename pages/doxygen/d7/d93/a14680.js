@@ -1,6 +1,10 @@
 var a14680 =
 [
-    [ "HandleAfterEffectApply", "d7/d93/a14680.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d7/d93/a14680.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d7/d93/a14680.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "boss_headless_horseman_pumpkin", "d7/d93/a14680.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d7/d93/a14680.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d7/d93/a14680.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d7/d93/a14680.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d7/d93/a14680.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d7/d93/a14680.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d7/d93/a14680.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

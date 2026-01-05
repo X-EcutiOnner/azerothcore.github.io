@@ -1,6 +1,4 @@
 var a24012 =
 [
-    [ "HandleScriptEffect", "d0/db5/a24012.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d0/db5/a24012.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d0/db5/a24012.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d0/db5/a24012.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
 ];

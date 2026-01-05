@@ -1,6 +1,6 @@
 var a12144 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d4/d93/a12148.html", "d4/d93/a12148" ],
-    [ "boss_high_interrogator_gerstahn", "d1/d6a/a12144.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "d1/d6a/a12144.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "npc_lokhtos_darkbargainer", "d1/d6a/a12144.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d1/d6a/a12144.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d1/d6a/a12144.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

@@ -1,7 +1,7 @@
 var a24052 =
 [
-    [ "boss_gatewatcher_iron_hand", "dc/dfb/a24052.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "dc/dfb/a24052.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "dc/dfb/a24052.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "dc/dfb/a24052.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "OnApply", "dc/dfb/a24052.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "dc/dfb/a24052.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "dc/dfb/a24052.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "dc/dfb/a24052.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

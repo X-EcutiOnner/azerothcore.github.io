@@ -1,6 +1,8 @@
 var a15608 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d3/dfa/a15612.html", "d3/dfa/a15612" ],
-    [ "npc_tiger_matriarch_credit", "dd/d42/a15608.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "dd/d42/a15608.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_death_ravagerAI", "dd/d42/a15608.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "dd/d42/a15608.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "dd/d42/a15608.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "dd/d42/a15608.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "dd/d42/a15608.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

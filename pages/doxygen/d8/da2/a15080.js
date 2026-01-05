@@ -1,10 +1,12 @@
 var a15080 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d8/da2/a15080.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d8/da2/a15080.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d8/da2/a15080.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d8/da2/a15080.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d8/da2/a15080.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d8/da2/a15080.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d8/da2/a15080.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "boss_lieutenant_drake", "d8/da2/a15080.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d8/da2/a15080.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d8/da2/a15080.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d8/da2/a15080.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d8/da2/a15080.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d8/da2/a15080.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d8/da2/a15080.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d8/da2/a15080.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d8/da2/a15080.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

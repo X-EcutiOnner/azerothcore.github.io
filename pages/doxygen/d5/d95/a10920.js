@@ -1,7 +1,9 @@
 var a10920 =
 [
-    [ "PlayMusic", "d5/d95/a10920.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
-    [ "PlayMusic", "d5/d95/a10920.html#ad3d833f70de5937365c2351aa5206bbf", null ],
-    [ "Write", "d5/d95/a10920.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
-    [ "SoundKitID", "d5/d95/a10920.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
+    [ "EnchantmentLog", "d5/d95/a10920.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d5/d95/a10920.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d5/d95/a10920.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d5/d95/a10920.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d5/d95/a10920.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d5/d95/a10920.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

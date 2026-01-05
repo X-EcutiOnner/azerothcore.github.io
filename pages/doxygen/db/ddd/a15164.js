@@ -1,7 +1,10 @@
 var a15164 =
 [
-    [ "HandleScript", "db/ddd/a15164.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "db/ddd/a15164.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "db/ddd/a15164.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "db/ddd/a15164.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "instance_maraudon_InstanceMapScript", "db/ddd/a15164.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "db/ddd/a15164.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "db/ddd/a15164.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "db/ddd/a15164.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "db/ddd/a15164.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "db/ddd/a15164.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "db/ddd/a15164.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

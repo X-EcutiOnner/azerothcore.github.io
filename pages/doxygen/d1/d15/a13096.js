@@ -1,8 +1,6 @@
 var a13096 =
 [
-    [ "npc_death_knight_initiateAI", "d0/d96/a13100.html", "d0/d96/a13100" ],
-    [ "npc_death_knight_initiate", "d1/d15/a13096.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "d1/d15/a13096.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "d1/d15/a13096.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "d1/d15/a13096.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "HandleProc", "d1/d15/a13096.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d1/d15/a13096.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d1/d15/a13096.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

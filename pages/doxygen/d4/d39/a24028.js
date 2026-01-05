@@ -1,6 +1,7 @@
 var a24028 =
 [
-    [ "HandleScriptEffect", "d4/d39/a24028.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "d4/d39/a24028.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "d4/d39/a24028.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "CastQuill", "d4/d39/a24028.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d4/d39/a24028.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d4/d39/a24028.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d4/d39/a24028.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

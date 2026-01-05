@@ -1,9 +1,6 @@
 var a19664 =
 [
-    [ "HandleOnEffectApply", "dc/de0/a19664.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "dc/de0/a19664.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "dc/de0/a19664.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "dc/de0/a19664.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "dc/de0/a19664.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "dc/de0/a19664.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "boss_uromAI", "d0/d89/a19668.html", "d0/d89/a19668" ],
+    [ "boss_urom", "dc/de0/a19664.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "dc/de0/a19664.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

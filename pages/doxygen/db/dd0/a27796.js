@@ -1,6 +1,6 @@
 var a27796 =
 [
-    [ "npc_steam_tonkAI", "de/d96/a27800.html", "de/d96/a27800" ],
-    [ "npc_steam_tonk", "db/dd0/a27796.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "db/dd0/a27796.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_taxi", "db/dd0/a27796.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "db/dd0/a27796.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "db/dd0/a27796.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

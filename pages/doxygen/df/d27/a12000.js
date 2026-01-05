@@ -1,6 +1,7 @@
 var a12000 =
 [
-    [ "boss_drektharAI", "d3/d80/a12004.html", "d3/d80/a12004" ],
-    [ "boss_drekthar", "df/d27/a12000.html#ac9296654b10191ac9d58219ba36f57b3", null ],
-    [ "GetAI", "df/d27/a12000.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
+    [ "player_commandscript", "df/d27/a12000.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "df/d27/a12000.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "df/d27/a12000.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "df/d27/a12000.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

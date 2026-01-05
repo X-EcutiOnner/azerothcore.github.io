@@ -1,5 +1,6 @@
 var a27484 =
 [
-    [ "go_tablet_of_the_seven", "d7/ddf/a27484.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d7/ddf/a27484.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_witherbark_totem_bundleAI", "d7/ddf/a27484.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d7/ddf/a27484.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d7/ddf/a27484.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

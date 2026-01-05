@@ -1,6 +1,5 @@
 var a12444 =
 [
-    [ "boss_firemawAI", "d8/db9/a12444.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d8/db9/a12444.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d8/db9/a12444.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "at_blackrock_stadium", "d8/db9/a12444.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d8/db9/a12444.html#a26e43099d9253ea44060194e3b38c656", null ]
 ];

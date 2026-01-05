@@ -1,6 +1,6 @@
 var a21684 =
 [
-    [ "npc_nerubar_victimAI", "dc/d97/a21688.html", "dc/d97/a21688" ],
-    [ "npc_nerubar_victim", "d0/ddb/a21684.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d0/ddb/a21684.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_azure_spellbreakerAI", "dc/d97/a21688.html", "dc/d97/a21688" ],
+    [ "npc_azure_spellbreaker", "d0/ddb/a21684.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
+    [ "GetAI", "d0/ddb/a21684.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
 ];

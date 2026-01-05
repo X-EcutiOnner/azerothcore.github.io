@@ -1,7 +1,9 @@
 var a24128 =
 [
-    [ "npc_daranelleAI", "d4/d2b/a24128.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d4/d2b/a24128.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d4/d2b/a24128.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d4/d2b/a24128.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "boss_void_reaver", "d4/d2b/a24128.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d4/d2b/a24128.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d4/d2b/a24128.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d4/d2b/a24128.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d4/d2b/a24128.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "d4/d2b/a24128.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

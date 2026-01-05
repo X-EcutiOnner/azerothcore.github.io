@@ -1,6 +1,6 @@
 var a15740 =
 [
-    [ "npc_qiraj_war_spawnAI", "dd/d34/a15744.html", "dd/d34/a15744" ],
-    [ "npc_qiraj_war_spawn", "da/d6b/a15740.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "da/d6b/a15740.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "npcs_riverbreeze_and_silversky", "da/d6b/a15740.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "da/d6b/a15740.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "da/d6b/a15740.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

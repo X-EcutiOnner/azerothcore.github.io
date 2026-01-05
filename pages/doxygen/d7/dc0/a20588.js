@@ -1,6 +1,7 @@
 var a20588 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d3/d64/a20592.html", "d3/d64/a20592" ],
-    [ "npc_ulduar_aerial_command_unit", "d7/dc0/a20588.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "d7/dc0/a20588.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d7/dc0/a20588.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d7/dc0/a20588.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d7/dc0/a20588.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "d7/dc0/a20588.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

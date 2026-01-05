@@ -1,7 +1,8 @@
 var a18788 =
 [
-    [ "npc_frost_freeze_trapAI", "da/db2/a18788.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "da/db2/a18788.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "da/db2/a18788.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "da/db2/a18788.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_suppresserAI", "da/db2/a18788.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "da/db2/a18788.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "da/db2/a18788.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "da/db2/a18788.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "da/db2/a18788.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

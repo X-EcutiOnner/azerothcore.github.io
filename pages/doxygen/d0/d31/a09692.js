@@ -1,5 +1,4 @@
 var a09692 =
 [
-    [ "bossId", "d0/d31/a09692.html#ac7be12fc714b2760399185e96b01efe0", null ],
-    [ "entry", "d0/d31/a09692.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
+    [ "Options", "d0/d31/a09692.html#a30882f3f0415185ec12ef4d316a0b428", null ]
 ];

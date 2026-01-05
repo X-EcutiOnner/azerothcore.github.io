@@ -1,22 +1,13 @@
 var a16056 =
 [
-    [ "boss_anub_arak", "dc/d2d/a16056.html#a101f9d16396cda01ad6f4cc9b8957a0b", null ],
-    [ "DamageTaken", "dc/d2d/a16056.html#ae5a3f384f4f287c565a5b982111d5282", null ],
-    [ "EnterEvadeMode", "dc/d2d/a16056.html#a0365cf00b8d884219b02e198918448bb", null ],
-    [ "JustDied", "dc/d2d/a16056.html#aa95ae87845af18c9aef0ade4cbf9e220", null ],
-    [ "JustEngagedWith", "dc/d2d/a16056.html#ac25501650b7aeafac1cb92c7a809aee8", null ],
-    [ "KilledUnit", "dc/d2d/a16056.html#a823906227e56408dc4c052154e4997fc", null ],
-    [ "MoveInLineOfSight", "dc/d2d/a16056.html#a0443fe85445b60b4339ca122667f9cc5", null ],
-    [ "Reset", "dc/d2d/a16056.html#a15892545d3f5516387fdea763c378967", null ],
-    [ "ScheduleEmerged", "dc/d2d/a16056.html#ae284fc52dc33060f62c3cbccdb9e00a4", null ],
-    [ "ScheduleSubmerged", "dc/d2d/a16056.html#a1f0a88fc6901fb8e6e684cfe7d96bf17", null ],
-    [ "SpellHitTarget", "dc/d2d/a16056.html#a5afeff2e3c18622d534f040edd25bac8", null ],
-    [ "SummonedCreatureDies", "dc/d2d/a16056.html#a8f4da00dd29ec67806feb69a6f48922e", null ],
-    [ "SummonedCreatureEvade", "dc/d2d/a16056.html#a42797809823a4fce2bd4d45703a085a2", null ],
-    [ "UpdateAI", "dc/d2d/a16056.html#a02b141552bd5c1aeb9389c7f9e697407", null ],
-    [ "_balconySummons", "dc/d2d/a16056.html#a3848a51431973cc4e7ff5543ac1472df", null ],
-    [ "_guardianTriggerGUID", "dc/d2d/a16056.html#a8f17a42c83d660236db4b00e164e214a", null ],
-    [ "_intro", "dc/d2d/a16056.html#a8a82bc0717073a7e9835358926cb9b5e", null ],
-    [ "_remainingLargeSummonsBeforeEmerge", "dc/d2d/a16056.html#ab7b3922c175f5b80617e67a2fa941c79", null ],
-    [ "_submergePhase", "dc/d2d/a16056.html#a98629255b48739bc92443a4b196e00a1", null ]
+    [ "npc_shadowpriest_sezzizAI", "dc/d2d/a16056.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "dc/d2d/a16056.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "dc/d2d/a16056.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "dc/d2d/a16056.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "dc/d2d/a16056.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "dc/d2d/a16056.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "dc/d2d/a16056.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "dc/d2d/a16056.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "dc/d2d/a16056.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "dc/d2d/a16056.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

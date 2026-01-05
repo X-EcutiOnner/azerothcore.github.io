@@ -1,8 +1,9 @@
 var a26964 =
 [
-    [ "CalcPeriodic", "df/dff/a26964.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "df/dff/a26964.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "df/dff/a26964.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "df/dff/a26964.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "df/dff/a26964.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "CalculateAmount", "df/dff/a26964.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "df/dff/a26964.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "df/dff/a26964.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "df/dff/a26964.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "df/dff/a26964.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "df/dff/a26964.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

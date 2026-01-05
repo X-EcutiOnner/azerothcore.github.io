@@ -1,6 +1,10 @@
 var a18596 =
 [
-    [ "ActivateSpirit", "d7/d22/a18596.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d7/d22/a18596.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d7/d22/a18596.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "HandleScript", "d7/d22/a18596.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d7/d22/a18596.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d7/d22/a18596.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d7/d22/a18596.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d7/d22/a18596.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d7/d22/a18596.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d7/d22/a18596.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

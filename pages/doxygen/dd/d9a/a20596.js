@@ -1,6 +1,7 @@
 var a20596 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d6/d52/a20600.html", "d6/d52/a20600" ],
-    [ "npc_ulduar_proximity_mine", "dd/d9a/a20596.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "dd/d9a/a20596.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "FilterTargetsInitial", "dd/d9a/a20596.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "dd/d9a/a20596.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "dd/d9a/a20596.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "dd/d9a/a20596.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

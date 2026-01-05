@@ -1,11 +1,10 @@
 var a10492 =
 [
-    [ "PointMoveMap", "dc/da9/a10492.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "dc/da9/a10492.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "dc/da9/a10492.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "dc/da9/a10492.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "dc/da9/a10492.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "dc/da9/a10492.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "dc/da9/a10492.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "dc/da9/a10492.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "VehicleScript", "dc/da9/a10492.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "dc/da9/a10492.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "dc/da9/a10492.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "dc/da9/a10492.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "dc/da9/a10492.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "dc/da9/a10492.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "dc/da9/a10492.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

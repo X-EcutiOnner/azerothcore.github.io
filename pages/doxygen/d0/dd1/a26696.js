@@ -1,9 +1,7 @@
 var a26696 =
 [
-    [ "HandleKnockBack", "d0/dd1/a26696.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d0/dd1/a26696.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d0/dd1/a26696.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d0/dd1/a26696.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d0/dd1/a26696.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d0/dd1/a26696.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleDummy", "d0/dd1/a26696.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "d0/dd1/a26696.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "d0/dd1/a26696.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "d0/dd1/a26696.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

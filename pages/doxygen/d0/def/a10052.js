@@ -1,11 +1,17 @@
 var a10052 =
 [
-    [ "EffectMovementGenerator", "d0/def/a10052.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "d0/def/a10052.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d0/def/a10052.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d0/def/a10052.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d0/def/a10052.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d0/def/a10052.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "d0/def/a10052.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "d0/def/a10052.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "FleeingMovementGenerator", "d0/def/a10052.html#a84808dc91baadc114a6c283dd0ba6caa", null ],
+    [ "DoFinalize", "d0/def/a10052.html#a89dd4d270b35e855c268374d8bfc3ebb", null ],
+    [ "DoFinalize", "d0/def/a10052.html#a693ec24e9d51ea0f63d15e1c07afdb2d", null ],
+    [ "DoInitialize", "d0/def/a10052.html#adeb978816b67ec9542ccd131da1403be", null ],
+    [ "DoReset", "d0/def/a10052.html#a0e84bc32b599040c7f8ed9cdf92679e8", null ],
+    [ "DoUpdate", "d0/def/a10052.html#ad78ed87cc8d2569a2744ef43957ba498", null ],
+    [ "GetMovementGeneratorType", "d0/def/a10052.html#aa739940493313028f17d306c1b23da52", null ],
+    [ "GetPoint", "d0/def/a10052.html#a77d3ae9533947a538220f9340ed7a907", null ],
+    [ "SetTargetLocation", "d0/def/a10052.html#ab0e0f55df28f7cbcf108191e1e129634", null ],
+    [ "_fleeTargetGUID", "d0/def/a10052.html#ade625570dc07a778a2089c986fac38f7", null ],
+    [ "_interrupt", "d0/def/a10052.html#a1b71b8e2f29109b5dee1e1661d54f74a", null ],
+    [ "_invalidPathsCount", "d0/def/a10052.html#a56cbd33bf6cd8152f4586b2298c8fdf8", null ],
+    [ "_path", "d0/def/a10052.html#a4955c5c4b2d18c11da2b9d2a75524c16", null ],
+    [ "_timer", "d0/def/a10052.html#a33bbc20fc564b7166965ca2f8e9b9211", null ]
 ];

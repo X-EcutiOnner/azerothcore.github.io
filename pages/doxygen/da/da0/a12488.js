@@ -1,7 +1,6 @@
 var a12488 =
 [
-    [ "HandlePeriodic", "da/da0/a12488.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "da/da0/a12488.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "da/da0/a12488.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "da/da0/a12488.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "FilterTargets", "da/da0/a12488.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "da/da0/a12488.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "da/da0/a12488.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

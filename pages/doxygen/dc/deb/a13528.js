@@ -1,8 +1,11 @@
 var a13528 =
 [
-    [ "OnPeriodic", "dc/deb/a13528.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "dc/deb/a13528.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "dc/deb/a13528.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "dc/deb/a13528.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "dc/deb/a13528.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "boss_alythess", "dc/deb/a13528.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "dc/deb/a13528.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "dc/deb/a13528.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "dc/deb/a13528.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "dc/deb/a13528.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "dc/deb/a13528.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "dc/deb/a13528.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "dc/deb/a13528.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

@@ -1,18 +1,12 @@
 var a27764 =
 [
-    [ "npc_doctorAI", "dc/dc5/a27764.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "dc/dc5/a27764.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "dc/dc5/a27764.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "dc/dc5/a27764.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "dc/dc5/a27764.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "dc/dc5/a27764.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "dc/dc5/a27764.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "dc/dc5/a27764.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "dc/dc5/a27764.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "dc/dc5/a27764.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "dc/dc5/a27764.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "dc/dc5/a27764.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "dc/dc5/a27764.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "dc/dc5/a27764.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "dc/dc5/a27764.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "npc_preciousAI", "dc/dc5/a27764.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "dc/dc5/a27764.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "dc/dc5/a27764.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "dc/dc5/a27764.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "dc/dc5/a27764.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "dc/dc5/a27764.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "dc/dc5/a27764.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "dc/dc5/a27764.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "dc/dc5/a27764.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

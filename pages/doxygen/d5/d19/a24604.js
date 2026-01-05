@@ -1,7 +1,5 @@
 var a24604 =
 [
-    [ "CheckCast", "d5/d19/a24604.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d5/d19/a24604.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d5/d19/a24604.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d5/d19/a24604.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_pet_dk_risen_ally", "d5/d19/a24604.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d5/d19/a24604.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

@@ -1,6 +1,6 @@
 var a24920 =
 [
-    [ "OnHit", "db/d6b/a24920.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "db/d6b/a24920.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "db/d6b/a24920.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "CheckProc", "db/d6b/a24920.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "PrepareAuraScript", "db/d6b/a24920.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "db/d6b/a24920.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ]
 ];

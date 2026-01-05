@@ -1,8 +1,9 @@
 var a05412 =
 [
-    [ "LogOperation", "d8/d73/a05412.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "d8/d73/a05412.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "d8/d73/a05412.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "d8/d73/a05412.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "d8/d73/a05412.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "IpLocationStore", "d8/d73/a05412.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d8/d73/a05412.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d8/d73/a05412.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d8/d73/a05412.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d8/d73/a05412.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d8/d73/a05412.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

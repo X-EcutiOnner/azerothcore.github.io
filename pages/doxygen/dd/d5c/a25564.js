@@ -1,10 +1,5 @@
 var a25564 =
 [
-    [ "Load", "dd/d5c/a25564.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "dd/d5c/a25564.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "dd/d5c/a25564.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "dd/d5c/a25564.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "dd/d5c/a25564.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "dd/d5c/a25564.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "dd/d5c/a25564.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "PrepareSpellScript", "dd/d5c/a25564.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "dd/d5c/a25564.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

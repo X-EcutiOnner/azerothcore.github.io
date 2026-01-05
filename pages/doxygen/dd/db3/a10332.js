@@ -1,5 +1,19 @@
 var a10332 =
 [
-    [ "GenericCreatureScript", "dd/db3/a10332.html#a52157430320e253a5897612623eb796c", null ],
-    [ "GetAI", "dd/db3/a10332.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
+    [ "AllSpellScript", "dd/db3/a10332.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
+    [ "CanPrepare", "dd/db3/a10332.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "dd/db3/a10332.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "dd/db3/a10332.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "dd/db3/a10332.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "dd/db3/a10332.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "dd/db3/a10332.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "dd/db3/a10332.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "dd/db3/a10332.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "dd/db3/a10332.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnRemoveAuraScaleTargets", "dd/db3/a10332.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "dd/db3/a10332.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "dd/db3/a10332.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "dd/db3/a10332.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "dd/db3/a10332.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "dd/db3/a10332.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

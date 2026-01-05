@@ -1,6 +1,6 @@
 var a12176 =
 [
-    [ "boss_okthorAI", "d5/de2/a12180.html", "d5/de2/a12180" ],
-    [ "boss_okthor", "d3/d78/a12176.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
-    [ "GetAI", "d3/d78/a12176.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
+    [ "boss_anubshiahAI", "d3/d78/a12176.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
+    [ "JustEngagedWith", "d3/d78/a12176.html#ae83c1def323828814b5db6b032002438", null ],
+    [ "UpdateAI", "d3/d78/a12176.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
 ];

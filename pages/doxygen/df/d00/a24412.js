@@ -1,15 +1,14 @@
 var a24412 =
 [
-    [ "dragonmaw_race_npc", "df/d00/a24412.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
-    [ "FailQuest", "df/d00/a24412.html#a15a1223f9dc5d3979485a753687f169e", null ],
-    [ "FinishRace", "df/d00/a24412.html#a2439f54aca4ff28c23d351245099a4fc", null ],
-    [ "MovementInform", "df/d00/a24412.html#ad0b4ef357605a44a4188c29292303dcf", null ],
-    [ "PathEndReached", "df/d00/a24412.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
-    [ "Reset", "df/d00/a24412.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
-    [ "sQuestAccept", "df/d00/a24412.html#a539fcaf1dc25a34531d032032c19182e", null ],
-    [ "StartRace", "df/d00/a24412.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
-    [ "StartRaceAttacks", "df/d00/a24412.html#a341528843b89a29711f60a1b932da616", null ],
-    [ "TakeOff", "df/d00/a24412.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
-    [ "UpdateAI", "df/d00/a24412.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
-    [ "_playerGUID", "df/d00/a24412.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
+    [ "npc_mature_netherwing_drakeAI", "df/d00/a24412.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "df/d00/a24412.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "df/d00/a24412.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "df/d00/a24412.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "df/d00/a24412.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "df/d00/a24412.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "df/d00/a24412.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "df/d00/a24412.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "df/d00/a24412.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "df/d00/a24412.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "df/d00/a24412.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

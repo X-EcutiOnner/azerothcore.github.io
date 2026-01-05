@@ -1,8 +1,10 @@
 var a18516 =
 [
-    [ "Load", "da/d98/a18516.html#add67e02f44e3658bff98faf7a9466ba3", null ],
-    [ "OnPeriodic", "da/d98/a18516.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
-    [ "PrepareAuraScript", "da/d98/a18516.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
-    [ "Register", "da/d98/a18516.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
-    [ "_is25Man", "da/d98/a18516.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
+    [ "npc_shambling_horror_iccAI", "da/d98/a18516.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "da/d98/a18516.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "da/d98/a18516.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "da/d98/a18516.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "da/d98/a18516.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "da/d98/a18516.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "da/d98/a18516.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

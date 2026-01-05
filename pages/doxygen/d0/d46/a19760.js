@@ -1,6 +1,17 @@
 var a19760 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "df/de5/a19764.html", "df/de5/a19764" ],
-    [ "boss_sjonnir_iron_sludge", "d0/d46/a19760.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d0/d46/a19760.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "boss_bjarngrim", "d0/d46/a19760.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "d0/d46/a19760.html#a87eab2b27b48d98b94a030936722781e", null ],
+    [ "JustDied", "d0/d46/a19760.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
+    [ "JustEngagedWith", "d0/d46/a19760.html#ad150ab7d9837861e8c4673a78978bb11", null ],
+    [ "KilledUnit", "d0/d46/a19760.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
+    [ "RemoveStanceAura", "d0/d46/a19760.html#a55a695e27192313c6cbe263a739e669e", null ],
+    [ "Reset", "d0/d46/a19760.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
+    [ "RollStance", "d0/d46/a19760.html#acd511435f9d77aa4839e1c856382ea51", null ],
+    [ "UpdateEscortAI", "d0/d46/a19760.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
+    [ "WaypointReached", "d0/d46/a19760.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "events", "d0/d46/a19760.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
+    [ "m_pInstance", "d0/d46/a19760.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
+    [ "m_uiStance", "d0/d46/a19760.html#aec11755c71f056c8294a8af1c1084353", null ],
+    [ "summons", "d0/d46/a19760.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
 ];

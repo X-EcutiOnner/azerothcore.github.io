@@ -1,9 +1,7 @@
 var a12476 =
 [
-    [ "npc_drakonid_spawner", "dd/d2f/a12476.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "dd/d2f/a12476.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "dd/d2f/a12476.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "dd/d2f/a12476.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "dd/d2f/a12476.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "dd/d2f/a12476.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_broodlordAI", "dd/d2f/a12476.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "dd/d2f/a12476.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "dd/d2f/a12476.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "dd/d2f/a12476.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

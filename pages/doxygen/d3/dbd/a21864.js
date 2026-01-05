@@ -1,6 +1,6 @@
 var a21864 =
 [
-    [ "npc_dalaran_mageAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
-    [ "npc_dalaran_mage", "d3/dbd/a21864.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d3/dbd/a21864.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "PrepareSpellScript", "d3/dbd/a21864.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d3/dbd/a21864.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d3/dbd/a21864.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

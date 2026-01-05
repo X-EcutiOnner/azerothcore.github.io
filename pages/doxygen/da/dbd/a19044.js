@@ -1,5 +1,6 @@
 var a19044 =
 [
-    [ "at_icc_gauntlet_event", "da/dbd/a19044.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "da/dbd/a19044.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "de/dba/a19048.html", "de/dba/a19048" ],
+    [ "npc_icc_skybreaker_hierophant", "da/dbd/a19044.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "da/dbd/a19044.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

@@ -1,9 +1,8 @@
 var a11652 =
 [
-    [ "bytes", "d9/db0/a11652.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d9/db0/a11652.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d9/db0/a11652.html#ac019bab7aac3013567d8fe979f30bf5d", null ],
-    [ "ints", "d9/db0/a11652.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d9/db0/a11652.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d9/db0/a11652.html#a4b24d33d1c7fc4eecb32b0bde85a5f2e", null ]
+    [ "CreatureTextId", "d9/db0/a11652.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d9/db0/a11652.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d9/db0/a11652.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d9/db0/a11652.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d9/db0/a11652.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

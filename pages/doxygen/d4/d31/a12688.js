@@ -1,6 +1,10 @@
 var a12688 =
 [
-    [ "boss_sulfuronAI", "d8/df7/a12692.html", "d8/df7/a12692" ],
-    [ "boss_sulfuron", "d4/d31/a12688.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "d4/d31/a12688.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "boss_golemaggAI", "d4/d31/a12688.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d4/d31/a12688.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d4/d31/a12688.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d4/d31/a12688.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d4/d31/a12688.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d4/d31/a12688.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d4/d31/a12688.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

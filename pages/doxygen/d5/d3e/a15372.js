@@ -1,6 +1,5 @@
 var a15372 =
 [
-    [ "FilterTargets", "d5/d3e/a15372.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d5/d3e/a15372.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d5/d3e/a15372.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "NotInStomachSelector", "d5/d3e/a15372.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
+    [ "operator()", "d5/d3e/a15372.html#a189c90e585ecef8ffbcbe9227c588946", null ]
 ];

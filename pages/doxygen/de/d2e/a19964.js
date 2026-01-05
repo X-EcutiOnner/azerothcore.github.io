@@ -1,8 +1,9 @@
 var a19964 =
 [
-    [ "OnPeriodic", "de/d2e/a19964.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "de/d2e/a19964.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "de/d2e/a19964.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "de/d2e/a19964.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "de/d2e/a19964.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "CheckTargets", "de/d2e/a19964.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "de/d2e/a19964.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "de/d2e/a19964.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "de/d2e/a19964.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "de/d2e/a19964.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "de/d2e/a19964.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

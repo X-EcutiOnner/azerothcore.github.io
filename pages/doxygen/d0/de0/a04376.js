@@ -1,5 +1,5 @@
 var a04376 =
 [
-    [ "HMAC_RESULT_SIZE", "d0/de0/a04376.html#abdb09168f87cd99a498636550843012d", null ],
-    [ "TOTP_INTERVAL", "d0/de0/a04376.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
+    [ "SHA1", "d0/de0/a04376.html#af1f12790805678378554ea1c14b0c1df", null ],
+    [ "SRP6", "d0/de0/a04376.html#a80857313fb18764ec6d5834e183889f8", null ]
 ];

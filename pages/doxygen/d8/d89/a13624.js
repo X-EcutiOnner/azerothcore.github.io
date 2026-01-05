@@ -1,8 +1,6 @@
 var a13624 =
 [
-    [ "HandleApply", "d8/d89/a13624.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d8/d89/a13624.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d8/d89/a13624.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d8/d89/a13624.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d8/d89/a13624.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "CastArmageddon", "d8/d89/a13624.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d8/d89/a13624.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d8/d89/a13624.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

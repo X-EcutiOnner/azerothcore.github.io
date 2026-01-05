@@ -1,6 +1,8 @@
 var a14704 =
 [
-    [ "HandleDummy", "d4/dd3/a14704.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d4/dd3/a14704.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d4/dd3/a14704.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "npc_love_in_air_snivel_real", "d4/dd3/a14704.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d4/dd3/a14704.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d4/dd3/a14704.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d4/dd3/a14704.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d4/dd3/a14704.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

@@ -1,6 +1,7 @@
 var a16380 =
 [
-    [ "HandleScript", "d9/d74/a16380.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d9/d74/a16380.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d9/d74/a16380.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "npc_orb_carrierAI", "d9/d74/a16380.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d9/d74/a16380.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d9/d74/a16380.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d9/d74/a16380.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

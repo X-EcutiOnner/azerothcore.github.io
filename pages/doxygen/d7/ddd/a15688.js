@@ -1,6 +1,7 @@
 var a15688 =
 [
-    [ "npc_omenAI", "d8/d7d/a15692.html", "d8/d7d/a15692" ],
-    [ "npc_omen", "d7/ddd/a15688.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d7/ddd/a15688.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d7/ddd/a15688.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d7/ddd/a15688.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d7/ddd/a15688.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d7/ddd/a15688.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

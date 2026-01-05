@@ -1,6 +1,6 @@
 var a16612 =
 [
-    [ "npc_toc_warlockAI", "d0/d29/a16616.html", "d0/d29/a16616" ],
-    [ "npc_toc_warlock", "d7/d47/a16612.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d7/d47/a16612.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "boss_anubarak_trialAI", "d0/d29/a16616.html", "d0/d29/a16616" ],
+    [ "boss_anubarak_trial", "d7/d47/a16612.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d7/d47/a16612.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

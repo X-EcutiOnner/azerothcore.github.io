@@ -1,6 +1,8 @@
 var a24104 =
 [
-    [ "npc_deaths_fel_cannonAI", "da/d64/a24108.html", "da/d64/a24108" ],
-    [ "npc_deaths_fel_cannon", "d5/dde/a24104.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d5/dde/a24104.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "HandleScriptEffect", "d5/dde/a24104.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d5/dde/a24104.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d5/dde/a24104.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d5/dde/a24104.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d5/dde/a24104.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

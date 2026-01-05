@@ -1,6 +1,7 @@
 var a24004 =
 [
-    [ "lapseTeleport", "d6/dd3/a24004.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d6/dd3/a24004.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d6/dd3/a24004.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "boss_warp_splinter", "d6/dd3/a24004.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d6/dd3/a24004.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d6/dd3/a24004.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d6/dd3/a24004.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

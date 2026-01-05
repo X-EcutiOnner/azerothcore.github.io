@@ -1,11 +1,8 @@
 var a16088 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "de/d4d/a16088.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "de/d4d/a16088.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "de/d4d/a16088.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "de/d4d/a16088.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "de/d4d/a16088.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "de/d4d/a16088.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "de/d4d/a16088.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "de/d4d/a16088.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "HandleAfterCast", "de/d4d/a16088.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "de/d4d/a16088.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "de/d4d/a16088.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "de/d4d/a16088.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "de/d4d/a16088.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

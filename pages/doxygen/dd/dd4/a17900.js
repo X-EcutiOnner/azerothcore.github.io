@@ -1,5 +1,7 @@
 var a17900 =
 [
-    [ "achievement_im_on_a_boat", "dd/dd4/a17900.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "dd/dd4/a17900.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "npc_gunship_rocketeerAI", "dd/dd4/a17900.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "dd/dd4/a17900.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "dd/dd4/a17900.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "dd/dd4/a17900.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

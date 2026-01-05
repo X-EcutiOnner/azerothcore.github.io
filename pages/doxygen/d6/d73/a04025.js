@@ -1,6 +1,7 @@
 var a04025 =
 [
-    [ "ResultIterator< T >", "d3/d20/a05927.html", "d3/d20/a05927" ],
-    [ "ResultSet", "d7/d57/a05931.html", "d7/d57/a05931" ],
-    [ "PreparedResultSet", "d3/d01/a05935.html", "d3/d01/a05935" ]
+    [ "SQLQueryHolderBase", "d4/dde/a05924.html", "d4/dde/a05924" ],
+    [ "SQLQueryHolder< T >", "d7/d3c/a05776.html", "d7/d3c/a05776" ],
+    [ "SQLQueryHolderTask", "d8/dec/a05928.html", "d8/dec/a05928" ],
+    [ "SQLQueryHolderCallback", "dc/dc3/a05932.html", "dc/dc3/a05932" ]
 ];

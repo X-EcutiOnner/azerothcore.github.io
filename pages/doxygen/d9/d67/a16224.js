@@ -1,6 +1,7 @@
 var a16224 =
 [
-    [ "npc_xerestraszaAI", "d6/d86/a16228.html", "d6/d86/a16228" ],
-    [ "npc_xerestrasza", "d9/d67/a16224.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "d9/d67/a16224.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "HandleScriptEffect", "d9/d67/a16224.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d9/d67/a16224.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d9/d67/a16224.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d9/d67/a16224.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

@@ -1,7 +1,6 @@
 var a22144 =
 [
-    [ "HandleScript", "df/da9/a22144.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "df/da9/a22144.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "df/da9/a22144.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "df/da9/a22144.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_ravenous_worgAI", "d8/daf/a22148.html", "d8/daf/a22148" ],
+    [ "npc_ravenous_worg", "df/da9/a22144.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "df/da9/a22144.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

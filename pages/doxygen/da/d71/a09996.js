@@ -1,5 +1,6 @@
 var a09996 =
 [
-    [ "IdleMovementFactory", "da/d71/a09996.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "da/d71/a09996.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "IsNeutralOrFriendlyToTeam", "da/d71/a09996.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "da/d71/a09996.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "da/d71/a09996.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

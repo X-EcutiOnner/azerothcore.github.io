@@ -1,6 +1,7 @@
 var a13236 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d4/d45/a13240.html", "d4/d45/a13240" ],
-    [ "npc_valkyr_battle_maiden", "d6/d01/a13236.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "d6/d01/a13236.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "HandleEffectApply", "d6/d01/a13236.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d6/d01/a13236.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d6/d01/a13236.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d6/d01/a13236.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

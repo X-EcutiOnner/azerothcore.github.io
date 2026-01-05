@@ -1,8 +1,6 @@
 var a18868 =
 [
-    [ "npc_arthas_teleport_visualAI", "dc/d93/a18868.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "dc/d93/a18868.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "dc/d93/a18868.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "dc/d93/a18868.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "dc/d93/a18868.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_rotting_frost_giantAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
+    [ "npc_rotting_frost_giant", "dc/d93/a18868.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "dc/d93/a18868.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

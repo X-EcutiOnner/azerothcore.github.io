@@ -1,6 +1,14 @@
 var a20572 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "df/d2f/a20576.html", "df/d2f/a20576" ],
-    [ "npc_ulduar_leviathan_mkii", "db/df5/a20572.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "db/df5/a20572.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "boss_kologarn_armsAI", "db/df5/a20572.html#aa647b59e1bb0abb8f71e81700063624d", null ],
+    [ "AttackStart", "db/df5/a20572.html#ad8e25495a6559b0c4f63f0c81a4af044", null ],
+    [ "DamageTaken", "db/df5/a20572.html#aebc4f20f398a884d5cf911746048066e", null ],
+    [ "EnterEvadeMode", "db/df5/a20572.html#a1d39d05719d6e7730bd3d247ec1f56a7", null ],
+    [ "JustDied", "db/df5/a20572.html#a224f30aa4703f82e1ff9439b5247398a", null ],
+    [ "MoveInLineOfSight", "db/df5/a20572.html#a7f8167fe8edc85fc93143a8e8945bed4", null ],
+    [ "PassengerBoarded", "db/df5/a20572.html#a105880e1f201db0d4130611f5b99d730", null ],
+    [ "Reset", "db/df5/a20572.html#a8eec8810cdb52bacdd0c9165993dd3c2", null ],
+    [ "UpdateAI", "db/df5/a20572.html#ad4f392b7aa918d7f038749db4ffd72b8", null ],
+    [ "_combatStarted", "db/df5/a20572.html#a016c5497988d7ddd9f0744e83f7bf1d3", null ],
+    [ "_damageDone", "db/df5/a20572.html#af0ad823bc5b02282d5d525d135ee3118", null ]
 ];

@@ -1,8 +1,6 @@
 var a22136 =
 [
-    [ "HandleEffectApply", "d3/dc2/a22136.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d3/dc2/a22136.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d3/dc2/a22136.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d3/dc2/a22136.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d3/dc2/a22136.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_mrfloppyAI", "df/df1/a22140.html", "df/df1/a22140" ],
+    [ "npc_mrfloppy", "d3/dc2/a22136.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d3/dc2/a22136.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

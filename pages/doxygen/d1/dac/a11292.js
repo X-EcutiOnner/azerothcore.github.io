@@ -1,6 +1,7 @@
 var a11292 =
 [
-    [ "ChannelTargetData", "d1/dac/a11292.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "d1/dac/a11292.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d1/dac/a11292.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "IsValidOpcode", "d1/dac/a11292.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d1/dac/a11292.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d1/dac/a11292.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d1/dac/a11292.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

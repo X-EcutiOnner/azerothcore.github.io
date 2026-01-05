@@ -1,10 +1,6 @@
 var a17932 =
 [
-    [ "npc_cult_adherentAI", "db/d27/a17932.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "db/d27/a17932.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "db/d27/a17932.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "db/d27/a17932.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "db/d27/a17932.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "db/d27/a17932.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "db/d27/a17932.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "PrepareSpellScript", "db/d27/a17932.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "db/d27/a17932.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "db/d27/a17932.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

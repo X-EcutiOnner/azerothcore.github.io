@@ -1,6 +1,6 @@
 var a17564 =
 [
-    [ "BloodboltHitCheck", "d1/d86/a17564.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "d1/d86/a17564.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "d1/d86/a17564.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "npc_dark_nucleusAI", "d0/dc4/a17568.html", "d0/dc4/a17568" ],
+    [ "npc_dark_nucleus", "d1/d86/a17564.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d1/d86/a17564.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

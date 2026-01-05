@@ -1,5 +1,6 @@
 var a20688 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "d6/d86/a20688.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "d6/d86/a20688.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "db/de0/a20692.html", "db/de0/a20692" ],
+    [ "npc_ulduar_bot_summon_trigger", "d6/d86/a20688.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
+    [ "GetAI", "d6/d86/a20688.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
 ];

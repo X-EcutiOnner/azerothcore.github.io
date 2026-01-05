@@ -1,6 +1,6 @@
 var a18184 =
 [
-    [ "DespawnSelf", "d8/d91/a18184.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d8/d91/a18184.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d8/d91/a18184.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "HandleScript", "d8/d91/a18184.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "d8/d91/a18184.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "d8/d91/a18184.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

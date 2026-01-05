@@ -1,9 +1,6 @@
 var a12384 =
 [
-    [ "npc_vaelastrasz_the_redAI", "dc/d53/a12384.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "dc/d53/a12384.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "dc/d53/a12384.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "dc/d53/a12384.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "dc/d53/a12384.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "dc/d53/a12384.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "boss_solakar_flamewreathAI", "df/d3c/a12388.html", "df/d3c/a12388" ],
+    [ "boss_solakar_flamewreath", "dc/d53/a12384.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "dc/d53/a12384.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

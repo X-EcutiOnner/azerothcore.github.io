@@ -1,7 +1,12 @@
 var a04682 =
 [
-    [ "EnumText", "de/d98/a05579.html", "de/d98/a05579" ],
-    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "d0/d52/a05583.html", "d0/d52/a05583" ],
-    [ "EnumUtils", "dc/d4a/a05587.html", "dc/d4a/a05587" ],
-    [ "EnumUtils::Iterator< Enum >", "d0/db9/a05591.html", "d0/db9/a05591" ]
+    [ "EnumFlag< T >", "d9/df0/a05540.html", "d9/df0/a05540" ],
+    [ "DEFINE_ENUM_FLAG", "d3/d49/a04682.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
+    [ "IsFlag", "d3/d49/a04682.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
+    [ "IsEnumFlag", "d3/d49/a04682.html#ae0992e010612850442fc56bcf2d44b47", null ],
+    [ "operator&", "d3/d49/a04682.html#a27ef39aed098304d7387af8257f7cee3", null ],
+    [ "operator&=", "d3/d49/a04682.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
+    [ "operator|", "d3/d49/a04682.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
+    [ "operator|=", "d3/d49/a04682.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
+    [ "operator~", "d3/d49/a04682.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
 ];

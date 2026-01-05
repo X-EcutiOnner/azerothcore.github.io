@@ -1,8 +1,5 @@
 var a25628 =
 [
-    [ "OnApply", "d5/d8a/a25628.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "d5/d8a/a25628.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "d5/d8a/a25628.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "d5/d8a/a25628.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "d5/d8a/a25628.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "PrepareSpellScript", "d5/d8a/a25628.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "d5/d8a/a25628.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

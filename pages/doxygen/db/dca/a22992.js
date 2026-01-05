@@ -1,9 +1,9 @@
 var a22992 =
 [
-    [ "HandleAfterCast", "db/dca/a22992.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "db/dca/a22992.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "db/dca/a22992.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "db/dca/a22992.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "db/dca/a22992.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "db/dca/a22992.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "npc_flame_of_azzinoth", "db/dca/a22992.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "db/dca/a22992.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "db/dca/a22992.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "db/dca/a22992.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "db/dca/a22992.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "db/dca/a22992.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

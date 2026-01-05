@@ -1,5 +1,5 @@
 var a03227 =
 [
-    [ "gm_commandscript", "dc/d54/a11891.html", "dc/d54/a11891" ],
-    [ "AddSC_gm_commandscript", "d3/d1b/a03227.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
+    [ "disable_commandscript", "d0/d38/a11896.html", "d0/d38/a11896" ],
+    [ "AddSC_disable_commandscript", "d3/d1b/a03227.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
 ];

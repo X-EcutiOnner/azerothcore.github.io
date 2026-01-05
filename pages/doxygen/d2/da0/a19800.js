@@ -1,8 +1,8 @@
 var a19800 =
 [
-    [ "dark_rune_stormcallerAI", "d2/da0/a19800.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "d2/da0/a19800.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "d2/da0/a19800.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "d2/da0/a19800.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "d2/da0/a19800.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d2/da0/a19800.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d2/da0/a19800.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d2/da0/a19800.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d2/da0/a19800.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d2/da0/a19800.html#a52db8081961566ef2002424f00b60189", null ]
 ];

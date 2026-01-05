@@ -1,6 +1,8 @@
 var a22848 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "dc/df6/a22852.html", "dc/df6/a22852" ],
-    [ "instance_shadow_labyrinth", "d2/d1c/a22848.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d2/d1c/a22848.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "CalcPeriodic", "d2/d1c/a22848.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d2/d1c/a22848.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d2/d1c/a22848.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d2/d1c/a22848.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d2/d1c/a22848.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

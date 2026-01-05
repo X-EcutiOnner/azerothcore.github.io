@@ -1,8 +1,6 @@
 var a12760 =
 [
-    [ "npc_kernobeeAI", "d7/dc9/a12760.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d7/dc9/a12760.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "d7/dc9/a12760.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d7/dc9/a12760.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d7/dc9/a12760.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "boss_shazzrahAI", "d7/dd7/a12764.html", "d7/dd7/a12764" ],
+    [ "boss_shazzrah", "d7/dc9/a12760.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "d7/dc9/a12760.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

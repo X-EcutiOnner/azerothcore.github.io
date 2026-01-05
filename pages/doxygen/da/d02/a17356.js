@@ -1,7 +1,6 @@
 var a17356 =
 [
-    [ "HandleDummy", "da/d02/a17356.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "da/d02/a17356.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "da/d02/a17356.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "da/d02/a17356.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "npc_pos_collapsing_icicleAI", "de/d57/a17360.html", "de/d57/a17360" ],
+    [ "npc_pos_collapsing_icicle", "da/d02/a17356.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "da/d02/a17356.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

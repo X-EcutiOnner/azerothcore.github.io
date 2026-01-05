@@ -1,5 +1,5 @@
 var a00266 =
 [
-    [ "SmartScript", "d4/d7c/a06327.html", "d4/d7c/a06327" ],
-    [ "SmartScript::SmartScriptFrame", "dc/d3f/a06331.html", "dc/d3f/a06331" ]
+    [ "SmartTrigger", "d1/d5c/a06324.html", "d1/d5c/a06324" ],
+    [ "AddSC_SmartScripts", "d5/d35/a00266.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

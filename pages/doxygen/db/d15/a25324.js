@@ -1,7 +1,8 @@
 var a25324 =
 [
-    [ "HandleStun", "db/d15/a25324.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "db/d15/a25324.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "db/d15/a25324.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "db/d15/a25324.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "AchievementCredit", "db/d15/a25324.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "db/d15/a25324.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "db/d15/a25324.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "db/d15/a25324.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "db/d15/a25324.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

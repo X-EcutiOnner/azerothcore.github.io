@@ -1,5 +1,7 @@
 var a05588 =
 [
-    [ "FromString", "d0/d38/a05588.html#a6992aa92f56607d9546dae7ab5d1af74", null ],
-    [ "ToString", "d0/d38/a05588.html#abf8940ea78f2f947274a2653da04b0a3", null ]
+    [ "EnumText", "d0/d38/a05588.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "d0/d38/a05588.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "d0/d38/a05588.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "d0/d38/a05588.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

@@ -1,5 +1,5 @@
 var a15472 =
 [
-    [ "at_battleguard_sartura", "d8/dcc/a15472.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "d8/dcc/a15472.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "at_twin_emperors", "d8/dcc/a15472.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "d8/dcc/a15472.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

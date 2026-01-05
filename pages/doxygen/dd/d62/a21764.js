@@ -1,9 +1,10 @@
 var a21764 =
 [
-    [ "npc_bloodmage_laurithAI", "dd/d62/a21764.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "dd/d62/a21764.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "dd/d62/a21764.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "dd/d62/a21764.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "dd/d62/a21764.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "dd/d62/a21764.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_jenny", "dd/d62/a21764.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "dd/d62/a21764.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "dd/d62/a21764.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "dd/d62/a21764.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "dd/d62/a21764.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "dd/d62/a21764.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "dd/d62/a21764.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

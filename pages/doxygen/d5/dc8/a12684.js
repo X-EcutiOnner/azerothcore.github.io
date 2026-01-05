@@ -1,8 +1,6 @@
 var a12684 =
 [
-    [ "FilterTargets", "d5/dc8/a12684.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d5/dc8/a12684.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d5/dc8/a12684.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d5/dc8/a12684.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d5/dc8/a12684.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_golemaggAI", "d4/d31/a12688.html", "d4/d31/a12688" ],
+    [ "boss_golemagg", "d5/dc8/a12684.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
+    [ "GetAI", "d5/dc8/a12684.html#a6899f30975e0984306feabe47bbc8317", null ]
 ];

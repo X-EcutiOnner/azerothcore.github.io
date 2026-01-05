@@ -1,6 +1,7 @@
 var a13192 =
 [
-    [ "npc_gothik_the_harvesterAI", "da/d7b/a13196.html", "da/d7b/a13196" ],
-    [ "npc_gothik_the_harvester", "de/ddb/a13192.html#a44a8a900e195308802e76c5b550b577a", null ],
-    [ "GetAI", "de/ddb/a13192.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
+    [ "HandleScriptEffect", "de/ddb/a13192.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "de/ddb/a13192.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "de/ddb/a13192.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "de/ddb/a13192.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

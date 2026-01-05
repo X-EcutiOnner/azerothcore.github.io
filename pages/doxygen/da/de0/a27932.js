@@ -1,6 +1,9 @@
 var a27932 =
 [
-    [ "CheckCast", "da/de0/a27932.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "da/de0/a27932.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "da/de0/a27932.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "npc_fireworkAI", "da/de0/a27932.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "da/de0/a27932.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "da/de0/a27932.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "da/de0/a27932.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "da/de0/a27932.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "da/de0/a27932.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

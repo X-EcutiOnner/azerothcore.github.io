@@ -1,6 +1,6 @@
 var a25028 =
 [
-    [ "CheckProc", "df/d02/a25028.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "df/d02/a25028.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "df/d02/a25028.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "HandleKnockBack", "df/d02/a25028.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "df/d02/a25028.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "df/d02/a25028.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

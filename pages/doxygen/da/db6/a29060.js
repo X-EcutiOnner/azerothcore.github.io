@@ -1,21 +1,15 @@
 var a29060 =
 [
-    [ "WMORoot", "da/db6/a29060.html#ac9b3d7cb0502bf612a9b780926364c2b", null ],
-    [ "ConvertToVMAPRootWmo", "da/db6/a29060.html#a9e2bea32209471be360f964e7c6702ad", null ],
-    [ "open", "da/db6/a29060.html#a3c10106f8ded86f5e889c99c93dc385a", null ],
-    [ "bbcorn1", "da/db6/a29060.html#a119493cf0243952021d07d9328de68df", null ],
-    [ "bbcorn2", "da/db6/a29060.html#a518adad011f480154a786503224aff0f", null ],
-    [ "color", "da/db6/a29060.html#ab9f1ca906365d919dc8c03b04d3f7759", null ],
-    [ "DoodadData", "da/db6/a29060.html#a193043738049583257b8c26494c97573", null ],
-    [ "filename", "da/db6/a29060.html#a8ef5c36dfab76a6baf633a0f6dbe5449", null ],
-    [ "flags", "da/db6/a29060.html#ac3e95eb0b51ef25289b2cdf617ac2585", null ],
-    [ "nDoodadDefs", "da/db6/a29060.html#a1881c8d0ba9d435627a4cdeb3ec8bf77", null ],
-    [ "nDoodadNames", "da/db6/a29060.html#ab51a28cda7db10964cfac9b13022dcd6", null ],
-    [ "nDoodadSets", "da/db6/a29060.html#a17b88fd5067eb7d30e345726ad7d1f26", null ],
-    [ "nGroups", "da/db6/a29060.html#a73a8d2c858db5e144f163ece74a9d295", null ],
-    [ "nLights", "da/db6/a29060.html#a2442113c758362dd5b8da9ceb8d355ae", null ],
-    [ "nPortals", "da/db6/a29060.html#a25b1d2531c61ae7cf883642f5c5f2ee7", null ],
-    [ "nTextures", "da/db6/a29060.html#ac0b9bc8f8087878b2b51be8261f9928c", null ],
-    [ "RootWMOID", "da/db6/a29060.html#aeb47cb44dc9b564782fb7b0ef5cc314c", null ],
-    [ "ValidDoodadNames", "da/db6/a29060.html#a787748c52305b52fb65776df51b4c017", null ]
+    [ "toMMAPTileRecastConfig", "da/db6/a29060.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
+    [ "baseUnitDim", "da/db6/a29060.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
+    [ "cellSizeHorizontal", "da/db6/a29060.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
+    [ "cellSizeVertical", "da/db6/a29060.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
+    [ "maxSimplificationError", "da/db6/a29060.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
+    [ "tilesPerMapEdge", "da/db6/a29060.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
+    [ "vertexPerMapEdge", "da/db6/a29060.html#adba40fb00d24af999a1970e3a5fed198", null ],
+    [ "vertexPerTileEdge", "da/db6/a29060.html#ae7421270c917171607ff972483df0ba1", null ],
+    [ "walkableClimb", "da/db6/a29060.html#a5501534adbc4018b5047599c12a2e582", null ],
+    [ "walkableHeight", "da/db6/a29060.html#a3513a1b33d8682303eae1eaa30615a07", null ],
+    [ "walkableRadius", "da/db6/a29060.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
+    [ "walkableSlopeAngle", "da/db6/a29060.html#afa96a254067d2173288479cc60a6c97c", null ]
 ];

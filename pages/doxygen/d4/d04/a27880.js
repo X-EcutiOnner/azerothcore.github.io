@@ -1,9 +1,13 @@
 var a27880 =
 [
-    [ "npc_herald_of_the_lich_king", "d4/d04/a27880.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d4/d04/a27880.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d4/d04/a27880.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d4/d04/a27880.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d4/d04/a27880.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d4/d04/a27880.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_garments_of_questsAI", "d4/d04/a27880.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "d4/d04/a27880.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "d4/d04/a27880.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "d4/d04/a27880.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "d4/d04/a27880.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "d4/d04/a27880.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "CanRun", "d4/d04/a27880.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "d4/d04/a27880.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "d4/d04/a27880.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "d4/d04/a27880.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

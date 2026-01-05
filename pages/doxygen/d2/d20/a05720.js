@@ -1,13 +1,9 @@
 var a05720 =
 [
-    [ "SOAPCommand", "d2/d20/a05720.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
-    [ "~SOAPCommand", "d2/d20/a05720.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
-    [ "appendToPrintBuffer", "d2/d20/a05720.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
-    [ "commandFinished", "d2/d20/a05720.html#a18310d831429b084dc5cbf6310195001", null ],
-    [ "hasCommandSucceeded", "d2/d20/a05720.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
-    [ "print", "d2/d20/a05720.html#a69a3287df41392488dbcb1be2f0349f3", null ],
-    [ "setCommandSuccess", "d2/d20/a05720.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
-    [ "finishedPromise", "d2/d20/a05720.html#aec2e336644d004a59ad21431fbf80c83", null ],
-    [ "m_printBuffer", "d2/d20/a05720.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
-    [ "m_success", "d2/d20/a05720.html#aab7299bceae48c2066f1885b90a34c60", null ]
+    [ "A", "d2/d20/a05720.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "d2/d20/a05720.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "d2/d20/a05720.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "d2/d20/a05720.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "d2/d20/a05720.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "d2/d20/a05720.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

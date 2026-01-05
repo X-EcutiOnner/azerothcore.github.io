@@ -1,5 +1,6 @@
 var a24504 =
 [
-    [ "npc_pet_dk_risen_ally", "d7/d40/a24504.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d7/d40/a24504.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "CheckRequirement", "d7/d40/a24504.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d7/d40/a24504.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d7/d40/a24504.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

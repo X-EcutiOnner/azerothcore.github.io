@@ -1,7 +1,12 @@
 var a11348 =
 [
-    [ "SpellImmune", "d3/dd0/a11348.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d3/dd0/a11348.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d3/dd0/a11348.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d3/dd0/a11348.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "SpellDestination", "d3/dd0/a11348.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d3/dd0/a11348.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d3/dd0/a11348.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d3/dd0/a11348.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d3/dd0/a11348.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d3/dd0/a11348.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d3/dd0/a11348.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d3/dd0/a11348.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d3/dd0/a11348.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

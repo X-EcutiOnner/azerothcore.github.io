@@ -1,4 +1,5 @@
 var a00533 =
 [
-    [ "Movement::PacketBuilder", "d0/dc2/a10119.html", "d0/dc2/a10119" ]
+    [ "Movement::Location", "d7/d8c/a10152.html", "d7/d8c/a10152" ],
+    [ "Movement::MoveSpline", "df/d4c/a10156.html", "df/d4c/a10156" ]
 ];

@@ -1,6 +1,10 @@
 var a11500 =
 [
-    [ "EffectPeriodicHandler", "dd/d63/a11500.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "dd/d63/a11500.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "dd/d63/a11500.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "EffectHook", "dd/d63/a11500.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "dd/d63/a11500.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "dd/d63/a11500.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "dd/d63/a11500.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "dd/d63/a11500.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "dd/d63/a11500.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "dd/d63/a11500.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

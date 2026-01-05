@@ -1,9 +1,8 @@
 var a26984 =
 [
-    [ "CheckCast", "d2/d3e/a26984.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "d2/d3e/a26984.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "d2/d3e/a26984.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "d2/d3e/a26984.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "d2/d3e/a26984.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "d2/d3e/a26984.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "CheckFireTotem", "d2/d3e/a26984.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d2/d3e/a26984.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d2/d3e/a26984.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d2/d3e/a26984.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d2/d3e/a26984.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

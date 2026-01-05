@@ -1,6 +1,7 @@
 var a13796 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d8/dd2/a13800.html", "d8/dd2/a13800" ],
-    [ "npc_bh_thalorien_dawnseeker", "d6/dde/a13796.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d6/dde/a13796.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "HandleScriptEffect", "d6/dde/a13796.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "d6/dde/a13796.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "d6/dde/a13796.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "d6/dde/a13796.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

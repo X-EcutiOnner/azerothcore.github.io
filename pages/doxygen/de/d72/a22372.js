@@ -1,4 +1,6 @@
 var a22372 =
 [
-    [ "npc_adventurous_dwarfAI", "de/d72/a22372.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "npc_frostbrood_skytalonAI", "d8/dee/a22376.html", "d8/dee/a22376" ],
+    [ "npc_frostbrood_skytalon", "de/d72/a22372.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "de/d72/a22372.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

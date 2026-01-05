@@ -1,7 +1,8 @@
 var a09988 =
 [
-    [ "Finalize", "de/dee/a09988.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "de/dee/a09988.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "de/dee/a09988.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "de/dee/a09988.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "GetAINotifyDelay", "de/dee/a09988.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "de/dee/a09988.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "de/dee/a09988.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "de/dee/a09988.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "de/dee/a09988.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

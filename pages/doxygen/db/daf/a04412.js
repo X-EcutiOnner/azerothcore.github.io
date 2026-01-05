@@ -1,4 +1,4 @@
 var a04412 =
 [
-    [ "RefMgr< TO, FROM >", "da/d6b/a05303.html", "da/d6b/a05303" ]
+    [ "BigNumber", "d5/d8b/a05232.html", "d5/d8b/a05232" ]
 ];

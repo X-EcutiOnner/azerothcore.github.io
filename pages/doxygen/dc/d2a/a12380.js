@@ -1,6 +1,11 @@
 var a12380 =
 [
-    [ "npc_vaelastrasz_the_redAI", "dc/d53/a12384.html", "dc/d53/a12384" ],
-    [ "npc_vaelastrasz_the_red", "dc/d2a/a12380.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "dc/d2a/a12380.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "npc_rookery_hatcherAI", "dc/d2a/a12380.html#a3154429437a108edf77de7ec1f0b2cda", null ],
+    [ "InitializeAI", "dc/d2a/a12380.html#af144dc2cbe632038057f931fd71da29d", null ],
+    [ "JustEngagedWith", "dc/d2a/a12380.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
+    [ "UpdateAI", "dc/d2a/a12380.html#a0f867aa346a2f829067466fbfe6c5335", null ],
+    [ "events", "dc/d2a/a12380.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
+    [ "nearbyEggs", "dc/d2a/a12380.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
+    [ "targetEgg", "dc/d2a/a12380.html#a877af9948503688944e49503a6293574", null ],
+    [ "targetPosition", "dc/d2a/a12380.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
 ];

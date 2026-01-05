@@ -1,5 +1,8 @@
 var a21972 =
 [
-    [ "at_q24545_frostmourne_cavern", "d2/d05/a21972.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d2/d05/a21972.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_future_youAI", "d2/d05/a21972.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d2/d05/a21972.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d2/d05/a21972.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d2/d05/a21972.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d2/d05/a21972.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

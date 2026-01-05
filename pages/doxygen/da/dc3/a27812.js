@@ -1,6 +1,7 @@
 var a27812 =
 [
-    [ "npc_pet_trainerAI", "d3/da7/a27816.html", "d3/da7/a27816" ],
-    [ "npc_pet_trainer", "da/dc3/a27812.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "da/dc3/a27812.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_riggle_bassbaitAI", "da/dc3/a27812.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "da/dc3/a27812.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "da/dc3/a27812.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "da/dc3/a27812.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

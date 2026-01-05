@@ -1,6 +1,6 @@
 var a17732 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d6/d59/a17736.html", "d6/d59/a17736" ],
-    [ "npc_high_overlord_saurfang_igb", "d8/d93/a17732.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d8/d93/a17732.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "ModAuraValue", "d8/d93/a17732.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d8/d93/a17732.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d8/d93/a17732.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

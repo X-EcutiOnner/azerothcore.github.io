@@ -1,11 +1,7 @@
 var a14468 =
 [
-    [ "npc_winterfin_playmate", "de/d04/a14468.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "de/d04/a14468.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "de/d04/a14468.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "de/d04/a14468.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "de/d04/a14468.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "de/d04/a14468.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "de/d04/a14468.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "de/d04/a14468.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "FilterTargets", "de/d04/a14468.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "de/d04/a14468.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "de/d04/a14468.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "de/d04/a14468.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

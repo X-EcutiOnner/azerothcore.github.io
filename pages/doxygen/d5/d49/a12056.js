@@ -1,9 +1,9 @@
 var a12056 =
 [
-    [ "npc_phalanxAI", "d5/d49/a12056.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
-    [ "Reset", "d5/d49/a12056.html#a41a14315d82b169528bd764335c16d52", null ],
-    [ "UpdateAI", "d5/d49/a12056.html#a78092bfb2d9b8455b5348d872afc6521", null ],
-    [ "FireballVolley_Timer", "d5/d49/a12056.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
-    [ "MightyBlow_Timer", "d5/d49/a12056.html#ae8fe8a7313f573e910763d5a82303e66", null ],
-    [ "ThunderClap_Timer", "d5/d49/a12056.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
+    [ "titles_commandscript", "d5/d49/a12056.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d5/d49/a12056.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d5/d49/a12056.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d5/d49/a12056.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d5/d49/a12056.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d5/d49/a12056.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

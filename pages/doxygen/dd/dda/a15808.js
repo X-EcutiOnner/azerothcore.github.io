@@ -1,7 +1,10 @@
 var a15808 =
 [
-    [ "npc_toogaAI", "d0/d40/a15812.html", "d0/d40/a15812" ],
-    [ "npc_tooga", "dd/dda/a15808.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "dd/dda/a15808.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "dd/dda/a15808.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "CreatureId", "dd/dda/a15808.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "dd/dda/a15808.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "dd/dda/a15808.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "dd/dda/a15808.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "dd/dda/a15808.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "dd/dda/a15808.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "dd/dda/a15808.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

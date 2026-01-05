@@ -1,7 +1,8 @@
 var a13580 =
 [
-    [ "HandleRemove", "d8/de9/a13580.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "d8/de9/a13580.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "d8/de9/a13580.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "d8/de9/a13580.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "HandleApply", "d8/de9/a13580.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "d8/de9/a13580.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "d8/de9/a13580.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "d8/de9/a13580.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "d8/de9/a13580.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

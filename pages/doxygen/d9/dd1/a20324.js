@@ -1,5 +1,9 @@
 var a20324 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "d9/dd1/a20324.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "d9/dd1/a20324.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "boss_freya_nature_bombAI", "d9/dd1/a20324.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "d9/dd1/a20324.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "d9/dd1/a20324.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "d9/dd1/a20324.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "d9/dd1/a20324.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "d9/dd1/a20324.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

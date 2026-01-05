@@ -1,6 +1,5 @@
 var a17748 =
 [
-    [ "npc_zafod_boomboxAI", "dd/d2b/a17752.html", "dd/d2b/a17752" ],
-    [ "npc_zafod_boombox", "d0/d6e/a17748.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d0/d6e/a17748.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "achievement_ive_gone_and_made_a_mess", "d0/d6e/a17748.html#a0e71ea3afae02176f81231e51155c038", null ],
+    [ "OnCheck", "d0/d6e/a17748.html#a638cead986783523c7c35ecb9d885b11", null ]
 ];

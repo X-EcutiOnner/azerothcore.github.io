@@ -1,6 +1,9 @@
 var a20728 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d6/dac/a20732.html", "d6/dac/a20732" ],
-    [ "npc_ulduar_dark_rune_guardian", "de/df8/a20728.html#a6266dd5c096402b5383af09ac361a634", null ],
-    [ "GetAI", "de/df8/a20728.html#a9ed188491483548658ce682bf36e6fd2", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "de/df8/a20728.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
+    [ "AttackStart", "de/df8/a20728.html#aa18e89f63e98112efeb69328f8fdc296", null ],
+    [ "MoveInLineOfSight", "de/df8/a20728.html#a6384437fff9349df0cfa5053b37313ea", null ],
+    [ "MovementInform", "de/df8/a20728.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
+    [ "UpdateAI", "de/df8/a20728.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
+    [ "events", "de/df8/a20728.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
 ];

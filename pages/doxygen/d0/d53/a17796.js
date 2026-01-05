@@ -1,6 +1,6 @@
 var a17796 =
 [
-    [ "npc_gunship_gunnerAI", "da/d0b/a17800.html", "da/d0b/a17800" ],
-    [ "npc_gunship_gunner", "d0/d53/a17796.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d0/d53/a17796.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "Cooldown", "d0/d53/a17796.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d0/d53/a17796.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d0/d53/a17796.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

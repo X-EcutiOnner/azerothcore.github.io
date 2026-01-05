@@ -1,20 +1,12 @@
 var a01775 =
 [
-    [ "WorldPackets::Misc::Weather", "d7/de2/a10939.html", "d7/de2/a10939" ],
-    [ "WorldPackets::Misc::LevelUpInfo", "df/dd8/a10943.html", "df/dd8/a10943" ],
-    [ "WorldPackets::Misc::PlayMusic", "d3/dbd/a10947.html", "d3/dbd/a10947" ],
-    [ "WorldPackets::Misc::PlayObjectSound", "df/ddd/a10951.html", "df/ddd/a10951" ],
-    [ "WorldPackets::Misc::Playsound", "db/df7/a10955.html", "db/df7/a10955" ],
-    [ "WorldPackets::Misc::MinimapPingClient", "d6/d4c/a10959.html", "d6/d4c/a10959" ],
-    [ "WorldPackets::Misc::MinimapPing", "d4/d9d/a10963.html", "d4/d9d/a10963" ],
-    [ "WorldPackets::Misc::RandomRollClient", "d5/de3/a10967.html", "d5/de3/a10967" ],
-    [ "WorldPackets::Misc::RandomRoll", "df/d91/a10971.html", "df/d91/a10971" ],
-    [ "WorldPackets::Misc::StartMirrorTimer", "d5/df0/a10975.html", "d5/df0/a10975" ],
-    [ "WorldPackets::Misc::PauseMirrorTimer", "db/dbc/a10979.html", "db/dbc/a10979" ],
-    [ "WorldPackets::Misc::StopMirrorTimer", "de/d56/a10983.html", "de/d56/a10983" ],
-    [ "WorldPackets::Misc::DurabilityDamageDeath", "d6/de3/a10987.html", "d6/de3/a10987" ],
-    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d9/d45/a10991.html", "d9/d45/a10991" ],
-    [ "WorldPackets::Misc::UITime", "da/d04/a10995.html", "da/d04/a10995" ],
-    [ "WorldPackets::Misc::Complain", "d5/dc6/a10999.html", "d5/dc6/a10999" ],
-    [ "WorldPackets::Misc::ComplainResult", "dc/d65/a11003.html", "dc/d65/a11003" ]
+    [ "WorldPackets::Pet::DismissCritter", "d6/dc7/a11104.html", "d6/dc7/a11104" ],
+    [ "WorldPackets::Pet::PetAbandon", "db/d12/a11108.html", "db/d12/a11108" ],
+    [ "WorldPackets::Pet::PetStopAttack", "de/d62/a11112.html", "de/d62/a11112" ],
+    [ "WorldPackets::Pet::PetSpellAutocast", "de/dba/a11116.html", "de/dba/a11116" ],
+    [ "WorldPackets::Pet::PetLearnedSpell", "d7/d26/a11120.html", "d7/d26/a11120" ],
+    [ "WorldPackets::Pet::PetUnlearnedSpell", "d9/de5/a11124.html", "d9/de5/a11124" ],
+    [ "WorldPackets::Pet::RequestPetInfo", "d4/d4b/a11128.html", "d4/d4b/a11128" ],
+    [ "WorldPackets::Pet::PetActionSound", "dc/d17/a11132.html", "dc/d17/a11132" ],
+    [ "WorldPackets::Pet::PetDismissSound", "dd/dbd/a11136.html", "dd/dbd/a11136" ]
 ];

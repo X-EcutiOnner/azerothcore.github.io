@@ -1,8 +1,7 @@
 var a11396 =
 [
-    [ "target_mapId", "d1/d90/a11396.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d1/d90/a11396.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d1/d90/a11396.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d1/d90/a11396.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d1/d90/a11396.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "d1/d90/a11396.html#a2b017300220426ac42de18e3a8699219", null ],
+    [ "operator()", "d1/d90/a11396.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "d1/d90/a11396.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "d1/d90/a11396.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
 ];

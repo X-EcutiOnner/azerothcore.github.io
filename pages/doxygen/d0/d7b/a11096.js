@@ -1,9 +1,17 @@
 var a11096 =
 [
-    [ "TotemCreated", "d0/d7b/a11096.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d0/d7b/a11096.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d0/d7b/a11096.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d0/d7b/a11096.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d0/d7b/a11096.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d0/d7b/a11096.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "CompactArray", "d0/d7b/a11096.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "d0/d7b/a11096.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "d0/d7b/a11096.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "d0/d7b/a11096.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "d0/d7b/a11096.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "d0/d7b/a11096.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "d0/d7b/a11096.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "d0/d7b/a11096.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "d0/d7b/a11096.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "d0/d7b/a11096.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "d0/d7b/a11096.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "d0/d7b/a11096.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "d0/d7b/a11096.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "d0/d7b/a11096.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];

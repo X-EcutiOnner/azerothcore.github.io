@@ -1,6 +1,5 @@
 var a14836 =
 [
-    [ "OnRemove", "d9/d56/a14836.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d9/d56/a14836.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d9/d56/a14836.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d9/d56/a14836.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d9/d56/a14836.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

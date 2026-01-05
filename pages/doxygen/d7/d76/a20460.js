@@ -1,5 +1,6 @@
 var a20460 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d7/d76/a20460.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d7/d76/a20460.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "DestroyWinterCache", "d7/d76/a20460.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d7/d76/a20460.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d7/d76/a20460.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

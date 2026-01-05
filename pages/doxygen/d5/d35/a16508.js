@@ -1,8 +1,6 @@
 var a16508 =
 [
-    [ "npc_announcer_toc5AI", "d5/d35/a16508.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d5/d35/a16508.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d5/d35/a16508.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d5/d35/a16508.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d5/d35/a16508.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_memoryAI", "d0/d3d/a16512.html", "d0/d3d/a16512" ],
+    [ "npc_memory", "d5/d35/a16508.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "d5/d35/a16508.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

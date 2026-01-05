@@ -1,8 +1,9 @@
 var a15256 =
 [
-    [ "npc_obsidian_destroyer", "d0/daf/a15256.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d0/daf/a15256.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d0/daf/a15256.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d0/daf/a15256.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d0/daf/a15256.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d0/daf/a15256.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d0/daf/a15256.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d0/daf/a15256.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d0/daf/a15256.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d0/daf/a15256.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d0/daf/a15256.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

@@ -1,9 +1,10 @@
 var a10076 =
 [
-    [ "PathMovementBase", "db/d95/a10076.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "db/d95/a10076.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "db/d95/a10076.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "db/d95/a10076.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "db/d95/a10076.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "db/d95/a10076.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "DistractMovementGenerator", "db/d95/a10076.html#a55879290b06f4fc86a1da791c07b7afb", null ],
+    [ "Finalize", "db/d95/a10076.html#aa4a2b943ecde8750bd764290d65872df", null ],
+    [ "GetMovementGeneratorType", "db/d95/a10076.html#a0b30745bf1cd7b5a264e970273595592", null ],
+    [ "Initialize", "db/d95/a10076.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
+    [ "Reset", "db/d95/a10076.html#ad544709b2873b63b28d27ab414c280ba", null ],
+    [ "Update", "db/d95/a10076.html#ad5a15c1507b8ab315b658351077629b3", null ],
+    [ "m_timer", "db/d95/a10076.html#a8b520d8e97704ac39ce28c2256557b42", null ]
 ];

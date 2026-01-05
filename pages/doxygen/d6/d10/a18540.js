@@ -1,12 +1,7 @@
 var a18540 =
 [
-    [ "npc_strangulate_vehicleAI", "d6/d10/a18540.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d6/d10/a18540.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d6/d10/a18540.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d6/d10/a18540.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d6/d10/a18540.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d6/d10/a18540.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d6/d10/a18540.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d6/d10/a18540.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d6/d10/a18540.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "CheckTargetCount", "d6/d10/a18540.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d6/d10/a18540.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d6/d10/a18540.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d6/d10/a18540.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

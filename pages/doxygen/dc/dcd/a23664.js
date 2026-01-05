@@ -1,8 +1,8 @@
 var a23664 =
 [
-    [ "boss_broggok", "dc/dcd/a23664.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "dc/dcd/a23664.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "dc/dcd/a23664.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "dc/dcd/a23664.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "dc/dcd/a23664.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "boss_the_black_stalker", "dc/dcd/a23664.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "dc/dcd/a23664.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "dc/dcd/a23664.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "dc/dcd/a23664.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "dc/dcd/a23664.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

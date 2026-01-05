@@ -1,6 +1,6 @@
 var a14920 =
 [
-    [ "boss_mal_ganisAI", "d0/d42/a14924.html", "d0/d42/a14924" ],
-    [ "boss_mal_ganis", "d3/dfe/a14920.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d3/dfe/a14920.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "OnRemove", "d3/dfe/a14920.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d3/dfe/a14920.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d3/dfe/a14920.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

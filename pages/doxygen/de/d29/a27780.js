@@ -1,13 +1,13 @@
 var a27780 =
 [
-    [ "npc_garments_of_questsAI", "de/d29/a27780.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "de/d29/a27780.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "de/d29/a27780.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "de/d29/a27780.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "de/d29/a27780.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "de/d29/a27780.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "de/d29/a27780.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "de/d29/a27780.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "de/d29/a27780.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "de/d29/a27780.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_nelsonAI", "de/d29/a27780.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "de/d29/a27780.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "de/d29/a27780.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "de/d29/a27780.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "de/d29/a27780.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "de/d29/a27780.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "de/d29/a27780.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "de/d29/a27780.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "de/d29/a27780.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "de/d29/a27780.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

@@ -1,5 +1,6 @@
 var a24140 =
 [
-    [ "go_simon_cluster", "dc/da2/a24140.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "dc/da2/a24140.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "PrepareAuraScript", "dc/da2/a24140.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "dc/da2/a24140.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "dc/da2/a24140.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

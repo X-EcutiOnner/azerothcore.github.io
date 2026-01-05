@@ -1,7 +1,7 @@
 var a25400 =
 [
-    [ "PrepareAuraScript", "db/d96/a25400.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "db/d96/a25400.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "db/d96/a25400.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "db/d96/a25400.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "CheckIfLanceEquipped", "db/d96/a25400.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "db/d96/a25400.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "db/d96/a25400.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "db/d96/a25400.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

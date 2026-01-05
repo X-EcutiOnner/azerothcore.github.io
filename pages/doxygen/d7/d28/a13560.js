@@ -1,11 +1,7 @@
 var a13560 =
 [
-    [ "npc_kalecgos_kj", "d7/d28/a13560.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d7/d28/a13560.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d7/d28/a13560.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d7/d28/a13560.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d7/d28/a13560.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d7/d28/a13560.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d7/d28/a13560.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d7/d28/a13560.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "CorruptTriggers", "d7/d28/a13560.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d7/d28/a13560.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d7/d28/a13560.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d7/d28/a13560.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

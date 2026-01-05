@@ -1,7 +1,7 @@
 var a20484 =
 [
-    [ "HandleScript", "d4/ddc/a20484.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "d4/ddc/a20484.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "d4/ddc/a20484.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "d4/ddc/a20484.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "HandleEffectPeriodic", "d4/ddc/a20484.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "d4/ddc/a20484.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "d4/ddc/a20484.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "d4/ddc/a20484.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

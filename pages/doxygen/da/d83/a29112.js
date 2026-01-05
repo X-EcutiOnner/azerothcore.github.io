@@ -1,6 +1,9 @@
 var a29112 =
 [
-    [ "height", "da/d83/a29112.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "da/d83/a29112.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "da/d83/a29112.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "Flags", "da/d83/a29112.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "da/d83/a29112.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "da/d83/a29112.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "da/d83/a29112.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "da/d83/a29112.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "da/d83/a29112.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

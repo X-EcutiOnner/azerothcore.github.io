@@ -1,6 +1,7 @@
 var a19356 =
 [
-    [ "boss_thaddius_summonAI", "d6/d68/a19360.html", "d6/d68/a19360" ],
-    [ "boss_thaddius_summon", "d0/d95/a19356.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d0/d95/a19356.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "HandleScript", "d0/d95/a19356.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d0/d95/a19356.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d0/d95/a19356.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d0/d95/a19356.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

@@ -1,5 +1,6 @@
 var a18860 =
 [
-    [ "npc_alchemist_adrianna", "d0/db9/a18860.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d0/db9/a18860.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_highlord_tirion_fordringAI", "df/d4f/a18864.html", "df/d4f/a18864" ],
+    [ "npc_highlord_tirion_fordring_lh", "d0/db9/a18860.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d0/db9/a18860.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

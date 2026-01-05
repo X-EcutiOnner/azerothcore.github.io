@@ -1,19 +1,12 @@
 var a07480 =
 [
-    [ "BattlegroundRV", "d7/da8/a07480.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
-    [ "CheckPositionForUnit", "d7/da8/a07480.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
-    [ "FillInitialWorldStates", "d7/da8/a07480.html#a62c7201196fabb6000d2df52b8323e6a", null ],
-    [ "GetPillarAtPosition", "d7/da8/a07480.html#a0cd6f84233993bde76be990abab75f23", null ],
-    [ "GetPillarIdForPos", "d7/da8/a07480.html#a4edb8efce09dece515e8b833142d2c55", null ],
-    [ "HandleAreaTrigger", "d7/da8/a07480.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
-    [ "HandlePlayerUnderMap", "d7/da8/a07480.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
-    [ "Init", "d7/da8/a07480.html#a67853fccaddfcd946015a96c5b108641", null ],
-    [ "PostUpdateImpl", "d7/da8/a07480.html#a9707d8805f031c01c14d78fdc1790a64", null ],
-    [ "SetupBattleground", "d7/da8/a07480.html#abbd1a364665655cfc4f059fa63384536", null ],
-    [ "StartingEventOpenDoors", "d7/da8/a07480.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
-    [ "TeleportUnitToNewZ", "d7/da8/a07480.html#ac5b158259ccc5168275c0e00ea041db0", null ],
-    [ "UpdatePillars", "d7/da8/a07480.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
-    [ "_checkPlayersTimer", "d7/da8/a07480.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
-    [ "_state", "d7/da8/a07480.html#acce3fce40dbbb403749dcdb986e1d970", null ],
-    [ "_timer", "d7/da8/a07480.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
+    [ "CapturePointInfo", "d7/da8/a07480.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "d7/da8/a07480.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "d7/da8/a07480.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "d7/da8/a07480.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "d7/da8/a07480.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "d7/da8/a07480.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "d7/da8/a07480.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "d7/da8/a07480.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "d7/da8/a07480.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

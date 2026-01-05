@@ -1,6 +1,7 @@
 var a16660 =
 [
-    [ "npc_toc_rogueAI", "d5/da9/a16664.html", "d5/da9/a16664" ],
-    [ "npc_toc_rogue", "d4/d9f/a16660.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d4/d9f/a16660.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "HandleAfterHit", "d4/d9f/a16660.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d4/d9f/a16660.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d4/d9f/a16660.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d4/d9f/a16660.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

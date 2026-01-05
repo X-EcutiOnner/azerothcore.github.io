@@ -1,7 +1,7 @@
 var a28584 =
 [
-    [ "ID", "d4/d60/a28584.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d4/d60/a28584.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d4/d60/a28584.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d4/d60/a28584.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "ID", "d4/d60/a28584.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d4/d60/a28584.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d4/d60/a28584.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d4/d60/a28584.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

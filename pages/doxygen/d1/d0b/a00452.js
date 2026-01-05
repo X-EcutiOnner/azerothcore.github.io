@@ -1,15 +1,17 @@
 var a00452 =
 [
-    [ "WaypointData", "dd/dcb/a10179.html", "dd/dcb/a10179" ],
-    [ "WaypointMgr", "d0/deb/a10183.html", "d0/deb/a10183" ],
-    [ "sWaypointMgr", "d1/d0b/a00452.html#a8e3218ae672aeeb8c1d9dc23a3a1a627", null ],
-    [ "WaypointPath", "d1/d0b/a00452.html#ad4c69f0b86cdc2e4bbf85b203829313c", null ],
-    [ "WaypointPathContainer", "d1/d0b/a00452.html#a4022be9e8c89b6ab197c2564c77b52c5", null ],
-    [ "WaypointMoveType", "d1/d0b/a00452.html#ac26115060a1cd0169937b206edddd863", [
-      [ "WAYPOINT_MOVE_TYPE_WALK", "d1/d0b/a00452.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
-      [ "WAYPOINT_MOVE_TYPE_RUN", "d1/d0b/a00452.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
-      [ "WAYPOINT_MOVE_TYPE_LAND", "d1/d0b/a00452.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
-      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "d1/d0b/a00452.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
-      [ "WAYPOINT_MOVE_TYPE_MAX", "d1/d0b/a00452.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
+    [ "Petition", "d5/d82/a10228.html", "d5/d82/a10228" ],
+    [ "Signatures", "d2/d81/a10232.html", "d2/d81/a10232" ],
+    [ "PetitionMgr", "d4/da2/a10236.html", "d4/da2/a10236" ],
+    [ "CHARTER_DISPLAY_ID", "d1/d0b/a00452.html#a33856c1d078b61fa0516a63176297c49", null ],
+    [ "sPetitionMgr", "d1/d0b/a00452.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
+    [ "PetitionContainer", "d1/d0b/a00452.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
+    [ "SignatureContainer", "d1/d0b/a00452.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
+    [ "SignatureMap", "d1/d0b/a00452.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
+    [ "CharterItemIDs", "d1/d0b/a00452.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
+      [ "GUILD_CHARTER", "d1/d0b/a00452.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
+      [ "ARENA_TEAM_CHARTER_2v2", "d1/d0b/a00452.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
+      [ "ARENA_TEAM_CHARTER_3v3", "d1/d0b/a00452.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
+      [ "ARENA_TEAM_CHARTER_5v5", "d1/d0b/a00452.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
     ] ]
 ];

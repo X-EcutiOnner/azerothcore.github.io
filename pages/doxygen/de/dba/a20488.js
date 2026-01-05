@@ -1,9 +1,7 @@
 var a20488 =
 [
-    [ "HandleEffectPeriodic", "de/dba/a20488.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "de/dba/a20488.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "de/dba/a20488.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "de/dba/a20488.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "de/dba/a20488.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "de/dba/a20488.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "HandleAfterEffectApply", "de/dba/a20488.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "de/dba/a20488.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "de/dba/a20488.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "de/dba/a20488.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

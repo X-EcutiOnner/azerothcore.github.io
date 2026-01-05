@@ -1,6 +1,6 @@
 var a21524 =
 [
-    [ "HandleEffectPeriodic", "d3/dc4/a21524.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d3/dc4/a21524.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d3/dc4/a21524.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d6/d83/a21528.html", "d6/d83/a21528" ],
+    [ "instance_vault_of_archavon", "d3/dc4/a21524.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d3/dc4/a21524.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

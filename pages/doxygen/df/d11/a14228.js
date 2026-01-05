@@ -1,9 +1,8 @@
 var a14228 =
 [
-    [ "npc_shade_of_jindo", "df/d11/a14228.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "df/d11/a14228.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "df/d11/a14228.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "df/d11/a14228.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "df/d11/a14228.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "df/d11/a14228.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "FilterTargets", "df/d11/a14228.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "df/d11/a14228.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "df/d11/a14228.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "df/d11/a14228.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "df/d11/a14228.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

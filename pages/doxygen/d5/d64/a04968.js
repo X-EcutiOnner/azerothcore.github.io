@@ -1,10 +1,18 @@
 var a04968 =
 [
-    [ "DynamicTreeLocationInfoCallback", "d5/d64/a04968.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
-    [ "GetHitModel", "d5/d64/a04968.html#ac939625c44c7be8ba8b96d55545b657c", null ],
-    [ "GetLocationInfo", "d5/d64/a04968.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
-    [ "operator()", "d5/d64/a04968.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
-    [ "_hitModel", "d5/d64/a04968.html#adef79d7627daa66d88c7146704984622", null ],
-    [ "_locationInfo", "d5/d64/a04968.html#a3c9be93de73520942a8d52b78fe72438", null ],
-    [ "_phaseMask", "d5/d64/a04968.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
+    [ "BuildStats", "d5/d64/a04968.html#a9a2e28e15f755a8a0b5751d62664734f", null ],
+    [ "printStats", "d5/d64/a04968.html#a77e7b7ff44c0f16fc2b5d4370c18751b", null ],
+    [ "updateBVH2", "d5/d64/a04968.html#a9f30e85b3eaa67dc38a28e3472c56de3", null ],
+    [ "updateInner", "d5/d64/a04968.html#a1a3087af9d859d25cd9d475ad8987ca3", null ],
+    [ "updateLeaf", "d5/d64/a04968.html#ae8cf4ba9eaa7dc424914483ab3fafeba", null ],
+    [ "maxDepth", "d5/d64/a04968.html#a855eb250661d80a9313b926556e12168", null ],
+    [ "maxObjects", "d5/d64/a04968.html#acd34211244a97c08193421818f326ff9", null ],
+    [ "minDepth", "d5/d64/a04968.html#a90121f1721624ae2be8b3e6860d02f23", null ],
+    [ "minObjects", "d5/d64/a04968.html#a0d3d26a62ae4aeb18fdff7d07a4b7873", null ],
+    [ "numBVH2", "d5/d64/a04968.html#a37d64390b3f004f36588c1467a446cd0", null ],
+    [ "numLeaves", "d5/d64/a04968.html#a6546dd9cc0de2cba9159f6ab2477b81f", null ],
+    [ "numLeavesN", "d5/d64/a04968.html#a208e3c10fbd61fa6d4cc6736140ddfb1", null ],
+    [ "numNodes", "d5/d64/a04968.html#afbedc638e0117b7ca5c5f1e447846717", null ],
+    [ "sumDepth", "d5/d64/a04968.html#a11cf172a3108b68efc5974b614187550", null ],
+    [ "sumObjects", "d5/d64/a04968.html#a84aa8066e8e19902aecec45607d7a93d", null ]
 ];

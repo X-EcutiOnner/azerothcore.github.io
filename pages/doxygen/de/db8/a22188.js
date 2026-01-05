@@ -1,7 +1,7 @@
 var a22188 =
 [
-    [ "HandleScriptEffect", "de/db8/a22188.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "de/db8/a22188.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "de/db8/a22188.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "de/db8/a22188.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "HandleAfterEffectApply", "de/db8/a22188.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "de/db8/a22188.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "de/db8/a22188.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "de/db8/a22188.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

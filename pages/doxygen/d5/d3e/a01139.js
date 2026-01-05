@@ -1,25 +1,49 @@
 var a01139 =
 [
-    [ "PlayerDump", "da/ddd/a11646.html", "da/ddd/a11646" ],
-    [ "PlayerDumpWriter", "d5/d06/a11650.html", "d5/d06/a11650" ],
-    [ "PlayerDumpReader", "d5/d96/a11654.html", "d5/d96/a11654" ],
-    [ "DumpReturn", "d5/d3e/a01139.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d5/d3e/a01139.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d5/d3e/a01139.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d5/d3e/a01139.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d5/d3e/a01139.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d5/d3e/a01139.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    [ "DoorData", "d6/d5c/a09724.html", "d6/d5c/a09724" ],
+    [ "BossBoundaryEntry", "db/dca/a09728.html", "db/dca/a09728" ],
+    [ "BossBoundaryData", "d0/d01/a09732.html", "d0/d01/a09732" ],
+    [ "MinionData", "d7/d5a/a09736.html", "d7/d5a/a09736" ],
+    [ "ObjectData", "d2/d02/a09740.html", "d2/d02/a09740" ],
+    [ "BossInfo", "d1/dd8/a09744.html", "d1/dd8/a09744" ],
+    [ "DoorInfo", "d7/d21/a09748.html", "d7/d21/a09748" ],
+    [ "MinionInfo", "d0/d18/a09752.html", "d0/d18/a09752" ],
+    [ "InstanceScript", "d4/d87/a09756.html", "d4/d87/a09756" ],
+    [ "OUT_LOAD_INST_DATA", "d5/d3e/a01139.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
+    [ "OUT_LOAD_INST_DATA_COMPLETE", "d5/d3e/a01139.html#a490e19560f068912b0e3dbd61c689b44", null ],
+    [ "OUT_LOAD_INST_DATA_FAIL", "d5/d3e/a01139.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
+    [ "OUT_SAVE_INST_DATA", "d5/d3e/a01139.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
+    [ "OUT_SAVE_INST_DATA_COMPLETE", "d5/d3e/a01139.html#a3a93295e3500f757163145c03e90db3d", null ],
+    [ "DoorInfoMap", "d5/d3e/a01139.html#ab665e2d424a75aeb6703ccd08050676c", null ],
+    [ "DoorInfoMapBounds", "d5/d3e/a01139.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
+    [ "DoorSet", "d5/d3e/a01139.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
+    [ "MinionInfoMap", "d5/d3e/a01139.html#a3b05920ad054e3f59bf988485603d2de", null ],
+    [ "MinionSet", "d5/d3e/a01139.html#add004a84abc4c98dae65145dce2d17bb", null ],
+    [ "ObjectGuidMap", "d5/d3e/a01139.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
+    [ "ObjectInfoMap", "d5/d3e/a01139.html#ac2936b863aac3fd2483eae5e234ac053", null ],
+    [ "ObjectStateMap", "d5/d3e/a01139.html#a4edbb4a71661ac569a73338c83672f9d", null ],
+    [ "DoorType", "d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947e", [
+      [ "DOOR_TYPE_ROOM", "d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
+      [ "DOOR_TYPE_PASSAGE", "d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
+      [ "DOOR_TYPE_SPAWN_HOLE", "d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
+      [ "MAX_DOOR_TYPES", "d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
     ] ],
-    [ "DumpTableType", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d5/d3e/a01139.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    [ "EncounterFrameType", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477d", [
+      [ "ENCOUNTER_FRAME_ENGAGE", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
+      [ "ENCOUNTER_FRAME_DISENGAGE", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
+      [ "ENCOUNTER_FRAME_ADD_TIMER", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
+      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
+      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
+      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "d5/d3e/a01139.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
+    ] ],
+    [ "EncounterState", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438", [
+      [ "NOT_STARTED", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
+      [ "IN_PROGRESS", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
+      [ "FAIL", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
+      [ "DONE", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
+      [ "SPECIAL", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
+      [ "TO_BE_DECIDED", "d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
     ] ]
 ];

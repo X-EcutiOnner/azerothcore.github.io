@@ -1,6 +1,7 @@
 var a25348 =
 [
-    [ "HandleScript", "d4/d40/a25348.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
-    [ "PrepareSpellScript", "d4/d40/a25348.html#a460823e5ad006c08d5b6378b7df279f0", null ],
-    [ "Register", "d4/d40/a25348.html#a7099938c5f14238b5afdadb6d040f931", null ]
+    [ "HandleDummy", "d4/d40/a25348.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
+    [ "Load", "d4/d40/a25348.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
+    [ "PrepareSpellScript", "d4/d40/a25348.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
+    [ "Register", "d4/d40/a25348.html#a4d683270dc086454630475d39f0105e8", null ]
 ];

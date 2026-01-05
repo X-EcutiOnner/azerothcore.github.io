@@ -1,8 +1,6 @@
 var a20612 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d9/dda/a20612.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "d9/dda/a20612.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "d9/dda/a20612.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "d9/dda/a20612.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "d9/dda/a20612.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "OnPeriodic", "d9/dda/a20612.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d9/dda/a20612.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d9/dda/a20612.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

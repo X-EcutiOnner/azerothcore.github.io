@@ -1,6 +1,5 @@
 var a26648 =
 [
-    [ "HandleDummy", "d0/d76/a26648.html#a904038167c9ba270cb54cd6adbe22563", null ],
-    [ "PrepareSpellScript", "d0/d76/a26648.html#a326656405c3400225a4ce10567c1c482", null ],
-    [ "Register", "d0/d76/a26648.html#a2d83815d44543686525238723a3ab39a", null ]
+    [ "spell_q55_sacred_cleansing", "d0/d76/a26648.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "d0/d76/a26648.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

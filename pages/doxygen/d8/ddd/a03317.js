@@ -1,6 +1,5 @@
 var a03317 =
 [
-    [ "event_commandscript", "d0/dff/a11883.html", "d0/dff/a11883" ],
-    [ "EventEntry", "d8/ddd/a03317.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
-    [ "AddSC_event_commandscript", "d8/ddd/a03317.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
+    [ "reset_commandscript", "dc/df8/a12032.html", "dc/df8/a12032" ],
+    [ "AddSC_reset_commandscript", "d8/ddd/a03317.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

@@ -1,6 +1,5 @@
 var a18220 =
 [
-    [ "npc_ice_tombAI", "d0/daf/a18224.html", "d0/daf/a18224" ],
-    [ "npc_ice_tomb", "d9/d49/a18220.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d9/d49/a18220.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "RotfaceHeightCheck", "d9/d49/a18220.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "d9/d49/a18220.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

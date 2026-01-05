@@ -1,6 +1,6 @@
 var a13212 =
 [
-    [ "OnRemove", "d2/d43/a13212.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d2/d43/a13212.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d2/d43/a13212.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "npc_unworthy_initiateAI", "de/d62/a13216.html", "de/d62/a13216" ],
+    [ "npc_unworthy_initiate", "d2/d43/a13212.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "d2/d43/a13212.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

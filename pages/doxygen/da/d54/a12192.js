@@ -1,11 +1,8 @@
 var a12192 =
 [
-    [ "boss_doomrelAI", "da/d54/a12192.html#a231cc3989d1c575af941a5462ad94cbd", null ],
-    [ "EnterEvadeMode", "da/d54/a12192.html#ae633f4cc1747f291a3911ca50ee39370", null ],
-    [ "JustEngagedWith", "da/d54/a12192.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
-    [ "Reset", "da/d54/a12192.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
-    [ "UpdateAI", "da/d54/a12192.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
-    [ "_events", "da/d54/a12192.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
-    [ "instance", "da/d54/a12192.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
-    [ "Voidwalkers", "da/d54/a12192.html#af29d871a370a534f508f225d49c3dc9f", null ]
+    [ "boss_evisceratorAI", "da/d54/a12192.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "da/d54/a12192.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "da/d54/a12192.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "da/d54/a12192.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "da/d54/a12192.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

@@ -1,7 +1,10 @@
 var a24000 =
 [
-    [ "Load", "d8/dd2/a24000.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d8/dd2/a24000.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d8/dd2/a24000.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d8/dd2/a24000.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "boss_thorngrin_the_tender", "d8/dd2/a24000.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "d8/dd2/a24000.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "d8/dd2/a24000.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "d8/dd2/a24000.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "d8/dd2/a24000.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "d8/dd2/a24000.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "d8/dd2/a24000.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

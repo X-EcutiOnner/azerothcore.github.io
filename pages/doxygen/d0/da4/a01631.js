@@ -1,9 +1,7 @@
 var a01631 =
 [
-    [ "MapType", "d0/da4/a01631.html#a2a540ae6cb73c9914f0253464b155227", null ],
-    [ "Find", "d0/da4/a01631.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
-    [ "Insert", "d0/da4/a01631.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
-    [ "Remove", "d0/da4/a01631.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
-    [ "RemoveByName", "d0/da4/a01631.html#a9c5298580060e7a6078ffb5f4008c549", null ],
-    [ "PlayerNameMap", "d0/da4/a01631.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
+    [ "UpdateTime", "df/d85/a11672.html", "df/d85/a11672" ],
+    [ "WorldUpdateTime", "d2/d40/a11676.html", "d2/d40/a11676" ],
+    [ "AVG_DIFF_COUNT", "d0/da4/a01631.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "d0/da4/a01631.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

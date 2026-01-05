@@ -1,6 +1,7 @@
 var a13856 =
 [
-    [ "npc_marzon_silent_bladeAI", "d7/d03/a13860.html", "d7/d03/a13860" ],
-    [ "npc_marzon_silent_blade", "d1/d3b/a13856.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "d1/d3b/a13856.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_ranger_lilatha", "d1/d3b/a13856.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d1/d3b/a13856.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d1/d3b/a13856.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d1/d3b/a13856.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

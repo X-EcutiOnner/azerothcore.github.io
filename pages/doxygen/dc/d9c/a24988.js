@@ -1,7 +1,7 @@
 var a24988 =
 [
-    [ "CheckRequirement", "dc/d9c/a24988.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "dc/d9c/a24988.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "dc/d9c/a24988.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "dc/d9c/a24988.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "CalculateAmount", "dc/d9c/a24988.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "dc/d9c/a24988.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "dc/d9c/a24988.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "dc/d9c/a24988.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

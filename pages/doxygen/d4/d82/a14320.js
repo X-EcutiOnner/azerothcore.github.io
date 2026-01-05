@@ -1,8 +1,7 @@
 var a14320 =
 [
-    [ "boss_venoxis", "d4/d82/a14320.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d4/d82/a14320.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d4/d82/a14320.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d4/d82/a14320.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d4/d82/a14320.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "HandleOnHit", "d4/d82/a14320.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d4/d82/a14320.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d4/d82/a14320.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d4/d82/a14320.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

@@ -1,6 +1,7 @@
 var a24632 =
 [
-    [ "HandlePeriodic", "d1/daa/a24632.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "d1/daa/a24632.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "d1/daa/a24632.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "npc_pet_gen_target_following_bomb", "d1/daa/a24632.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d1/daa/a24632.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d1/daa/a24632.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d1/daa/a24632.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

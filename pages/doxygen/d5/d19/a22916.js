@@ -1,7 +1,11 @@
 var a22916 =
 [
-    [ "HandleDummy", "d5/d19/a22916.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "d5/d19/a22916.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "d5/d19/a22916.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "d5/d19/a22916.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "boss_blackheart_the_inciter", "d5/d19/a22916.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d5/d19/a22916.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d5/d19/a22916.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d5/d19/a22916.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d5/d19/a22916.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d5/d19/a22916.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d5/d19/a22916.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d5/d19/a22916.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

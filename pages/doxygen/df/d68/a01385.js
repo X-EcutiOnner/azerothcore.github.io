@@ -1,8 +1,12 @@
 var a01385 =
 [
-    [ "CreatureScript", "df/db8/a10355.html", "df/db8/a10355" ],
-    [ "GenericCreatureScript< AI >", "d8/de0/a10359.html", "d8/de0/a10359" ],
-    [ "FactoryCreatureScript< AI, AIFactory >", "d2/d98/a10363.html", "d2/d98/a10363" ],
-    [ "RegisterCreatureAI", "df/d68/a01385.html#a5e7352841895df7117e2830448eb533f", null ],
-    [ "RegisterCreatureAIWithFactory", "df/d68/a01385.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
+    [ "ArenaTeamScript", "d8/d48/a10348.html", "d8/d48/a10348" ],
+    [ "ArenaTeamHook", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "df/d68/a01385.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

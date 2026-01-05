@@ -1,7 +1,6 @@
 var a24704 =
 [
-    [ "CorpseExplosionCheck", "de/d08/a24704.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "de/d08/a24704.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "de/d08/a24704.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "de/d08/a24704.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "FilterTargets", "de/d08/a24704.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "de/d08/a24704.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "de/d08/a24704.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

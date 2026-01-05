@@ -1,13 +1,10 @@
 var a28552 =
 [
-    [ "AcquireMethod", "d4/dd7/a28552.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "d4/dd7/a28552.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "d4/dd7/a28552.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "d4/dd7/a28552.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "d4/dd7/a28552.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "d4/dd7/a28552.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "d4/dd7/a28552.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "d4/dd7/a28552.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "d4/dd7/a28552.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "d4/dd7/a28552.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "ID", "d4/dd7/a28552.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d4/dd7/a28552.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d4/dd7/a28552.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d4/dd7/a28552.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d4/dd7/a28552.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d4/dd7/a28552.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d4/dd7/a28552.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

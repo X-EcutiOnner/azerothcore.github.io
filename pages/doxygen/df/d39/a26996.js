@@ -1,6 +1,8 @@
 var a26996 =
 [
-    [ "FilterTargets", "df/d39/a26996.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "df/d39/a26996.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "df/d39/a26996.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "ApplyDebuff", "df/d39/a26996.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "df/d39/a26996.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "df/d39/a26996.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "df/d39/a26996.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "df/d39/a26996.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

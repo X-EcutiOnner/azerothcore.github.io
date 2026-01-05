@@ -1,7 +1,6 @@
 var a18628 =
 [
-    [ "AuraRemoveEvent", "d9/d7a/a18628.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d9/d7a/a18628.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d9/d7a/a18628.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d9/d7a/a18628.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_strangulate_vehicleAI", "d5/dd1/a18632.html", "d5/dd1/a18632" ],
+    [ "npc_strangulate_vehicle", "d9/d7a/a18628.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d9/d7a/a18628.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

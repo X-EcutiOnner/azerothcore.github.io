@@ -1,7 +1,10 @@
 var a09848 =
 [
-    [ "ownerGUID", "da/d4a/a09848.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "da/d4a/a09848.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "da/d4a/a09848.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "da/d4a/a09848.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "DoublePosition", "d8/d22/a09852.html", "d8/d22/a09852" ],
+    [ "~AreaBoundary", "da/d4a/a09848.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "da/d4a/a09848.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "da/d4a/a09848.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "da/d4a/a09848.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "da/d4a/a09848.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "da/d4a/a09848.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

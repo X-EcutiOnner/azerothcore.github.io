@@ -1,7 +1,8 @@
 var a27800 =
 [
-    [ "npc_steam_tonkAI", "de/d96/a27800.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "de/d96/a27800.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "de/d96/a27800.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "de/d96/a27800.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_elder_clearwaterAI", "d5/d1c/a27804.html", "d5/d1c/a27804" ],
+    [ "npc_elder_clearwater", "de/d96/a27800.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "de/d96/a27800.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "de/d96/a27800.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "de/d96/a27800.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

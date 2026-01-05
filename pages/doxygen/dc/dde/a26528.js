@@ -1,5 +1,6 @@
 var a26528 =
 [
-    [ "PrepareSpellScript", "dc/dde/a26528.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "dc/dde/a26528.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "CheckCast", "dc/dde/a26528.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "dc/dde/a26528.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "dc/dde/a26528.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

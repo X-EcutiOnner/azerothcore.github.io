@@ -1,5 +1,5 @@
 var a01565 =
 [
-    [ "GridTerrainLoader", "db/dd5/a09214.html", "db/dd5/a09214" ],
-    [ "GridTerrainUnloader", "d5/d09/a09218.html", "d5/d09/a09218" ]
+    [ "holetab_h", "d6/d82/a01565.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "d6/d82/a01565.html#a54b408dce116992610ba9c141426d821", null ]
 ];

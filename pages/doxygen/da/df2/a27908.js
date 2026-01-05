@@ -1,8 +1,7 @@
 var a27908 =
 [
-    [ "npc_cultist_engineer", "da/df2/a27908.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "da/df2/a27908.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "da/df2/a27908.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "da/df2/a27908.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "da/df2/a27908.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_wormholeAI", "da/df2/a27908.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "da/df2/a27908.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "da/df2/a27908.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "da/df2/a27908.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

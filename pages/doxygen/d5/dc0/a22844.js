@@ -1,6 +1,12 @@
 var a22844 =
 [
-    [ "PrepareSpellScript", "d5/dc0/a22844.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d5/dc0/a22844.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d5/dc0/a22844.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "boss_shirrak_the_dead_watcher", "d5/dc0/a22844.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d5/dc0/a22844.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d5/dc0/a22844.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d5/dc0/a22844.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d5/dc0/a22844.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d5/dc0/a22844.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d5/dc0/a22844.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d5/dc0/a22844.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d5/dc0/a22844.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

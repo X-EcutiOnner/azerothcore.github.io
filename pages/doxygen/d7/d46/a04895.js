@@ -1,9 +1,8 @@
 var a04895 =
 [
-    [ "Hello", "dc/d16/a11007.html", "dc/d16/a11007" ],
-    [ "TrainerBuyFailed", "df/d2c/a11023.html", "df/d2c/a11023" ],
-    [ "TrainerBuySpell", "dd/d69/a11019.html", "dd/d69/a11019" ],
-    [ "TrainerBuySucceeded", "d1/da1/a11027.html", "d1/da1/a11027" ],
-    [ "TrainerList", "df/dc5/a11015.html", "df/dc5/a11015" ],
-    [ "TrainerListSpell", "d3/d4c/a11011.html", "d3/d4c/a11011" ]
+    [ "AutoBankItem", "d4/d05/a10552.html", "d4/d05/a10552" ],
+    [ "AutoStoreBankItem", "d5/dc7/a10556.html", "d5/dc7/a10556" ],
+    [ "BuyBankSlot", "d1/d46/a10560.html", "d1/d46/a10560" ],
+    [ "BuyBankSlotResult", "d3/d2d/a10564.html", "d3/d2d/a10564" ],
+    [ "ShowBank", "d7/d9f/a10568.html", "d7/d9f/a10568" ]
 ];

@@ -1,7 +1,14 @@
 var a23456 =
 [
-    [ "PeriodicTick", "de/d6e/a23456.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
-    [ "PrepareAuraScript", "de/d6e/a23456.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
-    [ "Register", "de/d6e/a23456.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
-    [ "Validate", "de/d6e/a23456.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
+    [ "boss_the_lurker_below", "de/d6e/a23456.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "de/d6e/a23456.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "de/d6e/a23456.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "de/d6e/a23456.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "de/d6e/a23456.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "de/d6e/a23456.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "de/d6e/a23456.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "de/d6e/a23456.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "de/d6e/a23456.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "de/d6e/a23456.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "de/d6e/a23456.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

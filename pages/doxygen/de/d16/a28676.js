@@ -1,5 +1,5 @@
 var a28676 =
 [
-    [ "areatableID", "de/d16/a28676.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "de/d16/a28676.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "Flags", "de/d16/a28676.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
+    [ "Id", "de/d16/a28676.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
 ];

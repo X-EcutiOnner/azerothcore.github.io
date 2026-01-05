@@ -1,5 +1,7 @@
 var a23668 =
 [
-    [ "go_broggok_lever", "df/d03/a23668.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "df/d03/a23668.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "HandleScript", "df/d03/a23668.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "df/d03/a23668.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "df/d03/a23668.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "df/d03/a23668.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

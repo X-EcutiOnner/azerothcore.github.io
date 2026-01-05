@@ -1,9 +1,10 @@
 var a14400 =
 [
-    [ "CheckCast", "de/dad/a14400.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "de/dad/a14400.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "de/dad/a14400.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "de/dad/a14400.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "de/dad/a14400.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "de/dad/a14400.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_zealot_zath", "de/dad/a14400.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "de/dad/a14400.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "de/dad/a14400.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "de/dad/a14400.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "de/dad/a14400.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "de/dad/a14400.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "de/dad/a14400.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

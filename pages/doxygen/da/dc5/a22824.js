@@ -1,15 +1,12 @@
 var a22824 =
 [
-    [ "boss_grandmaster_vorpil", "da/dc5/a22824.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "da/dc5/a22824.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "da/dc5/a22824.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "da/dc5/a22824.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "da/dc5/a22824.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "da/dc5/a22824.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "da/dc5/a22824.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "da/dc5/a22824.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "da/dc5/a22824.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "da/dc5/a22824.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "da/dc5/a22824.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "da/dc5/a22824.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "OPvPCapturePointZM_Beacon", "da/dc5/a22824.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "da/dc5/a22824.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "da/dc5/a22824.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "da/dc5/a22824.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "da/dc5/a22824.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "da/dc5/a22824.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "da/dc5/a22824.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "da/dc5/a22824.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "da/dc5/a22824.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

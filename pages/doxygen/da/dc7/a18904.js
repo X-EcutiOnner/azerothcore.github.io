@@ -1,6 +1,6 @@
 var a18904 =
 [
-    [ "PrepareSpellScript", "da/dc7/a18904.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "da/dc7/a18904.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "da/dc7/a18904.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_captain_arnathAI", "d6/d35/a18908.html", "d6/d35/a18908" ],
+    [ "npc_captain_arnath", "da/dc7/a18904.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "da/dc7/a18904.html#a302ec007389e677011334d78f410207b", null ]
 ];

@@ -1,8 +1,9 @@
 var a10532 =
 [
-    [ "GuildFilter", "db/d67/a10532.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "db/d67/a10532.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "db/d67/a10532.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "db/d67/a10532.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "db/d67/a10532.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "fX", "db/d67/a10532.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "db/d67/a10532.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "db/d67/a10532.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "db/d67/a10532.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "db/d67/a10532.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "db/d67/a10532.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

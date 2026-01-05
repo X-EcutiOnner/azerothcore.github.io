@@ -1,6 +1,7 @@
 var a25480 =
 [
-    [ "HandleScript", "da/df6/a25480.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "da/df6/a25480.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "da/df6/a25480.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "HandleEffectPeriodic", "da/df6/a25480.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "da/df6/a25480.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "da/df6/a25480.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "da/df6/a25480.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

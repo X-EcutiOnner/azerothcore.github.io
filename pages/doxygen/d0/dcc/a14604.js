@@ -1,5 +1,11 @@
 var a14604 =
 [
-    [ "go_loosely_turned_soilAI", "d0/dcc/a14604.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "d0/dcc/a14604.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "o", "d0/dcc/a14604.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d0/dcc/a14604.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d0/dcc/a14604.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d0/dcc/a14604.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d0/dcc/a14604.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d0/dcc/a14604.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d0/dcc/a14604.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d0/dcc/a14604.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

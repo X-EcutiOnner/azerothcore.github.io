@@ -1,7 +1,6 @@
 var a18100 =
 [
-    [ "CheckRequirement", "d6/d29/a18100.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d6/d29/a18100.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d6/d29/a18100.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d6/d29/a18100.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "AbominationDespawner", "d6/d29/a18100.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d6/d29/a18100.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d6/d29/a18100.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

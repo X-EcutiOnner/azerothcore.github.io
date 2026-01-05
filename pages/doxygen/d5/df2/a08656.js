@@ -1,9 +1,7 @@
 var a08656 =
 [
-    [ "EntryPointData", "d5/df2/a08656.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d5/df2/a08656.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d5/df2/a08656.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d5/df2/a08656.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d5/df2/a08656.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d5/df2/a08656.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "SetRuneState", "d5/df2/a08656.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d5/df2/a08656.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d5/df2/a08656.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d5/df2/a08656.html#ae58297e0766578b234604a97641501a1", null ]
 ];

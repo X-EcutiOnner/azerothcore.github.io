@@ -1,8 +1,8 @@
 var a11244 =
 [
-    [ "SkillPerfectItemEntry", "dd/d0a/a11244.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "dd/d0a/a11244.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "dd/d0a/a11244.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "dd/d0a/a11244.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "dd/d0a/a11244.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "PacketFilter", "dd/d0a/a11244.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "dd/d0a/a11244.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "dd/d0a/a11244.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "dd/d0a/a11244.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "dd/d0a/a11244.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

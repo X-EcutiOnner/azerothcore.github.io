@@ -1,7 +1,11 @@
 var a16648 =
 [
-    [ "npc_toc_warriorAI", "dd/d91/a16648.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "dd/d91/a16648.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "dd/d91/a16648.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "dd/d91/a16648.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_anubarak_spikeAI", "dd/d91/a16648.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "dd/d91/a16648.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "dd/d91/a16648.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "dd/d91/a16648.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "dd/d91/a16648.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "dd/d91/a16648.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "dd/d91/a16648.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "dd/d91/a16648.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

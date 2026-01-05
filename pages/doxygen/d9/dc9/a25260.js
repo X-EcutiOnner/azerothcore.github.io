@@ -1,6 +1,7 @@
 var a25260 =
 [
-    [ "HandleDummy", "d9/dc9/a25260.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
-    [ "PrepareSpellScript", "d9/dc9/a25260.html#adae41617f38a71ccec183f419d677cfd", null ],
-    [ "Register", "d9/dc9/a25260.html#a820e8b506de36a24411ae4a1c5930417", null ]
+    [ "HandleEffectPeriodic", "d9/dc9/a25260.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d9/dc9/a25260.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d9/dc9/a25260.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d9/dc9/a25260.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

@@ -1,7 +1,5 @@
 var a24440 =
 [
-    [ "HandleEffectRemove", "d5/ddc/a24440.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d5/ddc/a24440.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d5/ddc/a24440.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d5/ddc/a24440.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "creature", "d5/ddc/a24440.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "d5/ddc/a24440.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

@@ -1,6 +1,6 @@
 var a20012 =
 [
-    [ "boss_flame_leviathanAI", "d2/db4/a20016.html", "d2/db4/a20016" ],
-    [ "boss_flame_leviathan", "de/d2f/a20012.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "de/d2f/a20012.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "boss_stormcaller_brundirAI", "d2/db4/a20016.html", "d2/db4/a20016" ],
+    [ "boss_stormcaller_brundir", "de/d2f/a20012.html#aa966d1534a58e3832c46772043956533", null ],
+    [ "GetAI", "de/d2f/a20012.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
 ];

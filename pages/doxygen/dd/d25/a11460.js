@@ -1,6 +1,6 @@
 var a11460 =
 [
-    [ "BeforeHitHandler", "dd/d25/a11460.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "dd/d25/a11460.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "dd/d25/a11460.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "apPctMod", "dd/d25/a11460.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "dd/d25/a11460.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "dd/d25/a11460.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

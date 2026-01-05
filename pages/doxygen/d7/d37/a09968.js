@@ -1,6 +1,9 @@
 var a09968 =
 [
-    [ "sourceObjectDestroyLink", "d7/d37/a09968.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
-    [ "targetObjectBuildLink", "d7/d37/a09968.html#abf8c86604c3ef4349567c736090402f6", null ],
-    [ "targetObjectDestroyLink", "d7/d37/a09968.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
+    [ "TransportAnimation", "d7/d37/a09968.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d7/d37/a09968.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d7/d37/a09968.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d7/d37/a09968.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d7/d37/a09968.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d7/d37/a09968.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

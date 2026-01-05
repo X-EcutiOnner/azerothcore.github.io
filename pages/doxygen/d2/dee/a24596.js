@@ -1,9 +1,19 @@
 var a24596 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d2/dee/a24596.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d2/dee/a24596.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d2/dee/a24596.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d2/dee/a24596.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d2/dee/a24596.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d2/dee/a24596.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "npc_pet_dk_ebon_gargoyle", "d2/dee/a24596.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
+    [ "AttackStart", "d2/dee/a24596.html#ae5408b18b589fb483095450bf1338b2f", null ],
+    [ "FlyAway", "d2/dee/a24596.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
+    [ "InitializeAI", "d2/dee/a24596.html#a05e7d29c738dcc280603ab12a82b819b", null ],
+    [ "MovementInform", "d2/dee/a24596.html#a33e0260425cf179daae147bfc1a570b4", null ],
+    [ "MySelectNextTarget", "d2/dee/a24596.html#af86f48070b8c329c6a6a3f43d0156273", null ],
+    [ "RemoveTargetAura", "d2/dee/a24596.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
+    [ "Reset", "d2/dee/a24596.html#aa719acf874e7588ed6b73c437fb6765b", null ],
+    [ "UpdateAI", "d2/dee/a24596.html#a998a0401bd975cc7d0da7fb33670a503", null ],
+    [ "_decisionTimer", "d2/dee/a24596.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
+    [ "_despawning", "d2/dee/a24596.html#abca2ddc0628899b0c5bd35210e303d00", null ],
+    [ "_despawnTimer", "d2/dee/a24596.html#a8135321f4e5c01dc71e13f719e43d056", null ],
+    [ "_initialCastTimer", "d2/dee/a24596.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
+    [ "_initialSelection", "d2/dee/a24596.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
+    [ "_selectionTimer", "d2/dee/a24596.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
+    [ "_targetGUID", "d2/dee/a24596.html#a8299788ca453930977a605a2766d9e8d", null ]
 ];

@@ -1,10 +1,9 @@
 var a23084 =
 [
-    [ "CalculateAmount", "d4/d3b/a23084.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "d4/d3b/a23084.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "d4/d3b/a23084.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "d4/d3b/a23084.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "d4/d3b/a23084.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "d4/d3b/a23084.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "d4/d3b/a23084.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "HandleAfterCast", "d4/d3b/a23084.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d4/d3b/a23084.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d4/d3b/a23084.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d4/d3b/a23084.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d4/d3b/a23084.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d4/d3b/a23084.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

@@ -1,7 +1,8 @@
 var a27808 =
 [
-    [ "npc_wormholeAI", "d1/d8b/a27808.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d1/d8b/a27808.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d1/d8b/a27808.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d1/d8b/a27808.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_riggle_bassbaitAI", "da/dc3/a27812.html", "da/dc3/a27812" ],
+    [ "npc_riggle_bassbait", "d1/d8b/a27808.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d1/d8b/a27808.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d1/d8b/a27808.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d1/d8b/a27808.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

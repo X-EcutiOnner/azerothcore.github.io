@@ -1,6 +1,9 @@
 var a26596 =
 [
-    [ "HandleDummy", "db/d2e/a26596.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "db/d2e/a26596.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "db/d2e/a26596.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleAfterCast", "db/d2e/a26596.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "db/d2e/a26596.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "db/d2e/a26596.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "db/d2e/a26596.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "db/d2e/a26596.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "db/d2e/a26596.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

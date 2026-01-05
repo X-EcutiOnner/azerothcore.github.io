@@ -1,7 +1,9 @@
 var a12564 =
 [
-    [ "HandleAfterApply", "dd/d25/a12564.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "dd/d25/a12564.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "dd/d25/a12564.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "dd/d25/a12564.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "FilterTargets", "dd/d25/a12564.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "dd/d25/a12564.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "dd/d25/a12564.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "dd/d25/a12564.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "dd/d25/a12564.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "dd/d25/a12564.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

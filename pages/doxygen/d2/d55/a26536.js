@@ -1,6 +1,8 @@
 var a26536 =
 [
-    [ "CheckProc", "d2/d55/a26536.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d2/d55/a26536.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d2/d55/a26536.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "HandleApplyEffect", "d2/d55/a26536.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "d2/d55/a26536.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "d2/d55/a26536.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "d2/d55/a26536.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "d2/d55/a26536.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

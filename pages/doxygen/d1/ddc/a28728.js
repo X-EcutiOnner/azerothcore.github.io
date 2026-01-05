@@ -1,16 +1,11 @@
 var a28728 =
 [
-    [ "GetAddressForClient", "d1/ddc/a28728.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
-    [ "AllowedSecurityLevel", "d1/ddc/a28728.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
-    [ "Build", "d1/ddc/a28728.html#a64533e919d8c3a37bd5668af77d09166", null ],
-    [ "ExternalAddress", "d1/ddc/a28728.html#a703504aaf54f1ecf934b9184e9737367", null ],
-    [ "Flags", "d1/ddc/a28728.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
-    [ "Id", "d1/ddc/a28728.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
-    [ "LocalAddress", "d1/ddc/a28728.html#a61f429ddc92895e66dff2808e17cc322", null ],
-    [ "LocalSubnetMask", "d1/ddc/a28728.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
-    [ "Name", "d1/ddc/a28728.html#a9381717fdc924158ecd61a8f00488fc0", null ],
-    [ "PopulationLevel", "d1/ddc/a28728.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
-    [ "Port", "d1/ddc/a28728.html#a0131d758f10cbae0c610c2c088299feb", null ],
-    [ "Timezone", "d1/ddc/a28728.html#a377055c4729f21beecb8601cd79017db", null ],
-    [ "Type", "d1/ddc/a28728.html#af77452a4cf7f632d692079615af4737c", null ]
+    [ "addToSpellBook", "d1/ddc/a28728.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "d1/ddc/a28728.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "d1/ddc/a28728.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "d1/ddc/a28728.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "d1/ddc/a28728.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "d1/ddc/a28728.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "d1/ddc/a28728.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "d1/ddc/a28728.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

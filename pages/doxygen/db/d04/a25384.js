@@ -1,7 +1,7 @@
 var a25384 =
 [
-    [ "EjectPassenger", "db/d04/a25384.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "db/d04/a25384.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "db/d04/a25384.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "db/d04/a25384.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "HandleChargeEffect", "db/d04/a25384.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "db/d04/a25384.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "db/d04/a25384.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "db/d04/a25384.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

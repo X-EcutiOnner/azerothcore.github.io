@@ -1,11 +1,7 @@
 var a05184 =
 [
-    [ "ARC4", "dc/ded/a05184.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
-    [ "~ARC4", "dc/ded/a05184.html#af3a8b63c2073120026c262a685eef8f2", null ],
-    [ "Init", "dc/ded/a05184.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
-    [ "Init", "dc/ded/a05184.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
-    [ "UpdateData", "dc/ded/a05184.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
-    [ "UpdateData", "dc/ded/a05184.html#a4023480221891e0d1ccd7a92aabd173c", null ],
-    [ "_cipher", "dc/ded/a05184.html#ab017c87cd73a9b5fade745799724c333", null ],
-    [ "_ctx", "dc/ded/a05184.html#a8539413b1e0344abe9545f742cc8e6df", null ]
+    [ "operator()", "dc/ded/a05184.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
+    [ "closestEntity", "dc/ded/a05184.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "dc/ded/a05184.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "dc/ded/a05184.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

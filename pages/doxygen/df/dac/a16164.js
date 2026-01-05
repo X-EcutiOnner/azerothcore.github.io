@@ -1,9 +1,9 @@
 var a16164 =
 [
-    [ "boss_sartharion_vesperonAI", "df/dac/a16164.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "df/dac/a16164.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "df/dac/a16164.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "df/dac/a16164.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "df/dac/a16164.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "df/dac/a16164.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "npc_anub_ar_crusher", "df/dac/a16164.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "df/dac/a16164.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "df/dac/a16164.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "df/dac/a16164.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "df/dac/a16164.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "df/dac/a16164.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

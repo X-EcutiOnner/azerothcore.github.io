@@ -1,5 +1,5 @@
 var a27988 =
 [
-    [ "ID", "d9/d8c/a27988.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d9/d8c/a27988.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_necropolis", "d9/d8c/a27988.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d9/d8c/a27988.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

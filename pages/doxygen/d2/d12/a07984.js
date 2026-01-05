@@ -1,8 +1,7 @@
 var a07984 =
 [
-    [ "LfgPlayerRewardData", "d2/d12/a07984.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d2/d12/a07984.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d2/d12/a07984.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d2/d12/a07984.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d2/d12/a07984.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "global_sequence", "d2/d12/a07984.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "d2/d12/a07984.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "d2/d12/a07984.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "d2/d12/a07984.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

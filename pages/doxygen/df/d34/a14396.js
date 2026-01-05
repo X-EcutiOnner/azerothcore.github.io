@@ -1,7 +1,10 @@
 var a14396 =
 [
-    [ "GetEmptyEntry", "df/d34/a14396.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "df/d34/a14396.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "df/d34/a14396.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "df/d34/a14396.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_zealot_lorkhan", "df/d34/a14396.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "df/d34/a14396.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "df/d34/a14396.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "df/d34/a14396.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "df/d34/a14396.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "df/d34/a14396.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "df/d34/a14396.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

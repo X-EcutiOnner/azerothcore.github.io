@@ -1,5 +1,7 @@
 var a27196 =
 [
-    [ "achievement_save_the_day", "d5/d0e/a27196.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d5/d0e/a27196.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "FilterTargets", "d5/d0e/a27196.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d5/d0e/a27196.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d5/d0e/a27196.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d5/d0e/a27196.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

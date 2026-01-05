@@ -1,10 +1,22 @@
 var a09772 =
 [
-    [ "MailReceiver", "dc/d60/a09772.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "dc/d60/a09772.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "dc/d60/a09772.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "dc/d60/a09772.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "dc/d60/a09772.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "dc/d60/a09772.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "dc/d60/a09772.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "LootGroup", "dc/d60/a09772.html#a66528563891f68cc71cf2e82c0c55f78", null ],
+    [ "~LootGroup", "dc/d60/a09772.html#a8e99105a3db65b4f8afcf032ce3bb33f", null ],
+    [ "LootGroup", "dc/d60/a09772.html#a0bf71d71cb78e1e8864feac535adf100", null ],
+    [ "AddEntry", "dc/d60/a09772.html#a6724f160613257f2d48c0e675a372c48", null ],
+    [ "CheckLootRefs", "dc/d60/a09772.html#ac7690d157243edebe340baf2e274546f", null ],
+    [ "CollectLootIds", "dc/d60/a09772.html#a41a24435f67bcf4fa8bf8447b5d4d9ba", null ],
+    [ "CopyConditions", "dc/d60/a09772.html#a55a98102081eca760af46fe2158ad6e4", null ],
+    [ "GetEqualChancedItemList", "dc/d60/a09772.html#a273b39ba11c62186f6b49f9eadf512c6", null ],
+    [ "GetExplicitlyChancedItemList", "dc/d60/a09772.html#a5654d18106376d9fb168dfd8e27f1355", null ],
+    [ "HasQuestDrop", "dc/d60/a09772.html#adee692736847d987093655aac3f23be8", null ],
+    [ "HasQuestDropForPlayer", "dc/d60/a09772.html#a0cc5c4a880c400b432d2ac0c482430ed", null ],
+    [ "operator=", "dc/d60/a09772.html#a7ca1a5e58a5e78430209e1207b732265", null ],
+    [ "Process", "dc/d60/a09772.html#a0f9d7b304045ed812b6203376dc442db", null ],
+    [ "RawTotalChance", "dc/d60/a09772.html#a5a4dfbbfaf6c6f87217c124f387d7951", null ],
+    [ "Roll", "dc/d60/a09772.html#a77483c54ae8cb9747726bfa0e7d7225f", null ],
+    [ "TotalChance", "dc/d60/a09772.html#ab306f81dc00d214e0ec8ac3903eff42e", null ],
+    [ "Verify", "dc/d60/a09772.html#a5486b1c43c6af31681d5c442957d5cf1", null ],
+    [ "EqualChanced", "dc/d60/a09772.html#a517a0800528f49cdb3202ff5bcf5280d", null ],
+    [ "ExplicitlyChanced", "dc/d60/a09772.html#a18c4cf84cf4c6f02a66ba45fa2978f49", null ]
 ];

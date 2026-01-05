@@ -1,6 +1,8 @@
 var a09528 =
 [
-    [ "RandomCheck", "df/d1b/a09528.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "df/d1b/a09528.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "df/d1b/a09528.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "AllCreaturesOfEntryInRange", "df/d1b/a09528.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "df/d1b/a09528.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "df/d1b/a09528.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "df/d1b/a09528.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "df/d1b/a09528.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

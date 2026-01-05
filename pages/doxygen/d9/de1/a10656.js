@@ -1,5 +1,7 @@
 var a10656 =
 [
-    [ "GuildDeclineInvitation", "d9/de1/a10656.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
-    [ "Read", "d9/de1/a10656.html#ad034438e18a7feddbac376a599c1e01a", null ]
+    [ "QueryGuildInfoResponse", "d9/de1/a10656.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d9/de1/a10656.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d9/de1/a10656.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d9/de1/a10656.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

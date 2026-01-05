@@ -1,6 +1,10 @@
 var a21328 =
 [
-    [ "boss_skadi_graufAI", "d6/df0/a21332.html", "d6/df0/a21332" ],
-    [ "boss_skadi_grauf", "d9/d14/a21328.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "d9/d14/a21328.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "npc_dragonflayer_forge_master", "d9/d14/a21328.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d9/d14/a21328.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d9/d14/a21328.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d9/d14/a21328.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d9/d14/a21328.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d9/d14/a21328.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d9/d14/a21328.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

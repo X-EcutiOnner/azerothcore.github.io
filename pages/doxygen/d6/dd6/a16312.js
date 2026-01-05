@@ -1,10 +1,7 @@
 var a16312 =
 [
-    [ "spell_halion_damage_aoe_summon", "d6/dd6/a16312.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "d6/dd6/a16312.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "d6/dd6/a16312.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "d6/dd6/a16312.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "d6/dd6/a16312.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "d6/dd6/a16312.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "d6/dd6/a16312.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d6/dd6/a16312.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d6/dd6/a16312.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d6/dd6/a16312.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d6/dd6/a16312.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

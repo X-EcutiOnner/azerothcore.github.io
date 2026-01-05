@@ -1,5 +1,6 @@
 var a27816 =
 [
-    [ "npc_pet_trainerAI", "d3/da7/a27816.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d3/da7/a27816.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_training_dummyAI", "d6/dcd/a27820.html", "d6/dcd/a27820" ],
+    [ "npc_training_dummy", "d3/da7/a27816.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
+    [ "GetAI", "d3/da7/a27816.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
 ];

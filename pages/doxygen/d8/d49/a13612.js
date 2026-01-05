@@ -1,9 +1,8 @@
 var a13612 =
 [
-    [ "boss_entropius", "d8/d49/a13612.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d8/d49/a13612.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d8/d49/a13612.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d8/d49/a13612.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d8/d49/a13612.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d8/d49/a13612.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "OnPeriodic", "d8/d49/a13612.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "d8/d49/a13612.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "d8/d49/a13612.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "d8/d49/a13612.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "d8/d49/a13612.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

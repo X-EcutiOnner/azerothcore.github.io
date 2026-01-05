@@ -1,6 +1,6 @@
 var a16168 =
 [
-    [ "npc_twilight_summonAI", "df/dc2/a16172.html", "df/dc2/a16172" ],
-    [ "npc_twilight_summon", "d3/d1a/a16168.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "d3/d1a/a16168.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "npc_anub_ar_crusher_champion", "d3/d1a/a16168.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d3/d1a/a16168.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d3/d1a/a16168.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

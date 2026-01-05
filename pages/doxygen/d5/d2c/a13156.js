@@ -1,8 +1,14 @@
 var a13156 =
 [
-    [ "HandleDummy", "d5/d2c/a13156.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d5/d2c/a13156.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d5/d2c/a13156.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d5/d2c/a13156.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d5/d2c/a13156.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "boss_selin_fireheart", "d5/d2c/a13156.html#ae3270a227550391fd752d3f241e5ea46", null ],
+    [ "CanAIAttack", "d5/d2c/a13156.html#a36f409a006a09812452052d554d5e810", null ],
+    [ "JustDied", "d5/d2c/a13156.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
+    [ "JustEngagedWith", "d5/d2c/a13156.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
+    [ "KilledUnit", "d5/d2c/a13156.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
+    [ "MovementInform", "d5/d2c/a13156.html#a8072412acc5f52fdeea3b4f740021a91", null ],
+    [ "OnPowerUpdate", "d5/d2c/a13156.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
+    [ "Reset", "d5/d2c/a13156.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
+    [ "SelectNearestCrystal", "d5/d2c/a13156.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
+    [ "SpawnCrystals", "d5/d2c/a13156.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
+    [ "SummonedCreatureDies", "d5/d2c/a13156.html#a396341d39bead723a7c6f716c08aa447", null ]
 ];

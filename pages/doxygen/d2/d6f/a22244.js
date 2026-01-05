@@ -1,7 +1,7 @@
 var a22244 =
 [
-    [ "HandleDummy", "d2/d6f/a22244.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d2/d6f/a22244.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d2/d6f/a22244.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d2/d6f/a22244.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "HandleScriptEffect", "d2/d6f/a22244.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "d2/d6f/a22244.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "d2/d6f/a22244.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "d2/d6f/a22244.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

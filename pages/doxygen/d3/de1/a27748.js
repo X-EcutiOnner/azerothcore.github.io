@@ -1,9 +1,10 @@
 var a27748 =
 [
-    [ "npc_chicken_cluckAI", "d3/de1/a27748.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d3/de1/a27748.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d3/de1/a27748.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d3/de1/a27748.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d3/de1/a27748.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d3/de1/a27748.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "go_evil_book_for_dummies", "d3/de1/a27748.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d3/de1/a27748.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d3/de1/a27748.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d3/de1/a27748.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d3/de1/a27748.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d3/de1/a27748.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d3/de1/a27748.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

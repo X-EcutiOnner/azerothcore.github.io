@@ -1,6 +1,6 @@
 var a15772 =
 [
-    [ "npc_braug_dimspirit", "d4/df1/a15772.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d4/df1/a15772.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d4/df1/a15772.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_omenAI", "d0/d14/a15776.html", "d0/d14/a15776" ],
+    [ "npc_omen", "d4/df1/a15772.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d4/df1/a15772.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

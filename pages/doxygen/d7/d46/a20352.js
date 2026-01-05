@@ -1,8 +1,6 @@
 var a20352 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d7/d46/a20352.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "d7/d46/a20352.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "d7/d46/a20352.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "d7/d46/a20352.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "d7/d46/a20352.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "npc_ulduar_saronite_animusAI", "d1/d33/a20356.html", "d1/d33/a20356" ],
+    [ "npc_ulduar_saronite_animus", "d7/d46/a20352.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d7/d46/a20352.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

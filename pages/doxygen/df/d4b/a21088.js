@@ -1,8 +1,10 @@
 var a21088 =
 [
-    [ "OnApply", "df/d4b/a21088.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "df/d4b/a21088.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "df/d4b/a21088.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "df/d4b/a21088.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "df/d4b/a21088.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "df/d4b/a21088.html#a351df0050661628e3ab0be2f636f9c4e", null ],
+    [ "DoAction", "df/d4b/a21088.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
+    [ "JustDied", "df/d4b/a21088.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
+    [ "SelectConstrictTarget", "df/d4b/a21088.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
+    [ "UpdateAI", "df/d4b/a21088.html#a00c137429f2b565bf195dab4e9902a7c", null ],
+    [ "_checkTimer", "df/d4b/a21088.html#ae5c189401dd04823449e7a16c197e65f", null ],
+    [ "_playerGUID", "df/d4b/a21088.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
 ];

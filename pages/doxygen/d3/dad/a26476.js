@@ -1,7 +1,6 @@
 var a26476 =
 [
-    [ "HandleEffectRemove", "d3/dad/a26476.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "d3/dad/a26476.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "d3/dad/a26476.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "d3/dad/a26476.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "FilterTargets", "d3/dad/a26476.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "d3/dad/a26476.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "d3/dad/a26476.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

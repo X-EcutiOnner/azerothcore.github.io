@@ -1,12 +1,13 @@
 var a29020 =
 [
-    [ "Model", "de/d07/a29020.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "de/d07/a29020.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "de/d07/a29020.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "de/d07/a29020.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "de/d07/a29020.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "de/d07/a29020.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "de/d07/a29020.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "de/d07/a29020.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "de/d07/a29020.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "MPQArchive", "de/d07/a29020.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "de/d07/a29020.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "de/d07/a29020.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "de/d07/a29020.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "de/d07/a29020.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "de/d07/a29020.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "de/d07/a29020.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "de/d07/a29020.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "de/d07/a29020.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "de/d07/a29020.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

@@ -1,7 +1,8 @@
 var a16728 =
 [
-    [ "HandleEffectPeriodic", "d0/d19/a16728.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d0/d19/a16728.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d0/d19/a16728.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d0/d19/a16728.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_hunterAI", "d0/d19/a16728.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d0/d19/a16728.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d0/d19/a16728.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d0/d19/a16728.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d0/d19/a16728.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

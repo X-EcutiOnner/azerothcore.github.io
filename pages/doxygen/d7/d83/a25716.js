@@ -1,7 +1,9 @@
 var a25716 =
 [
-    [ "HandleDummy", "d7/d83/a25716.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d7/d83/a25716.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d7/d83/a25716.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d7/d83/a25716.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "CheckIfCorpseNear", "d7/d83/a25716.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d7/d83/a25716.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d7/d83/a25716.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d7/d83/a25716.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d7/d83/a25716.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d7/d83/a25716.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

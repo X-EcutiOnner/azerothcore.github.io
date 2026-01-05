@@ -1,5 +1,6 @@
 var a25024 =
 [
-    [ "PrepareSpellScript", "d4/d75/a25024.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d4/d75/a25024.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "OnHit", "d4/d75/a25024.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "d4/d75/a25024.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "d4/d75/a25024.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

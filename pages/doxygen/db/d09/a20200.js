@@ -1,6 +1,7 @@
 var a20200 =
 [
-    [ "boss_freya_elder_stonebarkAI", "db/d20/a20204.html", "db/d20/a20204" ],
-    [ "boss_freya_elder_stonebark", "db/d09/a20200.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "db/d09/a20200.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "FilterTargets", "db/d09/a20200.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "db/d09/a20200.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "db/d09/a20200.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "db/d09/a20200.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

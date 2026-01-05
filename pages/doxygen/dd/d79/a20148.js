@@ -1,7 +1,6 @@
 var a20148 =
 [
-    [ "HandleScript", "dd/d79/a20148.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "dd/d79/a20148.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "dd/d79/a20148.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "dd/d79/a20148.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "npc_brann_radioAI", "dd/d4f/a20152.html", "dd/d4f/a20152" ],
+    [ "npc_brann_radio", "dd/d79/a20148.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "dd/d79/a20148.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

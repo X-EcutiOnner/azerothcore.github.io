@@ -1,6 +1,9 @@
 var a27828 =
 [
-    [ "npc_fireworkAI", "df/dd6/a27832.html", "df/dd6/a27832" ],
-    [ "npc_firework", "d1/dbe/a27828.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d1/dbe/a27828.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_target_dummyAI", "d1/dbe/a27828.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "d1/dbe/a27828.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "d1/dbe/a27828.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "d1/dbe/a27828.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "d1/dbe/a27828.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "d1/dbe/a27828.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

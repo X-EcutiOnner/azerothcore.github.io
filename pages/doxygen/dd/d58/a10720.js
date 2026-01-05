@@ -1,6 +1,5 @@
 var a10720 =
 [
-    [ "GuildDemoteMember", "dd/d58/a10720.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "dd/d58/a10720.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "dd/d58/a10720.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildEventLogQuery", "dd/d58/a10720.html#af66d667a4b722745fa4f855870ef332c", null ],
+    [ "Read", "dd/d58/a10720.html#a48881f116070d5a7c03e7cace86656f6", null ]
 ];

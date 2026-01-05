@@ -1,7 +1,10 @@
 var a14944 =
 [
-    [ "OnRemove", "d4/d8f/a14944.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d4/d8f/a14944.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d4/d8f/a14944.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d4/d8f/a14944.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "hyjalJainaAI", "d4/d8f/a14944.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d4/d8f/a14944.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d4/d8f/a14944.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d4/d8f/a14944.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d4/d8f/a14944.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d4/d8f/a14944.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d4/d8f/a14944.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

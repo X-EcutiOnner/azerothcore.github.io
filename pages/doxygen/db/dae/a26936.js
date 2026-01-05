@@ -1,7 +1,12 @@
 var a26936 =
 [
-    [ "HandleProc", "db/dae/a26936.html#a85df8d4086a980d2b0a441097a909143", null ],
-    [ "PrepareAuraScript", "db/dae/a26936.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
-    [ "Register", "db/dae/a26936.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
-    [ "Validate", "db/dae/a26936.html#a760a018b8410233e09065d94abeeb1ff", null ]
+    [ "CalcPeriodic", "db/dae/a26936.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "db/dae/a26936.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "db/dae/a26936.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "db/dae/a26936.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "db/dae/a26936.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "db/dae/a26936.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "db/dae/a26936.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "db/dae/a26936.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "db/dae/a26936.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

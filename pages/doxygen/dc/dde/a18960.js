@@ -1,6 +1,8 @@
 var a18960 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "dc/de4/a18964.html", "dc/de4/a18964" ],
-    [ "npc_icc_skybreaker_marksman", "dc/dde/a18960.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "dc/dde/a18960.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "npc_arthas_teleport_visualAI", "dc/dde/a18960.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "dc/dde/a18960.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "dc/dde/a18960.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "dc/dde/a18960.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "dc/dde/a18960.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

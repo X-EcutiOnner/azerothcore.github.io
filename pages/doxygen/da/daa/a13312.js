@@ -1,7 +1,7 @@
 var a13312 =
 [
-    [ "boss_apothecary_hummelAI", "db/d45/a13316.html", "db/d45/a13316" ],
-    [ "boss_apothecary_hummel", "da/daa/a13312.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "da/daa/a13312.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "da/daa/a13312.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "OnApply", "da/daa/a13312.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "da/daa/a13312.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "da/daa/a13312.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "da/daa/a13312.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

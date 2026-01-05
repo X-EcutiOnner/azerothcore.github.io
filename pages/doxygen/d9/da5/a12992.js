@@ -1,8 +1,9 @@
 var a12992 =
 [
-    [ "npc_barnesAI", "d0/df3/a12996.html", "d0/df3/a12996" ],
-    [ "npc_barnes", "d9/da5/a12992.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d9/da5/a12992.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d9/da5/a12992.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d9/da5/a12992.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "go_blood_drenched_doorAI", "d9/da5/a12992.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d9/da5/a12992.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d9/da5/a12992.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d9/da5/a12992.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d9/da5/a12992.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d9/da5/a12992.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

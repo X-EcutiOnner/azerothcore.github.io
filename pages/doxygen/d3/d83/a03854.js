@@ -1,5 +1,9 @@
 var a03854 =
 [
-    [ "OutdoorPvP_terokkar_forest", "d1/dec/a22783.html", "d1/dec/a22783" ],
-    [ "AddSC_outdoorpvp_tf", "d3/d83/a03854.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d2/d9c/a22760.html", "d2/d9c/a22760" ],
+    [ "AddSC_outdoorpvp_hp", "d3/d83/a03854.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "d3/d83/a03854.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "d3/d83/a03854.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "d3/d83/a03854.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "d3/d83/a03854.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

@@ -1,7 +1,5 @@
 var a27636 =
 [
-    [ "npc_engineering_tele_trinket", "d7/da6/a27636.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "d7/da6/a27636.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "d7/da6/a27636.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "d7/da6/a27636.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "go_soulwellAI", "d7/da6/a27636.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d7/da6/a27636.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

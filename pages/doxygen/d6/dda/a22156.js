@@ -1,6 +1,7 @@
 var a22156 =
 [
-    [ "npc_your_inner_turmoilAI", "d4/dbe/a22160.html", "d4/dbe/a22160" ],
-    [ "npc_your_inner_turmoil", "d6/dda/a22156.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d6/dda/a22156.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "HandleScriptEffect", "d6/dda/a22156.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d6/dda/a22156.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d6/dda/a22156.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d6/dda/a22156.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

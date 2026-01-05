@@ -1,14 +1,8 @@
 var a13316 =
 [
-    [ "boss_apothecary_hummelAI", "db/d45/a13316.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "db/d45/a13316.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "db/d45/a13316.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "db/d45/a13316.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "db/d45/a13316.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "db/d45/a13316.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "db/d45/a13316.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "db/d45/a13316.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "db/d45/a13316.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "db/d45/a13316.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "db/d45/a13316.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "HandleHit", "db/d45/a13316.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "db/d45/a13316.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "db/d45/a13316.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "db/d45/a13316.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "db/d45/a13316.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

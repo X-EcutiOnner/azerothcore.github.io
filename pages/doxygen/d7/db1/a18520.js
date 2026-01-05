@@ -1,6 +1,7 @@
 var a18520 =
 [
-    [ "ModDestHeight", "d7/db1/a18520.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "d7/db1/a18520.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "d7/db1/a18520.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "OnPeriodic", "d7/db1/a18520.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d7/db1/a18520.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d7/db1/a18520.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d7/db1/a18520.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

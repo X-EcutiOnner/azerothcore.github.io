@@ -1,9 +1,6 @@
 var a17648 =
 [
-    [ "FilterTargetsInitial", "d3/d28/a17648.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d3/d28/a17648.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d3/d28/a17648.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d3/d28/a17648.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d3/d28/a17648.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d3/d28/a17648.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "FilterTargets", "d3/d28/a17648.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d3/d28/a17648.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d3/d28/a17648.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

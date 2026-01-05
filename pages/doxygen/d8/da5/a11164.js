@@ -1,17 +1,9 @@
 var a11164 =
 [
-    [ "WorldPacket", "d8/da5/a11164.html#a6329945c46586b75f41f4f3b0410a046", null ],
-    [ "WorldPacket", "d8/da5/a11164.html#a121222c627cfce905891be1611705a1a", null ],
-    [ "WorldPacket", "d8/da5/a11164.html#af406fe2f357035990fd5eccf37f3fb93", null ],
-    [ "WorldPacket", "d8/da5/a11164.html#a2880e36e172096407778fcbbdfe917bc", null ],
-    [ "WorldPacket", "d8/da5/a11164.html#a251580581b403cc113aa743c0196ceea", null ],
-    [ "WorldPacket", "d8/da5/a11164.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
-    [ "GetOpcode", "d8/da5/a11164.html#a666547feae3b83bfbba424a541287239", null ],
-    [ "GetReceivedTime", "d8/da5/a11164.html#a467aa36509adcb07f51bc8af24137c3e", null ],
-    [ "Initialize", "d8/da5/a11164.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
-    [ "operator=", "d8/da5/a11164.html#ad44064a3c2c73f6289a9db539b408f50", null ],
-    [ "operator=", "d8/da5/a11164.html#aa1196a05e7b338543b3b94188e59721f", null ],
-    [ "SetOpcode", "d8/da5/a11164.html#acb55a3f9540c39bf88300473c29605ed", null ],
-    [ "m_opcode", "d8/da5/a11164.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
-    [ "m_receivedTime", "d8/da5/a11164.html#abb78776ad3a0f19e5e3d226666612b49", null ]
+    [ "TotemCreated", "d8/da5/a11164.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d8/da5/a11164.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d8/da5/a11164.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d8/da5/a11164.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d8/da5/a11164.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d8/da5/a11164.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

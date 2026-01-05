@@ -1,5 +1,6 @@
 var a14180 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "d5/d64/a14180.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "d5/d64/a14180.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d5/d64/a14180.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d5/d64/a14180.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d5/d64/a14180.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

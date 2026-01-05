@@ -1,6 +1,10 @@
 var a24020 =
 [
-    [ "FilterTargets", "d1/de0/a24020.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d1/de0/a24020.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d1/de0/a24020.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "CheckProc", "d1/de0/a24020.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d1/de0/a24020.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d1/de0/a24020.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d1/de0/a24020.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d1/de0/a24020.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d1/de0/a24020.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d1/de0/a24020.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

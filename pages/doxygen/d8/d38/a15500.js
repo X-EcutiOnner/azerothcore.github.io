@@ -1,6 +1,6 @@
 var a15500 =
 [
-    [ "npc_injured_draeneiAI", "de/d22/a15504.html", "de/d22/a15504" ],
-    [ "npc_injured_draenei", "d8/d38/a15500.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d8/d38/a15500.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "de/d22/a15504.html", "de/d22/a15504" ],
+    [ "instance_temple_of_ahnqiraj", "d8/d38/a15500.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d8/d38/a15500.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

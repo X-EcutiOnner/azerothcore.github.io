@@ -1,7 +1,7 @@
 var a17508 =
 [
-    [ "HandleScript", "d9/d7b/a17508.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d9/d7b/a17508.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d9/d7b/a17508.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d9/d7b/a17508.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "HandlePeriodic", "d9/d7b/a17508.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d9/d7b/a17508.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d9/d7b/a17508.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d9/d7b/a17508.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

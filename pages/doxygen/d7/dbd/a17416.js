@@ -1,7 +1,5 @@
 var a17416 =
 [
-    [ "HandlePeriodic", "d7/dbd/a17416.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d7/dbd/a17416.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d7/dbd/a17416.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d7/dbd/a17416.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "endPosition", "d7/dbd/a17416.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d7/dbd/a17416.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

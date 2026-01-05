@@ -1,10 +1,11 @@
 var a17344 =
 [
-    [ "boss_drakkari_elementalAI", "d1/dc5/a17344.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d1/dc5/a17344.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d1/dc5/a17344.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d1/dc5/a17344.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d1/dc5/a17344.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d1/dc5/a17344.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d1/dc5/a17344.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d1/dc5/a17344.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d1/dc5/a17344.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d1/dc5/a17344.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d1/dc5/a17344.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d1/dc5/a17344.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d1/dc5/a17344.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d1/dc5/a17344.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d1/dc5/a17344.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

@@ -1,9 +1,6 @@
 var a22168 =
 [
-    [ "npc_Apothecary_HanesAI", "db/d02/a22168.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "db/d02/a22168.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "db/d02/a22168.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "db/d02/a22168.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "db/d02/a22168.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "db/d02/a22168.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_venture_co_stragglerAI", "d8/de2/a22172.html", "d8/de2/a22172" ],
+    [ "npc_venture_co_straggler", "db/d02/a22168.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "db/d02/a22168.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

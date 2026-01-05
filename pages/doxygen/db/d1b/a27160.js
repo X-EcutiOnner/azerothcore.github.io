@@ -1,13 +1,7 @@
 var a27160 =
 [
-    [ "CheckProc", "db/d1b/a27160.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleAfterApply", "db/d1b/a27160.html#ac3c12801bde3bd259b573eeca6dc4d5b", null ],
-    [ "HandleApply", "db/d1b/a27160.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "db/d1b/a27160.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "db/d1b/a27160.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "db/d1b/a27160.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "db/d1b/a27160.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "db/d1b/a27160.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "db/d1b/a27160.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTarget", "db/d1b/a27160.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
+    [ "HandleProc", "db/d1b/a27160.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "db/d1b/a27160.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "db/d1b/a27160.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "db/d1b/a27160.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

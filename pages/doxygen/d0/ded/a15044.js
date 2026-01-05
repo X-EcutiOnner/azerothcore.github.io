@@ -1,6 +1,6 @@
 var a15044 =
 [
-    [ "NpcRunToHome", "d0/ded/a15044.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "d0/ded/a15044.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "d0/ded/a15044.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "npc_crate_helperAI", "d0/ded/a15044.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d0/ded/a15044.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

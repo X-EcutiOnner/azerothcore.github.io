@@ -1,9 +1,6 @@
 var a10944 =
 [
-    [ "RandomRoll", "dd/d3a/a10944.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "dd/d3a/a10944.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "dd/d3a/a10944.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "dd/d3a/a10944.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "dd/d3a/a10944.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "dd/d3a/a10944.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "ItemRefund", "dd/d3a/a10944.html#aa257d579519d45da88694ff6306395da", null ],
+    [ "Read", "dd/d3a/a10944.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
+    [ "ItemGuid", "dd/d3a/a10944.html#ac394336b15540248770f81d748206f7b", null ]
 ];

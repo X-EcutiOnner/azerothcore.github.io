@@ -1,6 +1,7 @@
 var a23480 =
 [
-    [ "HandleScript", "d5/d56/a23480.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d5/d56/a23480.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d5/d56/a23480.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "FilterTargets", "d5/d56/a23480.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d5/d56/a23480.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d5/d56/a23480.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d5/d56/a23480.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

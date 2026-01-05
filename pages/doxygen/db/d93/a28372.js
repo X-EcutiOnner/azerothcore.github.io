@@ -1,11 +1,5 @@
 var a28372 =
 [
-    [ "Displayid", "db/d93/a28372.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "db/d93/a28372.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "db/d93/a28372.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "db/d93/a28372.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "db/d93/a28372.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "db/d93/a28372.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "db/d93/a28372.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "db/d93/a28372.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "ID", "db/d93/a28372.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "db/d93/a28372.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

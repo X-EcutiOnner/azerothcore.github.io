@@ -1,10 +1,6 @@
 var a19704 =
 [
-    [ "npc_molten_golem", "d7/dd7/a19704.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d7/dd7/a19704.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d7/dd7/a19704.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d7/dd7/a19704.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d7/dd7/a19704.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d7/dd7/a19704.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d7/dd7/a19704.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "npc_centrifuge_constructAI", "d0/d14/a19708.html", "d0/d14/a19708" ],
+    [ "npc_centrifuge_construct", "d7/dd7/a19704.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d7/dd7/a19704.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

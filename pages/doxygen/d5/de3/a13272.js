@@ -1,14 +1,20 @@
 var a13272 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d5/de3/a13272.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d5/de3/a13272.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d5/de3/a13272.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d5/de3/a13272.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d5/de3/a13272.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d5/de3/a13272.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d5/de3/a13272.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d5/de3/a13272.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d5/de3/a13272.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d5/de3/a13272.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d5/de3/a13272.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "Events", "d5/de3/a13272.html#ac42a71db175efdf9b2ab4c2bbb899428", [
+      [ "EVENT_START_RITUAL", "d5/de3/a13272.html#ac42a71db175efdf9b2ab4c2bbb899428a5c1cf14a3bf0dfd786daa93ac0a8b043", null ],
+      [ "EVENT_GHOULPLOSION", "d5/de3/a13272.html#ac42a71db175efdf9b2ab4c2bbb899428a2fcb5b116ac91e1ae11dfb820a2c8e58", null ],
+      [ "EVENT_RAISE_GHOUL", "d5/de3/a13272.html#ac42a71db175efdf9b2ab4c2bbb899428a77051c0b97f18ea906fd85d954ec6184", null ],
+      [ "EVENT_RESUME_WP", "d5/de3/a13272.html#ac42a71db175efdf9b2ab4c2bbb899428a1db9eee6c0d33c1cf8b8107810a10ab0", null ]
+    ] ],
+    [ "Points", "d5/de3/a13272.html#aaa928de603fc54bbfec990160bce55e9", [
+      [ "POINT_CORPSE_REACHED", "d5/de3/a13272.html#aaa928de603fc54bbfec990160bce55e9a8f666ca441d6b3c527fe55f20534c389", null ]
+    ] ],
+    [ "npc_acherus_necromancerAI", "d5/de3/a13272.html#a6cec770b61952cd8df720ac783ea46e5", null ],
+    [ "MovementInform", "d5/de3/a13272.html#ad446b9b5bbd6f27ac9d3c71d0fe48518", null ],
+    [ "Reset", "d5/de3/a13272.html#a3fece0dc9ec211be3e4130240428ad57", null ],
+    [ "UpdateAI", "d5/de3/a13272.html#a5bddb39afcb84311536b621679619305", null ],
+    [ "events", "d5/de3/a13272.html#a1c119e9719fe139d30b7d2cfd1822ad1", null ],
+    [ "geistGUID", "d5/de3/a13272.html#af8d7f13d1b58a01311637d004bf14f2c", null ],
+    [ "isOnRitual", "d5/de3/a13272.html#ab04499369c51994457e6aec2d635a5cf", null ],
+    [ "targetCorpseGUID", "d5/de3/a13272.html#adf1d8777507658f264c951c88623ce9e", null ]
 ];

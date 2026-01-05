@@ -1,6 +1,8 @@
 var a12308 =
 [
-    [ "OrcMoveEvent", "d7/d68/a12308.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d7/d68/a12308.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d7/d68/a12308.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "CheckProc", "d7/d68/a12308.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d7/d68/a12308.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d7/d68/a12308.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d7/d68/a12308.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d7/d68/a12308.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

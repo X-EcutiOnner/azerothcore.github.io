@@ -1,11 +1,10 @@
 var a17088 =
 [
-    [ "boss_frostsworn_generalAI", "db/dbd/a17088.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
-    [ "EnterEvadeMode", "db/dbd/a17088.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
-    [ "JustDied", "db/dbd/a17088.html#ac2653a5664c87045df16f2fdcf850edf", null ],
-    [ "JustEngagedWith", "db/dbd/a17088.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
-    [ "Reset", "db/dbd/a17088.html#a8333b3f2637f029de4182ca16e2fb634", null ],
-    [ "UpdateAI", "db/dbd/a17088.html#aea65a8fab859db4396690d846d10f5a1", null ],
-    [ "events", "db/dbd/a17088.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
-    [ "pInstance", "db/dbd/a17088.html#a01cc3db24e03600501b9980aa966ad7d", null ]
+    [ "HandleAfterEffectAbsorb", "db/dbd/a17088.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "db/dbd/a17088.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "db/dbd/a17088.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "db/dbd/a17088.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "db/dbd/a17088.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "db/dbd/a17088.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "db/dbd/a17088.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

@@ -1,14 +1,14 @@
 var a24688 =
 [
-    [ "Absorb", "d5/d6b/a24688.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "d5/d6b/a24688.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "d5/d6b/a24688.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "d5/d6b/a24688.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "d5/d6b/a24688.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "d5/d6b/a24688.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "d5/d6b/a24688.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "d5/d6b/a24688.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "d5/d6b/a24688.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "d5/d6b/a24688.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "d5/d6b/a24688.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "npc_pet_mage_mirror_image", "d5/d6b/a24688.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "d5/d6b/a24688.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "d5/d6b/a24688.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "d5/d6b/a24688.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "d5/d6b/a24688.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "d5/d6b/a24688.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "d5/d6b/a24688.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "d5/d6b/a24688.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "d5/d6b/a24688.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "d5/d6b/a24688.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "d5/d6b/a24688.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

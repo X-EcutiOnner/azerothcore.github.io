@@ -1,6 +1,6 @@
 var a22100 =
 [
-    [ "CheckRequirement", "d8/da7/a22100.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d8/da7/a22100.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d8/da7/a22100.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_torturer_lecraftAI", "d7/dea/a22104.html", "d7/dea/a22104" ],
+    [ "npc_torturer_lecraft", "d8/da7/a22100.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "d8/da7/a22100.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

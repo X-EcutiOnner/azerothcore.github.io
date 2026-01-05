@@ -1,11 +1,11 @@
 var a10904 =
 [
-    [ "LFGJoin", "d8/d3e/a10904.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "d8/d3e/a10904.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "d8/d3e/a10904.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "d8/d3e/a10904.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "d8/d3e/a10904.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "d8/d3e/a10904.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "d8/d3e/a10904.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "d8/d3e/a10904.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "BuyItemInSlot", "d8/d3e/a10904.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "d8/d3e/a10904.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "d8/d3e/a10904.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "d8/d3e/a10904.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "d8/d3e/a10904.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "d8/d3e/a10904.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "d8/d3e/a10904.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "d8/d3e/a10904.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

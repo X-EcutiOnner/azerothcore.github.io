@@ -1,6 +1,7 @@
 var a13816 =
 [
-    [ "CheckProc", "d0/d6a/a13816.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d0/d6a/a13816.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d0/d6a/a13816.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_eris_hevenfireAI", "de/db6/a13820.html", "de/db6/a13820" ],
+    [ "npc_eris_hevenfire", "d0/d6a/a13816.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "d0/d6a/a13816.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "d0/d6a/a13816.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

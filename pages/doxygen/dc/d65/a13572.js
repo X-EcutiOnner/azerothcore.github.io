@@ -1,6 +1,9 @@
 var a13572 =
 [
-    [ "FilterTargets", "dc/d65/a13572.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "dc/d65/a13572.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "dc/d65/a13572.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "npc_demonic_vapor_trail", "dc/d65/a13572.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "dc/d65/a13572.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "dc/d65/a13572.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "dc/d65/a13572.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "dc/d65/a13572.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "dc/d65/a13572.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

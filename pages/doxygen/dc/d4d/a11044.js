@@ -1,6 +1,7 @@
 var a11044 =
 [
-    [ "PetStopAttack", "dc/d4d/a11044.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "dc/d4d/a11044.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "dc/d4d/a11044.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "TrainerBuySucceeded", "dc/d4d/a11044.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "dc/d4d/a11044.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "dc/d4d/a11044.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "dc/d4d/a11044.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

@@ -1,10 +1,7 @@
 var a27000 =
 [
-    [ "CalculateAmount", "db/d45/a27000.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "db/d45/a27000.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "db/d45/a27000.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "db/d45/a27000.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "db/d45/a27000.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "db/d45/a27000.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "db/d45/a27000.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "HandleProc", "db/d45/a27000.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "db/d45/a27000.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "db/d45/a27000.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "db/d45/a27000.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

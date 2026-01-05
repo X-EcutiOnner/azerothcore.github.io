@@ -1,5 +1,5 @@
 var a09192 =
 [
-    [ "HolesType", "d6/d94/a09192.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "d6/d94/a09192.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "asChar", "d6/d94/a09192.html#a3c1546425a9287498d23753f51e27de2", null ],
+    [ "asUInt", "d6/d94/a09192.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
 ];

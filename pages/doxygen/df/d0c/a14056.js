@@ -1,7 +1,6 @@
 var a14056 =
 [
-    [ "HandleScript", "df/d0c/a14056.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "df/d0c/a14056.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "df/d0c/a14056.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "df/d0c/a14056.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_tapoke_slim_jahnAI", "d9/d6c/a14060.html", "d9/d6c/a14060" ],
+    [ "npc_tapoke_slim_jahn", "df/d0c/a14056.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "df/d0c/a14056.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

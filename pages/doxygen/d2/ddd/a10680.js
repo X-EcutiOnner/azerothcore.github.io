@@ -1,6 +1,7 @@
 var a10680 =
 [
-    [ "GuildEventLogQueryResults", "d2/ddd/a10680.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "d2/ddd/a10680.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "d2/ddd/a10680.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "Flags", "d2/ddd/a10680.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "d2/ddd/a10680.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "d2/ddd/a10680.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "d2/ddd/a10680.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

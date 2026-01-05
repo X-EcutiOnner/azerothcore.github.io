@@ -1,5 +1,6 @@
 var a12328 =
 [
-    [ "at_the_beast_room", "dc/d86/a12328.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "dc/d86/a12328.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_lord_valthalakAI", "d1/d40/a12332.html", "d1/d40/a12332" ],
+    [ "boss_lord_valthalak", "dc/d86/a12328.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "dc/d86/a12328.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

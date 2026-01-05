@@ -1,8 +1,6 @@
 var a17572 =
 [
-    [ "OnApply", "d6/d0f/a17572.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d6/d0f/a17572.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d6/d0f/a17572.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d6/d0f/a17572.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d6/d0f/a17572.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "npc_ball_of_flameAI", "d0/da9/a17576.html", "d0/da9/a17576" ],
+    [ "npc_ball_of_flame", "d6/d0f/a17572.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d6/d0f/a17572.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

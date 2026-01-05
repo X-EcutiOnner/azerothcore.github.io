@@ -1,9 +1,6 @@
 var a18956 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d5/d4b/a18956.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d5/d4b/a18956.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d5/d4b/a18956.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d5/d4b/a18956.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d5/d4b/a18956.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d5/d4b/a18956.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_arthas_teleport_visualAI", "dc/dde/a18960.html", "dc/dde/a18960" ],
+    [ "npc_arthas_teleport_visual", "d5/d4b/a18956.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d5/d4b/a18956.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

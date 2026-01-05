@@ -1,7 +1,8 @@
 var a26032 =
 [
-    [ "HandleEnergize", "d4/dd8/a26032.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "d4/dd8/a26032.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "d4/dd8/a26032.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "d4/dd8/a26032.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "CheckProc", "d4/dd8/a26032.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "d4/dd8/a26032.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "d4/dd8/a26032.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "d4/dd8/a26032.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "d4/dd8/a26032.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

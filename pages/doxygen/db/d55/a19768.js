@@ -1,6 +1,12 @@
 var a19768 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d9/df3/a19772.html", "d9/df3/a19772" ],
-    [ "boss_sjonnir_malformed_ooze", "db/d55/a19768.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "db/d55/a19768.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_ionar", "db/d55/a19768.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "db/d55/a19768.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "db/d55/a19768.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "db/d55/a19768.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "db/d55/a19768.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "db/d55/a19768.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "db/d55/a19768.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "db/d55/a19768.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "db/d55/a19768.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

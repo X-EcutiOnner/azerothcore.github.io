@@ -1,6 +1,13 @@
 var a21276 =
 [
-    [ "boss_palehoofAI", "dc/dac/a21280.html", "dc/dac/a21280" ],
-    [ "boss_palehoof", "da/d86/a21276.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "da/d86/a21276.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "da/d86/a21276.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
+    [ "AttackStart", "da/d86/a21276.html#aed91dafbc50a785875b8b41c5e328d73", null ],
+    [ "DamageTaken", "da/d86/a21276.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
+    [ "EnterEvadeMode", "da/d86/a21276.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
+    [ "OnCharmed", "da/d86/a21276.html#ae268a425326efbea1282ce116ff76e3f", null ],
+    [ "PassengerBoarded", "da/d86/a21276.html#a83409607638100fddd229829ee2bea40", null ],
+    [ "Reset", "da/d86/a21276.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
+    [ "UpdateAI", "da/d86/a21276.html#ac10669fddd193d583ecead8ed37879b3", null ],
+    [ "_spawnedMechanic", "da/d86/a21276.html#a2db3016e32b4e77724fea98d605eaa59", null ],
+    [ "events", "da/d86/a21276.html#ac61064ee3e22b476a35dce4564f65882", null ]
 ];

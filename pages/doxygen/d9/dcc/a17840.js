@@ -1,6 +1,6 @@
 var a17840 =
 [
-    [ "PrepareSpellScript", "d9/dcc/a17840.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d9/dcc/a17840.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d9/dcc/a17840.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_zafod_boomboxAI", "df/dd9/a17844.html", "df/dd9/a17844" ],
+    [ "npc_zafod_boombox", "d9/dcc/a17840.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d9/dcc/a17840.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

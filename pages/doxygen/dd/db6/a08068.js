@@ -1,10 +1,9 @@
 var a08068 =
 [
-    [ "CreatureModel", "dd/db6/a08068.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "dd/db6/a08068.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "dd/db6/a08068.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "dd/db6/a08068.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "dd/db6/a08068.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "dd/db6/a08068.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "dd/db6/a08068.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LFGPlayerScript", "dd/db6/a08068.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "dd/db6/a08068.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "dd/db6/a08068.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "dd/db6/a08068.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "dd/db6/a08068.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "dd/db6/a08068.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

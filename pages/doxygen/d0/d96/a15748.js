@@ -1,6 +1,6 @@
 var a15748 =
 [
-    [ "npc_anachronos_quest_triggerAI", "dd/d49/a15752.html", "dd/d49/a15752" ],
-    [ "npc_anachronos_quest_trigger", "d0/d96/a15748.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d0/d96/a15748.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "HandleDummy", "d0/d96/a15748.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "d0/d96/a15748.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d0/d96/a15748.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

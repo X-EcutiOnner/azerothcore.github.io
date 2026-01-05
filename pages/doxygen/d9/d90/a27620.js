@@ -1,8 +1,5 @@
 var a27620 =
 [
-    [ "trigger_periodicAI", "d9/d90/a27620.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d9/d90/a27620.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d9/d90/a27620.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d9/d90/a27620.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d9/d90/a27620.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "go_arcane_prison", "d9/d90/a27620.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d9/d90/a27620.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

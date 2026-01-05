@@ -1,9 +1,7 @@
 var a08908 =
 [
-    [ "CreatureSearcher", "d7/d5e/a08908.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "d7/d5e/a08908.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "d7/d5e/a08908.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "d7/d5e/a08908.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "d7/d5e/a08908.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "d7/d5e/a08908.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "EquipementIdPrev", "d7/d5e/a08908.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d7/d5e/a08908.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d7/d5e/a08908.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d7/d5e/a08908.html#a9de7aa11788b22692738b72718193057", null ]
 ];

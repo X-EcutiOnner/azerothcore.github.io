@@ -1,6 +1,6 @@
 var a18180 =
 [
-    [ "CheckTarget", "dd/da6/a18180.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "dd/da6/a18180.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "dd/da6/a18180.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "HandlePeriodic", "dd/da6/a18180.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "dd/da6/a18180.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "dd/da6/a18180.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

@@ -1,7 +1,6 @@
 var a22088 =
 [
-    [ "HandleScriptEffect", "d0/dea/a22088.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d0/dea/a22088.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d0/dea/a22088.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d0/dea/a22088.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d9/d0f/a22092.html", "d9/d0f/a22092" ],
+    [ "npc_commander_eligor_dawnbringer", "d0/dea/a22088.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d0/dea/a22088.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

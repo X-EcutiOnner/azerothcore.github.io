@@ -1,6 +1,6 @@
 var a13540 =
 [
-    [ "CastArmageddon", "d6/d73/a13540.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "d6/d73/a13540.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "d6/d73/a13540.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "FilterTargets", "d6/d73/a13540.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d6/d73/a13540.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d6/d73/a13540.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

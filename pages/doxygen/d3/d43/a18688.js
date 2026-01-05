@@ -1,7 +1,6 @@
 var a18688 =
 [
-    [ "npc_blazing_skeletonAI", "d3/d43/a18688.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d3/d43/a18688.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d3/d43/a18688.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d3/d43/a18688.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "ActivateSpirit", "d3/d43/a18688.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d3/d43/a18688.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d3/d43/a18688.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

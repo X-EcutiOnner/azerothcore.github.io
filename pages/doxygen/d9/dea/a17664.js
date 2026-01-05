@@ -1,7 +1,8 @@
 var a17664 =
 [
-    [ "npc_icc_blood_beastAI", "d9/dea/a17664.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d9/dea/a17664.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d9/dea/a17664.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d9/dea/a17664.html#a1074059162f818088808795119f081be", null ]
+    [ "OnApply", "d9/dea/a17664.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d9/dea/a17664.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d9/dea/a17664.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d9/dea/a17664.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d9/dea/a17664.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

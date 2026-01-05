@@ -1,6 +1,9 @@
 var a27428 =
 [
-    [ "go_bear_trapAI", "d4/de3/a27432.html", "d4/de3/a27432" ],
-    [ "go_bear_trap", "d5/db2/a27428.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d5/db2/a27428.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "boss_lethonAI", "d5/db2/a27428.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d5/db2/a27428.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d5/db2/a27428.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d5/db2/a27428.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d5/db2/a27428.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d5/db2/a27428.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

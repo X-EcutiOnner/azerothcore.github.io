@@ -1,6 +1,11 @@
 var a24492 =
 [
-    [ "npc_slim", "d7/de9/a24492.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d7/de9/a24492.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d7/de9/a24492.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d7/de9/a24492.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "d7/de9/a24492.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "d7/de9/a24492.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "d7/de9/a24492.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "d7/de9/a24492.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "d7/de9/a24492.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "d7/de9/a24492.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "d7/de9/a24492.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

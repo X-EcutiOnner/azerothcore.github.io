@@ -1,5 +1,6 @@
 var a20264 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d2/dcc/a20264.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d2/dcc/a20264.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "boss_freya_elder_stonebarkAI", "d7/dfd/a20268.html", "d7/dfd/a20268" ],
+    [ "boss_freya_elder_stonebark", "d2/dcc/a20264.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d2/dcc/a20264.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

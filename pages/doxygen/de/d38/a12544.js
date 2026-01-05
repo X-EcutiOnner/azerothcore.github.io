@@ -1,7 +1,6 @@
 var a12544 =
 [
-    [ "HandleEffectScriptEffect", "de/d38/a12544.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "de/d38/a12544.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "de/d38/a12544.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "de/d38/a12544.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "boss_victor_nefariusAI", "dd/d28/a12548.html", "dd/d28/a12548" ],
+    [ "boss_victor_nefarius", "de/d38/a12544.html#a85c529c49a0373a553bc59818fb18f49", null ],
+    [ "GetAI", "de/d38/a12544.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
 ];

@@ -1,9 +1,12 @@
 var a17176 =
 [
-    [ "FilterTargets", "d3/df8/a17176.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d3/df8/a17176.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d3/df8/a17176.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d3/df8/a17176.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d3/df8/a17176.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d3/df8/a17176.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_tortured_riflemanAI", "d3/df8/a17176.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d3/df8/a17176.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d3/df8/a17176.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d3/df8/a17176.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d3/df8/a17176.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d3/df8/a17176.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d3/df8/a17176.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d3/df8/a17176.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d3/df8/a17176.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

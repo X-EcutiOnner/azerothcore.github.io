@@ -1,5 +1,6 @@
 var a03284 =
 [
-    [ "HandleLearnSpellCommand", "d6/d25/a03284.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d6/d25/a03284.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "bg_commandscript", "d9/d03/a11852.html", "d9/d03/a11852" ],
+    [ "AddSC_bag_commandscript", "d6/d25/a03284.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "d6/d25/a03284.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

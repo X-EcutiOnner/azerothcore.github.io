@@ -1,7 +1,10 @@
 var a14456 =
 [
-    [ "PeriodicTick", "d9/d4a/a14456.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d9/d4a/a14456.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d9/d4a/a14456.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d9/d4a/a14456.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_brewfest_super_brew_trigger", "d9/d4a/a14456.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d9/d4a/a14456.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d9/d4a/a14456.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d9/d4a/a14456.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d9/d4a/a14456.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d9/d4a/a14456.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d9/d4a/a14456.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

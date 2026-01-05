@@ -1,12 +1,8 @@
 var a27664 =
 [
-    [ "npc_preciousAI", "de/df3/a27664.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "de/df3/a27664.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "de/df3/a27664.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "de/df3/a27664.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "de/df3/a27664.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "de/df3/a27664.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "de/df3/a27664.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "de/df3/a27664.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "de/df3/a27664.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "go_bellsAI", "de/df3/a27664.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "de/df3/a27664.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "de/df3/a27664.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "de/df3/a27664.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "de/df3/a27664.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

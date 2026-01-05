@@ -1,16 +1,11 @@
 var a19924 =
 [
-    [ "boss_steelbreakerAI", "d4/d90/a19924.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
-    [ "DoAction", "d4/d90/a19924.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
-    [ "JustDied", "d4/d90/a19924.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
-    [ "JustEngagedWith", "d4/d90/a19924.html#a0f207b2a274c7266f6882205e510f346", null ],
-    [ "JustReachedHome", "d4/d90/a19924.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
-    [ "KilledUnit", "d4/d90/a19924.html#a5a0a92144412259bfa02abc04bdc4425", null ],
-    [ "Reset", "d4/d90/a19924.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
-    [ "SpellHit", "d4/d90/a19924.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
-    [ "UpdateAI", "d4/d90/a19924.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
-    [ "UpdatePhase", "d4/d90/a19924.html#af217acbeab5032b8a16180f4ff021e0a", null ],
-    [ "_phase", "d4/d90/a19924.html#ae71145ec4a82d1f024892181daebace9", null ],
-    [ "events", "d4/d90/a19924.html#a8085a615ff5d252452616ef69dfd3249", null ],
-    [ "pInstance", "d4/d90/a19924.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
+    [ "npc_living_constellationAI", "d4/d90/a19924.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
+    [ "DoAction", "d4/d90/a19924.html#acdc93a7dc3019940d730fa20d115a929", null ],
+    [ "GetData", "d4/d90/a19924.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
+    [ "Reset", "d4/d90/a19924.html#a664b03bdaea184ab8dd8298ed9952790", null ],
+    [ "SpellHit", "d4/d90/a19924.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
+    [ "UpdateAI", "d4/d90/a19924.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
+    [ "_isActive", "d4/d90/a19924.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
+    [ "events", "d4/d90/a19924.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
 ];

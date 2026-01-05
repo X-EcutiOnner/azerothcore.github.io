@@ -1,10 +1,15 @@
 var a04022 =
 [
-    [ "MySQLConnectionInfo", "da/d30/a05811.html", "da/d30/a05811" ],
-    [ "MySQLConnection", "d2/df9/a05815.html", "d2/df9/a05815" ],
-    [ "ConnectionFlags", "dc/d86/a04022.html#a008b1c9a9206a70569b89aea01ac321f", [
-      [ "CONNECTION_ASYNC", "dc/d86/a04022.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
-      [ "CONNECTION_SYNCH", "dc/d86/a04022.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
-      [ "CONNECTION_BOTH", "dc/d86/a04022.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
-    ] ]
+    [ "MySQLType< T >", "d7/d68/a05848.html", null ],
+    [ "MySQLType< uint8 >", "df/d3a/a05852.html", null ],
+    [ "MySQLType< uint16 >", "d8/dad/a05856.html", null ],
+    [ "MySQLType< uint32 >", "d8/d7d/a05860.html", null ],
+    [ "MySQLType< uint64 >", "db/d49/a05864.html", null ],
+    [ "MySQLType< int8 >", "da/d96/a05868.html", null ],
+    [ "MySQLType< int16 >", "d8/d73/a05872.html", null ],
+    [ "MySQLType< int32 >", "db/d0d/a05876.html", null ],
+    [ "MySQLType< int64 >", "d6/d45/a05880.html", null ],
+    [ "MySQLType< float >", "d0/d83/a05884.html", null ],
+    [ "MySQLType< double >", "d6/dd1/a05888.html", null ],
+    [ "ParamenterIndexAssertFail", "dc/d86/a04022.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

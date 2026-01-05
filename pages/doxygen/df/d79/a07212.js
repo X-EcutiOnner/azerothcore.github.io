@@ -1,7 +1,7 @@
 var a07212 =
 [
-    [ "BfGraveyardWG", "df/d79/a07212.html#a040af569e6633e4ed4c7513b55d034ac", null ],
-    [ "GetTextId", "df/d79/a07212.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
-    [ "SetTextId", "df/d79/a07212.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
-    [ "m_GossipTextId", "df/d79/a07212.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
+    [ "AuctionSearchUpdateBid", "df/d79/a07212.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "df/d79/a07212.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "df/d79/a07212.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "df/d79/a07212.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

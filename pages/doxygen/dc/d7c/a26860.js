@@ -1,9 +1,10 @@
 var a26860 =
 [
-    [ "CalculateAmount", "dc/d7c/a26860.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "dc/d7c/a26860.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "dc/d7c/a26860.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "dc/d7c/a26860.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "dc/d7c/a26860.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "dc/d7c/a26860.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "CheckProc", "dc/d7c/a26860.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "dc/d7c/a26860.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "dc/d7c/a26860.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "dc/d7c/a26860.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "dc/d7c/a26860.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "dc/d7c/a26860.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "dc/d7c/a26860.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

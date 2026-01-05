@@ -1,6 +1,7 @@
 var a20020 =
 [
-    [ "boss_flame_leviathan_seatAI", "db/dfa/a20024.html", "db/dfa/a20024" ],
-    [ "boss_flame_leviathan_seat", "de/d1e/a20020.html#a0fc90640a5142d889f1c043270582a16", null ],
-    [ "GetAI", "de/d1e/a20020.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
+    [ "OnRemove", "de/d1e/a20020.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "de/d1e/a20020.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "de/d1e/a20020.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "de/d1e/a20020.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

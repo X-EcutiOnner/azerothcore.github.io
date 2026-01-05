@@ -1,11 +1,13 @@
 var a13444 =
 [
-    [ "boss_alythess", "dc/dac/a13444.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "dc/dac/a13444.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "dc/dac/a13444.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "dc/dac/a13444.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "dc/dac/a13444.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "dc/dac/a13444.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "dc/dac/a13444.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "dc/dac/a13444.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dc/dac/a13444.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "dc/dac/a13444.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "dc/dac/a13444.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "dc/dac/a13444.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "dc/dac/a13444.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "dc/dac/a13444.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "dc/dac/a13444.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "dc/dac/a13444.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "dc/dac/a13444.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "dc/dac/a13444.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

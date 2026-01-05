@@ -1,7 +1,9 @@
 var a28724 =
 [
-    [ "RealmHandle", "d6/d5f/a28724.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d6/d5f/a28724.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d6/d5f/a28724.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d6/d5f/a28724.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "Category", "d6/d5f/a28724.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d6/d5f/a28724.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d6/d5f/a28724.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d6/d5f/a28724.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d6/d5f/a28724.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d6/d5f/a28724.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

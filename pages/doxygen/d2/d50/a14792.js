@@ -1,7 +1,8 @@
 var a14792 =
 [
-    [ "HandleOnHit", "d2/d50/a14792.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d2/d50/a14792.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d2/d50/a14792.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d2/d50/a14792.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "CheckCast", "d2/d50/a14792.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d2/d50/a14792.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d2/d50/a14792.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d2/d50/a14792.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d2/d50/a14792.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

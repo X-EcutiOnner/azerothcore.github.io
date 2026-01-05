@@ -1,6 +1,8 @@
 var a25016 =
 [
-    [ "CheckAreaTarget", "db/dca/a25016.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "db/dca/a25016.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "db/dca/a25016.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "AfterApply", "db/dca/a25016.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "db/dca/a25016.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "db/dca/a25016.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "db/dca/a25016.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "db/dca/a25016.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

@@ -1,6 +1,9 @@
 var a20952 =
 [
-    [ "x", "d9/d71/a20952.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d9/d71/a20952.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d9/d71/a20952.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_xt002_scrapbotAI", "d9/d71/a20952.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
+    [ "JustDied", "d9/d71/a20952.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
+    [ "MovementInform", "d9/d71/a20952.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
+    [ "Reset", "d9/d71/a20952.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
+    [ "UpdateAI", "d9/d71/a20952.html#ae2de6767f8ab502833971e4171d48c13", null ],
+    [ "_locked", "d9/d71/a20952.html#add3bfe992d635629ac7e07e04c4334c9", null ]
 ];

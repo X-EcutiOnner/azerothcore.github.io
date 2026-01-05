@@ -1,6 +1,10 @@
 var a23972 =
 [
-    [ "npc_capernian", "d3/d66/a23972.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d3/d66/a23972.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d3/d66/a23972.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d3/d66/a23972.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d3/d66/a23972.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d3/d66/a23972.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d3/d66/a23972.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d3/d66/a23972.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d3/d66/a23972.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d3/d66/a23972.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

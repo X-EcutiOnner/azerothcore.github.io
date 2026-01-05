@@ -1,8 +1,7 @@
 var a27012 =
 [
-    [ "CheckProc", "df/d8c/a27012.html#afcda3b112699e108e2db6270836fce1b", null ],
-    [ "OnProc", "df/d8c/a27012.html#ab953f817368120933828d6b3e5e200c0", null ],
-    [ "PrepareAuraScript", "df/d8c/a27012.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
-    [ "Register", "df/d8c/a27012.html#abfdd5179215432a3e89ea7b498d49867", null ],
-    [ "Validate", "df/d8c/a27012.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
+    [ "HandleEffectProc", "df/d8c/a27012.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "df/d8c/a27012.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "df/d8c/a27012.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "df/d8c/a27012.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

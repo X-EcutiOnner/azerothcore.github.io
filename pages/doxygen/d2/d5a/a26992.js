@@ -1,6 +1,7 @@
 var a26992 =
 [
-    [ "HandleDummy", "d2/d5a/a26992.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "d2/d5a/a26992.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "d2/d5a/a26992.html#a27aece218c848064ae387491f9176099", null ]
+    [ "HandleDummy", "d2/d5a/a26992.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "d2/d5a/a26992.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "d2/d5a/a26992.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "d2/d5a/a26992.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

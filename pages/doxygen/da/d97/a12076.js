@@ -1,17 +1,12 @@
 var a12076 =
 [
-    [ "boss_ambassador_flamelashAI", "da/d97/a12076.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
-    [ "DoAction", "da/d97/a12076.html#a6466b6b4a275849a813a362ef6b1d518", null ],
-    [ "getValidRandomPosition", "da/d97/a12076.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
-    [ "JustDied", "da/d97/a12076.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
-    [ "JustEngagedWith", "da/d97/a12076.html#a79138cf6c886c843544b948778f91145", null ],
-    [ "JustSummoned", "da/d97/a12076.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
-    [ "Reset", "da/d97/a12076.html#ae2dd71a0edfc489645de130a8b731392", null ],
-    [ "SummonSpirits", "da/d97/a12076.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
-    [ "TurnRunes", "da/d97/a12076.html#aefcdf4c5b663671fb96395e280141bbb", null ],
-    [ "UpdateAI", "da/d97/a12076.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
-    [ "_events", "da/d97/a12076.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
-    [ "foundValidPosition", "da/d97/a12076.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
-    [ "summons", "da/d97/a12076.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
-    [ "validPosition", "da/d97/a12076.html#af11a0cddced13c34a012c8df964ab68a", null ]
+    [ "npc_av_marshal_or_warmasterAI", "da/d97/a12076.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "da/d97/a12076.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "da/d97/a12076.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "da/d97/a12076.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "da/d97/a12076.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "da/d97/a12076.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "da/d97/a12076.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "da/d97/a12076.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "da/d97/a12076.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

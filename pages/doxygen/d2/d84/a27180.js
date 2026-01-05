@@ -1,6 +1,6 @@
 var a27180 =
 [
-    [ "HandleOnHit", "d2/d84/a27180.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d2/d84/a27180.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d2/d84/a27180.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleOnHit", "d2/d84/a27180.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "d2/d84/a27180.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "d2/d84/a27180.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

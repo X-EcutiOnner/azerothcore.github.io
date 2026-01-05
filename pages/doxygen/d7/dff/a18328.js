@@ -1,8 +1,6 @@
 var a18328 =
 [
-    [ "FilterTargets", "d7/dff/a18328.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d7/dff/a18328.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d7/dff/a18328.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d7/dff/a18328.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d7/dff/a18328.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "FilterTargets", "d7/dff/a18328.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "d7/dff/a18328.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "d7/dff/a18328.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

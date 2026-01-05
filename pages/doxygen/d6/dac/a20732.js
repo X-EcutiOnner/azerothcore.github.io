@@ -1,8 +1,6 @@
 var a20732 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d6/dac/a20732.html#aedb43124c923621aadecb77511204fc6", null ],
-    [ "CanAIAttack", "d6/dac/a20732.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
-    [ "Reset", "d6/dac/a20732.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
-    [ "UpdateAI", "d6/dac/a20732.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
-    [ "timer2", "d6/dac/a20732.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "da/d22/a20736.html", "da/d22/a20736" ],
+    [ "npc_ulduar_rocket_strike_trigger", "d6/dac/a20732.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
+    [ "GetAI", "d6/dac/a20732.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
 ];

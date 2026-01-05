@@ -1,6 +1,6 @@
 var a17332 =
 [
-    [ "boss_drakkari_colossusAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
-    [ "boss_drakkari_colossus", "d1/dad/a17332.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "d1/dad/a17332.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "npc_pos_after_first_bossAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
+    [ "npc_pos_after_first_boss", "d1/dad/a17332.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "d1/dad/a17332.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

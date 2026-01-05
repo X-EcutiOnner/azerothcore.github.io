@@ -1,7 +1,7 @@
 var a14048 =
 [
-    [ "npc_zuljin_vortex", "d9/dc8/a14048.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "d9/dc8/a14048.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "d9/dc8/a14048.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "d9/dc8/a14048.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "npc_daphne_stilwellAI", "d6/de7/a14052.html", "d6/de7/a14052" ],
+    [ "npc_daphne_stilwell", "d9/dc8/a14048.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d9/dc8/a14048.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d9/dc8/a14048.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

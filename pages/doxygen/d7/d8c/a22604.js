@@ -1,6 +1,7 @@
 var a22604 =
 [
-    [ "npc_released_offspring_harkoaAI", "d7/d8c/a22604.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d7/d8c/a22604.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d7/d8c/a22604.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_wg_quest_giver", "d7/d8c/a22604.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d7/d8c/a22604.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d7/d8c/a22604.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d7/d8c/a22604.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

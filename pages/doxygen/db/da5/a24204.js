@@ -1,6 +1,6 @@
 var a24204 =
 [
-    [ "go_beaconAI", "db/da5/a24204.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "db/da5/a24204.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "db/da5/a24204.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_deaths_fel_cannonAI", "db/da5/a24204.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "db/da5/a24204.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "db/da5/a24204.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

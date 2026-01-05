@@ -1,7 +1,13 @@
 var a27260 =
 [
-    [ "CharacterDeleteActionIpLogger", "d3/d05/a27260.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d3/d05/a27260.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d3/d05/a27260.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d3/d05/a27260.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "CheckProc", "d3/d05/a27260.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
+    [ "HandleAfterApply", "d3/d05/a27260.html#ac3c12801bde3bd259b573eeca6dc4d5b", null ],
+    [ "HandleApply", "d3/d05/a27260.html#aaa07858f0604965fad5c1189125a822b", null ],
+    [ "HandleProc", "d3/d05/a27260.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
+    [ "HandleRemove", "d3/d05/a27260.html#a3da984d172878110b77549b51409d7e0", null ],
+    [ "Load", "d3/d05/a27260.html#a644aaf343b41f049f34ff7387c613bf1", null ],
+    [ "PrepareAuraScript", "d3/d05/a27260.html#aea23ff608c74017d98edcc146d3ba35a", null ],
+    [ "Register", "d3/d05/a27260.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
+    [ "Validate", "d3/d05/a27260.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
+    [ "_procTarget", "d3/d05/a27260.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
 ];

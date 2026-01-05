@@ -1,7 +1,7 @@
 var a13620 =
 [
-    [ "npc_singularity", "d0/dd7/a13620.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "d0/dd7/a13620.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "d0/dd7/a13620.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "d0/dd7/a13620.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "OnRemove", "d0/dd7/a13620.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d0/dd7/a13620.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d0/dd7/a13620.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d0/dd7/a13620.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

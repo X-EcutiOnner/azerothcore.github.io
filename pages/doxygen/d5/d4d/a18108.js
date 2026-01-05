@@ -1,7 +1,6 @@
 var a18108 =
 [
-    [ "HandleSummon", "d5/d4d/a18108.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d5/d4d/a18108.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d5/d4d/a18108.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d5/d4d/a18108.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "MalleableGooSelector", "d5/d4d/a18108.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d5/d4d/a18108.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d5/d4d/a18108.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

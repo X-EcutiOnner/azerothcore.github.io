@@ -1,6 +1,5 @@
 var a20624 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d1/dad/a20628.html", "d1/dad/a20628" ],
-    [ "npc_ulduar_bot_summon_trigger", "da/d24/a20624.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
-    [ "GetAI", "da/d24/a20624.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
+    [ "achievement_kologarn_with_open_arms", "da/d24/a20624.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "da/d24/a20624.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

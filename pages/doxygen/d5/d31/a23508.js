@@ -1,5 +1,9 @@
 var a23508 =
 [
-    [ "at_quagmirran_lair", "d5/d31/a23508.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d5/d31/a23508.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "CalcPeriodic", "d5/d31/a23508.html#a4c5a034d23253b2cf08cb86f12821184", null ],
+    [ "HandleEffectApply", "d5/d31/a23508.html#af60491946062054504b20e16273ed594", null ],
+    [ "HandleEffectRemove", "d5/d31/a23508.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d5/d31/a23508.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d5/d31/a23508.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d5/d31/a23508.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

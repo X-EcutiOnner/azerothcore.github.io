@@ -1,8 +1,6 @@
 var a20124 =
 [
-    [ "FilterTargets", "d3/d05/a20124.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d3/d05/a20124.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d3/d05/a20124.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d3/d05/a20124.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d3/d05/a20124.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_mimirons_infernoAI", "de/d8f/a20128.html", "de/d8f/a20128" ],
+    [ "npc_mimirons_inferno", "d3/d05/a20124.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "d3/d05/a20124.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

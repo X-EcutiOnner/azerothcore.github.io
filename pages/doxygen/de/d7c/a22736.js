@@ -1,18 +1,13 @@
 var a22736 =
 [
-    [ "OutdoorPvPZM", "de/d7c/a22736.html#a8351867658985b66dd97f39e68c16b94", null ],
-    [ "FillInitialWorldStates", "de/d7c/a22736.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
-    [ "GetAllianceTowersControlled", "de/d7c/a22736.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
-    [ "GetHordeTowersControlled", "de/d7c/a22736.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
-    [ "HandleKillImpl", "de/d7c/a22736.html#a6cd61b99305a2838261e36652fda42b1", null ],
-    [ "HandlePlayerEnterZone", "de/d7c/a22736.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
-    [ "HandlePlayerLeaveZone", "de/d7c/a22736.html#a93105e3229db7798ad882fc7e538b250", null ],
-    [ "SendRemoveWorldStates", "de/d7c/a22736.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
-    [ "SetAllianceTowersControlled", "de/d7c/a22736.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
-    [ "SetHordeTowersControlled", "de/d7c/a22736.html#a27239875476bbce8ff18b30cdfe6815b", null ],
-    [ "SetupOutdoorPvP", "de/d7c/a22736.html#a7e71d2c2480da1a2d155981999201b99", null ],
-    [ "Update", "de/d7c/a22736.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
-    [ "m_AllianceTowersControlled", "de/d7c/a22736.html#aff4124f54572e0812c39562fbc6390c3", null ],
-    [ "m_Graveyard", "de/d7c/a22736.html#a9842f1c5de04af4db3e0397839de7765", null ],
-    [ "m_HordeTowersControlled", "de/d7c/a22736.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
+    [ "OPvPCapturePointEP_CGT", "de/d7c/a22736.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "de/d7c/a22736.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "de/d7c/a22736.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "de/d7c/a22736.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "de/d7c/a22736.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "de/d7c/a22736.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "de/d7c/a22736.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "de/d7c/a22736.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "de/d7c/a22736.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "de/d7c/a22736.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

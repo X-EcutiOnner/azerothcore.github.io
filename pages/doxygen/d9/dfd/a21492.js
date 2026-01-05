@@ -1,6 +1,7 @@
 var a21492 =
 [
-    [ "boss_ichoronAI", "d7/d19/a21496.html", "d7/d19/a21496" ],
-    [ "boss_ichoron", "d9/dfd/a21492.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d9/dfd/a21492.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "PrepareAuraScript", "d9/dfd/a21492.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "d9/dfd/a21492.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "d9/dfd/a21492.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "d9/dfd/a21492.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

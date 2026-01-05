@@ -1,13 +1,8 @@
 var a19548 =
 [
-    [ "npc_crystalline_frayer", "db/db7/a19548.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "db/db7/a19548.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "db/db7/a19548.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "JustEngagedWith", "db/db7/a19548.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "Reset", "db/db7/a19548.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "db/db7/a19548.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "db/db7/a19548.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "abilityTimer1", "db/db7/a19548.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
-    [ "abilityTimer2", "db/db7/a19548.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
-    [ "restoreTimer", "db/db7/a19548.html#a5ab2990b41f485417af6272194035fc3", null ]
+    [ "npc_alexstraszaAI", "db/db7/a19548.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "db/db7/a19548.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "db/db7/a19548.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "db/db7/a19548.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "db/db7/a19548.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

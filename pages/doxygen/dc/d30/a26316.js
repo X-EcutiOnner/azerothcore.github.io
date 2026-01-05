@@ -1,6 +1,7 @@
 var a26316 =
 [
-    [ "CheckTarget", "dc/d30/a26316.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "dc/d30/a26316.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "dc/d30/a26316.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "CalculateAmount", "dc/d30/a26316.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "dc/d30/a26316.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "dc/d30/a26316.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "dc/d30/a26316.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

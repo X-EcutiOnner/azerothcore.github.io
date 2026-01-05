@@ -1,15 +1,9 @@
 var a10020 =
 [
-    [ "HomeMovementGenerator", "d8/d83/a10020.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "d8/d83/a10020.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "d8/d83/a10020.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "d8/d83/a10020.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "d8/d83/a10020.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "d8/d83/a10020.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "d8/d83/a10020.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "d8/d83/a10020.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "d8/d83/a10020.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "d8/d83/a10020.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "d8/d83/a10020.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "d8/d83/a10020.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "ChaseAngle", "d8/d83/a10020.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d8/d83/a10020.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d8/d83/a10020.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d8/d83/a10020.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d8/d83/a10020.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d8/d83/a10020.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

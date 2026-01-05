@@ -1,9 +1,7 @@
 var a25824 =
 [
-    [ "spell_item_trigger_spell", "df/da1/a25824.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "df/da1/a25824.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "df/da1/a25824.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "df/da1/a25824.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "df/da1/a25824.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "df/da1/a25824.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "HandleDummy", "df/da1/a25824.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "df/da1/a25824.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "df/da1/a25824.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "df/da1/a25824.html#ab4031ddb745995128854c149f7706045", null ]
 ];

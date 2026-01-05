@@ -1,9 +1,8 @@
 var a10916 =
 [
-    [ "LevelUpInfo", "d0/dce/a10916.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d0/dce/a10916.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d0/dce/a10916.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d0/dce/a10916.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d0/dce/a10916.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d0/dce/a10916.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "AutoStoreBagItem", "d0/dce/a10916.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d0/dce/a10916.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d0/dce/a10916.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d0/dce/a10916.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d0/dce/a10916.html#a517202ccb270d78289630404beb61afc", null ]
 ];

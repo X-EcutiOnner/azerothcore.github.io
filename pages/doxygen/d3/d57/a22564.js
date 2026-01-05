@@ -1,5 +1,6 @@
 var a22564 =
 [
-    [ "achievement_wg_within_our_grasp", "d3/d57/a22564.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d3/d57/a22564.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "HandleDamage", "d3/d57/a22564.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d3/d57/a22564.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d3/d57/a22564.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

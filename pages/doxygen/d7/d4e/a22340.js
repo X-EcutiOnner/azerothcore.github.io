@@ -1,6 +1,6 @@
 var a22340 =
 [
-    [ "npc_avatar_of_freya", "d7/d4e/a22340.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d7/d4e/a22340.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d7/d4e/a22340.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "ChangeSummonPos", "d7/d4e/a22340.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d7/d4e/a22340.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d7/d4e/a22340.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

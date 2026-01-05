@@ -1,6 +1,6 @@
 var a23340 =
 [
-    [ "HandleDummy", "d9/d70/a23340.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d9/d70/a23340.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d9/d70/a23340.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "boss_doomlordkazzakAI", "df/d90/a23344.html", "df/d90/a23344" ],
+    [ "boss_doomlord_kazzak", "d9/d70/a23340.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d9/d70/a23340.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

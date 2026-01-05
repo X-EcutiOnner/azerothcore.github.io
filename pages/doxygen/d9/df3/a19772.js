@@ -1,9 +1,12 @@
 var a19772 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d9/df3/a19772.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d9/df3/a19772.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d9/df3/a19772.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d9/df3/a19772.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d9/df3/a19772.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d9/df3/a19772.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "npc_spark_of_ionar", "d9/df3/a19772.html#a93df0828e409a44008257294855f8d7a", null ],
+    [ "AttackStart", "d9/df3/a19772.html#a36181ef97213713c104edf4b085bc46e", null ],
+    [ "DamageTaken", "d9/df3/a19772.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
+    [ "DoAction", "d9/df3/a19772.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
+    [ "MoveInLineOfSight", "d9/df3/a19772.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
+    [ "Reset", "d9/df3/a19772.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
+    [ "UpdateAI", "d9/df3/a19772.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "d9/df3/a19772.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
+    [ "returning", "d9/df3/a19772.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

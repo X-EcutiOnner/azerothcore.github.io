@@ -1,11 +1,11 @@
 var a05056 =
 [
-    [ "material", "d2/d9d/a05056.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d2/d9d/a05056.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d2/d9d/a05056.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d2/d9d/a05056.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d2/d9d/a05056.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d2/d9d/a05056.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d2/d9d/a05056.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d2/d9d/a05056.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "MmapTileHeader", "d2/d9d/a05056.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "d2/d9d/a05056.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "d2/d9d/a05056.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "d2/d9d/a05056.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "d2/d9d/a05056.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "recastConfig", "d2/d9d/a05056.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
+    [ "size", "d2/d9d/a05056.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "d2/d9d/a05056.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

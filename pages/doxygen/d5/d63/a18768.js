@@ -1,6 +1,6 @@
 var a18768 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d2/d5b/a18772.html", "d2/d5b/a18772" ],
-    [ "npc_highlord_tirion_fordring_lh", "d5/d63/a18768.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d5/d63/a18768.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "npc_valithria_cloudAI", "d2/d5b/a18772.html", "d2/d5b/a18772" ],
+    [ "npc_valithria_cloud", "d5/d63/a18768.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "d5/d63/a18768.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

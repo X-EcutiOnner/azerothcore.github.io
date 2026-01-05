@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_orgrimmar.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_stonetalon_mountains.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,205 +106,209 @@ $(document).ready(function(){initNavTree('d1/d2e/a02537.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">zone_orgrimmar.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">zone_stonetalon_mountains.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a15771.html">npc_shenthul</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a15856.html">npc_braug_dimspirit</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d47/a15775.html">npc_shenthul::npc_shenthulAI</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d76/a15860.html">npc_kaya_flathoof</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/da9/a15779.html">npc_thrall_warchief</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d94/a15864.html">npc_kaya_flathoof::npc_kaya_flathoofAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d01/a15783.html">npc_thrall_warchief::npc_thrall_warchiefAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a487e562e5e99ccd61aa7e93289874033"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a487e562e5e99ccd61aa7e93289874033">GOSSIP_HBD1</a>&#160;&#160;&#160;&quot;Ysera&quot;</td></tr>
+<tr class="separator:a487e562e5e99ccd61aa7e93289874033"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc43152833884ed78e5debdaaf5d500d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#adc43152833884ed78e5debdaaf5d500d">GOSSIP_HBD2</a>&#160;&#160;&#160;&quot;Neltharion&quot;</td></tr>
+<tr class="separator:adc43152833884ed78e5debdaaf5d500d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aced35316178914dd542d4750f8bbb6cf"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#aced35316178914dd542d4750f8bbb6cf">GOSSIP_HBD3</a>&#160;&#160;&#160;&quot;Nozdormu&quot;</td></tr>
+<tr class="separator:aced35316178914dd542d4750f8bbb6cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a182f8c24fa1421c6a7c68e289491400e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a182f8c24fa1421c6a7c68e289491400e">GOSSIP_HBD4</a>&#160;&#160;&#160;&quot;Alexstrasza&quot;</td></tr>
+<tr class="separator:a182f8c24fa1421c6a7c68e289491400e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34cc0e8072e5c86b2dd23a03fbc8f024"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a34cc0e8072e5c86b2dd23a03fbc8f024">GOSSIP_HBD5</a>&#160;&#160;&#160;&quot;Malygos&quot;</td></tr>
+<tr class="separator:a34cc0e8072e5c86b2dd23a03fbc8f024"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a032512bb2693fda342f4d77dba794fbe"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a032512bb2693fda342f4d77dba794fbe">Shenthul</a> : uint32 { <a class="el" href="../../d1/d2e/a02537.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0">QUEST_SHATTERED_SALUTE</a> = 2460
- }</td></tr>
-<tr class="separator:a032512bb2693fda342f4d77dba794fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cdad3bda3b93500c342a64dce6d15d9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9">ThrallWarchief</a> : uint32 { <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a> = 16033
+<tr class="memitem:ab10ce9d7e7d19709d0e99ef45b935f15"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15">Kaya</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f">FACTION_ESCORTEE_H</a> = 775
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab">SPELL_SHOCK</a> = 16034
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f">NPC_GRIMTOTEM_RUFFIAN</a> = 11910
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af">QUEST_FOR_THE_HORDE</a> = 4974
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967">NPC_GRIMTOTEM_BRUTE</a> = 11912
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225">SPELL_WARCHIEF_BLESSING</a> = 16609
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6">NPC_GRIMTOTEM_SORCERER</a> = 11913
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc">NPC_HERALD_OF_THRALL</a> = 10719
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239">SAY_START</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd">ACTION_START_TALKING</a> = 0
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e">SAY_AMBUSH</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b">SAY_THRALL_ON_QUEST_REWARD_0</a> = 0
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97">SAY_END</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302">SAY_THRALL_ON_QUEST_REWARD_1</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153">GO_UNADORNED_SPIKE</a> = 175787
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287">QUEST_WHAT_THE_WIND_CARRIES</a> = 6566
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86">GOSSIP_MENU_THRALL</a> = 3664
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d">GOSSIP_RESPONSE_THRALL_FIRST</a> = 5733
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047">QUEST_WARCHIEFS_BLESSING</a> = 13189
+&#160;&#160;<a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6">QUEST_PROTECT_KAYA</a> = 6523
 <br />
  }</td></tr>
-<tr class="separator:a1cdad3bda3b93500c342a64dce6d15d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ab10ce9d7e7d19709d0e99ef45b935f15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aec4388ea6d2e4bbc1d279b3a4687c4c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#aec4388ea6d2e4bbc1d279b3a4687c4c6">AddSC_orgrimmar</a> ()</td></tr>
-<tr class="separator:aec4388ea6d2e4bbc1d279b3a4687c4c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a016aeee1d0eac9c78c522520663670f0"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d1/d86/a08523.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a016aeee1d0eac9c78c522520663670f0">heraldOfThrallPos</a> = { -462.404f, -2637.68f, 96.0656f, 5.8606f }</td></tr>
-<tr class="separator:a016aeee1d0eac9c78c522520663670f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a985f3fb3a28d1163b27b5de21b1ec6cf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2e/a02537.html#a985f3fb3a28d1163b27b5de21b1ec6cf">AddSC_stonetalon_mountains</a> ()</td></tr>
+<tr class="separator:a985f3fb3a28d1163b27b5de21b1ec6cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a487e562e5e99ccd61aa7e93289874033" name="a487e562e5e99ccd61aa7e93289874033"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a487e562e5e99ccd61aa7e93289874033">&#9670;&#160;</a></span>GOSSIP_HBD1</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GOSSIP_HBD1&#160;&#160;&#160;&quot;Ysera&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adc43152833884ed78e5debdaaf5d500d" name="adc43152833884ed78e5debdaaf5d500d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc43152833884ed78e5debdaaf5d500d">&#9670;&#160;</a></span>GOSSIP_HBD2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GOSSIP_HBD2&#160;&#160;&#160;&quot;Neltharion&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aced35316178914dd542d4750f8bbb6cf" name="aced35316178914dd542d4750f8bbb6cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aced35316178914dd542d4750f8bbb6cf">&#9670;&#160;</a></span>GOSSIP_HBD3</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GOSSIP_HBD3&#160;&#160;&#160;&quot;Nozdormu&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a182f8c24fa1421c6a7c68e289491400e" name="a182f8c24fa1421c6a7c68e289491400e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a182f8c24fa1421c6a7c68e289491400e">&#9670;&#160;</a></span>GOSSIP_HBD4</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GOSSIP_HBD4&#160;&#160;&#160;&quot;Alexstrasza&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a34cc0e8072e5c86b2dd23a03fbc8f024" name="a34cc0e8072e5c86b2dd23a03fbc8f024"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34cc0e8072e5c86b2dd23a03fbc8f024">&#9670;&#160;</a></span>GOSSIP_HBD5</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GOSSIP_HBD5&#160;&#160;&#160;&quot;Malygos&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a032512bb2693fda342f4d77dba794fbe" name="a032512bb2693fda342f4d77dba794fbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a032512bb2693fda342f4d77dba794fbe">&#9670;&#160;</a></span>Shenthul</h2>
+<a id="ab10ce9d7e7d19709d0e99ef45b935f15" name="ab10ce9d7e7d19709d0e99ef45b935f15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab10ce9d7e7d19709d0e99ef45b935f15">&#9670;&#160;</a></span>Kaya</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d2e/a02537.html#a032512bb2693fda342f4d77dba794fbe">Shenthul</a> : <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15">Kaya</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0" name="a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0"></a>QUEST_SHATTERED_SALUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f" name="ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f"></a>FACTION_ESCORTEE_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f" name="ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f"></a>NPC_GRIMTOTEM_RUFFIAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967" name="ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967"></a>NPC_GRIMTOTEM_BRUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6" name="ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6"></a>NPC_GRIMTOTEM_SORCERER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239" name="ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239"></a>SAY_START&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e" name="ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e"></a>SAY_AMBUSH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97" name="ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97"></a>SAY_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6" name="ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6"></a>QUEST_PROTECT_KAYA&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0">QUEST_SHATTERED_SALUTE</a>  = 2460</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa02537_html_a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0"><div class="ttname"><a href="../../d1/d2e/a02537.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0">QUEST_SHATTERED_SALUTE</a></div><div class="ttdeci">@ QUEST_SHATTERED_SALUTE</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:32</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a1cdad3bda3b93500c342a64dce6d15d9" name="a1cdad3bda3b93500c342a64dce6d15d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1cdad3bda3b93500c342a64dce6d15d9">&#9670;&#160;</a></span>ThrallWarchief</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9">ThrallWarchief</a> : <a class="el" href="../../de/d35/a04325.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d" name="a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d"></a>SPELL_CHAIN_LIGHTNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab" name="a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab"></a>SPELL_SHOCK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af" name="a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af"></a>QUEST_FOR_THE_HORDE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225" name="a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225"></a>SPELL_WARCHIEF_BLESSING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc" name="a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc"></a>NPC_HERALD_OF_THRALL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd" name="a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd"></a>ACTION_START_TALKING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b" name="a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b"></a>SAY_THRALL_ON_QUEST_REWARD_0&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302" name="a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302"></a>SAY_THRALL_ON_QUEST_REWARD_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153" name="a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153"></a>GO_UNADORNED_SPIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287" name="a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287"></a>QUEST_WHAT_THE_WIND_CARRIES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86" name="a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86"></a>GOSSIP_MENU_THRALL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d" name="a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d"></a>GOSSIP_RESPONSE_THRALL_FIRST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047" name="a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047"></a>QUEST_WARCHIEFS_BLESSING&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  128</span>{</div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a>          = 16033,</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab">SPELL_SHOCK</a>                    = 16034,</div>
-<div class="line"><span class="lineno">  131</span> </div>
-<div class="line"><span class="lineno">  132</span>    <span class="comment">// For The Horde! (ID: 4974)</span></div>
-<div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af">QUEST_FOR_THE_HORDE</a>            = 4974,</div>
-<div class="line"><span class="lineno">  134</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225">SPELL_WARCHIEF_BLESSING</a>        = 16609,</div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc">NPC_HERALD_OF_THRALL</a>           = 10719,</div>
-<div class="line"><span class="lineno">  136</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd">ACTION_START_TALKING</a>           = 0,</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b">SAY_THRALL_ON_QUEST_REWARD_0</a>   = 0,</div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302">SAY_THRALL_ON_QUEST_REWARD_1</a>   = 1,</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153">GO_UNADORNED_SPIKE</a>             = 175787,</div>
-<div class="line"><span class="lineno">  142</span> </div>
-<div class="line"><span class="lineno">  143</span>    <span class="comment">// What the Wind Carries (ID: 6566)</span></div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287">QUEST_WHAT_THE_WIND_CARRIES</a>    = 6566,</div>
-<div class="line"><span class="lineno">  145</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86">GOSSIP_MENU_THRALL</a>             = 3664,</div>
-<div class="line"><span class="lineno">  146</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d">GOSSIP_RESPONSE_THRALL_FIRST</a>   = 5733,</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">// Deathknight Starting Zone End</span></div>
-<div class="line"><span class="lineno">  149</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047">QUEST_WARCHIEFS_BLESSING</a>       = 13189,</div>
-<div class="line"><span class="lineno">  150</span>};</div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab">SPELL_SHOCK</a></div><div class="ttdeci">@ SPELL_SHOCK</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:130</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd">ACTION_START_TALKING</a></div><div class="ttdeci">@ ACTION_START_TALKING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:136</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc">NPC_HERALD_OF_THRALL</a></div><div class="ttdeci">@ NPC_HERALD_OF_THRALL</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:135</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302">SAY_THRALL_ON_QUEST_REWARD_1</a></div><div class="ttdeci">@ SAY_THRALL_ON_QUEST_REWARD_1</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:139</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86">GOSSIP_MENU_THRALL</a></div><div class="ttdeci">@ GOSSIP_MENU_THRALL</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:145</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153">GO_UNADORNED_SPIKE</a></div><div class="ttdeci">@ GO_UNADORNED_SPIKE</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:141</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225">SPELL_WARCHIEF_BLESSING</a></div><div class="ttdeci">@ SPELL_WARCHIEF_BLESSING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:134</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287">QUEST_WHAT_THE_WIND_CARRIES</a></div><div class="ttdeci">@ QUEST_WHAT_THE_WIND_CARRIES</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:144</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b">SAY_THRALL_ON_QUEST_REWARD_0</a></div><div class="ttdeci">@ SAY_THRALL_ON_QUEST_REWARD_0</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:138</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d">GOSSIP_RESPONSE_THRALL_FIRST</a></div><div class="ttdeci">@ GOSSIP_RESPONSE_THRALL_FIRST</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:146</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047">QUEST_WARCHIEFS_BLESSING</a></div><div class="ttdeci">@ QUEST_WARCHIEFS_BLESSING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:149</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a></div><div class="ttdeci">@ SPELL_CHAIN_LIGHTNING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:129</div></div>
-<div class="ttc" id="aa02537_html_a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af"><div class="ttname"><a href="../../d1/d2e/a02537.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af">QUEST_FOR_THE_HORDE</a></div><div class="ttdeci">@ QUEST_FOR_THE_HORDE</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:133</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f">FACTION_ESCORTEE_H</a>          = 775,</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f">NPC_GRIMTOTEM_RUFFIAN</a>       = 11910,</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967">NPC_GRIMTOTEM_BRUTE</a>         = 11912,</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6">NPC_GRIMTOTEM_SORCERER</a>      = 11913,</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239">SAY_START</a>                   = 0,</div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e">SAY_AMBUSH</a>                  = 1,</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97">SAY_END</a>                     = 2,</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_enumvalue" href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6">QUEST_PROTECT_KAYA</a>          = 6523</div>
+<div class="line"><span class="lineno">   94</span>};</div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f">NPC_GRIMTOTEM_RUFFIAN</a></div><div class="ttdeci">@ NPC_GRIMTOTEM_RUFFIAN</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:85</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f">FACTION_ESCORTEE_H</a></div><div class="ttdeci">@ FACTION_ESCORTEE_H</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:83</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239">SAY_START</a></div><div class="ttdeci">@ SAY_START</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:89</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97">SAY_END</a></div><div class="ttdeci">@ SAY_END</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:91</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6">QUEST_PROTECT_KAYA</a></div><div class="ttdeci">@ QUEST_PROTECT_KAYA</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:93</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e">SAY_AMBUSH</a></div><div class="ttdeci">@ SAY_AMBUSH</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:90</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967">NPC_GRIMTOTEM_BRUTE</a></div><div class="ttdeci">@ NPC_GRIMTOTEM_BRUTE</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:86</div></div>
+<div class="ttc" id="aa02537_html_ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6"><div class="ttname"><a href="../../d1/d2e/a02537.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6">NPC_GRIMTOTEM_SORCERER</a></div><div class="ttdeci">@ NPC_GRIMTOTEM_SORCERER</div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:87</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aec4388ea6d2e4bbc1d279b3a4687c4c6" name="aec4388ea6d2e4bbc1d279b3a4687c4c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec4388ea6d2e4bbc1d279b3a4687c4c6">&#9670;&#160;</a></span>AddSC_orgrimmar()</h2>
+<a id="a985f3fb3a28d1163b27b5de21b1ec6cf" name="a985f3fb3a28d1163b27b5de21b1ec6cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a985f3fb3a28d1163b27b5de21b1ec6cf">&#9670;&#160;</a></span>AddSC_stonetalon_mountains()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_orgrimmar </td>
+          <td class="memname">void AddSC_stonetalon_mountains </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  312</span>{</div>
-<div class="line"><span class="lineno">  313</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/dd3/a15771.html">npc_shenthul</a>();</div>
-<div class="line"><span class="lineno">  314</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/da9/a15779.html">npc_thrall_warchief</a>();</div>
-<div class="line"><span class="lineno">  315</span>}</div>
-<div class="ttc" id="aa15771_html"><div class="ttname"><a href="../../df/dd3/a15771.html">npc_shenthul</a></div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:36</div></div>
-<div class="ttc" id="aa15779_html"><div class="ttname"><a href="../../d3/da9/a15779.html">npc_thrall_warchief</a></div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:156</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  163</span>{</div>
+<div class="line"><span class="lineno">  164</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d55/a15856.html">npc_braug_dimspirit</a>();</div>
+<div class="line"><span class="lineno">  165</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/d76/a15860.html">npc_kaya_flathoof</a>();</div>
+<div class="line"><span class="lineno">  166</span>}</div>
+<div class="ttc" id="aa15856_html"><div class="ttname"><a href="../../df/d55/a15856.html">npc_braug_dimspirit</a></div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:35</div></div>
+<div class="ttc" id="aa15860_html"><div class="ttname"><a href="../../da/d76/a15860.html">npc_kaya_flathoof</a></div><div class="ttdef"><b>Definition:</b> zone_stonetalon_mountains.cpp:97</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00099">AddKalimdorScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a016aeee1d0eac9c78c522520663670f0" name="a016aeee1d0eac9c78c522520663670f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a016aeee1d0eac9c78c522520663670f0">&#9670;&#160;</a></span>heraldOfThrallPos</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d1/d86/a08523.html">Position</a> heraldOfThrallPos = { -462.404f, -2637.68f, 96.0656f, 5.8606f }</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00237">npc_thrall_warchief::npc_thrall_warchiefAI::DoAction()</a>.</p>
 
 </div>
 </div>
@@ -313,8 +317,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d1/d2e/a02537.html">zone_orgrimmar.cpp</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 20:49:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d1/d2e/a02537.html">zone_stonetalon_mountains.cpp</a></li>
+    <li class="footer">Generated on Mon Jan 5 2026 20:53:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

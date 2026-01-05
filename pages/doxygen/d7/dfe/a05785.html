@@ -104,25 +104,26 @@ $(document).ready(function(){initNavTree('d0/d9e/a05788.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">MySQLConnectionInfo Member List</div></div>
+  <div class="headertitle"><div class="title">DatabaseWorker Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a7e65a418ad668772e4ce1b298d92f10a">database</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a2659372561aae5feb8da121984354ef3">host</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#ae60c54053d71eb9325df10701b1f42d3">MySQLConnectionInfo</a>(std::string_view infoString)</td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"><span class="mlabel">explicit</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#af5a51bd38ce1d58f65444d69b0283966">password</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a37b89660afb3ee085e817836e9d1d01f">port_or_socket</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a90e5a934b4ec46e5783248a1a80a4830">ssl</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a6bf4166ebb99ea30a3894e3d8833bde6">user</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">MySQLConnectionInfo</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a2f21d73b584d9e5f17afc7a0ac78f129">_connection</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a9c47ad6c0d4dca85a63be45c4e678a70">_queue</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#ad02a90f600f1996c053f36e186edf292">_workerThread</a></td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a64450680e7b6e31bb42ce4f79788eb27">DatabaseWorker</a>(ProducerConsumerQueue&lt; SQLOperation * &gt; *newQueue, MySQLConnection *connection)</td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#aa43f1d875400b0ba6c031e0811397ed3">DatabaseWorker</a>(DatabaseWorker const &amp;right)=delete</td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a15e753c757da609b55a66380f526091a">operator=</a>(DatabaseWorker const &amp;right)=delete</td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#ab74cbccbb68bfbbab58550eced982d1a">WorkerThread</a>()</td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d9e/a05788.html#a170c873cbc917ece6a87591450dbe5a9">~DatabaseWorker</a>()</td><td class="entry"><a class="el" href="../../d0/d9e/a05788.html">DatabaseWorker</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Nov 24 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 5 2026 20:54:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

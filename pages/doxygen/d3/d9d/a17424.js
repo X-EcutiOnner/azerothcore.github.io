@@ -1,6 +1,6 @@
 var a17424 =
 [
-    [ "instance_gundrak_InstanceMapScript", "db/dca/a17428.html", "db/dca/a17428" ],
-    [ "instance_gundrak", "d3/d9d/a17424.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "d3/d9d/a17424.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "entry", "d3/d9d/a17424.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d3/d9d/a17424.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d3/d9d/a17424.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

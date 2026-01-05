@@ -1,6 +1,6 @@
 var a17364 =
 [
-    [ "HandleScriptEffect", "d6/d9c/a17364.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "d6/d9c/a17364.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "d6/d9c/a17364.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d0/dca/a17368.html", "d0/dca/a17368" ],
+    [ "npc_pos_martin_or_gorkun_second", "d6/d9c/a17364.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "d6/d9c/a17364.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

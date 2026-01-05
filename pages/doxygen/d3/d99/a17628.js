@@ -1,9 +1,6 @@
 var a17628 =
 [
-    [ "CheckProc", "d3/d99/a17628.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d3/d99/a17628.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d3/d99/a17628.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d3/d99/a17628.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d3/d99/a17628.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d3/d99/a17628.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "PrepareSpellScript", "d3/d99/a17628.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d3/d99/a17628.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d3/d99/a17628.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

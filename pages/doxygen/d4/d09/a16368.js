@@ -1,6 +1,6 @@
 var a16368 =
 [
-    [ "boss_saviana_ragefireAI", "d8/d80/a16372.html", "d8/d80/a16372" ],
-    [ "boss_saviana_ragefire", "d4/d09/a16368.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d4/d09/a16368.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "npc_halion_controllerAI", "d8/d80/a16372.html", "d8/d80/a16372" ],
+    [ "npc_halion_controller", "d4/d09/a16368.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d4/d09/a16368.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

@@ -1,5 +1,6 @@
 var a28000 =
 [
-    [ "ID", "de/d33/a28000.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "de/d33/a28000.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_necropolis_relay", "de/d33/a28000.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "de/d33/a28000.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "de/d33/a28000.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

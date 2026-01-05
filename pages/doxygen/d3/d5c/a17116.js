@@ -1,13 +1,14 @@
 var a17116 =
 [
-    [ "npc_hor_leader_secondAI", "d3/d5c/a17116.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d3/d5c/a17116.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d3/d5c/a17116.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d3/d5c/a17116.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d3/d5c/a17116.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d3/d5c/a17116.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d3/d5c/a17116.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d3/d5c/a17116.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d3/d5c/a17116.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "d3/d5c/a17116.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "boss_marwynAI", "d3/d5c/a17116.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "d3/d5c/a17116.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "d3/d5c/a17116.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "d3/d5c/a17116.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "d3/d5c/a17116.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "d3/d5c/a17116.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "d3/d5c/a17116.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "d3/d5c/a17116.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "d3/d5c/a17116.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "d3/d5c/a17116.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "d3/d5c/a17116.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

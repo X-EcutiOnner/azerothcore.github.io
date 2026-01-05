@@ -1,6 +1,7 @@
 var a14276 =
 [
-    [ "LaunchHit", "da/db6/a14276.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "da/db6/a14276.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "da/db6/a14276.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "OnRemove", "da/db6/a14276.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "da/db6/a14276.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "da/db6/a14276.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "da/db6/a14276.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

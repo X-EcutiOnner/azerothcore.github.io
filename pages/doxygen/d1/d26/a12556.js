@@ -1,9 +1,10 @@
 var a12556 =
 [
-    [ "boss_baron_geddonAI", "d1/d26/a12556.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "d1/d26/a12556.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "d1/d26/a12556.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "d1/d26/a12556.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "d1/d26/a12556.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "d1/d26/a12556.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "npc_corrupted_totem", "d1/d26/a12556.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d1/d26/a12556.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d1/d26/a12556.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d1/d26/a12556.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d1/d26/a12556.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d1/d26/a12556.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d1/d26/a12556.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

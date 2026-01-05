@@ -1,7 +1,10 @@
 var a23512 =
 [
-    [ "boss_hydromancer_thespia", "dc/d97/a23512.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "dc/d97/a23512.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "dc/d97/a23512.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "dc/d97/a23512.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "Spells", "dc/d97/a23512.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "dc/d97/a23512.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "dc/d97/a23512.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "dc/d97/a23512.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "dc/d97/a23512.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "dc/d97/a23512.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

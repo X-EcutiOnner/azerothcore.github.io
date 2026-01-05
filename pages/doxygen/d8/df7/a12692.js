@@ -1,6 +1,6 @@
 var a12692 =
 [
-    [ "boss_sulfuronAI", "d8/df7/a12692.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "d8/df7/a12692.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "d8/df7/a12692.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "npc_core_ragerAI", "d6/de5/a12696.html", "d6/de5/a12696" ],
+    [ "npc_core_rager", "d8/df7/a12692.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "d8/df7/a12692.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

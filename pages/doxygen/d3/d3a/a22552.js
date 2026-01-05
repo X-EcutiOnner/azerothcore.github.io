@@ -1,6 +1,6 @@
 var a22552 =
 [
-    [ "PrepareSpellScript", "d3/d3a/a22552.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d3/d3a/a22552.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d3/d3a/a22552.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "HandleScript", "d3/d3a/a22552.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "d3/d3a/a22552.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "d3/d3a/a22552.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

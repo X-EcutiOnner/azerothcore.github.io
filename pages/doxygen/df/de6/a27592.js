@@ -1,5 +1,5 @@
 var a27592 =
 [
-    [ "item_incendiary_explosives", "df/de6/a27592.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "df/de6/a27592.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_sacred_fire_of_life", "df/de6/a27592.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "df/de6/a27592.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

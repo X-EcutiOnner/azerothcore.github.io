@@ -1,10 +1,6 @@
 var a14372 =
 [
-    [ "npc_brewfest_super_brew_trigger", "dd/d15/a14372.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "dd/d15/a14372.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "dd/d15/a14372.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "dd/d15/a14372.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "dd/d15/a14372.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "dd/d15/a14372.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "dd/d15/a14372.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "HandleObjectAreaTargetSelect", "dd/d15/a14372.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "dd/d15/a14372.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "dd/d15/a14372.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

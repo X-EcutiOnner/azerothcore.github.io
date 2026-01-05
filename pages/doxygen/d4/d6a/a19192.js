@@ -1,6 +1,6 @@
 var a19192 =
 [
-    [ "npc_boss_gothik_minionAI", "db/df0/a19196.html", "db/df0/a19196" ],
-    [ "npc_boss_gothik_minion", "d4/d6a/a19192.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d4/d6a/a19192.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "npc_four_car_garageAI", "d4/d6a/a19192.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d4/d6a/a19192.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d4/d6a/a19192.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

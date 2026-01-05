@@ -1,8 +1,6 @@
 var a19128 =
 [
-    [ "HandleScript", "d8/d76/a19128.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d8/d76/a19128.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d8/d76/a19128.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d8/d76/a19128.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d8/d76/a19128.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_icc_putricades_trapAI", "d2/d7a/a19132.html", "d2/d7a/a19132" ],
+    [ "npc_icc_putricades_trap", "d8/d76/a19128.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d8/d76/a19128.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

@@ -1,11 +1,9 @@
 var a14164 =
 [
-    [ "boss_hakkarAI", "da/d18/a14164.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "da/d18/a14164.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "da/d18/a14164.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "da/d18/a14164.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "da/d18/a14164.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "da/d18/a14164.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "da/d18/a14164.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "da/d18/a14164.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_zulaman_hostageAI", "da/d18/a14164.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "da/d18/a14164.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "da/d18/a14164.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "da/d18/a14164.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "da/d18/a14164.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "da/d18/a14164.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

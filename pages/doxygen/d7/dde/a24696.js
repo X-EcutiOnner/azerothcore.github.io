@@ -1,9 +1,9 @@
 var a24696 =
 [
-    [ "HandleAfterHit", "d7/dde/a24696.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d7/dde/a24696.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d7/dde/a24696.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d7/dde/a24696.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d7/dde/a24696.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d7/dde/a24696.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "npc_pet_shaman_earth_elemental", "d7/dde/a24696.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d7/dde/a24696.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d7/dde/a24696.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d7/dde/a24696.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d7/dde/a24696.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d7/dde/a24696.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

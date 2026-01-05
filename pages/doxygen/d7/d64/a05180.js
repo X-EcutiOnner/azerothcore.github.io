@@ -1,15 +1,8 @@
 var a05180 =
 [
-    [ "IV", "d7/d64/a05180.html#a3ab3c73ca75661d53842f924f9914656", null ],
-    [ "Key", "d7/d64/a05180.html#ad479930aa60f991335d4cf68251958bb", null ],
-    [ "Tag", "d7/d64/a05180.html#ad6abd9fd7a9b7bafc4c300ebca415a1e", null ],
-    [ "AES", "d7/d64/a05180.html#a75c197cecf7cd7230a1a9f64e8ec9f00", null ],
-    [ "~AES", "d7/d64/a05180.html#abcdb72bef5a57586630650372c339410", null ],
-    [ "Init", "d7/d64/a05180.html#a910f4dcbbd2868264d4b11f3041c833d", null ],
-    [ "Process", "d7/d64/a05180.html#a9933ca01e34684d466bc364dda11a30a", null ],
-    [ "_ctx", "d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d", null ],
-    [ "_encrypting", "d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e", null ],
-    [ "IV_SIZE_BYTES", "d7/d64/a05180.html#a5c62e48e8791379cdcdb5d20c018f0ea", null ],
-    [ "KEY_SIZE_BYTES", "d7/d64/a05180.html#a03df6b128e9d2553c44e71680ca79cb5", null ],
-    [ "TAG_SIZE_BYTES", "d7/d64/a05180.html#a0a7619278214bbe6b2bd5ad003828ef0", null ]
+    [ "ComputeCell", "d7/d64/a05180.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "d7/d64/a05180.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "d7/d64/a05180.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "d7/d64/a05180.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "d7/d64/a05180.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

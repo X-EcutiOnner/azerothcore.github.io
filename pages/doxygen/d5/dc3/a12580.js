@@ -1,5 +1,7 @@
 var a12580 =
 [
-    [ "npc_garr_fireswornAI", "d5/dc3/a12580.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "d5/dc3/a12580.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "HandleDummy", "d5/dc3/a12580.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d5/dc3/a12580.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d5/dc3/a12580.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d5/dc3/a12580.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

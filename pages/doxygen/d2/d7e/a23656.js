@@ -1,6 +1,6 @@
 var a23656 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "dc/dbf/a23660.html", "dc/dbf/a23660" ],
-    [ "instance_gruuls_lair", "d2/d7e/a23656.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d2/d7e/a23656.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "HandleScript", "d2/d7e/a23656.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "d2/d7e/a23656.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "d2/d7e/a23656.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

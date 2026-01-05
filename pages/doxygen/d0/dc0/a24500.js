@@ -1,6 +1,6 @@
 var a24500 =
 [
-    [ "npc_pet_dk_ghoul", "d0/dc0/a24500.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d0/dc0/a24500.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d0/dc0/a24500.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "PrepareSpellScript", "d0/dc0/a24500.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d0/dc0/a24500.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d0/dc0/a24500.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

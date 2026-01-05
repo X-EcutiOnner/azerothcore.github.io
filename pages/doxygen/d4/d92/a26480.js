@@ -1,7 +1,7 @@
 var a26480 =
 [
-    [ "if", "d4/d92/a26480.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "d4/d92/a26480.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "d4/d92/a26480.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "d4/d92/a26480.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "HandleProc", "d4/d92/a26480.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "d4/d92/a26480.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "d4/d92/a26480.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "d4/d92/a26480.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

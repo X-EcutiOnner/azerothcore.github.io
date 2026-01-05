@@ -1,6 +1,11 @@
 var a12184 =
 [
-    [ "boss_gloomrel", "dd/d14/a12184.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "dd/d14/a12184.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "dd/d14/a12184.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_draganthaurissanAI", "dd/d14/a12184.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
+    [ "JustDied", "dd/d14/a12184.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
+    [ "JustEngagedWith", "dd/d14/a12184.html#a00604bed2c13a7b470d950059122f018", null ],
+    [ "KilledUnit", "dd/d14/a12184.html#acec58686917d6e5aff9a51a96b023174", null ],
+    [ "SetData", "dd/d14/a12184.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
+    [ "UpdateAI", "dd/d14/a12184.html#a04eaea53b78d490373f9bb911cc92596", null ],
+    [ "hasYelled", "dd/d14/a12184.html#aef5ede4f444e85fafd30faab6043672b", null ],
+    [ "SenatorYells", "dd/d14/a12184.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
 ];

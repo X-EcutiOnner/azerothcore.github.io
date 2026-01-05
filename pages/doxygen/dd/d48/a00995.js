@@ -1,4 +1,4 @@
 var a00995 =
 [
-    [ "operator<<", "dd/d48/a00995.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
+    [ "KillRewarder", "d2/d78/a08584.html", "d2/d78/a08584" ]
 ];

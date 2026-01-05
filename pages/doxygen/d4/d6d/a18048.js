@@ -1,7 +1,7 @@
 var a18048 =
 [
-    [ "HandleScript", "d4/d6d/a18048.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d4/d6d/a18048.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d4/d6d/a18048.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d4/d6d/a18048.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "OnPeriodic", "d4/d6d/a18048.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "d4/d6d/a18048.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "d4/d6d/a18048.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "d4/d6d/a18048.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

@@ -1,8 +1,7 @@
 var a16292 =
 [
-    [ "OnApply", "d5/d30/a16292.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d5/d30/a16292.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d5/d30/a16292.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d5/d30/a16292.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d5/d30/a16292.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "DelayedTalk", "d5/d30/a16292.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d5/d30/a16292.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d5/d30/a16292.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d5/d30/a16292.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

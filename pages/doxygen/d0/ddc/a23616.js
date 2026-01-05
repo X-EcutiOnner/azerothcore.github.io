@@ -1,8 +1,10 @@
 var a23616 =
 [
-    [ "ApplyStun", "d0/ddc/a23616.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d0/ddc/a23616.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d0/ddc/a23616.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d0/ddc/a23616.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d0/ddc/a23616.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "boss_warlord_kalithresh", "d0/ddc/a23616.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "d0/ddc/a23616.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "d0/ddc/a23616.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "d0/ddc/a23616.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "d0/ddc/a23616.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "d0/ddc/a23616.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "d0/ddc/a23616.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

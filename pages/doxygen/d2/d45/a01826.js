@@ -1,4 +1,7 @@
 var a01826 =
 [
-    [ "sWorldSocketMgr", "d9/d62/a04803.html#ga43ae464e29649083953e305b20b3e27f", null ]
+    [ "WorldPackets::Calendar::GetEvent", "d3/da5/a10572.html", "d3/da5/a10572" ],
+    [ "WorldPackets::Calendar::GuildFilter", "db/d03/a10576.html", "db/d03/a10576" ],
+    [ "WorldPackets::Calendar::ArenaTeam", "d9/d97/a10580.html", "d9/d97/a10580" ],
+    [ "WorldPackets::Calendar::CalendarComplain", "d7/d9e/a10584.html", "d7/d9e/a10584" ]
 ];

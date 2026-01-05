@@ -1,10 +1,6 @@
 var a27576 =
 [
-    [ "guard_shattrath_scryerAI", "d1/dc7/a27576.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d1/dc7/a27576.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d1/dc7/a27576.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d1/dc7/a27576.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d1/dc7/a27576.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d1/dc7/a27576.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d1/dc7/a27576.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_gilded_brazierAI", "dc/de8/a27580.html", "dc/de8/a27580" ],
+    [ "go_gilded_brazier", "d1/dc7/a27576.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d1/dc7/a27576.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

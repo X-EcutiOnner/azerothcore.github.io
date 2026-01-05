@@ -1,11 +1,20 @@
 var a22972 =
 [
-    [ "boss_high_nethermancer_zerevor", "d1/dfb/a22972.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "d1/dfb/a22972.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "d1/dfb/a22972.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "d1/dfb/a22972.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "d1/dfb/a22972.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "d1/dfb/a22972.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "d1/dfb/a22972.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "d1/dfb/a22972.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "boss_illidan_stormrage", "d1/dfb/a22972.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
+    [ "CanAIAttack", "d1/dfb/a22972.html#a9607a9a09df9d07ebae0513458435b4d", null ],
+    [ "CycleBeamPos", "d1/dfb/a22972.html#a2044514c049262328022ac22a651fb92", null ],
+    [ "DamageTaken", "d1/dfb/a22972.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
+    [ "DoAction", "d1/dfb/a22972.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
+    [ "EnterEvadeMode", "d1/dfb/a22972.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "JustDied", "d1/dfb/a22972.html#a4d38abd8885862e31a88da4de754e35d", null ],
+    [ "JustEngagedWith", "d1/dfb/a22972.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
+    [ "JustSummoned", "d1/dfb/a22972.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
+    [ "KilledUnit", "d1/dfb/a22972.html#abf29f9607351d35953d8d0e97779c3f9", null ],
+    [ "MovementInform", "d1/dfb/a22972.html#acdd75f289288b3e6de4136267d490519", null ],
+    [ "Reset", "d1/dfb/a22972.html#aa5eb94712f886e821630535cb2970dfe", null ],
+    [ "ScheduleAbilities", "d1/dfb/a22972.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "_canTalk", "d1/dfb/a22972.html#abaf0cca3f159aae572203254c41444a3", null ],
+    [ "_dying", "d1/dfb/a22972.html#af312452020938736624496d9f6a76d28", null ],
+    [ "_inCutscene", "d1/dfb/a22972.html#a715525706b44dbc53847e639f3b15d3a", null ],
+    [ "beamPosId", "d1/dfb/a22972.html#a6168b84bfb49781736fa2accf5225808", null ]
 ];

@@ -1,8 +1,8 @@
 var a08844 =
 [
-    [ "VehicleSeat", "d7/dc3/a08844.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d7/dc3/a08844.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d7/dc3/a08844.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d7/dc3/a08844.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d7/dc3/a08844.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "RedirectSpellEvent", "d7/dc3/a08844.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d7/dc3/a08844.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d7/dc3/a08844.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d7/dc3/a08844.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d7/dc3/a08844.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

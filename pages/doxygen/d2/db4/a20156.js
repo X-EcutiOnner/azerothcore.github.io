@@ -1,6 +1,6 @@
 var a20156 =
 [
-    [ "CheckAreaTarget", "d2/db4/a20156.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d2/db4/a20156.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d2/db4/a20156.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "npc_storm_beacon_spawnAI", "d7/d74/a20160.html", "d7/d74/a20160" ],
+    [ "npc_storm_beacon_spawn", "d2/db4/a20156.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "d2/db4/a20156.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

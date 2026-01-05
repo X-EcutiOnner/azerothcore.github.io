@@ -1,9 +1,6 @@
 var a19520 =
 [
-    [ "HandleApply", "dd/d08/a19520.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "dd/d08/a19520.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "dd/d08/a19520.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "dd/d08/a19520.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "dd/d08/a19520.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "dd/d08/a19520.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "npc_nexus_lordAI", "d4/df8/a19524.html", "d4/df8/a19524" ],
+    [ "npc_nexus_lord", "dd/d08/a19520.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "dd/d08/a19520.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

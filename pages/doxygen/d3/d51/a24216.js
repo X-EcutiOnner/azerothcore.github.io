@@ -1,14 +1,16 @@
 var a24216 =
 [
-    [ "npc_maghar_captiveAI", "d3/d51/a24216.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "d3/d51/a24216.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "d3/d51/a24216.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "d3/d51/a24216.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "d3/d51/a24216.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "d3/d51/a24216.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "d3/d51/a24216.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "d3/d51/a24216.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "d3/d51/a24216.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "d3/d51/a24216.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "d3/d51/a24216.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_nether_drakeAI", "d3/d51/a24216.html#a82f2c29b380be95303e1558776ea2d88", null ],
+    [ "JustEngagedWith", "d3/d51/a24216.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
+    [ "MoveInLineOfSight", "d3/d51/a24216.html#a9e122d4533155c926904a13e8534d32e", null ],
+    [ "MovementInform", "d3/d51/a24216.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
+    [ "Reset", "d3/d51/a24216.html#acb03513dd67988e0961632846021a42d", null ],
+    [ "SpellHit", "d3/d51/a24216.html#a40f05363f38d71954c9fb8773c382444", null ],
+    [ "UpdateAI", "d3/d51/a24216.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
+    [ "ArcaneBlast_Timer", "d3/d51/a24216.html#ace872917954f4978f3568d7ddecf22ad", null ],
+    [ "IntangiblePresence_Timer", "d3/d51/a24216.html#acecff3846090fa83c8fc43537d788501", null ],
+    [ "IsNihil", "d3/d51/a24216.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
+    [ "ManaBurn_Timer", "d3/d51/a24216.html#ae6c33df878497d29d5f61234b048009d", null ],
+    [ "NihilSpeech_Phase", "d3/d51/a24216.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
+    [ "NihilSpeech_Timer", "d3/d51/a24216.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
 ];

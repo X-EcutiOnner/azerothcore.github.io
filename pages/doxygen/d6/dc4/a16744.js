@@ -1,6 +1,7 @@
 var a16744 =
 [
-    [ "boss_gormokAI", "d9/dd2/a16748.html", "d9/dd2/a16748" ],
-    [ "boss_gormok", "d6/dc4/a16744.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d6/dc4/a16744.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_toc_warriorAI", "d6/dc4/a16744.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d6/dc4/a16744.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d6/dc4/a16744.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d6/dc4/a16744.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

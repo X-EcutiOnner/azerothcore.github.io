@@ -1,11 +1,8 @@
 var a23948 =
 [
-    [ "boss_high_astromancer_solarian", "da/d8c/a23948.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "da/d8c/a23948.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "da/d8c/a23948.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "da/d8c/a23948.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "da/d8c/a23948.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "da/d8c/a23948.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "da/d8c/a23948.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "da/d8c/a23948.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "HandleEffectApply", "da/d8c/a23948.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "da/d8c/a23948.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "da/d8c/a23948.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "da/d8c/a23948.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "da/d8c/a23948.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

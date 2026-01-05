@@ -1,7 +1,6 @@
 var a15700 =
 [
-    [ "npc_giant_spotlightAI", "df/ddb/a15700.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "df/ddb/a15700.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "df/ddb/a15700.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "df/ddb/a15700.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_tiger_matriarchAI", "d3/d6a/a15704.html", "d3/d6a/a15704" ],
+    [ "npc_tiger_matriarch", "df/ddb/a15700.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "df/ddb/a15700.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

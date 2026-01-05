@@ -1,6 +1,11 @@
 var a14776 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d6/d8c/a14780.html", "d6/d8c/a14780" ],
-    [ "instance_blackfathom_deeps", "db/d3c/a14776.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "db/d3c/a14776.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "HandleFinish", "db/d3c/a14776.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "db/d3c/a14776.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "db/d3c/a14776.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "db/d3c/a14776.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "db/d3c/a14776.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "db/d3c/a14776.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "db/d3c/a14776.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "db/d3c/a14776.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

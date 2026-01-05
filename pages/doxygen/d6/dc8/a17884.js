@@ -1,7 +1,8 @@
 var a17884 =
 [
-    [ "HandleScript", "d6/dc8/a17884.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d6/dc8/a17884.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d6/dc8/a17884.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d6/dc8/a17884.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "npc_gunship_mageAI", "d6/dc8/a17884.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "d6/dc8/a17884.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "d6/dc8/a17884.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "d6/dc8/a17884.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "d6/dc8/a17884.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

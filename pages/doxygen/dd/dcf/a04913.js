@@ -1,8 +1,8 @@
 var a04913 =
 [
-    [ "DynamicTreeAreaInfoCallback", "dd/dcf/a04913.html#ad3f3d57e011439d9900afffa8d9c6ed7", null ],
-    [ "GetAreaInfo", "dd/dcf/a04913.html#a22cc8c47b3c93bd9ba396861a5bbea99", null ],
-    [ "operator()", "dd/dcf/a04913.html#adf7f147bb4b4f3a5252ac15ffd1b80ea", null ],
-    [ "_areaInfo", "dd/dcf/a04913.html#a59781066b5b1a7e970f4dcf6f05a7dcb", null ],
-    [ "_phaseMask", "dd/dcf/a04913.html#a9ad7b4de03c8baa6190a5ef57f2eecf2", null ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "df/df6/a04914.html", [
+      [ "_weatherData", "df/df6/a04914.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    ] ],
+    [ "GetWeatherData", "df/da2/a04828.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "df/da2/a04828.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

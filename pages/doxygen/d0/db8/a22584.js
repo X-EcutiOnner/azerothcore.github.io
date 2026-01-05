@@ -1,6 +1,7 @@
 var a22584 =
 [
-    [ "npc_drakuru_shacklesAI", "df/d0a/a22588.html", "df/d0a/a22588" ],
-    [ "npc_drakuru_shackles", "d0/db8/a22584.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "d0/db8/a22584.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "npc_wg_demolisher_engineer", "d0/db8/a22584.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d0/db8/a22584.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d0/db8/a22584.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d0/db8/a22584.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

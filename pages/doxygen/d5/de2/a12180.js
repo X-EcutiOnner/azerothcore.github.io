@@ -1,7 +1,6 @@
 var a12180 =
 [
-    [ "boss_okthorAI", "d5/de2/a12180.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "d5/de2/a12180.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "d5/de2/a12180.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "d5/de2/a12180.html#a21446d2cfc51a05de6cee3ba4301eae9", null ]
+    [ "boss_draganthaurissanAI", "dd/d14/a12184.html", "dd/d14/a12184" ],
+    [ "boss_emperor_dagran_thaurissan", "d5/de2/a12180.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "d5/de2/a12180.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

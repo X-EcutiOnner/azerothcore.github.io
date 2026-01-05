@@ -1,6 +1,6 @@
 var a21476 =
 [
-    [ "boss_erekemAI", "de/d00/a21480.html", "de/d00/a21480" ],
-    [ "boss_erekem", "d2/d39/a21476.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "d2/d39/a21476.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "HandleOnHit", "d2/d39/a21476.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d2/d39/a21476.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d2/d39/a21476.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

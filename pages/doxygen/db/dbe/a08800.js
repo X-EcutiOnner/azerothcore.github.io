@@ -1,8 +1,21 @@
 var a08800 =
 [
-    [ "PowerPctOrderPred", "db/dbe/a08800.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "db/dbe/a08800.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "db/dbe/a08800.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "db/dbe/a08800.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "db/dbe/a08800.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "HealInfo", "db/dbe/a08800.html#a25fe1984f6c3ef5eeb90049ef4749437", null ],
+    [ "AbsorbHeal", "db/dbe/a08800.html#ae656cf383df85bb88c6486e5aac1df5b", null ],
+    [ "GetAbsorb", "db/dbe/a08800.html#a3a29dc8e520997a58c7da005945d96e2", null ],
+    [ "GetEffectiveHeal", "db/dbe/a08800.html#a3d5391116c63cc0a3cacb2cab1512a01", null ],
+    [ "GetHeal", "db/dbe/a08800.html#af95a6d6c94a72874c150a3deabce20ee", null ],
+    [ "GetHealer", "db/dbe/a08800.html#a2139bd1efadb23063a67d3fef35b424d", null ],
+    [ "GetSchoolMask", "db/dbe/a08800.html#aca2b1e31608a7c186a06e9bbe8977a9d", null ],
+    [ "GetSpellInfo", "db/dbe/a08800.html#a53b73d5b297e341be237723269c7644d", null ],
+    [ "GetTarget", "db/dbe/a08800.html#ae7a08b2e27a5ac316ed2d3bca7d2395d", null ],
+    [ "SetEffectiveHeal", "db/dbe/a08800.html#ac3564eb034d66a0d0199e5412db82ba8", null ],
+    [ "SetHeal", "db/dbe/a08800.html#a622e0993c76b43f30d9cc774c70a92b0", null ],
+    [ "m_absorb", "db/dbe/a08800.html#a383cc7bb4d30dd72cbfeaedd9b5d5042", null ],
+    [ "m_effectiveHeal", "db/dbe/a08800.html#a0a00b20efbeb2e5bf515dc98e96aa12d", null ],
+    [ "m_heal", "db/dbe/a08800.html#af0a2d7c40710cabbb88122de2650c705", null ],
+    [ "m_healer", "db/dbe/a08800.html#ad291e8e65eb0a9a9054ac1827cf0d315", null ],
+    [ "m_schoolMask", "db/dbe/a08800.html#af2fd7934b1b1cd08dd4dcfeadc9c02df", null ],
+    [ "m_spellInfo", "db/dbe/a08800.html#a68d6d63fdd1efb458615e24f65e643be", null ],
+    [ "m_target", "db/dbe/a08800.html#a3a13a815e870e6745888ed082e8498e8", null ]
 ];

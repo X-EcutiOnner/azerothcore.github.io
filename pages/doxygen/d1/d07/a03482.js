@@ -1,16 +1,17 @@
 var a03482 =
 [
-    [ "npc_corporal_keeshan", "dd/d92/a13887.html", "dd/d92/a13887" ],
-    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d7/dde/a13891.html", "d7/dde/a13891" ],
-    [ "CorporalKeeshan", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
-      [ "QUEST_MISSING_IN_ACTION", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
-      [ "SAY_CORPORAL_1", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
-      [ "SAY_CORPORAL_2", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
-      [ "SAY_CORPORAL_3", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
-      [ "SAY_CORPORAL_4", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
-      [ "SAY_CORPORAL_5", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
-      [ "SPELL_MOCKING_BLOW", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
-      [ "SPELL_SHIELD_BASH", "d1/d07/a03482.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
+    [ "npc_daphne_stilwell", "d9/dc8/a14048.html", "d9/dc8/a14048" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d6/de7/a14052.html", "d6/de7/a14052" ],
+    [ "DaphneStilwell", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d1/d07/a03482.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "AddSC_redridge_mountains", "d1/d07/a03482.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
+    [ "AddSC_westfall", "d1/d07/a03482.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

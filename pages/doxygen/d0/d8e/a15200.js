@@ -1,7 +1,12 @@
 var a15200 =
 [
-    [ "FilterTargets", "d0/d8e/a15200.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d0/d8e/a15200.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d0/d8e/a15200.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d0/d8e/a15200.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d0/d8e/a15200.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d0/d8e/a15200.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d0/d8e/a15200.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d0/d8e/a15200.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d0/d8e/a15200.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d0/d8e/a15200.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d0/d8e/a15200.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d0/d8e/a15200.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d0/d8e/a15200.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

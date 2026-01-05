@@ -1,5 +1,6 @@
 var a13052 =
 [
-    [ "boss_yazzai", "dc/d6d/a13052.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "dc/d6d/a13052.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "instance_karazhan_InstanceMapScript", "d2/dfb/a13056.html", "d2/dfb/a13056" ],
+    [ "instance_karazhan", "dc/d6d/a13052.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "dc/d6d/a13052.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

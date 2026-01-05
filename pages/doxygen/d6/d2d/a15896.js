@@ -1,14 +1,12 @@
 var a15896 =
 [
-    [ "npc_ringoAI", "d6/d2d/a15896.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d6/d2d/a15896.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d6/d2d/a15896.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d6/d2d/a15896.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d6/d2d/a15896.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d6/d2d/a15896.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d6/d2d/a15896.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d6/d2d/a15896.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d6/d2d/a15896.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d6/d2d/a15896.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d6/d2d/a15896.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_toogaAI", "d6/d2d/a15896.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d6/d2d/a15896.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d6/d2d/a15896.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d6/d2d/a15896.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d6/d2d/a15896.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d6/d2d/a15896.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d6/d2d/a15896.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d6/d2d/a15896.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d6/d2d/a15896.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

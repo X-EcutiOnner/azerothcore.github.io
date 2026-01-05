@@ -1,6 +1,7 @@
 var a13684 =
 [
-    [ "instance_uldaman_InstanceMapScript", "da/d3b/a13688.html", "da/d3b/a13688" ],
-    [ "instance_uldaman", "db/de3/a13684.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "db/de3/a13684.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "FilterTargets", "db/de3/a13684.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "db/de3/a13684.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "db/de3/a13684.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "db/de3/a13684.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

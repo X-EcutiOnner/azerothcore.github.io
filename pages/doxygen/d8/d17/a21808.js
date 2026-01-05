@@ -1,7 +1,9 @@
 var a21808 =
 [
-    [ "HandleEffectHit", "d8/d17/a21808.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "d8/d17/a21808.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "d8/d17/a21808.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "d8/d17/a21808.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_warmage_coldarraAI", "d8/d17/a21808.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d8/d17/a21808.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d8/d17/a21808.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d8/d17/a21808.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d8/d17/a21808.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d8/d17/a21808.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

@@ -1,8 +1,17 @@
 var a22796 =
 [
-    [ "boss_darkweaver_syth", "d0/d96/a22796.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d0/d96/a22796.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d0/d96/a22796.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d0/d96/a22796.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d0/d96/a22796.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "OutdoorPvPSI", "d0/d96/a22796.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "d0/d96/a22796.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "d0/d96/a22796.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "d0/d96/a22796.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "d0/d96/a22796.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "d0/d96/a22796.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "d0/d96/a22796.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "d0/d96/a22796.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "d0/d96/a22796.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "d0/d96/a22796.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "d0/d96/a22796.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "d0/d96/a22796.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "d0/d96/a22796.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "d0/d96/a22796.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

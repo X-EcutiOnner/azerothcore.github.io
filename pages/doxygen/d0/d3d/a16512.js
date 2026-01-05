@@ -1,6 +1,9 @@
 var a16512 =
 [
-    [ "HideNpcEvent", "d0/d3d/a16512.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d0/d3d/a16512.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d0/d3d/a16512.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_memoryAI", "d0/d3d/a16512.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d0/d3d/a16512.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d0/d3d/a16512.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d0/d3d/a16512.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d0/d3d/a16512.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d0/d3d/a16512.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

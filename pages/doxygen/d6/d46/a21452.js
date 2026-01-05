@@ -1,6 +1,6 @@
 var a21452 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d0/dd8/a21456.html", "d0/dd8/a21456" ],
-    [ "npc_frozen_orb_stalker", "d6/d46/a21452.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d6/d46/a21452.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "boss_archavonAI", "d0/dd8/a21456.html", "d0/dd8/a21456" ],
+    [ "boss_archavon", "d6/d46/a21452.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d6/d46/a21452.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

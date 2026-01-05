@@ -1,4 +1,5 @@
 var a10404 =
 [
-    [ "ModuleScript", "d6/d18/a10404.html#a145c67a6c12a18527a4e7011a66b1760", null ]
+    [ "GenericGameObjectScript", "d6/d18/a10404.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "d6/d18/a10404.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

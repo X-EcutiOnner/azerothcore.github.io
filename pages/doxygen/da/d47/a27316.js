@@ -1,9 +1,6 @@
 var a27316 =
 [
-    [ "boss_ysondreAI", "da/d47/a27316.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "da/d47/a27316.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "da/d47/a27316.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "da/d47/a27316.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "da/d47/a27316.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "da/d47/a27316.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "achievement_arena_by_type", "da/d47/a27316.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "da/d47/a27316.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "da/d47/a27316.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

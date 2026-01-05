@@ -1,7 +1,9 @@
 var a24824 =
 [
-    [ "AfterApply", "d7/d73/a24824.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "d7/d73/a24824.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "d7/d73/a24824.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d7/d73/a24824.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "CheckCast", "d7/d73/a24824.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d7/d73/a24824.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d7/d73/a24824.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d7/d73/a24824.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d7/d73/a24824.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d7/d73/a24824.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

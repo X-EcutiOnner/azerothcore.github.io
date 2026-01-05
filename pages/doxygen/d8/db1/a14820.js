@@ -1,6 +1,6 @@
 var a14820 =
 [
-    [ "HandleHit", "d8/db1/a14820.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d8/db1/a14820.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d8/db1/a14820.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "OnAuraRemove", "d8/db1/a14820.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d8/db1/a14820.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d8/db1/a14820.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

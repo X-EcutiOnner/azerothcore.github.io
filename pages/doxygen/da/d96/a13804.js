@@ -1,6 +1,6 @@
 var a13804 =
 [
-    [ "OnEffect", "da/d96/a13804.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "da/d96/a13804.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "da/d96/a13804.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "npc_maredis_firestarAI", "da/d96/a13804.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "da/d96/a13804.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "da/d96/a13804.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

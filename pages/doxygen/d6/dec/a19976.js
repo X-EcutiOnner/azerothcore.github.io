@@ -1,6 +1,5 @@
 var a19976 =
 [
-    [ "boss_auriayaAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
-    [ "boss_auriaya", "d6/dec/a19976.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "d6/dec/a19976.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d6/dec/a19976.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d6/dec/a19976.html#affea33614581545c65513bfe533d7246", null ]
 ];

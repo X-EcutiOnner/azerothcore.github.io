@@ -1,4 +1,5 @@
 var a04781 =
 [
-    [ "Acore::String::Trim< std::string >", "d4/dcf/a04781.html#a39e286b6ca47198eba4d5e31cef66aa5", null ]
+    [ "DataMap", "d4/de3/a05532.html", "d4/de3/a05532" ],
+    [ "DataMap::Base", "d8/d58/a05536.html", "d8/d58/a05536" ]
 ];

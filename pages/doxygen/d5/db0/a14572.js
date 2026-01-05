@@ -1,13 +1,11 @@
 var a14572 =
 [
-    [ "npc_costumed_orphan_matron", "d5/db0/a14572.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "d5/db0/a14572.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "d5/db0/a14572.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "d5/db0/a14572.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "d5/db0/a14572.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "d5/db0/a14572.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "d5/db0/a14572.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "d5/db0/a14572.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "d5/db0/a14572.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "d5/db0/a14572.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "npc_the_etymidian", "d5/db0/a14572.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d5/db0/a14572.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d5/db0/a14572.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d5/db0/a14572.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d5/db0/a14572.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d5/db0/a14572.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d5/db0/a14572.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d5/db0/a14572.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

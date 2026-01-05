@@ -1,18 +1,12 @@
 var a21576 =
 [
-    [ "violet_hold_trashAI", "df/d7b/a21576.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "df/d7b/a21576.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "df/d7b/a21576.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "df/d7b/a21576.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "df/d7b/a21576.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "df/d7b/a21576.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "df/d7b/a21576.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "df/d7b/a21576.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "df/d7b/a21576.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "df/d7b/a21576.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "df/d7b/a21576.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "bAddedWP", "df/d7b/a21576.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "df/d7b/a21576.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "df/d7b/a21576.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "df/d7b/a21576.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "boss_lavanthorAI", "df/d7b/a21576.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "df/d7b/a21576.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "df/d7b/a21576.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "df/d7b/a21576.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "df/d7b/a21576.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "df/d7b/a21576.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "df/d7b/a21576.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "df/d7b/a21576.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "df/d7b/a21576.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

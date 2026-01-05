@@ -1,9 +1,8 @@
 var a08912 =
 [
-    [ "CreatureLastSearcher", "d5/dc9/a08912.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "d5/dc9/a08912.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "d5/dc9/a08912.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "d5/dc9/a08912.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "d5/dc9/a08912.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "d5/dc9/a08912.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "Entry", "d5/dc9/a08912.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d5/dc9/a08912.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d5/dc9/a08912.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d5/dc9/a08912.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d5/dc9/a08912.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

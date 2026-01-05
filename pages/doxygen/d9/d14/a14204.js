@@ -1,6 +1,6 @@
 var a14204 =
 [
-    [ "FilterTargets", "d9/d14/a14204.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d9/d14/a14204.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d9/d14/a14204.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "boss_arlokkAI", "db/dc0/a14208.html", "db/dc0/a14208" ],
+    [ "boss_arlokk", "d9/d14/a14204.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d9/d14/a14204.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

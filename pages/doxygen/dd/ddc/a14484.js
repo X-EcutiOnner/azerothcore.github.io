@@ -1,11 +1,9 @@
 var a14484 =
 [
-    [ "npc_elder_kekek", "dd/ddc/a14484.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
-    [ "MoveInLineOfSight", "dd/ddc/a14484.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
-    [ "Reset", "dd/ddc/a14484.html#a97e615bdefba5baf459960fc2987cd69", null ],
-    [ "UpdateAI", "dd/ddc/a14484.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
-    [ "orphanGUID", "dd/ddc/a14484.html#a98c79e46e051c35819c6025828a519cb", null ],
-    [ "phase", "dd/ddc/a14484.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
-    [ "playerGUID", "dd/ddc/a14484.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
-    [ "timer", "dd/ddc/a14484.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
+    [ "CheckCast", "dd/ddc/a14484.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "dd/ddc/a14484.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "dd/ddc/a14484.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "dd/ddc/a14484.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "dd/ddc/a14484.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "dd/ddc/a14484.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

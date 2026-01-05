@@ -1,7 +1,12 @@
 var a22980 =
 [
-    [ "boss_veras_darkshadow", "d7/d88/a22980.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d7/d88/a22980.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d7/d88/a22980.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d7/d88/a22980.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "npc_maiev_illidan", "d7/d88/a22980.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "d7/d88/a22980.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "d7/d88/a22980.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "d7/d88/a22980.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "d7/d88/a22980.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "Reset", "d7/d88/a22980.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "d7/d88/a22980.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "d7/d88/a22980.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "instance", "d7/d88/a22980.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

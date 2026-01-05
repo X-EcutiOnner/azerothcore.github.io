@@ -1,9 +1,6 @@
 var a20628 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d1/dad/a20628.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d1/dad/a20628.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d1/dad/a20628.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d1/dad/a20628.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d1/dad/a20628.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d1/dad/a20628.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "boss_mimironAI", "d2/dad/a20632.html", "d2/dad/a20632" ],
+    [ "boss_mimiron", "d1/dad/a20628.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "d1/dad/a20628.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

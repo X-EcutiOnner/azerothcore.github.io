@@ -1,11 +1,16 @@
 var a14800 =
 [
-    [ "boss_anetheron", "d7/d0b/a14800.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "d7/d0b/a14800.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "d7/d0b/a14800.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "d7/d0b/a14800.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "d7/d0b/a14800.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "d7/d0b/a14800.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "d7/d0b/a14800.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "d7/d0b/a14800.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "npc_pilgrims_bounty_chair", "d7/d0b/a14800.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
+    [ "AttackStart", "d7/d0b/a14800.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
+    [ "DamageTaken", "d7/d0b/a14800.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
+    [ "DoAction", "d7/d0b/a14800.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
+    [ "GetPlate", "d7/d0b/a14800.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
+    [ "MoveInLineOfSight", "d7/d0b/a14800.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
+    [ "PassengerBoarded", "d7/d0b/a14800.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
+    [ "SpellHit", "d7/d0b/a14800.html#a681323ae3100f46dd0aba595159d7daf", null ],
+    [ "SpellHitTarget", "d7/d0b/a14800.html#affd51da83859b962977ed6b51c74d01e", null ],
+    [ "UpdateAI", "d7/d0b/a14800.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
+    [ "plateGUID", "d7/d0b/a14800.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
+    [ "timerRotateChair", "d7/d0b/a14800.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
+    [ "timerSpawnPlate", "d7/d0b/a14800.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
 ];

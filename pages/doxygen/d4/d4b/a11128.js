@@ -1,7 +1,5 @@
 var a11128 =
 [
-    [ "OpcodeHandler", "d3/d7d/a04797.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d3/d7d/a04797.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d3/d7d/a04797.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d3/d7d/a04797.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "RequestPetInfo", "d4/d4b/a11128.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "d4/d4b/a11128.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

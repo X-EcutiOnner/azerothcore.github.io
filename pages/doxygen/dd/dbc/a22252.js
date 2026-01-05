@@ -1,7 +1,8 @@
 var a22252 =
 [
-    [ "HandleDummy", "dd/dbc/a22252.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "dd/dbc/a22252.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "dd/dbc/a22252.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "dd/dbc/a22252.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "AfterApply", "dd/dbc/a22252.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "dd/dbc/a22252.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "dd/dbc/a22252.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "dd/dbc/a22252.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "dd/dbc/a22252.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

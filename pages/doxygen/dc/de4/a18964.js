@@ -1,9 +1,7 @@
 var a18964 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "dc/de4/a18964.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "dc/de4/a18964.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "dc/de4/a18964.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "dc/de4/a18964.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "dc/de4/a18964.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "dc/de4/a18964.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "OnApply", "dc/de4/a18964.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "dc/de4/a18964.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "dc/de4/a18964.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "dc/de4/a18964.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

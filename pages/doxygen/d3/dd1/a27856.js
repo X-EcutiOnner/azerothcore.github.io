@@ -1,6 +1,10 @@
 var a27856 =
 [
-    [ "npc_venomhide_hatchlingAI", "d3/dd1/a27856.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d3/dd1/a27856.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d3/dd1/a27856.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_dancing_flamesAI", "d3/dd1/a27856.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d3/dd1/a27856.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d3/dd1/a27856.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d3/dd1/a27856.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d3/dd1/a27856.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d3/dd1/a27856.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d3/dd1/a27856.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

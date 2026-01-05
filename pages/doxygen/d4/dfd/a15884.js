@@ -1,7 +1,7 @@
 var a15884 =
 [
-    [ "npc_ameAI", "d5/de5/a15888.html", "d5/de5/a15888" ],
-    [ "npc_ame", "d4/dfd/a15884.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "d4/dfd/a15884.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "d4/dfd/a15884.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "npc_steward_of_time", "d4/dfd/a15884.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "d4/dfd/a15884.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "d4/dfd/a15884.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "d4/dfd/a15884.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

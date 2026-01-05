@@ -1,6 +1,7 @@
 var a19028 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d8/d2c/a19032.html", "d8/d2c/a19032" ],
-    [ "npc_icc_gauntlet_controller", "da/d13/a19028.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "da/d13/a19028.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "HandleEffectPeriodic", "da/d13/a19028.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "da/d13/a19028.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "da/d13/a19028.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "da/d13/a19028.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

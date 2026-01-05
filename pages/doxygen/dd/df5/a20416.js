@@ -1,6 +1,8 @@
 var a20416 =
 [
-    [ "FilterTargets", "dd/df5/a20416.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "dd/df5/a20416.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "dd/df5/a20416.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "npc_ulduar_flash_freezeAI", "dd/df5/a20416.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "dd/df5/a20416.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "dd/df5/a20416.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "dd/df5/a20416.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "dd/df5/a20416.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

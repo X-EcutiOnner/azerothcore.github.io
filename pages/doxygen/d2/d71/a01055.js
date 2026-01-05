@@ -1,42 +1,41 @@
 var a01055 =
 [
-    [ "DataHeader", "d2/d71/a01055.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ZFScriptName", "d2/d71/a01055.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
-    [ "ZFPyramidPhases", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3", [
-      [ "PYRAMID_NOT_STARTED", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
-      [ "PYRAMID_CAGES_OPEN", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
-      [ "PYRAMID_ARRIVED_AT_STAIR", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
-      [ "PYRAMID_WAVE_1", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
-      [ "PYRAMID_PRE_WAVE_2", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
-      [ "PYRAMID_WAVE_2", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
-      [ "PYRAMID_PRE_WAVE_3", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
-      [ "PYRAMID_WAVE_3", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
-      [ "PYRAMID_KILLED_ALL_TROLLS", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
-      [ "PYRAMID_MOVED_DOWNSTAIRS", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
-      [ "PYRAMID_DESTROY_GATES", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
-      [ "PYRAMID_GATES_DESTROYED", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
-      [ "PYRAMID_DONE", "d2/d71/a01055.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
-    ] ],
-    [ "ZulFarrakCreatures", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
-      [ "NPC_SANDFURY_CRETIN", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
-      [ "NPC_SANDFURY_SLAVE", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
-      [ "NPC_SANDFURY_ACOLYTE", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
-      [ "NPC_SANDFURY_DRUDGE", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
-      [ "NPC_SANDFURY_ZEALOT", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
-      [ "NPC_SHADOWPRIEST_SEZZZIZ", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
-      [ "NPC_NEKRUM_GUTCHEWER", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
-      [ "NPC_BLY", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
-      [ "NPC_RAVEN", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
-      [ "NPC_ORO", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
-      [ "NPC_WEEGLI", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
-      [ "NPC_MURTA", "d2/d71/a01055.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
-    ] ],
-    [ "ZulFarrakData", "d2/d71/a01055.html#a66cc3be5310a2efbacb38d2398d8af24", [
-      [ "DATA_PYRAMID", "d2/d71/a01055.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
-      [ "DATA_GAHZRILLA", "d2/d71/a01055.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
-    ] ],
-    [ "ZulFarrakGameobjects", "d2/d71/a01055.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
-      [ "GO_END_DOOR", "d2/d71/a01055.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
-    ] ],
-    [ "GetZulFarrakAI", "d2/d71/a01055.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
+    [ "AuctionSortInfo", "df/d04/a07152.html", "df/d04/a07152" ],
+    [ "AuctionEntryItemEnchants", "d0/d0b/a07156.html", "d0/d0b/a07156" ],
+    [ "SearchableAuctionEntryItem", "d7/d99/a07160.html", "d7/d99/a07160" ],
+    [ "SearchableAuctionEntry", "d1/de9/a07164.html", "d1/de9/a07164" ],
+    [ "AuctionHouseSearchInfo", "dd/dbc/a07168.html", "dd/dbc/a07168" ],
+    [ "AuctionHouseUsablePlayerInfo", "de/d65/a07172.html", "de/d65/a07172" ],
+    [ "AuctionHousePlayerInfo", "d7/de3/a07176.html", "d7/de3/a07176" ],
+    [ "AuctionSearcherRequest", "d5/d4d/a07180.html", "d5/d4d/a07180" ],
+    [ "AuctionSearchListRequest", "dc/dc2/a07184.html", "dc/dc2/a07184" ],
+    [ "AuctionSearchOwnerListRequest", "d5/dae/a07188.html", "d5/dae/a07188" ],
+    [ "AuctionSearchBidderListRequest", "dd/db7/a07192.html", "dd/db7/a07192" ],
+    [ "AuctionSearcherResponse", "d3/ddf/a07196.html", "d3/ddf/a07196" ],
+    [ "AuctionSearcherUpdate", "d1/d5a/a07200.html", "d1/d5a/a07200" ],
+    [ "AuctionSearchAdd", "dc/df2/a07204.html", "dc/df2/a07204" ],
+    [ "AuctionSearchRemove", "d2/d8e/a07208.html", "d2/d8e/a07208" ],
+    [ "AuctionSearchUpdateBid", "df/d79/a07212.html", "df/d79/a07212" ],
+    [ "AuctionSorter", "dc/df3/a07216.html", "dc/df3/a07216" ],
+    [ "AuctionHouseWorkerThread", "d2/d73/a07220.html", "d2/d73/a07220" ],
+    [ "AuctionHouseSearcher", "de/de6/a07224.html", "de/de6/a07224" ],
+    [ "AuctionPlayerSkills", "d2/d71/a01055.html#a1b900c09f81e1b28037da303e33bd597", null ],
+    [ "AuctionPlayerSpells", "d2/d71/a01055.html#add0df1394d287b79672ebf01c59138c1", null ],
+    [ "AuctionSortOrderVector", "d2/d71/a01055.html#afefbc3444cfffa5e2fe0ded42a20e407", null ],
+    [ "SearchableAuctionEntriesMap", "d2/d71/a01055.html#a7cad31f048914034b12550129308e80e", null ],
+    [ "SortableAuctionEntriesList", "d2/d71/a01055.html#a7d6d8287b2adf4a3caae16ed69a8519d", null ],
+    [ "AuctionSortOrder", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420", [
+      [ "AUCTION_SORT_MINLEVEL", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a30585d5b267baaa6ff0ff1c1f2d900e4", null ],
+      [ "AUCTION_SORT_RARITY", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055", null ],
+      [ "AUCTION_SORT_BUYOUT", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a29d9f97d625896cd9e9729e0971ca215", null ],
+      [ "AUCTION_SORT_TIMELEFT", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595", null ],
+      [ "AUCTION_SORT_UNK4", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a45cabc5fc139ebe5f9ab99ba04442ee4", null ],
+      [ "AUCTION_SORT_ITEM", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420ad941e54aa0ae31a89638b48d169f88ea", null ],
+      [ "AUCTION_SORT_MINBIDBUY", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef", null ],
+      [ "AUCTION_SORT_OWNER", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420ab092607020b20ea5308b1ea257df844e", null ],
+      [ "AUCTION_SORT_BID", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a", null ],
+      [ "AUCTION_SORT_STACK", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420add1499675819fe1f00e71390131dade4", null ],
+      [ "AUCTION_SORT_BUYOUT_2", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094", null ],
+      [ "AUCTION_SORT_MAX", "d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d", null ]
+    ] ]
 ];

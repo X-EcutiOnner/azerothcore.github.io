@@ -1,6 +1,6 @@
 var a14764 =
 [
-    [ "HandleTriggerSpell", "df/d1f/a14764.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "df/d1f/a14764.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "df/d1f/a14764.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleAfterEffectApply", "df/d1f/a14764.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "df/d1f/a14764.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "df/d1f/a14764.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

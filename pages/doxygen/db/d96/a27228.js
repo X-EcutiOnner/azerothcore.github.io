@@ -1,5 +1,6 @@
 var a27228 =
 [
-    [ "achievement_bg_av_perfection", "db/d96/a27228.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "db/d96/a27228.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "HandleDummy", "db/d96/a27228.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "db/d96/a27228.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "db/d96/a27228.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

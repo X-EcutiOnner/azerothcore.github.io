@@ -1,9 +1,8 @@
 var a05992 =
 [
-    [ "itemId", "d4/dc4/a05992.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d4/dc4/a05992.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d4/dc4/a05992.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d4/dc4/a05992.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d4/dc4/a05992.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d4/dc4/a05992.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "UpdateResult", "d4/dc4/a05992.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "d4/dc4/a05992.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "d4/dc4/a05992.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "d4/dc4/a05992.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "d4/dc4/a05992.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

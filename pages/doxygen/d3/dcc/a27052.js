@@ -1,6 +1,6 @@
 var a27052 =
 [
-    [ "CalculateAmount", "d3/dcc/a27052.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d3/dcc/a27052.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d3/dcc/a27052.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "HandleAuraApply", "d3/dcc/a27052.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d3/dcc/a27052.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d3/dcc/a27052.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

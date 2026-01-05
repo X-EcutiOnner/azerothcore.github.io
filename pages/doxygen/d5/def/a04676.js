@@ -1,12 +1,11 @@
 var a04676 =
 [
-    [ "EnumFlag< T >", "d1/d01/a05531.html", "d1/d01/a05531" ],
-    [ "DEFINE_ENUM_FLAG", "d5/def/a04676.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
-    [ "IsFlag", "d5/def/a04676.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
-    [ "IsEnumFlag", "d5/def/a04676.html#ae0992e010612850442fc56bcf2d44b47", null ],
-    [ "operator&", "d5/def/a04676.html#a27ef39aed098304d7387af8257f7cee3", null ],
-    [ "operator&=", "d5/def/a04676.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
-    [ "operator|", "d5/def/a04676.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
-    [ "operator|=", "d5/def/a04676.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
-    [ "operator~", "d5/def/a04676.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
+    [ "FormatString", "d5/def/a04676.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "AddSuffixIfNotExists", "d5/def/a04676.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "d5/def/a04676.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "d5/def/a04676.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "d5/def/a04676.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "StringFormat", "d5/def/a04676.html#a868406b9609960d4ae0189588c8cbbf4", null ],
+    [ "Trim", "d5/def/a04676.html#a3213c569cd380bda3b76fe3f730899ff", null ],
+    [ "TrimRightInPlace", "d5/def/a04676.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

@@ -1,7 +1,6 @@
 var a16576 =
 [
-    [ "npc_toc_druidAI", "db/d96/a16576.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "db/d96/a16576.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "db/d96/a16576.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "db/d96/a16576.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_toc5_grand_champion_minionAI", "dd/d32/a16580.html", "dd/d32/a16580" ],
+    [ "npc_toc5_grand_champion_minion", "db/d96/a16576.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "db/d96/a16576.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

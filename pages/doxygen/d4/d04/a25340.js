@@ -1,10 +1,6 @@
 var a25340 =
 [
-    [ "spell_gen_summon_elemental", "d4/d04/a25340.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "d4/d04/a25340.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "d4/d04/a25340.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "d4/d04/a25340.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "d4/d04/a25340.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "d4/d04/a25340.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "d4/d04/a25340.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "CheckSeat", "d4/d04/a25340.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d4/d04/a25340.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d4/d04/a25340.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

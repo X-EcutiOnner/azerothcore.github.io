@@ -1,17 +1,17 @@
 var a14420 =
 [
-    [ "npc_coren_direbrew", "d8/d0b/a14420.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
-    [ "CanBeSeen", "d8/d0b/a14420.html#ad4db2a85c92f69e54036f4133396f201", null ],
-    [ "DamageTaken", "d8/d0b/a14420.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
-    [ "DoAction", "d8/d0b/a14420.html#a2d417a9310b5b75df09879678d967794", null ],
-    [ "JustDied", "d8/d0b/a14420.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
-    [ "JustSummoned", "d8/d0b/a14420.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
-    [ "MoveInLineOfSight", "d8/d0b/a14420.html#a9c48c7e4a97998c2091992f51b734679", null ],
-    [ "Reset", "d8/d0b/a14420.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
-    [ "sGossipSelect", "d8/d0b/a14420.html#ad8b665606985984ad633f66ad9b73bd2", null ],
-    [ "SummonedCreatureDies", "d8/d0b/a14420.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
-    [ "SummonSister", "d8/d0b/a14420.html#a358fe5922a85ea3eee6abe9451869b66", null ],
-    [ "UpdateAI", "d8/d0b/a14420.html#af6615292fa853883979dc37c6e247289", null ],
-    [ "_events", "d8/d0b/a14420.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
-    [ "_summons", "d8/d0b/a14420.html#a261d4c4dea56748e66752cb11588086a", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d8/d0b/a14420.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
+    [ "GetData", "d8/d0b/a14420.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
+    [ "GetGuidData", "d8/d0b/a14420.html#a0da827e64e90a1f97b75038621a195ff", null ],
+    [ "OnCreatureCreate", "d8/d0b/a14420.html#a951c6f5e1dc460cd820fba49add52898", null ],
+    [ "OnGameObjectCreate", "d8/d0b/a14420.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
+    [ "RemoveHakkarPowerStack", "d8/d0b/a14420.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
+    [ "SetBossState", "d8/d0b/a14420.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
+    [ "_arlokkGUID", "d8/d0b/a14420.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
+    [ "_edgeOfMadnessGUID", "d8/d0b/a14420.html#aa7bbbb942592651857f933503da0e808", null ],
+    [ "_gahzrankaGUID", "d8/d0b/a14420.html#af0e854382a2316363c50d60f03095097", null ],
+    [ "_goGongOfBethekkGUID", "d8/d0b/a14420.html#a1f33ff891c8289a49dd2b979a064c323", null ],
+    [ "_hakkarGUID", "d8/d0b/a14420.html#aeca34a55f3c378311ae1b46313cf22de", null ],
+    [ "_jindoTheHexxerGUID", "d8/d0b/a14420.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
+    [ "_vilebranchSpeakerGUID", "d8/d0b/a14420.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
 ];

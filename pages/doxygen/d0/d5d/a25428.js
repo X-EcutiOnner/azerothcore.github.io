@@ -1,7 +1,7 @@
 var a25428 =
 [
-    [ "HandleDummy", "d0/d5d/a25428.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "d0/d5d/a25428.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "d0/d5d/a25428.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "d0/d5d/a25428.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "HandleStun", "d0/d5d/a25428.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d0/d5d/a25428.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d0/d5d/a25428.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d0/d5d/a25428.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

@@ -1,9 +1,8 @@
 var a21188 =
 [
-    [ "npc_ulduar_keeperAI", "d0/ddd/a21188.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d0/ddd/a21188.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d0/ddd/a21188.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d0/ddd/a21188.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d0/ddd/a21188.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d0/ddd/a21188.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "FilterTargets", "d0/ddd/a21188.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d0/ddd/a21188.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d0/ddd/a21188.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d0/ddd/a21188.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d0/ddd/a21188.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

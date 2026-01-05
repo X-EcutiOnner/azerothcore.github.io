@@ -1,7 +1,7 @@
 var a13432 =
 [
-    [ "HandleScriptEffect", "df/d95/a13432.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "df/d95/a13432.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "df/d95/a13432.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "df/d95/a13432.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "OnPeriodic", "df/d95/a13432.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "df/d95/a13432.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "df/d95/a13432.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "df/d95/a13432.html#a665698b54201184185d96bd33f53e584", null ]
 ];

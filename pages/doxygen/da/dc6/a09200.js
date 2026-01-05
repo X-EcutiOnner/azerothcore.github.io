@@ -1,26 +1,6 @@
 var a09200 =
 [
-    [ "GetHeightPtr", "da/dc6/a09200.html#a347927f9d7df887b2a6fd89d841e004c", null ],
-    [ "GridTerrainData", "da/dc6/a09200.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
-    [ "~GridTerrainData", "da/dc6/a09200.html#a7380c5dbf731134733b87cab470603a4", null ],
-    [ "getArea", "da/dc6/a09200.html#a938710a8304ef342373d41581018c623", null ],
-    [ "getHeight", "da/dc6/a09200.html#a1269f47abd6faf5304494c85628bb961", null ],
-    [ "getHeightFromFlat", "da/dc6/a09200.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
-    [ "getHeightFromFloat", "da/dc6/a09200.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
-    [ "getHeightFromUint16", "da/dc6/a09200.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
-    [ "getHeightFromUint8", "da/dc6/a09200.html#af849394add099d86aa8ec9eb8c807f5d", null ],
-    [ "GetLiquidData", "da/dc6/a09200.html#a07d7e85ff8386eaad8c9d1d32414e3b9", null ],
-    [ "getLiquidLevel", "da/dc6/a09200.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
-    [ "getMinHeight", "da/dc6/a09200.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
-    [ "isHole", "da/dc6/a09200.html#abdf3da449ed62b2d7a54547178d21110", null ],
-    [ "Load", "da/dc6/a09200.html#acacaa661126e761a863b5490a3e78e73", null ],
-    [ "LoadAreaData", "da/dc6/a09200.html#a28f80f4acdb72dd9641a261178df0859", null ],
-    [ "LoadHeightData", "da/dc6/a09200.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
-    [ "LoadHolesData", "da/dc6/a09200.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
-    [ "LoadLiquidData", "da/dc6/a09200.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
-    [ "_gridGetHeight", "da/dc6/a09200.html#a2425f13f62b37931192acdc02127c243", null ],
-    [ "_loadedAreaData", "da/dc6/a09200.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
-    [ "_loadedHeightData", "da/dc6/a09200.html#aea51fcf34105d685405203093ce67085", null ],
-    [ "_loadedHoleData", "da/dc6/a09200.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
-    [ "_loadedLiquidData", "da/dc6/a09200.html#a3d72914b55d6c6413ade869503b259cc", null ]
+    [ "flags", "da/dc6/a09200.html#a953acfd67349f028a839390ebe7fc398", null ],
+    [ "fourcc", "da/dc6/a09200.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
+    [ "gridArea", "da/dc6/a09200.html#a4ee571320d5d346bbf74709677bbee05", null ]
 ];

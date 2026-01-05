@@ -1,6 +1,8 @@
 var a12656 =
 [
-    [ "HandleHit", "d1/d9f/a12656.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d1/d9f/a12656.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d1/d9f/a12656.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "boss_garrAI", "d1/d9f/a12656.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "d1/d9f/a12656.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "d1/d9f/a12656.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "d1/d9f/a12656.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "d1/d9f/a12656.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

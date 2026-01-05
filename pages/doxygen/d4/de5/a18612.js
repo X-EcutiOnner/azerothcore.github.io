@@ -1,5 +1,6 @@
 var a18612 =
 [
-    [ "achievement_neck_deep_in_vile", "d4/de5/a18612.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d4/de5/a18612.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "ModDestHeight", "d4/de5/a18612.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d4/de5/a18612.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d4/de5/a18612.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

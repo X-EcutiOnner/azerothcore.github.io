@@ -1,9 +1,6 @@
 var a23920 =
 [
-    [ "HandleEffectApply", "d4/da7/a23920.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d4/da7/a23920.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d4/da7/a23920.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d4/da7/a23920.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d4/da7/a23920.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d4/da7/a23920.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d7/d77/a23924.html", "d7/d77/a23924" ],
+    [ "instance_shattered_halls", "d4/da7/a23920.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d4/da7/a23920.html#a82388466811b022a725ba721845cadf3", null ]
 ];

@@ -1,7 +1,9 @@
 var a25440 =
 [
-    [ "HandleScript", "dc/da2/a25440.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "dc/da2/a25440.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "dc/da2/a25440.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "dc/da2/a25440.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "spell_gen_lifebloom", "dc/da2/a25440.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "dc/da2/a25440.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "dc/da2/a25440.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "dc/da2/a25440.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "dc/da2/a25440.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "dc/da2/a25440.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

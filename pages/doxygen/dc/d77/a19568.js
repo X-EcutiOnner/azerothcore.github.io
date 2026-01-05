@@ -1,6 +1,7 @@
 var a19568 =
 [
-    [ "boss_eregosAI", "dc/d47/a19572.html", "dc/d47/a19572" ],
-    [ "boss_eregos", "dc/d77/a19568.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "dc/d77/a19568.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "EoEDrakeEnterVehicleEvent", "dc/d77/a19568.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "dc/d77/a19568.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "dc/d77/a19568.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "dc/d77/a19568.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

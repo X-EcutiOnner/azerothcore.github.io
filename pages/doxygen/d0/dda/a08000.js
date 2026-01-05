@@ -1,9 +1,7 @@
 var a08000 =
 [
-    [ "cancelTime", "d0/dda/a08000.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "d0/dda/a08000.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "d0/dda/a08000.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "d0/dda/a08000.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "d0/dda/a08000.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "d0/dda/a08000.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "RBEntryInfo", "d0/dda/a08000.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d0/dda/a08000.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d0/dda/a08000.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d0/dda/a08000.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

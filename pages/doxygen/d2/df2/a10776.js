@@ -1,5 +1,5 @@
 var a10776 =
 [
-    [ "Icon", "d2/df2/a10776.html#ae47c09144b18e42aa48499de3e3fe276", null ],
-    [ "Name", "d2/df2/a10776.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
+    [ "GuildLeave", "d2/df2/a10776.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "d2/df2/a10776.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

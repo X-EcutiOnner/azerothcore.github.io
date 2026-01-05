@@ -1,10 +1,6 @@
 var a10304 =
 [
-    [ "ArenaTeamScript", "dc/d36/a10304.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "dc/d36/a10304.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "dc/d36/a10304.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "dc/d36/a10304.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "dc/d36/a10304.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "dc/d36/a10304.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "dc/d36/a10304.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "ALEScript", "dc/d36/a10304.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "dc/d36/a10304.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "dc/d36/a10304.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

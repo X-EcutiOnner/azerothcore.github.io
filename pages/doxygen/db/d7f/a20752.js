@@ -1,5 +1,5 @@
 var a20752 =
 [
-    [ "achievement_quick_shave", "db/d7f/a20752.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "db/d7f/a20752.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "db/d7f/a20752.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "db/d7f/a20752.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

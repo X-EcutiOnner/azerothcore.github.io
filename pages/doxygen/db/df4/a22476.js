@@ -1,6 +1,6 @@
 var a22476 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/df4/a22476.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "db/df4/a22476.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "db/df4/a22476.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_time_lost_proto_drakeAI", "d8/d88/a22480.html", "d8/d88/a22480" ],
+    [ "npc_time_lost_proto_drake", "db/df4/a22476.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "db/df4/a22476.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

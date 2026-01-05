@@ -1,6 +1,11 @@
 var a13644 =
 [
-    [ "ChangeSummonPos", "d2/d24/a13644.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d2/d24/a13644.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d2/d24/a13644.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "npc_kalecgos_kj", "d2/d24/a13644.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d2/d24/a13644.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d2/d24/a13644.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d2/d24/a13644.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d2/d24/a13644.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d2/d24/a13644.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d2/d24/a13644.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d2/d24/a13644.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

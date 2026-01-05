@@ -1,9 +1,6 @@
 var a04944 =
 [
-    [ "MDLCallback", "d7/d3f/a04944.html#a241899d601778892a72080cceaa96318", null ],
-    [ "operator()", "d7/d3f/a04944.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
-    [ "operator()", "d7/d3f/a04944.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
-    [ "_callback", "d7/d3f/a04944.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
-    [ "objects", "d7/d3f/a04944.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
-    [ "objects_size", "d7/d3f/a04944.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
+    [ "Resolver", "d7/d3f/a04944.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d7/d3f/a04944.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d7/d3f/a04944.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

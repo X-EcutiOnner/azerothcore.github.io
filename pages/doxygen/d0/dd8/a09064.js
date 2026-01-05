@@ -1,17 +1,18 @@
 var a09064 =
 [
-    [ "ActionMenuID", "d0/dd8/a09064.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d0/dd8/a09064.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d0/dd8/a09064.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d0/dd8/a09064.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d0/dd8/a09064.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d0/dd8/a09064.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d0/dd8/a09064.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d0/dd8/a09064.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d0/dd8/a09064.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d0/dd8/a09064.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d0/dd8/a09064.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d0/dd8/a09064.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d0/dd8/a09064.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d0/dd8/a09064.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "BroadcastText", "d0/dd8/a09064.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "d0/dd8/a09064.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "d0/dd8/a09064.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "d0/dd8/a09064.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "d0/dd8/a09064.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "d0/dd8/a09064.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "d0/dd8/a09064.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "d0/dd8/a09064.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "d0/dd8/a09064.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "d0/dd8/a09064.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "d0/dd8/a09064.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "d0/dd8/a09064.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "d0/dd8/a09064.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "d0/dd8/a09064.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "d0/dd8/a09064.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

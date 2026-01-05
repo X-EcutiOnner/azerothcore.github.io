@@ -1,12 +1,6 @@
 var a19204 =
 [
-    [ "npc_gothik_triggerAI", "de/dc5/a19204.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "de/dc5/a19204.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "de/dc5/a19204.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "de/dc5/a19204.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "de/dc5/a19204.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "de/dc5/a19204.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "de/dc5/a19204.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "de/dc5/a19204.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "de/dc5/a19204.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "boss_isle_of_conquestAI", "db/d3c/a19208.html", "db/d3c/a19208" ],
+    [ "boss_isle_of_conquest", "de/dc5/a19204.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "de/dc5/a19204.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

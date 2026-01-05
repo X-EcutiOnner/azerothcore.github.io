@@ -1,10 +1,6 @@
 var a16308 =
 [
-    [ "spell_halion_marks_aura", "d6/d39/a16308.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d6/d39/a16308.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d6/d39/a16308.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d6/d39/a16308.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d6/d39/a16308.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d6/d39/a16308.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d6/d39/a16308.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d6/dd6/a16312.html", "d6/dd6/a16312" ],
+    [ "npc_baltharus_the_warborn_clone", "d6/d39/a16308.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d6/d39/a16308.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

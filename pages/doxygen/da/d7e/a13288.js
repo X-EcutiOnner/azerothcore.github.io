@@ -1,6 +1,8 @@
 var a13288 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d2/da0/a13292.html", "d2/da0/a13292" ],
-    [ "instance_scholomance", "da/d7e/a13288.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "da/d7e/a13288.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "CheckCast", "da/d7e/a13288.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "da/d7e/a13288.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "da/d7e/a13288.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "da/d7e/a13288.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "da/d7e/a13288.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

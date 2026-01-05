@@ -1,6 +1,5 @@
 var a17784 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d2/dfc/a17784.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d2/dfc/a17784.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d2/dfc/a17784.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "achievement_flu_shot_shortage", "d2/dfc/a17784.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
+    [ "OnCheck", "d2/dfc/a17784.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
 ];

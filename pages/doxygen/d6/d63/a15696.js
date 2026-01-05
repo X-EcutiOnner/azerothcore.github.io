@@ -1,6 +1,6 @@
 var a15696 =
 [
-    [ "npc_giant_spotlightAI", "df/ddb/a15700.html", "df/ddb/a15700" ],
-    [ "npc_giant_spotlight", "d6/d63/a15696.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d6/d63/a15696.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "npc_tiger_matriarch_creditAI", "d6/d63/a15696.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d6/d63/a15696.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d6/d63/a15696.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

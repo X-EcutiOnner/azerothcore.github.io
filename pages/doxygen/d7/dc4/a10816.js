@@ -1,11 +1,12 @@
 var a10816 =
 [
-    [ "SaveGuildEmblem", "d7/dc4/a10816.html#ae3e507a567dfbead91c84629008539d2", null ],
-    [ "Read", "d7/dc4/a10816.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
-    [ "BColor", "d7/dc4/a10816.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
-    [ "Bg", "d7/dc4/a10816.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
-    [ "BStyle", "d7/dc4/a10816.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
-    [ "EColor", "d7/dc4/a10816.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
-    [ "EStyle", "d7/dc4/a10816.html#a60c52a080284fabe96c579f39fb0834f", null ],
-    [ "Vendor", "d7/dc4/a10816.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
+    [ "Charges", "d7/dc4/a10816.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d7/dc4/a10816.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d7/dc4/a10816.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d7/dc4/a10816.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d7/dc4/a10816.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d7/dc4/a10816.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d7/dc4/a10816.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d7/dc4/a10816.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d7/dc4/a10816.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

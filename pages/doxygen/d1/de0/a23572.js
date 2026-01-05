@@ -1,7 +1,7 @@
 var a23572 =
 [
-    [ "HandleScript", "d1/de0/a23572.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d1/de0/a23572.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d1/de0/a23572.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d1/de0/a23572.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "HandleProc", "d1/de0/a23572.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d1/de0/a23572.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d1/de0/a23572.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d1/de0/a23572.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

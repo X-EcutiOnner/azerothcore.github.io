@@ -1,7 +1,6 @@
 var a15760 =
 [
-    [ "DelayedWindstoneSummonEvent", "dc/d88/a15760.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "dc/d88/a15760.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "dc/d88/a15760.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "dc/d88/a15760.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_silva_filnaveth", "dc/d88/a15760.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "dc/d88/a15760.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "dc/d88/a15760.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

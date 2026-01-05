@@ -1,15 +1,7 @@
 var a19216 =
 [
-    [ "boss_grobbulusAI", "d9/dc5/a19216.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "d9/dc5/a19216.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "d9/dc5/a19216.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d9/dc5/a19216.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d9/dc5/a19216.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d9/dc5/a19216.html#ad215f20452cd48c2c2bca394410d739b", null ],
-    [ "Reset", "d9/dc5/a19216.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SummonedCreatureDespawn", "d9/dc5/a19216.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "d9/dc5/a19216.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d9/dc5/a19216.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "d9/dc5/a19216.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "d9/dc5/a19216.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "HandleGameObjectDamage", "d9/dc5/a19216.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d9/dc5/a19216.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d9/dc5/a19216.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d9/dc5/a19216.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

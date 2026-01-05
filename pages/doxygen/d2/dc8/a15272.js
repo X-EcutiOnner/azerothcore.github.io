@@ -1,5 +1,7 @@
 var a15272 =
 [
-    [ "boss_vem", "d2/dc8/a15272.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "d2/dc8/a15272.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "boss_kurinnaxx", "d2/dc8/a15272.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d2/dc8/a15272.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d2/dc8/a15272.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d2/dc8/a15272.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

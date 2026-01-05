@@ -1,8 +1,10 @@
 var a16640 =
 [
-    [ "npc_toc_boomkinAI", "d8/dce/a16640.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d8/dce/a16640.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d8/dce/a16640.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d8/dce/a16640.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d8/dce/a16640.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_nerubian_burrowerAI", "d8/dce/a16640.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "d8/dce/a16640.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "d8/dce/a16640.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "d8/dce/a16640.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "d8/dce/a16640.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "d8/dce/a16640.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "d8/dce/a16640.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

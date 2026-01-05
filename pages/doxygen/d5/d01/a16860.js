@@ -1,7 +1,6 @@
 var a16860 =
 [
-    [ "HandleScriptEffect", "d5/d01/a16860.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d5/d01/a16860.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d5/d01/a16860.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d5/d01/a16860.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "boss_dreadscaleAI", "d3/d07/a16864.html", "d3/d07/a16864" ],
+    [ "boss_dreadscale", "d5/d01/a16860.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "d5/d01/a16860.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

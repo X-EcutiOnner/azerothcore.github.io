@@ -1,6 +1,8 @@
 var a15544 =
 [
-    [ "npc_webbed_creatureAI", "d5/d10/a15548.html", "d5/d10/a15548" ],
-    [ "npc_webbed_creature", "d4/d5c/a15544.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d4/d5c/a15544.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_ahnqiraji_critter", "d4/d5c/a15544.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d4/d5c/a15544.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d4/d5c/a15544.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d4/d5c/a15544.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d4/d5c/a15544.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

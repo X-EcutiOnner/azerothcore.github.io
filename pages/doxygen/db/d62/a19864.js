@@ -1,6 +1,7 @@
 var a19864 =
 [
-    [ "npc_algalon_worm_holeAI", "db/dea/a19868.html", "db/dea/a19868" ],
-    [ "npc_algalon_worm_hole", "db/d62/a19864.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "db/d62/a19864.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "creature", "db/d62/a19864.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "db/d62/a19864.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "db/d62/a19864.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "db/d62/a19864.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

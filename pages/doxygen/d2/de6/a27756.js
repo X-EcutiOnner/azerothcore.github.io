@@ -1,10 +1,11 @@
 var a27756 =
 [
-    [ "npc_dancing_flamesAI", "d2/de6/a27756.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d2/de6/a27756.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d2/de6/a27756.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d2/de6/a27756.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d2/de6/a27756.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d2/de6/a27756.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d2/de6/a27756.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_artoriusAI", "d2/de6/a27756.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d2/de6/a27756.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d2/de6/a27756.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d2/de6/a27756.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d2/de6/a27756.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d2/de6/a27756.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d2/de6/a27756.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d2/de6/a27756.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

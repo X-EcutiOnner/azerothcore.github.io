@@ -1,11 +1,9 @@
 var a18436 =
 [
-    [ "AddMissingStack", "d1/d11/a18436.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "d1/d11/a18436.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "d1/d11/a18436.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "d1/d11/a18436.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "d1/d11/a18436.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "d1/d11/a18436.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "d1/d11/a18436.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "d1/d11/a18436.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "ShadowTrapLKTargetSelector", "d1/d11/a18436.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d1/d11/a18436.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d1/d11/a18436.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d1/d11/a18436.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d1/d11/a18436.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d1/d11/a18436.html#af416013aabf3b217b07228072076603d", null ]
 ];

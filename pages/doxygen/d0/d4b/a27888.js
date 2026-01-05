@@ -1,9 +1,7 @@
 var a27888 =
 [
-    [ "npc_necropolis_health", "d0/d4b/a27888.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "d0/d4b/a27888.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "d0/d4b/a27888.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "d0/d4b/a27888.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "d0/d4b/a27888.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "d0/d4b/a27888.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "npc_guardianAI", "d0/d4b/a27888.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d0/d4b/a27888.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d0/d4b/a27888.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d0/d4b/a27888.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

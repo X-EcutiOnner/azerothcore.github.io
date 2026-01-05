@@ -1,26 +1,8 @@
 var a08680 =
 [
-    [ "PlayerTaxi", "de/dcc/a08680.html#a33cfc1b5bf7cc5eb253855967a532d8b", null ],
-    [ "~PlayerTaxi", "de/dcc/a08680.html#ab8ba2e4cebd37f540e45d1f41cf46fb4", null ],
-    [ "AddTaxiDestination", "de/dcc/a08680.html#a1ecef7f42bb7197ce7c6ca35c7010ec3", null ],
-    [ "AppendTaximaskTo", "de/dcc/a08680.html#ab18bdbd8b7e04949d6d4b9adfabf8451", null ],
-    [ "ClearTaxiDestinations", "de/dcc/a08680.html#ab4422be16e69b1f32bce002ab71ab5a5", null ],
-    [ "empty", "de/dcc/a08680.html#a76919e4ba603f6a1b88a3c213767e09d", null ],
-    [ "GetCurrentTaxiPath", "de/dcc/a08680.html#ae4a6a1a97932c90ca79a282f131711e7", null ],
-    [ "GetFlightMasterFactionTemplate", "de/dcc/a08680.html#a487e2760da8446a3c34dddc2d4c5c0f5", null ],
-    [ "GetPath", "de/dcc/a08680.html#a031051c85f1ce8fb8ab172c86bb4382b", null ],
-    [ "GetTaxiDestination", "de/dcc/a08680.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0", null ],
-    [ "GetTaxiSource", "de/dcc/a08680.html#a4313e575d9bd2a60852f5e944f79ac71", null ],
-    [ "InitTaxiNodesForLevel", "de/dcc/a08680.html#ae63c6941e0e8b7c0920cc1f255641e4d", null ],
-    [ "IsTaximaskNodeKnown", "de/dcc/a08680.html#a76220474a42fc4207bb6f40b589a6511", null ],
-    [ "LoadTaxiDestinationsFromString", "de/dcc/a08680.html#a6261b2b052d1a8385a480372450c7191", null ],
-    [ "LoadTaxiMask", "de/dcc/a08680.html#a010941cce9bf3b9c37d951c2ece4b3d4", null ],
-    [ "NextTaxiDestination", "de/dcc/a08680.html#aa417f33d57d94db8c8aa9df56e329835", null ],
-    [ "SaveTaxiDestinationsToString", "de/dcc/a08680.html#a0cffd730b09becde5f65882bc5c0832c", null ],
-    [ "SetFlightMasterFactionTemplateId", "de/dcc/a08680.html#a2be37f977bdf5dc787e1923b4d1ed12e", null ],
-    [ "SetTaximaskNode", "de/dcc/a08680.html#a34a9653fbdc2b4a7c86a990fcc080e64", null ],
-    [ "operator<<", "de/dcc/a08680.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
-    [ "m_flightMasterFactionId", "de/dcc/a08680.html#a52ed114d167bcc8079fe37c410b25b31", null ],
-    [ "m_TaxiDestinations", "de/dcc/a08680.html#a3aff323ba6dfee2f8776efb49e3ebfbf", null ],
-    [ "m_taximask", "de/dcc/a08680.html#abf0d776badac2d25cf823609d5fec799", null ]
+    [ "checkLeaderOnly", "de/dcc/a08680.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "de/dcc/a08680.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "de/dcc/a08680.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "de/dcc/a08680.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "de/dcc/a08680.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

@@ -1,6 +1,7 @@
 var a12952 =
 [
-    [ "npc_grandmother", "de/d2e/a12952.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "de/d2e/a12952.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "de/d2e/a12952.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "OnRemove", "de/d2e/a12952.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "de/d2e/a12952.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "de/d2e/a12952.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "de/d2e/a12952.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

@@ -1,6 +1,7 @@
 var a16420 =
 [
-    [ "npc_argent_soldierAI", "dd/dce/a16424.html", "dd/dce/a16424" ],
-    [ "npc_argent_soldier", "dc/d43/a16420.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "dc/d43/a16420.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "OnApply", "dc/d43/a16420.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "dc/d43/a16420.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "dc/d43/a16420.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "dc/d43/a16420.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

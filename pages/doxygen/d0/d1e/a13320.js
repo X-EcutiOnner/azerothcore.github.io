@@ -1,7 +1,6 @@
 var a13320 =
 [
-    [ "npc_apothecary_genericAI", "d0/d1e/a13320.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d0/d1e/a13320.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d0/d1e/a13320.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d0/d1e/a13320.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_valkyr_battle_maidenAI", "d3/d06/a13324.html", "d3/d06/a13324" ],
+    [ "npc_valkyr_battle_maiden", "d0/d1e/a13320.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "d0/d1e/a13320.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

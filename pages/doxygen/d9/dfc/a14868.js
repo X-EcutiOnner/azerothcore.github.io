@@ -1,8 +1,7 @@
 var a14868 =
 [
-    [ "hyjalThrallAI", "d9/dfc/a14868.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d9/dfc/a14868.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d9/dfc/a14868.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d9/dfc/a14868.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d9/dfc/a14868.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "boss_azuregosAI", "d0/d97/a14872.html", "d0/d97/a14872" ],
+    [ "boss_azuregos", "d9/dfc/a14868.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d9/dfc/a14868.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d9/dfc/a14868.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

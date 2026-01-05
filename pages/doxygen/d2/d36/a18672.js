@@ -1,7 +1,5 @@
 var a18672 =
 [
-    [ "npc_valithria_portalAI", "d2/d36/a18672.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d2/d36/a18672.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d2/d36/a18672.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d2/d36/a18672.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_icc_lk_checktargetAI", "d2/d36/a18672.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "d2/d36/a18672.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

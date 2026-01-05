@@ -1,30 +1,30 @@
 var a01652 =
 [
-    [ "DisableData", "d6/de8/a07934.html", "d6/de8/a07934" ],
-    [ "DisableMgr", "db/d11/a07938.html", "db/d11/a07938" ],
-    [ "sDisableMgr", "d0/dc0/a01652.html#a1a184d22bd27210ea5af79573927826a", null ],
-    [ "DisableType", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
-      [ "DISABLE_TYPE_SPELL", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
-      [ "DISABLE_TYPE_QUEST", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
-      [ "DISABLE_TYPE_MAP", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c", null ],
-      [ "DISABLE_TYPE_BATTLEGROUND", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a", null ],
-      [ "DISABLE_TYPE_ACHIEVEMENT_CRITERIA", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1", null ],
-      [ "DISABLE_TYPE_OUTDOORPVP", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296", null ],
-      [ "DISABLE_TYPE_VMAP", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff", null ],
-      [ "DISABLE_TYPE_GO_LOS", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
-      [ "DISABLE_TYPE_LFG_MAP", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
-      [ "DISABLE_TYPE_GAME_EVENT", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
-      [ "DISABLE_TYPE_LOOT", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
-      [ "MAX_DISABLE_TYPES", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
+    [ "LanguageType", "d0/dc0/a01652.html#ada735c6d6b04a8714b2751f0c4053e34", [
+      [ "LT_BASIC_LATIN", "d0/dc0/a01652.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5", null ],
+      [ "LT_EXTENDEN_LATIN", "d0/dc0/a01652.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8", null ],
+      [ "LT_CYRILLIC", "d0/dc0/a01652.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402", null ],
+      [ "LT_EAST_ASIA", "d0/dc0/a01652.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40", null ],
+      [ "LT_ANY", "d0/dc0/a01652.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c", null ]
     ] ],
-    [ "SpellDisableTypes", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
-      [ "SPELL_DISABLE_PLAYER", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
-      [ "SPELL_DISABLE_CREATURE", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707", null ],
-      [ "SPELL_DISABLE_PET", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4", null ],
-      [ "SPELL_DISABLE_DEPRECATED_SPELL", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b", null ],
-      [ "SPELL_DISABLE_MAP", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484", null ],
-      [ "SPELL_DISABLE_AREA", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
-      [ "SPELL_DISABLE_LOS", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
-      [ "MAX_SPELL_DISABLE_TYPE", "d0/dc0/a01652.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
-    ] ]
+    [ "CheckAndFixGOChairHeightId", "d0/dc0/a01652.html#a4fb11f3d6b7a6d3bd9bf49578906fc10", null ],
+    [ "CheckGOConsumable", "d0/dc0/a01652.html#a9be9514be7df6dd6a73a9b3889eccb7c", null ],
+    [ "CheckGOLinkedTrapId", "d0/dc0/a01652.html#aa667048b6811121b380981beec1541fd", null ],
+    [ "CheckGOLockId", "d0/dc0/a01652.html#abc01124dd1fecdf98bbe1948541557b0", null ],
+    [ "CheckGONoDamageImmuneId", "d0/dc0/a01652.html#a288e20914d793779cf9f2bfd9951b812", null ],
+    [ "CheckGOSpellId", "d0/dc0/a01652.html#a288fa8c196f7adce5d43050849366b84", null ],
+    [ "GetLanguageDescByID", "d0/dc0/a01652.html#a5e723b66ad85198f3b0625903f5edac6", null ],
+    [ "GetRealmLanguageType", "d0/dc0/a01652.html#a1d95dafadc9b3a7d7bc91fa7f188d464", null ],
+    [ "GetScriptCommandName", "d0/dc0/a01652.html#a46371802334fe0589dc4f2b065b590e5", null ],
+    [ "GetScriptsMapByType", "d0/dc0/a01652.html#a34339a53afbec181844cc9d936d1d9a2", null ],
+    [ "GetScriptsTableNameByType", "d0/dc0/a01652.html#acc60b4b0ead06280f2b3289f8da57cb9", null ],
+    [ "GetSkillRangeType", "d0/dc0/a01652.html#a2e3e576d2e15a5033a24dec106b42453", null ],
+    [ "isValidString", "d0/dc0/a01652.html#a4f5a667f6078863c869b5c92387532fa", null ],
+    [ "normalizePlayerName", "d0/dc0/a01652.html#af55111c173fd16ba2898f3046dfa3d9a", null ],
+    [ "lang_description", "d0/dc0/a01652.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "qualityToBuyValueConfig", "d0/dc0/a01652.html#aa622a06edade2e3d18da67881d15918c", null ],
+    [ "qualityToSellValueConfig", "d0/dc0/a01652.html#a774395755c07e6b3831e37e1f8448844", null ],
+    [ "sEventScripts", "d0/dc0/a01652.html#a99fc90e0f89dbe2684b6563324d8c23b", null ],
+    [ "sSpellScripts", "d0/dc0/a01652.html#a3c2a9c06ca944c1ce8c2f02692bda619", null ],
+    [ "sWaypointScripts", "d0/dc0/a01652.html#ad3bd41d0f54f2baa59f94e7fb1b426d1", null ]
 ];

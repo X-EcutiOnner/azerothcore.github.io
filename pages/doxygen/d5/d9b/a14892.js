@@ -1,10 +1,9 @@
 var a14892 =
 [
-    [ "npc_hyjal_frost_wyrm", "d5/d9b/a14892.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d5/d9b/a14892.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d5/d9b/a14892.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d5/d9b/a14892.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d5/d9b/a14892.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d5/d9b/a14892.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d5/d9b/a14892.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "npc_ancient_wisp", "d5/d9b/a14892.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d5/d9b/a14892.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d5/d9b/a14892.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d5/d9b/a14892.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d5/d9b/a14892.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d5/d9b/a14892.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

@@ -1,4 +1,6 @@
 var a28560 =
 [
-    [ "Id", "d3/dd8/a28560.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "Enchantment", "d3/dd8/a28560.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d3/dd8/a28560.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d3/dd8/a28560.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

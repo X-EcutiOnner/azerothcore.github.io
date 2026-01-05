@@ -1,7 +1,6 @@
 var a19400 =
 [
-    [ "npc_naxxramas_trigger", "d7/d66/a19400.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d7/d66/a19400.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d7/d66/a19400.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d7/d66/a19400.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "boss_patchwerkAI", "da/d89/a19404.html", "da/d89/a19404" ],
+    [ "boss_patchwerk", "d7/d66/a19400.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d7/d66/a19400.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

@@ -1,5 +1,9 @@
 var a28568 =
 [
-    [ "CastTime", "da/d3d/a28568.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "da/d3d/a28568.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "itemId", "da/d3d/a28568.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "da/d3d/a28568.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "da/d3d/a28568.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "da/d3d/a28568.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "da/d3d/a28568.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "da/d3d/a28568.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

@@ -1,6 +1,7 @@
 var a21308 =
 [
-    [ "npc_frenzied_worgenAI", "d4/dce/a21312.html", "d4/dce/a21312" ],
-    [ "npc_frenzied_worgen", "d2/dc1/a21308.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d2/dc1/a21308.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "HandleEffectPeriodic", "d2/dc1/a21308.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d2/dc1/a21308.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d2/dc1/a21308.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d2/dc1/a21308.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

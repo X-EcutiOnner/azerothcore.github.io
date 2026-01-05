@@ -1,10 +1,7 @@
 var a21196 =
 [
-    [ "npc_ulduar_snow_mound", "d4/d1c/a21196.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "d4/d1c/a21196.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "d4/d1c/a21196.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "d4/d1c/a21196.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "d4/d1c/a21196.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "d4/d1c/a21196.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "d4/d1c/a21196.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "HandleEffectCalcPeriodic", "d4/d1c/a21196.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d4/d1c/a21196.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d4/d1c/a21196.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d4/d1c/a21196.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

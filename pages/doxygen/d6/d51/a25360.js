@@ -1,7 +1,7 @@
 var a25360 =
 [
-    [ "PrepareSpellScript", "d6/d51/a25360.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d6/d51/a25360.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d6/d51/a25360.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d6/d51/a25360.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleDummy", "d6/d51/a25360.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
+    [ "Load", "d6/d51/a25360.html#a31075533c24011797bd0f99dce5e8330", null ],
+    [ "PrepareSpellScript", "d6/d51/a25360.html#abf0acc8765f6e02674b8e93aca575a98", null ],
+    [ "Register", "d6/d51/a25360.html#ad1bd05a154b506424954ef879e5b9fba", null ]
 ];

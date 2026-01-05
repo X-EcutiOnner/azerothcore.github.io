@@ -1,6 +1,7 @@
 var a18832 =
 [
-    [ "npc_captain_grondelAI", "db/d40/a18832.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "db/d40/a18832.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "db/d40/a18832.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "PeriodicTick", "db/d40/a18832.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "db/d40/a18832.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "db/d40/a18832.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "db/d40/a18832.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

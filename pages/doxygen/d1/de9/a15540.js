@@ -1,7 +1,8 @@
 var a15540 =
 [
-    [ "HandleEffectRemove", "d1/de9/a15540.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d1/de9/a15540.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d1/de9/a15540.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d1/de9/a15540.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_obsidian_nullifier", "d1/de9/a15540.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d1/de9/a15540.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d1/de9/a15540.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d1/de9/a15540.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d1/de9/a15540.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

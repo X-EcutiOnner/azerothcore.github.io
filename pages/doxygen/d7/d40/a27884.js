@@ -1,5 +1,6 @@
 var a27884 =
 [
-    [ "npc_necropolis", "d7/d40/a27884.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "d7/d40/a27884.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "npc_guardianAI", "d0/d4b/a27888.html", "d0/d4b/a27888" ],
+    [ "npc_guardian", "d7/d40/a27884.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d7/d40/a27884.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

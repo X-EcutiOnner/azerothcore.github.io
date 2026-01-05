@@ -1,6 +1,5 @@
 var a23588 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d6/d65/a23592.html", "d6/d65/a23592" ],
-    [ "instance_the_underbog", "dc/d75/a23588.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "dc/d75/a23588.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_quagmirran", "dc/d75/a23588.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "dc/d75/a23588.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

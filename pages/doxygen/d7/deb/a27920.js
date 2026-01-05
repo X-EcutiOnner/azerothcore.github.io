@@ -1,4 +1,6 @@
 var a27920 =
 [
-    [ "operator()", "d7/deb/a27920.html#a76ede7ef27a41a284821e690c88375c9", null ]
+    [ "npc_locksmith", "d7/deb/a27920.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d7/deb/a27920.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d7/deb/a27920.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

@@ -1,8 +1,6 @@
 var a23216 =
 [
-    [ "Absorb", "d4/d76/a23216.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d4/d76/a23216.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d4/d76/a23216.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d4/d76/a23216.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d4/d76/a23216.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "PrepareSpellScript", "d4/d76/a23216.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d4/d76/a23216.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d4/d76/a23216.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

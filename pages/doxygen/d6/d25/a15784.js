@@ -1,6 +1,7 @@
 var a15784 =
 [
-    [ "npc_aquementasAI", "df/df7/a15788.html", "df/df7/a15788" ],
-    [ "npc_aquementas", "d6/d25/a15784.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d6/d25/a15784.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_giant_spotlightAI", "d6/d25/a15784.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d6/d25/a15784.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d6/d25/a15784.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d6/d25/a15784.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

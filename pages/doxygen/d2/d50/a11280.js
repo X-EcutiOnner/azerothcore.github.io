@@ -1,12 +1,19 @@
 var a11280 =
 [
-    [ "SpellDestination", "d2/d50/a11280.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d2/d50/a11280.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d2/d50/a11280.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d2/d50/a11280.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d2/d50/a11280.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d2/d50/a11280.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d2/d50/a11280.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d2/d50/a11280.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d2/d50/a11280.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "PacketThrottlingMap", "d2/d50/a11280.html#aa41dd21032403490c49a400651c98855", null ],
+    [ "Policy", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aa", [
+      [ "Process", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
+      [ "Kick", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
+      [ "Ban", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
+      [ "Log", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
+      [ "BlockingThrottle", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
+      [ "DropPacket", "d2/d50/a11280.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
+    ] ],
+    [ "DosProtection", "d2/d50/a11280.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
+    [ "DosProtection", "d2/d50/a11280.html#a8850d18ae254633f6bde5c85cbcef830", null ],
+    [ "EvaluateOpcode", "d2/d50/a11280.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
+    [ "operator=", "d2/d50/a11280.html#a98394089b867ff6e8107b7975a67737d", null ],
+    [ "World", "d2/d50/a11280.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
+    [ "_PacketThrottlingMap", "d2/d50/a11280.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
+    [ "Session", "d2/d50/a11280.html#a3f3f5397fb30cdf14141480659b18208", null ]
 ];

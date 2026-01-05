@@ -1,10 +1,10 @@
 var a03344 =
 [
-    [ "ban_commandscript", "d1/db8/a11839.html", "d1/db8/a11839" ],
-    [ "BanMode", "da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264", [
-      [ "BAN_ACCOUNT", "da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
-      [ "BAN_CHARACTER", "da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
-      [ "BAN_IP", "da/dcf/a03344.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
-    ] ],
-    [ "AddSC_ban_commandscript", "da/dcf/a03344.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
+    [ "AccountFlagText", "d8/d2e/a11964.html", "d8/d2e/a11964" ],
+    [ "misc_commandscript", "d2/d1c/a11968.html", "d2/d1c/a11968" ],
+    [ "AddSC_misc_commandscript", "da/dcf/a03344.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "da/dcf/a03344.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "accountFlagText", "da/dcf/a03344.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
+    [ "SPELL_FREEZE", "da/dcf/a03344.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "da/dcf/a03344.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

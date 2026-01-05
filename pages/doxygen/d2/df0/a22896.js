@@ -1,9 +1,10 @@
 var a22896 =
 [
-    [ "npc_flame_of_azzinoth", "d2/df0/a22896.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d2/df0/a22896.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d2/df0/a22896.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d2/df0/a22896.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d2/df0/a22896.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d2/df0/a22896.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "boss_talon_king_ikiss", "d2/df0/a22896.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d2/df0/a22896.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d2/df0/a22896.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d2/df0/a22896.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d2/df0/a22896.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d2/df0/a22896.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d2/df0/a22896.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

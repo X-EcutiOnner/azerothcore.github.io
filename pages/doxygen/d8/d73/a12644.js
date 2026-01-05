@@ -1,21 +1,9 @@
 var a12644 =
 [
-    [ "boss_majordomoAI", "d8/d73/a12644.html#a55c13b164aa2d0bc2bd4a18f3043fca2", null ],
-    [ "CanAIAttack", "d8/d73/a12644.html#adcd7b8ced551c2ee3868f6586778ca64", null ],
-    [ "DamageTaken", "d8/d73/a12644.html#a7cc99275d0b798a56aeb189f364669e9", null ],
-    [ "DoAction", "d8/d73/a12644.html#ae3820f98568287d44b6366416f858858", null ],
-    [ "InitializeAI", "d8/d73/a12644.html#ae3adee89e63c289f1dd38e0f7700e67b", null ],
-    [ "JustDied", "d8/d73/a12644.html#a8db4401bfec6986abe2490e1bb05b9ee", null ],
-    [ "JustEngagedWith", "d8/d73/a12644.html#a8ff20148be5869f2ab4bb8d66f2fea5b", null ],
-    [ "JustReachedHome", "d8/d73/a12644.html#aaeccf6f1c74dc1109b3b0968f5cc57c6", null ],
-    [ "JustSummoned", "d8/d73/a12644.html#a51bea2ba94084c0ea6a8da98f08e02ce", null ],
-    [ "KilledUnit", "d8/d73/a12644.html#a986f347bfe35f17fada815595825b547", null ],
-    [ "MovementInform", "d8/d73/a12644.html#a49ed1d7da066305a46ab99fbd897572a", null ],
-    [ "Reset", "d8/d73/a12644.html#aba684c09253ba1cccf788fbf01a10d71", null ],
-    [ "SpellHit", "d8/d73/a12644.html#ae40ac9fdd49c182daff81f411d316bb4", null ],
-    [ "SummonedCreatureDies", "d8/d73/a12644.html#af1e7213b798cdab457d8b32024da414e", null ],
-    [ "UpdateAI", "d8/d73/a12644.html#ae3b52ef5527ab932d1bfa479ed767b0f", null ],
-    [ "aliveMinionsGUIDS", "d8/d73/a12644.html#a9571e4fca8a95459d9037e656ecd6454", null ],
-    [ "majordomoSummonsData", "d8/d73/a12644.html#a2cf09a0ea3428cd7f49e00b0ab629c3e", null ],
-    [ "static_minionsGUIDS", "d8/d73/a12644.html#ab06ea927cb87aabbd5367399cb2b17eb", null ]
+    [ "HandleAfterApply", "d8/d73/a12644.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d8/d73/a12644.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d8/d73/a12644.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d8/d73/a12644.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d8/d73/a12644.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d8/d73/a12644.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

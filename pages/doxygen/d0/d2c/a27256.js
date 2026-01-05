@@ -1,8 +1,10 @@
 var a27256 =
 [
-    [ "CharacterActionIpLogger", "d0/d2c/a27256.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d0/d2c/a27256.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d0/d2c/a27256.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d0/d2c/a27256.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d0/d2c/a27256.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "CheckProc", "d0/d2c/a27256.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "d0/d2c/a27256.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "d0/d2c/a27256.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "d0/d2c/a27256.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "d0/d2c/a27256.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "d0/d2c/a27256.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTarget", "d0/d2c/a27256.html#ad48f21d3a45e97857265e6047f253910", null ]
 ];

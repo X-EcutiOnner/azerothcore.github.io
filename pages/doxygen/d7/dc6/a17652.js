@@ -1,7 +1,6 @@
 var a17652 =
 [
-    [ "FilterTargets", "d7/dc6/a17652.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d7/dc6/a17652.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d7/dc6/a17652.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d7/dc6/a17652.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "FilterTargets", "d7/dc6/a17652.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d7/dc6/a17652.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d7/dc6/a17652.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

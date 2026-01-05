@@ -1,6 +1,6 @@
 var a25968 =
 [
-    [ "HandleTriggerSpell", "d7/dbc/a25968.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d7/dbc/a25968.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d7/dbc/a25968.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "PartyTimeEmoteEvent", "d7/dbc/a25968.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "d7/dbc/a25968.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "d7/dbc/a25968.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

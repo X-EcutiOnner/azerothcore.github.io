@@ -1,11 +1,8 @@
 var a01391 =
 [
-    [ "AllCommandScript", "da/d85/a10295.html", "da/d85/a10295" ],
-    [ "CommandSC", "dc/dbc/a01391.html#a0c35d8c2fdd730a0360fd00502881c03", null ],
-    [ "AllCommandHook", "dc/dbc/a01391.html#a57c7df35e0370887ade698d62704997b", [
-      [ "ALLCOMMANDHOOK_ON_HANDLE_DEV_COMMAND", "dc/dbc/a01391.html#a57c7df35e0370887ade698d62704997bab762a34db533207a5f8f5b0db870f0b0", null ],
-      [ "ALLCOMMANDHOOK_ON_TRY_EXECUTE_COMMAND", "dc/dbc/a01391.html#a57c7df35e0370887ade698d62704997bac267dc607dca6da8a2195d77a9def327", null ],
-      [ "ALLCOMMANDHOOK_ON_BEFORE_IS_INVOKER_VISIBLE", "dc/dbc/a01391.html#a57c7df35e0370887ade698d62704997ba7d51819392ef067de524c06437fab836", null ],
-      [ "ALLCOMMANDHOOK_END", "dc/dbc/a01391.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812", null ]
-    ] ]
+    [ "CreatureScript", "d6/d14/a10372.html", "d6/d14/a10372" ],
+    [ "GenericCreatureScript< AI >", "de/d1f/a10376.html", "de/d1f/a10376" ],
+    [ "FactoryCreatureScript< AI, AIFactory >", "da/dd9/a10380.html", "da/dd9/a10380" ],
+    [ "RegisterCreatureAI", "dc/dbc/a01391.html#a5e7352841895df7117e2830448eb533f", null ],
+    [ "RegisterCreatureAIWithFactory", "dc/dbc/a01391.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
 ];

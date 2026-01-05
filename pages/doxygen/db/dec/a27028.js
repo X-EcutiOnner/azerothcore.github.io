@@ -1,8 +1,7 @@
 var a27028 =
 [
-    [ "CheckProc", "db/dec/a27028.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "db/dec/a27028.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "db/dec/a27028.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "db/dec/a27028.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "db/dec/a27028.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "AfterRemove", "db/dec/a27028.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "db/dec/a27028.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "db/dec/a27028.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "db/dec/a27028.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

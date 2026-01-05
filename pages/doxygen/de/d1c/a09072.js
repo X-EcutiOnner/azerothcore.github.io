@@ -1,7 +1,4 @@
 var a09072 =
 [
-    [ "QuestPOIPoint", "de/d1c/a09072.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "de/d1c/a09072.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "de/d1c/a09072.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "de/d1c/a09072.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "Content", "de/d1c/a09072.html#a2258fd4a2b331369a95988cfa6b42f4c", null ]
 ];

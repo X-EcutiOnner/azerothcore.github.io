@@ -1,6 +1,6 @@
 var a17340 =
 [
-    [ "boss_drakkari_elementalAI", "d1/dc5/a17344.html", "d1/dc5/a17344" ],
-    [ "boss_drakkari_elemental", "d2/d9c/a17340.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d2/d9c/a17340.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d1/dc5/a17344.html", "d1/dc5/a17344" ],
+    [ "npc_pos_tyrannus_events", "d2/d9c/a17340.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "d2/d9c/a17340.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

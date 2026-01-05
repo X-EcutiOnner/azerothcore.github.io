@@ -1,9 +1,11 @@
 var a08720 =
 [
-    [ "GlobalCooldownMgr", "db/d44/a08720.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "db/d44/a08720.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "db/d44/a08720.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "db/d44/a08720.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "db/d44/a08720.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "db/d44/a08720.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "FriendInfo", "db/d44/a08720.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "db/d44/a08720.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "db/d44/a08720.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "db/d44/a08720.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "db/d44/a08720.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "db/d44/a08720.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "db/d44/a08720.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "db/d44/a08720.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

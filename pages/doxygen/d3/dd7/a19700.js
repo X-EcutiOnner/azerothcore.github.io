@@ -1,22 +1,12 @@
 var a19700 =
 [
-    [ "boss_volkhan", "d3/dd7/a19700.html#aed5ec3ddb0fcff2a96d8ef8c0135b728", null ],
-    [ "DoAction", "d3/dd7/a19700.html#a51f1c6cf70be4f7c534b04c8663b3b46", null ],
-    [ "GetNextPos", "d3/dd7/a19700.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6", null ],
-    [ "GoToAnvil", "d3/dd7/a19700.html#a7c4550a151110cd0a1224629726f846e", null ],
-    [ "HasActiveGolem", "d3/dd7/a19700.html#a31f94b488a7c659af73fd68f58d0a8ed", null ],
-    [ "JustDied", "d3/dd7/a19700.html#acc8230a2351ae0fb2309071a03a32ded", null ],
-    [ "JustEngagedWith", "d3/dd7/a19700.html#a455d3fa27b8923dc74a676e10ff3ec46", null ],
-    [ "JustSummoned", "d3/dd7/a19700.html#a4028f7914da8580382348e444c0107c0", null ],
-    [ "KilledUnit", "d3/dd7/a19700.html#aac8893e2caa527ad4949a88121d38075", null ],
-    [ "MovementInform", "d3/dd7/a19700.html#ab17e425121949c9229b689676bd106c2", null ],
-    [ "Reset", "d3/dd7/a19700.html#a3f12d464fa4d471f905962ed9fc4237e", null ],
-    [ "SpellHitTarget", "d3/dd7/a19700.html#a87e14a0076a263b160d00d917e5fde2e", null ],
-    [ "UpdateAI", "d3/dd7/a19700.html#a6ab1851c270e58d0157949fd323aa693", null ],
-    [ "PointID", "d3/dd7/a19700.html#adfc8f7e938fdb89e3961bb8e5346ad49", null ],
-    [ "ShatteredCount", "d3/dd7/a19700.html#ab309004bce968bb858722b6bb1936b97", null ],
-    [ "shatteredStompCast", "d3/dd7/a19700.html#aa31c9cab5a6d0b053dcbb59eed250cff", null ],
-    [ "x", "d3/dd7/a19700.html#a3c8fcf00e363b3c195ce29c49fbb12c8", null ],
-    [ "y", "d3/dd7/a19700.html#aa61700b296b51c758e34753251f9c626", null ],
-    [ "z", "d3/dd7/a19700.html#a78e5238c287a005f79764c221a38ee41", null ]
+    [ "npc_oculus_drakeAI", "d3/dd7/a19700.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "d3/dd7/a19700.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "d3/dd7/a19700.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "d3/dd7/a19700.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "d3/dd7/a19700.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "d3/dd7/a19700.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "d3/dd7/a19700.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "d3/dd7/a19700.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "d3/dd7/a19700.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

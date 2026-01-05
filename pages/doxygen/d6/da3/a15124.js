@@ -1,16 +1,20 @@
 var a15124 =
 [
-    [ "npc_belnistraszAI", "d6/da3/a15124.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
-    [ "JustDied", "d6/da3/a15124.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
-    [ "JustEngagedWith", "d6/da3/a15124.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
-    [ "MovementInform", "d6/da3/a15124.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
-    [ "Reset", "d6/da3/a15124.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
-    [ "sQuestAccept", "d6/da3/a15124.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
-    [ "UpdateAI", "d6/da3/a15124.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
-    [ "channeling", "d6/da3/a15124.html#a88ff13ec705d11475de5a2080998c905", null ],
-    [ "eventInProgress", "d6/da3/a15124.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
-    [ "eventProgress", "d6/da3/a15124.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
-    [ "events", "d6/da3/a15124.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
-    [ "instance", "d6/da3/a15124.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
-    [ "spawnerCount", "d6/da3/a15124.html#aa5124160ecba044a3752f68945068776", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d6/da3/a15124.html#aa44359378462c0e0de9aad778bb67b6c", null ],
+    [ "CleanupInstance", "d6/da3/a15124.html#afa6718d4aba7ed4f2cf3da1552bff6f0", null ],
+    [ "GetData", "d6/da3/a15124.html#ae8e2aa62fd1e96aef87cd4ef00d3bf5c", null ],
+    [ "OnCreatureCreate", "d6/da3/a15124.html#a024b2c41699ec1ee40b5adbfe355c498", null ],
+    [ "OnCreatureRemove", "d6/da3/a15124.html#af9f5df1e16ca32705fb66d39f5c2526b", null ],
+    [ "OnPlayerEnter", "d6/da3/a15124.html#a151c4f2b0e2210d261a29c2c5f8512c9", null ],
+    [ "ScheduleNextPortal", "d6/da3/a15124.html#aa6187583d1a821cb8c60544566637885", null ],
+    [ "SetBossState", "d6/da3/a15124.html#a8d08e9d50547706579e2eb313583fa12", null ],
+    [ "SetData", "d6/da3/a15124.html#af6b8897ec076a9efa9c8dac8d39398a3", null ],
+    [ "Update", "d6/da3/a15124.html#aa92607dccc1d83c0bbcfd98b6b420042", null ],
+    [ "_availableRiftPositions", "d6/da3/a15124.html#a12c33ad0c493997995b13c2bf6a7271c", null ],
+    [ "_currentRift", "d6/da3/a15124.html#aa994df6a0d7f6c5547ce7c9d0e643ef5", null ],
+    [ "_encounterNPCs", "d6/da3/a15124.html#a50b6d6bf47994ae4d69c9ca26540c814", null ],
+    [ "_eventStatus", "d6/da3/a15124.html#a351f6e209d99e0a4c63e26bd9cf55646", null ],
+    [ "_noBossSpawnDelay", "d6/da3/a15124.html#a70d2a49424c250b761858a3102e37e39", null ],
+    [ "_scheduler", "d6/da3/a15124.html#ac176dc2a8851a3f8a98663037757a380", null ],
+    [ "_shieldPercent", "d6/da3/a15124.html#a8ef05e2031267a5dc21c0999e181344b", null ]
 ];

@@ -1,6 +1,6 @@
 var a17996 =
 [
-    [ "HandleScriptEffect", "d7/d91/a17996.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "d7/d91/a17996.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "d7/d91/a17996.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "CheckProc", "d7/d91/a17996.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d7/d91/a17996.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d7/d91/a17996.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

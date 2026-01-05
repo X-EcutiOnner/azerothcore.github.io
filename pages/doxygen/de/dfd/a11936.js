@@ -1,6 +1,6 @@
 var a11936 =
 [
-    [ "player_settings_commandscript", "de/dfd/a11936.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "de/dfd/a11936.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "de/dfd/a11936.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "inventory_commandscript", "de/dfd/a11936.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "de/dfd/a11936.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "de/dfd/a11936.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

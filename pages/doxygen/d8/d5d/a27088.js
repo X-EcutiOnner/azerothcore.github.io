@@ -1,7 +1,9 @@
 var a27088 =
 [
-    [ "HandleApplyAura", "d8/d5d/a27088.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d8/d5d/a27088.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d8/d5d/a27088.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d8/d5d/a27088.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "CheckCast", "d8/d5d/a27088.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "d8/d5d/a27088.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "d8/d5d/a27088.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "d8/d5d/a27088.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "d8/d5d/a27088.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "d8/d5d/a27088.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

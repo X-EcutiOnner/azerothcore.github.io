@@ -1,5 +1,6 @@
 var a01193 =
 [
-    [ "GetEnableModulesList", "dd/d43/a01193.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
-    [ "SetEnableModulesList", "dd/d43/a01193.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
+    [ "Acore::BroadcastTextBuilder", "dd/d3b/a11624.html", "dd/d3b/a11624" ],
+    [ "Acore::CustomChatTextBuilder", "d5/d8f/a11628.html", "d5/d8f/a11628" ],
+    [ "Acore::AcoreStringChatBuilder", "d9/d3c/a11632.html", "d9/d3c/a11632" ]
 ];

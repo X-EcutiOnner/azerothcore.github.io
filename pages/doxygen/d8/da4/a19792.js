@@ -1,8 +1,10 @@
 var a19792 =
 [
-    [ "dark_rune_protectorsAI", "d8/da4/a19792.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "d8/da4/a19792.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "d8/da4/a19792.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "d8/da4/a19792.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "d8/da4/a19792.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "npc_molten_golem", "d8/da4/a19792.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d8/da4/a19792.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d8/da4/a19792.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d8/da4/a19792.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d8/da4/a19792.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d8/da4/a19792.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d8/da4/a19792.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

@@ -1,17 +1,11 @@
 var a11028 =
 [
-    [ "CompactArray", "df/d45/a11028.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
-    [ "CompactArray", "df/d45/a11028.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
-    [ "CompactArray", "df/d45/a11028.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
-    [ "Clear", "df/d45/a11028.html#ae213ad313a4b0688763e882a2010c494", null ],
-    [ "GetMask", "df/d45/a11028.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
-    [ "GetSize", "df/d45/a11028.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
-    [ "Insert", "df/d45/a11028.html#a313aedf5c623505860a227149cb64b5a", null ],
-    [ "operator!=", "df/d45/a11028.html#adaade1e09d979a6e98b90253f442a9e5", null ],
-    [ "operator=", "df/d45/a11028.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
-    [ "operator=", "df/d45/a11028.html#a14d76ffa09769e341dea769424ac586c", null ],
-    [ "operator==", "df/d45/a11028.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
-    [ "operator[]", "df/d45/a11028.html#af146d3e880ec34358ff6a07247f741d8", null ],
-    [ "_contents", "df/d45/a11028.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
-    [ "_mask", "df/d45/a11028.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
+    [ "MoneyCost", "df/d45/a11028.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "df/d45/a11028.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "df/d45/a11028.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "df/d45/a11028.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "df/d45/a11028.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "df/d45/a11028.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "df/d45/a11028.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "df/d45/a11028.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

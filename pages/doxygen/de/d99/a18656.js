@@ -1,12 +1,9 @@
 var a18656 =
 [
-    [ "npc_the_lich_king_controllerAI", "de/d99/a18656.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "de/d99/a18656.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "de/d99/a18656.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "de/d99/a18656.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "de/d99/a18656.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "de/d99/a18656.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "de/d99/a18656.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "de/d99/a18656.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "de/d99/a18656.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "npc_spirit_wardenAI", "de/d99/a18656.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "de/d99/a18656.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "de/d99/a18656.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "de/d99/a18656.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "de/d99/a18656.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "de/d99/a18656.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

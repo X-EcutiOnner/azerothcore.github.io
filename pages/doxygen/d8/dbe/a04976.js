@@ -1,8 +1,9 @@
 var a04976 =
 [
-    [ "IMMapMgr", "d8/dbe/a04976.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "d8/dbe/a04976.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "d8/dbe/a04976.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "d8/dbe/a04976.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "d8/dbe/a04976.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "MDLCallback", "d8/dbe/a04976.html#a241899d601778892a72080cceaa96318", null ],
+    [ "operator()", "d8/dbe/a04976.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
+    [ "operator()", "d8/dbe/a04976.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
+    [ "_callback", "d8/dbe/a04976.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
+    [ "objects", "d8/dbe/a04976.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
+    [ "objects_size", "d8/dbe/a04976.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
 ];

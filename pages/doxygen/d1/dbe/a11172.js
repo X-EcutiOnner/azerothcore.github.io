@@ -1,6 +1,6 @@
 var a11172 =
 [
-    [ "AccountData", "d1/dbe/a11172.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "d1/dbe/a11172.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "d1/dbe/a11172.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "WorldStateInfo", "d1/dbe/a11172.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "d1/dbe/a11172.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "d1/dbe/a11172.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

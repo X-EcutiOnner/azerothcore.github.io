@@ -1,6 +1,11 @@
 var a16336 =
 [
-    [ "HandlePeriodic", "d7/da0/a16336.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d7/da0/a16336.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d7/da0/a16336.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "boss_general_zarithrianAI", "d7/da0/a16336.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/da0/a16336.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d7/da0/a16336.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d7/da0/a16336.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d7/da0/a16336.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d7/da0/a16336.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d7/da0/a16336.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d7/da0/a16336.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

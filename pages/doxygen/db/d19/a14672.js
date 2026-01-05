@@ -1,7 +1,25 @@
 var a14672 =
 [
-    [ "HandleEffectApply", "db/d19/a14672.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "db/d19/a14672.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "db/d19/a14672.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "db/d19/a14672.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "boss_headless_horseman", "db/d19/a14672.html#a4f791099607d7861cfa193f9b5fc265b", null ],
+    [ "DamageTaken", "db/d19/a14672.html#a76c6eddf1005774403498d0954571c19", null ],
+    [ "DoAction", "db/d19/a14672.html#ad5d8645b879a2c97c68e815463a97b49", null ],
+    [ "GetRhymePlayer", "db/d19/a14672.html#ad4bc4c5364d1c07c21f29747934efc01", null ],
+    [ "JustDied", "db/d19/a14672.html#aea5a5ee1fce56cefd84ebde29bcc5a1d", null ],
+    [ "JustEngagedWith", "db/d19/a14672.html#a149ae2b8c688c5b24d3db480b888e36e", null ],
+    [ "JustReachedHome", "db/d19/a14672.html#a888d573450a2b09d22def41884ed2d30", null ],
+    [ "JustSummoned", "db/d19/a14672.html#a06a654a822967c02dbab2c75f211e072", null ],
+    [ "KilledUnit", "db/d19/a14672.html#ad98d9d303815f538e194a55578ae909a", null ],
+    [ "MoveInLineOfSight", "db/d19/a14672.html#a57a5935e31ef5cc4df2657ddd358afdc", null ],
+    [ "MovementInform", "db/d19/a14672.html#abccf1fc3c5475e50d45bbd596ff98ce9", null ],
+    [ "Reset", "db/d19/a14672.html#ac52c6590f78c23149abfb062d5814ded", null ],
+    [ "SpellHit", "db/d19/a14672.html#ace502054c0e570655be9ea1990b48f9f", null ],
+    [ "SpellHitTarget", "db/d19/a14672.html#afa5e099de3899e41b3ee04f348c3d6a0", null ],
+    [ "UpdateAI", "db/d19/a14672.html#aa6741999e5a9a826efb279e014ea4ab8", null ],
+    [ "events", "db/d19/a14672.html#a2fe31482b5267bfc94d5d68062a46e0c", null ],
+    [ "health", "db/d19/a14672.html#a076037b8bad3648551997915d97fb9b2", null ],
+    [ "inFight", "db/d19/a14672.html#a8e33d87467086dc3eae778a579216256", null ],
+    [ "phase", "db/d19/a14672.html#a9dde0cfcc41ec7d8b9f53e55057adab9", null ],
+    [ "playerGUID", "db/d19/a14672.html#af0ee0c6da6398d6a84457aab942bb29c", null ],
+    [ "summons", "db/d19/a14672.html#a5de04d5c0da7c199ec89de9ef40a59fd", null ],
+    [ "talkCount", "db/d19/a14672.html#a091a925d7040e29efc54a4c5f123591d", null ]
 ];

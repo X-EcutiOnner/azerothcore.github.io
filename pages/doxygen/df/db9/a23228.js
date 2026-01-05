@@ -1,6 +1,6 @@
 var a23228 =
 [
-    [ "OnPeriodic", "df/db9/a23228.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "df/db9/a23228.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "df/db9/a23228.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "ShadowOfDeathSelector", "df/db9/a23228.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "df/db9/a23228.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "df/db9/a23228.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

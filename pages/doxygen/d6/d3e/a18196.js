@@ -1,7 +1,6 @@
 var a18196 =
 [
-    [ "FrostwyrmLandEvent", "d6/d3e/a18196.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d6/d3e/a18196.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d6/d3e/a18196.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d6/d3e/a18196.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "OnRemove", "d6/d3e/a18196.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "d6/d3e/a18196.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "d6/d3e/a18196.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

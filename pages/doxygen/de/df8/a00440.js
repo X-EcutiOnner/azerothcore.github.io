@@ -1,4 +1,5 @@
 var a00440 =
 [
-    [ "B64Impl", "d7/d24/a05350.html", "d7/d24/a05350" ]
+    [ "Acore::BattlegroundChatBuilder", "d4/d99/a07364.html", "d4/d99/a07364" ],
+    [ "Acore::Battleground2ChatBuilder", "d0/d69/a07368.html", "d0/d69/a07368" ]
 ];

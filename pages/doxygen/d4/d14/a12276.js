@@ -1,11 +1,11 @@
 var a12276 =
 [
-    [ "npc_blackhand_incarceratorAI", "d4/d14/a12276.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "d4/d14/a12276.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "d4/d14/a12276.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "d4/d14/a12276.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "d4/d14/a12276.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "d4/d14/a12276.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "d4/d14/a12276.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "d4/d14/a12276.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "boss_doomrelAI", "d4/d14/a12276.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d4/d14/a12276.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d4/d14/a12276.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d4/d14/a12276.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d4/d14/a12276.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d4/d14/a12276.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d4/d14/a12276.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d4/d14/a12276.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

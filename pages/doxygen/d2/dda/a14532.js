@@ -1,9 +1,7 @@
 var a14532 =
 [
-    [ "entries", "d2/dda/a14532.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d2/dda/a14532.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d2/dda/a14532.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d2/dda/a14532.html#a2bff12ebc291831ad63e4f35f51e7adc", null ],
-    [ "size", "d2/dda/a14532.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d2/dda/a14532.html#ade7548688493912ae1f880e89eb46053", null ]
+    [ "FilterTargets", "d2/dda/a14532.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d2/dda/a14532.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d2/dda/a14532.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d2/dda/a14532.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

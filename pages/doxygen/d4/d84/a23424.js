@@ -1,11 +1,12 @@
 var a23424 =
 [
-    [ "boss_ahune", "d4/d84/a23424.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d4/d84/a23424.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d4/d84/a23424.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d4/d84/a23424.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d4/d84/a23424.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d4/d84/a23424.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d4/d84/a23424.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d4/d84/a23424.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_leotheras_the_blind", "d4/d84/a23424.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d4/d84/a23424.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d4/d84/a23424.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d4/d84/a23424.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d4/d84/a23424.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d4/d84/a23424.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d4/d84/a23424.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d4/d84/a23424.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d4/d84/a23424.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

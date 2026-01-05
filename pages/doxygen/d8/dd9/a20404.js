@@ -1,10 +1,6 @@
 var a20404 =
 [
-    [ "HandleEffectPeriodic", "d8/dd9/a20404.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d8/dd9/a20404.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d8/dd9/a20404.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d8/dd9/a20404.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d8/dd9/a20404.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d8/dd9/a20404.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d8/dd9/a20404.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "npc_ulduar_icicleAI", "d2/df1/a20408.html", "d2/df1/a20408" ],
+    [ "npc_ulduar_icicle", "d8/dd9/a20404.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "d8/dd9/a20404.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

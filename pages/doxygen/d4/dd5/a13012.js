@@ -1,6 +1,8 @@
 var a13012 =
 [
-    [ "HandleProc", "d4/dd5/a13012.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d4/dd5/a13012.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d4/dd5/a13012.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "npc_tito", "d4/dd5/a13012.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d4/dd5/a13012.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d4/dd5/a13012.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d4/dd5/a13012.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d4/dd5/a13012.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

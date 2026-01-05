@@ -1,6 +1,7 @@
 var a28456 =
 [
-    [ "Enchantment", "de/d51/a28456.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "de/d51/a28456.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "de/d51/a28456.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "EmoteType", "de/d51/a28456.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "de/d51/a28456.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "de/d51/a28456.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "de/d51/a28456.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

@@ -1,6 +1,12 @@
 var a20876 =
 [
-    [ "npc_xt002_heartAI", "d9/d9a/a20880.html", "d9/d9a/a20880" ],
-    [ "npc_xt002_heart", "dd/d45/a20876.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "dd/d45/a20876.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "boss_thorim_start_npcsAI", "dd/d45/a20876.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
+    [ "DamageTaken", "dd/d45/a20876.html#a9a848662671380a726eb7288c6507f68", null ],
+    [ "JustDied", "dd/d45/a20876.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
+    [ "JustEngagedWith", "dd/d45/a20876.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
+    [ "Reset", "dd/d45/a20876.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
+    [ "UpdateAI", "dd/d45/a20876.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
+    [ "_isCaster", "dd/d45/a20876.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
+    [ "_playerAttack", "dd/d45/a20876.html#adb868f1910859c79625cfb7f9a2b4101", null ],
+    [ "events", "dd/d45/a20876.html#a8dc5693814c49003727204623cef29b7", null ]
 ];

@@ -1,5 +1,6 @@
 var a19392 =
 [
-    [ "npc_mr_bigglesworth", "d8/dd8/a19392.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "d8/dd8/a19392.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "boss_nothAI", "d6/d4a/a19396.html", "d6/d4a/a19396" ],
+    [ "boss_noth", "d8/dd8/a19392.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d8/dd8/a19392.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

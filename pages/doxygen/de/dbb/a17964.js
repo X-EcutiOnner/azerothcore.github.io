@@ -1,6 +1,7 @@
 var a17964 =
 [
-    [ "BoneStormMoveTargetSelector", "de/dbb/a17964.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "de/dbb/a17964.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "de/dbb/a17964.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "FilterTargets", "de/dbb/a17964.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "de/dbb/a17964.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "de/dbb/a17964.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "de/dbb/a17964.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

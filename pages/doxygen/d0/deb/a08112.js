@@ -1,11 +1,14 @@
 var a08112 =
 [
-    [ "AddItem", "d0/deb/a08112.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
-    [ "Clear", "d0/deb/a08112.html#a70c7400c4bc60923fd538890774445de", null ],
-    [ "Empty", "d0/deb/a08112.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
-    [ "FindItemCostPair", "d0/deb/a08112.html#a61dc4394afdd3a360559ffec1655c343", null ],
-    [ "GetItem", "d0/deb/a08112.html#aa764da5b4647c84813e3aa6b46de7593", null ],
-    [ "GetItemCount", "d0/deb/a08112.html#ae80634592ce705c77c5aa53960f89c24", null ],
-    [ "RemoveItem", "d0/deb/a08112.html#a974925f2979910348a0af795893b310b", null ],
-    [ "m_items", "d0/deb/a08112.html#aa16668e54fce8fffe8651644cdef4335", null ]
+    [ "GenerateArmor", "d0/deb/a08112.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
+    [ "GenerateBaseDamage", "d0/deb/a08112.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
+    [ "GenerateHealth", "d0/deb/a08112.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
+    [ "GenerateMana", "d0/deb/a08112.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
+    [ "GetBaseStats", "d0/deb/a08112.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
+    [ "AttackPower", "d0/deb/a08112.html#a8108d924e4de3ba741749e9386085e4f", null ],
+    [ "BaseArmor", "d0/deb/a08112.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
+    [ "BaseDamage", "d0/deb/a08112.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
+    [ "BaseHealth", "d0/deb/a08112.html#a83cee007ec623b19bb2b002d16180d2d", null ],
+    [ "BaseMana", "d0/deb/a08112.html#a204af635372cb4a2c6ede1f79579385c", null ],
+    [ "RangedAttackPower", "d0/deb/a08112.html#a684901a59108e94987c23ad5085e306a", null ]
 ];

@@ -1,6 +1,6 @@
 var a16440 =
 [
-    [ "boss_black_knightAI", "d5/d87/a16444.html", "d5/d87/a16444" ],
-    [ "boss_black_knight", "d8/d0d/a16440.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d8/d0d/a16440.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "PrepareSpellScript", "d8/d0d/a16440.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d8/d0d/a16440.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d8/d0d/a16440.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

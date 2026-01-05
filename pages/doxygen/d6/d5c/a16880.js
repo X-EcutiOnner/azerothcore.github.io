@@ -1,10 +1,6 @@
 var a16880 =
 [
-    [ "boss_tharon_jaAI", "d6/d5c/a16880.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d6/d5c/a16880.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d6/d5c/a16880.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d6/d5c/a16880.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d6/d5c/a16880.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d6/d5c/a16880.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d6/d5c/a16880.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "boss_eydisAI", "de/d2f/a16884.html", "de/d2f/a16884" ],
+    [ "boss_eydis", "d6/d5c/a16880.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d6/d5c/a16880.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

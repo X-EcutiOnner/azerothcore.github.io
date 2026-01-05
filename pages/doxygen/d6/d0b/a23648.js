@@ -1,10 +1,7 @@
 var a23648 =
 [
-    [ "boss_blindeye_the_seer", "d6/d0b/a23648.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d6/d0b/a23648.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d6/d0b/a23648.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d6/d0b/a23648.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d6/d0b/a23648.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d6/d0b/a23648.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d6/d0b/a23648.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "npc_underbog_mushroom", "d6/d0b/a23648.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d6/d0b/a23648.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d6/d0b/a23648.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d6/d0b/a23648.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

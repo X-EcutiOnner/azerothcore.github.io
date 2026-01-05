@@ -1,6 +1,6 @@
 var a26504 =
 [
-    [ "HandleScriptEffect", "d3/dd9/a26504.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "d3/dd9/a26504.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "d3/dd9/a26504.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "HandleAfterHit", "d3/dd9/a26504.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "d3/dd9/a26504.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "d3/dd9/a26504.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

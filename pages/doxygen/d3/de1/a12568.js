@@ -1,6 +1,7 @@
 var a12568 =
 [
-    [ "boss_garrAI", "d2/db0/a12572.html", "d2/db0/a12572" ],
-    [ "boss_garr", "d3/de1/a12568.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "d3/de1/a12568.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "HandlePeriodic", "d3/de1/a12568.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "d3/de1/a12568.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "d3/de1/a12568.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "d3/de1/a12568.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

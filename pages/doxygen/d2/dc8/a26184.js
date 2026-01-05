@@ -1,7 +1,6 @@
 var a26184 =
 [
-    [ "OnRemove", "d2/dc8/a26184.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d2/dc8/a26184.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d2/dc8/a26184.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d2/dc8/a26184.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "CalculateDamage", "d2/dc8/a26184.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d2/dc8/a26184.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d2/dc8/a26184.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

@@ -1,7 +1,17 @@
 var a18900 =
 [
-    [ "HandleScript", "de/deb/a18900.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "de/deb/a18900.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "de/deb/a18900.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "de/deb/a18900.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_argent_captainAI", "de/deb/a18900.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "de/deb/a18900.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "de/deb/a18900.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "de/deb/a18900.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "de/deb/a18900.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "de/deb/a18900.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "de/deb/a18900.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "de/deb/a18900.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "de/deb/a18900.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "de/deb/a18900.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "de/deb/a18900.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "de/deb/a18900.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "de/deb/a18900.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "de/deb/a18900.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

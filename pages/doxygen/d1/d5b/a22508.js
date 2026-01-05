@@ -1,7 +1,6 @@
 var a22508 =
 [
-    [ "npc_wg_quest_giver", "d1/d5b/a22508.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d1/d5b/a22508.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d1/d5b/a22508.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d1/d5b/a22508.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_icefangAI", "d6/d60/a22512.html", "d6/d60/a22512" ],
+    [ "npc_icefang", "d1/d5b/a22508.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d1/d5b/a22508.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

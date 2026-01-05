@@ -1,8 +1,6 @@
 var a26364 =
 [
-    [ "CheckProc", "de/d09/a26364.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "de/d09/a26364.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "de/d09/a26364.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "de/d09/a26364.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "de/d09/a26364.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "HandleRemove", "de/d09/a26364.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "de/d09/a26364.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "de/d09/a26364.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

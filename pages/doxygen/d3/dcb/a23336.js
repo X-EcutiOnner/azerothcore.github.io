@@ -1,6 +1,5 @@
 var a23336 =
 [
-    [ "HandleScriptEffect", "d3/dcb/a23336.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
-    [ "PrepareSpellScript", "d3/dcb/a23336.html#ae80b4ca96692035c399d1621b632fe66", null ],
-    [ "Register", "d3/dcb/a23336.html#ac655157c74104a51f045e114fc63a42d", null ]
+    [ "PrepareSpellScript", "d3/dcb/a23336.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "d3/dcb/a23336.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

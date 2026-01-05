@@ -1,9 +1,8 @@
 var a24152 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dae/a24152.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "d4/dae/a24152.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "d4/dae/a24152.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "d4/dae/a24152.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "d4/dae/a24152.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "d4/dae/a24152.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "boss_mechano_lord_capacitus", "d4/dae/a24152.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "d4/dae/a24152.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "d4/dae/a24152.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "d4/dae/a24152.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "d4/dae/a24152.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

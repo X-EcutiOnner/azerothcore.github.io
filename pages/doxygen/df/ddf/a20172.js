@@ -1,6 +1,6 @@
 var a20172 =
 [
-    [ "CheckCast", "df/ddf/a20172.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "df/ddf/a20172.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "df/ddf/a20172.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "npc_mechanoliftAI", "d9/dd5/a20176.html", "d9/dd5/a20176" ],
+    [ "npc_mechanolift", "df/ddf/a20172.html#a7b753a3426213706c899745a6d0d989b", null ],
+    [ "GetAI", "df/ddf/a20172.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
 ];

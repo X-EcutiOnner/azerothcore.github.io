@@ -1,9 +1,8 @@
 var a13708 =
 [
-    [ "npc_professor_phizzlethorpeAI", "de/d69/a13708.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "de/d69/a13708.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "de/d69/a13708.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "de/d69/a13708.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "de/d69/a13708.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "de/d69/a13708.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "HandleApply", "de/d69/a13708.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "de/d69/a13708.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "de/d69/a13708.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "de/d69/a13708.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "de/d69/a13708.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

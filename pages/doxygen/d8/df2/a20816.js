@@ -1,6 +1,5 @@
 var a20816 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d4/d81/a20820.html", "d4/d81/a20820" ],
-    [ "boss_thorim_gauntlet_npcs", "d8/df2/a20816.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "d8/df2/a20816.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "achievement_quick_shave", "d8/df2/a20816.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "d8/df2/a20816.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

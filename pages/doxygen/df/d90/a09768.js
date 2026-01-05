@@ -1,15 +1,7 @@
 var a09768 =
 [
-    [ "MailSender", "df/d90/a09768.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "df/d90/a09768.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "df/d90/a09768.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "df/d90/a09768.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "df/d90/a09768.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "df/d90/a09768.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "df/d90/a09768.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "df/d90/a09768.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "df/d90/a09768.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "df/d90/a09768.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "df/d90/a09768.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "df/d90/a09768.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "LootGroupInvalidSelector", "df/d90/a09768.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "df/d90/a09768.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "df/d90/a09768.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "df/d90/a09768.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

@@ -1,12 +1,8 @@
 var a19452 =
 [
-    [ "npc_hover_diskAI", "d3/dc4/a19452.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "d3/dc4/a19452.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "d3/dc4/a19452.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "d3/dc4/a19452.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "d3/dc4/a19452.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "d3/dc4/a19452.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "d3/dc4/a19452.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "d3/dc4/a19452.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "d3/dc4/a19452.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "HandleDamage", "d3/dc4/a19452.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d3/dc4/a19452.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d3/dc4/a19452.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d3/dc4/a19452.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d3/dc4/a19452.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

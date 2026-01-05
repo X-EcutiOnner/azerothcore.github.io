@@ -1,6 +1,6 @@
 var a13456 =
 [
-    [ "FilterTargets", "db/dba/a13456.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "db/dba/a13456.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "db/dba/a13456.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "boss_baroness_anastariAI", "da/d6b/a13460.html", "da/d6b/a13460" ],
+    [ "boss_baroness_anastari", "db/dba/a13456.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "db/dba/a13456.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

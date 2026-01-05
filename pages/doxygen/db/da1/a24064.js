@@ -1,6 +1,5 @@
 var a24064 =
 [
-    [ "HandleAfterRemove", "db/da1/a24064.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "db/da1/a24064.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "db/da1/a24064.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npc_lord_sanguinar", "db/da1/a24064.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "db/da1/a24064.html#af9231da98547875527a519c5884cbec0", null ]
 ];

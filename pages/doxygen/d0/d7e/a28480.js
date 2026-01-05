@@ -1,7 +1,6 @@
 var a28480 =
 [
-    [ "ID", "d0/d7e/a28480.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d0/d7e/a28480.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d0/d7e/a28480.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d0/d7e/a28480.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "color", "d0/d7e/a28480.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d0/d7e/a28480.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d0/d7e/a28480.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

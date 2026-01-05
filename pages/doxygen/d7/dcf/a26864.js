@@ -1,8 +1,10 @@
 var a26864 =
 [
-    [ "Apply", "d7/dcf/a26864.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d7/dcf/a26864.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d7/dcf/a26864.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d7/dcf/a26864.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d7/dcf/a26864.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "Absorb", "d7/dcf/a26864.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d7/dcf/a26864.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d7/dcf/a26864.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d7/dcf/a26864.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d7/dcf/a26864.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d7/dcf/a26864.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d7/dcf/a26864.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

@@ -1,6 +1,6 @@
 var a19320 =
 [
-    [ "boss_razuviousAI", "da/d3c/a19324.html", "da/d3c/a19324" ],
-    [ "boss_razuvious", "d8/daa/a19320.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "d8/daa/a19320.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "FilterTargets", "d8/daa/a19320.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d8/daa/a19320.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d8/daa/a19320.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

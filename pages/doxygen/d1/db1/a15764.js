@@ -1,6 +1,6 @@
 var a15764 =
 [
-    [ "go_wind_stoneAI", "d1/db3/a15768.html", "d1/db3/a15768" ],
-    [ "go_wind_stone", "d1/db1/a15764.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d1/db1/a15764.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "npc_clintar_spiritAI", "d1/db3/a15768.html", "d1/db3/a15768" ],
+    [ "npc_clintar_spirit", "d1/db1/a15764.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d1/db1/a15764.html#a118198504f6f93c86302275a11582d60", null ]
 ];

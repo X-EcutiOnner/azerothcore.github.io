@@ -1,12 +1,6 @@
 var a13760 =
 [
-    [ "npc_eastvale_peasent", "d9/d12/a13760.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d9/d12/a13760.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d9/d12/a13760.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d9/d12/a13760.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d9/d12/a13760.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d9/d12/a13760.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d9/d12/a13760.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d9/d12/a13760.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d9/d12/a13760.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d1/d1a/a13764.html", "d1/d1a/a13764" ],
+    [ "instance_the_stockade", "d9/d12/a13760.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d9/d12/a13760.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

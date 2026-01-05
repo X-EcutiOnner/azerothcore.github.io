@@ -1,12 +1,6 @@
 var a20204 =
 [
-    [ "boss_freya_elder_stonebarkAI", "db/d20/a20204.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "db/d20/a20204.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "db/d20/a20204.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "db/d20/a20204.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "db/d20/a20204.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "db/d20/a20204.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "db/d20/a20204.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "db/d20/a20204.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "db/d20/a20204.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "HandleScript", "db/d20/a20204.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "db/d20/a20204.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "db/d20/a20204.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

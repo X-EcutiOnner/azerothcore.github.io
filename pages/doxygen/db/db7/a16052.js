@@ -1,6 +1,6 @@
 var a16052 =
 [
-    [ "HandlePeriodic", "db/db7/a16052.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "db/db7/a16052.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "db/db7/a16052.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_shadowpriest_sezzizAI", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
+    [ "npc_shadowpriest_sezziz", "db/db7/a16052.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "db/db7/a16052.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

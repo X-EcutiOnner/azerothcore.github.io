@@ -1,6 +1,6 @@
 var a24468 =
 [
-    [ "PrepareSpellScript", "d9/d4a/a24468.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d9/d4a/a24468.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d9/d4a/a24468.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "npc_illidari_spawnAI", "d2/dc7/a24472.html", "d2/dc7/a24472" ],
+    [ "npc_illidari_spawn", "d9/d4a/a24468.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d9/d4a/a24468.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

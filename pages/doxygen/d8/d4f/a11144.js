@@ -1,12 +1,14 @@
 var a11144 =
 [
-    [ "Build", "d8/d4f/a11144.html#aa5ed2806342a36723f1317105ebc13fa", null ],
-    [ "FormatVersion", "d8/d4f/a11144.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
-    [ "Locale", "d8/d4f/a11144.html#acdcbe4c10ad6143b756638349c185ae5", null ],
-    [ "OptionalDataSize", "d8/d4f/a11144.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
-    [ "SessionKey", "d8/d4f/a11144.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
-    [ "Signature", "d8/d4f/a11144.html#a34b88d6d83daeee7827176993c152de4", null ],
-    [ "SnifferId", "d8/d4f/a11144.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
-    [ "SniffStartTicks", "d8/d4f/a11144.html#a1884076ea4fe5af08964471d0058fd4d", null ],
-    [ "SniffStartUnixtime", "d8/d4f/a11144.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
+    [ "NameQueryResponse", "d8/d4f/a11144.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "d8/d4f/a11144.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "d8/d4f/a11144.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "d8/d4f/a11144.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "d8/d4f/a11144.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "d8/d4f/a11144.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "d8/d4f/a11144.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "d8/d4f/a11144.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "d8/d4f/a11144.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "d8/d4f/a11144.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "d8/d4f/a11144.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

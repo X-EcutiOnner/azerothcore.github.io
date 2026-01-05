@@ -1,6 +1,6 @@
 var a17912 =
 [
-    [ "boss_lady_deathwhisperAI", "d0/d5b/a17916.html", "d0/d5b/a17916" ],
-    [ "boss_lady_deathwhisper", "dd/dbe/a17912.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "dd/dbe/a17912.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "PrepareSpellScript", "dd/dbe/a17912.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "dd/dbe/a17912.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "dd/dbe/a17912.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

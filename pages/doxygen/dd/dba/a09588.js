@@ -1,12 +1,9 @@
 var a09588 =
 [
-    [ "LogEntry", "dd/dba/a09588.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "dd/dba/a09588.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "dd/dba/a09588.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "dd/dba/a09588.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "dd/dba/a09588.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "dd/dba/a09588.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "dd/dba/a09588.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "dd/dba/a09588.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "dd/dba/a09588.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "WorldPacketList", "dd/dba/a09588.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "dd/dba/a09588.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "dd/dba/a09588.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "dd/dba/a09588.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "dd/dba/a09588.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "dd/dba/a09588.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

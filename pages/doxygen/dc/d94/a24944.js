@@ -1,10 +1,9 @@
 var a24944 =
 [
-    [ "Load", "dc/d94/a24944.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "dc/d94/a24944.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "dc/d94/a24944.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "dc/d94/a24944.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "dc/d94/a24944.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "dc/d94/a24944.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "dc/d94/a24944.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "HandleApply", "dc/d94/a24944.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "dc/d94/a24944.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "dc/d94/a24944.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "dc/d94/a24944.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "dc/d94/a24944.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "dc/d94/a24944.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

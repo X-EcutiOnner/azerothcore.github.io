@@ -1,10 +1,7 @@
 var a17352 =
 [
-    [ "npc_living_mojoAI", "d5/d89/a17352.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d5/d89/a17352.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d5/d89/a17352.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "d5/d89/a17352.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d5/d89/a17352.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d5/d89/a17352.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d5/d89/a17352.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "npc_pos_icicle_triggerAI", "d5/d89/a17352.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d5/d89/a17352.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d5/d89/a17352.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d5/d89/a17352.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

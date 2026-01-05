@@ -1,7 +1,6 @@
 var a24284 =
 [
-    [ "CheckRequirement", "d7/de0/a24284.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d7/de0/a24284.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d7/de0/a24284.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d7/de0/a24284.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_fel_guard_houndAI", "d4/d40/a24288.html", "d4/d40/a24288" ],
+    [ "npc_fel_guard_hound", "d7/de0/a24284.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d7/de0/a24284.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

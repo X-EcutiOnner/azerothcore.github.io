@@ -1,13 +1,6 @@
 var a17712 =
 [
-    [ "PassengerController", "dd/d40/a17712.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "dd/d40/a17712.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "dd/d40/a17712.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "dd/d40/a17712.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "dd/d40/a17712.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "dd/d40/a17712.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "dd/d40/a17712.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "dd/d40/a17712.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "dd/d40/a17712.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "dd/d40/a17712.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "npc_saurfang_eventAI", "dd/d5f/a17716.html", "dd/d5f/a17716" ],
+    [ "npc_saurfang_event", "dd/d40/a17712.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "dd/d40/a17712.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

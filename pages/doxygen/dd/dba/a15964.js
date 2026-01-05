@@ -1,19 +1,12 @@
 var a15964 =
 [
-    [ "npc_weegli_blastfuseAI", "dd/dba/a15964.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
-    [ "AttackStart", "dd/dba/a15964.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
-    [ "DestroyDoor", "dd/dba/a15964.html#a0cf76693b1af179c9857abdccc6931ee", null ],
-    [ "InitializeAI", "dd/dba/a15964.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
-    [ "JustReachedHome", "dd/dba/a15964.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
-    [ "MovementInform", "dd/dba/a15964.html#a33470a45eba0cbb62b041010f6aed302", null ],
-    [ "Reset", "dd/dba/a15964.html#abec9f353a1430afae12c21273bf32197", null ],
-    [ "sGossipHello", "dd/dba/a15964.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
-    [ "sGossipSelect", "dd/dba/a15964.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
-    [ "UpdateAI", "dd/dba/a15964.html#a73e482ebbb1566738e6775a574500dc8", null ],
-    [ "Bomb_Timer", "dd/dba/a15964.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
-    [ "destroyingDoor", "dd/dba/a15964.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
-    [ "instance", "dd/dba/a15964.html#a609616e5136cf11bc16f9bb30ba92879", null ],
-    [ "LandMine_Timer", "dd/dba/a15964.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
-    [ "outroStage", "dd/dba/a15964.html#a30cdbce7bddb4d1d221925de86329a41", null ],
-    [ "outroTimer", "dd/dba/a15964.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
+    [ "npc_cairne_bloodhoofAI", "dd/dba/a15964.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "Reset", "dd/dba/a15964.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "dd/dba/a15964.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "dd/dba/a15964.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "dd/dba/a15964.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "dd/dba/a15964.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "dd/dba/a15964.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "dd/dba/a15964.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "dd/dba/a15964.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

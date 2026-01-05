@@ -1,6 +1,6 @@
 var a17620 =
 [
-    [ "npc_saurfang_eventAI", "d5/d42/a17624.html", "d5/d42/a17624" ],
-    [ "npc_saurfang_event", "d7/d21/a17620.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d7/d21/a17620.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "KnockIntoAir", "d7/d21/a17620.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d7/d21/a17620.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d7/d21/a17620.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

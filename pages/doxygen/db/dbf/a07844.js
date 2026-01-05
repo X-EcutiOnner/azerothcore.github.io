@@ -1,6 +1,5 @@
 var a07844 =
 [
-    [ "value_type", "db/dbf/a07844.html#ac481731c1965ea0420cd7820e1e89881", null ],
-    [ "StoreTo", "db/dbf/a07844.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
-    [ "tag", "db/dbf/a07844.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
+    [ "Quest", "db/dbf/a07844.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
+    [ "QuestLevel", "db/dbf/a07844.html#ad162701af62caac909ef9f57f68bf848", null ]
 ];

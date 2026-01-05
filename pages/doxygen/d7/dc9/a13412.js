@@ -1,6 +1,8 @@
 var a13412 =
 [
-    [ "HandleSendEvent", "d7/dc9/a13412.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d7/dc9/a13412.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d7/dc9/a13412.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "npc_apothecary_baxter", "d7/dc9/a13412.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "d7/dc9/a13412.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "d7/dc9/a13412.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "d7/dc9/a13412.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "d7/dc9/a13412.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

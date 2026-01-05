@@ -1,10 +1,18 @@
 var a07748 =
 [
-    [ "storage_type", "d7/dc7/a07748.html#a054c554d9d812e571455bce39655a9ac", null ],
-    [ "value_type", "d7/dc7/a07748.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
-    [ "operator value_type", "d7/dc7/a07748.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
-    [ "operator*", "d7/dc7/a07748.html#a9d4cf547beb996e5945acb84f5305200", null ],
-    [ "operator->", "d7/dc7/a07748.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
-    [ "TryConsume", "d7/dc7/a07748.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
-    [ "val", "d7/dc7/a07748.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
+    [ "ChatCommandResult", "d7/dc7/a07748.html#ade9593924f234a1fd4c1c1af0e2ba1f1", null ],
+    [ "ChatCommandResult", "d7/dc7/a07748.html#a50e51a5c55d146c67d834c86aee4daef", null ],
+    [ "ChatCommandResult", "d7/dc7/a07748.html#abcee148bb3da225ec4a4c67abcc90316", null ],
+    [ "ChatCommandResult", "d7/dc7/a07748.html#a8b18e436b6e7d8040b2a9667d06baaa0", null ],
+    [ "ChatCommandResult", "d7/dc7/a07748.html#aabf608d55fbdbed0db92a80049e8835f", null ],
+    [ "ChatCommandResult", "d7/dc7/a07748.html#a48cf3f3df0e07e220d44096e7b628a72", null ],
+    [ "ChatCommandResult", "d7/dc7/a07748.html#a9b7c7996bcc4a601c957d2bfc66ec41c", null ],
+    [ "GetErrorMessage", "d7/dc7/a07748.html#abb0aa9f55f86ab7d54b7b3a894dcd237", null ],
+    [ "HasErrorMessage", "d7/dc7/a07748.html#a74f331d2e68ddf7cefc14b4c47369311", null ],
+    [ "IsSuccessful", "d7/dc7/a07748.html#aa4373a403bed4b58eac5e83099f32b4f", null ],
+    [ "operator bool", "d7/dc7/a07748.html#a7b92f80ef21e6a0a799f3b4197453117", null ],
+    [ "operator*", "d7/dc7/a07748.html#af89a617e842edaf1a4ee1cff95d2c4e3", null ],
+    [ "operator=", "d7/dc7/a07748.html#a50c4384a9719bc33f1e997dadc177bb6", null ],
+    [ "operator=", "d7/dc7/a07748.html#ae927434b72c1017f1dedced244d7021a", null ],
+    [ "_storage", "d7/dc7/a07748.html#ab825b76e8cb19ad6d6bc6cb35780e89b", null ]
 ];

@@ -1,9 +1,14 @@
 var a08852 =
 [
-    [ "TransportBase", "de/d49/a08852.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "de/d49/a08852.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "de/d49/a08852.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "de/d49/a08852.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "de/d49/a08852.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "de/d49/a08852.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "SafeUnitPointer", "de/d49/a08852.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "de/d49/a08852.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "~SafeUnitPointer", "de/d49/a08852.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "de/d49/a08852.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "de/d49/a08852.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "de/d49/a08852.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "de/d49/a08852.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "de/d49/a08852.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "de/d49/a08852.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "de/d49/a08852.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "de/d49/a08852.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/Zones/BattlegroundRL.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/Zones/BattlegroundBE.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,7 +107,7 @@ $(document).ready(function(){initNavTree('df/d91/a00335.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">BattlegroundRL.h File Reference</div></div>
+  <div class="headertitle"><div class="title">BattlegroundBE.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">Arena.h</a>&quot;</code><br />
@@ -116,107 +116,127 @@ $(document).ready(function(){initNavTree('df/d91/a00335.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d06/a07503.html">BattlegroundRL</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d91/a07452.html">BattlegroundBE</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a5b40294f7ef8f041d61eaa6911993b24"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24">BattlegroundRLObjectTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636">BG_RL_OBJECT_DOOR_1</a> = 0
+<tr class="memitem:ac30a97954fa7cc5e46429c1b15e02aa6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6">BattlegroundBEObjectTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17">BG_BE_OBJECT_DOOR_1</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058">BG_RL_OBJECT_DOOR_2</a> = 1
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e">BG_BE_OBJECT_DOOR_2</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4">BG_RL_OBJECT_BUFF_1</a> = 2
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb">BG_BE_OBJECT_DOOR_3</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac">BG_RL_OBJECT_BUFF_2</a> = 3
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5">BG_BE_OBJECT_DOOR_4</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2">BG_RL_OBJECT_READY_MARKER_1</a> = 4
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176">BG_BE_OBJECT_BUFF_1</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755">BG_RL_OBJECT_READY_MARKER_2</a> = 5
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb">BG_BE_OBJECT_BUFF_2</a> = 5
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813">BG_RL_OBJECT_MAX</a> = 6
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09">BG_BE_OBJECT_READY_MARKER_1</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d">BG_BE_OBJECT_READY_MARKER_2</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f">BG_BE_OBJECT_MAX</a> = 8
 <br />
  }</td></tr>
-<tr class="separator:a5b40294f7ef8f041d61eaa6911993b24"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a07ba947d37c83568823ee5313377497a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497a">BattlegroundRLObjects</a> { <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0">BG_RL_OBJECT_TYPE_DOOR_1</a> = 185918
+<tr class="separator:ac30a97954fa7cc5e46429c1b15e02aa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b0280d2208da5214e6132c85687575e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575e">BattlegroundBEGameObjects</a> { <br />
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc">BG_BE_OBJECT_TYPE_DOOR_1</a> = 183971
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1">BG_RL_OBJECT_TYPE_DOOR_2</a> = 185917
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285">BG_BE_OBJECT_TYPE_DOOR_2</a> = 183973
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934">BG_RL_OBJECT_TYPE_BUFF_1</a> = 184663
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83">BG_BE_OBJECT_TYPE_DOOR_3</a> = 183970
 , <br />
-&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921">BG_RL_OBJECT_TYPE_BUFF_2</a> = 184664
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6">BG_BE_OBJECT_TYPE_DOOR_4</a> = 183972
+, <br />
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10">BG_BE_OBJECT_TYPE_BUFF_1</a> = 184663
+, <br />
+&#160;&#160;<a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab">BG_BE_OBJECT_TYPE_BUFF_2</a> = 184664
 <br />
  }</td></tr>
-<tr class="separator:a07ba947d37c83568823ee5313377497a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a1b0280d2208da5214e6132c85687575e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a07ba947d37c83568823ee5313377497a" name="a07ba947d37c83568823ee5313377497a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a07ba947d37c83568823ee5313377497a">&#9670;&#160;</a></span>BattlegroundRLObjects</h2>
+<a id="a1b0280d2208da5214e6132c85687575e" name="a1b0280d2208da5214e6132c85687575e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b0280d2208da5214e6132c85687575e">&#9670;&#160;</a></span>BattlegroundBEGameObjects</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497a">BattlegroundRLObjects</a></td>
+          <td class="memname">enum <a class="el" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575e">BattlegroundBEGameObjects</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0" name="a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0"></a>BG_RL_OBJECT_TYPE_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1" name="a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1"></a>BG_RL_OBJECT_TYPE_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934" name="a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934"></a>BG_RL_OBJECT_TYPE_BUFF_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921" name="a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921"></a>BG_RL_OBJECT_TYPE_BUFF_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc" name="a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc"></a>BG_BE_OBJECT_TYPE_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285" name="a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285"></a>BG_BE_OBJECT_TYPE_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83" name="a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83"></a>BG_BE_OBJECT_TYPE_DOOR_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6" name="a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6"></a>BG_BE_OBJECT_TYPE_DOOR_4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10" name="a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10"></a>BG_BE_OBJECT_TYPE_BUFF_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab" name="a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab"></a>BG_BE_OBJECT_TYPE_BUFF_2&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0">BG_RL_OBJECT_TYPE_DOOR_1</a>    = 185918,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1">BG_RL_OBJECT_TYPE_DOOR_2</a>    = 185917,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934">BG_RL_OBJECT_TYPE_BUFF_1</a>    = 184663,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921">BG_RL_OBJECT_TYPE_BUFF_2</a>    = 184664</div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aa00335_html_a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1"><div class="ttname"><a href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1">BG_RL_OBJECT_TYPE_DOOR_2</a></div><div class="ttdeci">@ BG_RL_OBJECT_TYPE_DOOR_2</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:37</div></div>
-<div class="ttc" id="aa00335_html_a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0"><div class="ttname"><a href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0">BG_RL_OBJECT_TYPE_DOOR_1</a></div><div class="ttdeci">@ BG_RL_OBJECT_TYPE_DOOR_1</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:36</div></div>
-<div class="ttc" id="aa00335_html_a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921"><div class="ttname"><a href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921">BG_RL_OBJECT_TYPE_BUFF_2</a></div><div class="ttdeci">@ BG_RL_OBJECT_TYPE_BUFF_2</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:39</div></div>
-<div class="ttc" id="aa00335_html_a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934"><div class="ttname"><a href="../../df/d91/a00335.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934">BG_RL_OBJECT_TYPE_BUFF_1</a></div><div class="ttdeci">@ BG_RL_OBJECT_TYPE_BUFF_1</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:38</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc">BG_BE_OBJECT_TYPE_DOOR_1</a>    = 183971,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285">BG_BE_OBJECT_TYPE_DOOR_2</a>    = 183973,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83">BG_BE_OBJECT_TYPE_DOOR_3</a>    = 183970,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6">BG_BE_OBJECT_TYPE_DOOR_4</a>    = 183972,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10">BG_BE_OBJECT_TYPE_BUFF_1</a>    = 184663,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab">BG_BE_OBJECT_TYPE_BUFF_2</a>    = 184664</div>
+<div class="line"><span class="lineno">   44</span>};</div>
+<div class="ttc" id="aa00335_html_a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83"><div class="ttname"><a href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83">BG_BE_OBJECT_TYPE_DOOR_3</a></div><div class="ttdeci">@ BG_BE_OBJECT_TYPE_DOOR_3</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:40</div></div>
+<div class="ttc" id="aa00335_html_a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285"><div class="ttname"><a href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285">BG_BE_OBJECT_TYPE_DOOR_2</a></div><div class="ttdeci">@ BG_BE_OBJECT_TYPE_DOOR_2</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:39</div></div>
+<div class="ttc" id="aa00335_html_a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc"><div class="ttname"><a href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc">BG_BE_OBJECT_TYPE_DOOR_1</a></div><div class="ttdeci">@ BG_BE_OBJECT_TYPE_DOOR_1</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:38</div></div>
+<div class="ttc" id="aa00335_html_a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10"><div class="ttname"><a href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10">BG_BE_OBJECT_TYPE_BUFF_1</a></div><div class="ttdeci">@ BG_BE_OBJECT_TYPE_BUFF_1</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:42</div></div>
+<div class="ttc" id="aa00335_html_a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6"><div class="ttname"><a href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6">BG_BE_OBJECT_TYPE_DOOR_4</a></div><div class="ttdeci">@ BG_BE_OBJECT_TYPE_DOOR_4</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:41</div></div>
+<div class="ttc" id="aa00335_html_a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab"><div class="ttname"><a href="../../df/d91/a00335.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab">BG_BE_OBJECT_TYPE_BUFF_2</a></div><div class="ttdeci">@ BG_BE_OBJECT_TYPE_BUFF_2</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:43</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a5b40294f7ef8f041d61eaa6911993b24" name="a5b40294f7ef8f041d61eaa6911993b24"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b40294f7ef8f041d61eaa6911993b24">&#9670;&#160;</a></span>BattlegroundRLObjectTypes</h2>
+<a id="ac30a97954fa7cc5e46429c1b15e02aa6" name="ac30a97954fa7cc5e46429c1b15e02aa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac30a97954fa7cc5e46429c1b15e02aa6">&#9670;&#160;</a></span>BattlegroundBEObjectTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24">BattlegroundRLObjectTypes</a></td>
+          <td class="memname">enum <a class="el" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6">BattlegroundBEObjectTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636" name="a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636"></a>BG_RL_OBJECT_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058" name="a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058"></a>BG_RL_OBJECT_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4" name="a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4"></a>BG_RL_OBJECT_BUFF_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac" name="a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac"></a>BG_RL_OBJECT_BUFF_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2" name="a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2"></a>BG_RL_OBJECT_READY_MARKER_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755" name="a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755"></a>BG_RL_OBJECT_READY_MARKER_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813" name="a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813"></a>BG_RL_OBJECT_MAX&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17" name="ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17"></a>BG_BE_OBJECT_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e" name="ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e"></a>BG_BE_OBJECT_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb" name="ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb"></a>BG_BE_OBJECT_DOOR_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5" name="ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5"></a>BG_BE_OBJECT_DOOR_4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176" name="ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176"></a>BG_BE_OBJECT_BUFF_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb" name="ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb"></a>BG_BE_OBJECT_BUFF_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09" name="ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09"></a>BG_BE_OBJECT_READY_MARKER_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d" name="ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d"></a>BG_BE_OBJECT_READY_MARKER_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f" name="ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f"></a>BG_BE_OBJECT_MAX&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636">BG_RL_OBJECT_DOOR_1</a>         = 0,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058">BG_RL_OBJECT_DOOR_2</a>         = 1,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4">BG_RL_OBJECT_BUFF_1</a>         = 2,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac">BG_RL_OBJECT_BUFF_2</a>         = 3,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2">BG_RL_OBJECT_READY_MARKER_1</a> = 4,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755">BG_RL_OBJECT_READY_MARKER_2</a> = 5,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813">BG_RL_OBJECT_MAX</a>            = 6</div>
-<div class="line"><span class="lineno">   32</span>};</div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755">BG_RL_OBJECT_READY_MARKER_2</a></div><div class="ttdeci">@ BG_RL_OBJECT_READY_MARKER_2</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:30</div></div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2">BG_RL_OBJECT_READY_MARKER_1</a></div><div class="ttdeci">@ BG_RL_OBJECT_READY_MARKER_1</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:29</div></div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac">BG_RL_OBJECT_BUFF_2</a></div><div class="ttdeci">@ BG_RL_OBJECT_BUFF_2</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:28</div></div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4">BG_RL_OBJECT_BUFF_1</a></div><div class="ttdeci">@ BG_RL_OBJECT_BUFF_1</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:27</div></div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813">BG_RL_OBJECT_MAX</a></div><div class="ttdeci">@ BG_RL_OBJECT_MAX</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:31</div></div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058">BG_RL_OBJECT_DOOR_2</a></div><div class="ttdeci">@ BG_RL_OBJECT_DOOR_2</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:26</div></div>
-<div class="ttc" id="aa00335_html_a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636"><div class="ttname"><a href="../../df/d91/a00335.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636">BG_RL_OBJECT_DOOR_1</a></div><div class="ttdeci">@ BG_RL_OBJECT_DOOR_1</div><div class="ttdef"><b>Definition:</b> BattlegroundRL.h:25</div></div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17">BG_BE_OBJECT_DOOR_1</a>         = 0,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e">BG_BE_OBJECT_DOOR_2</a>         = 1,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb">BG_BE_OBJECT_DOOR_3</a>         = 2,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5">BG_BE_OBJECT_DOOR_4</a>         = 3,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176">BG_BE_OBJECT_BUFF_1</a>         = 4,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb">BG_BE_OBJECT_BUFF_2</a>         = 5,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09">BG_BE_OBJECT_READY_MARKER_1</a> = 6,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d">BG_BE_OBJECT_READY_MARKER_2</a> = 7,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f">BG_BE_OBJECT_MAX</a>            = 8</div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17">BG_BE_OBJECT_DOOR_1</a></div><div class="ttdeci">@ BG_BE_OBJECT_DOOR_1</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:25</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e">BG_BE_OBJECT_DOOR_2</a></div><div class="ttdeci">@ BG_BE_OBJECT_DOOR_2</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:26</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09">BG_BE_OBJECT_READY_MARKER_1</a></div><div class="ttdeci">@ BG_BE_OBJECT_READY_MARKER_1</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:31</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f">BG_BE_OBJECT_MAX</a></div><div class="ttdeci">@ BG_BE_OBJECT_MAX</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:33</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb">BG_BE_OBJECT_DOOR_3</a></div><div class="ttdeci">@ BG_BE_OBJECT_DOOR_3</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:27</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d">BG_BE_OBJECT_READY_MARKER_2</a></div><div class="ttdeci">@ BG_BE_OBJECT_READY_MARKER_2</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:32</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176">BG_BE_OBJECT_BUFF_1</a></div><div class="ttdeci">@ BG_BE_OBJECT_BUFF_1</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:29</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb">BG_BE_OBJECT_BUFF_2</a></div><div class="ttdeci">@ BG_BE_OBJECT_BUFF_2</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:30</div></div>
+<div class="ttc" id="aa00335_html_ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5"><div class="ttname"><a href="../../df/d91/a00335.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5">BG_BE_OBJECT_DOOR_4</a></div><div class="ttdeci">@ BG_BE_OBJECT_DOOR_4</div><div class="ttdef"><b>Definition:</b> BattlegroundBE.h:28</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -225,8 +245,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_d9de844c1d859dc2cc6a65181dd33644.html">Zones</a></li><li class="navelem"><a class="el" href="../../df/d91/a00335.html">BattlegroundRL.h</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 20:49:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_d9de844c1d859dc2cc6a65181dd33644.html">Zones</a></li><li class="navelem"><a class="el" href="../../df/d91/a00335.html">BattlegroundBE.h</a></li>
+    <li class="footer">Generated on Mon Jan 5 2026 20:53:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

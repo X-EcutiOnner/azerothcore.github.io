@@ -1,8 +1,7 @@
 var a27004 =
 [
-    [ "Detonate", "d9/d9f/a27004.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "d9/d9f/a27004.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "d9/d9f/a27004.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "d9/d9f/a27004.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "d9/d9f/a27004.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "HandleProc", "d9/d9f/a27004.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d9/d9f/a27004.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d9/d9f/a27004.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d9/d9f/a27004.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

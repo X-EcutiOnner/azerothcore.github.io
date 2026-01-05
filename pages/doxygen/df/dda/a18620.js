@@ -1,6 +1,7 @@
 var a18620 =
 [
-    [ "ManaVoidSelector", "df/dda/a18620.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "df/dda/a18620.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "df/dda/a18620.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "CheckTargetCount", "df/dda/a18620.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "df/dda/a18620.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "df/dda/a18620.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "df/dda/a18620.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

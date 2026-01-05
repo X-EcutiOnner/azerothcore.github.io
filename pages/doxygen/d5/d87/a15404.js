@@ -1,5 +1,6 @@
 var a15404 =
 [
-    [ "npc_toxic_slime", "d5/d87/a15404.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d5/d87/a15404.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "OnPeriodic", "d5/d87/a15404.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d5/d87/a15404.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d5/d87/a15404.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

@@ -1,7 +1,17 @@
 var a22912 =
 [
-    [ "HandleEffectRemove", "db/dad/a22912.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "db/dad/a22912.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "db/dad/a22912.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "db/dad/a22912.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "boss_ambassador_hellmaw", "db/dad/a22912.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "db/dad/a22912.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "db/dad/a22912.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "db/dad/a22912.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "db/dad/a22912.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "db/dad/a22912.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "db/dad/a22912.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "db/dad/a22912.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "db/dad/a22912.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "db/dad/a22912.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "db/dad/a22912.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "db/dad/a22912.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "db/dad/a22912.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "db/dad/a22912.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

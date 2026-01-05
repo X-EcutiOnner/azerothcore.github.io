@@ -1,10 +1,10 @@
 var a08104 =
 [
-    [ "auras", "da/d23/a08104.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "da/d23/a08104.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "da/d23/a08104.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "da/d23/a08104.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "da/d23/a08104.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "da/d23/a08104.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "da/d23/a08104.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "CreatureModel", "da/d23/a08104.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "da/d23/a08104.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "da/d23/a08104.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "da/d23/a08104.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "da/d23/a08104.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "da/d23/a08104.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "da/d23/a08104.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

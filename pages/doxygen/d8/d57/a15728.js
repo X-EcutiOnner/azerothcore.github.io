@@ -1,6 +1,8 @@
 var a15728 =
 [
-    [ "SpellId", "d8/d57/a15728.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d8/d57/a15728.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d8/d57/a15728.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "CheckRequirement", "d8/d57/a15728.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d8/d57/a15728.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d8/d57/a15728.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d8/d57/a15728.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d8/d57/a15728.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

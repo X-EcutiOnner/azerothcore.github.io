@@ -1,6 +1,11 @@
 var a27412 =
 [
-    [ "go_flamesAI", "d8/d34/a27416.html", "d8/d34/a27416" ],
-    [ "go_flames", "d4/d8c/a27412.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d4/d8c/a27412.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "npc_dream_fogAI", "d4/d8c/a27412.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d4/d8c/a27412.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d4/d8c/a27412.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d4/d8c/a27412.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d4/d8c/a27412.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "d4/d8c/a27412.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d4/d8c/a27412.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d4/d8c/a27412.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

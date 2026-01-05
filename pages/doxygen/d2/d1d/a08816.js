@@ -1,14 +1,17 @@
 var a08816 =
 [
-    [ "SafeUnitPointer", "d2/d1d/a08816.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d2/d1d/a08816.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "d2/d1d/a08816.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "d2/d1d/a08816.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "d2/d1d/a08816.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "d2/d1d/a08816.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "d2/d1d/a08816.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "d2/d1d/a08816.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "d2/d1d/a08816.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "d2/d1d/a08816.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "d2/d1d/a08816.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "SpellNonMeleeDamage", "d2/d1d/a08816.html#ad9d6b798f9ed159d847affc5c4b23715", null ],
+    [ "absorb", "d2/d1d/a08816.html#a485ee28c6a8cf32a22578e02633df75b", null ],
+    [ "attacker", "d2/d1d/a08816.html#a5248da0c1a8609479d681ae76a77d045", null ],
+    [ "blocked", "d2/d1d/a08816.html#af0cb3d2801e51d9236a6ff5185a43790", null ],
+    [ "cleanDamage", "d2/d1d/a08816.html#aa49cdb425fe9c8fb483dcc3c22ca6a72", null ],
+    [ "damage", "d2/d1d/a08816.html#a47e66924ae869ce34bdf36a5ed50548b", null ],
+    [ "HitInfo", "d2/d1d/a08816.html#a3f99854d163cd672f881f721d5bc8a39", null ],
+    [ "overkill", "d2/d1d/a08816.html#a0d578181e933091f3ea1c88ce68e857a", null ],
+    [ "physicalLog", "d2/d1d/a08816.html#a34318f4d92685c855972e6fd22089e03", null ],
+    [ "resist", "d2/d1d/a08816.html#ade20f4aab4a1945ccd6754cd71101fe2", null ],
+    [ "schoolMask", "d2/d1d/a08816.html#a52f5ae6091fe547ed7e282d52c626361", null ],
+    [ "spellInfo", "d2/d1d/a08816.html#a9e37c164672dbcc81dd43bee9ec988cb", null ],
+    [ "target", "d2/d1d/a08816.html#a324ea6c84e005487560de986dceffeba", null ],
+    [ "unused", "d2/d1d/a08816.html#ae991311d8290996e1c0c49f33c29c6b3", null ]
 ];

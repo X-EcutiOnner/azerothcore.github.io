@@ -1,6 +1,8 @@
 var a19932 =
 [
-    [ "boss_runemaster_molgeimAI", "d5/d26/a19936.html", "d5/d26/a19936" ],
-    [ "boss_runemaster_molgeim", "dd/d61/a19932.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "dd/d61/a19932.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "npc_algalon_worm_holeAI", "dd/d61/a19932.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "dd/d61/a19932.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "dd/d61/a19932.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "dd/d61/a19932.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "dd/d61/a19932.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

@@ -1,8 +1,6 @@
 var a14584 =
 [
-    [ "npc_hallows_end_train_fire", "df/dec/a14584.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "df/dec/a14584.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "df/dec/a14584.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "df/dec/a14584.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "df/dec/a14584.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "npc_cw_area_triggerAI", "d9/d64/a14588.html", "d9/d64/a14588" ],
+    [ "npc_cw_area_trigger", "df/dec/a14584.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "df/dec/a14584.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

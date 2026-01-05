@@ -1,6 +1,5 @@
 var a12448 =
 [
-    [ "boss_flamegorAI", "d4/d4a/a12452.html", "d4/d4a/a12452" ],
-    [ "boss_flamegor", "db/de4/a12448.html#abc6f068c81466d08306d94667bb1974b", null ],
-    [ "GetAI", "db/de4/a12448.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
+    [ "go_father_flame", "db/de4/a12448.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "db/de4/a12448.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

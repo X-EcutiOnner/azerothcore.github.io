@@ -1,9 +1,14 @@
 var a08740 =
 [
-    [ "ProcTriggeredData", "d7/d9e/a08740.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "d7/d9e/a08740.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "d7/d9e/a08740.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "d7/d9e/a08740.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "d7/d9e/a08740.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "d7/d9e/a08740.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "PassengerSet", "d7/d9e/a08740.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "d7/d9e/a08740.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "d7/d9e/a08740.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "d7/d9e/a08740.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "d7/d9e/a08740.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "DelayedUpdate", "d7/d9e/a08740.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
+    [ "GetPassengers", "d7/d9e/a08740.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "d7/d9e/a08740.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "d7/d9e/a08740.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "d7/d9e/a08740.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "d7/d9e/a08740.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

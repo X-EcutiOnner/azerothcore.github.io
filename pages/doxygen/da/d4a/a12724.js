@@ -1,9 +1,8 @@
 var a12724 =
 [
-    [ "HandleEffectApply", "da/d4a/a12724.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "da/d4a/a12724.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "da/d4a/a12724.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "da/d4a/a12724.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "da/d4a/a12724.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "da/d4a/a12724.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "boss_majordomoAI", "db/d4d/a12728.html", "db/d4d/a12728" ],
+    [ "boss_majordomo", "da/d4a/a12724.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "da/d4a/a12724.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "da/d4a/a12724.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "da/d4a/a12724.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

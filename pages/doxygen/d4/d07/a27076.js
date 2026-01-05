@@ -1,8 +1,10 @@
 var a27076 =
 [
-    [ "AfterCheckProc", "d4/d07/a27076.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
-    [ "HandleProc", "d4/d07/a27076.html#ac24bde081e118b347a3cad6832cd96da", null ],
-    [ "PrepareAuraScript", "d4/d07/a27076.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
-    [ "Register", "d4/d07/a27076.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
-    [ "Validate", "d4/d07/a27076.html#aecc372443f71834aaeab97ba77757e2a", null ]
+    [ "CalculateAPAmount", "d4/d07/a27076.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "d4/d07/a27076.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "d4/d07/a27076.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "d4/d07/a27076.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "d4/d07/a27076.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "d4/d07/a27076.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "d4/d07/a27076.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

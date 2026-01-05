@@ -1,7 +1,7 @@
 var a24928 =
 [
-    [ "FilterTargets", "db/df2/a24928.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "db/df2/a24928.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "db/df2/a24928.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "db/df2/a24928.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "AfterApply", "db/df2/a24928.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "db/df2/a24928.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "db/df2/a24928.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "db/df2/a24928.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

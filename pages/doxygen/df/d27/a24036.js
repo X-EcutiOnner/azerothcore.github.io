@@ -1,6 +1,6 @@
 var a24036 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d2/d9d/a24040.html", "d2/d9d/a24040" ],
-    [ "instance_the_eye", "df/d27/a24036.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "df/d27/a24036.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "HandleCast", "df/d27/a24036.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "df/d27/a24036.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "df/d27/a24036.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

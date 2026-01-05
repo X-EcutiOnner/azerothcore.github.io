@@ -1,6 +1,6 @@
 var a26976 =
 [
-    [ "HandleBanish", "df/d16/a26976.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "df/d16/a26976.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "df/d16/a26976.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "FilterTargets", "df/d16/a26976.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "df/d16/a26976.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "df/d16/a26976.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

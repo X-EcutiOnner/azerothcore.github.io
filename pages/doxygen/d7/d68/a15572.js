@@ -1,8 +1,16 @@
 var a15572 =
 [
-    [ "npc_prospector_remtravelAI", "d7/d68/a15572.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d7/d68/a15572.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d7/d68/a15572.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d7/d68/a15572.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d7/d68/a15572.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "npc_muglashAI", "d7/d68/a15572.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "d7/d68/a15572.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "d7/d68/a15572.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "d7/d68/a15572.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "d7/d68/a15572.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "d7/d68/a15572.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "d7/d68/a15572.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "d7/d68/a15572.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "d7/d68/a15572.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "d7/d68/a15572.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "_isBrazierExtinguished", "d7/d68/a15572.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "d7/d68/a15572.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "d7/d68/a15572.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

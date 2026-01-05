@@ -1,6 +1,7 @@
 var a27436 =
 [
-    [ "go_l70_etc_musicAI", "d0/de2/a27440.html", "d0/de2/a27440" ],
-    [ "go_l70_etc_music", "dd/d9b/a27436.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "dd/d9b/a27436.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "npc_spirit_shadeAI", "dd/d9b/a27436.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "dd/d9b/a27436.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "dd/d9b/a27436.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "dd/d9b/a27436.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

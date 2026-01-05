@@ -1,6 +1,6 @@
 var a06244 =
 [
-    [ "GameObjectAIFactory", "da/da7/a06244.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "da/da7/a06244.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "da/da7/a06244.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "PlayerAI", "da/da7/a06244.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "da/da7/a06244.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "da/da7/a06244.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

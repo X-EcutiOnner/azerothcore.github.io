@@ -1,6 +1,5 @@
 var a15412 =
 [
-    [ "HandleOnHit", "d7/ddc/a15412.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d7/ddc/a15412.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d7/ddc/a15412.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "at_cthun_center", "d7/ddc/a15412.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "d7/ddc/a15412.html#af744df9577e84ab64749076324e574c9", null ]
 ];

@@ -1,10 +1,14 @@
 var a22668 =
 [
-    [ "OPvPCapturePointHP", "d7/df4/a22668.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d7/df4/a22668.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d7/df4/a22668.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d7/df4/a22668.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d7/df4/a22668.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d7/df4/a22668.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d7/df4/a22668.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "npc_finklesteinAI", "d7/df4/a22668.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d7/df4/a22668.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d7/df4/a22668.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d7/df4/a22668.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d7/df4/a22668.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d7/df4/a22668.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d7/df4/a22668.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d7/df4/a22668.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d7/df4/a22668.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d7/df4/a22668.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d7/df4/a22668.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

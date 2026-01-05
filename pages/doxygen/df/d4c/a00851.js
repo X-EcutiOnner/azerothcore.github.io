@@ -1,5 +1,15 @@
 var a00851 =
 [
-    [ "Vehicle", "de/d22/a08855.html", "de/d22/a08855" ],
-    [ "VehicleDespawnEvent", "d3/d9e/a08859.html", "d3/d9e/a08859" ]
+    [ "Position", "df/dc4/a08532.html", "df/dc4/a08532" ],
+    [ "Position::PositionXYStreamer", "d6/d96/a08536.html", "d6/d96/a08536" ],
+    [ "Position::PositionXYZStreamer", "dc/dfb/a08540.html", "dc/dfb/a08540" ],
+    [ "Position::PositionXYZOStreamer", "d9/d01/a08544.html", "d9/d01/a08544" ],
+    [ "WorldLocation", "d8/d2e/a08548.html", "d8/d2e/a08548" ],
+    [ "MAPID_INVALID", "df/d4c/a00851.html#af69a1d112a89b89894dafd5da53e7490", null ],
+    [ "operator<<", "df/d4c/a00851.html#a09519787a0405fc17b028180b2da4cdd", null ],
+    [ "operator<<", "df/d4c/a00851.html#a71323635f122d24189054da615cb39e1", null ],
+    [ "operator<<", "df/d4c/a00851.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
+    [ "operator>>", "df/d4c/a00851.html#a188cc2956d39298323a99c4aa5ceede6", null ],
+    [ "operator>>", "df/d4c/a00851.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
+    [ "operator>>", "df/d4c/a00851.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
 ];

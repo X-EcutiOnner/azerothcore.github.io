@@ -1,8 +1,6 @@
 var a19808 =
 [
-    [ "iron_golem_custodianAI", "de/de9/a19808.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "de/de9/a19808.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "de/de9/a19808.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "de/de9/a19808.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "de/de9/a19808.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_krystallusAI", "d7/dc4/a19812.html", "d7/dc4/a19812" ],
+    [ "boss_krystallus", "de/de9/a19808.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "de/de9/a19808.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

@@ -1,8 +1,7 @@
 var a22752 =
 [
-    [ "CalcPeriodic", "de/d26/a22752.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "de/d26/a22752.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "de/d26/a22752.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "de/d26/a22752.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "de/d26/a22752.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "OutdoorPvPGH", "de/d26/a22752.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "de/d26/a22752.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "de/d26/a22752.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "de/d26/a22752.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

@@ -1,9 +1,6 @@
 var a12700 =
 [
-    [ "npc_flamewaker_priestAI", "d9/d2a/a12700.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d9/d2a/a12700.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d9/d2a/a12700.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d9/d2a/a12700.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d9/d2a/a12700.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d9/d2a/a12700.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "boss_lucifronAI", "d0/dd4/a12704.html", "d0/dd4/a12704" ],
+    [ "boss_lucifron", "d9/d2a/a12700.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "d9/d2a/a12700.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

@@ -1,13 +1,10 @@
 var a19420 =
 [
-    [ "npc_vortex_rideAI", "d8/d00/a19420.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
-    [ "AttackStart", "d8/d00/a19420.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
-    [ "DamageTaken", "d8/d00/a19420.html#a39e33812041877296c11c9bace6a4667", null ],
-    [ "MoveInLineOfSight", "d8/d00/a19420.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
-    [ "PassengerBoarded", "d8/d00/a19420.html#a77234a8f4ec9c687b194a8c332820609", null ],
-    [ "UpdateAI", "d8/d00/a19420.html#ad450120965f9e85bdb69ffc4c092c901", null ],
-    [ "bUpdatedFlying", "d8/d00/a19420.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
-    [ "despawnTimer", "d8/d00/a19420.html#acd7a8c972db52077f8b02317f5398ff0", null ],
-    [ "timer", "d8/d00/a19420.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
-    [ "VORTEX_RADIUS", "d8/d00/a19420.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
+    [ "boss_razuvious_minionAI", "d8/d00/a19420.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d8/d00/a19420.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d8/d00/a19420.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d8/d00/a19420.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d8/d00/a19420.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d8/d00/a19420.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d8/d00/a19420.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

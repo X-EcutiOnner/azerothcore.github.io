@@ -1,8 +1,6 @@
 var a21632 =
 [
-    [ "npc_azure_captainAI", "d8/d69/a21632.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d8/d69/a21632.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d8/d69/a21632.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d8/d69/a21632.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d8/d69/a21632.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_vh_teleportation_portalAI", "da/d1a/a21636.html", "da/d1a/a21636" ],
+    [ "npc_vh_teleportation_portal", "d8/d69/a21632.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "d8/d69/a21632.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

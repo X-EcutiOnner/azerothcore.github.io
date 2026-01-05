@@ -1,4 +1,4 @@
 var a01430 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "d8/dd0/a01430.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "ScriptRegistry< ALEScript >", "d8/dd0/a01430.html#a84c662c2b9398225a13a01142e622675", null ]
 ];

@@ -1,6 +1,9 @@
 var a21760 =
 [
-    [ "npc_bloodmage_laurithAI", "dd/d62/a21764.html", "dd/d62/a21764" ],
-    [ "npc_bloodmage_laurith", "dd/dab/a21760.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "dd/dab/a21760.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_lurgglbrAI", "dd/dab/a21760.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dd/dab/a21760.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dd/dab/a21760.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dd/dab/a21760.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "dd/dab/a21760.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dd/dab/a21760.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

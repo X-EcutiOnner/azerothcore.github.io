@@ -1,9 +1,6 @@
 var a17580 =
 [
-    [ "CheckTarget", "d5/da8/a17580.html#a43fc6a16aca217ef043fa34a58391357", null ],
-    [ "HandlePresence", "d5/da8/a17580.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
-    [ "OnCast", "d5/da8/a17580.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
-    [ "PrepareSpellScript", "d5/da8/a17580.html#abe559b32aa82f19abb0a6d664b75c748", null ],
-    [ "Register", "d5/da8/a17580.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
-    [ "Validate", "d5/da8/a17580.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
+    [ "npc_kinetic_bombAI", "de/d2a/a17584.html", "de/d2a/a17584" ],
+    [ "npc_kinetic_bomb", "d5/da8/a17580.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "d5/da8/a17580.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

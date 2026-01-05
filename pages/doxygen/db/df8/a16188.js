@@ -1,6 +1,6 @@
 var a16188 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "de/d8e/a16192.html", "de/d8e/a16192" ],
-    [ "instance_obsidian_sanctum", "db/df8/a16188.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "db/df8/a16188.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "FilterTargets", "db/df8/a16188.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "db/df8/a16188.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "db/df8/a16188.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

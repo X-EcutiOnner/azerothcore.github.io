@@ -1,6 +1,8 @@
 var a16252 =
 [
-    [ "SendEncounterUnit", "d9/df6/a16252.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d9/df6/a16252.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d9/df6/a16252.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "boss_sartharion_shadronAI", "d9/df6/a16252.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "d9/df6/a16252.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "d9/df6/a16252.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "d9/df6/a16252.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "d9/df6/a16252.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

@@ -1,6 +1,10 @@
 var a11628 =
 [
-    [ "FieldGuidType", "d5/d8f/a11628.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d5/d8f/a11628.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d5/d8f/a11628.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "CustomChatTextBuilder", "d5/d8f/a11628.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d5/d8f/a11628.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d5/d8f/a11628.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d5/d8f/a11628.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d5/d8f/a11628.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d5/d8f/a11628.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d5/d8f/a11628.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

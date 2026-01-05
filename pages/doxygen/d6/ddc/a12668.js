@@ -1,7 +1,7 @@
 var a12668 =
 [
-    [ "HandleScript", "d6/ddc/a12668.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "d6/ddc/a12668.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "d6/ddc/a12668.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "d6/ddc/a12668.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "HandlePeriodic", "d6/ddc/a12668.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d6/ddc/a12668.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d6/ddc/a12668.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d6/ddc/a12668.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

@@ -1,6 +1,7 @@
 var a26928 =
 [
-    [ "HandleKnockBack", "dd/d10/a26928.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "dd/d10/a26928.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "dd/d10/a26928.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "CheckProc", "dd/d10/a26928.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "dd/d10/a26928.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "dd/d10/a26928.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "dd/d10/a26928.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

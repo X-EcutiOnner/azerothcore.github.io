@@ -1,8 +1,6 @@
 var a11048 =
 [
-    [ "PetSpellAutocast", "d6/d7b/a11048.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d6/d7b/a11048.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d6/d7b/a11048.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d6/d7b/a11048.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d6/d7b/a11048.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "InvalidStringValueException", "d6/d7b/a11048.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
+    [ "GetInvalidValue", "d6/d7b/a11048.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
+    [ "_value", "d6/d7b/a11048.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
 ];

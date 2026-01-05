@@ -1,11 +1,13 @@
 var a23636 =
 [
-    [ "boss_high_king_maulgar", "d5/dd6/a23636.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d5/dd6/a23636.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d5/dd6/a23636.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d5/dd6/a23636.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d5/dd6/a23636.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d5/dd6/a23636.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d5/dd6/a23636.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d5/dd6/a23636.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "boss_ghazan", "d5/dd6/a23636.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d5/dd6/a23636.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d5/dd6/a23636.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d5/dd6/a23636.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d5/dd6/a23636.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d5/dd6/a23636.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d5/dd6/a23636.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d5/dd6/a23636.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d5/dd6/a23636.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d5/dd6/a23636.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

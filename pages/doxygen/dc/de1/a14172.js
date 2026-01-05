@@ -1,5 +1,6 @@
 var a14172 =
 [
-    [ "at_zulgurub_bridge_speech", "dc/de1/a14172.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "dc/de1/a14172.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "OnEffect", "dc/de1/a14172.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "dc/de1/a14172.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "dc/de1/a14172.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

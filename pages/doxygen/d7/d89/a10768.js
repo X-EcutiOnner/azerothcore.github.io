@@ -1,5 +1,6 @@
 var a10768 =
 [
-    [ "SocketEnchantID", "d7/d89/a10768.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "d7/d89/a10768.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildPromoteMember", "d7/d89/a10768.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d7/d89/a10768.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d7/d89/a10768.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

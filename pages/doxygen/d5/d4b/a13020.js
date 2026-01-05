@@ -1,8 +1,14 @@
 var a13020 =
 [
-    [ "CheckProc", "d5/d4b/a13020.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d5/d4b/a13020.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d5/d4b/a13020.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d5/d4b/a13020.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d5/d4b/a13020.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "boss_strawman", "d5/d4b/a13020.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d5/d4b/a13020.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d5/d4b/a13020.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d5/d4b/a13020.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d5/d4b/a13020.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d5/d4b/a13020.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d5/d4b/a13020.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d5/d4b/a13020.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d5/d4b/a13020.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d5/d4b/a13020.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d5/d4b/a13020.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

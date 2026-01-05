@@ -1,6 +1,6 @@
 var a27136 =
 [
-    [ "HandleHeal", "d9/df9/a27136.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d9/df9/a27136.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d9/df9/a27136.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleAfterHit", "d9/df9/a27136.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "d9/df9/a27136.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "d9/df9/a27136.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

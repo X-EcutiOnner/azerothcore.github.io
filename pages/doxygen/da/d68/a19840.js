@@ -1,6 +1,6 @@
 var a19840 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "dc/dfd/a19844.html", "dc/dfd/a19844" ],
-    [ "npc_brann_bronzebeard_algalon", "da/d68/a19840.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "da/d68/a19840.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "boss_sjonnir_dwarfAI", "dc/dfd/a19844.html", "dc/dfd/a19844" ],
+    [ "boss_sjonnir_dwarf", "da/d68/a19840.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "da/d68/a19840.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

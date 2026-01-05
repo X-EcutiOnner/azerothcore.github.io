@@ -1,8 +1,12 @@
 var a19296 =
 [
-    [ "boss_maexxna_webwrapAI", "d3/d05/a19296.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d3/d05/a19296.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d3/d05/a19296.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d3/d05/a19296.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d3/d05/a19296.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "npc_gothik_triggerAI", "d3/d05/a19296.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d3/d05/a19296.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d3/d05/a19296.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d3/d05/a19296.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d3/d05/a19296.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d3/d05/a19296.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d3/d05/a19296.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d3/d05/a19296.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d3/d05/a19296.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

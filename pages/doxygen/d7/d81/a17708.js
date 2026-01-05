@@ -1,9 +1,12 @@
 var a17708 =
 [
-    [ "BattleExperienceEvent", "d7/d81/a17708.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d7/d81/a17708.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d7/d81/a17708.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d7/d81/a17708.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d7/d81/a17708.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d7/d81/a17708.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d7/d81/a17708.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "d7/d81/a17708.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "d7/d81/a17708.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "d7/d81/a17708.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "d7/d81/a17708.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "d7/d81/a17708.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "d7/d81/a17708.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "d7/d81/a17708.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "d7/d81/a17708.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

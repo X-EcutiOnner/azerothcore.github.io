@@ -1,7 +1,7 @@
 var a26468 =
 [
-    [ "if", "d1/db2/a26468.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "d1/db2/a26468.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "d1/db2/a26468.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "d1/db2/a26468.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "FilterTargets", "d1/db2/a26468.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "d1/db2/a26468.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "d1/db2/a26468.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "d1/db2/a26468.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

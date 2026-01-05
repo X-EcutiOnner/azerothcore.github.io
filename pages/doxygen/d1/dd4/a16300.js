@@ -1,6 +1,6 @@
 var a16300 =
 [
-    [ "HandleForceCast", "d1/dd4/a16300.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d1/dd4/a16300.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d1/dd4/a16300.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "boss_baltharus_the_warbornAI", "d4/d5f/a16304.html", "d4/d5f/a16304" ],
+    [ "boss_baltharus_the_warborn", "d1/dd4/a16300.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d1/dd4/a16300.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

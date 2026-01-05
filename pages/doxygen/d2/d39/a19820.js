@@ -1,6 +1,6 @@
 var a19820 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "da/d8f/a19824.html", "da/d8f/a19824" ],
-    [ "instance_halls_of_stone", "d2/d39/a19820.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d2/d39/a19820.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "CalculateDamage", "d2/d39/a19820.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d2/d39/a19820.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d2/d39/a19820.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

@@ -1,6 +1,6 @@
 var a25752 =
 [
-    [ "HandleDummy", "db/df8/a25752.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "db/df8/a25752.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "db/df8/a25752.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "CheckProc", "db/df8/a25752.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "db/df8/a25752.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "db/df8/a25752.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

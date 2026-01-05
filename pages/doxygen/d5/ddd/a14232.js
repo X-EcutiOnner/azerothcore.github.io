@@ -1,6 +1,6 @@
 var a14232 =
 [
-    [ "HandleOnHit", "d5/ddd/a14232.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d5/ddd/a14232.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d5/ddd/a14232.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "OnEffect", "d5/ddd/a14232.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d5/ddd/a14232.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d5/ddd/a14232.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

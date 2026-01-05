@@ -1,13 +1,11 @@
 var a08820 =
 [
-    [ "BuildValuesCachePosPointers", "d0/d8b/a08820.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d0/d8b/a08820.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d0/d8b/a08820.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d0/d8b/a08820.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d0/d8b/a08820.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d0/d8b/a08820.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d0/d8b/a08820.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d0/d8b/a08820.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d0/d8b/a08820.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d0/d8b/a08820.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "SpellPeriodicAuraLogInfo", "d0/d8b/a08820.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d0/d8b/a08820.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d0/d8b/a08820.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d0/d8b/a08820.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d0/d8b/a08820.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d0/d8b/a08820.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d0/d8b/a08820.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d0/d8b/a08820.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

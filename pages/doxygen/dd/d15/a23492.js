@@ -1,5 +1,6 @@
 var a23492 =
 [
-    [ "boss_quagmirran", "dd/d15/a23492.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "dd/d15/a23492.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "HandleEffectRemove", "dd/d15/a23492.html#ab4c215a735ead9959fd78972a6da72e4", null ],
+    [ "PrepareAuraScript", "dd/d15/a23492.html#a75be2f838d6773b619dfac80e32557b8", null ],
+    [ "Register", "dd/d15/a23492.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
 ];

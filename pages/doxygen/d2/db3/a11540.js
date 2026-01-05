@@ -1,6 +1,6 @@
 var a11540 =
 [
-    [ "AfterCheckProcHandler", "d2/db3/a11540.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d2/db3/a11540.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d2/db3/a11540.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "ObjectAreaTargetSelectHandler", "d2/db3/a11540.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d2/db3/a11540.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d2/db3/a11540.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

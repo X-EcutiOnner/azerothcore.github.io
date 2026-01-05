@@ -1,8 +1,8 @@
 var a26128 =
 [
-    [ "CheckQuest", "df/dc3/a26128.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "df/dc3/a26128.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "df/dc3/a26128.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "df/dc3/a26128.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "df/dc3/a26128.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "HandleDummy", "df/dc3/a26128.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
+    [ "Load", "df/dc3/a26128.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
+    [ "PrepareSpellScript", "df/dc3/a26128.html#af89de259afbab436326a67b9eb7833ad", null ],
+    [ "Register", "df/dc3/a26128.html#a78ffb20ccc10c3c632934af862273716", null ],
+    [ "Validate", "df/dc3/a26128.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
 ];

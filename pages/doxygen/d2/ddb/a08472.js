@@ -1,10 +1,13 @@
 var a08472 =
 [
-    [ "ObjectGuidGeneratorBase", "d2/ddb/a08472.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "d2/ddb/a08472.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "d2/ddb/a08472.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "d2/ddb/a08472.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "d2/ddb/a08472.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "d2/ddb/a08472.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "d2/ddb/a08472.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "FlaggedValuesArray32", "d2/ddb/a08472.html#a0680f7b67001783f20d89989a49cbead", null ],
+    [ "AddFlag", "d2/ddb/a08472.html#a273ab3607b23881628eb0c5d6a4da288", null ],
+    [ "AddValue", "d2/ddb/a08472.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
+    [ "DelFlag", "d2/ddb/a08472.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
+    [ "GetFlags", "d2/ddb/a08472.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
+    [ "GetValue", "d2/ddb/a08472.html#a87e5949bc041f15449331aceb277e8c4", null ],
+    [ "HasFlag", "d2/ddb/a08472.html#a0ea5d977caef5152c71c515259a91f06", null ],
+    [ "SetValue", "d2/ddb/a08472.html#ad0d385589befe52103f077723fa2463c", null ],
+    [ "m_flags", "d2/ddb/a08472.html#abab31b77efb46fa796275c36964eab91", null ],
+    [ "m_values", "d2/ddb/a08472.html#aabd025f47ad522e574f603eb559500f0", null ]
 ];

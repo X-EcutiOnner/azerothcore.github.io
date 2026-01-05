@@ -1,7 +1,5 @@
 var a08620 =
 [
-    [ "SetRuneState", "dc/de6/a08620.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "dc/de6/a08620.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "dc/de6/a08620.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "dc/de6/a08620.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "PlayerClassInfo", "dc/de6/a08620.html#a6a0a6db24e144593356e0505946e8f06", null ],
+    [ "levelInfo", "dc/de6/a08620.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
 ];

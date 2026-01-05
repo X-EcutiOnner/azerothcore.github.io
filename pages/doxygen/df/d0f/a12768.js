@@ -1,12 +1,8 @@
 var a12768 =
 [
-    [ "BoardCell", "df/d0f/a12768.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "df/d0f/a12768.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "df/d0f/a12768.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "df/d0f/a12768.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "df/d0f/a12768.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "df/d0f/a12768.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "df/d0f/a12768.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "df/d0f/a12768.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "df/d0f/a12768.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "FilterTargets", "df/d0f/a12768.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "df/d0f/a12768.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "df/d0f/a12768.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "df/d0f/a12768.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "df/d0f/a12768.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

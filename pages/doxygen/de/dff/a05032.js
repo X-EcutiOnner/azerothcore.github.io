@@ -1,8 +1,8 @@
 var a05032 =
 [
-    [ "LocationInfoCallback", "de/dff/a05032.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "de/dff/a05032.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
-    [ "locInfo", "de/dff/a05032.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "de/dff/a05032.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "de/dff/a05032.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "MMapData", "de/dff/a05032.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
+    [ "~MMapData", "de/dff/a05032.html#a28ad87f05014c49373557369e9177df5", null ],
+    [ "loadedTileRefs", "de/dff/a05032.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
+    [ "navMesh", "de/dff/a05032.html#a786a4b43773e4402451bed82cf221f66", null ],
+    [ "navMeshQueries", "de/dff/a05032.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
 ];

@@ -1,6 +1,6 @@
 var a20988 =
 [
-    [ "boss_yoggsaron_brainAI", "d7/df9/a20992.html", "d7/df9/a20992" ],
-    [ "boss_yoggsaron_brain", "d8/deb/a20988.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "d8/deb/a20988.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "PrepareSpellScript", "d8/deb/a20988.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d8/deb/a20988.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d8/deb/a20988.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

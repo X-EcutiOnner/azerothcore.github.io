@@ -1,5 +1,7 @@
 var a14512 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d0/dbc/a14512.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d0/dbc/a14512.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_direbrew_minion", "d0/dbc/a14512.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d0/dbc/a14512.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d0/dbc/a14512.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d0/dbc/a14512.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

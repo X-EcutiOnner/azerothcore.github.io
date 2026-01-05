@@ -1,5 +1,6 @@
 var a13728 =
 [
-    [ "at_twilight_grove", "d8/d48/a13728.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "d8/d48/a13728.html#a8ee7239b8429df38a237926a7252322b", null ]
+    [ "ChangeSummonPos", "d8/d48/a13728.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d8/d48/a13728.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d8/d48/a13728.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

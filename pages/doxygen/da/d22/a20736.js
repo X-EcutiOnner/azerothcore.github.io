@@ -1,6 +1,5 @@
 var a20736 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "d0/d65/a20740.html", "d0/d65/a20740" ],
-    [ "npc_ulduar_dark_rune_watcher", "da/d22/a20736.html#a0536c61d70d5c6d61496fc1720d37950", null ],
-    [ "GetAI", "da/d22/a20736.html#a6677d6dc0d07b508e921064f3299b302", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "da/d22/a20736.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "da/d22/a20736.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

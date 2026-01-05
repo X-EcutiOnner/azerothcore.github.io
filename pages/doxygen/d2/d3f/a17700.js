@@ -1,9 +1,12 @@
 var a17700 =
 [
-    [ "npc_stinky_iccAI", "d2/d3f/a17700.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d2/d3f/a17700.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d2/d3f/a17700.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d2/d3f/a17700.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d2/d3f/a17700.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d2/d3f/a17700.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "npc_high_overlord_saurfangAI", "d2/d3f/a17700.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d2/d3f/a17700.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d2/d3f/a17700.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d2/d3f/a17700.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d2/d3f/a17700.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d2/d3f/a17700.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d2/d3f/a17700.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d2/d3f/a17700.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d2/d3f/a17700.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

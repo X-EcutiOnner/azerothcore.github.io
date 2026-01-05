@@ -1,4 +1,4 @@
 var a07716 =
 [
-    [ "ChatCommandResult", "db/d25/a07716.html#a6150ebd46977676b2ddeebfb818e86a9", null ]
+    [ "TryConsume", "db/d25/a07716.html#a6fe249c25aabf5f7eb70612982ac2b82", null ]
 ];

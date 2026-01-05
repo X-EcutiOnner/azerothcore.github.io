@@ -1,7 +1,6 @@
 var a26920 =
 [
-    [ "HandleDummy", "d9/d65/a26920.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "d9/d65/a26920.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "d9/d65/a26920.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "d9/d65/a26920.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "HandleAfterCast", "d9/d65/a26920.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d9/d65/a26920.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d9/d65/a26920.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

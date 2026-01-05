@@ -1,5 +1,7 @@
 var a27264 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d2/ddf/a27264.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d2/ddf/a27264.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "HandleScript", "d2/ddf/a27264.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d2/ddf/a27264.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d2/ddf/a27264.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d2/ddf/a27264.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

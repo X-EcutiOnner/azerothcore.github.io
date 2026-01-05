@@ -1,11 +1,9 @@
 var a11288 =
 [
-    [ "SpellValue", "dd/d1d/a11288.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "dd/d1d/a11288.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "dd/d1d/a11288.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "dd/d1d/a11288.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "dd/d1d/a11288.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "dd/d1d/a11288.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "dd/d1d/a11288.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "dd/d1d/a11288.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "EncryptableAndCompressiblePacket", "dd/d1d/a11288.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "dd/d1d/a11288.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "dd/d1d/a11288.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "dd/d1d/a11288.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "dd/d1d/a11288.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "dd/d1d/a11288.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

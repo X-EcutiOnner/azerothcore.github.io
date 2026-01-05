@@ -1,6 +1,12 @@
 var a23356 =
 [
-    [ "HandleScriptEffect", "d8/de0/a23356.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "d8/de0/a23356.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "d8/de0/a23356.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "boss_fathomlord_karathress", "d8/de0/a23356.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d8/de0/a23356.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d8/de0/a23356.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d8/de0/a23356.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d8/de0/a23356.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d8/de0/a23356.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d8/de0/a23356.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d8/de0/a23356.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "d8/de0/a23356.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

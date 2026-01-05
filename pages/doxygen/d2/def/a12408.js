@@ -1,6 +1,5 @@
 var a12408 =
 [
-    [ "boss_chromaggusAI", "d8/d8e/a12412.html", "d8/d8e/a12412" ],
-    [ "boss_chromaggus", "d2/def/a12408.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d2/def/a12408.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "at_trigger_the_beast_movement", "d2/def/a12408.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d2/def/a12408.html#a333d685d765497a950fde35067d876a1", null ]
 ];

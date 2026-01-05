@@ -1,10 +1,13 @@
 var a11468 =
 [
-    [ "TargetHook", "dd/d2c/a11468.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "dd/d2c/a11468.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "dd/d2c/a11468.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "dd/d2c/a11468.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "dd/d2c/a11468.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "dd/d2c/a11468.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "dd/d2c/a11468.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "PetAuraMap", "dd/d2c/a11468.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "dd/d2c/a11468.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "dd/d2c/a11468.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "dd/d2c/a11468.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "dd/d2c/a11468.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "dd/d2c/a11468.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "dd/d2c/a11468.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "dd/d2c/a11468.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "dd/d2c/a11468.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "dd/d2c/a11468.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

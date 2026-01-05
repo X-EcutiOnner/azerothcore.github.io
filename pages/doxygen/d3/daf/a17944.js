@@ -1,6 +1,6 @@
 var a17944 =
 [
-    [ "npc_darnavanAI", "dc/daa/a17948.html", "dc/daa/a17948" ],
-    [ "npc_darnavan", "d3/daf/a17944.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d3/daf/a17944.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "HandlePeriodicTick", "d3/daf/a17944.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d3/daf/a17944.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d3/daf/a17944.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

@@ -1,6 +1,8 @@
 var a21072 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d0/d95/a21076.html", "d0/d95/a21076" ],
-    [ "boss_yoggsaron_neltharion", "d3/dad/a21072.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d3/dad/a21072.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "d3/dad/a21072.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
+    [ "DamageTaken", "d3/dad/a21072.html#ac2458922b2530929ee1adbcc0da834a0", null ],
+    [ "DoAction", "d3/dad/a21072.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
+    [ "Reset", "d3/dad/a21072.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
+    [ "UpdateAI", "d3/dad/a21072.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
 ];

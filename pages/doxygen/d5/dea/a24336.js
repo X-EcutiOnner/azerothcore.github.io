@@ -1,6 +1,8 @@
 var a24336 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/dea/a24336.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d5/dea/a24336.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d5/dea/a24336.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_captain_saeedAI", "d5/d5d/a24340.html", "d5/d5d/a24340" ],
+    [ "npc_captain_saeed", "d5/dea/a24336.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "d5/dea/a24336.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "d5/dea/a24336.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "d5/dea/a24336.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

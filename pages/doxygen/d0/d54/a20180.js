@@ -1,5 +1,5 @@
 var a20180 =
 [
-    [ "achievement_flame_leviathan_shutout", "d0/d54/a20180.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d0/d54/a20180.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "go_ulduar_tower", "d0/d54/a20180.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "d0/d54/a20180.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

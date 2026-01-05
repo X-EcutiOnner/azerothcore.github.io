@@ -1,12 +1,7 @@
 var a23328 =
 [
-    [ "boss_leotheras_the_blind", "d6/dcf/a23328.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "d6/dcf/a23328.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "d6/dcf/a23328.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "d6/dcf/a23328.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "d6/dcf/a23328.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "d6/dcf/a23328.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "d6/dcf/a23328.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "d6/dcf/a23328.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "d6/dcf/a23328.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "OnPeriodic", "d6/dcf/a23328.html#ad64b9ba13ef7d77cd778afb8e412ad04", null ],
+    [ "PrepareAuraScript", "d6/dcf/a23328.html#a40faff90cb247203d3afafad9c44bfd7", null ],
+    [ "Register", "d6/dcf/a23328.html#a8b2d4235784396b8c29b8e7de51e5708", null ],
+    [ "Validate", "d6/dcf/a23328.html#a57b481cf462f53ec76f2db326b48c9b6", null ]
 ];

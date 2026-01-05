@@ -1,8 +1,9 @@
 var a22948 =
 [
-    [ "HandleScriptEffect", "d0/dde/a22948.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d0/dde/a22948.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d0/dde/a22948.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d0/dde/a22948.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d0/dde/a22948.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/dde/a22948.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d0/dde/a22948.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d0/dde/a22948.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d0/dde/a22948.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d0/dde/a22948.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d0/dde/a22948.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

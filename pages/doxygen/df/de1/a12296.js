@@ -1,11 +1,8 @@
 var a12296 =
 [
-    [ "npc_rookery_hatcherAI", "df/de1/a12296.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "df/de1/a12296.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "df/de1/a12296.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "df/de1/a12296.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "df/de1/a12296.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "df/de1/a12296.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "df/de1/a12296.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "df/de1/a12296.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_drakkisathAI", "df/de1/a12296.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "df/de1/a12296.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "df/de1/a12296.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "df/de1/a12296.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "df/de1/a12296.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

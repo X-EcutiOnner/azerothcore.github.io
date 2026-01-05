@@ -1,12 +1,8 @@
 var a11996 =
 [
-    [ "boss_balinda", "d7/d7c/a11996.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d7/d7c/a11996.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d7/d7c/a11996.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d7/d7c/a11996.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d7/d7c/a11996.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d7/d7c/a11996.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d7/d7c/a11996.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d7/d7c/a11996.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d7/d7c/a11996.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "pet_commandscript", "d7/d7c/a11996.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "d7/d7c/a11996.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "d7/d7c/a11996.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "d7/d7c/a11996.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "d7/d7c/a11996.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

@@ -1,16 +1,9 @@
 var a14304 =
 [
-    [ "boss_renatakiAI", "d2/dc8/a14304.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
-    [ "CanAIAttack", "d2/dc8/a14304.html#af20dc14dc56500e568a3a11bfb34a227", null ],
-    [ "CanAlwaysBeDetectable", "d2/dc8/a14304.html#af75108eacb982586f43a175beede78ef", null ],
-    [ "CanBeSeen", "d2/dc8/a14304.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
-    [ "CanSeeAlways", "d2/dc8/a14304.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
-    [ "DamageTaken", "d2/dc8/a14304.html#a62d97adb310b55a2235737b854dc4aca", null ],
-    [ "JustEngagedWith", "d2/dc8/a14304.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
-    [ "Reset", "d2/dc8/a14304.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
-    [ "UpdateAI", "d2/dc8/a14304.html#a3a1abaef460d9abe1298080080d74c9d", null ],
-    [ "_dynamicFlags", "d2/dc8/a14304.html#a502bfa737cf97ae909144278a3e39bd0", null ],
-    [ "_enraged", "d2/dc8/a14304.html#a71e717a2ea732729762aff7970439f74", null ],
-    [ "_thousandBladesCount", "d2/dc8/a14304.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
-    [ "_thousandBladesTargets", "d2/dc8/a14304.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
+    [ "boss_jindo", "d2/dc8/a14304.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
+    [ "EnterEvadeMode", "d2/dc8/a14304.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
+    [ "JustEngagedWith", "d2/dc8/a14304.html#a7f612a1e5033c5097856222cee41f2af", null ],
+    [ "JustSummoned", "d2/dc8/a14304.html#ac7382289d174ec70703b76dc4e451d39", null ],
+    [ "UpdateAI", "d2/dc8/a14304.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
+    [ "_scheduler", "d2/dc8/a14304.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
 ];

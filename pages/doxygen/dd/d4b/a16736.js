@@ -1,6 +1,8 @@
 var a16736 =
 [
-    [ "npc_snobold_vassalAI", "dd/dca/a16740.html", "dd/dca/a16740" ],
-    [ "npc_snobold_vassal", "dd/d4b/a16736.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "dd/d4b/a16736.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "npc_toc_boomkinAI", "dd/d4b/a16736.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "dd/d4b/a16736.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "dd/d4b/a16736.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "dd/d4b/a16736.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "dd/d4b/a16736.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

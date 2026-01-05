@@ -1,10 +1,9 @@
 var a14312 =
 [
-    [ "npc_zealot_lorkhan", "d4/da1/a14312.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d4/da1/a14312.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d4/da1/a14312.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d4/da1/a14312.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d4/da1/a14312.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d4/da1/a14312.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d4/da1/a14312.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "npc_shade_of_jindo", "d4/da1/a14312.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d4/da1/a14312.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d4/da1/a14312.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d4/da1/a14312.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d4/da1/a14312.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d4/da1/a14312.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

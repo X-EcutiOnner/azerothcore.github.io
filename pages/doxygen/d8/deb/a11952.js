@@ -1,9 +1,13 @@
 var a11952 =
 [
-    [ "send_commandscript", "d8/deb/a11952.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d8/deb/a11952.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d8/deb/a11952.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d8/deb/a11952.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d8/deb/a11952.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d8/deb/a11952.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "list_commandscript", "d8/deb/a11952.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
+    [ "GetCommands", "d8/deb/a11952.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
+    [ "HandleListAllAurasCommand", "d8/deb/a11952.html#a93f1fe9131b917c813058899efede2a5", null ],
+    [ "HandleListAurasByIdCommand", "d8/deb/a11952.html#a3c59e8b85175ef056b07f566c231c221", null ],
+    [ "HandleListAurasByNameCommand", "d8/deb/a11952.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
+    [ "HandleListCreatureCommand", "d8/deb/a11952.html#a48388f1c839cec6597c74740ec49fa68", null ],
+    [ "HandleListItemCommand", "d8/deb/a11952.html#a7d0aadb081f25c3d533951bd9841f103", null ],
+    [ "HandleListObjectCommand", "d8/deb/a11952.html#ac8b32be8650c9e54388320d650c9761b", null ],
+    [ "ListAurasCommand", "d8/deb/a11952.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
+    [ "ShouldListAura", "d8/deb/a11952.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];

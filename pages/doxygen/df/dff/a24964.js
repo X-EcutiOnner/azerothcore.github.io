@@ -1,8 +1,7 @@
 var a24964 =
 [
-    [ "HandleSchoolDMG", "df/dff/a24964.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "df/dff/a24964.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "df/dff/a24964.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "df/dff/a24964.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "df/dff/a24964.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "HandleProc", "df/dff/a24964.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
+    [ "PrepareAuraScript", "df/dff/a24964.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
+    [ "Register", "df/dff/a24964.html#affd88326ea293f82055700ec7183d194", null ],
+    [ "Validate", "df/dff/a24964.html#acc8797afece569e68c6d754ca09e206d", null ]
 ];

@@ -1,8 +1,14 @@
 var a15060 =
 [
-    [ "Load", "dd/d04/a15060.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "dd/d04/a15060.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "dd/d04/a15060.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "dd/d04/a15060.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "dd/d04/a15060.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/d04/a15060.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "dd/d04/a15060.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "dd/d04/a15060.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "dd/d04/a15060.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "dd/d04/a15060.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "dd/d04/a15060.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "dd/d04/a15060.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "dd/d04/a15060.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "dd/d04/a15060.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "dd/d04/a15060.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "dd/d04/a15060.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

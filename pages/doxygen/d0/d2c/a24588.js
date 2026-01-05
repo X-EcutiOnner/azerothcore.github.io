@@ -1,5 +1,6 @@
 var a24588 =
 [
-    [ "npc_pet_pri_lightwell", "d0/d2c/a24588.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d0/d2c/a24588.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "go_ancient_skull_pile", "d0/d2c/a24588.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d0/d2c/a24588.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d0/d2c/a24588.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

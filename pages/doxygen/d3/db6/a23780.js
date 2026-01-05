@@ -1,6 +1,6 @@
 var a23780 =
 [
-    [ "PrepareSpellScript", "d3/db6/a23780.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d3/db6/a23780.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d3/db6/a23780.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d9/d3f/a23784.html", "d9/d3f/a23784" ],
+    [ "instance_blood_furnace", "d3/db6/a23780.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d3/db6/a23780.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

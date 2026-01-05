@@ -1,7 +1,8 @@
 var a22892 =
 [
-    [ "npc_blade_of_azzinoth", "d0/da2/a22892.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d0/da2/a22892.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d0/da2/a22892.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d0/da2/a22892.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "boss_darkweaver_syth", "d0/da2/a22892.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d0/da2/a22892.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d0/da2/a22892.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d0/da2/a22892.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d0/da2/a22892.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

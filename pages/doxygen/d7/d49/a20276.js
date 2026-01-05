@@ -1,23 +1,11 @@
 var a20276 =
 [
-    [ "boss_vezaxAI", "d7/d49/a20276.html#a5aa970cfe7eda584c31571fa2a5547e1", null ],
-    [ "DoAction", "d7/d49/a20276.html#a29fccad2b9c60564a849a86bfd143074", null ],
-    [ "GetData", "d7/d49/a20276.html#af12ff3efe4ddaf1ad421755e8a6f3265", null ],
-    [ "JustDied", "d7/d49/a20276.html#a783f379fadf92dcc998264a266b20fb0", null ],
-    [ "JustEngagedWith", "d7/d49/a20276.html#a18c2f097d66b780dc3d5bbb1f3feb07a", null ],
-    [ "JustReachedHome", "d7/d49/a20276.html#adbeae34409a18a1297a93ac6dbd20650", null ],
-    [ "JustSummoned", "d7/d49/a20276.html#af8c86cdee6d62ee7c4bab78f32b88a10", null ],
-    [ "KilledUnit", "d7/d49/a20276.html#a3ba43b5f45aaf5344a1165454475188a", null ],
-    [ "MoveInLineOfSight", "d7/d49/a20276.html#a8051584b7455eb10cac6b81f5ae2f2a1", null ],
-    [ "Reset", "d7/d49/a20276.html#a07cde0ffcfdd25d4996f955baa950c3b", null ],
-    [ "SpellHitTarget", "d7/d49/a20276.html#a9d60a0d24a4f3e32f4ac402f54c9890f", null ],
-    [ "SummonedCreatureDespawn", "d7/d49/a20276.html#ab46dcf410536a917953a007786c9d140", null ],
-    [ "UpdateAI", "d7/d49/a20276.html#a26132c51b6487ba0a16b63072bf67656", null ],
-    [ "bAchievShadowdodger", "d7/d49/a20276.html#a7af2ca3a366fdb025feffb7fcee89c81", null ],
-    [ "berserk", "d7/d49/a20276.html#acfefbc890c56c7078a8b2c349bc53258", null ],
-    [ "events", "d7/d49/a20276.html#a6e22132a19d276e6c1c5fd75d5e22855", null ],
-    [ "hardmodeAvailable", "d7/d49/a20276.html#afcfe8eb7c0ea2ab08f33531b8791f883", null ],
-    [ "pInstance", "d7/d49/a20276.html#a8a7ff33640250817101d4e6e6f706528", null ],
-    [ "summons", "d7/d49/a20276.html#a1c5e3df502fba8bb9db2d0fa484aafed", null ],
-    [ "vaporsCount", "d7/d49/a20276.html#a83158a37bbdad74af9f313c75b7258de", null ]
+    [ "boss_freya_elder_brightleafAI", "d7/d49/a20276.html#a53de463d34b808b4c5d459e1339f6f30", null ],
+    [ "JustDied", "d7/d49/a20276.html#aeea7300081f645d3fa83df6841c5a497", null ],
+    [ "JustEngagedWith", "d7/d49/a20276.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
+    [ "KilledUnit", "d7/d49/a20276.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
+    [ "Reset", "d7/d49/a20276.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
+    [ "UpdateAI", "d7/d49/a20276.html#af28f94f278d279513d7f72cdc36528d4", null ],
+    [ "events", "d7/d49/a20276.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
+    [ "summons", "d7/d49/a20276.html#a456123135a7fb4595d611a9e3995f461", null ]
 ];

@@ -1,6 +1,7 @@
 var a16472 =
 [
-    [ "npc_toc5_player_vehicleAI", "d9/dc9/a16476.html", "d9/dc9/a16476" ],
-    [ "npc_toc5_player_vehicle", "da/d85/a16472.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "da/d85/a16472.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "HandleDummy", "da/d85/a16472.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "da/d85/a16472.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "da/d85/a16472.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "da/d85/a16472.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

@@ -1,7 +1,7 @@
 var a15892 =
 [
-    [ "npc_ringoAI", "d6/d2d/a15896.html", "d6/d2d/a15896" ],
-    [ "npc_ringo", "d4/de5/a15892.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d4/de5/a15892.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d4/de5/a15892.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_toogaAI", "d6/d2d/a15896.html", "d6/d2d/a15896" ],
+    [ "npc_tooga", "d4/de5/a15892.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d4/de5/a15892.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d4/de5/a15892.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

@@ -1,5 +1,6 @@
 var a22332 =
 [
-    [ "go_brazier", "d7/dbd/a22332.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "d7/dbd/a22332.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_infra_green_bomber_genericAI", "d3/d07/a22336.html", "d3/d07/a22336" ],
+    [ "npc_infra_green_bomber_generic", "d7/dbd/a22332.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "d7/dbd/a22332.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

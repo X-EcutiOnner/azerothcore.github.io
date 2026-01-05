@@ -1,7 +1,11 @@
 var a03956 =
 [
-    [ "go_transport_the_iron_eagle", "d1/d9a/a28035.html", "d1/d9a/a28035" ],
-    [ "go_transport_the_thundercaller", "d8/dd9/a28039.html", "d8/dd9/a28039" ],
-    [ "go_transport_the_purple_princess", "d2/d07/a28043.html", "d2/d07/a28043" ],
-    [ "AddSC_transport_zeppelins", "d3/d8f/a03956.html#a29051596b0a3382db98c6b72f7ff3173", null ]
+    [ "npc_innkeeper", "d9/d94/a27724.html", "d9/d94/a27724" ],
+    [ "AddSC_npc_innkeeper", "d3/d8f/a03956.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "d3/d8f/a03956.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "d3/d8f/a03956.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "d3/d8f/a03956.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "d3/d8f/a03956.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "d3/d8f/a03956.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "d3/d8f/a03956.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

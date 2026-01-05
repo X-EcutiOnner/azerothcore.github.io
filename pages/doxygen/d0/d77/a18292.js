@@ -1,6 +1,7 @@
 var a18292 =
 [
-    [ "npc_spinestalkerAI", "d0/d0a/a18296.html", "d0/d0a/a18296" ],
-    [ "npc_spinestalker", "d0/d77/a18292.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d0/d77/a18292.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "FrostBombExplosion", "d0/d77/a18292.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d0/d77/a18292.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d0/d77/a18292.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d0/d77/a18292.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

@@ -1,10 +1,13 @@
 var a11880 =
 [
-    [ "lfg_commandscript", "db/d2f/a11880.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "db/d2f/a11880.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "db/d2f/a11880.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "db/d2f/a11880.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "db/d2f/a11880.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "db/d2f/a11880.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "db/d2f/a11880.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "cheat_commandscript", "db/d2f/a11880.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "db/d2f/a11880.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "db/d2f/a11880.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "db/d2f/a11880.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "db/d2f/a11880.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "db/d2f/a11880.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "db/d2f/a11880.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "db/d2f/a11880.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "db/d2f/a11880.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "db/d2f/a11880.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

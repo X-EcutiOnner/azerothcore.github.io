@@ -1,14 +1,17 @@
 var a23828 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d2/d36/a23828.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "d2/d36/a23828.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "d2/d36/a23828.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "d2/d36/a23828.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "d2/d36/a23828.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "d2/d36/a23828.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "Update", "d2/d36/a23828.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "d2/d36/a23828.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "d2/d36/a23828.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "PrisonerGUID", "d2/d36/a23828.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "d2/d36/a23828.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "boss_magtheridon", "d2/d36/a23828.html#a3d718a101047cd90448577ee520adf5e", null ],
+    [ "DoAction", "d2/d36/a23828.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
+    [ "JustDied", "d2/d36/a23828.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
+    [ "JustEngagedWith", "d2/d36/a23828.html#a93fb4d888ebd6273bca0a128c8303996", null ],
+    [ "KilledUnit", "d2/d36/a23828.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
+    [ "Reset", "d2/d36/a23828.html#a0999e13f434699bb14c2ef6d2467a043", null ],
+    [ "ScheduleCombatEvents", "d2/d36/a23828.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
+    [ "UpdateAI", "d2/d36/a23828.html#a656e9595b30d014c54cc456d7f81f657", null ],
+    [ "_castingQuake", "d2/d36/a23828.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
+    [ "_channelersKilled", "d2/d36/a23828.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
+    [ "_currentPhase", "d2/d36/a23828.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
+    [ "_interruptScheduler", "d2/d36/a23828.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
+    [ "_magReleased", "d2/d36/a23828.html#a6dd4891771771acf5456a129113e864e", null ],
+    [ "_recentlySpoken", "d2/d36/a23828.html#af860281db4d20e3d3b9589657c921a50", null ]
 ];

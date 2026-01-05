@@ -1,6 +1,6 @@
 var a16348 =
 [
-    [ "OnSummon", "d3/d4f/a16348.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d3/d4f/a16348.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d3/d4f/a16348.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "SendEncounterUnit", "d3/d4f/a16348.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d3/d4f/a16348.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d3/d4f/a16348.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

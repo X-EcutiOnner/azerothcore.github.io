@@ -1,6 +1,7 @@
 var a00386 =
 [
-    [ "BG_SA_BOAT_START", "dd/df5/a00386.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
-    [ "BG_SA_ROUNDLENGTH", "dd/df5/a00386.html#a1197e8f288608511601a41e8e8ea80ce", null ],
-    [ "BG_SA_WARMUPLENGTH", "dd/df5/a00386.html#a7447506b77b9babea7568349335ea705", null ]
+    [ "BG_RV_CLOSE_FIRE_TIMER", "dd/df5/a00386.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
+    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "dd/df5/a00386.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
+    [ "BG_RV_FIRST_TIMER", "dd/df5/a00386.html#abb49be7549db0a88e8b5fcd470741084", null ],
+    [ "BG_RV_PILLAR_SWITCH_TIMER", "dd/df5/a00386.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
 ];

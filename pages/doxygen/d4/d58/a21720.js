@@ -1,7 +1,6 @@
 var a21720 =
 [
-    [ "npc_mootoo_the_youngerAI", "d4/d58/a21720.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d4/d58/a21720.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d4/d58/a21720.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d4/d58/a21720.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_violet_hold_defense_system", "d4/d58/a21720.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d4/d58/a21720.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d4/d58/a21720.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

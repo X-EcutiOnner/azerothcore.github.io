@@ -1,11 +1,11 @@
 var a14884 =
 [
-    [ "npc_hyjal_ground_trash", "df/d69/a14884.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "df/d69/a14884.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "df/d69/a14884.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "df/d69/a14884.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "df/d69/a14884.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "df/d69/a14884.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "df/d69/a14884.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "df/d69/a14884.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "boss_anetheron", "df/d69/a14884.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "df/d69/a14884.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "df/d69/a14884.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "df/d69/a14884.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "df/d69/a14884.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "df/d69/a14884.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "df/d69/a14884.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "df/d69/a14884.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

@@ -1,8 +1,7 @@
 var a11340 =
 [
-    [ "ReflectEvent", "d3/dfb/a11340.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "d3/dfb/a11340.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "d3/dfb/a11340.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "d3/dfb/a11340.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "d3/dfb/a11340.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "DynObjAura", "d3/dfb/a11340.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "d3/dfb/a11340.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "d3/dfb/a11340.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "d3/dfb/a11340.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

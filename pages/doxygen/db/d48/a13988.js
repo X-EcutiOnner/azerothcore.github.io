@@ -1,12 +1,8 @@
 var a13988 =
 [
-    [ "npc_akilzon_eagle", "db/d48/a13988.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "db/d48/a13988.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "db/d48/a13988.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "db/d48/a13988.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "db/d48/a13988.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "db/d48/a13988.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "db/d48/a13988.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "db/d48/a13988.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "db/d48/a13988.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_varian_wrynnAI", "db/d8e/a13992.html", "db/d8e/a13992" ],
+    [ "npc_varian_wrynn", "db/d48/a13988.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "db/d48/a13988.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "db/d48/a13988.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "db/d48/a13988.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

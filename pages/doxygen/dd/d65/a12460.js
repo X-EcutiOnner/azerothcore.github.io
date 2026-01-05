@@ -1,6 +1,6 @@
 var a12460 =
 [
-    [ "boss_victor_nefariusAI", "da/d72/a12464.html", "da/d72/a12464" ],
-    [ "boss_victor_nefarius", "dd/d65/a12460.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "dd/d65/a12460.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "OnEffect", "dd/d65/a12460.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "dd/d65/a12460.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "dd/d65/a12460.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

@@ -1,6 +1,6 @@
 var a11784 =
 [
-    [ "bg_commandscript", "d5/dcb/a11784.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "d5/dcb/a11784.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "d5/dcb/a11784.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "rainChance", "df/da2/a04828.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "df/da2/a04828.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "df/da2/a04828.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

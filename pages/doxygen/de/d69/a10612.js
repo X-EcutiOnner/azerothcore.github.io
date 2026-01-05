@@ -1,7 +1,5 @@
 var a10612 =
 [
-    [ "QueryGuildInfoResponse", "de/d69/a10612.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "de/d69/a10612.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "de/d69/a10612.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "de/d69/a10612.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "LogoutCancelAck", "de/d69/a10612.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "de/d69/a10612.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

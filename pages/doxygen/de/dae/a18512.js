@@ -1,7 +1,6 @@
 var a18512 =
 [
-    [ "PrepareSpellScript", "de/dae/a18512.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "de/dae/a18512.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "de/dae/a18512.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "de/dae/a18512.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_shambling_horror_iccAI", "da/d98/a18516.html", "da/d98/a18516" ],
+    [ "npc_shambling_horror_icc", "de/dae/a18512.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "de/dae/a18512.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

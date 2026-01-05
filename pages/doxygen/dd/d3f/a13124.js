@@ -1,8 +1,6 @@
 var a13124 =
 [
-    [ "npc_dkc1_gothikAI", "dd/d3f/a13124.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "dd/d3f/a13124.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "dd/d3f/a13124.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "dd/d3f/a13124.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "dd/d3f/a13124.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_kagani_nightstrike", "dd/d3f/a13124.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "dd/d3f/a13124.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "dd/d3f/a13124.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

@@ -1,8 +1,10 @@
 var a23744 =
 [
-    [ "HandleDummyApply", "d9/d8d/a23744.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d9/d8d/a23744.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d9/d8d/a23744.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d9/d8d/a23744.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d9/d8d/a23744.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_blindeye_the_seer", "d9/d8d/a23744.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d9/d8d/a23744.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d9/d8d/a23744.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d9/d8d/a23744.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d9/d8d/a23744.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d9/d8d/a23744.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d9/d8d/a23744.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

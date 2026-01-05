@@ -1,6 +1,9 @@
 var a22548 =
 [
-    [ "HandlePeriodicDummy", "d4/dc8/a22548.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d4/dc8/a22548.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d4/dc8/a22548.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "HandlePeriodic", "d4/dc8/a22548.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d4/dc8/a22548.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d4/dc8/a22548.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d4/dc8/a22548.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d4/dc8/a22548.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d4/dc8/a22548.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

@@ -1,12 +1,8 @@
 var a23692 =
 [
-    [ "boss_omor_the_unscarred", "d5/dad/a23692.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d5/dad/a23692.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d5/dad/a23692.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d5/dad/a23692.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d5/dad/a23692.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d5/dad/a23692.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d5/dad/a23692.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d5/dad/a23692.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d5/dad/a23692.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "npc_underbat", "d5/dad/a23692.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d5/dad/a23692.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d5/dad/a23692.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d5/dad/a23692.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d5/dad/a23692.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

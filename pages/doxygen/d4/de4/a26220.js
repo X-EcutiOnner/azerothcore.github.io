@@ -1,7 +1,5 @@
 var a26220 =
 [
-    [ "AfterRemove", "d4/de4/a26220.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d4/de4/a26220.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d4/de4/a26220.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d4/de4/a26220.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "PrepareSpellScript", "d4/de4/a26220.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
+    [ "Register", "d4/de4/a26220.html#afc19789732c46589dca40d46cdb12d9e", null ]
 ];

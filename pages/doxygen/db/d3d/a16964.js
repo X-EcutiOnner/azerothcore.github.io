@@ -1,6 +1,7 @@
 var a16964 =
 [
-    [ "boss_devourer_of_soulsAI", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
-    [ "boss_devourer_of_souls", "db/d3d/a16964.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "db/d3d/a16964.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleScript", "db/d3d/a16964.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "db/d3d/a16964.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "db/d3d/a16964.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "db/d3d/a16964.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

@@ -1,9 +1,7 @@
 var a14808 =
 [
-    [ "npc_ancient_wisp", "d4/d0a/a14808.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d4/d0a/a14808.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d4/d0a/a14808.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d4/d0a/a14808.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d4/d0a/a14808.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d4/d0a/a14808.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "GetVisualThrow", "d4/d0a/a14808.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d4/d0a/a14808.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d4/d0a/a14808.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d4/d0a/a14808.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

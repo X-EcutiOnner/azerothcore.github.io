@@ -1,7 +1,6 @@
 var a12532 =
 [
-    [ "HandleRemove", "de/d98/a12532.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "de/d98/a12532.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "de/d98/a12532.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "de/d98/a12532.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "boss_flamegorAI", "dc/d3b/a12536.html", "dc/d3b/a12536" ],
+    [ "boss_flamegor", "de/d98/a12532.html#abc6f068c81466d08306d94667bb1974b", null ],
+    [ "GetAI", "de/d98/a12532.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
 ];

@@ -1,10 +1,9 @@
 var a08604 =
 [
-    [ "PvPInfo", "d4/d48/a08604.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d4/d48/a08604.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d4/d48/a08604.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d4/d48/a08604.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d4/d48/a08604.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d4/d48/a08604.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d4/d48/a08604.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "category", "d4/d48/a08604.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d4/d48/a08604.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d4/d48/a08604.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d4/d48/a08604.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d4/d48/a08604.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d4/d48/a08604.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

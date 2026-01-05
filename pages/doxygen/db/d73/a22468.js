@@ -1,6 +1,6 @@
 var a22468 =
 [
-    [ "HandleScriptEffect", "db/d73/a22468.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "db/d73/a22468.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "db/d73/a22468.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_iron_watcherAI", "d4/d53/a22472.html", "d4/d53/a22472" ],
+    [ "npc_iron_watcher", "db/d73/a22468.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "db/d73/a22468.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

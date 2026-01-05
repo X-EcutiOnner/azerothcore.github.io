@@ -1,5 +1,7 @@
 var a27272 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d6/d1b/a27272.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d6/d1b/a27272.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "CheckProc", "d6/d1b/a27272.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "d6/d1b/a27272.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "d6/d1b/a27272.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d6/d1b/a27272.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

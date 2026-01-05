@@ -1,7 +1,6 @@
 var a24460 =
 [
-    [ "HandlePeriodic", "d8/d97/a24460.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d8/d97/a24460.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d8/d97/a24460.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d8/d97/a24460.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_lord_illidan_stormrageAI", "d8/d98/a24464.html", "d8/d98/a24464" ],
+    [ "npc_lord_illidan_stormrage", "d8/d97/a24460.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "d8/d97/a24460.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

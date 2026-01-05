@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['xpcolorchar_0',['XPColorChar',['../df/d30/a04115.html#a4730a8cb3b5ba4caf0c78c978dcf4458',1,'SharedDefines.h']]],
-  ['xt002events_1',['XT002Events',['../d7/d68/a02885.html#adb4bf07fe2aeb51ee57b1c8dfd551d6e',1,'boss_xt002.cpp']]],
-  ['xt002spells_2',['XT002Spells',['../d7/d68/a02885.html#a42170363d3d70af9b65253693ae22eff',1,'boss_xt002.cpp']]]
+  ['xpcolorchar_0',['XPColorChar',['../d0/dd3/a04121.html#a4730a8cb3b5ba4caf0c78c978dcf4458',1,'SharedDefines.h']]],
+  ['xt002events_1',['XT002Events',['../dc/d5e/a02891.html#adb4bf07fe2aeb51ee57b1c8dfd551d6e',1,'boss_xt002.cpp']]],
+  ['xt002spells_2',['XT002Spells',['../dc/d5e/a02891.html#a42170363d3d70af9b65253693ae22eff',1,'boss_xt002.cpp']]]
 ];

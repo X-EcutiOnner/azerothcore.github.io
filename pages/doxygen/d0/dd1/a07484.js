@@ -1,5 +1,9 @@
 var a07484 =
 [
-    [ "time", "d0/dd1/a07484.html#a4270f34fef655cb9ff9998b36055c3ec", null ],
-    [ "winner", "d0/dd1/a07484.html#a728a3e4efbae3be9224c70f2d70000cf", null ]
+    [ "entry", "d0/dd1/a07484.html#a2238cabe763a588a5572611e0aefe6ba", null ],
+    [ "o", "d0/dd1/a07484.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
+    [ "type", "d0/dd1/a07484.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
+    [ "x", "d0/dd1/a07484.html#a616d422b4e8c99ec3285a87f553d4091", null ],
+    [ "y", "d0/dd1/a07484.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
+    [ "z", "d0/dd1/a07484.html#a78cff0661e6d9440574306ec01389d42", null ]
 ];

@@ -1,6 +1,9 @@
 var a21792 =
 [
-    [ "npc_counselor_talbotAI", "dd/d22/a21796.html", "dd/d22/a21796" ],
-    [ "npc_counselor_talbot", "d9/da9/a21792.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d9/da9/a21792.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_bonker_togglevoltAI", "d9/da9/a21792.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d9/da9/a21792.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d9/da9/a21792.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d9/da9/a21792.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d9/da9/a21792.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "d9/da9/a21792.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

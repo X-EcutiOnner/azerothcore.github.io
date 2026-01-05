@@ -1,7 +1,6 @@
 var a15988 =
 [
-    [ "npc_ahnkahar_nerubian", "d8/de5/a15988.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d8/de5/a15988.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d8/de5/a15988.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d8/de5/a15988.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "SayerEntry", "d8/de5/a15988.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d8/de5/a15988.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d8/de5/a15988.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

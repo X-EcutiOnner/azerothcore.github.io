@@ -1,7 +1,6 @@
 var a04100 =
 [
-    [ "UpdateResult", "d3/d1f/a05983.html", "d3/d1f/a05983" ],
-    [ "UpdateFetcher", "d4/df8/a05987.html", "d4/df8/a05987" ],
-    [ "UpdateFetcher::AppliedFileEntry", "de/d2b/a05991.html", "de/d2b/a05991" ],
-    [ "UpdateFetcher::PathCompare", "d2/d10/a05995.html", "d2/d10/a05995" ]
+    [ "DatabaseWorkerPool< T >", "d6/d3b/a05780.html", "d6/d3b/a05780" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "d1/da3/a04100.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "d1/da3/a04100.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

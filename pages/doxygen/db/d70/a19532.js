@@ -1,11 +1,10 @@
 var a19532 =
 [
-    [ "boss_ormorok", "db/d70/a19532.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "db/d70/a19532.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "db/d70/a19532.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "db/d70/a19532.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "db/d70/a19532.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "db/d70/a19532.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "db/d70/a19532.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "db/d70/a19532.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "npc_scion_of_eternityAI", "db/d70/a19532.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "db/d70/a19532.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "db/d70/a19532.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "db/d70/a19532.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "db/d70/a19532.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "db/d70/a19532.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "db/d70/a19532.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

@@ -1,15 +1,9 @@
 var a10484 =
 [
-    [ "MapScript", "d3/de2/a10484.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "d3/de2/a10484.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "d3/de2/a10484.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "d3/de2/a10484.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "d3/de2/a10484.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "d3/de2/a10484.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "d3/de2/a10484.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "d3/de2/a10484.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "d3/de2/a10484.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "d3/de2/a10484.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "d3/de2/a10484.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "d3/de2/a10484.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "TransportScript", "d3/de2/a10484.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "d3/de2/a10484.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d3/de2/a10484.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d3/de2/a10484.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d3/de2/a10484.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d3/de2/a10484.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

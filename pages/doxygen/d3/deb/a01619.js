@@ -1,4 +1,5 @@
 var a01619 =
 [
-    [ "sWorldUpdateTime", "d3/deb/a01619.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
+    [ "MotdMgr", "d7/d1c/a10004.html", "d7/d1c/a10004" ],
+    [ "sMotdMgr", "d3/deb/a01619.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

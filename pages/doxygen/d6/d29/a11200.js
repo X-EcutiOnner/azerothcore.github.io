@@ -1,7 +1,6 @@
 var a11200 =
 [
-    [ "Player", "d6/d29/a11200.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d6/d29/a11200.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d6/d29/a11200.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d6/d29/a11200.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "ClientOpcodeHandler", "d6/da6/a04827.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "d6/da6/a04827.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "d6/da6/a04827.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

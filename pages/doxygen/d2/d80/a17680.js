@@ -1,7 +1,6 @@
 var a17680 =
 [
-    [ "ExtraEffect", "d2/d80/a17680.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d2/d80/a17680.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d2/d80/a17680.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d2/d80/a17680.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleScript", "d2/d80/a17680.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "d2/d80/a17680.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "d2/d80/a17680.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

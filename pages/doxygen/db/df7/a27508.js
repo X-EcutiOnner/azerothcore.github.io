@@ -1,6 +1,9 @@
 var a27508 =
 [
-    [ "go_fel_crystalforge", "db/df7/a27508.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "db/df7/a27508.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "db/df7/a27508.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_tadpole_cageAI", "db/df7/a27508.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "db/df7/a27508.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "db/df7/a27508.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "db/df7/a27508.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "db/df7/a27508.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "db/df7/a27508.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

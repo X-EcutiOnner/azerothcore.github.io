@@ -1,8 +1,6 @@
 var a22804 =
 [
-    [ "FilterTargets", "dc/d34/a22804.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "dc/d34/a22804.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "dc/d34/a22804.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "dc/d34/a22804.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "dc/d34/a22804.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "a", "dc/d34/a22804.html#af01321c0fa24acf26086f7dccb326640", null ],
+    [ "h", "dc/d34/a22804.html#a0b9b712fc851286077ee5bbd8136a413", null ],
+    [ "n", "dc/d34/a22804.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
 ];

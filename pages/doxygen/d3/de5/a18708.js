@@ -1,6 +1,4 @@
 var a18708 =
 [
-    [ "npc_gluttonous_abominationAI", "d8/ded/a18712.html", "d8/ded/a18712" ],
-    [ "npc_gluttonous_abomination", "d3/de5/a18708.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d3/de5/a18708.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "operator()", "d3/de5/a18708.html#adb7207ebbfe52e2f84f9b8d3249b54d1", null ]
 ];

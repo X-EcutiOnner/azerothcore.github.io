@@ -1,6 +1,10 @@
 var a16272 =
 [
-    [ "npc_halion_controllerAI", "d3/d82/a16276.html", "d3/d82/a16276" ],
-    [ "npc_halion_controller", "d8/da2/a16272.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d8/da2/a16272.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "HandleDummy", "d8/da2/a16272.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d8/da2/a16272.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "d8/da2/a16272.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d8/da2/a16272.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d8/da2/a16272.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d8/da2/a16272.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "d8/da2/a16272.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

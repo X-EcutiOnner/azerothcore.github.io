@@ -1,16 +1,11 @@
 var a17184 =
 [
-    [ "boss_ickAI", "d9/d06/a17184.html#a72c90af745b63202edc36b84b3f4df12", null ],
-    [ "CanAIAttack", "d9/d06/a17184.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
-    [ "DamageTaken", "d9/d06/a17184.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
-    [ "GetKrick", "d9/d06/a17184.html#a2d6192f314e76886204c7248d141260a", null ],
-    [ "JustDied", "d9/d06/a17184.html#afd7752ee19dcc6be0b28181bb4485146", null ],
-    [ "JustEngagedWith", "d9/d06/a17184.html#a27598604e65417225acd41d6f05cc717", null ],
-    [ "JustSummoned", "d9/d06/a17184.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
-    [ "KilledUnit", "d9/d06/a17184.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
-    [ "Reset", "d9/d06/a17184.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
-    [ "SpellHitTarget", "d9/d06/a17184.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
-    [ "UpdateAI", "d9/d06/a17184.html#a74bd63ac9558ecec52affaa7440360a1", null ],
-    [ "events", "d9/d06/a17184.html#aab514bb5f930d9eb545a279181632796", null ],
-    [ "pInstance", "d9/d06/a17184.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
+    [ "boss_frostsworn_generalAI", "d9/d06/a17184.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
+    [ "EnterEvadeMode", "d9/d06/a17184.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
+    [ "JustDied", "d9/d06/a17184.html#ac2653a5664c87045df16f2fdcf850edf", null ],
+    [ "JustEngagedWith", "d9/d06/a17184.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
+    [ "Reset", "d9/d06/a17184.html#a8333b3f2637f029de4182ca16e2fb634", null ],
+    [ "UpdateAI", "d9/d06/a17184.html#aea65a8fab859db4396690d846d10f5a1", null ],
+    [ "events", "d9/d06/a17184.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
+    [ "pInstance", "d9/d06/a17184.html#a01cc3db24e03600501b9980aa966ad7d", null ]
 ];

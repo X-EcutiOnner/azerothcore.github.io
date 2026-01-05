@@ -1,8 +1,6 @@
 var a13904 =
 [
-    [ "npc_varian_wrynnAI", "d3/d37/a13908.html", "d3/d37/a13908" ],
-    [ "npc_varian_wrynn", "d9/d90/a13904.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d9/d90/a13904.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d9/d90/a13904.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d9/d90/a13904.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_corporal_keeshanAI", "d3/d37/a13908.html", "d3/d37/a13908" ],
+    [ "npc_corporal_keeshan", "d9/d90/a13904.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d9/d90/a13904.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

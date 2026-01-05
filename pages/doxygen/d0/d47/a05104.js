@@ -1,6 +1,6 @@
 var a05104 =
 [
-    [ "TriBoundFunc", "d0/d47/a05104.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d0/d47/a05104.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "d0/d47/a05104.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "Read", "d0/d47/a05104.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
+    [ "groupsArray", "d0/d47/a05104.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d0/d47/a05104.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

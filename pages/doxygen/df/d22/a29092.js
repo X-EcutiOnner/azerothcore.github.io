@@ -1,7 +1,8 @@
 var a29092 =
 [
-    [ "_pad", "df/d22/a29092.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "df/d22/a29092.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "df/d22/a29092.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "df/d22/a29092.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "TileInfo", "df/d22/a29092.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "df/d22/a29092.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "df/d22/a29092.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "df/d22/a29092.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "df/d22/a29092.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

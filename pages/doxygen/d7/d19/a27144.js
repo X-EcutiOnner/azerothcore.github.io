@@ -1,6 +1,7 @@
 var a27144 =
 [
-    [ "FilterTargets", "d7/d19/a27144.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "d7/d19/a27144.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "d7/d19/a27144.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "HandleDispel", "d7/d19/a27144.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "d7/d19/a27144.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "d7/d19/a27144.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "d7/d19/a27144.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

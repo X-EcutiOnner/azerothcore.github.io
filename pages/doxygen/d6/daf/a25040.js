@@ -1,7 +1,6 @@
 var a25040 =
 [
-    [ "CheckProc", "d6/daf/a25040.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "d6/daf/a25040.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "d6/daf/a25040.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "d6/daf/a25040.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "HandleAfterCast", "d6/daf/a25040.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "d6/daf/a25040.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "d6/daf/a25040.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

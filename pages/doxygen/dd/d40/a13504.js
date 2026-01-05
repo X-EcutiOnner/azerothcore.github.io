@@ -1,8 +1,8 @@
 var a13504 =
 [
-    [ "FilterTargets", "dd/d40/a13504.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "dd/d40/a13504.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "dd/d40/a13504.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "dd/d40/a13504.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "dd/d40/a13504.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "npc_madrigosa", "dd/d40/a13504.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "dd/d40/a13504.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "dd/d40/a13504.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "dd/d40/a13504.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "dd/d40/a13504.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

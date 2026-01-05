@@ -1,7 +1,6 @@
 var a16284 =
 [
-    [ "npc_orb_carrierAI", "d8/d86/a16284.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d8/d86/a16284.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d8/d86/a16284.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d8/d86/a16284.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "de/dfa/a16288.html", "de/dfa/a16288" ],
+    [ "instance_obsidian_sanctum", "d8/d86/a16284.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d8/d86/a16284.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

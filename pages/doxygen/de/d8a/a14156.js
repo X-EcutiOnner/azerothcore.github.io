@@ -1,8 +1,12 @@
 var a14156 =
 [
-    [ "boss_grilekAI", "de/d8a/a14156.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "de/d8a/a14156.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "de/d8a/a14156.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "de/d8a/a14156.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "de/d8a/a14156.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "npc_forest_frog", "de/d8a/a14156.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "de/d8a/a14156.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "de/d8a/a14156.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "de/d8a/a14156.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "de/d8a/a14156.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "de/d8a/a14156.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "de/d8a/a14156.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "de/d8a/a14156.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "de/d8a/a14156.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

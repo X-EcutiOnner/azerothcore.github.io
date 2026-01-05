@@ -1,6 +1,8 @@
 var a19744 =
 [
-    [ "boss_sjonnirAI", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
-    [ "boss_sjonnir", "d2/d18/a19744.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d2/d18/a19744.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "HandleOnEffectApply", "d2/d18/a19744.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d2/d18/a19744.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d2/d18/a19744.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d2/d18/a19744.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d2/d18/a19744.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

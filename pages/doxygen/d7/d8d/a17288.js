@@ -1,11 +1,8 @@
 var a17288 =
 [
-    [ "npc_pos_leader_secondAI", "d7/d8d/a17288.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d7/d8d/a17288.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d7/d8d/a17288.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d7/d8d/a17288.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d7/d8d/a17288.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d7/d8d/a17288.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d7/d8d/a17288.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d7/d8d/a17288.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "boss_krickAI", "d7/d8d/a17288.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d7/d8d/a17288.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d7/d8d/a17288.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d7/d8d/a17288.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d7/d8d/a17288.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

@@ -1,6 +1,8 @@
 var a10312 =
 [
-    [ "BattlegroundMapScript", "d4/d39/a10312.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "d4/d39/a10312.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "d4/d39/a10312.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AllCommandScript", "d4/d39/a10312.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d4/d39/a10312.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d4/d39/a10312.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d4/d39/a10312.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d4/d39/a10312.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

@@ -1,11 +1,6 @@
 var a00152 =
 [
-    [ "BaseGain", "d7/d9a/a00152.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "d7/d9a/a00152.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "d7/d9a/a00152.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "d7/d9a/a00152.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "d7/d9a/a00152.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "d7/d9a/a00152.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "d7/d9a/a00152.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "d7/d9a/a00152.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "GetWeatherData", "d7/d9a/a00152.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d7/d9a/a00152.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "_weatherData", "d7/d9a/a00152.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
 ];

@@ -1,10 +1,6 @@
 var a27632 =
 [
-    [ "npc_prof_blacksmith", "d6/d8b/a27632.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d6/d8b/a27632.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d6/d8b/a27632.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d6/d8b/a27632.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d6/d8b/a27632.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d6/d8b/a27632.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d6/d8b/a27632.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "go_soulwellAI", "d7/da6/a27636.html", "d7/da6/a27636" ],
+    [ "go_soulwell", "d6/d8b/a27632.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d6/d8b/a27632.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

@@ -1,5 +1,6 @@
 var a12780 =
 [
-    [ "npc_chess_move_trigger", "d4/d14/a12780.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "d4/d14/a12780.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "npc_flamewaker_priestAI", "d5/d21/a12784.html", "d5/d21/a12784" ],
+    [ "npc_flamewaker_priest", "d4/d14/a12780.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "d4/d14/a12780.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

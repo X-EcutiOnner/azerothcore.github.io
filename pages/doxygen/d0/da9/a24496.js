@@ -1,19 +1,9 @@
 var a24496 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "d0/da9/a24496.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
-    [ "AttackStart", "d0/da9/a24496.html#ae5408b18b589fb483095450bf1338b2f", null ],
-    [ "FlyAway", "d0/da9/a24496.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
-    [ "InitializeAI", "d0/da9/a24496.html#a05e7d29c738dcc280603ab12a82b819b", null ],
-    [ "MovementInform", "d0/da9/a24496.html#a33e0260425cf179daae147bfc1a570b4", null ],
-    [ "MySelectNextTarget", "d0/da9/a24496.html#af86f48070b8c329c6a6a3f43d0156273", null ],
-    [ "RemoveTargetAura", "d0/da9/a24496.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
-    [ "Reset", "d0/da9/a24496.html#aa719acf874e7588ed6b73c437fb6765b", null ],
-    [ "UpdateAI", "d0/da9/a24496.html#a998a0401bd975cc7d0da7fb33670a503", null ],
-    [ "_decisionTimer", "d0/da9/a24496.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
-    [ "_despawning", "d0/da9/a24496.html#abca2ddc0628899b0c5bd35210e303d00", null ],
-    [ "_despawnTimer", "d0/da9/a24496.html#a8135321f4e5c01dc71e13f719e43d056", null ],
-    [ "_initialCastTimer", "d0/da9/a24496.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
-    [ "_initialSelection", "d0/da9/a24496.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
-    [ "_selectionTimer", "d0/da9/a24496.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
-    [ "_targetGUID", "d0/da9/a24496.html#a8299788ca453930977a605a2766d9e8d", null ]
+    [ "npc_korkron_or_wildhammer", "d0/da9/a24496.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d0/da9/a24496.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d0/da9/a24496.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d0/da9/a24496.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d0/da9/a24496.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d0/da9/a24496.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

@@ -1,5 +1,7 @@
 var a27204 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d0/ddf/a27204.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d0/ddf/a27204.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleDummy", "d0/ddf/a27204.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "d0/ddf/a27204.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "d0/ddf/a27204.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "d0/ddf/a27204.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

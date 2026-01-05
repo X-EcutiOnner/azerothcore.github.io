@@ -1,6 +1,6 @@
 var a20608 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d9/dda/a20612.html", "d9/dda/a20612" ],
-    [ "npc_ulduar_mimiron_rocket", "dd/d43/a20608.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
-    [ "GetAI", "dd/d43/a20608.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
+    [ "FilterTargets", "dd/d43/a20608.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "dd/d43/a20608.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "dd/d43/a20608.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

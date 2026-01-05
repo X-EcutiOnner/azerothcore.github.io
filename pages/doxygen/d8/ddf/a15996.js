@@ -1,5 +1,7 @@
 var a15996 =
 [
-    [ "achievement_respect_your_elders", "d8/ddf/a15996.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d8/ddf/a15996.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "npc_ranshallaAI", "dc/d27/a16000.html", "dc/d27/a16000" ],
+    [ "npc_ranshalla", "d8/ddf/a15996.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d8/ddf/a15996.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d8/ddf/a15996.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

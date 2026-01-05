@@ -1,6 +1,6 @@
 var a13648 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "dd/d57/a13652.html", "dd/d57/a13652" ],
-    [ "instance_sunwell_plateau", "d8/d1b/a13648.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "d8/d1b/a13648.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "HandlePeriodic", "d8/d1b/a13648.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d8/d1b/a13648.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d8/d1b/a13648.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

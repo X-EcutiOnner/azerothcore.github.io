@@ -1,8 +1,9 @@
 var a20120 =
 [
-    [ "OnApply", "d6/db4/a20120.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d6/db4/a20120.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d6/db4/a20120.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d6/db4/a20120.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d6/db4/a20120.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_hodirs_furyAI", "d6/db4/a20120.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
+    [ "MovementInform", "d6/db4/a20120.html#a37b07ddee5403ee2de8f69904412ed42", null ],
+    [ "Reset", "d6/db4/a20120.html#a389f0f17fbc7860c5531f4859be561d3", null ],
+    [ "UpdateAI", "d6/db4/a20120.html#a5417d68891ad0f93c8130c9a14d57513", null ],
+    [ "_switchTargetTimer", "d6/db4/a20120.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
+    [ "_timeToHit", "d6/db4/a20120.html#a594356602bd0068fba82bea64e284837", null ]
 ];

@@ -1,7 +1,6 @@
 var a16700 =
 [
-    [ "HandleDispel", "d3/d43/a16700.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d3/d43/a16700.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d3/d43/a16700.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d3/d43/a16700.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_shadow_priestAI", "da/d31/a16704.html", "da/d31/a16704" ],
+    [ "npc_toc_shadow_priest", "d3/d43/a16700.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d3/d43/a16700.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

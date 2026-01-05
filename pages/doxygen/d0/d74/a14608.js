@@ -1,5 +1,6 @@
 var a14608 =
 [
-    [ "go_pumpkin_shrine", "d0/d74/a14608.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d0/d74/a14608.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "gameobjectId", "d0/d74/a14608.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d0/d74/a14608.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d0/d74/a14608.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

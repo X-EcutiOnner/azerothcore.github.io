@@ -1,12 +1,10 @@
 var a20468 =
 [
-    [ "npc_ulduar_iron_constructAI", "d1/d84/a20468.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "d1/d84/a20468.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "d1/d84/a20468.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "d1/d84/a20468.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "d1/d84/a20468.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "d1/d84/a20468.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "d1/d84/a20468.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "d1/d84/a20468.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "d1/d84/a20468.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "HandleEffectPeriodic", "d1/d84/a20468.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d1/d84/a20468.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d1/d84/a20468.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d1/d84/a20468.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d1/d84/a20468.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d1/d84/a20468.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d1/d84/a20468.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

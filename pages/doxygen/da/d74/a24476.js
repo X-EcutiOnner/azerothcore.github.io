@@ -1,12 +1,5 @@
 var a24476 =
 [
-    [ "npc_unkor_the_ruthlessAI", "da/d74/a24476.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "da/d74/a24476.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "da/d74/a24476.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "da/d74/a24476.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "da/d74/a24476.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "da/d74/a24476.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "da/d74/a24476.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "da/d74/a24476.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "da/d74/a24476.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "go_crystal_prison", "da/d74/a24476.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "da/d74/a24476.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

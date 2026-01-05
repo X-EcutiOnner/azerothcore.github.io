@@ -1,7 +1,5 @@
 var a14724 =
 [
-    [ "GetVisualThrow", "d4/d19/a14724.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d4/d19/a14724.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d4/d19/a14724.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d4/d19/a14724.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "MidsummerPlayerScript", "d4/d19/a14724.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "d4/d19/a14724.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

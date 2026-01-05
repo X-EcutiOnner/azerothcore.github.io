@@ -1,7 +1,7 @@
 var a18948 =
 [
-    [ "HandleDummy", "d7/de0/a18948.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d7/de0/a18948.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d7/de0/a18948.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d7/de0/a18948.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_impaling_spearAI", "d7/de0/a18948.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d7/de0/a18948.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d7/de0/a18948.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d7/de0/a18948.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

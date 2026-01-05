@@ -1,10 +1,8 @@
 var a06160 =
 [
-    [ "NullCreatureAI", "d6/de1/a06160.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "d6/de1/a06160.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "d6/de1/a06160.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "MoveInLineOfSight", "d6/de1/a06160.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "d6/de1/a06160.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "d6/de1/a06160.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "d6/de1/a06160.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "ArcherAI", "d6/de1/a06160.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "d6/de1/a06160.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "d6/de1/a06160.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "d6/de1/a06160.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "d6/de1/a06160.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

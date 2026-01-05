@@ -1,7 +1,6 @@
 var a24624 =
 [
-    [ "HandleEffectApply", "d8/da8/a24624.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d8/da8/a24624.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d8/da8/a24624.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d8/da8/a24624.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "achievement", "d8/da8/a24624.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d8/da8/a24624.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d8/da8/a24624.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

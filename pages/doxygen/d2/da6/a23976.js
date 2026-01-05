@@ -1,5 +1,8 @@
 var a23976 =
 [
-    [ "npc_telonicus", "d2/da6/a23976.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d2/da6/a23976.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "boss_commander_sarannis", "d2/da6/a23976.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d2/da6/a23976.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d2/da6/a23976.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d2/da6/a23976.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d2/da6/a23976.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

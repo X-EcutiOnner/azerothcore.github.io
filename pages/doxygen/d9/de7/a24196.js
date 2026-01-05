@@ -1,11 +1,14 @@
 var a24196 =
 [
-    [ "npc_magister_aledis", "d9/de7/a24196.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d9/de7/a24196.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d9/de7/a24196.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d9/de7/a24196.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d9/de7/a24196.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d9/de7/a24196.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d9/de7/a24196.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d9/de7/a24196.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d9/de7/a24196.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d9/de7/a24196.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d9/de7/a24196.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d9/de7/a24196.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d9/de7/a24196.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d9/de7/a24196.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d9/de7/a24196.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d9/de7/a24196.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d9/de7/a24196.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d9/de7/a24196.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d9/de7/a24196.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

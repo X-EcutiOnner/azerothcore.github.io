@@ -1,10 +1,14 @@
 var a16304 =
 [
-    [ "spell_halion_combustion_consumption_aura", "d4/d5f/a16304.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "d4/d5f/a16304.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "d4/d5f/a16304.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "d4/d5f/a16304.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "d4/d5f/a16304.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "d4/d5f/a16304.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "d4/d5f/a16304.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "boss_baltharus_the_warbornAI", "d4/d5f/a16304.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "d4/d5f/a16304.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "d4/d5f/a16304.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "d4/d5f/a16304.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "d4/d5f/a16304.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "d4/d5f/a16304.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "d4/d5f/a16304.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "d4/d5f/a16304.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "d4/d5f/a16304.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "d4/d5f/a16304.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "d4/d5f/a16304.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

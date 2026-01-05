@@ -1,6 +1,14 @@
 var a16836 =
 [
-    [ "boss_dredAI", "d0/d7a/a16840.html", "d0/d7a/a16840" ],
-    [ "boss_dred", "d7/d71/a16836.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d7/d71/a16836.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_snobold_vassalAI", "d7/d71/a16836.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "d7/d71/a16836.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "d7/d71/a16836.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "d7/d71/a16836.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "d7/d71/a16836.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "d7/d71/a16836.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "d7/d71/a16836.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "d7/d71/a16836.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "d7/d71/a16836.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "d7/d71/a16836.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "d7/d71/a16836.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

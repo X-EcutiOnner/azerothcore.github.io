@@ -1,12 +1,22 @@
 var a01514 =
 [
-    [ "AddonInfo", "d9/d59/a06110.html", "d9/d59/a06110" ],
-    [ "SavedAddon", "de/d8c/a06114.html", "de/d8c/a06114" ],
-    [ "BannedAddon", "df/d58/a06118.html", "df/d58/a06118" ],
-    [ "STANDARD_ADDON_CRC", "d7/d22/a01514.html#a084249e215f787f3163d5d06ad2d256f", null ],
-    [ "BannedAddonList", "d7/d22/a01514.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-    [ "GetAddonInfo", "d7/d22/a01514.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "d7/d22/a01514.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d7/d22/a01514.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d7/d22/a01514.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
+    [ "ScriptPointMove", "db/d67/a10532.html", "db/d67/a10532" ],
+    [ "SystemMgr", "d8/d22/a10536.html", "d8/d22/a10536" ],
+    [ "sScriptSystemMgr", "d7/d22/a01514.html#a95cfdf568913b08b669f19b401f888a7", null ],
+    [ "TEXT_SOURCE_RANGE", "d7/d22/a01514.html#a55d384db121a9bd513042ebdeb40e602", null ],
+    [ "ScriptPointVector", "d7/d22/a01514.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],
+    [ "eEscortFaction", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476", [
+      [ "FACTION_ESCORT_A_NEUTRAL_PASSIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_PASSIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_PASSIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54", null ],
+      [ "FACTION_ESCORT_A_NEUTRAL_ACTIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_ACTIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_ACTIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae", null ],
+      [ "FACTION_ESCORT_N_FRIEND_PASSIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b", null ],
+      [ "FACTION_ESCORT_N_FRIEND_ACTIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476af9b814fa1617dc2a10a9764234998470", null ],
+      [ "FACTION_ESCORT_A_PASSIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013", null ],
+      [ "FACTION_ESCORT_H_PASSIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73", null ],
+      [ "FACTION_ESCORT_N_ACTIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb", null ],
+      [ "FACTION_ESCORT_H_ACTIVE", "d7/d22/a01514.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb", null ]
+    ] ]
 ];

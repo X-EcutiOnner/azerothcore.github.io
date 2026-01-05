@@ -1,9 +1,11 @@
 var a05224 =
 [
-    [ "SessionKeyGenerator", "d1/d94/a05224.html#a8fa39e01cd3ed24e13735343ad658cbb", null ],
-    [ "Generate", "d1/d94/a05224.html#a2162fde8dbb84fc165faedaafed706b5", null ],
-    [ "o0", "d1/d94/a05224.html#a1eb1aafb255ccf771b0a49dcab869297", null ],
-    [ "o0it", "d1/d94/a05224.html#a7ea5a4a796da94a2dc14570d4336c27b", null ],
-    [ "o1", "d1/d94/a05224.html#a462354aed63797a90fc228e6399cb740", null ],
-    [ "o2", "d1/d94/a05224.html#a617205c872f2163026d511809776a775", null ]
+    [ "AuthCrypt", "d1/d94/a05224.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "d1/d94/a05224.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "d1/d94/a05224.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "d1/d94/a05224.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "d1/d94/a05224.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "d1/d94/a05224.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "d1/d94/a05224.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "d1/d94/a05224.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

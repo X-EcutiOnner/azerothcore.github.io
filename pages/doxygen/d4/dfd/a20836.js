@@ -1,11 +1,11 @@
 var a20836 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d4/dfd/a20836.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
-    [ "DoAction", "d4/dfd/a20836.html#a1ee097badabf5264517bc0e9d9a45051", null ],
-    [ "JustDied", "d4/dfd/a20836.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
-    [ "JustEngagedWith", "d4/dfd/a20836.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
-    [ "Reset", "d4/dfd/a20836.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
-    [ "UpdateAI", "d4/dfd/a20836.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
-    [ "_isInCombat", "d4/dfd/a20836.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
-    [ "events", "d4/dfd/a20836.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
+    [ "boss_thorim_sifAI", "d4/dfd/a20836.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "d4/dfd/a20836.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "d4/dfd/a20836.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "d4/dfd/a20836.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "d4/dfd/a20836.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "d4/dfd/a20836.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "d4/dfd/a20836.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "d4/dfd/a20836.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

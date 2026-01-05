@@ -1,8 +1,7 @@
 var a15644 =
 [
-    [ "CheckRequirement", "da/db5/a15644.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "da/db5/a15644.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "da/db5/a15644.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "da/db5/a15644.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "da/db5/a15644.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_kerlonianAI", "db/d71/a15648.html", "db/d71/a15648" ],
+    [ "npc_kerlonian", "da/db5/a15644.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "da/db5/a15644.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "da/db5/a15644.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

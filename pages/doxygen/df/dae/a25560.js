@@ -1,7 +1,7 @@
 var a25560 =
 [
-    [ "HandleOnEffectApply", "df/dae/a25560.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "df/dae/a25560.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "df/dae/a25560.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "df/dae/a25560.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "HandleScript", "df/dae/a25560.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "df/dae/a25560.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "df/dae/a25560.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "df/dae/a25560.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

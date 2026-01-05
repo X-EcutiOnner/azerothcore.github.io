@@ -1,17 +1,16 @@
 var a04972 =
 [
-    [ "DynamicMapTree", "d3/d49/a04972.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
-    [ "~DynamicMapTree", "d3/d49/a04972.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
-    [ "balance", "d3/d49/a04972.html#a1af866551a1ea151551ebb856797528d", null ],
-    [ "contains", "d3/d49/a04972.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
-    [ "GetAreaAndLiquidData", "d3/d49/a04972.html#a1229eb7e83b481cb72ffc9ae4a3a28a8", null ],
-    [ "getHeight", "d3/d49/a04972.html#ac10680b14e3849bd17926cef24765d9d", null ],
-    [ "GetIntersectionTime", "d3/d49/a04972.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
-    [ "GetObjectHitPos", "d3/d49/a04972.html#ab664ac39063402dea9f587e9808a358d", null ],
-    [ "insert", "d3/d49/a04972.html#a28ccab96fd4249f15485c89501da597b", null ],
-    [ "isInLineOfSight", "d3/d49/a04972.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
-    [ "remove", "d3/d49/a04972.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
-    [ "size", "d3/d49/a04972.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
-    [ "update", "d3/d49/a04972.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
-    [ "impl", "d3/d49/a04972.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
+    [ "MDLCallback", "d8/dbe/a04976.html", "d8/dbe/a04976" ],
+    [ "ObjArray", "d3/d49/a04972.html#a19e64f06ddaf36271df3c1192908042b", null ],
+    [ "BIHWrap", "d3/d49/a04972.html#a8572b541e513074132ba0834e081ec05", null ],
+    [ "balance", "d3/d49/a04972.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
+    [ "insert", "d3/d49/a04972.html#ab859ad633f695002cf37776c0e124bbf", null ],
+    [ "intersectPoint", "d3/d49/a04972.html#affbe1a82d945190374753ab6af811ca4", null ],
+    [ "intersectRay", "d3/d49/a04972.html#a6dcddc2503a0acabc0f29ddb5eace803", null ],
+    [ "remove", "d3/d49/a04972.html#aeff1ff9ee3d3965dc4169ea6f0fc9839", null ],
+    [ "m_obj2Idx", "d3/d49/a04972.html#a04248b957bc22dbae570a3d96a03adcd", null ],
+    [ "m_objects", "d3/d49/a04972.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
+    [ "m_objects_to_push", "d3/d49/a04972.html#abd68da8091bf1694013d1231936a8a2c", null ],
+    [ "m_tree", "d3/d49/a04972.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
+    [ "unbalanced_times", "d3/d49/a04972.html#abc44d55ac155023c2661d2687c068a4b", null ]
 ];

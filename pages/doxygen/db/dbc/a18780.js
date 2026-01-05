@@ -1,8 +1,7 @@
 var a18780 =
 [
-    [ "npc_rotting_frost_giantAI", "db/dbc/a18780.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "db/dbc/a18780.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "db/dbc/a18780.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "db/dbc/a18780.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "db/dbc/a18780.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "npc_blazing_skeletonAI", "db/dbc/a18780.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "db/dbc/a18780.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "db/dbc/a18780.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "db/dbc/a18780.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

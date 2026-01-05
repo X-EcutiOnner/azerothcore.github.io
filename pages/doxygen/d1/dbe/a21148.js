@@ -1,6 +1,10 @@
 var a21148 =
 [
-    [ "CheckCast", "d1/dbe/a21148.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d1/dbe/a21148.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d1/dbe/a21148.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "boss_yoggsaron_voiceAI", "d1/dbe/a21148.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "d1/dbe/a21148.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "d1/dbe/a21148.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "d1/dbe/a21148.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "d1/dbe/a21148.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "d1/dbe/a21148.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "d1/dbe/a21148.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

@@ -1,12 +1,24 @@
 var a01949 =
 [
-    [ "instance_shadow_labyrinth", "de/dca/a22927.html", "de/dca/a22927" ],
-    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d5/d50/a22931.html", "d5/d50/a22931" ],
-    [ "spell_mark_of_malice", "d0/d25/a22935.html", "d0/d25/a22935" ],
-    [ "MarkOfMalice", "dd/d2e/a01949.html#a5faa1e1ef40cd28efc7332da31667677", [
-      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "dd/d2e/a01949.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
+    [ "RegisterShadowLabyrinthCreatureAI", "dd/d2e/a01949.html#afbd2592662281ddc8b6d11567efe9a50", null ],
+    [ "ShadowLabyrinthScriptName", "dd/d2e/a01949.html#ab96ece1dcc827c0af968525da00da892", null ],
+    [ "slData", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87d", [
+      [ "TYPE_RITUALISTS", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
+      [ "TYPE_HELLMAW", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
+      [ "DATA_BLACKHEARTTHEINCITEREVENT", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
+      [ "DATA_GRANDMASTER_VORPIL", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
+      [ "DATA_GRANDMASTER_VORPIL_EVENT", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
+      [ "DATA_MURMUR", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
+      [ "DATA_MURMUREVENT", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
+      [ "MAX_ENCOUNTER", "dd/d2e/a01949.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
     ] ],
-    [ "AddSC_instance_shadow_labyrinth", "dd/d2e/a01949.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
-    [ "creatureData", "dd/d2e/a01949.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dd/d2e/a01949.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "slNPCandGO", "dd/d2e/a01949.html#a5aeaf5f332ee73166572f5313be89bf1", [
+      [ "NPC_CABAL_RITUALIST", "dd/d2e/a01949.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
+      [ "NPC_HELLMAW", "dd/d2e/a01949.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
+      [ "GO_REFECTORY_DOOR", "dd/d2e/a01949.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
+      [ "GO_SCREAMING_HALL_DOOR", "dd/d2e/a01949.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
+    ] ],
+    [ "GetShadowLabyrinthAI", "dd/d2e/a01949.html#a04723307a726c0b79db08448db0704db", null ],
+    [ "EncounterCount", "dd/d2e/a01949.html#ae1fbcd81e7256d27efa0288994753839", null ],
+    [ "PersistentDataCount", "dd/d2e/a01949.html#aa38a92afffebaf4b33726515956b256b", null ]
 ];

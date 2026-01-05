@@ -1,4 +1,6 @@
 var a04307 =
 [
-    [ "SetProcessPriority", "d9/d4e/a04307.html#ab39209127ac54019d5252a95bc5c7aaf", null ]
+    [ "CONFIG_HIGH_PRIORITY", "d9/d4e/a04307.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "d9/d4e/a04307.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "d9/d4e/a04307.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

@@ -1,22 +1,12 @@
 var a09216 =
 [
-    [ "MapGridManager", "d7/dec/a09216.html#af08729c03f8641a00ab1cc1b014214df", null ],
-    [ "CreateGrid", "d7/dec/a09216.html#ac5daa221eb530e0b34a1950431cb4496", null ],
-    [ "GetCreatedCellsInGridCount", "d7/dec/a09216.html#a322e14ef979b97017a7547194de6c1f0", null ],
-    [ "GetCreatedCellsInMapCount", "d7/dec/a09216.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
-    [ "GetCreatedGridsCount", "d7/dec/a09216.html#a7994a71cea924e66996161b049eb1d44", null ],
-    [ "GetGrid", "d7/dec/a09216.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
-    [ "GetLoadedGridsCount", "d7/dec/a09216.html#a8acd42cf15f78053070102f530c443a2", null ],
-    [ "IsGridCreated", "d7/dec/a09216.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
-    [ "IsGridLoaded", "d7/dec/a09216.html#a4cdf5925d6ebb358f501554c8b296424", null ],
-    [ "IsGridsFullyCreated", "d7/dec/a09216.html#a479daebe69f976c11649c9c571eb18e0", null ],
-    [ "IsGridsFullyLoaded", "d7/dec/a09216.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
-    [ "IsValidGridCoordinates", "d7/dec/a09216.html#a7d7957242615d753383e05a0ee5a1f82", null ],
-    [ "LoadGrid", "d7/dec/a09216.html#aab0a821d9672cd485c4966034c2243d5", null ],
-    [ "UnloadGrid", "d7/dec/a09216.html#ae381b54e599dce0c02815faf82711200", null ],
-    [ "_createdGridsCount", "d7/dec/a09216.html#a6976d52c3af458e4d5885d2523cfafab", null ],
-    [ "_gridLock", "d7/dec/a09216.html#aa2c2218a81a5d042925e5675948e242f", null ],
-    [ "_loadedGridsCount", "d7/dec/a09216.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
-    [ "_map", "d7/dec/a09216.html#a16a35fb94355d6542a2ef634f5411243", null ],
-    [ "_mapGrid", "d7/dec/a09216.html#acfac0df3926498e8a9aa581581f84e2c", null ]
+    [ "FloatHeightData", "db/d34/a09228.html", "db/d34/a09228" ],
+    [ "Uint16HeightData", "dc/ddc/a09220.html", "dc/ddc/a09220" ],
+    [ "Uint8HeightData", "d5/d86/a09224.html", "d5/d86/a09224" ],
+    [ "HeightPlanesType", "d7/dec/a09216.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "d7/dec/a09216.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "d7/dec/a09216.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "d7/dec/a09216.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "d7/dec/a09216.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "d7/dec/a09216.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

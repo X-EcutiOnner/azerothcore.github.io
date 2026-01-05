@@ -1,8 +1,6 @@
 var a25200 =
 [
-    [ "HandleScript", "df/d4f/a25200.html#af7330c1b586b809c78e0bc080cb92c65", null ],
-    [ "Load", "df/d4f/a25200.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
-    [ "PrepareSpellScript", "df/d4f/a25200.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
-    [ "Register", "df/d4f/a25200.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
-    [ "Validate", "df/d4f/a25200.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
+    [ "OnPeriodic", "df/d4f/a25200.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "df/d4f/a25200.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "df/d4f/a25200.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

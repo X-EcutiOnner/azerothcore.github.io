@@ -1,7 +1,15 @@
 var a22032 =
 [
-    [ "HandleDummy", "d0/dd9/a22032.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d0/dd9/a22032.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d0/dd9/a22032.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d0/dd9/a22032.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_q24545_lich_kingAI", "d0/dd9/a22032.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d0/dd9/a22032.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d0/dd9/a22032.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d0/dd9/a22032.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d0/dd9/a22032.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d0/dd9/a22032.html#ac7c41ebfa7979907aea246af20bcf368", null ],
+    [ "SpellHitTarget", "d0/dd9/a22032.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d0/dd9/a22032.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d0/dd9/a22032.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d0/dd9/a22032.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d0/dd9/a22032.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d0/dd9/a22032.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

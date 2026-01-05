@@ -1,7 +1,7 @@
 var a18068 =
 [
-    [ "HandleExtraEffect", "d9/d53/a18068.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d9/d53/a18068.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d9/d53/a18068.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d9/d53/a18068.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "npc_coldflameAI", "d9/d53/a18068.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d9/d53/a18068.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d9/d53/a18068.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d9/d53/a18068.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

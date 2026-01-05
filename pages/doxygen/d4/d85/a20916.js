@@ -1,7 +1,6 @@
 var a20916 =
 [
-    [ "npc_xt002_life_sparkAI", "d4/d85/a20916.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d4/d85/a20916.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d4/d85/a20916.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d4/d85/a20916.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "OnPeriodic", "d4/d85/a20916.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d4/d85/a20916.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d4/d85/a20916.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

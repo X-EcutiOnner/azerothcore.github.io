@@ -1,12 +1,14 @@
 var a22860 =
 [
-    [ "boss_gurtogg_bloodboil", "d4/dfa/a22860.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d4/dfa/a22860.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d4/dfa/a22860.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d4/dfa/a22860.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d4/dfa/a22860.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d4/dfa/a22860.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d4/dfa/a22860.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d4/dfa/a22860.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d4/dfa/a22860.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_nexusprince_shaffar", "d4/dfa/a22860.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d4/dfa/a22860.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d4/dfa/a22860.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d4/dfa/a22860.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d4/dfa/a22860.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d4/dfa/a22860.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d4/dfa/a22860.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d4/dfa/a22860.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d4/dfa/a22860.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d4/dfa/a22860.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d4/dfa/a22860.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

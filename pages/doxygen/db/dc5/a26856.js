@@ -1,7 +1,6 @@
 var a26856 =
 [
-    [ "HandleDummy", "db/dc5/a26856.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "db/dc5/a26856.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "db/dc5/a26856.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "db/dc5/a26856.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "CheckProc", "db/dc5/a26856.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "db/dc5/a26856.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "db/dc5/a26856.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

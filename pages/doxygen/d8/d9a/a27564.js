@@ -1,8 +1,7 @@
 var a27564 =
 [
-    [ "go_bellsAI", "d8/d9a/a27564.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d8/d9a/a27564.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d8/d9a/a27564.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d8/d9a/a27564.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d8/d9a/a27564.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_darkmoon_faire_musicAI", "d8/d9a/a27564.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d8/d9a/a27564.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d8/d9a/a27564.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d8/d9a/a27564.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

@@ -1,8 +1,9 @@
 var a08756 =
 [
-    [ "CleanDamage", "d3/dd2/a08756.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d3/dd2/a08756.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d3/dd2/a08756.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d3/dd2/a08756.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d3/dd2/a08756.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "GlobalCooldownMgr", "d3/dd2/a08756.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d3/dd2/a08756.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d3/dd2/a08756.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d3/dd2/a08756.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d3/dd2/a08756.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d3/dd2/a08756.html#a80d03691d36758733f326b65992f266e", null ]
 ];

@@ -1,6 +1,7 @@
 var a18544 =
 [
-    [ "npc_terenas_menethilAI", "dc/d1b/a18548.html", "dc/d1b/a18548" ],
-    [ "npc_terenas_menethil", "d0/d9d/a18544.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d0/d9d/a18544.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "CheckTargetCount", "d0/d9d/a18544.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "d0/d9d/a18544.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "d0/d9d/a18544.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "d0/d9d/a18544.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

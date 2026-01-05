@@ -1,7 +1,6 @@
 var a18744 =
 [
-    [ "HandleForceCast", "d0/dc6/a18744.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d0/dc6/a18744.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d0/dc6/a18744.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d0/dc6/a18744.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_the_lich_king_controllerAI", "d0/d70/a18748.html", "d0/d70/a18748" ],
+    [ "npc_the_lich_king_controller", "d0/dc6/a18744.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d0/dc6/a18744.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

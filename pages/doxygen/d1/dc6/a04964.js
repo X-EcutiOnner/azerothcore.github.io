@@ -1,9 +1,6 @@
 var a04964 =
 [
-    [ "DynamicTreeIntersectionCallback", "d1/dc6/a04964.html#a77d71c68e20f4d19059317b307c27441", null ],
-    [ "didHit", "d1/dc6/a04964.html#a616d15c3cce00574d604591bc8af4140", null ],
-    [ "operator()", "d1/dc6/a04964.html#a9927d15de557ef58b7e4046e830f8dad", null ],
-    [ "_didHit", "d1/dc6/a04964.html#a1805d508be79660d90f991e4453c2c9a", null ],
-    [ "_ignoreFlags", "d1/dc6/a04964.html#a6559c66c8451c32078187a1c43b3a85e", null ],
-    [ "_phaseMask", "d1/dc6/a04964.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
+    [ "node", "d1/dc6/a04964.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
+    [ "tfar", "d1/dc6/a04964.html#ad53b746617dd5a46930dae493d7488d9", null ],
+    [ "tnear", "d1/dc6/a04964.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
 ];

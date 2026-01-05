@@ -1,5 +1,6 @@
 var a23544 =
 [
-    [ "at_underbog_ghazan", "d2/d1d/a23544.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d2/d1d/a23544.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "go_ahune_ice_stone", "d2/d1d/a23544.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d2/d1d/a23544.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d2/d1d/a23544.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

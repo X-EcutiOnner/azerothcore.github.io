@@ -1,6 +1,7 @@
 var a23040 =
 [
-    [ "boss_reliquary_of_soulsAI", "dc/d5c/a23044.html", "dc/d5c/a23044" ],
-    [ "boss_reliquary_of_souls", "d4/d3c/a23040.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d4/d3c/a23040.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "HandleDummy", "d4/d3c/a23040.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "d4/d3c/a23040.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "d4/d3c/a23040.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "d4/d3c/a23040.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

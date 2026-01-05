@@ -1,6 +1,5 @@
 var a13956 =
 [
-    [ "npc_andorhal_towerAI", "d4/d8c/a13960.html", "d4/d8c/a13960" ],
-    [ "npc_andorhal_tower", "d8/dc9/a13956.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d8/dc9/a13956.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "npc_tyrion", "d8/dc9/a13956.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d8/dc9/a13956.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

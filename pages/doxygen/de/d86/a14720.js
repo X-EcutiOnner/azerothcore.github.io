@@ -1,5 +1,8 @@
 var a14720 =
 [
-    [ "npc_pilgrims_bounty_plate", "de/d86/a14720.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "de/d86/a14720.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "OnApply", "de/d86/a14720.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "de/d86/a14720.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "de/d86/a14720.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "de/d86/a14720.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "de/d86/a14720.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

@@ -1,6 +1,8 @@
 var a06144 =
 [
-    [ "NullGameObjectAI", "d5/db3/a06144.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d5/db3/a06144.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d5/db3/a06144.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "BannedAddon", "d5/db3/a06144.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d5/db3/a06144.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d5/db3/a06144.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d5/db3/a06144.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d5/db3/a06144.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

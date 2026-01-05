@@ -1,37 +1,42 @@
 var a02321 =
 [
-    [ "npc_bunthen_plainswind", "d4/d3e/a15735.html", "d4/d3e/a15735" ],
-    [ "npc_great_bear_spirit", "d5/d02/a15739.html", "d5/d02/a15739" ],
-    [ "npc_silva_filnaveth", "d2/d56/a15743.html", "d2/d56/a15743" ],
-    [ "npc_clintar_spirit", "d4/d4d/a15747.html", "d4/d4d/a15747" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d3/dd4/a15751.html", "d3/dd4/a15751" ],
-    [ "npc_omen", "d3/dc7/a15755.html", "d3/dc7/a15755" ],
-    [ "npc_omen::npc_omenAI", "dc/dab/a15759.html", "dc/dab/a15759" ],
-    [ "npc_giant_spotlight", "db/d35/a15763.html", "db/d35/a15763" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d9/d94/a15767.html", "d9/d94/a15767" ],
-    [ "Bunthen", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "d2/d0a/a02321.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "npc_lakota_windsong", "d4/dd5/a15932.html", "d4/dd5/a15932" ],
+    [ "npc_lakota_windsong::npc_lakota_windsongAI", "db/dcb/a15936.html", "db/dcb/a15936" ],
+    [ "npc_paoka_swiftmountain", "dc/dcd/a15940.html", "dc/dcd/a15940" ],
+    [ "npc_paoka_swiftmountain::npc_paoka_swiftmountainAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
+    [ "npc_plucky", "de/d2c/a15948.html", "de/d2c/a15948" ],
+    [ "npc_plucky::npc_pluckyAI", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
+    [ "spell_panther_cage_key", "d8/d67/a15956.html", "d8/d67/a15956" ],
+    [ "GOSSIP_P", "d2/d0a/a02321.html#abe76f0bf6cd768a947537874b5a56330", null ],
+    [ "Lakota", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
+      [ "SAY_LAKO_START", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
+      [ "SAY_LAKO_LOOK_OUT", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
+      [ "SAY_LAKO_HERE_COME", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a", null ],
+      [ "SAY_LAKO_MORE", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74", null ],
+      [ "SAY_LAKO_END", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c", null ],
+      [ "QUEST_FREE_AT_LAST", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57", null ],
+      [ "NPC_GRIM_BANDIT", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923", null ],
+      [ "ID_AMBUSH_1", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33", null ],
+      [ "ID_AMBUSH_2", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820", null ],
+      [ "ID_AMBUSH_3", "d2/d0a/a02321.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607", null ]
     ] ],
-    [ "ClintarSpirit", "d2/d0a/a02321.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "d2/d0a/a02321.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "d2/d0a/a02321.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    [ "Packa", "d2/d0a/a02321.html#aa5861ade3620d04c615fc8c237d80102", [
+      [ "SAY_START", "d2/d0a/a02321.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_WYVERN", "d2/d0a/a02321.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045", null ],
+      [ "SAY_COMPLETE", "d2/d0a/a02321.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd", null ],
+      [ "QUEST_HOMEWARD", "d2/d0a/a02321.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c", null ],
+      [ "NPC_WYVERN", "d2/d0a/a02321.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de", null ]
     ] ],
-    [ "Omen", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "d2/d0a/a02321.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    [ "PantherCage", "d2/d0a/a02321.html#a59d31c8fc3505146f60a3a4fcbb5b502", [
+      [ "NPC_ENRAGED_PANTHER", "d2/d0a/a02321.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84", null ],
+      [ "QUEST_HYPERCAPACITOR_GIZMO", "d2/d0a/a02321.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe", null ]
     ] ],
-    [ "AddSC_moonglade", "d2/d0a/a02321.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "d2/d0a/a02321.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "d2/d0a/a02321.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "Plucky", "d2/d0a/a02321.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
+      [ "QUEST_SCOOP", "d2/d0a/a02321.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
+      [ "SPELL_PLUCKY_HUMAN", "d2/d0a/a02321.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
+      [ "SPELL_PLUCKY_CHICKEN", "d2/d0a/a02321.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ]
+    ] ],
+    [ "AddSC_thousand_needles", "d2/d0a/a02321.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
+    [ "BanditLoc", "d2/d0a/a02321.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
+    [ "WyvernLoc", "d2/d0a/a02321.html#aca7b1639e471cc34f43cd5768265d02a", null ]
 ];

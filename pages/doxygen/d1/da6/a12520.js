@@ -1,6 +1,7 @@
 var a12520 =
 [
-    [ "HandleOnHit", "d1/da6/a12520.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d1/da6/a12520.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d1/da6/a12520.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "boss_ebonrocAI", "d1/da6/a12520.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d1/da6/a12520.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d1/da6/a12520.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d1/da6/a12520.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

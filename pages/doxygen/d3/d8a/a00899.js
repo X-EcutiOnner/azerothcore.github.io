@@ -1,6 +1,9 @@
 var a00899 =
 [
-    [ "Transport", "da/dc6/a08731.html", "da/dc6/a08731" ],
-    [ "MotionTransport", "dd/d6f/a08735.html", "dd/d6f/a08735" ],
-    [ "StaticTransport", "d5/df0/a08739.html", "d5/df0/a08739" ]
+    [ "DynamicObject", "d7/dde/a08228.html", "d7/dde/a08228" ],
+    [ "DynamicObjectType", "d3/d8a/a00899.html#aee85c2f840289bcf773609333ee91131", [
+      [ "DYNAMIC_OBJECT_PORTAL", "d3/d8a/a00899.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
+      [ "DYNAMIC_OBJECT_AREA_SPELL", "d3/d8a/a00899.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
+      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d3/d8a/a00899.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    ] ]
 ];

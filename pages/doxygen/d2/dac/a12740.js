@@ -1,6 +1,6 @@
 var a12740 =
 [
-    [ "instance_deadmines_InstanceMapScript", "da/d5f/a12744.html", "da/d5f/a12744" ],
-    [ "instance_deadmines", "d2/dac/a12740.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "d2/dac/a12740.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "HandleHit", "d2/dac/a12740.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d2/dac/a12740.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d2/dac/a12740.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

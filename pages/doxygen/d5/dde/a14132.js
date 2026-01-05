@@ -1,12 +1,7 @@
 var a14132 =
 [
-    [ "npc_zulian_prowlerAI", "d5/dde/a14132.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d5/dde/a14132.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d5/dde/a14132.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d5/dde/a14132.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d5/dde/a14132.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d5/dde/a14132.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d5/dde/a14132.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d5/dde/a14132.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d5/dde/a14132.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_zuljin_vortex", "d5/dde/a14132.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d5/dde/a14132.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d5/dde/a14132.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d5/dde/a14132.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

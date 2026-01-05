@@ -1,6 +1,7 @@
 var a24148 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dae/a24152.html", "d4/dae/a24152" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d3/d08/a24148.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d3/d08/a24148.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "boss_gatewatcher_iron_hand", "d3/d08/a24148.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d3/d08/a24148.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d3/d08/a24148.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d3/d08/a24148.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

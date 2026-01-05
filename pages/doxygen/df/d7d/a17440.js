@@ -1,6 +1,10 @@
 var a17440 =
 [
-    [ "boss_prince_kelesethAI", "d6/d4b/a17444.html", "d6/d4b/a17444" ],
-    [ "boss_prince_keleseth_icc", "df/d7d/a17440.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "df/d7d/a17440.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "boss_drakkari_elementalAI", "df/d7d/a17440.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "df/d7d/a17440.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "df/d7d/a17440.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "df/d7d/a17440.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "df/d7d/a17440.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "df/d7d/a17440.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "df/d7d/a17440.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

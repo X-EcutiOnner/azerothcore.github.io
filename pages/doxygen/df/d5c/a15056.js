@@ -1,5 +1,6 @@
 var a15056 =
 [
-    [ "npc_black_morass_summoned_add", "df/d5c/a15056.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "df/d5c/a15056.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/d04/a15060.html", "dd/d04/a15060" ],
+    [ "npc_cos_stratholme_citizien", "df/d5c/a15056.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "df/d5c/a15056.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

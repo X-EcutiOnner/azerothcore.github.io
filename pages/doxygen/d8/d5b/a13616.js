@@ -1,9 +1,8 @@
 var a13616 =
 [
-    [ "npc_dark_fiend", "d8/d5b/a13616.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d8/d5b/a13616.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d8/d5b/a13616.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d8/d5b/a13616.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d8/d5b/a13616.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d8/d5b/a13616.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "CheckCast", "d8/d5b/a13616.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d8/d5b/a13616.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d8/d5b/a13616.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d8/d5b/a13616.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d8/d5b/a13616.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

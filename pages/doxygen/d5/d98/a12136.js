@@ -1,6 +1,6 @@
 var a12136 =
 [
-    [ "boss_hedrumAI", "db/daf/a12140.html", "db/daf/a12140" ],
-    [ "boss_hedrum", "d5/d98/a12136.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
-    [ "GetAI", "d5/d98/a12136.html#a7033d315852aa4905784e957679ee261", null ]
+    [ "npc_phalanxAI", "db/daf/a12140.html", "db/daf/a12140" ],
+    [ "npc_phalanx", "d5/d98/a12136.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "d5/d98/a12136.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

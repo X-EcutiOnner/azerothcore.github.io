@@ -1,7 +1,10 @@
 var a16820 =
 [
-    [ "HandleEffectPeriodic", "d1/dfc/a16820.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "d1/dfc/a16820.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "d1/dfc/a16820.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "d1/dfc/a16820.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "npc_mistress_of_painAI", "d1/dfc/a16820.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d1/dfc/a16820.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d1/dfc/a16820.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d1/dfc/a16820.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d1/dfc/a16820.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d1/dfc/a16820.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d1/dfc/a16820.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

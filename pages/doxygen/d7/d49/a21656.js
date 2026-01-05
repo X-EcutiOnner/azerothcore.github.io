@@ -1,6 +1,10 @@
 var a21656 =
 [
-    [ "npc_violet_hold_defense_system", "d7/d49/a21656.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d7/d49/a21656.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d7/d49/a21656.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_azure_binderAI", "d7/d49/a21656.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d7/d49/a21656.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d7/d49/a21656.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d7/d49/a21656.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d7/d49/a21656.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d7/d49/a21656.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d7/d49/a21656.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

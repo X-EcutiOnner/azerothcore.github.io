@@ -1,6 +1,8 @@
 var a22868 =
 [
-    [ "HandleScriptEffect", "d4/ddb/a22868.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d4/ddb/a22868.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d4/ddb/a22868.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "boss_pandemonius", "d4/ddb/a22868.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d4/ddb/a22868.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d4/ddb/a22868.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d4/ddb/a22868.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d4/ddb/a22868.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

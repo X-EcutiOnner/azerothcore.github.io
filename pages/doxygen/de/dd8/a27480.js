@@ -1,9 +1,6 @@
 var a27480 =
 [
-    [ "go_gilded_brazierAI", "de/dd8/a27480.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "de/dd8/a27480.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "de/dd8/a27480.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "de/dd8/a27480.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "de/dd8/a27480.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "de/dd8/a27480.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_witherbark_totem_bundleAI", "d7/ddf/a27484.html", "d7/ddf/a27484" ],
+    [ "go_witherbark_totem_bundle", "de/dd8/a27480.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "de/dd8/a27480.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

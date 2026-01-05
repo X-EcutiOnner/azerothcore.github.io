@@ -1,6 +1,8 @@
 var a24672 =
 [
-    [ "HandleEffectApply", "d0/d42/a24672.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "d0/d42/a24672.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "d0/d42/a24672.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "npc_pet_darting_hatchling", "d0/d42/a24672.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d0/d42/a24672.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d0/d42/a24672.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d0/d42/a24672.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d0/d42/a24672.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

@@ -1,10 +1,9 @@
 var a19316 =
 [
-    [ "boss_patchwerkAI", "d0/dcf/a19316.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d0/dcf/a19316.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d0/dcf/a19316.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d0/dcf/a19316.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d0/dcf/a19316.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d0/dcf/a19316.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d0/dcf/a19316.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d0/dcf/a19316.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d0/dcf/a19316.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d0/dcf/a19316.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d0/dcf/a19316.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d0/dcf/a19316.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d0/dcf/a19316.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

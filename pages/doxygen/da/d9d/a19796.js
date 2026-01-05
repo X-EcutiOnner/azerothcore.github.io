@@ -1,6 +1,6 @@
 var a19796 =
 [
-    [ "dark_rune_stormcallerAI", "d2/da0/a19800.html", "d2/da0/a19800" ],
-    [ "dark_rune_stormcaller", "da/d9d/a19796.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "da/d9d/a19796.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d2/da0/a19800.html", "d2/da0/a19800" ],
+    [ "instance_halls_of_lightning", "da/d9d/a19796.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "da/d9d/a19796.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

@@ -1,9 +1,7 @@
 var a28740 =
 [
-    [ "flags", "de/d05/a28740.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "de/d05/a28740.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "de/d05/a28740.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "de/d05/a28740.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "de/d05/a28740.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "de/d05/a28740.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "from", "de/d05/a28740.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "de/d05/a28740.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "de/d05/a28740.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "de/d05/a28740.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

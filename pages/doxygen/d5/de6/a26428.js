@@ -1,8 +1,6 @@
 var a26428 =
 [
-    [ "HandleApplyEffect", "d5/de6/a26428.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "d5/de6/a26428.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "d5/de6/a26428.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "d5/de6/a26428.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "d5/de6/a26428.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "CalculateAmount", "d5/de6/a26428.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "d5/de6/a26428.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "d5/de6/a26428.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

@@ -1,6 +1,7 @@
 var a18500 =
 [
-    [ "ModDest", "d0/d75/a18500.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d0/d75/a18500.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d0/d75/a18500.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "HandleScript", "d0/d75/a18500.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d0/d75/a18500.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d0/d75/a18500.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d0/d75/a18500.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

@@ -1,6 +1,12 @@
 var a18032 =
 [
-    [ "npc_volatile_oozeAI", "d3/d16/a18036.html", "d3/d16/a18036" ],
-    [ "npc_volatile_ooze", "d4/d95/a18032.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d4/d95/a18032.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "npc_vengeful_shadeAI", "d4/d95/a18032.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d4/d95/a18032.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d4/d95/a18032.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d4/d95/a18032.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d4/d95/a18032.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d4/d95/a18032.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d4/d95/a18032.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d4/d95/a18032.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d4/d95/a18032.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

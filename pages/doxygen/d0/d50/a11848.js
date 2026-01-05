@@ -1,17 +1,15 @@
 var a11848 =
 [
-    [ "gobject_commandscript", "d0/d50/a11848.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
-    [ "GetCommands", "d0/d50/a11848.html#a75124102670615a7b3a0ecd457ab631a", null ],
-    [ "HandleGameObjectActivateCommand", "d0/d50/a11848.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
-    [ "HandleGameObjectAddCommand", "d0/d50/a11848.html#a23717867956cc0da99e3640d2b790346", null ],
-    [ "HandleGameObjectAddTempCommand", "d0/d50/a11848.html#a49908d7c180d778c43702563add17d2d", null ],
-    [ "HandleGameObjectDeleteCommand", "d0/d50/a11848.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
-    [ "HandleGameObjectInfoCommand", "d0/d50/a11848.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
-    [ "HandleGameObjectMoveCommand", "d0/d50/a11848.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
-    [ "HandleGameObjectNearCommand", "d0/d50/a11848.html#a156f293b3bf9c7439b62814ee8f27650", null ],
-    [ "HandleGameObjectRespawn", "d0/d50/a11848.html#aafed57aa556c8cdc0c380185b056d705", null ],
-    [ "HandleGameObjectSetPhaseCommand", "d0/d50/a11848.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
-    [ "HandleGameObjectSetStateCommand", "d0/d50/a11848.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
-    [ "HandleGameObjectTargetCommand", "d0/d50/a11848.html#a11d33046310495c0a6d883a307c95632", null ],
-    [ "HandleGameObjectTurnCommand", "d0/d50/a11848.html#a75883394613b2c3501cd48f5334199b7", null ]
+    [ "arena_commandscript", "d0/d50/a11848.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
+    [ "GetCommands", "d0/d50/a11848.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
+    [ "HandleArenaCaptainCommand", "d0/d50/a11848.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
+    [ "HandleArenaCreateCommand", "d0/d50/a11848.html#a10eab39042cb718d839fbdf7236b1a31", null ],
+    [ "HandleArenaDisbandCommand", "d0/d50/a11848.html#a012626d4c101a63d9a70c530c9e98354", null ],
+    [ "HandleArenaInfoCommand", "d0/d50/a11848.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
+    [ "HandleArenaLookupCommand", "d0/d50/a11848.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
+    [ "HandleArenaRenameCommand", "d0/d50/a11848.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
+    [ "HandleArenaSeasonDeleteTeamsCommand", "d0/d50/a11848.html#a956b4450813331d5bc43c46409c4a095", null ],
+    [ "HandleArenaSeasonRewardCommand", "d0/d50/a11848.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
+    [ "HandleArenaSeasonSetStateCommand", "d0/d50/a11848.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
+    [ "HandleArenaSeasonStartCommand", "d0/d50/a11848.html#a58ea37f547986c084c04064bddc32cfb", null ]
 ];

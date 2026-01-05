@@ -1,6 +1,7 @@
 var a17296 =
 [
-    [ "SlaveRunEvent", "d6/d9b/a17296.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "d6/d9b/a17296.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "d6/d9b/a17296.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "HandlePeriodicTick", "d6/d9b/a17296.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d6/d9b/a17296.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d6/d9b/a17296.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d6/d9b/a17296.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

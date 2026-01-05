@@ -1,7 +1,7 @@
 var a17976 =
 [
-    [ "npc_coldflameAI", "d0/d32/a17976.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d0/d32/a17976.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d0/d32/a17976.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d0/d32/a17976.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "HandleScript", "d0/d32/a17976.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d0/d32/a17976.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d0/d32/a17976.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d0/d32/a17976.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

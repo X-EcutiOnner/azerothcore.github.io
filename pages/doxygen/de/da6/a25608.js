@@ -1,9 +1,8 @@
 var a25608 =
 [
-    [ "CheckIfCorpseNear", "de/da6/a25608.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "de/da6/a25608.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "de/da6/a25608.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "de/da6/a25608.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "de/da6/a25608.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "de/da6/a25608.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "CalcPeriodic", "de/da6/a25608.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "de/da6/a25608.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "de/da6/a25608.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "de/da6/a25608.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "de/da6/a25608.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];
