@@ -1,5 +1,7 @@
 var a20196 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "d2/d3f/a20196.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "d2/d3f/a20196.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "FilterTargets", "d2/d3f/a20196.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "d2/d3f/a20196.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "d2/d3f/a20196.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "d2/d3f/a20196.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

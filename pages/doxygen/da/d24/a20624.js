@@ -1,5 +1,6 @@
 var a20624 =
 [
-    [ "achievement_kologarn_with_open_arms", "da/d24/a20624.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "da/d24/a20624.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "boss_mimironAI", "d1/dad/a20628.html", "d1/dad/a20628" ],
+    [ "boss_mimiron", "da/d24/a20624.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "da/d24/a20624.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

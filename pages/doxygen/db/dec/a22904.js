@@ -1,6 +1,5 @@
 var a22904 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "de/d1c/a22908.html", "de/d1c/a22908" ],
-    [ "instance_sethekk_halls", "db/dec/a22904.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "db/dec/a22904.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "db/dec/a22904.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "db/dec/a22904.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

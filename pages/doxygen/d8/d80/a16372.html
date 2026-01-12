@@ -628,7 +628,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d1/d65/a06240.html#a14c40dcfec28989cc630fa571c67ebb7">UnitAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  600</span>        {</div>
-<div class="line"><span class="lineno">  601</span>            <span class="keywordflow">if</span> (!<a class="code hl_enumeration" href="../../dd/d1b/a02351.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.HasTimeUntilEvent(<a class="code hl_enumvalue" href="../../df/d3a/a03014.html#af60e00b78607064c5be6aa9397ea49c1aae289067ddab0330b912fe3480d599dc">EVENT_CHECK_CORPOREALITY</a>))</div>
+<div class="line"><span class="lineno">  601</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d8/d80/a16372.html#a92e3f116260265a2d0dbeef769eee03e">_events</a>.<a class="code hl_function" href="../../dd/d89/a05548.html#a40b956090fb03afea7bda154e82904d3">HasTimeUntilEvent</a>(<a class="code hl_enumvalue" href="../../df/d3a/a03014.html#af60e00b78607064c5be6aa9397ea49c1aae289067ddab0330b912fe3480d599dc">EVENT_CHECK_CORPOREALITY</a>))</div>
 <div class="line"><span class="lineno">  602</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  603</span> </div>
 <div class="line"><span class="lineno">  604</span>            <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a613530f2c12d2f8a9a4152f5ffa2bfad">DATA_MATERIAL_DAMAGE_TAKEN</a>)</div>
@@ -636,10 +636,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  606</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  607</span>                <a class="code hl_variable" href="../../d8/d80/a16372.html#a13a9efcb11ed31725c45011508407287">_twilightDamage</a> += value;</div>
 <div class="line"><span class="lineno">  608</span>        }</div>
-<div class="ttc" id="aa02351_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../dd/d1b/a02351.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="aa03014_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a613530f2c12d2f8a9a4152f5ffa2bfad"><div class="ttname"><a href="../../df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a613530f2c12d2f8a9a4152f5ffa2bfad">DATA_MATERIAL_DAMAGE_TAKEN</a></div><div class="ttdeci">@ DATA_MATERIAL_DAMAGE_TAKEN</div><div class="ttdef"><b>Definition:</b> boss_halion.cpp:161</div></div>
+<div class="ttc" id="aa05548_html_a40b956090fb03afea7bda154e82904d3"><div class="ttname"><a href="../../dd/d89/a05548.html#a40b956090fb03afea7bda154e82904d3">EventMap::HasTimeUntilEvent</a></div><div class="ttdeci">bool HasTimeUntilEvent(EventId eventId) const</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:209</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00741">_materialDamage</a>, <a class="el" href="../../#l00742">_twilightDamage</a>, <a class="el" href="../../#l00161">DATA_MATERIAL_DAMAGE_TAKEN</a>, and <a class="el" href="../../#l00142">EVENT_CHECK_CORPOREALITY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00738">_events</a>, <a class="el" href="../../#l00741">_materialDamage</a>, <a class="el" href="../../#l00742">_twilightDamage</a>, <a class="el" href="../../#l00161">DATA_MATERIAL_DAMAGE_TAKEN</a>, <a class="el" href="../../#l00142">EVENT_CHECK_CORPOREALITY</a>, and <a class="el" href="../../#l00209">EventMap::HasTimeUntilEvent()</a>.</p>
 
 </div>
 </div>
@@ -895,7 +895,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00610">DoAction()</a>, <a class="el" href="../../#l00594">Reset()</a>, <a class="el" href="../../#l00630">UpdateAI()</a>, and <a class="el" href="../../#l00675">UpdateCorporeality()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00610">DoAction()</a>, <a class="el" href="../../#l00594">Reset()</a>, <a class="el" href="../../#l00599">SetData()</a>, <a class="el" href="../../#l00630">UpdateAI()</a>, and <a class="el" href="../../#l00675">UpdateCorporeality()</a>.</p>
 
 </div>
 </div>
@@ -977,7 +977,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d09/a16368.html">npc_halion_controller</a></li><li class="navelem"><a class="el" href="../../d8/d80/a16372.html">npc_halion_controllerAI</a></li>
-    <li class="footer">Generated on Mon Jan 5 2026 20:54:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 12 2026 20:51:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

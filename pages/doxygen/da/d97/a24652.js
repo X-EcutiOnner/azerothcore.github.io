@@ -1,8 +1,10 @@
 var a24652 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "da/d97/a24652.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "da/d97/a24652.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "da/d97/a24652.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "da/d97/a24652.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "da/d97/a24652.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_gen_plump_turkey", "da/d97/a24652.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "da/d97/a24652.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "da/d97/a24652.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "da/d97/a24652.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "da/d97/a24652.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "da/d97/a24652.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "da/d97/a24652.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

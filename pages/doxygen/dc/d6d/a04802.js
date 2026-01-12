@@ -1,8 +1,8 @@
 var a04802 =
 [
     [ "HolidayDateCalculatorTest", "db/d5f/a28896.html", "db/d5f/a28896" ],
-    [ "TEST_F", "dc/d6d/a04802.html#a41876108681b8d7504b08b7752114494", null ],
-    [ "TEST_F", "dc/d6d/a04802.html#a03c040cfc92c30165dba930c0f2bcf63", null ],
+    [ "TEST_F", "dc/d6d/a04802.html#a34f70c82b91163dd6378d266c974b52a", null ],
+    [ "TEST_F", "dc/d6d/a04802.html#a6013310af1ae7ad291f350ab220f8b9a", null ],
     [ "TEST_F", "dc/d6d/a04802.html#a52886ddd3389fe20ec6d8a1177d461b1", null ],
     [ "TEST_F", "dc/d6d/a04802.html#ad3e3d081d2e3ed24e47f52b2ebacb261", null ],
     [ "TEST_F", "dc/d6d/a04802.html#a97a06a1511151278b647a6535acea291", null ],

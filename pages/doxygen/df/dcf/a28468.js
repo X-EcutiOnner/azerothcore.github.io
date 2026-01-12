@@ -4,6 +4,8 @@ var a28468 =
     [ "IsContestedGuardFaction", "df/dcf/a28468.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
     [ "IsFriendlyTo", "df/dcf/a28468.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
     [ "IsHostileTo", "df/dcf/a28468.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "df/dcf/a28468.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "df/dcf/a28468.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
     [ "IsHostileToPlayers", "df/dcf/a28468.html#a349650c7af717e3c67392a0b9d1970e1", null ],
     [ "IsNeutralToAll", "df/dcf/a28468.html#a99cb471bcc9071a3c152266caa4579ae", null ],
     [ "enemyFaction", "df/dcf/a28468.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],

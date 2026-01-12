@@ -1,7 +1,6 @@
 var a19324 =
 [
-    [ "HandleRemove", "da/d3c/a19324.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "da/d3c/a19324.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "da/d3c/a19324.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "da/d3c/a19324.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "HandleHit", "da/d3c/a19324.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "da/d3c/a19324.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "da/d3c/a19324.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

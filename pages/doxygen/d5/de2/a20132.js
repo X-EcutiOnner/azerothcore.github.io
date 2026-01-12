@@ -1,6 +1,9 @@
 var a20132 =
 [
-    [ "npc_thorims_hammerAI", "d6/d0f/a20136.html", "d6/d0f/a20136" ],
-    [ "npc_thorims_hammer", "d5/de2/a20132.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d5/de2/a20132.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "npc_thorims_hammerAI", "d5/de2/a20132.html#aafda36c8d784252d271ef031ab6a3d34", null ],
+    [ "Reset", "d5/de2/a20132.html#a57975d0dc00c86946e547ba43c7151ec", null ],
+    [ "UpdateAI", "d5/de2/a20132.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
+    [ "_beamTimer", "d5/de2/a20132.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
+    [ "_finishTime", "d5/de2/a20132.html#a218bd28d18a2c2f0aef6906619437209", null ],
+    [ "_removeTimer", "d5/de2/a20132.html#a958e4c975d1ae634745107af7d204f82", null ]
 ];

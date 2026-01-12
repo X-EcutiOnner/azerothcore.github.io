@@ -1,8 +1,6 @@
 var a20416 =
 [
-    [ "npc_ulduar_flash_freezeAI", "dd/df5/a20416.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "dd/df5/a20416.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "dd/df5/a20416.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "dd/df5/a20416.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "dd/df5/a20416.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "npc_ulduar_toasty_fireAI", "d6/dcb/a20420.html", "d6/dcb/a20420" ],
+    [ "npc_ulduar_toasty_fire", "dd/df5/a20416.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
+    [ "GetAI", "dd/df5/a20416.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
 ];

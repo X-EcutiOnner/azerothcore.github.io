@@ -1,6 +1,6 @@
 var a01922 =
 [
-    [ "boss_doomwalker", "d7/d93/a23352.html", "d7/d93/a23352" ],
+    [ "boss_doomwalker", "d7/d57/a23348.html", "d7/d57/a23348" ],
     [ "Spells", "dd/d19/a01922.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -2211,8 +2211,8 @@ var a01922 =
       [ "VOID_ZONE_VISUAL", "da/d72/a03140.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09", null ],
       [ "SPELL_IMPALE", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298caed97c932510c91b6057175b2df166f63", null ],
       [ "SPELL_LOCUST_SWARM", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298ca7ee0412dfafd5522513ea342f68d55ea", null ],
-      [ "SPELL_SUMMON_CORPSE_SCRABS_5", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298cad62479f1fdaa6bcaedeae36bd96b9a82", null ],
-      [ "SPELL_SUMMON_CORPSE_SCRABS_10", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298cadd925f77dad404f83cad2df3bf157f35", null ],
+      [ "SPELL_SUMMON_CORPSE_SCARABS_5", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298cad547d87b58896f0fa2a58a0588a37c06", null ],
+      [ "SPELL_SUMMON_CORPSE_SCARABS_10", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298caaa18a3d2bda4180be891955903884354", null ],
       [ "SPELL_BERSERK", "d8/dd0/a02711.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_POISON_BOLT_VOLLEY", "d8/da6/a02696.html#a5bd342133be8c2137b831460acc9298cafc05cb6af863043f64406e1d5d30df5f", null ],
       [ "SPELL_RAIN_OF_FIRE", "d8/da6/a02696.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
@@ -2363,6 +2363,7 @@ var a01922 =
       [ "SPELL_FROST_MAGUS_SUMMON", "d5/d73/a03203.html#a5bd342133be8c2137b831460acc9298caa6b2bdc4546aaf9e9632ad64a932e197", null ],
       [ "SPELL_ARCANE_MAGUS_SUMMON", "d5/d73/a03203.html#a5bd342133be8c2137b831460acc9298cad1532a3cc9cf281ab32bafa90b172250", null ],
       [ "SPELL_FIRE_MAGUS_DEATH", "d5/d73/a03203.html#a5bd342133be8c2137b831460acc9298ca09e553a586b9a94dd34cb30bc5fd8c97", null ],
+      [ "SPELL_FROST_MAGUS_DEATH", "d5/d73/a03203.html#a5bd342133be8c2137b831460acc9298ca854e09a51d461b3e8fa49ab55232cb70", null ],
       [ "SPELL_ARCANE_MAGUS_DEATH", "d5/d73/a03203.html#a5bd342133be8c2137b831460acc9298ca3850cb4573d2813e219a0e97ac7d030f", null ],
       [ "SPELL_WEAR_CHRISTMAS_HAT", "d5/d73/a03203.html#a5bd342133be8c2137b831460acc9298cac71d3956d3230bfbb224513f0a317b7c", null ],
       [ "SPELL_MAGIC_PULL", "d3/dcf/a03173.html#a5bd342133be8c2137b831460acc9298caf2fecfa2b3706d755888b9b4bcefd271", null ],

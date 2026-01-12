@@ -1,6 +1,6 @@
 var a22212 =
 [
-    [ "npc_attracted_reef_bullAI", "d3/d1f/a22216.html", "d3/d1f/a22216" ],
-    [ "npc_attracted_reef_bull", "da/dda/a22212.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "da/dda/a22212.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "npc_attracted_reef_bullAI", "da/dda/a22212.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "da/dda/a22212.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "da/dda/a22212.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

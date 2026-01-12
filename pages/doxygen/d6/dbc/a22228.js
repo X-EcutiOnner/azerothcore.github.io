@@ -1,6 +1,6 @@
 var a22228 =
 [
-    [ "npc_plaguehound_trackerAI", "da/d50/a22232.html", "da/d50/a22232" ],
-    [ "npc_plaguehound_tracker", "d6/dbc/a22228.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d6/dbc/a22228.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_plaguehound_trackerAI", "d6/dbc/a22228.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d6/dbc/a22228.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d6/dbc/a22228.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

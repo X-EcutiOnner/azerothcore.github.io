@@ -1,29 +1,6 @@
 var a20564 =
 [
-    [ "boss_kologarnAI", "df/d1c/a20564.html#a4641a563b8aedd71506453c2568437b9", null ],
-    [ "AttachLeftArm", "df/d1c/a20564.html#a4e13a4d28a432698353fb53cf11a1366", null ],
-    [ "AttachRightArm", "df/d1c/a20564.html#a6002c5fde5d300e71fd08fc699405845", null ],
-    [ "AttackStart", "df/d1c/a20564.html#a7f632e5567c3fec08a15cd8442fc4789", null ],
-    [ "DamageTaken", "df/d1c/a20564.html#a2d90ad93dc0ce52b7b1a4156b6d12d8e", null ],
-    [ "DoAction", "df/d1c/a20564.html#a7bc09150f46ee8aed02265b1e5f8ddb9", null ],
-    [ "EnterEvadeMode", "df/d1c/a20564.html#a7bc69c7c50880c1aac624dac8685fa64", null ],
-    [ "GetData", "df/d1c/a20564.html#a508731d3249ac0fa2efa02eb499e5aca", null ],
-    [ "JustDied", "df/d1c/a20564.html#a8168c00b2bef34acb3452cd64322bf04", null ],
-    [ "JustEngagedWith", "df/d1c/a20564.html#a3ff512a52a416b32de2c673632e3a1a0", null ],
-    [ "JustSummoned", "df/d1c/a20564.html#a3fcaff1e6000d352f98a61c07fdba359", null ],
-    [ "KilledUnit", "df/d1c/a20564.html#a384c6ebfb2cf48c39a242beedc19766a", null ],
-    [ "MoveInLineOfSight", "df/d1c/a20564.html#a5186f2716ff3cd693b5b4756f8ccfb8a", null ],
-    [ "PassengerBoarded", "df/d1c/a20564.html#a5fc33458b5753068625022ee611d26ab", null ],
-    [ "Reset", "df/d1c/a20564.html#abcfebd76968d7f4105dea27838972c1c", null ],
-    [ "SummonedCreatureDespawn", "df/d1c/a20564.html#a8096e2a3d8370391c7c5d48f86126dd0", null ],
-    [ "UpdateAI", "df/d1c/a20564.html#adf5b6a90d684ba4755b6d8aaadbc2c62", null ],
-    [ "_left", "df/d1c/a20564.html#a629be9be5ad456dddd00f581581f7b0b", null ],
-    [ "_looksAchievement", "df/d1c/a20564.html#a0b995b26608b4af4b338409c961b33c1", null ],
-    [ "_right", "df/d1c/a20564.html#a6b80f1f3e1de0574ad64b4e12ca8a201", null ],
-    [ "_rubbleAchievement", "df/d1c/a20564.html#a0b69667c4020ada2ab079376fd1bdb44", null ],
-    [ "breathReady", "df/d1c/a20564.html#aba71c4db963a7d9de8a784e9d2465b6e", null ],
-    [ "events", "df/d1c/a20564.html#a30ad06bfe509ed5c8f584558190944cb", null ],
-    [ "m_pInstance", "df/d1c/a20564.html#a5d294afcf8e40e0513836fc6f580dd17", null ],
-    [ "summons", "df/d1c/a20564.html#afe1732245f349965fc375a430ceb75b3", null ],
-    [ "vehicle", "df/d1c/a20564.html#a9b25928fc46bba22366890dcf956d939", null ]
+    [ "boss_kologarn_armsAI", "d3/db6/a20568.html", "d3/db6/a20568" ],
+    [ "boss_kologarn_arms", "df/d1c/a20564.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
+    [ "GetAI", "df/d1c/a20564.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
 ];

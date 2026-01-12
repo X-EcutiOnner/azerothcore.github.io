@@ -1,7 +1,7 @@
 var a22568 =
 [
-    [ "OnApply", "d9/d00/a22568.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "d9/d00/a22568.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "d9/d00/a22568.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "d9/d00/a22568.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "HandleDummy", "d9/d00/a22568.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "d9/d00/a22568.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "d9/d00/a22568.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "d9/d00/a22568.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

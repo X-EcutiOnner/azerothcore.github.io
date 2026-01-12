@@ -1,6 +1,6 @@
 var a21476 =
 [
-    [ "HandleOnHit", "d2/d39/a21476.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d2/d39/a21476.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d2/d39/a21476.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_koralonAI", "de/d00/a21480.html", "de/d00/a21480" ],
+    [ "boss_koralon", "d2/d39/a21476.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d2/d39/a21476.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

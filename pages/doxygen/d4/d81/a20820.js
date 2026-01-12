@@ -1,5 +1,6 @@
 var a20820 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d4/d81/a20820.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d4/d81/a20820.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "boss_thorimAI", "d3/dd2/a20824.html", "d3/dd2/a20824" ],
+    [ "boss_thorim", "d4/d81/a20820.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
+    [ "GetAI", "d4/d81/a20820.html#a70895451317569f50adc11474e653515", null ]
 ];

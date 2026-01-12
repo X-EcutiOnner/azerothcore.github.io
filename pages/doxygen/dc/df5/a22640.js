@@ -1,6 +1,6 @@
 var a22640 =
 [
-    [ "CheckCast", "dc/df5/a22640.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "dc/df5/a22640.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "dc/df5/a22640.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandlePeriodicDummy", "dc/df5/a22640.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "dc/df5/a22640.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "dc/df5/a22640.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

@@ -468,12 +468,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1372</span>                                               : <a class="code hl_class" href="../../db/d65/a06192.html">NullCreatureAI</a>(creature)</div>
-<div class="line"><span class="lineno"> 1373</span>        {</div>
-<div class="line"><span class="lineno"> 1374</span>            <a class="code hl_variable" href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1375</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1370</span>                                               : <a class="code hl_class" href="../../db/d65/a06192.html">NullCreatureAI</a>(creature)</div>
+<div class="line"><span class="lineno"> 1371</span>        {</div>
+<div class="line"><span class="lineno"> 1372</span>            <a class="code hl_variable" href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1373</span>        }</div>
 <div class="ttc" id="aa06192_html"><div class="ttname"><a href="../../db/d65/a06192.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:53</div></div>
-<div class="ttc" id="aa15044_html_a0e718e519af661b73ed7bcd87ffbea32"><div class="ttname"><a href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">npc_crate_helper::npc_crate_helperAI::_marked</a></div><div class="ttdeci">bool _marked</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1393</div></div>
+<div class="ttc" id="aa15044_html_a0e718e519af661b73ed7bcd87ffbea32"><div class="ttname"><a href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">npc_crate_helper::npc_crate_helperAI::_marked</a></div><div class="ttdeci">bool _marked</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1391</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -513,19 +513,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../db/d70/a06252.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1378</span>        {</div>
-<div class="line"><span class="lineno"> 1379</span>            <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../da/dbe/a02489.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2">SPELL_ARCANE_DISRUPTION</a> &amp;&amp; !<a class="code hl_variable" href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a>)</div>
-<div class="line"><span class="lineno"> 1380</span>            {</div>
-<div class="line"><span class="lineno"> 1381</span>                <a class="code hl_variable" href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1382</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d87/a09756.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../db/d70/a06252.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d2/de1/a08484.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 1383</span>                    instance-&gt;SetData(<a class="code hl_enumvalue" href="../../da/dbe/a02489.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f">DATA_CRATE_COUNT</a>, 0);</div>
-<div class="line"><span class="lineno"> 1384</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/d78/a08256.html">GameObject</a>* crate = <a class="code hl_variable" href="../../db/d70/a06252.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d2/de1/a08484.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(<a class="code hl_enumvalue" href="../../da/dbe/a02489.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a>, 5.0f))</div>
-<div class="line"><span class="lineno"> 1385</span>                {</div>
-<div class="line"><span class="lineno"> 1386</span>                    crate-&gt;SummonGameObject(<a class="code hl_enumvalue" href="../../da/dbe/a02489.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a>, crate-&gt;GetPositionX(), crate-&gt;GetPositionY(), crate-&gt;GetPositionZ(), crate-&gt;GetOrientation(), 0.0f, 0.0f, 0.0f, 0.0f, <a class="code hl_variable" href="../../d0/d15/a04574.html#a219e927a5d306db9cd363487d1f94366">DAY</a>);</div>
-<div class="line"><span class="lineno"> 1387</span>                    crate-&gt;Delete();</div>
-<div class="line"><span class="lineno"> 1388</span>                }</div>
-<div class="line"><span class="lineno"> 1389</span>            }</div>
-<div class="line"><span class="lineno"> 1390</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1376</span>        {</div>
+<div class="line"><span class="lineno"> 1377</span>            <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../da/dbe/a02489.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2">SPELL_ARCANE_DISRUPTION</a> &amp;&amp; !<a class="code hl_variable" href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a>)</div>
+<div class="line"><span class="lineno"> 1378</span>            {</div>
+<div class="line"><span class="lineno"> 1379</span>                <a class="code hl_variable" href="../../d0/ded/a15044.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1380</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d87/a09756.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../db/d70/a06252.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d2/de1/a08484.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 1381</span>                    instance-&gt;SetData(<a class="code hl_enumvalue" href="../../da/dbe/a02489.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f">DATA_CRATE_COUNT</a>, 0);</div>
+<div class="line"><span class="lineno"> 1382</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/d78/a08256.html">GameObject</a>* crate = <a class="code hl_variable" href="../../db/d70/a06252.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d2/de1/a08484.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(<a class="code hl_enumvalue" href="../../da/dbe/a02489.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a>, 5.0f))</div>
+<div class="line"><span class="lineno"> 1383</span>                {</div>
+<div class="line"><span class="lineno"> 1384</span>                    crate-&gt;SummonGameObject(<a class="code hl_enumvalue" href="../../da/dbe/a02489.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a>, crate-&gt;GetPositionX(), crate-&gt;GetPositionY(), crate-&gt;GetPositionZ(), crate-&gt;GetOrientation(), 0.0f, 0.0f, 0.0f, 0.0f, <a class="code hl_variable" href="../../d0/d15/a04574.html#a219e927a5d306db9cd363487d1f94366">DAY</a>);</div>
+<div class="line"><span class="lineno"> 1385</span>                    crate-&gt;Delete();</div>
+<div class="line"><span class="lineno"> 1386</span>                }</div>
+<div class="line"><span class="lineno"> 1387</span>            }</div>
+<div class="line"><span class="lineno"> 1388</span>        }</div>
 <div class="ttc" id="aa02489_html_a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a"><div class="ttname"><a href="../../da/dbe/a02489.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a></div><div class="ttdeci">@ GO_PLAGUED_CRATE</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:73</div></div>
 <div class="ttc" id="aa02489_html_a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086"><div class="ttname"><a href="../../da/dbe/a02489.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a></div><div class="ttdeci">@ GO_SUSPICIOUS_CRATE</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:72</div></div>
 <div class="ttc" id="aa02489_html_aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2"><div class="ttname"><a href="../../da/dbe/a02489.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2">SPELL_ARCANE_DISRUPTION</a></div><div class="ttdeci">@ SPELL_ARCANE_DISRUPTION</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:79</div></div>
@@ -570,7 +570,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/def/a15040.html">npc_crate_helper</a></li><li class="navelem"><a class="el" href="../../d0/ded/a15044.html">npc_crate_helperAI</a></li>
-    <li class="footer">Generated on Mon Jan 5 2026 20:54:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 12 2026 20:51:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

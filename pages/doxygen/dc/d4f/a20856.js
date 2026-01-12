@@ -1,6 +1,10 @@
 var a20856 =
 [
-    [ "boss_thorim_sif_blizzardAI", "dd/d93/a20860.html", "dd/d93/a20860" ],
-    [ "boss_thorim_sif_blizzard", "dc/d4f/a20856.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "dc/d4f/a20856.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "boss_thorim_sif_blizzardAI", "dc/d4f/a20856.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "dc/d4f/a20856.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "dc/d4f/a20856.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "dc/d4f/a20856.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "dc/d4f/a20856.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "dc/d4f/a20856.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "dc/d4f/a20856.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

@@ -1,8 +1,5 @@
 var a19800 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d2/da0/a19800.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "d2/da0/a19800.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "d2/da0/a19800.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "d2/da0/a19800.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "d2/da0/a19800.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "at_hol_hall_of_watchers", "d2/da0/a19800.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "d2/da0/a19800.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

@@ -1,11 +1,9 @@
 var a24884 =
 [
-    [ "HandleAfterHit", "dc/dff/a24884.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "dc/dff/a24884.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "dc/dff/a24884.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "dc/dff/a24884.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "dc/dff/a24884.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "dc/dff/a24884.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "dc/dff/a24884.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "dc/dff/a24884.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "Absorb", "dc/dff/a24884.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "dc/dff/a24884.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "dc/dff/a24884.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "dc/dff/a24884.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "dc/dff/a24884.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "dc/dff/a24884.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

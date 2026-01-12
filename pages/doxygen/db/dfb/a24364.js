@@ -1,7 +1,10 @@
 var a24364 =
 [
-    [ "npc_maxx_a_million_escortAI", "d6/dfe/a24368.html", "d6/dfe/a24368" ],
-    [ "npc_maxx_a_million_escort", "db/dfb/a24364.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "db/dfb/a24364.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "db/dfb/a24364.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_maxx_a_million_escortAI", "db/dfb/a24364.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "db/dfb/a24364.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "db/dfb/a24364.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "db/dfb/a24364.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "db/dfb/a24364.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "db/dfb/a24364.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "db/dfb/a24364.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

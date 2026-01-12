@@ -1,6 +1,6 @@
 var a23652 =
 [
-    [ "HandlePeriodic", "de/d01/a23652.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "de/d01/a23652.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "de/d01/a23652.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "HandleScript", "de/d01/a23652.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "de/d01/a23652.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "de/d01/a23652.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

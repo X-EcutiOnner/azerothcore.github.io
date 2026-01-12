@@ -1,9 +1,6 @@
 var a22224 =
 [
-    [ "npc_Apothecary_HanesAI", "dc/dcd/a22224.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "dc/dcd/a22224.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "dc/dcd/a22224.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "dc/dcd/a22224.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "dc/dcd/a22224.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "dc/dcd/a22224.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_plaguehound_trackerAI", "d6/dbc/a22228.html", "d6/dbc/a22228" ],
+    [ "npc_plaguehound_tracker", "dc/dcd/a22224.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "dc/dcd/a22224.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

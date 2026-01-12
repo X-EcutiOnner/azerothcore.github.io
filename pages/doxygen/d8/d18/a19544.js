@@ -1,6 +1,8 @@
 var a19544 =
 [
-    [ "npc_alexstraszaAI", "db/db7/a19548.html", "db/db7/a19548" ],
-    [ "npc_alexstrasza", "d8/d18/a19544.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "d8/d18/a19544.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_alexstraszaAI", "d8/d18/a19544.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "d8/d18/a19544.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "d8/d18/a19544.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "d8/d18/a19544.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "d8/d18/a19544.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

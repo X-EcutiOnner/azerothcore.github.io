@@ -1,6 +1,7 @@
 var a22608 =
 [
-    [ "npc_wg_siege_machineAI", "dc/d4d/a22612.html", "dc/d4d/a22612" ],
-    [ "npc_wg_siege_machine", "df/d92/a22608.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "df/d92/a22608.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "npc_wg_siege_machineAI", "df/d92/a22608.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "df/d92/a22608.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "df/d92/a22608.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "df/d92/a22608.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

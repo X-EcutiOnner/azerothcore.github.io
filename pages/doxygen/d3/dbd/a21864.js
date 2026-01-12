@@ -1,6 +1,7 @@
 var a21864 =
 [
-    [ "PrepareSpellScript", "d3/dbd/a21864.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d3/dbd/a21864.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d3/dbd/a21864.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "HandleProc", "d3/dbd/a21864.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d3/dbd/a21864.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d3/dbd/a21864.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d3/dbd/a21864.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

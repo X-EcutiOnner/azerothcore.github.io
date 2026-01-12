@@ -1,6 +1,9 @@
 var a20688 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "db/de0/a20692.html", "db/de0/a20692" ],
-    [ "npc_ulduar_bot_summon_trigger", "d6/d86/a20688.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
-    [ "GetAI", "d6/d86/a20688.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d6/d86/a20688.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "d6/d86/a20688.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "d6/d86/a20688.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "d6/d86/a20688.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "d6/d86/a20688.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "d6/d86/a20688.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

@@ -1,12 +1,6 @@
 var a20876 =
 [
-    [ "boss_thorim_start_npcsAI", "dd/d45/a20876.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "dd/d45/a20876.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "dd/d45/a20876.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "dd/d45/a20876.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "dd/d45/a20876.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "dd/d45/a20876.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "dd/d45/a20876.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "dd/d45/a20876.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "dd/d45/a20876.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d9/d9a/a20880.html", "d9/d9a/a20880" ],
+    [ "boss_thorim_gauntlet_npcs", "dd/d45/a20876.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
+    [ "GetAI", "dd/d45/a20876.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
 ];

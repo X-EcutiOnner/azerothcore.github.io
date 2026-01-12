@@ -1,6 +1,10 @@
 var a24400 =
 [
-    [ "npc_infernal_attackerAI", "d7/dcf/a24404.html", "d7/dcf/a24404" ],
-    [ "npc_infernal_attacker", "db/dc1/a24400.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "db/dc1/a24400.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npc_infernal_attackerAI", "db/dc1/a24400.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "db/dc1/a24400.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "db/dc1/a24400.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "db/dc1/a24400.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "db/dc1/a24400.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "db/dc1/a24400.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "db/dc1/a24400.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

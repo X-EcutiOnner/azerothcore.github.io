@@ -1,6 +1,6 @@
 var a21744 =
 [
-    [ "npc_iruk", "dd/d2d/a21744.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "dd/d2d/a21744.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "dd/d2d/a21744.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "npc_nerubar_victimAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
+    [ "npc_nerubar_victim", "dd/d2d/a21744.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "dd/d2d/a21744.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

@@ -1,12 +1,6 @@
 var a19836 =
 [
-    [ "boss_sjonnirAI", "d7/d5e/a19836.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d7/d5e/a19836.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d7/d5e/a19836.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d7/d5e/a19836.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d7/d5e/a19836.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d7/d5e/a19836.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d7/d5e/a19836.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "d7/d5e/a19836.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "d7/d5e/a19836.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "boss_sjonnir_dwarfAI", "da/d68/a19840.html", "da/d68/a19840" ],
+    [ "boss_sjonnir_dwarf", "d7/d5e/a19836.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d7/d5e/a19836.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

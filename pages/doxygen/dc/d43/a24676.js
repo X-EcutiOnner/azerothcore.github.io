@@ -1,5 +1,10 @@
 var a24676 =
 [
-    [ "npc_pet_proto_drake_whelp", "dc/d43/a24676.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "dc/d43/a24676.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "npc_pet_hunter_snake_trap", "dc/d43/a24676.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "dc/d43/a24676.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "dc/d43/a24676.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "dc/d43/a24676.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "dc/d43/a24676.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "dc/d43/a24676.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "dc/d43/a24676.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

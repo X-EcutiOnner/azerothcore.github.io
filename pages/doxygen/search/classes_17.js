@@ -14,7 +14,7 @@ var searchData=
   ['waspteleportdata_11',['WaspTeleportData',['../d1/d77/a15240.html',1,'']]],
   ['wavecreature_12',['WaveCreature',['../db/db7/a12120.html',1,'']]],
   ['wavedata_13',['WaveData',['../dd/dda/a15808.html',1,'']]],
-  ['wavedatacreature_14',['WaveDataCreature',['../dd/d63/a24448.html',1,'']]],
+  ['wavedatacreature_14',['WaveDataCreature',['../d2/dcd/a24444.html',1,'']]],
   ['waypointdata_15',['WaypointData',['../d0/d7e/a10196.html',1,'']]],
   ['waypointmgr_16',['WaypointMgr',['../d6/d42/a10200.html',1,'']]],
   ['waypointmovementgenerator_17',['WaypointMovementGenerator',['../d4/dc0/a10120.html',1,'']]],
@@ -27,7 +27,7 @@ var searchData=
   ['weatherdata_24',['WeatherData',['../dc/db2/a11788.html',1,'']]],
   ['weatherscript_25',['WeatherScript',['../d8/d92/a10496.html',1,'']]],
   ['weatherseasonchances_26',['WeatherSeasonChances',['../d5/dcb/a11784.html',1,'']]],
-  ['webtargetselector_27',['WebTargetSelector',['../da/d00/a19368.html',1,'']]],
+  ['webtargetselector_27',['WebTargetSelector',['../de/d4d/a19364.html',1,'']]],
   ['weeklyquest_28',['WeeklyQuest',['../da/d78/a19160.html',1,'']]],
   ['wgworkshop_29',['WGWorkshop',['../de/da8/a07292.html',1,'']]],
   ['wgworkshopdata_30',['WGWorkshopData',['../d3/d24/a07284.html',1,'']]],
@@ -87,6 +87,6 @@ var searchData=
   ['worldworldtextbuilder_84',['WorldWorldTextBuilder',['../d9/dc0/a11804.html',1,'Acore']]],
   ['wp_5fcommandscript_85',['wp_commandscript',['../db/da6/a12064.html',1,'']]],
   ['wrapitem_86',['WrapItem',['../d6/d70/a10928.html',1,'WorldPackets::Item']]],
-  ['wretchedghoulcleaner_87',['WretchedGhoulCleaner',['../da/dab/a22024.html',1,'']]],
+  ['wretchedghoulcleaner_87',['WretchedGhoulCleaner',['../d1/dd9/a22020.html',1,'']]],
   ['wtail_88',['WTail',['../d1/ddb/a07768.html',1,'Acore::ChatCommands']]]
 ];

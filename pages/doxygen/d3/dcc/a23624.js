@@ -1,5 +1,6 @@
 var a23624 =
 [
-    [ "go_main_chambers_access_panel", "d3/dcc/a23624.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d3/dcc/a23624.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "instance_steam_vault_InstanceMapScript", "df/de4/a23628.html", "df/de4/a23628" ],
+    [ "instance_steam_vault", "d3/dcc/a23624.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d3/dcc/a23624.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

@@ -1,6 +1,5 @@
 var a20472 =
 [
-    [ "FilterTargets", "d9/d37/a20472.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d9/d37/a20472.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d9/d37/a20472.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "FlashFreezeCheck", "d9/d37/a20472.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d9/d37/a20472.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

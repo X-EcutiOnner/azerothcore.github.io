@@ -1,5 +1,6 @@
 var a21852 =
 [
-    [ "npc_leryssaAI", "d9/df7/a21852.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d9/df7/a21852.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_counselor_talbotAI", "d5/d8c/a21856.html", "d5/d8c/a21856" ],
+    [ "npc_counselor_talbot", "d9/df7/a21852.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "d9/df7/a21852.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

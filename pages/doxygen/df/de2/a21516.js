@@ -1,6 +1,6 @@
 var a21516 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
-    [ "npc_frozen_orb_stalker", "df/de2/a21516.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "df/de2/a21516.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "npc_frozen_orb_stalkerAI", "df/de2/a21516.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "df/de2/a21516.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "df/de2/a21516.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

@@ -352,12 +352,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa01646_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1644</div></div>
 <div class="ttc" id="aa07592_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../dc/d48/a07592.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:216</div></div>
 <div class="ttc" id="aa07780_html_a617834cc8474970950b45066f2e86dbd"><div class="ttname"><a href="../../d0/df0/a07780.html#a617834cc8474970950b45066f2e86dbd">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf</a></div><div class="ttdeci">static Optional&lt; PlayerIdentifier &gt; FromTargetOrSelf(ChatHandler *handler)</div><div class="ttdef"><b>Definition:</b> ChatCommandTags.h:184</div></div>
-<div class="ttc" id="aa08700_html"><div class="ttname"><a href="../../d7/d6b/a08700.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1063</div></div>
-<div class="ttc" id="aa08700_html_a1e02f2ed117ad96e188ed48c2507869b"><div class="ttname"><a href="../../d7/d6b/a08700.html#a1e02f2ed117ad96e188ed48c2507869b">Player::GetGuildId</a></div><div class="ttdeci">uint32 GetGuildId() const</div><div class="ttdef"><b>Definition:</b> Player.h:1887</div></div>
+<div class="ttc" id="aa08700_html"><div class="ttname"><a href="../../d7/d6b/a08700.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1066</div></div>
+<div class="ttc" id="aa08700_html_a1e02f2ed117ad96e188ed48c2507869b"><div class="ttname"><a href="../../d7/d6b/a08700.html#a1e02f2ed117ad96e188ed48c2507869b">Player::GetGuildId</a></div><div class="ttdeci">uint32 GetGuildId() const</div><div class="ttdef"><b>Definition:</b> Player.h:1890</div></div>
 <div class="ttc" id="aa09624_html"><div class="ttname"><a href="../../da/d6d/a09624.html">Guild</a></div><div class="ttdef"><b>Definition:</b> Guild.h:292</div></div>
 <div class="ttc" id="aa09624_html_a8e1dca0dcdc6d8d023e5cd18e656ff7b"><div class="ttname"><a href="../../da/d6d/a09624.html#a8e1dca0dcdc6d8d023e5cd18e656ff7b">Guild::Create</a></div><div class="ttdeci">bool Create(Player *pLeader, std::string_view name)</div><div class="ttdef"><b>Definition:</b> Guild.cpp:1049</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01049">Guild::Create()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l01887">Player::GetGuildId()</a>, <a class="el" href="../../#l00148">LANG_BAD_VALUE</a>, <a class="el" href="../../#l00547">LANG_GUILD_NOT_CREATED</a>, <a class="el" href="../../#l00127">LANG_GUILD_RENAME_ALREADY_EXISTS</a>, <a class="el" href="../../#l00546">LANG_PLAYER_IN_GUILD</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l00051">sGuildMgr</a>, and <a class="el" href="../../#l01644">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01049">Guild::Create()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l01890">Player::GetGuildId()</a>, <a class="el" href="../../#l00148">LANG_BAD_VALUE</a>, <a class="el" href="../../#l00547">LANG_GUILD_NOT_CREATED</a>, <a class="el" href="../../#l00127">LANG_GUILD_RENAME_ALREADY_EXISTS</a>, <a class="el" href="../../#l00546">LANG_PLAYER_IN_GUILD</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l00051">sGuildMgr</a>, and <a class="el" href="../../#l01644">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -808,7 +808,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  166</span>    }</div>
 <div class="ttc" id="aa09624_html_a4b1c1eae7f85a92e17ba48c4ac52f0c9"><div class="ttname"><a href="../../da/d6d/a09624.html#a4b1c1eae7f85a92e17ba48c4ac52f0c9">Guild::DeleteMember</a></div><div class="ttdeci">void DeleteMember(ObjectGuid guid, bool isDisbanding=false, bool isKicked=false, bool canDeleteGuild=false)</div><div class="ttdef"><b>Definition:</b> Guild.cpp:2262</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02262">Guild::DeleteMember()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l01887">Player::GetGuildId()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02262">Guild::DeleteMember()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l01890">Player::GetGuildId()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -820,7 +820,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dfa/a11924.html">guild_commandscript</a></li>
-    <li class="footer">Generated on Mon Jan 5 2026 20:54:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 12 2026 20:51:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

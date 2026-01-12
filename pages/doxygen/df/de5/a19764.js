@@ -1,9 +1,12 @@
 var a19764 =
 [
-    [ "npc_stormforged_lieutenant", "df/de5/a19764.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "df/de5/a19764.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "df/de5/a19764.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "df/de5/a19764.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "df/de5/a19764.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "df/de5/a19764.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "boss_ionar", "df/de5/a19764.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "df/de5/a19764.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "df/de5/a19764.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "df/de5/a19764.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "df/de5/a19764.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "df/de5/a19764.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "df/de5/a19764.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "df/de5/a19764.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "df/de5/a19764.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

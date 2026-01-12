@@ -5,7 +5,6 @@ var a08432 =
     [ "getFeralBonus", "d5/d3e/a08432.html#af5fb539abc35e3da632517535571bd76", null ],
     [ "GetItemLevelIncludingQuality", "d5/d3e/a08432.html#acd71cd1c7450919c45c492f6d9b103a6", null ],
     [ "GetMaxStackSize", "d5/d3e/a08432.html#a397d7a20deee4000f7692ba5e8eae176", null ],
-    [ "GetOnEquipSpellIDs", "d5/d3e/a08432.html#a29e3f96c05962442a95c99d6fc0ce94d", null ],
     [ "GetSkill", "d5/d3e/a08432.html#afd010d3d47ce9eece832f3e5690c3609", null ],
     [ "HasFlag", "d5/d3e/a08432.html#aa1ae3db197ca23fdd00f2f056bea12f7", null ],
     [ "HasFlag2", "d5/d3e/a08432.html#a8700ef8d4daab0aa628ade36d828534b", null ],

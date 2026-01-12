@@ -1,5 +1,6 @@
 var a19492 =
 [
-    [ "at_naxxramas_hub_portal", "dd/d36/a19492.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "dd/d36/a19492.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "boss_malygosAI", "d4/dc8/a19496.html", "d4/dc8/a19496" ],
+    [ "boss_malygos", "dd/d36/a19492.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
+    [ "GetAI", "dd/d36/a19492.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
 ];

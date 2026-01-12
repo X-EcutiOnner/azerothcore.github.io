@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['halaaids_0',['HalaaIds',['../d5/d7e/a22780.html',1,'']]],
+  ['halaaids_0',['HalaaIds',['../dc/d51/a22776.html',1,'']]],
   ['handlertotuple_1',['HandlerToTuple',['../d7/d0d/a07616.html',1,'Acore::Impl::ChatCommands']]],
   ['handlertotuple_3c_20bool_28chathandler_20_2a_2c_20ts_2e_2e_2e_29_3e_2',['HandlerToTuple&lt; bool(ChatHandler *, Ts...)&gt;',['../d1/d36/a07620.html',1,'Acore::Impl::ChatCommands']]],
   ['has_5ftype_3',['has_type',['../da/df1/a05668.html',1,'Acore']]],
@@ -18,7 +18,7 @@ var searchData=
   ['hidenpcevent_15',['HideNpcEvent',['../db/dc0/a16608.html',1,'']]],
   ['hithandler_16',['HitHandler',['../db/d70/a11532.html',1,'SpellScript']]],
   ['hittriggerspell_17',['HitTriggerSpell',['../df/dc6/a11384.html',1,'Spell']]],
-  ['hodirhelperdata_18',['HodirHelperData',['../d4/dae/a20392.html',1,'']]],
+  ['hodirhelperdata_18',['HodirHelperData',['../d9/dfc/a20388.html',1,'']]],
   ['holidaydatecalculator_19',['HolidayDateCalculator',['../d0/d96/a08924.html',1,'']]],
   ['holidaydatecalculatortest_20',['HolidayDateCalculatorTest',['../db/d5f/a28896.html',1,'']]],
   ['holidayrule_21',['HolidayRule',['../d8/d05/a08920.html',1,'']]],

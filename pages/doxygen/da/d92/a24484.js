@@ -1,9 +1,6 @@
 var a24484 =
 [
-    [ "npc_enraged_spiritAI", "da/d92/a24484.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "da/d92/a24484.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "da/d92/a24484.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "da/d92/a24484.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "da/d92/a24484.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "da/d92/a24484.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d2/d9d/a24488.html", "d2/d9d/a24488" ],
+    [ "npc_shadowmoon_tuber_node", "da/d92/a24484.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "da/d92/a24484.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

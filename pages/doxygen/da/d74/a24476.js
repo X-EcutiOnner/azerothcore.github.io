@@ -1,5 +1,6 @@
 var a24476 =
 [
-    [ "go_crystal_prison", "da/d74/a24476.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "da/d74/a24476.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "npc_enraged_spiritAI", "d6/da8/a24480.html", "d6/da8/a24480" ],
+    [ "npc_enraged_spirit", "da/d74/a24476.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "da/d74/a24476.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

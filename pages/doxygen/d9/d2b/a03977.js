@@ -1,7 +1,7 @@
 var a03977 =
 [
-    [ "DeathEvent", "d3/dff/a24684.html", "d3/dff/a24684" ],
-    [ "npc_pet_mage_mirror_image", "d5/d6b/a24688.html", "d5/d6b/a24688" ],
+    [ "DeathEvent", "db/d84/a24680.html", "db/d84/a24680" ],
+    [ "npc_pet_mage_mirror_image", "d3/dff/a24684.html", "d3/dff/a24684" ],
     [ "MageSpells", "d9/d2b/a03977.html#ab25cd6fd3bfda5736fd43f449c1b5124", [
       [ "SPELL_MAGE_CLONE_ME", "d9/d2b/a03977.html#ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635", null ],
       [ "SPELL_MAGE_MASTERS_THREAT_LIST", "d9/d2b/a03977.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f", null ],

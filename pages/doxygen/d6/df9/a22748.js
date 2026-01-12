@@ -1,5 +1,7 @@
 var a22748 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d6/df9/a22748.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d6/df9/a22748.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "OutdoorPvPGH", "d6/df9/a22748.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d6/df9/a22748.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d6/df9/a22748.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d6/df9/a22748.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

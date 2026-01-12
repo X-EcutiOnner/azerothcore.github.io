@@ -1,7 +1,9 @@
 var a22424 =
 [
-    [ "npc_engineer_heliceAI", "dc/d62/a22428.html", "dc/d62/a22428" ],
-    [ "npc_engineer_helice", "dd/db5/a22424.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "dd/db5/a22424.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "dd/db5/a22424.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_engineer_heliceAI", "dd/db5/a22424.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "dd/db5/a22424.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "dd/db5/a22424.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "dd/db5/a22424.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "dd/db5/a22424.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "dd/db5/a22424.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

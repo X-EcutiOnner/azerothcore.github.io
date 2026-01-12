@@ -1,5 +1,6 @@
 var a23336 =
 [
-    [ "PrepareSpellScript", "d3/dcb/a23336.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d3/dcb/a23336.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "boss_doomlordkazzakAI", "d9/d70/a23340.html", "d9/d70/a23340" ],
+    [ "boss_doomlord_kazzak", "d3/dcb/a23336.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d3/dcb/a23336.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

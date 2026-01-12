@@ -1,8 +1,7 @@
 var a19384 =
 [
-    [ "boss_maexxna_webwrapAI", "da/d29/a19384.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "da/d29/a19384.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "da/d29/a19384.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "da/d29/a19384.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "da/d29/a19384.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "OnPeriodic", "da/d29/a19384.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "da/d29/a19384.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "da/d29/a19384.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "da/d29/a19384.html#a54cfed486827216817adb740efa6646e", null ]
 ];

@@ -1,6 +1,9 @@
 var a22136 =
 [
-    [ "npc_mrfloppyAI", "df/df1/a22140.html", "df/df1/a22140" ],
-    [ "npc_mrfloppy", "d3/dc2/a22136.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d3/dc2/a22136.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_mrfloppyAI", "d3/dc2/a22136.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "d3/dc2/a22136.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "d3/dc2/a22136.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "d3/dc2/a22136.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "d3/dc2/a22136.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "d3/dc2/a22136.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

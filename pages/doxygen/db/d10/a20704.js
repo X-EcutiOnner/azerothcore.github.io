@@ -1,5 +1,6 @@
 var a20704 =
 [
-    [ "go_ulduar_do_not_push_this_button", "db/d10/a20704.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "db/d10/a20704.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "npc_ulduar_flames_initialAI", "d4/dca/a20708.html", "d4/dca/a20708" ],
+    [ "npc_ulduar_flames_initial", "db/d10/a20704.html#aee0c62a38e3e0958e015faef2c434273", null ],
+    [ "GetAI", "db/d10/a20704.html#ac0db78c361324a594220ad644001f4eb", null ]
 ];

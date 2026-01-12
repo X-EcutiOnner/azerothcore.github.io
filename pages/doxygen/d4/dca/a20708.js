@@ -1,6 +1,12 @@
 var a20708 =
 [
-    [ "npc_ulduar_flames_initialAI", "dd/d13/a20712.html", "dd/d13/a20712" ],
-    [ "npc_ulduar_flames_initial", "d4/dca/a20708.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d4/dca/a20708.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "npc_ulduar_flames_initialAI", "d4/dca/a20708.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "d4/dca/a20708.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "d4/dca/a20708.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "d4/dca/a20708.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "d4/dca/a20708.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "d4/dca/a20708.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "d4/dca/a20708.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "d4/dca/a20708.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "d4/dca/a20708.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

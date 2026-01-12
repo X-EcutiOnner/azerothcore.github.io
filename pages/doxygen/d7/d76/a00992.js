@@ -42,6 +42,7 @@ var a00992 =
       [ "CHARACTER_FLAG_UNK31", "d7/d76/a00992.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba", null ],
       [ "CHARACTER_FLAG_UNK32", "d7/d76/a00992.html#aaba5b1cb73e3834489f98e5f6f0fc6deaf4b59210a530d6a1c19fb816841c2258", null ]
     ] ],
+    [ "GetAnyFactionTemplateForFaction", "d7/d76/a00992.html#aaf34abebbe803c845754a0b3d9d408f4", null ],
     [ "copseReclaimDelay", "d7/d76/a00992.html#abc12a88106c15ea8ca079d4ddcf9c620", null ],
     [ "runeSlotTypes", "d7/d76/a00992.html#a3c9e0541a7758d9d6e543e883b89d62f", null ]
 ];

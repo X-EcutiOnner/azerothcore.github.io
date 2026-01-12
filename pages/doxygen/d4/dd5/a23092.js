@@ -1,7 +1,6 @@
 var a23092 =
 [
-    [ "PrepareAuraScript", "d4/dd5/a23092.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d4/dd5/a23092.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d4/dd5/a23092.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d4/dd5/a23092.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "HandleSharedRule", "d4/dd5/a23092.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d4/dd5/a23092.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d4/dd5/a23092.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

@@ -1,14 +1,9 @@
 var a22544 =
 [
-    [ "npc_wild_wyrm", "d6/d2e/a22544.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "d6/d2e/a22544.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "d6/d2e/a22544.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "d6/d2e/a22544.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "d6/d2e/a22544.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "d6/d2e/a22544.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "d6/d2e/a22544.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "d6/d2e/a22544.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "d6/d2e/a22544.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "d6/d2e/a22544.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "d6/d2e/a22544.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "HandlePeriodic", "d6/d2e/a22544.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d6/d2e/a22544.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d6/d2e/a22544.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d6/d2e/a22544.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d6/d2e/a22544.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d6/d2e/a22544.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

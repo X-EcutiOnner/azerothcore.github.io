@@ -1,7 +1,6 @@
 var a24388 =
 [
-    [ "HandleEffectApply", "de/d7c/a24388.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "de/d7c/a24388.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "de/d7c/a24388.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "de/d7c/a24388.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_invis_infernal_casterAI", "d7/d76/a24392.html", "d7/d76/a24392" ],
+    [ "npc_invis_infernal_caster", "de/d7c/a24388.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "de/d7c/a24388.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

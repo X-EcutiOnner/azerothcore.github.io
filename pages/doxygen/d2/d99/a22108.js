@@ -1,8 +1,6 @@
 var a22108 =
 [
-    [ "AfterApply", "d2/d99/a22108.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d2/d99/a22108.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d2/d99/a22108.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d2/d99/a22108.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d2/d99/a22108.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "HandleScriptEffect", "d2/d99/a22108.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "d2/d99/a22108.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "d2/d99/a22108.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

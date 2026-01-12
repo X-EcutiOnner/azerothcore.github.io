@@ -1,6 +1,5 @@
 var a20288 =
 [
-    [ "boss_freya_iron_rootAI", "d5/dda/a20292.html", "d5/dda/a20292" ],
-    [ "boss_freya_iron_root", "d3/d6f/a20288.html#a9478144d6cb72d08698cbfc50893935b", null ],
-    [ "GetAI", "d3/d6f/a20288.html#acdda736e9259d59a30a40d989e70f95c", null ]
+    [ "boss_freya_iron_rootAI", "d3/d6f/a20288.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "d3/d6f/a20288.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

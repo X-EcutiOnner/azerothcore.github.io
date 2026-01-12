@@ -1,5 +1,5 @@
 var a21284 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "db/d4d/a21284.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "db/d4d/a21284.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "npc_salvaged_siege_engine", "db/d4d/a21284.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "db/d4d/a21284.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

@@ -36,7 +36,7 @@ var searchData=
   ['enumtext_33',['EnumText',['../d0/d38/a05588.html',1,'']]],
   ['enumutils_34',['EnumUtils',['../dd/d8d/a05592.html',1,'Acore::Impl::EnumUtilsImpl::EnumUtils&lt; Enum &gt;'],['../d8/d23/a05596.html',1,'EnumUtils']]],
   ['environmentaldamagelog_35',['EnvironmentalDamageLog',['../da/dbd/a10640.html',1,'WorldPackets::CombatLog']]],
-  ['eoedrakeentervehicleevent_36',['EoEDrakeEnterVehicleEvent',['../dc/d77/a19568.html',1,'']]],
+  ['eoedrakeentervehicleevent_36',['EoEDrakeEnterVehicleEvent',['../dc/d58/a19564.html',1,'']]],
   ['equipmentinfo_37',['EquipmentInfo',['../d9/da2/a08128.html',1,'']]],
   ['equipmentset_38',['EquipmentSet',['../dd/df9/a08668.html',1,'']]],
   ['escort_5fwaypoint_39',['Escort_Waypoint',['../d5/d2a/a06312.html',1,'']]],

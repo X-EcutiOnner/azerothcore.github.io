@@ -1,6 +1,5 @@
 var a22396 =
 [
-    [ "npc_mcmanus", "d7/d1c/a22396.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d7/d1c/a22396.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d7/d1c/a22396.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "go_pressure_valve", "d7/d1c/a22396.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d7/d1c/a22396.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

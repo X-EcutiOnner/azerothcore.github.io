@@ -1,8 +1,6 @@
 var a24448 =
 [
-    [ "CreatureId", "dd/d63/a24448.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "dd/d63/a24448.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "dd/d63/a24448.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "dd/d63/a24448.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "dd/d63/a24448.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_torloth_the_magnificentAI", "d8/d7d/a24452.html", "d8/d7d/a24452" ],
+    [ "npc_torloth_the_magnificent", "dd/d63/a24448.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "dd/d63/a24448.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

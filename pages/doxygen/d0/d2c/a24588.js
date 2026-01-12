@@ -1,6 +1,6 @@
 var a24588 =
 [
-    [ "go_ancient_skull_pile", "d0/d2c/a24588.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d0/d2c/a24588.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d0/d2c/a24588.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_slim", "d0/d2c/a24588.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d0/d2c/a24588.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d0/d2c/a24588.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

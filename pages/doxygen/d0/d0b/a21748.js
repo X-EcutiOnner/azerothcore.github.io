@@ -1,6 +1,5 @@
 var a21748 =
 [
-    [ "npc_nerubar_victimAI", "da/d4e/a21752.html", "da/d4e/a21752" ],
-    [ "npc_nerubar_victim", "d0/d0b/a21748.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d0/d0b/a21748.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_nerubar_victimAI", "d0/d0b/a21748.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "d0/d0b/a21748.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

@@ -1,6 +1,6 @@
 var a20668 =
 [
-    [ "HandleDamage", "df/d4a/a20668.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "df/d4a/a20668.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "df/d4a/a20668.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d6/dfa/a20672.html", "d6/dfa/a20672" ],
+    [ "npc_ulduar_mimiron_rocket", "df/d4a/a20668.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
+    [ "GetAI", "df/d4a/a20668.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
 ];

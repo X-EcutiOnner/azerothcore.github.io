@@ -1,10 +1,6 @@
 var a21688 =
 [
-    [ "npc_azure_spellbreakerAI", "dc/d97/a21688.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
-    [ "Reset", "dc/d97/a21688.html#a731ff2d4311359145c353de2d91935c8", null ],
-    [ "UpdateAI", "dc/d97/a21688.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
-    [ "uiArcaneBlastTimer", "dc/d97/a21688.html#a1e752971a31c7d3415c1820eb3574a98", null ],
-    [ "uiChainsOfIceTimer", "dc/d97/a21688.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
-    [ "uiConeOfColdTimer", "dc/d97/a21688.html#a4970c7459b044b08bf36e17c703395fb", null ],
-    [ "uiSlowTimer", "dc/d97/a21688.html#a2a02b42ec104cfb6682782a80f813eef", null ]
+    [ "npc_azure_captainAI", "d5/d25/a21692.html", "d5/d25/a21692" ],
+    [ "npc_azure_captain", "dc/d97/a21688.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
+    [ "GetAI", "dc/d97/a21688.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
 ];

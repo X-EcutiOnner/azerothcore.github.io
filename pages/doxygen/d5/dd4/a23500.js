@@ -1,6 +1,6 @@
 var a23500 =
 [
-    [ "HandleApplyAura", "d5/dd4/a23500.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d5/dd4/a23500.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d5/dd4/a23500.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleEffectRemove", "d5/dd4/a23500.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "d5/dd4/a23500.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "d5/dd4/a23500.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

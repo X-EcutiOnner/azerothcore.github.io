@@ -1,5 +1,6 @@
 var a19980 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "df/d0c/a19980.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "df/d0c/a19980.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "boss_steelbreakerAI", "d2/dab/a19984.html", "d2/dab/a19984" ],
+    [ "boss_steelbreaker", "df/d0c/a19980.html#af6e4c3729874e59959b35ca67a46aa44", null ],
+    [ "GetAI", "df/d0c/a19980.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
 ];

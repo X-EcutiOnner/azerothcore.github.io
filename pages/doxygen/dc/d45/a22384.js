@@ -1,6 +1,6 @@
 var a22384 =
 [
-    [ "HandleHealPct", "dc/d45/a22384.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "dc/d45/a22384.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "dc/d45/a22384.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_still_at_it_triggerAI", "db/ddd/a22388.html", "db/ddd/a22388" ],
+    [ "npc_still_at_it_trigger", "dc/d45/a22384.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "dc/d45/a22384.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

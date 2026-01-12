@@ -1,6 +1,8 @@
 var a20680 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d3/d48/a20684.html", "d3/d48/a20684" ],
-    [ "npc_ulduar_magnetic_core", "d2/da6/a20680.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "d2/da6/a20680.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d2/da6/a20680.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "d2/da6/a20680.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "d2/da6/a20680.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "d2/da6/a20680.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "d2/da6/a20680.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

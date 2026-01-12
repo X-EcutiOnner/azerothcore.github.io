@@ -399,6 +399,9 @@ var a00971 =
     [ "PlayerRestState", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8", [
       [ "REST_STATE_RESTED", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8a43e609d4309527a1344f62f72ac6a861", null ],
       [ "REST_STATE_NOT_RAF_LINKED", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8ac2c1ad4aa095c43d0bd16933f220dae7", null ],
+      [ "REST_STATE_TIRED", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8afc7efd23ff0edf69afb19cd7693e5458", null ],
+      [ "REST_STATE_TIRED_XP_REDUCED", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8aa7961aaee21c2163c3a469466df31e31", null ],
+      [ "REST_STATE_EXHAUSTED", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8a6abdf6cebfe85232112179194ae97647", null ],
       [ "REST_STATE_RAF_LINKED", "d0/d3c/a00971.html#ab6046cc6e043004b533c669be1dc95a8a756758e20568fa43014daae863cf07d1", null ]
     ] ],
     [ "PlayerSlots", "d0/d3c/a00971.html#af59383be59ca1d77ff918e40494cc38b", [

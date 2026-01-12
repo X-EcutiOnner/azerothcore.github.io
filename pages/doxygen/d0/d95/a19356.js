@@ -1,7 +1,6 @@
 var a19356 =
 [
-    [ "HandleScript", "d0/d95/a19356.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d0/d95/a19356.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d0/d95/a19356.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d0/d95/a19356.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_loathebAI", "d6/d68/a19360.html", "d6/d68/a19360" ],
+    [ "boss_loatheb", "d0/d95/a19356.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "d0/d95/a19356.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

@@ -124,8 +124,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a42069b477ed74c043460bf09ff8c2641"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a397d7a20deee4000f7692ba5e8eae176"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#a397d7a20deee4000f7692ba5e8eae176">GetMaxStackSize</a> () const</td></tr>
 <tr class="separator:a397d7a20deee4000f7692ba5e8eae176"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29e3f96c05962442a95c99d6fc0ce94d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#a29e3f96c05962442a95c99d6fc0ce94d">GetOnEquipSpellIDs</a> (std::vector&lt; <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &amp;spellEquipID) const</td></tr>
-<tr class="separator:a29e3f96c05962442a95c99d6fc0ce94d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aed5d5d9593e37555340aaca41aefa7e1"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#aed5d5d9593e37555340aaca41aefa7e1">getDPS</a> () const</td></tr>
 <tr class="separator:aed5d5d9593e37555340aaca41aefa7e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5fb539abc35e3da632517535571bd76"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#af5fb539abc35e3da632517535571bd76">getFeralBonus</a> (<a class="el" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> extraDPS=0) const</td></tr>
@@ -384,20 +382,20 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  741</span>    {</div>
-<div class="line"><span class="lineno">  742</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ace3f09ec171d1db3dc6d6cae57306506">Delay</a> == 0)</div>
-<div class="line"><span class="lineno">  743</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  744</span>        <span class="keywordtype">float</span> temp = 0;</div>
-<div class="line"><span class="lineno">  745</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> i : <a class="code hl_variable" href="../../d5/d3e/a08432.html#a354cb3f35de3d97a10c6fccd4debb003">Damage</a>)</div>
-<div class="line"><span class="lineno">  746</span>            temp += i.DamageMin + i.DamageMax;</div>
-<div class="line"><span class="lineno">  747</span>        <span class="keywordflow">return</span> temp * 500 / <a class="code hl_variable" href="../../d5/d3e/a08432.html#ace3f09ec171d1db3dc6d6cae57306506">Delay</a>;</div>
-<div class="line"><span class="lineno">  748</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  733</span>    {</div>
+<div class="line"><span class="lineno">  734</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ace3f09ec171d1db3dc6d6cae57306506">Delay</a> == 0)</div>
+<div class="line"><span class="lineno">  735</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  736</span>        <span class="keywordtype">float</span> temp = 0;</div>
+<div class="line"><span class="lineno">  737</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> i : <a class="code hl_variable" href="../../d5/d3e/a08432.html#a354cb3f35de3d97a10c6fccd4debb003">Damage</a>)</div>
+<div class="line"><span class="lineno">  738</span>            temp += i.DamageMin + i.DamageMax;</div>
+<div class="line"><span class="lineno">  739</span>        <span class="keywordflow">return</span> temp * 500 / <a class="code hl_variable" href="../../d5/d3e/a08432.html#ace3f09ec171d1db3dc6d6cae57306506">Delay</a>;</div>
+<div class="line"><span class="lineno">  740</span>    }</div>
 <div class="ttc" id="aa08432_html_a354cb3f35de3d97a10c6fccd4debb003"><div class="ttname"><a href="../../d5/d3e/a08432.html#a354cb3f35de3d97a10c6fccd4debb003">ItemTemplate::Damage</a></div><div class="ttdeci">_Damage Damage[MAX_ITEM_PROTO_DAMAGES]</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:651</div></div>
 <div class="ttc" id="aa08432_html_ace3f09ec171d1db3dc6d6cae57306506"><div class="ttname"><a href="../../d5/d3e/a08432.html#ace3f09ec171d1db3dc6d6cae57306506">ItemTemplate::Delay</a></div><div class="ttdeci">uint32 Delay</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:659</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00651">Damage</a>, and <a class="el" href="../../#l00659">Delay</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00750">getFeralBonus()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00742">getFeralBonus()</a>.</p>
 
 </div>
 </div>
@@ -424,30 +422,30 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  751</span>    {</div>
-<div class="line"><span class="lineno">  752</span>        <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> feralApEnabledInventoryTypeMaks = 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1a954063f623e72c620604b459c26c4ad3">INVTYPE_WEAPON</a> | 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1aa6021d97341d71ee92c4bdd366c1491d">INVTYPE_2HWEAPON</a> | 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1a9d412d648bbc325ddfdb468222f605e1">INVTYPE_WEAPONMAINHAND</a> | 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1aa3df49ccbc9b10700cab1815f60aab62">INVTYPE_WEAPONOFFHAND</a>;</div>
-<div class="line"><span class="lineno">  753</span> </div>
-<div class="line"><span class="lineno">  754</span>        <span class="comment">// 0x02A5F3 - is mask for Melee weapon from ItemSubClassMask.dbc</span></div>
-<div class="line"><span class="lineno">  755</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a> &amp;&amp; (1 &lt;&lt; <a class="code hl_enumeration" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1">InventoryType</a>) &amp; feralApEnabledInventoryTypeMaks)</div>
-<div class="line"><span class="lineno">  756</span>        {</div>
-<div class="line"><span class="lineno">  757</span>            <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> bonus = <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>((extraDPS + <a class="code hl_function" href="../../d5/d3e/a08432.html#aed5d5d9593e37555340aaca41aefa7e1">getDPS</a>()) * 14.0f) - 767;</div>
-<div class="line"><span class="lineno">  758</span>            <span class="keywordflow">if</span> (bonus &lt; 0)</div>
-<div class="line"><span class="lineno">  759</span>                <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  760</span>            <span class="keywordflow">return</span> bonus;</div>
-<div class="line"><span class="lineno">  761</span>        }</div>
-<div class="line"><span class="lineno">  762</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  763</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  743</span>    {</div>
+<div class="line"><span class="lineno">  744</span>        <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> feralApEnabledInventoryTypeMaks = 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1a954063f623e72c620604b459c26c4ad3">INVTYPE_WEAPON</a> | 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1aa6021d97341d71ee92c4bdd366c1491d">INVTYPE_2HWEAPON</a> | 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1a9d412d648bbc325ddfdb468222f605e1">INVTYPE_WEAPONMAINHAND</a> | 1 &lt;&lt; <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1aa3df49ccbc9b10700cab1815f60aab62">INVTYPE_WEAPONOFFHAND</a>;</div>
+<div class="line"><span class="lineno">  745</span> </div>
+<div class="line"><span class="lineno">  746</span>        <span class="comment">// 0x02A5F3 - is mask for Melee weapon from ItemSubClassMask.dbc</span></div>
+<div class="line"><span class="lineno">  747</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a> &amp;&amp; (1 &lt;&lt; <a class="code hl_enumeration" href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1">InventoryType</a>) &amp; feralApEnabledInventoryTypeMaks)</div>
+<div class="line"><span class="lineno">  748</span>        {</div>
+<div class="line"><span class="lineno">  749</span>            <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> bonus = <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>((extraDPS + <a class="code hl_function" href="../../d5/d3e/a08432.html#aed5d5d9593e37555340aaca41aefa7e1">getDPS</a>()) * 14.0f) - 767;</div>
+<div class="line"><span class="lineno">  750</span>            <span class="keywordflow">if</span> (bonus &lt; 0)</div>
+<div class="line"><span class="lineno">  751</span>                <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  752</span>            <span class="keywordflow">return</span> bonus;</div>
+<div class="line"><span class="lineno">  753</span>        }</div>
+<div class="line"><span class="lineno">  754</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  755</span>    }</div>
 <div class="ttc" id="aa00788_html_a2793ea198e8b328078cf49008fa1d5b1a954063f623e72c620604b459c26c4ad3"><div class="ttname"><a href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1a954063f623e72c620604b459c26c4ad3">INVTYPE_WEAPON</a></div><div class="ttdeci">@ INVTYPE_WEAPON</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:269</div></div>
 <div class="ttc" id="aa00788_html_a2793ea198e8b328078cf49008fa1d5b1a9d412d648bbc325ddfdb468222f605e1"><div class="ttname"><a href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1a9d412d648bbc325ddfdb468222f605e1">INVTYPE_WEAPONMAINHAND</a></div><div class="ttdeci">@ INVTYPE_WEAPONMAINHAND</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:277</div></div>
 <div class="ttc" id="aa00788_html_a2793ea198e8b328078cf49008fa1d5b1aa3df49ccbc9b10700cab1815f60aab62"><div class="ttname"><a href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1aa3df49ccbc9b10700cab1815f60aab62">INVTYPE_WEAPONOFFHAND</a></div><div class="ttdeci">@ INVTYPE_WEAPONOFFHAND</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:278</div></div>
 <div class="ttc" id="aa00788_html_a2793ea198e8b328078cf49008fa1d5b1aa6021d97341d71ee92c4bdd366c1491d"><div class="ttname"><a href="../../df/d0c/a00788.html#a2793ea198e8b328078cf49008fa1d5b1aa6021d97341d71ee92c4bdd366c1491d">INVTYPE_2HWEAPON</a></div><div class="ttdeci">@ INVTYPE_2HWEAPON</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:273</div></div>
 <div class="ttc" id="aa04331_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
 <div class="ttc" id="aa04331_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa08432_html_aed5d5d9593e37555340aaca41aefa7e1"><div class="ttname"><a href="../../d5/d3e/a08432.html#aed5d5d9593e37555340aaca41aefa7e1">ItemTemplate::getDPS</a></div><div class="ttdeci">float getDPS() const</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:740</div></div>
+<div class="ttc" id="aa08432_html_aed5d5d9593e37555340aaca41aefa7e1"><div class="ttname"><a href="../../d5/d3e/a08432.html#aed5d5d9593e37555340aaca41aefa7e1">ItemTemplate::getDPS</a></div><div class="ttdeci">float getDPS() const</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:732</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00740">getDPS()</a>, <a class="el" href="../../#l00273">INVTYPE_2HWEAPON</a>, <a class="el" href="../../#l00269">INVTYPE_WEAPON</a>, <a class="el" href="../../#l00277">INVTYPE_WEAPONMAINHAND</a>, <a class="el" href="../../#l00278">INVTYPE_WEAPONOFFHAND</a>, and <a class="el" href="../../#l00293">ITEM_CLASS_WEAPON</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00732">getDPS()</a>, <a class="el" href="../../#l00273">INVTYPE_2HWEAPON</a>, <a class="el" href="../../#l00269">INVTYPE_WEAPON</a>, <a class="el" href="../../#l00277">INVTYPE_WEAPONMAINHAND</a>, <a class="el" href="../../#l00278">INVTYPE_WEAPONOFFHAND</a>, and <a class="el" href="../../#l00293">ITEM_CLASS_WEAPON</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -474,29 +472,29 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  766</span>    {</div>
-<div class="line"><span class="lineno">  767</span>        <span class="keyword">auto</span> itemLevel = (float)<a class="code hl_variable" href="../../d5/d3e/a08432.html#a21d62ad4a38e5a84305cf783c27c1d39">ItemLevel</a>;</div>
-<div class="line"><span class="lineno">  768</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#a1b4b51353503f83db3be63f5a5786a1f">Quality</a>)</div>
-<div class="line"><span class="lineno">  769</span>        {</div>
-<div class="line"><span class="lineno">  770</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a8598431141ba53f11c1dcd2f903b5175">ITEM_QUALITY_POOR</a>:</div>
-<div class="line"><span class="lineno">  771</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a5fb1edb2b643d3d677930d045a552d3f">ITEM_QUALITY_NORMAL</a>:</div>
-<div class="line"><span class="lineno">  772</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a034177b9460b4065321013cceb4df277">ITEM_QUALITY_UNCOMMON</a>:</div>
-<div class="line"><span class="lineno">  773</span>                itemLevel -= 26.0f;</div>
-<div class="line"><span class="lineno">  774</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  775</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a5bdfb2a35587ab1272d24c8dffcf849d">ITEM_QUALITY_RARE</a>:</div>
-<div class="line"><span class="lineno">  776</span>                itemLevel -= 13.0f;</div>
+<div class="fragment"><div class="line"><span class="lineno">  758</span>    {</div>
+<div class="line"><span class="lineno">  759</span>        <span class="keyword">auto</span> itemLevel = (float)<a class="code hl_variable" href="../../d5/d3e/a08432.html#a21d62ad4a38e5a84305cf783c27c1d39">ItemLevel</a>;</div>
+<div class="line"><span class="lineno">  760</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#a1b4b51353503f83db3be63f5a5786a1f">Quality</a>)</div>
+<div class="line"><span class="lineno">  761</span>        {</div>
+<div class="line"><span class="lineno">  762</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a8598431141ba53f11c1dcd2f903b5175">ITEM_QUALITY_POOR</a>:</div>
+<div class="line"><span class="lineno">  763</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a5fb1edb2b643d3d677930d045a552d3f">ITEM_QUALITY_NORMAL</a>:</div>
+<div class="line"><span class="lineno">  764</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a034177b9460b4065321013cceb4df277">ITEM_QUALITY_UNCOMMON</a>:</div>
+<div class="line"><span class="lineno">  765</span>                itemLevel -= 26.0f;</div>
+<div class="line"><span class="lineno">  766</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  767</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a5bdfb2a35587ab1272d24c8dffcf849d">ITEM_QUALITY_RARE</a>:</div>
+<div class="line"><span class="lineno">  768</span>                itemLevel -= 13.0f;</div>
+<div class="line"><span class="lineno">  769</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  770</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a6cdde8294427dd2821daae1215052e39">ITEM_QUALITY_HEIRLOOM</a>:</div>
+<div class="line"><span class="lineno">  771</span>                itemLevel = pLevel * 2.33f;</div>
+<div class="line"><span class="lineno">  772</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  773</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021af237157bd894c3f26f3f821f28f5f1bf">ITEM_QUALITY_ARTIFACT</a>:</div>
+<div class="line"><span class="lineno">  774</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021aff8031480ccc27818d93e34ae1de8723">ITEM_QUALITY_EPIC</a>:</div>
+<div class="line"><span class="lineno">  775</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a62ca005289b46a8bf1bd633f7440b4a4">ITEM_QUALITY_LEGENDARY</a>:</div>
+<div class="line"><span class="lineno">  776</span>            <span class="keywordflow">default</span>:</div>
 <div class="line"><span class="lineno">  777</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  778</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a6cdde8294427dd2821daae1215052e39">ITEM_QUALITY_HEIRLOOM</a>:</div>
-<div class="line"><span class="lineno">  779</span>                itemLevel = pLevel * 2.33f;</div>
-<div class="line"><span class="lineno">  780</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  781</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021af237157bd894c3f26f3f821f28f5f1bf">ITEM_QUALITY_ARTIFACT</a>:</div>
-<div class="line"><span class="lineno">  782</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021aff8031480ccc27818d93e34ae1de8723">ITEM_QUALITY_EPIC</a>:</div>
-<div class="line"><span class="lineno">  783</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a62ca005289b46a8bf1bd633f7440b4a4">ITEM_QUALITY_LEGENDARY</a>:</div>
-<div class="line"><span class="lineno">  784</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  785</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  786</span>        }</div>
-<div class="line"><span class="lineno">  787</span>        <span class="keywordflow">return</span> std::max&lt;float&gt;(0.f, itemLevel);</div>
-<div class="line"><span class="lineno">  788</span>    }</div>
+<div class="line"><span class="lineno">  778</span>        }</div>
+<div class="line"><span class="lineno">  779</span>        <span class="keywordflow">return</span> std::max&lt;float&gt;(0.f, itemLevel);</div>
+<div class="line"><span class="lineno">  780</span>    }</div>
 <div class="ttc" id="aa04121_html_a7263b8afa7134894f236b37cc146d021a034177b9460b4065321013cceb4df277"><div class="ttname"><a href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a034177b9460b4065321013cceb4df277">ITEM_QUALITY_UNCOMMON</a></div><div class="ttdeci">@ ITEM_QUALITY_UNCOMMON</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:342</div></div>
 <div class="ttc" id="aa04121_html_a7263b8afa7134894f236b37cc146d021a5bdfb2a35587ab1272d24c8dffcf849d"><div class="ttname"><a href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a5bdfb2a35587ab1272d24c8dffcf849d">ITEM_QUALITY_RARE</a></div><div class="ttdeci">@ ITEM_QUALITY_RARE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:343</div></div>
 <div class="ttc" id="aa04121_html_a7263b8afa7134894f236b37cc146d021a5fb1edb2b643d3d677930d045a552d3f"><div class="ttname"><a href="../../d0/dd3/a04121.html#a7263b8afa7134894f236b37cc146d021a5fb1edb2b643d3d677930d045a552d3f">ITEM_QUALITY_NORMAL</a></div><div class="ttdeci">@ ITEM_QUALITY_NORMAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:341</div></div>
@@ -510,7 +508,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00346">ITEM_QUALITY_ARTIFACT</a>, <a class="el" href="../../#l00344">ITEM_QUALITY_EPIC</a>, <a class="el" href="../../#l00347">ITEM_QUALITY_HEIRLOOM</a>, <a class="el" href="../../#l00345">ITEM_QUALITY_LEGENDARY</a>, <a class="el" href="../../#l00341">ITEM_QUALITY_NORMAL</a>, <a class="el" href="../../#l00340">ITEM_QUALITY_POOR</a>, <a class="el" href="../../#l00343">ITEM_QUALITY_RARE</a>, <a class="el" href="../../#l00342">ITEM_QUALITY_UNCOMMON</a>, <a class="el" href="../../#l00635">ItemLevel</a>, and <a class="el" href="../../#l00626">Quality</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l15773">Player::GetAverageItemLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l15793">Player::GetAverageItemLevel()</a>.</p>
 
 </div>
 </div>
@@ -543,43 +541,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00645">Stackable</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05964">Player::_LoadItem()</a>, <a class="el" href="../../#l10594">Player::_StoreOrEquipNewItem()</a>, <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l00867">Item::CanBeMergedPartlyWith()</a>, <a class="el" href="../../#l00982">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01052">Player::CanStoreItem_InInventorySlots()</a>, <a class="el" href="../../#l00911">Player::CanStoreItem_InSpecificSlot()</a>, <a class="el" href="../../#l01541">Player::CanStoreItems()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l01087">Item::CreateItem()</a>, <a class="el" href="../../#l01647">Spell::DoCreateItem()</a>, <a class="el" href="../../#l00274">Item::GetMaxStackCount()</a>, <a class="el" href="../../#l00053">send_commandscript::HandleSendItemsCommand()</a>, <a class="el" href="../../#l00697">HasSignature()</a>, <a class="el" href="../../#l00444">Player::SendItemRetrievalMail()</a>, <a class="el" href="../../#l02538">Player::StoreNewItem()</a>, and <a class="el" href="../../#l03532">Player::SwapItem()</a>.</p>
-
-</div>
-</div>
-<a id="a29e3f96c05962442a95c99d6fc0ce94d" name="a29e3f96c05962442a95c99d6fc0ce94d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29e3f96c05962442a95c99d6fc0ce94d">&#9670;&#160;</a></span>GetOnEquipSpellIDs()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ItemTemplate::GetOnEquipSpellIDs </td>
-          <td>(</td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>spellEquipID</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  733</span>    {</div>
-<div class="line"><span class="lineno">  734</span>        spellEquipID.clear();</div>
-<div class="line"><span class="lineno">  735</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; spell : <a class="code hl_enumeration" href="../../dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298c">Spells</a>)</div>
-<div class="line"><span class="lineno">  736</span>            <span class="keywordflow">if</span> (spell.SpellId &amp;&amp; spell.SpellTrigger == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3bfa836d976fdf7da1d483c51f5e7d18aff0ed705054e211b2f179577a7b4f193">ITEM_SPELLTRIGGER_ON_EQUIP</a>)</div>
-<div class="line"><span class="lineno">  737</span>                spellEquipID.push_back(spell.SpellId);</div>
-<div class="line"><span class="lineno">  738</span>    }</div>
-<div class="ttc" id="aa00365_html_a5bd342133be8c2137b831460acc9298c"><div class="ttname"><a href="../../dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298c">Spells</a></div><div class="ttdeci">Spells</div><div class="ttdef"><b>Definition:</b> BattlegroundIC.h:712</div></div>
-<div class="ttc" id="aa00788_html_a3bfa836d976fdf7da1d483c51f5e7d18aff0ed705054e211b2f179577a7b4f193"><div class="ttname"><a href="../../df/d0c/a00788.html#a3bfa836d976fdf7da1d483c51f5e7d18aff0ed705054e211b2f179577a7b4f193">ITEM_SPELLTRIGGER_ON_EQUIP</a></div><div class="ttdeci">@ ITEM_SPELLTRIGGER_ON_EQUIP</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:78</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">ITEM_SPELLTRIGGER_ON_EQUIP</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05964">Player::_LoadItem()</a>, <a class="el" href="../../#l10614">Player::_StoreOrEquipNewItem()</a>, <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l00867">Item::CanBeMergedPartlyWith()</a>, <a class="el" href="../../#l00982">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01052">Player::CanStoreItem_InInventorySlots()</a>, <a class="el" href="../../#l00911">Player::CanStoreItem_InSpecificSlot()</a>, <a class="el" href="../../#l01541">Player::CanStoreItems()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l01087">Item::CreateItem()</a>, <a class="el" href="../../#l01647">Spell::DoCreateItem()</a>, <a class="el" href="../../#l00274">Item::GetMaxStackCount()</a>, <a class="el" href="../../#l00053">send_commandscript::HandleSendItemsCommand()</a>, <a class="el" href="../../#l00697">HasSignature()</a>, <a class="el" href="../../#l00444">Player::SendItemRetrievalMail()</a>, <a class="el" href="../../#l02538">Player::StoreNewItem()</a>, and <a class="el" href="../../#l03532">Player::SwapItem()</a>.</p>
 
 </div>
 </div>
@@ -605,39 +567,39 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  791</span>    {</div>
-<div class="line"><span class="lineno">  792</span>        <span class="keyword">const</span> <span class="keyword">static</span> <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> item_weapon_skills[<a class="code hl_define" href="../../df/d0c/a00788.html#ad4143b84df046037bfee860169e703a7">MAX_ITEM_SUBCLASS_WEAPON</a>] =</div>
-<div class="line"><span class="lineno">  793</span>        {</div>
-<div class="line"><span class="lineno">  794</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ad59e63d42cf04a8182bd727d0cef8e79">SKILL_AXES</a>,     <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a8cb08b915e864248b8726623b4788e57">SKILL_2H_AXES</a>,  <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a01521ec4d478c983ac2ffe8484791817">SKILL_BOWS</a>,          <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a5283fe7140d101b9a2f45ffc629db043">SKILL_GUNS</a>,      <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a2626a63dd78da4e08d53b1eea309e985">SKILL_MACES</a>,</div>
-<div class="line"><span class="lineno">  795</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ad4887373789fceb2d371eb5f8c54fcfd">SKILL_2H_MACES</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a9bf162f0974f32fa7edebd32d7186aa2">SKILL_POLEARMS</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a7fc965f6ba4cb5b4025e9370631fe9df">SKILL_SWORDS</a>,        <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ac351469685920eb4ca613b2037837f80">SKILL_2H_SWORDS</a>, 0,</div>
-<div class="line"><span class="lineno">  796</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ae66f5a6ca5a2437671d580a7ce2ba4f1">SKILL_STAVES</a>,   0,              0,                   <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ad08c23308d2cd77b9c019e72ad4f1de6">SKILL_FIST_WEAPONS</a>,   0,</div>
-<div class="line"><span class="lineno">  797</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a851956fe708e7dabc6c7279b8d98fa41">SKILL_DAGGERS</a>,  <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a6cc4cffd069af5ce97225e9bcdb353cd">SKILL_THROWN</a>,   <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234afa0f4403c5efc3943b300132b7d57a62">SKILL_ASSASSINATION</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a6ae603722a8bd83d350d2e06bbade84e">SKILL_CROSSBOWS</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a4a784291e0b65cdb19d096606a6ffae9">SKILL_WANDS</a>,</div>
-<div class="line"><span class="lineno">  798</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a78e98ad033b1ec8bbfd59816600aa4d1">SKILL_FISHING</a></div>
-<div class="line"><span class="lineno">  799</span>        };</div>
-<div class="line"><span class="lineno">  800</span> </div>
-<div class="line"><span class="lineno">  801</span>        <span class="keyword">const</span> <span class="keyword">static</span> <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> item_armor_skills[<a class="code hl_define" href="../../df/d0c/a00788.html#a5e3522824084a3eb818148f51174a3e5">MAX_ITEM_SUBCLASS_ARMOR</a>] =</div>
-<div class="line"><span class="lineno">  802</span>        {</div>
-<div class="line"><span class="lineno">  803</span>            0, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a950c4c27770648d699f9e09c9474a406">SKILL_CLOTH</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a32a526cf1040a3f69bd10a816fd3a9a1">SKILL_LEATHER</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234acb8a9da6d4c5d6f26888ace89d35ab7e">SKILL_MAIL</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a2e3e4e2fc6d9347842b7ab76d9d3e0d6">SKILL_PLATE_MAIL</a>, 0, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a668843b975482c5141aef3891bf8dc18">SKILL_SHIELD</a>, 0, 0, 0, 0</div>
-<div class="line"><span class="lineno">  804</span>        };</div>
+<div class="fragment"><div class="line"><span class="lineno">  783</span>    {</div>
+<div class="line"><span class="lineno">  784</span>        <span class="keyword">const</span> <span class="keyword">static</span> <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> item_weapon_skills[<a class="code hl_define" href="../../df/d0c/a00788.html#ad4143b84df046037bfee860169e703a7">MAX_ITEM_SUBCLASS_WEAPON</a>] =</div>
+<div class="line"><span class="lineno">  785</span>        {</div>
+<div class="line"><span class="lineno">  786</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ad59e63d42cf04a8182bd727d0cef8e79">SKILL_AXES</a>,     <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a8cb08b915e864248b8726623b4788e57">SKILL_2H_AXES</a>,  <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a01521ec4d478c983ac2ffe8484791817">SKILL_BOWS</a>,          <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a5283fe7140d101b9a2f45ffc629db043">SKILL_GUNS</a>,      <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a2626a63dd78da4e08d53b1eea309e985">SKILL_MACES</a>,</div>
+<div class="line"><span class="lineno">  787</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ad4887373789fceb2d371eb5f8c54fcfd">SKILL_2H_MACES</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a9bf162f0974f32fa7edebd32d7186aa2">SKILL_POLEARMS</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a7fc965f6ba4cb5b4025e9370631fe9df">SKILL_SWORDS</a>,        <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ac351469685920eb4ca613b2037837f80">SKILL_2H_SWORDS</a>, 0,</div>
+<div class="line"><span class="lineno">  788</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ae66f5a6ca5a2437671d580a7ce2ba4f1">SKILL_STAVES</a>,   0,              0,                   <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234ad08c23308d2cd77b9c019e72ad4f1de6">SKILL_FIST_WEAPONS</a>,   0,</div>
+<div class="line"><span class="lineno">  789</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a851956fe708e7dabc6c7279b8d98fa41">SKILL_DAGGERS</a>,  <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a6cc4cffd069af5ce97225e9bcdb353cd">SKILL_THROWN</a>,   <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234afa0f4403c5efc3943b300132b7d57a62">SKILL_ASSASSINATION</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a6ae603722a8bd83d350d2e06bbade84e">SKILL_CROSSBOWS</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a4a784291e0b65cdb19d096606a6ffae9">SKILL_WANDS</a>,</div>
+<div class="line"><span class="lineno">  790</span>            <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a78e98ad033b1ec8bbfd59816600aa4d1">SKILL_FISHING</a></div>
+<div class="line"><span class="lineno">  791</span>        };</div>
+<div class="line"><span class="lineno">  792</span> </div>
+<div class="line"><span class="lineno">  793</span>        <span class="keyword">const</span> <span class="keyword">static</span> <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> item_armor_skills[<a class="code hl_define" href="../../df/d0c/a00788.html#a5e3522824084a3eb818148f51174a3e5">MAX_ITEM_SUBCLASS_ARMOR</a>] =</div>
+<div class="line"><span class="lineno">  794</span>        {</div>
+<div class="line"><span class="lineno">  795</span>            0, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a950c4c27770648d699f9e09c9474a406">SKILL_CLOTH</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a32a526cf1040a3f69bd10a816fd3a9a1">SKILL_LEATHER</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234acb8a9da6d4c5d6f26888ace89d35ab7e">SKILL_MAIL</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a2e3e4e2fc6d9347842b7ab76d9d3e0d6">SKILL_PLATE_MAIL</a>, 0, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#af4541d30ebbff76b1f9f689519789234a668843b975482c5141aef3891bf8dc18">SKILL_SHIELD</a>, 0, 0, 0, 0</div>
+<div class="line"><span class="lineno">  796</span>        };</div>
+<div class="line"><span class="lineno">  797</span> </div>
+<div class="line"><span class="lineno">  798</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a>)</div>
+<div class="line"><span class="lineno">  799</span>        {</div>
+<div class="line"><span class="lineno">  800</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a>:</div>
+<div class="line"><span class="lineno">  801</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> &gt;= <a class="code hl_define" href="../../df/d0c/a00788.html#ad4143b84df046037bfee860169e703a7">MAX_ITEM_SUBCLASS_WEAPON</a>)</div>
+<div class="line"><span class="lineno">  802</span>                    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  803</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  804</span>                    <span class="keywordflow">return</span> item_weapon_skills[<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a>];</div>
 <div class="line"><span class="lineno">  805</span> </div>
-<div class="line"><span class="lineno">  806</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a>)</div>
-<div class="line"><span class="lineno">  807</span>        {</div>
-<div class="line"><span class="lineno">  808</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a>:</div>
-<div class="line"><span class="lineno">  809</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> &gt;= <a class="code hl_define" href="../../df/d0c/a00788.html#ad4143b84df046037bfee860169e703a7">MAX_ITEM_SUBCLASS_WEAPON</a>)</div>
-<div class="line"><span class="lineno">  810</span>                    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  811</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  812</span>                    <span class="keywordflow">return</span> item_weapon_skills[<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a>];</div>
-<div class="line"><span class="lineno">  813</span> </div>
-<div class="line"><span class="lineno">  814</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68acd2b804e85add83cfd65339c4a084f48">ITEM_CLASS_ARMOR</a>:</div>
-<div class="line"><span class="lineno">  815</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> &gt;= <a class="code hl_define" href="../../df/d0c/a00788.html#a5e3522824084a3eb818148f51174a3e5">MAX_ITEM_SUBCLASS_ARMOR</a>)</div>
-<div class="line"><span class="lineno">  816</span>                    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  817</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  818</span>                    <span class="keywordflow">return</span> item_armor_skills[<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a>];</div>
-<div class="line"><span class="lineno">  819</span> </div>
-<div class="line"><span class="lineno">  820</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  821</span>                <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  822</span>        }</div>
-<div class="line"><span class="lineno">  823</span>    }</div>
+<div class="line"><span class="lineno">  806</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68acd2b804e85add83cfd65339c4a084f48">ITEM_CLASS_ARMOR</a>:</div>
+<div class="line"><span class="lineno">  807</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> &gt;= <a class="code hl_define" href="../../df/d0c/a00788.html#a5e3522824084a3eb818148f51174a3e5">MAX_ITEM_SUBCLASS_ARMOR</a>)</div>
+<div class="line"><span class="lineno">  808</span>                    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  809</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  810</span>                    <span class="keywordflow">return</span> item_armor_skills[<a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a>];</div>
+<div class="line"><span class="lineno">  811</span> </div>
+<div class="line"><span class="lineno">  812</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  813</span>                <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  814</span>        }</div>
+<div class="line"><span class="lineno">  815</span>    }</div>
 <div class="ttc" id="aa00788_html_a5e3522824084a3eb818148f51174a3e5"><div class="ttname"><a href="../../df/d0c/a00788.html#a5e3522824084a3eb818148f51174a3e5">MAX_ITEM_SUBCLASS_ARMOR</a></div><div class="ttdeci">#define MAX_ITEM_SUBCLASS_ARMOR</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:403</div></div>
 <div class="ttc" id="aa00788_html_ab76605e05d3b13f61472b9a89cd22a68acd2b804e85add83cfd65339c4a084f48"><div class="ttname"><a href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68acd2b804e85add83cfd65339c4a084f48">ITEM_CLASS_ARMOR</a></div><div class="ttdeci">@ ITEM_CLASS_ARMOR</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:295</div></div>
 <div class="ttc" id="aa00788_html_ad4143b84df046037bfee860169e703a7"><div class="ttname"><a href="../../df/d0c/a00788.html#ad4143b84df046037bfee860169e703a7">MAX_ITEM_SUBCLASS_WEAPON</a></div><div class="ttdeci">#define MAX_ITEM_SUBCLASS_WEAPON</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:371</div></div>
@@ -694,12 +656,12 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  833</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ab3a9a2be01022682611fed219b88ed0a">Flags</a> &amp; flag) != 0; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  825</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#ab3a9a2be01022682611fed219b88ed0a">Flags</a> &amp; flag) != 0; }</div>
 <div class="ttc" id="aa08432_html_ab3a9a2be01022682611fed219b88ed0a"><div class="ttname"><a href="../../d5/d3e/a08432.html#ab3a9a2be01022682611fed219b88ed0a">ItemTemplate::Flags</a></div><div class="ttdeci">ItemFlags Flags</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:627</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00627">Flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l07245">Player::_SaveInventory()</a>, <a class="el" href="../../#l10594">Player::_StoreOrEquipNewItem()</a>, <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l11751">Player::ApplyEquipCooldown()</a>, <a class="el" href="../../#l13791">Player::CanEquipUniqueItem()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l02837">Spell::EffectEnchantItemPerm()</a>, <a class="el" href="../../#l05529">Spell::EffectMilling()</a>, <a class="el" href="../../#l05504">Spell::EffectProspecting()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00280">WorldSession::HandleDestroyItemOpcode()</a>, <a class="el" href="../../#l00204">WorldSession::HandleOpenItemOpcode()</a>, <a class="el" href="../../#l00063">WorldSession::HandleSendMail()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l01080">WorldSession::HandleWrapItemOpcode()</a>, <a class="el" href="../../#l00697">HasSignature()</a>, <a class="el" href="../../#l00237">Item::IsBoundAccountWide()</a>, <a class="el" href="../../#l00828">IsConjuredConsumable()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem::LootItem()</a>, and <a class="el" href="../../#l05482">Spell::TakeReagents()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07245">Player::_SaveInventory()</a>, <a class="el" href="../../#l10614">Player::_StoreOrEquipNewItem()</a>, <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l11771">Player::ApplyEquipCooldown()</a>, <a class="el" href="../../#l13811">Player::CanEquipUniqueItem()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l02837">Spell::EffectEnchantItemPerm()</a>, <a class="el" href="../../#l05529">Spell::EffectMilling()</a>, <a class="el" href="../../#l05504">Spell::EffectProspecting()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00280">WorldSession::HandleDestroyItemOpcode()</a>, <a class="el" href="../../#l00204">WorldSession::HandleOpenItemOpcode()</a>, <a class="el" href="../../#l00063">WorldSession::HandleSendMail()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l01080">WorldSession::HandleWrapItemOpcode()</a>, <a class="el" href="../../#l00697">HasSignature()</a>, <a class="el" href="../../#l00237">Item::IsBoundAccountWide()</a>, <a class="el" href="../../#l00820">IsConjuredConsumable()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem::LootItem()</a>, and <a class="el" href="../../#l05482">Spell::TakeReagents()</a>.</p>
 
 </div>
 </div>
@@ -726,12 +688,12 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  834</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#a102568cd394a97d14d13717f97cf8281">Flags2</a> &amp; flag) != 0; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  826</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#a102568cd394a97d14d13717f97cf8281">Flags2</a> &amp; flag) != 0; }</div>
 <div class="ttc" id="aa08432_html_a102568cd394a97d14d13717f97cf8281"><div class="ttname"><a href="../../d5/d3e/a08432.html#a102568cd394a97d14d13717f97cf8281">ItemTemplate::Flags2</a></div><div class="ttdeci">ItemFlags2 Flags2</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:628</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00628">Flags2</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02282">Player::CanUseItem()</a>, <a class="el" href="../../#l00460">VendorItem::IsGoldRequired()</a>, and <a class="el" href="../../#l01160">Group::NeedBeforeGreed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02282">Player::CanUseItem()</a>, <a class="el" href="../../#l00460">VendorItem::IsGoldRequired()</a>, and <a class="el" href="../../#l01160">Group::NeedBeforeGreed()</a>.</p>
 
 </div>
 </div>
@@ -758,7 +720,7 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  835</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#a3d2edf64b6c130e434f7c3b6ec1e9f7a">FlagsCu</a> &amp; flag) != 0; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  827</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d3e/a08432.html#a3d2edf64b6c130e434f7c3b6ec1e9f7a">FlagsCu</a> &amp; flag) != 0; }</div>
 <div class="ttc" id="aa08432_html_a3d2edf64b6c130e434f7c3b6ec1e9f7a"><div class="ttname"><a href="../../d5/d3e/a08432.html#a3d2edf64b6c130e434f7c3b6ec1e9f7a">ItemTemplate::FlagsCu</a></div><div class="ttdeci">ItemFlagsCustom FlagsCu</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:694</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00694">FlagsCu</a>.</p>
@@ -799,9 +761,9 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa00788_html_ab76605e05d3b13f61472b9a89cd22a68ae1badb1770dd3fe1736018ad60c01eec"><div class="ttname"><a href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68ae1badb1770dd3fe1736018ad60c01eec">ITEM_CLASS_QUEST</a></div><div class="ttdeci">@ ITEM_CLASS_QUEST</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:303</div></div>
 <div class="ttc" id="aa00788_html_ab76605e05d3b13f61472b9a89cd22a68af2ec0a93be80cad30c0131dcd5b7761c"><div class="ttname"><a href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68af2ec0a93be80cad30c0131dcd5b7761c">ITEM_CLASS_CONSUMABLE</a></div><div class="ttdeci">@ ITEM_CLASS_CONSUMABLE</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:291</div></div>
 <div class="ttc" id="aa08432_html_a397d7a20deee4000f7692ba5e8eae176"><div class="ttname"><a href="../../d5/d3e/a08432.html#a397d7a20deee4000f7692ba5e8eae176">ItemTemplate::GetMaxStackSize</a></div><div class="ttdeci">uint32 GetMaxStackSize() const</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:727</div></div>
-<div class="ttc" id="aa08432_html_aa1ae3db197ca23fdd00f2f056bea12f7"><div class="ttname"><a href="../../d5/d3e/a08432.html#aa1ae3db197ca23fdd00f2f056bea12f7">ItemTemplate::HasFlag</a></div><div class="ttdeci">bool HasFlag(ItemFlags flag) const</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:833</div></div>
+<div class="ttc" id="aa08432_html_aa1ae3db197ca23fdd00f2f056bea12f7"><div class="ttname"><a href="../../d5/d3e/a08432.html#aa1ae3db197ca23fdd00f2f056bea12f7">ItemTemplate::HasFlag</a></div><div class="ttdeci">bool HasFlag(ItemFlags flag) const</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:825</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00727">GetMaxStackSize()</a>, <a class="el" href="../../#l00833">HasFlag()</a>, <a class="el" href="../../#l00291">ITEM_CLASS_CONSUMABLE</a>, <a class="el" href="../../#l00303">ITEM_CLASS_QUEST</a>, and <a class="el" href="../../#l00164">ITEM_FLAG_NO_CREATOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00727">GetMaxStackSize()</a>, <a class="el" href="../../#l00825">HasFlag()</a>, <a class="el" href="../../#l00291">ITEM_CLASS_CONSUMABLE</a>, <a class="el" href="../../#l00303">ITEM_CLASS_QUEST</a>, and <a class="el" href="../../#l00164">ITEM_FLAG_NO_CREATOR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01647">Spell::DoCreateItem()</a>.</p>
 
@@ -874,6 +836,7 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa00116_html_a538cdc259460b365f406fe0b3a981799ac10d497358145820773847a2686fe030"><div class="ttname"><a href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799ac10d497358145820773847a2686fe030">SPELL_AURA_MOD_SPELL_HEALING_OF_ATTACK_POWER</a></div><div class="ttdeci">@ SPELL_AURA_MOD_SPELL_HEALING_OF_ATTACK_POWER</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:301</div></div>
 <div class="ttc" id="aa00116_html_a538cdc259460b365f406fe0b3a981799ad7da1f73acd2e46f5209ca86b4ffe921"><div class="ttname"><a href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799ad7da1f73acd2e46f5209ca86b4ffe921">SPELL_AURA_MOD_HEALING</a></div><div class="ttdeci">@ SPELL_AURA_MOD_HEALING</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:178</div></div>
 <div class="ttc" id="aa00116_html_a538cdc259460b365f406fe0b3a981799ad86b6755a6a877f94073e7d3767e055b"><div class="ttname"><a href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799ad86b6755a6a877f94073e7d3767e055b">SPELL_AURA_MOD_DAMAGE_DONE</a></div><div class="ttdeci">@ SPELL_AURA_MOD_DAMAGE_DONE</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:76</div></div>
+<div class="ttc" id="aa00365_html_a5bd342133be8c2137b831460acc9298c"><div class="ttname"><a href="../../dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298c">Spells</a></div><div class="ttdeci">Spells</div><div class="ttdef"><b>Definition:</b> BattlegroundIC.h:712</div></div>
 <div class="ttc" id="aa00788_html_a9e238c2727e820f5207cccdb26e2ce95"><div class="ttname"><a href="../../df/d0c/a00788.html#a9e238c2727e820f5207cccdb26e2ce95">MAX_ITEM_PROTO_SPELLS</a></div><div class="ttdeci">#define MAX_ITEM_PROTO_SPELLS</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:615</div></div>
 <div class="ttc" id="aa04121_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa04121_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:33</div></div>
@@ -953,13 +916,13 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  827</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68a51e79ea7b2aa9dffc1b4f250c1cc7b4d">ITEM_CLASS_TRADE_GOODS</a> &amp;&amp; <a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a5bf3156ee73151a0fc4ac0306aa0531ba856092e44af8c547640bd444f5f63861">ITEM_SUBCLASS_ARMOR_ENCHANTMENT</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  819</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68a51e79ea7b2aa9dffc1b4f250c1cc7b4d">ITEM_CLASS_TRADE_GOODS</a> &amp;&amp; <a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a5bf3156ee73151a0fc4ac0306aa0531ba856092e44af8c547640bd444f5f63861">ITEM_SUBCLASS_ARMOR_ENCHANTMENT</a>; }</div>
 <div class="ttc" id="aa00788_html_a5bf3156ee73151a0fc4ac0306aa0531ba856092e44af8c547640bd444f5f63861"><div class="ttname"><a href="../../df/d0c/a00788.html#a5bf3156ee73151a0fc4ac0306aa0531ba856092e44af8c547640bd444f5f63861">ITEM_SUBCLASS_ARMOR_ENCHANTMENT</a></div><div class="ttdeci">@ ITEM_SUBCLASS_ARMOR_ENCHANTMENT</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:439</div></div>
 <div class="ttc" id="aa00788_html_ab76605e05d3b13f61472b9a89cd22a68a51e79ea7b2aa9dffc1b4f250c1cc7b4d"><div class="ttname"><a href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68a51e79ea7b2aa9dffc1b4f250c1cc7b4d">ITEM_CLASS_TRADE_GOODS</a></div><div class="ttdeci">@ ITEM_CLASS_TRADE_GOODS</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:298</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00298">ITEM_CLASS_TRADE_GOODS</a>, <a class="el" href="../../#l00439">ITEM_SUBCLASS_ARMOR_ENCHANTMENT</a>, and <a class="el" href="../../#l00622">SubClass</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00346">Item::IsArmorVellum()</a>, and <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00339">Item::IsArmorVellum()</a>, and <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>.</p>
 
 </div>
 </div>
@@ -985,12 +948,12 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  828</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68af2ec0a93be80cad30c0131dcd5b7761c">ITEM_CLASS_CONSUMABLE</a> &amp;&amp; <a class="code hl_function" href="../../d5/d3e/a08432.html#aa1ae3db197ca23fdd00f2f056bea12f7">HasFlag</a>(<a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3">ITEM_FLAG_CONJURED</a>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  820</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68af2ec0a93be80cad30c0131dcd5b7761c">ITEM_CLASS_CONSUMABLE</a> &amp;&amp; <a class="code hl_function" href="../../d5/d3e/a08432.html#aa1ae3db197ca23fdd00f2f056bea12f7">HasFlag</a>(<a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3">ITEM_FLAG_CONJURED</a>); }</div>
 <div class="ttc" id="aa00788_html_a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3"><div class="ttname"><a href="../../df/d0c/a00788.html#a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3">ITEM_FLAG_CONJURED</a></div><div class="ttdeci">@ ITEM_FLAG_CONJURED</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:148</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00833">HasFlag()</a>, <a class="el" href="../../#l00291">ITEM_CLASS_CONSUMABLE</a>, and <a class="el" href="../../#l00148">ITEM_FLAG_CONJURED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00825">HasFlag()</a>, <a class="el" href="../../#l00291">ITEM_CLASS_CONSUMABLE</a>, and <a class="el" href="../../#l00148">ITEM_FLAG_CONJURED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00347">Item::IsConjuredConsumable()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00340">Item::IsConjuredConsumable()</a>.</p>
 
 </div>
 </div>
@@ -1048,12 +1011,12 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  825</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68af2ec0a93be80cad30c0131dcd5b7761c">ITEM_CLASS_CONSUMABLE</a> &amp;&amp; <a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#adfff4e703ebe650a498c14955e22cfdba96d5a7c21266744be1f582975aca91d8">ITEM_SUBCLASS_POTION</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  817</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68af2ec0a93be80cad30c0131dcd5b7761c">ITEM_CLASS_CONSUMABLE</a> &amp;&amp; <a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#adfff4e703ebe650a498c14955e22cfdba96d5a7c21266744be1f582975aca91d8">ITEM_SUBCLASS_POTION</a>; }</div>
 <div class="ttc" id="aa00788_html_adfff4e703ebe650a498c14955e22cfdba96d5a7c21266744be1f582975aca91d8"><div class="ttname"><a href="../../df/d0c/a00788.html#adfff4e703ebe650a498c14955e22cfdba96d5a7c21266744be1f582975aca91d8">ITEM_SUBCLASS_POTION</a></div><div class="ttdeci">@ ITEM_SUBCLASS_POTION</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:315</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00291">ITEM_CLASS_CONSUMABLE</a>, <a class="el" href="../../#l00315">ITEM_SUBCLASS_POTION</a>, and <a class="el" href="../../#l00622">SubClass</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00344">Item::IsPotion()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00337">Item::IsPotion()</a>.</p>
 
 </div>
 </div>
@@ -1079,12 +1042,12 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  826</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68a51e79ea7b2aa9dffc1b4f250c1cc7b4d">ITEM_CLASS_TRADE_GOODS</a> &amp;&amp; <a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a5bf3156ee73151a0fc4ac0306aa0531baf38e2700a14d2b0e14f934e2547acbf0">ITEM_SUBCLASS_WEAPON_ENCHANTMENT</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  818</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d3e/a08432.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ab76605e05d3b13f61472b9a89cd22a68a51e79ea7b2aa9dffc1b4f250c1cc7b4d">ITEM_CLASS_TRADE_GOODS</a> &amp;&amp; <a class="code hl_variable" href="../../d5/d3e/a08432.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> == <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a5bf3156ee73151a0fc4ac0306aa0531baf38e2700a14d2b0e14f934e2547acbf0">ITEM_SUBCLASS_WEAPON_ENCHANTMENT</a>; }</div>
 <div class="ttc" id="aa00788_html_a5bf3156ee73151a0fc4ac0306aa0531baf38e2700a14d2b0e14f934e2547acbf0"><div class="ttname"><a href="../../df/d0c/a00788.html#a5bf3156ee73151a0fc4ac0306aa0531baf38e2700a14d2b0e14f934e2547acbf0">ITEM_SUBCLASS_WEAPON_ENCHANTMENT</a></div><div class="ttdeci">@ ITEM_SUBCLASS_WEAPON_ENCHANTMENT</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:440</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00621">Class</a>, <a class="el" href="../../#l00298">ITEM_CLASS_TRADE_GOODS</a>, <a class="el" href="../../#l00440">ITEM_SUBCLASS_WEAPON_ENCHANTMENT</a>, and <a class="el" href="../../#l00622">SubClass</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, and <a class="el" href="../../#l00345">Item::IsWeaponVellum()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, and <a class="el" href="../../#l00338">Item::IsWeaponVellum()</a>.</p>
 
 </div>
 </div>
@@ -1101,7 +1064,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l02282">Player::CanUseItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00663">AuctionHouseUsablePlayerInfo::PlayerCanUseItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l02282">Player::CanUseItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00663">AuctionHouseUsablePlayerInfo::PlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
@@ -1149,7 +1112,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1181,7 +1144,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1197,7 +1160,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1229,7 +1192,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l03731">Unit::GetUnitBlockChance()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l03731">Unit::GetUnitBlockChance()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1245,7 +1208,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02612">Player::_StoreItem()</a>, <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00113">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::IsValidDedicatedInsanityItem()</a>, <a class="el" href="../../#l00419">Item::LoadFromDB()</a>, and <a class="el" href="../../#l02881">Player::VisualizeItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02612">Player::_StoreItem()</a>, <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00113">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::IsValidDedicatedInsanityItem()</a>, <a class="el" href="../../#l00419">Item::LoadFromDB()</a>, and <a class="el" href="../../#l02881">Player::VisualizeItem()</a>.</p>
 
 </div>
 </div>
@@ -1261,7 +1224,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l10594">Player::_StoreOrEquipNewItem()</a>, <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l03026">Creature::GetVendorItemCurrentCount()</a>, <a class="el" href="../../#l00032">WorldSession::HandlePetitionBuyOpcode()</a>, and <a class="el" href="../../#l03061">Creature::UpdateVendorItemCurrentCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10614">Player::_StoreOrEquipNewItem()</a>, <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l03026">Creature::GetVendorItemCurrentCount()</a>, <a class="el" href="../../#l00032">WorldSession::HandlePetitionBuyOpcode()</a>, and <a class="el" href="../../#l03061">Creature::UpdateVendorItemCurrentCount()</a>.</p>
 
 </div>
 </div>
@@ -1277,7 +1240,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1293,7 +1256,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07628">Player::_ApplyAmmoBonuses()</a>, <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l00705">CanChangeEquipStateInCombat()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l00982">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01541">Player::CanStoreItems()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, <a class="el" href="../../#l07654">Player::CheckAmmoCompatibility()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l02733">Player::EquipItem()</a>, <a class="el" href="../../#l00750">getFeralBonus()</a>, <a class="el" href="../../#l00525">Player::GetShield()</a>, <a class="el" href="../../#l00790">GetSkill()</a>, <a class="el" href="../../#l00560">Item::GetSpell()</a>, <a class="el" href="../../#l00490">Player::GetWeaponForAttack()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00697">HasSignature()</a>, <a class="el" href="../../#l00827">IsArmorVellum()</a>, <a class="el" href="../../#l00828">IsConjuredConsumable()</a>, <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, <a class="el" href="../../#l00825">IsPotion()</a>, <a class="el" href="../../#l17671">Unit::IsTriggeredAtSpellProcEvent()</a>, <a class="el" href="../../#l00288">boss_algalon_the_observer::boss_algalon_the_observerAI::IsValidHeraldItem()</a>, <a class="el" href="../../#l00826">IsWeaponVellum()</a>, and <a class="el" href="../../#l00176">ItemCanGoIntoBag()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07655">Player::_ApplyAmmoBonuses()</a>, <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l00705">CanChangeEquipStateInCombat()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l00982">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01541">Player::CanStoreItems()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, <a class="el" href="../../#l07681">Player::CheckAmmoCompatibility()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l02733">Player::EquipItem()</a>, <a class="el" href="../../#l00742">getFeralBonus()</a>, <a class="el" href="../../#l00525">Player::GetShield()</a>, <a class="el" href="../../#l00782">GetSkill()</a>, <a class="el" href="../../#l00560">Item::GetSpell()</a>, <a class="el" href="../../#l00490">Player::GetWeaponForAttack()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00697">HasSignature()</a>, <a class="el" href="../../#l00819">IsArmorVellum()</a>, <a class="el" href="../../#l00820">IsConjuredConsumable()</a>, <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, <a class="el" href="../../#l00817">IsPotion()</a>, <a class="el" href="../../#l17671">Unit::IsTriggeredAtSpellProcEvent()</a>, <a class="el" href="../../#l00288">boss_algalon_the_observer::boss_algalon_the_observerAI::IsValidHeraldItem()</a>, <a class="el" href="../../#l00818">IsWeaponVellum()</a>, and <a class="el" href="../../#l00176">ItemCanGoIntoBag()</a>.</p>
 
 </div>
 </div>
@@ -1325,7 +1288,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07628">Player::_ApplyAmmoBonuses()</a>, <a class="el" href="../../#l06878">Player::_ApplyWeaponDamage()</a>, <a class="el" href="../../#l00740">getDPS()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07655">Player::_ApplyAmmoBonuses()</a>, <a class="el" href="../../#l06905">Player::_ApplyWeaponDamage()</a>, <a class="el" href="../../#l00732">getDPS()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1341,7 +1304,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06878">Player::_ApplyWeaponDamage()</a>, <a class="el" href="../../#l07252">Player::CastItemCombatSpell()</a>, <a class="el" href="../../#l00740">getDPS()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l05289">Player::SetRegularAttackTime()</a>, and <a class="el" href="../../#l04978">Player::UpdateDamageDoneMods()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06905">Player::_ApplyWeaponDamage()</a>, <a class="el" href="../../#l07279">Player::CastItemCombatSpell()</a>, <a class="el" href="../../#l00732">getDPS()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l05289">Player::SetRegularAttackTime()</a>, and <a class="el" href="../../#l04978">Player::UpdateDamageDoneMods()</a>.</p>
 
 </div>
 </div>
@@ -1373,7 +1336,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l01425">Group::CountTheRoll()</a>, <a class="el" href="../../#l04463">Spell::EffectDisEnchant()</a>, <a class="el" href="../../#l01004">Group::GroupLoot()</a>, <a class="el" href="../../#l01160">Group::NeedBeforeGreed()</a>, and <a class="el" href="../../#l07775">Player::SendLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l01425">Group::CountTheRoll()</a>, <a class="el" href="../../#l04463">Spell::EffectDisEnchant()</a>, <a class="el" href="../../#l01004">Group::GroupLoot()</a>, <a class="el" href="../../#l01160">Group::NeedBeforeGreed()</a>, and <a class="el" href="../../#l07802">Player::SendLoot()</a>.</p>
 
 </div>
 </div>
@@ -1421,7 +1384,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1437,7 +1400,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00833">HasFlag()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00825">HasFlag()</a>.</p>
 
 </div>
 </div>
@@ -1453,7 +1416,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00834">HasFlag2()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00826">HasFlag2()</a>.</p>
 
 </div>
 </div>
@@ -1469,7 +1432,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00835">HasFlagCu()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00827">HasFlagCu()</a>.</p>
 
 </div>
 </div>
@@ -1501,7 +1464,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1517,7 +1480,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l11071">Player::EnchantmentFitsRequirements()</a>, <a class="el" href="../../#l00970">Item::GemsFitSockets()</a>, <a class="el" href="../../#l00329">Player::GetItemCount()</a>, <a class="el" href="../../#l00188">Bag::GetItemCount()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00730">Player::HasItemOrGemWithIdEquipped()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l11091">Player::EnchantmentFitsRequirements()</a>, <a class="el" href="../../#l00970">Item::GemsFitSockets()</a>, <a class="el" href="../../#l00329">Player::GetItemCount()</a>, <a class="el" href="../../#l00188">Bag::GetItemCount()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, and <a class="el" href="../../#l00730">Player::HasItemOrGemWithIdEquipped()</a>.</p>
 
 </div>
 </div>
@@ -1549,7 +1512,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1565,7 +1528,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l12434">Player::AutoUnequipOffhandIfNeed()</a>, <a class="el" href="../../#l01106">Player::BuildEnumData()</a>, <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l00452">AuraEffect::CalculateAmount()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l02469">Player::CanUseAmmo()</a>, <a class="el" href="../../#l05604">Spell::CheckCast()</a>, <a class="el" href="../../#l04508">Player::CreateCorpse()</a>, <a class="el" href="../../#l02925">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l02733">Player::EquipItem()</a>, <a class="el" href="../../#l00127">Player::FindEquipSlot()</a>, <a class="el" href="../../#l00125">GenerateEnchSuffixFactor()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00254">Item::IsBag()</a>, <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, <a class="el" href="../../#l01354">Player::IsTwoHandUsed()</a>, <a class="el" href="../../#l00288">boss_algalon_the_observer::boss_algalon_the_observerAI::IsValidHeraldItem()</a>, <a class="el" href="../../#l03487">ObjectMgr::LoadItemSetNames()</a>, <a class="el" href="../../#l00067">NewItemOrBag()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, <a class="el" href="../../#l05329">Spell::TakeAmmo()</a>, and <a class="el" href="../../#l04878">Spell::WriteAmmoToPacket()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l12454">Player::AutoUnequipOffhandIfNeed()</a>, <a class="el" href="../../#l01106">Player::BuildEnumData()</a>, <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l00452">AuraEffect::CalculateAmount()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l02469">Player::CanUseAmmo()</a>, <a class="el" href="../../#l05604">Spell::CheckCast()</a>, <a class="el" href="../../#l04508">Player::CreateCorpse()</a>, <a class="el" href="../../#l02925">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l02733">Player::EquipItem()</a>, <a class="el" href="../../#l00127">Player::FindEquipSlot()</a>, <a class="el" href="../../#l00125">GenerateEnchSuffixFactor()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00254">Item::IsBag()</a>, <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, <a class="el" href="../../#l01357">Player::IsTwoHandUsed()</a>, <a class="el" href="../../#l00288">boss_algalon_the_observer::boss_algalon_the_observerAI::IsValidHeraldItem()</a>, <a class="el" href="../../#l03490">ObjectMgr::LoadItemSetNames()</a>, <a class="el" href="../../#l00067">NewItemOrBag()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, <a class="el" href="../../#l05329">Spell::TakeAmmo()</a>, and <a class="el" href="../../#l04878">Spell::WriteAmmoToPacket()</a>.</p>
 
 </div>
 </div>
@@ -1581,7 +1544,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00032">AddItemsSetItem()</a>, <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02039">Player::CanBankItem()</a>, <a class="el" href="../../#l00867">Item::CanBeMergedPartlyWith()</a>, <a class="el" href="../../#l13791">Player::CanEquipUniqueItem()</a>, <a class="el" href="../../#l00802">Player::CanTakeMoreSimilarItems()</a>, <a class="el" href="../../#l07384">Player::CastItemUseSpell()</a>, <a class="el" href="../../#l00622">Item::GenerateItemRandomPropertyId()</a>, <a class="el" href="../../#l01721">misc_commandscript::HandleAddItemCommand()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00176">item_commandscript::HandleItemRefundCommand()</a>, <a class="el" href="../../#l00264">npc_commandscript::HandleNpcAddVendorItemCommand()</a>, <a class="el" href="../../#l00402">npc_commandscript::HandleNpcDeleteVendorItemCommand()</a>, <a class="el" href="../../#l00204">WorldSession::HandleOpenItemOpcode()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00135">LinkValidator&lt; LinkTags::item &gt;::IsTextValid()</a>, <a class="el" href="../../#l00113">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::IsValidDedicatedInsanityItem()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, <a class="el" href="../../#l06672">Player::PrettyPrintRequirementsItemsList()</a>, <a class="el" href="../../#l01479">WorldSession::recoveryItem()</a>, <a class="el" href="../../#l00118">RemoveItemsSetItem()</a>, <a class="el" href="../../#l00461">SearchableAuctionEntry::SetItemNames()</a>, and <a class="el" href="../../#l05482">Spell::TakeReagents()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00032">AddItemsSetItem()</a>, <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02039">Player::CanBankItem()</a>, <a class="el" href="../../#l00867">Item::CanBeMergedPartlyWith()</a>, <a class="el" href="../../#l13811">Player::CanEquipUniqueItem()</a>, <a class="el" href="../../#l00802">Player::CanTakeMoreSimilarItems()</a>, <a class="el" href="../../#l07411">Player::CastItemUseSpell()</a>, <a class="el" href="../../#l00622">Item::GenerateItemRandomPropertyId()</a>, <a class="el" href="../../#l01721">misc_commandscript::HandleAddItemCommand()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00176">item_commandscript::HandleItemRefundCommand()</a>, <a class="el" href="../../#l00264">npc_commandscript::HandleNpcAddVendorItemCommand()</a>, <a class="el" href="../../#l00402">npc_commandscript::HandleNpcDeleteVendorItemCommand()</a>, <a class="el" href="../../#l00204">WorldSession::HandleOpenItemOpcode()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00135">LinkValidator&lt; LinkTags::item &gt;::IsTextValid()</a>, <a class="el" href="../../#l00113">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::IsValidDedicatedInsanityItem()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, <a class="el" href="../../#l06672">Player::PrettyPrintRequirementsItemsList()</a>, <a class="el" href="../../#l01479">WorldSession::recoveryItem()</a>, <a class="el" href="../../#l00118">RemoveItemsSetItem()</a>, <a class="el" href="../../#l00461">SearchableAuctionEntry::SetItemNames()</a>, and <a class="el" href="../../#l05482">Spell::TakeReagents()</a>.</p>
 
 </div>
 </div>
@@ -1597,7 +1560,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l05604">Spell::CheckCast()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l04516">Spell::EffectFeedPet()</a>, <a class="el" href="../../#l00125">GenerateEnchSuffixFactor()</a>, <a class="el" href="../../#l15794">Player::GetAverageItemLevelForDF()</a>, <a class="el" href="../../#l00765">GetItemLevelIncludingQuality()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00113">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::IsValidDedicatedInsanityItem()</a>, <a class="el" href="../../#l00288">boss_algalon_the_observer::boss_algalon_the_observerAI::IsValidHeraldItem()</a>, <a class="el" href="../../#l00301">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l01479">WorldSession::recoveryItem()</a>, and <a class="el" href="../../#l00817">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l05604">Spell::CheckCast()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l04516">Spell::EffectFeedPet()</a>, <a class="el" href="../../#l00125">GenerateEnchSuffixFactor()</a>, <a class="el" href="../../#l15814">Player::GetAverageItemLevelForDF()</a>, <a class="el" href="../../#l00757">GetItemLevelIncludingQuality()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00113">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::IsValidDedicatedInsanityItem()</a>, <a class="el" href="../../#l00288">boss_algalon_the_observer::boss_algalon_the_observerAI::IsValidHeraldItem()</a>, <a class="el" href="../../#l00301">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l01479">WorldSession::recoveryItem()</a>, and <a class="el" href="../../#l00817">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
 
 </div>
 </div>
@@ -1613,7 +1576,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l13758">Player::CanEquipUniqueItem()</a>, <a class="el" href="../../#l00802">Player::CanTakeMoreSimilarItems()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l01033">Item::GetGemCountWithLimitCategory()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00768">Player::HasItemOrGemWithLimitCategoryEquipped()</a>, <a class="el" href="../../#l04023">Player::SendEquipError()</a>, and <a class="el" href="../../#l04514">Spell::WriteCastResultInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13778">Player::CanEquipUniqueItem()</a>, <a class="el" href="../../#l00802">Player::CanTakeMoreSimilarItems()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l01033">Item::GetGemCountWithLimitCategory()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00768">Player::HasItemOrGemWithLimitCategoryEquipped()</a>, <a class="el" href="../../#l04023">Player::SendEquipError()</a>, and <a class="el" href="../../#l04514">Spell::WriteCastResultInfo()</a>.</p>
 
 </div>
 </div>
@@ -1629,7 +1592,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07560">Player::_ApplyAllItemMods()</a>, <a class="el" href="../../#l07515">Player::_RemoveAllItemMods()</a>, <a class="el" href="../../#l00032">AddItemsSetItem()</a>, <a class="el" href="../../#l03024">Player::DestroyItem()</a>, <a class="el" href="../../#l02733">Player::EquipItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l02905">Player::RemoveItem()</a>, and <a class="el" href="../../#l00118">RemoveItemsSetItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07587">Player::_ApplyAllItemMods()</a>, <a class="el" href="../../#l07542">Player::_RemoveAllItemMods()</a>, <a class="el" href="../../#l00032">AddItemsSetItem()</a>, <a class="el" href="../../#l03024">Player::DestroyItem()</a>, <a class="el" href="../../#l02733">Player::EquipItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l02905">Player::RemoveItem()</a>, and <a class="el" href="../../#l00118">RemoveItemsSetItem()</a>.</p>
 
 </div>
 </div>
@@ -1645,7 +1608,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00324">HasStat()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00324">HasStat()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -1757,7 +1720,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07775">Player::SendLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07802">Player::SendLoot()</a>.</p>
 
 </div>
 </div>
@@ -1773,7 +1736,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07775">Player::SendLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07802">Player::SendLoot()</a>.</p>
 
 </div>
 </div>
@@ -1789,7 +1752,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00176">item_commandscript::HandleItemRefundCommand()</a>, <a class="el" href="../../#l00264">npc_commandscript::HandleNpcAddVendorItemCommand()</a>, <a class="el" href="../../#l00402">npc_commandscript::HandleNpcDeleteVendorItemCommand()</a>, <a class="el" href="../../#l00135">LinkValidator&lt; LinkTags::item &gt;::IsTextValid()</a>, <a class="el" href="../../#l03487">ObjectMgr::LoadItemSetNames()</a>, <a class="el" href="../../#l06672">Player::PrettyPrintRequirementsItemsList()</a>, and <a class="el" href="../../#l00461">SearchableAuctionEntry::SetItemNames()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00176">item_commandscript::HandleItemRefundCommand()</a>, <a class="el" href="../../#l00264">npc_commandscript::HandleNpcAddVendorItemCommand()</a>, <a class="el" href="../../#l00402">npc_commandscript::HandleNpcDeleteVendorItemCommand()</a>, <a class="el" href="../../#l00135">LinkValidator&lt; LinkTags::item &gt;::IsTextValid()</a>, <a class="el" href="../../#l03490">ObjectMgr::LoadItemSetNames()</a>, <a class="el" href="../../#l06672">Player::PrettyPrintRequirementsItemsList()</a>, and <a class="el" href="../../#l00461">SearchableAuctionEntry::SetItemNames()</a>.</p>
 
 </div>
 </div>
@@ -1805,7 +1768,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1853,7 +1816,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00520">SearchableAuctionEntry::CompareAuctionEntry()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l00125">GenerateEnchSuffixFactor()</a>, <a class="el" href="../../#l00765">GetItemLevelIncludingQuality()</a>, <a class="el" href="../../#l01004">Group::GroupLoot()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00174">LinkValidator&lt; LinkTags::item &gt;::IsColorValid()</a>, <a class="el" href="../../#l00301">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l01160">Group::NeedBeforeGreed()</a>, <a class="el" href="../../#l06672">Player::PrettyPrintRequirementsItemsList()</a>, <a class="el" href="../../#l01479">WorldSession::recoveryItem()</a>, and <a class="el" href="../../#l00817">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00520">SearchableAuctionEntry::CompareAuctionEntry()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l00125">GenerateEnchSuffixFactor()</a>, <a class="el" href="../../#l00757">GetItemLevelIncludingQuality()</a>, <a class="el" href="../../#l01004">Group::GroupLoot()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00174">LinkValidator&lt; LinkTags::item &gt;::IsColorValid()</a>, <a class="el" href="../../#l00301">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l01160">Group::NeedBeforeGreed()</a>, <a class="el" href="../../#l06672">Player::PrettyPrintRequirementsItemsList()</a>, <a class="el" href="../../#l01479">WorldSession::recoveryItem()</a>, and <a class="el" href="../../#l00817">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
 
 </div>
 </div>
@@ -1981,7 +1944,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -1997,7 +1960,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10680">Player::BuyItemFromVendorSlot()</a>, <a class="el" href="../../#l02226">Player::CanUseItem()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -2061,7 +2024,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l06878">Player::_ApplyWeaponDamage()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l06905">Player::_ApplyWeaponDamage()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -2077,7 +2040,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l06878">Player::_ApplyWeaponDamage()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l06905">Player::_ApplyWeaponDamage()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -2093,7 +2056,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00371">Item::GetScriptId()</a>, and <a class="el" href="../../#l00064">ScriptMgr::OnItemExpire()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00364">Item::GetScriptId()</a>, and <a class="el" href="../../#l00064">ScriptMgr::OnItemExpire()</a>.</p>
 
 </div>
 </div>
@@ -2125,7 +2088,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, and <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>.</p>
 
 </div>
 </div>
@@ -2157,7 +2120,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l04306">Player::ApplyEnchantment()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00970">Item::GemsFitSockets()</a>, <a class="el" href="../../#l00329">Player::GetItemCount()</a>, <a class="el" href="../../#l00188">Bag::GetItemCount()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00730">Player::HasItemOrGemWithIdEquipped()</a>, <a class="el" href="../../#l00768">Player::HasItemOrGemWithLimitCategoryEquipped()</a>, <a class="el" href="../../#l01007">Item::HasSocket()</a>, and <a class="el" href="../../#l11200">Player::ToggleMetaGemsActive()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04306">Player::ApplyEnchantment()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00970">Item::GemsFitSockets()</a>, <a class="el" href="../../#l00329">Player::GetItemCount()</a>, <a class="el" href="../../#l00188">Bag::GetItemCount()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l01208">WorldSession::HandleSocketOpcode()</a>, <a class="el" href="../../#l00730">Player::HasItemOrGemWithIdEquipped()</a>, <a class="el" href="../../#l00768">Player::HasItemOrGemWithLimitCategoryEquipped()</a>, <a class="el" href="../../#l01007">Item::HasSocket()</a>, and <a class="el" href="../../#l11220">Player::ToggleMetaGemsActive()</a>.</p>
 
 </div>
 </div>
@@ -2205,7 +2168,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l11751">Player::ApplyEquipCooldown()</a>, <a class="el" href="../../#l07127">Player::ApplyItemEquipSpell()</a>, <a class="el" href="../../#l06993">Player::ApplyItemObtainSpells()</a>, <a class="el" href="../../#l07252">Player::CastItemCombatSpell()</a>, <a class="el" href="../../#l07384">Player::CastItemUseSpell()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l00282">Item::Create()</a>, <a class="el" href="../../#l06261">Spell::EffectRechargeManaGem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00663">AuctionHouseUsablePlayerInfo::PlayerCanUseItem()</a>, <a class="el" href="../../#l05202">Spell::TakeCastItem()</a>, <a class="el" href="../../#l05482">Spell::TakeReagents()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l11771">Player::ApplyEquipCooldown()</a>, <a class="el" href="../../#l07154">Player::ApplyItemEquipSpell()</a>, <a class="el" href="../../#l07020">Player::ApplyItemObtainSpells()</a>, <a class="el" href="../../#l07279">Player::CastItemCombatSpell()</a>, <a class="el" href="../../#l07411">Player::CastItemUseSpell()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l00282">Item::Create()</a>, <a class="el" href="../../#l06261">Spell::EffectRechargeManaGem()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleUseItemOpcode()</a>, <a class="el" href="../../#l00663">AuctionHouseUsablePlayerInfo::PlayerCanUseItem()</a>, <a class="el" href="../../#l05202">Spell::TakeCastItem()</a>, <a class="el" href="../../#l05482">Spell::TakeReagents()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -2237,7 +2200,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00049">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00342">Item::hasQuest()</a>, and <a class="el" href="../../#l01363">Player::TakeQuestSourceItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00417">LootItem::AllowedForPlayer()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00049">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00335">Item::hasQuest()</a>, and <a class="el" href="../../#l01363">Player::TakeQuestSourceItem()</a>.</p>
 
 </div>
 </div>
@@ -2253,7 +2216,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00324">HasStat()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00324">HasStat()</a>, and <a class="el" href="../../#l00347">Player::UpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -2269,7 +2232,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06580">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l00982">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01541">Player::CanStoreItems()</a>, <a class="el" href="../../#l07654">Player::CheckAmmoCompatibility()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l00127">Player::FindEquipSlot()</a>, <a class="el" href="../../#l00790">GetSkill()</a>, <a class="el" href="../../#l00560">Item::GetSpell()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00827">IsArmorVellum()</a>, <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, <a class="el" href="../../#l00825">IsPotion()</a>, <a class="el" href="../../#l17671">Unit::IsTriggeredAtSpellProcEvent()</a>, <a class="el" href="../../#l00826">IsWeaponVellum()</a>, <a class="el" href="../../#l00176">ItemCanGoIntoBag()</a>, <a class="el" href="../../#l05329">Spell::TakeAmmo()</a>, and <a class="el" href="../../#l01004">Player::UpdateWeaponSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06607">Player::_ApplyItemBonuses()</a>, <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, <a class="el" href="../../#l01807">Player::CanEquipItem()</a>, <a class="el" href="../../#l02344">Player::CanRollForItemInLFG()</a>, <a class="el" href="../../#l00982">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01541">Player::CanStoreItems()</a>, <a class="el" href="../../#l07681">Player::CheckAmmoCompatibility()</a>, <a class="el" href="../../#l07157">Spell::CheckItems()</a>, <a class="el" href="../../#l00487">Player::Create()</a>, <a class="el" href="../../#l04755">Player::DurabilityRepair()</a>, <a class="el" href="../../#l00127">Player::FindEquipSlot()</a>, <a class="el" href="../../#l00782">GetSkill()</a>, <a class="el" href="../../#l00560">Item::GetSpell()</a>, <a class="el" href="../../#l00389">WorldSession::HandleItemQuerySingleOpcode()</a>, <a class="el" href="../../#l00578">WorldSession::HandleSellItemOpcode()</a>, <a class="el" href="../../#l00819">IsArmorVellum()</a>, <a class="el" href="../../#l00884">Item::IsFitToSpellRequirements()</a>, <a class="el" href="../../#l00817">IsPotion()</a>, <a class="el" href="../../#l17671">Unit::IsTriggeredAtSpellProcEvent()</a>, <a class="el" href="../../#l00818">IsWeaponVellum()</a>, <a class="el" href="../../#l00176">ItemCanGoIntoBag()</a>, <a class="el" href="../../#l05329">Spell::TakeAmmo()</a>, and <a class="el" href="../../#l00987">Player::UpdateWeaponSkill()</a>.</p>
 
 </div>
 </div>
@@ -2295,7 +2258,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d3e/a08432.html">ItemTemplate</a></li>
-    <li class="footer">Generated on Mon Jan 5 2026 20:54:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 12 2026 20:51:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

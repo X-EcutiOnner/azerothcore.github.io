@@ -1,5 +1,9 @@
 var a22660 =
 [
-    [ "achievement_wg_within_our_grasp", "d2/d76/a22660.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d2/d76/a22660.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_finklesteinAI", "de/dc6/a22664.html", "de/dc6/a22664" ],
+    [ "npc_finklestein", "d2/d76/a22660.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d2/d76/a22660.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d2/d76/a22660.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d2/d76/a22660.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d2/d76/a22660.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

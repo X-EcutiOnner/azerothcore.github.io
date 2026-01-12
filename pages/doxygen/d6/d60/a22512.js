@@ -1,12 +1,7 @@
 var a22512 =
 [
-    [ "npc_icefangAI", "d6/d60/a22512.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "d6/d60/a22512.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "d6/d60/a22512.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "d6/d60/a22512.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "d6/d60/a22512.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "d6/d60/a22512.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "d6/d60/a22512.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "d6/d60/a22512.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d6/d60/a22512.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "npc_hyldsmeet_protodrake", "d6/d60/a22512.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d6/d60/a22512.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d6/d60/a22512.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryRespawnTimer", "d6/d60/a22512.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

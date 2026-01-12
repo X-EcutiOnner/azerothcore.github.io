@@ -1,7 +1,9 @@
 var a23120 =
 [
-    [ "CheckProc", "df/ded/a23120.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "df/ded/a23120.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "df/ded/a23120.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "df/ded/a23120.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "FilterTargets", "df/ded/a23120.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "df/ded/a23120.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "df/ded/a23120.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "df/ded/a23120.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "df/ded/a23120.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "df/ded/a23120.html#a814083360970284a325621f45e109b5b", null ]
 ];

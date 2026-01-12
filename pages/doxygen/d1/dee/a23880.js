@@ -1,6 +1,5 @@
 var a23880 =
 [
-    [ "HandleEffect", "d1/dee/a23880.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d1/dee/a23880.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d1/dee/a23880.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "at_rp_nethekurse", "d1/dee/a23880.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d1/dee/a23880.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];
