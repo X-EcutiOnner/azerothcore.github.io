@@ -1,6 +1,7 @@
 var a26488 =
 [
-    [ "FilterTargets", "df/d43/a26488.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "df/d43/a26488.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "df/d43/a26488.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "HandleScriptEffect", "df/d43/a26488.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "df/d43/a26488.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "df/d43/a26488.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "df/d43/a26488.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

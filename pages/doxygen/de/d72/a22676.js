@@ -1,6 +1,5 @@
 var a22676 =
 [
-    [ "npc_drakuru_shacklesAI", "d2/d0e/a22680.html", "d2/d0e/a22680" ],
-    [ "npc_drakuru_shackles", "de/d72/a22676.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "de/d72/a22676.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "go_finklestein_cauldron", "de/d72/a22676.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "de/d72/a22676.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

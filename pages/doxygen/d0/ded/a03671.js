@@ -1,11 +1,11 @@
 var a03671 =
 [
-    [ "boss_chromaggus", "d5/d97/a12492.html", "d5/d97/a12492" ],
-    [ "boss_chromaggus::boss_chromaggusAI", "db/deb/a12496.html", "db/deb/a12496" ],
-    [ "go_chromaggus_lever", "d6/d49/a12500.html", "d6/d49/a12500" ],
-    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d7/d32/a12504.html", "d7/d32/a12504" ],
-    [ "spell_gen_elemental_shield", "d4/dcd/a12508.html", "d4/dcd/a12508" ],
-    [ "spell_gen_brood_power", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
+    [ "boss_chromaggus", "d6/d49/a12500.html", "d6/d49/a12500" ],
+    [ "boss_chromaggus::boss_chromaggusAI", "d7/d32/a12504.html", "d7/d32/a12504" ],
+    [ "go_chromaggus_lever", "d4/dcd/a12508.html", "d4/dcd/a12508" ],
+    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
+    [ "spell_gen_elemental_shield", "df/d4f/a12516.html", "df/d4f/a12516" ],
+    [ "spell_gen_brood_power", "d1/da6/a12520.html", "d1/da6/a12520" ],
     [ "ElementalShieldSpells", "d0/ded/a03671.html#a7cc21086b00c27f6dd4ccd562708ec6a", [
       [ "SPELL_FIRE_ELEMENTAL_SHIELD", "d0/ded/a03671.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224", null ],
       [ "SPELL_FROST_ELEMENTAL_SHIELD", "d0/ded/a03671.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de", null ],
@@ -1545,9 +1545,6 @@ var a03671 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

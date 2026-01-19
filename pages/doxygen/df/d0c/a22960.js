@@ -1,6 +1,20 @@
 var a22960 =
 [
-    [ "HandleScriptEffect", "df/d0c/a22960.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "df/d0c/a22960.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "df/d0c/a22960.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "boss_illidan_stormrage", "df/d0c/a22960.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
+    [ "CanAIAttack", "df/d0c/a22960.html#a9607a9a09df9d07ebae0513458435b4d", null ],
+    [ "CycleBeamPos", "df/d0c/a22960.html#a2044514c049262328022ac22a651fb92", null ],
+    [ "DamageTaken", "df/d0c/a22960.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
+    [ "DoAction", "df/d0c/a22960.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
+    [ "EnterEvadeMode", "df/d0c/a22960.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "JustDied", "df/d0c/a22960.html#a4d38abd8885862e31a88da4de754e35d", null ],
+    [ "JustEngagedWith", "df/d0c/a22960.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
+    [ "JustSummoned", "df/d0c/a22960.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
+    [ "KilledUnit", "df/d0c/a22960.html#abf29f9607351d35953d8d0e97779c3f9", null ],
+    [ "MovementInform", "df/d0c/a22960.html#acdd75f289288b3e6de4136267d490519", null ],
+    [ "Reset", "df/d0c/a22960.html#aa5eb94712f886e821630535cb2970dfe", null ],
+    [ "ScheduleAbilities", "df/d0c/a22960.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "_canTalk", "df/d0c/a22960.html#abaf0cca3f159aae572203254c41444a3", null ],
+    [ "_dying", "df/d0c/a22960.html#af312452020938736624496d9f6a76d28", null ],
+    [ "_inCutscene", "df/d0c/a22960.html#a715525706b44dbc53847e639f3b15d3a", null ],
+    [ "beamPosId", "df/d0c/a22960.html#a6168b84bfb49781736fa2accf5225808", null ]
 ];

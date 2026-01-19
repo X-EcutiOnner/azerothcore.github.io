@@ -1,10 +1,10 @@
 var a02363 =
 [
-    [ "boss_viscidus", "d4/d3b/a15480.html", "d4/d3b/a15480" ],
-    [ "boss_glob_of_viscidus", "d7/d34/a15484.html", "d7/d34/a15484" ],
-    [ "npc_toxic_slime", "d1/d7e/a15488.html", "d1/d7e/a15488" ],
-    [ "spell_explode_trigger", "d1/d6a/a15492.html", "d1/d6a/a15492" ],
-    [ "spell_summon_toxin_slime", "da/d45/a15496.html", "da/d45/a15496" ],
+    [ "boss_viscidus", "d1/d7e/a15488.html", "d1/d7e/a15488" ],
+    [ "boss_glob_of_viscidus", "d1/d6a/a15492.html", "d1/d6a/a15492" ],
+    [ "npc_toxic_slime", "da/d45/a15496.html", "da/d45/a15496" ],
+    [ "spell_explode_trigger", "d8/d38/a15500.html", "d8/d38/a15500" ],
+    [ "spell_summon_toxin_slime", "de/d22/a15504.html", "de/d22/a15504" ],
     [ "Emotes", "d9/d27/a02363.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d0/ded/a03671.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d0/ded/a03671.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1540,9 +1540,6 @@ var a02363 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

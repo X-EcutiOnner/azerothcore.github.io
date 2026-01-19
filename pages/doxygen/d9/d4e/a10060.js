@@ -1,6 +1,8 @@
 var a10060 =
 [
-    [ "TargetedMovementGeneratorBase", "d9/d4e/a10060.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "d9/d4e/a10060.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "d9/d4e/a10060.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "TimedFleeingMovementGenerator", "d9/d4e/a10060.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "d9/d4e/a10060.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "d9/d4e/a10060.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "d9/d4e/a10060.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "d9/d4e/a10060.html#a2858047459ff675383e7b86805702369", null ]
 ];

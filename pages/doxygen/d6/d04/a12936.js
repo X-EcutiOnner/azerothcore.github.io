@@ -1,7 +1,10 @@
 var a12936 =
 [
-    [ "FilterTargets", "d6/d04/a12936.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d6/d04/a12936.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d6/d04/a12936.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d6/d04/a12936.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "npc_netherspite_infernal", "d6/d04/a12936.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d6/d04/a12936.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d6/d04/a12936.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d6/d04/a12936.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d6/d04/a12936.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d6/d04/a12936.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d6/d04/a12936.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

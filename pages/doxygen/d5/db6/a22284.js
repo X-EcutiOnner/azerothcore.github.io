@@ -1,6 +1,6 @@
 var a22284 =
 [
-    [ "npc_lord_areteAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
-    [ "npc_lord_arete", "d5/db6/a22284.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d5/db6/a22284.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_llod_genericAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
+    [ "npc_llod_generic", "d5/db6/a22284.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d5/db6/a22284.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

@@ -1,6 +1,6 @@
 var a12144 =
 [
-    [ "npc_lokhtos_darkbargainer", "d1/d6a/a12144.html#af91685ecf0f63313968b3d82373668d2", null ],
-    [ "OnGossipHello", "d1/d6a/a12144.html#a39547487ef7db8a3942556665099893f", null ],
-    [ "OnGossipSelect", "d1/d6a/a12144.html#a5a4640678a5669c75b1fa5d787999c02", null ]
+    [ "npc_phalanxAI", "d4/d93/a12148.html", "d4/d93/a12148" ],
+    [ "npc_phalanx", "d1/d6a/a12144.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "d1/d6a/a12144.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

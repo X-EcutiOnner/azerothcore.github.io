@@ -1,12 +1,8 @@
 var a08600 =
 [
-    [ "SpellModifier", "de/d1b/a08600.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "de/d1b/a08600.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "de/d1b/a08600.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "de/d1b/a08600.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "de/d1b/a08600.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "de/d1b/a08600.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "de/d1b/a08600.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "de/d1b/a08600.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "de/d1b/a08600.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "IsInSpec", "de/d1b/a08600.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "de/d1b/a08600.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "de/d1b/a08600.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "de/d1b/a08600.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "de/d1b/a08600.html#aca9b191361652002f5178179a939e41b", null ]
 ];

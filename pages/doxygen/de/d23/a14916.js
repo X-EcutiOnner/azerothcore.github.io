@@ -1,6 +1,7 @@
 var a14916 =
 [
-    [ "FilterTargets", "de/d23/a14916.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "de/d23/a14916.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "de/d23/a14916.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "PeriodicTick", "de/d23/a14916.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "de/d23/a14916.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "de/d23/a14916.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "de/d23/a14916.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

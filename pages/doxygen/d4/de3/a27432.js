@@ -1,6 +1,6 @@
 var a27432 =
 [
-    [ "npc_spirit_shadeAI", "dd/d9b/a27436.html", "dd/d9b/a27436" ],
-    [ "npc_spirit_shade", "d4/de3/a27432.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d4/de3/a27432.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "boss_emerissAI", "dd/d9b/a27436.html", "dd/d9b/a27436" ],
+    [ "boss_emeriss", "d4/de3/a27432.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d4/de3/a27432.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

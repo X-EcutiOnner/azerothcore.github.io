@@ -1,11 +1,12 @@
 var a12360 =
 [
-    [ "npc_blackhand_incarceratorAI", "de/dc4/a12360.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "de/dc4/a12360.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "de/dc4/a12360.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "de/dc4/a12360.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "de/dc4/a12360.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "de/dc4/a12360.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "de/dc4/a12360.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "de/dc4/a12360.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "boss_pyroguard_emberseerAI", "de/dc4/a12360.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
+    [ "JustDied", "de/dc4/a12360.html#aa35fc50d327c0bf7506bfd166d098522", null ],
+    [ "JustEngagedWith", "de/dc4/a12360.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
+    [ "OpenDoors", "de/dc4/a12360.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
+    [ "Reset", "de/dc4/a12360.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
+    [ "SetData", "de/dc4/a12360.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
+    [ "SpellHit", "de/dc4/a12360.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
+    [ "UpdateAI", "de/dc4/a12360.html#a075147c4409174652e732293426b732d", null ],
+    [ "UpdateRunes", "de/dc4/a12360.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
 ];

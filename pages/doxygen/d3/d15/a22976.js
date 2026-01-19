@@ -1,12 +1,7 @@
 var a22976 =
 [
-    [ "npc_maiev_illidan", "d3/d15/a22976.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "d3/d15/a22976.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "d3/d15/a22976.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "d3/d15/a22976.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "d3/d15/a22976.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "d3/d15/a22976.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "d3/d15/a22976.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "d3/d15/a22976.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "d3/d15/a22976.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "npc_blade_of_azzinoth", "d3/d15/a22976.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d3/d15/a22976.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d3/d15/a22976.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d3/d15/a22976.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

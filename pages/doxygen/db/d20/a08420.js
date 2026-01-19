@@ -1,5 +1,6 @@
 var a08420 =
 [
-    [ "ItemStatType", "db/d20/a08420.html#a8643f062d325b5048c839525db56af3e", null ],
-    [ "ItemStatValue", "db/d20/a08420.html#a5a5ee42445d9121f186c084dfbc31425", null ]
+    [ "DamageMax", "db/d20/a08420.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "db/d20/a08420.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "db/d20/a08420.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

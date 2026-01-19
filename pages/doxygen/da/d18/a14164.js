@@ -1,9 +1,12 @@
 var a14164 =
 [
-    [ "npc_zulaman_hostageAI", "da/d18/a14164.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "da/d18/a14164.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "da/d18/a14164.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "da/d18/a14164.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "da/d18/a14164.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "da/d18/a14164.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "npc_forest_frog", "da/d18/a14164.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "da/d18/a14164.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "da/d18/a14164.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "da/d18/a14164.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "da/d18/a14164.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "da/d18/a14164.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "da/d18/a14164.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "da/d18/a14164.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "da/d18/a14164.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

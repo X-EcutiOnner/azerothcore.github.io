@@ -1,9 +1,7 @@
 var a25696 =
 [
-    [ "DoCheckCast", "d5/db9/a25696.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "d5/db9/a25696.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "d5/db9/a25696.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "d5/db9/a25696.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "d5/db9/a25696.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "d5/db9/a25696.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "HandleDummy", "d5/db9/a25696.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "d5/db9/a25696.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "d5/db9/a25696.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "d5/db9/a25696.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

@@ -1,6 +1,5 @@
 var a23872 =
 [
-    [ "PrepareSpellScript", "d9/d18/a23872.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d9/d18/a23872.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d9/d18/a23872.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "at_rp_nethekurse", "d9/d18/a23872.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d9/d18/a23872.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

@@ -1,11 +1,11 @@
 var a03728 =
 [
-    [ "OrcMoveEvent", "d8/df2/a12392.html", "d8/df2/a12392" ],
-    [ "OrcDeathEvent", "de/d52/a12396.html", "de/d52/a12396" ],
-    [ "boss_the_beast", "dd/da4/a12400.html", "dd/da4/a12400" ],
-    [ "boss_the_beast::boss_thebeastAI", "dc/d1f/a12404.html", "dc/d1f/a12404" ],
-    [ "at_trigger_the_beast_movement", "d2/def/a12408.html", "d2/def/a12408" ],
-    [ "at_the_beast_room", "d8/d8e/a12412.html", "d8/d8e/a12412" ],
+    [ "OrcMoveEvent", "dd/da4/a12400.html", "dd/da4/a12400" ],
+    [ "OrcDeathEvent", "dc/d1f/a12404.html", "dc/d1f/a12404" ],
+    [ "boss_the_beast", "d2/def/a12408.html", "d2/def/a12408" ],
+    [ "boss_the_beast::boss_thebeastAI", "d8/d8e/a12412.html", "d8/d8e/a12412" ],
+    [ "at_trigger_the_beast_movement", "dc/df2/a12416.html", "dc/df2/a12416" ],
+    [ "at_the_beast_room", "db/d8a/a12420.html", "db/d8a/a12420" ],
     [ "BeastMisc", "d3/d3b/a03728.html#a90702f385b86278a300e5589aa870fe7", [
       [ "DATA_BEAST_REACHED", "d3/d3b/a03728.html#a90702f385b86278a300e5589aa870fe7ab652dbca9c4dc475326463e0e5305849", null ],
       [ "DATA_BEAST_ROOM", "d3/d3b/a03728.html#a90702f385b86278a300e5589aa870fe7a5f756bc946db358d3d20ce9b3ff1cffd", null ],

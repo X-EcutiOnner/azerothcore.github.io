@@ -1,6 +1,6 @@
 var a17500 =
 [
-    [ "boss_slad_ranAI", "da/d4b/a17504.html", "da/d4b/a17504" ],
-    [ "boss_slad_ran", "df/d2e/a17500.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "df/d2e/a17500.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "HandlePeriodic", "df/d2e/a17500.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "df/d2e/a17500.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "df/d2e/a17500.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

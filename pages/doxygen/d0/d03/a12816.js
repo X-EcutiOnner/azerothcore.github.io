@@ -1,6 +1,9 @@
 var a12816 =
 [
-    [ "boss_mr_smiteAI", "d9/de5/a12820.html", "d9/de5/a12820" ],
-    [ "boss_mr_smite", "d0/d03/a12816.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d0/d03/a12816.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "HandleEffectApply", "d0/d03/a12816.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d0/d03/a12816.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d0/d03/a12816.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d0/d03/a12816.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d0/d03/a12816.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d0/d03/a12816.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

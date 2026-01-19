@@ -1,6 +1,6 @@
 var a15296 =
 [
-    [ "go_ossirian_crystalAI", "de/d54/a15300.html", "de/d54/a15300" ],
-    [ "go_ossirian_crystal", "d6/d74/a15296.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "d6/d74/a15296.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "HandleScript", "d6/d74/a15296.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "d6/d74/a15296.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "d6/d74/a15296.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

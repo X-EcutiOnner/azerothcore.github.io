@@ -1,6 +1,5 @@
 var a12128 =
 [
-    [ "npc_grimstoneAI", "d5/d41/a12132.html", "d5/d41/a12132" ],
-    [ "npc_grimstone", "d4/da6/a12128.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "d4/da6/a12128.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "amount", "d4/da6/a12128.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "d4/da6/a12128.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

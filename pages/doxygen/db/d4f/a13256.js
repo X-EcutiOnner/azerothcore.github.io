@@ -1,10 +1,12 @@
 var a13256 =
 [
-    [ "npc_scarlet_courierAI", "db/d4f/a13256.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "db/d4f/a13256.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "db/d4f/a13256.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "db/d4f/a13256.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "db/d4f/a13256.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "db/d4f/a13256.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "db/d4f/a13256.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "npc_koltira_deathweaverAI", "db/d4f/a13256.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "db/d4f/a13256.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "db/d4f/a13256.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "db/d4f/a13256.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "db/d4f/a13256.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "db/d4f/a13256.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "db/d4f/a13256.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "db/d4f/a13256.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "db/d4f/a13256.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

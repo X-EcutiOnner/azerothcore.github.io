@@ -1,6 +1,6 @@
 var a07328 =
 [
-    [ "ArenaSeasonRewardDistributor", "d3/d5b/a07328.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
-    [ "DistributeRewards", "d3/d5b/a07328.html#a93640633dc11edda2cd1fce4f1da496b", null ],
-    [ "_rewarder", "d3/d5b/a07328.html#af2801ea5d098bebac111589e1fcf7004", null ]
+    [ "RewardTeamWithRewardGroup", "d3/d5b/a07328.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
+    [ "RewardWithAchievements", "d3/d5b/a07328.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
+    [ "RewardWithMail", "d3/d5b/a07328.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
 ];

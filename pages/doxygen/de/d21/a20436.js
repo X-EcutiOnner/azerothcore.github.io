@@ -1,14 +1,14 @@
 var a20436 =
 [
-    [ "npc_ulduar_hodir_druidAI", "de/d21/a20436.html#ab41b2be29f20b35bfb8a7f330440b744", null ],
-    [ "AttackStart", "de/d21/a20436.html#a037716c58f70f1367d618cda52bea044", null ],
-    [ "CanAIAttack", "de/d21/a20436.html#adcae1d217637d700bb42f039a2a63e01", null ],
-    [ "EnterEvadeMode", "de/d21/a20436.html#a8a13962ed8962bc32f40243711a6676d", null ],
-    [ "JustDied", "de/d21/a20436.html#a7ed2930deae3eb1ae3216bc42dd99241", null ],
-    [ "MoveInLineOfSight", "de/d21/a20436.html#abf9548764493ad92cf766d6009e2177f", null ],
-    [ "ScheduleAbilities", "de/d21/a20436.html#a79cffc023d756e7a874d3d993d540269", null ],
-    [ "SpellHit", "de/d21/a20436.html#a8f8e93dc55da0a77e0ae29416524c6ae", null ],
-    [ "UpdateAI", "de/d21/a20436.html#abca58c8543365e16391a867389af27d9", null ],
-    [ "events", "de/d21/a20436.html#a77408c09f78e25eb350b6c37bc2c9c41", null ],
-    [ "pInstance", "de/d21/a20436.html#a679d03d94422d9686095658c9f4b1a87", null ]
+    [ "npc_ulduar_hodir_priestAI", "de/d21/a20436.html#aaa57c813d15ebf0c08a43e4530e5acdd", null ],
+    [ "AttackStart", "de/d21/a20436.html#a54058aacbf9e49f42f4f84779e0ec8ea", null ],
+    [ "CanAIAttack", "de/d21/a20436.html#a769a825c8e33bce3a130dbec53072aa4", null ],
+    [ "EnterEvadeMode", "de/d21/a20436.html#a2d92c0e03de238de439ccb3a10819cd1", null ],
+    [ "JustDied", "de/d21/a20436.html#a23a3783dc151bb7f1c5c4183b22578b0", null ],
+    [ "MoveInLineOfSight", "de/d21/a20436.html#aaa3764a042473d20526758553b968a39", null ],
+    [ "ScheduleAbilities", "de/d21/a20436.html#aab32336d42900a275613a227ccba18a7", null ],
+    [ "SpellHit", "de/d21/a20436.html#af6afbd5b0560fc4665ecb0d00010ecbc", null ],
+    [ "UpdateAI", "de/d21/a20436.html#af2b162485414ea0cdda3b19d15c2686f", null ],
+    [ "events", "de/d21/a20436.html#afdc842e08125223760d1eac105aef65b", null ],
+    [ "pInstance", "de/d21/a20436.html#a9630107a0a8f128c6b62493163a9e246", null ]
 ];

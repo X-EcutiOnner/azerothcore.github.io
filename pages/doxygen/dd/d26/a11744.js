@@ -1,12 +1,7 @@
 var a11744 =
 [
-    [ "Action", "dd/d26/a11744.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "dd/d26/a11744.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "dd/d26/a11744.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "dd/d26/a11744.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "dd/d26/a11744.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "dd/d26/a11744.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "dd/d26/a11744.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "dd/d26/a11744.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "dd/d26/a11744.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "CompressedData", "dd/d26/a11744.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "dd/d26/a11744.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "dd/d26/a11744.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "dd/d26/a11744.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

@@ -1,6 +1,6 @@
 var a22504 =
 [
-    [ "npc_icefangAI", "d1/d5b/a22508.html", "d1/d5b/a22508" ],
-    [ "npc_icefang", "d8/d5c/a22504.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d8/d5c/a22504.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_freed_protodrakeAI", "d1/d5b/a22508.html", "d1/d5b/a22508" ],
+    [ "npc_freed_protodrake", "d8/d5c/a22504.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d8/d5c/a22504.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

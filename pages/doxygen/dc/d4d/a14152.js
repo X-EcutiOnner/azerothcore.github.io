@@ -1,22 +1,6 @@
 var a14152 =
 [
-    [ "instance_zulaman_InstanceMapScript", "dc/d4d/a14152.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "dc/d4d/a14152.html#a195e4175f943bfaf42ded378cde928e4", null ],
-    [ "DoAction", "dc/d4d/a14152.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
-    [ "GetData", "dc/d4d/a14152.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
-    [ "Initialize", "dc/d4d/a14152.html#a070925eb76b8af866819844411da1beb", null ],
-    [ "OnCreatureCreate", "dc/d4d/a14152.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
-    [ "OnCreatureEvade", "dc/d4d/a14152.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
-    [ "OnGameObjectCreate", "dc/d4d/a14152.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
-    [ "OnPlayerEnter", "dc/d4d/a14152.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
-    [ "OnUnitDeath", "dc/d4d/a14152.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
-    [ "ResetAkilzonGauntlet", "dc/d4d/a14152.html#a1623080f2466aeca03f048decc34bdb5", null ],
-    [ "SetBossState", "dc/d4d/a14152.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
-    [ "SetData", "dc/d4d/a14152.html#a7381d84943028f66b339168724b467b8", null ],
-    [ "StartAkilzonGauntlet", "dc/d4d/a14152.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
-    [ "SummonHostage", "dc/d4d/a14152.html#a907b3f4a59cbd366f702daeffe05d607", null ],
-    [ "Update", "dc/d4d/a14152.html#a826800c63083d2af31847118c8b05e57", null ],
-    [ "_akilzonGauntlet", "dc/d4d/a14152.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "AkilzonTrash", "dc/d4d/a14152.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
-    [ "RandVendor", "dc/d4d/a14152.html#ae1e7cad436566533b7673438884e6210", null ]
+    [ "go", "dc/d4d/a14152.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "dc/d4d/a14152.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "dc/d4d/a14152.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

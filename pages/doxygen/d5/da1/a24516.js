@@ -1,6 +1,5 @@
 var a24516 =
 [
-    [ "npc_kservantAI", "de/d6b/a24520.html", "de/d6b/a24520" ],
-    [ "npc_kservant", "d5/da1/a24516.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d5/da1/a24516.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "npc_shattrath_daily_quest", "d5/da1/a24516.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d5/da1/a24516.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

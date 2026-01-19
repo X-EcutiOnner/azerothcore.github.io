@@ -1,7 +1,6 @@
 var a18620 =
 [
-    [ "CheckTargetCount", "df/dda/a18620.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "df/dda/a18620.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "df/dda/a18620.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "df/dda/a18620.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "ModDestHeight", "df/dda/a18620.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "df/dda/a18620.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "df/dda/a18620.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

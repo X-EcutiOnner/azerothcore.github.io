@@ -1,6 +1,6 @@
 var a17380 =
 [
-    [ "npc_pos_leader_secondAI", "d1/dbd/a17384.html", "d1/dbd/a17384" ],
-    [ "npc_pos_leader_second", "d8/d8c/a17380.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "d8/d8c/a17380.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "npc_pos_freed_slaveAI", "d1/dbd/a17384.html", "d1/dbd/a17384" ],
+    [ "npc_pos_freed_slave", "d8/d8c/a17380.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d8/d8c/a17380.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

@@ -1,6 +1,7 @@
 var a22324 =
 [
-    [ "HandleDummy", "db/deb/a22324.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "db/deb/a22324.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "db/deb/a22324.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "Absorb", "db/deb/a22324.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "db/deb/a22324.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "db/deb/a22324.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "db/deb/a22324.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

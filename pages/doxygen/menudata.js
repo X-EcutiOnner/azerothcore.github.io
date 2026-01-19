@@ -269,8 +269,7 @@ var menudata={children:[
 {text:"r",url:"functions_eval.html#index_r"},
 {text:"s",url:"functions_eval.html#index_s"},
 {text:"t",url:"functions_eval.html#index_t"},
-{text:"u",url:"functions_eval.html#index_u"},
-{text:"w",url:"functions_eval.html#index_w"}]},
+{text:"u",url:"functions_eval.html#index_u"}]},
 {text:"Related Functions",url:"functions_rela.html",children:[
 {text:"a",url:"functions_rela.html#index_a"},
 {text:"b",url:"functions_rela.html#index_b"},

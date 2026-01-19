@@ -1,6 +1,6 @@
 var a22292 =
 [
-    [ "npc_boneguard_footmanAI", "d5/d64/a22296.html", "d5/d64/a22296" ],
-    [ "npc_boneguard_footman", "d4/d0d/a22292.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d4/d0d/a22292.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_lord_areteAI", "d5/d64/a22296.html", "d5/d64/a22296" ],
+    [ "npc_lord_arete", "d4/d0d/a22292.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d4/d0d/a22292.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

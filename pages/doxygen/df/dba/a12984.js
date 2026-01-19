@@ -1,5 +1,5 @@
 var a12984 =
 [
-    [ "at_karazhan_mirkblood_entrance", "df/dba/a12984.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "df/dba/a12984.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "PrepareSpellScript", "df/dba/a12984.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "df/dba/a12984.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

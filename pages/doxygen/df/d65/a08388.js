@@ -1,5 +1,9 @@
 var a08388 =
 [
-    [ "CastBarCaption", "df/d65/a08388.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
-    [ "Name", "df/d65/a08388.html#a462917eda1e095c99054495abf70cd67", null ]
+    [ "artKits", "df/d65/a08388.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "df/d65/a08388.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "df/d65/a08388.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "df/d65/a08388.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "df/d65/a08388.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "df/d65/a08388.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

@@ -1,7 +1,6 @@
 var a15996 =
 [
-    [ "npc_ranshallaAI", "dc/d27/a16000.html", "dc/d27/a16000" ],
-    [ "npc_ranshalla", "d8/ddf/a15996.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d8/ddf/a15996.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d8/ddf/a15996.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "SayerEntry", "d8/ddf/a15996.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d8/ddf/a15996.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d8/ddf/a15996.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

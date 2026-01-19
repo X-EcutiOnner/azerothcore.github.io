@@ -1,6 +1,6 @@
 var a30030 =
 [
-    [ "Enchantment", "dd/d48/a30030.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "dd/d48/a30030.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "dd/d48/a30030.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "ComputeBaseUnitDim", "dd/d48/a30030.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "isCurrentDirectory", "dd/d48/a30030.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "dd/d48/a30030.html#a45540263b1795bfc48c91a117c239a6c", null ]
 ];

@@ -1,7 +1,6 @@
 var a12628 =
 [
-    [ "HandleEffectScriptEffect", "d4/d59/a12628.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d4/d59/a12628.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d4/d59/a12628.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d4/d59/a12628.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "de/d29/a12632.html", "de/d29/a12632" ],
+    [ "instance_blackwing_lair", "d4/d59/a12628.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "d4/d59/a12628.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

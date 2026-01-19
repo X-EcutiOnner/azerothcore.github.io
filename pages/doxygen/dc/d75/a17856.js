@@ -1,12 +1,6 @@
 var a17856 =
 [
-    [ "gunship_npc_AI", "dc/d75/a17856.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "dc/d75/a17856.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "dc/d75/a17856.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "dc/d75/a17856.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "dc/d75/a17856.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "dc/d75/a17856.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "dc/d75/a17856.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "dc/d75/a17856.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "dc/d75/a17856.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_igb_ship_crewAI", "d2/dbd/a17860.html", "d2/dbd/a17860" ],
+    [ "npc_igb_ship_crew", "dc/d75/a17856.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "dc/d75/a17856.html#a48955817e21a01a726b50685b467c229", null ]
 ];

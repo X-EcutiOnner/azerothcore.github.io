@@ -1,9 +1,9 @@
 var a03584 =
 [
-    [ "PlayerAbilityStruct", "d7/da2/a14088.html", "d7/da2/a14088" ],
-    [ "boss_hexlord_malacrass", "d6/dd2/a14092.html", "d6/dd2/a14092" ],
-    [ "boss_alyson_antille", "d4/df9/a14096.html", "d4/df9/a14096" ],
-    [ "spell_hexlord_unstable_affliction", "d6/d4d/a14100.html", "d6/d4d/a14100" ],
+    [ "PlayerAbilityStruct", "d4/df9/a14096.html", "d4/df9/a14096" ],
+    [ "boss_hexlord_malacrass", "d6/d4d/a14100.html", "d6/d4d/a14100" ],
+    [ "boss_alyson_antille", "da/d31/a14104.html", "da/d31/a14104" ],
+    [ "spell_hexlord_unstable_affliction", "d6/d59/a14108.html", "d6/d59/a14108" ],
     [ "AbilityTarget", "dd/dda/a03584.html#adfb3b9eec5ef9b543982c5266b78f0c4", [
       [ "ABILITY_TARGET_SELF", "dd/dda/a03584.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68", null ],
       [ "ABILITY_TARGET_VICTIM", "dd/dda/a03584.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901", null ],
@@ -511,9 +511,6 @@ var a03584 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

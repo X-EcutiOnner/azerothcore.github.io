@@ -1,6 +1,6 @@
 var a21656 =
 [
-    [ "npc_azure_mage_slayerAI", "d8/d40/a21660.html", "d8/d40/a21660" ],
-    [ "npc_azure_mage_slayer", "d7/d49/a21656.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d7/d49/a21656.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "npc_azure_binderAI", "d8/d40/a21660.html", "d8/d40/a21660" ],
+    [ "npc_azure_binder", "d7/d49/a21656.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "d7/d49/a21656.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

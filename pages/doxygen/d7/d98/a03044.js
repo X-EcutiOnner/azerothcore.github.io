@@ -1,10 +1,10 @@
 var a03044 =
 [
-    [ "boss_novos", "db/d58/a16952.html", "db/d58/a16952" ],
-    [ "spell_novos_despawn_crystal_handler", "d9/d12/a16956.html", "d9/d12/a16956" ],
-    [ "spell_novos_crystal_handler_death_aura", "d4/da9/a16960.html", "d4/da9/a16960" ],
-    [ "spell_novos_summon_minions", "db/d3d/a16964.html", "db/d3d/a16964" ],
-    [ "achievement_oh_novos", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
+    [ "boss_novos", "d4/da9/a16960.html", "d4/da9/a16960" ],
+    [ "spell_novos_despawn_crystal_handler", "db/d3d/a16964.html", "db/d3d/a16964" ],
+    [ "spell_novos_crystal_handler_death_aura", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
+    [ "spell_novos_summon_minions", "d7/d15/a16972.html", "d7/d15/a16972" ],
+    [ "achievement_oh_novos", "d8/dd7/a16976.html", "d8/dd7/a16976" ],
     [ "Misc", "d7/d98/a03044.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d5/d35/a03716.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "da/d85/a03758.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -263,9 +263,6 @@ var a03044 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

@@ -1,17 +1,9 @@
 var a19756 =
 [
-    [ "boss_bjarngrim", "d9/d40/a19756.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "d9/d40/a19756.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "d9/d40/a19756.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "d9/d40/a19756.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "KilledUnit", "d9/d40/a19756.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "d9/d40/a19756.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "d9/d40/a19756.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "d9/d40/a19756.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "d9/d40/a19756.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "d9/d40/a19756.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "events", "d9/d40/a19756.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "d9/d40/a19756.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "d9/d40/a19756.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "d9/d40/a19756.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "HandleOnEffectApply", "d9/d40/a19756.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d9/d40/a19756.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d9/d40/a19756.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d9/d40/a19756.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d9/d40/a19756.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d9/d40/a19756.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

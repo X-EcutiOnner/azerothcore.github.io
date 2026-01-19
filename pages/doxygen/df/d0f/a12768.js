@@ -1,8 +1,6 @@
 var a12768 =
 [
-    [ "FilterTargets", "df/d0f/a12768.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "df/d0f/a12768.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "df/d0f/a12768.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "df/d0f/a12768.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "df/d0f/a12768.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_shazzrahAI", "de/d3a/a12772.html", "de/d3a/a12772" ],
+    [ "boss_shazzrah", "df/d0f/a12768.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "df/d0f/a12768.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

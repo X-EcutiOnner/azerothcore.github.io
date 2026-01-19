@@ -1,6 +1,6 @@
 var a18044 =
 [
-    [ "HandlePeriodicTick", "d0/d86/a18044.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d0/d86/a18044.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d0/d86/a18044.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_darnavanAI", "d4/d6d/a18048.html", "d4/d6d/a18048" ],
+    [ "npc_darnavan", "d0/d86/a18044.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d0/d86/a18044.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

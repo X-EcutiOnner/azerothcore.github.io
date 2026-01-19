@@ -1,5 +1,6 @@
 var a16948 =
 [
-    [ "achievement_better_off_dred", "d5/d72/a16948.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d5/d72/a16948.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "OnPeriodic", "d5/d72/a16948.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "d5/d72/a16948.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "d5/d72/a16948.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

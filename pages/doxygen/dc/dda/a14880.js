@@ -1,7 +1,9 @@
 var a14880 =
 [
-    [ "HandleOnHit", "dc/dda/a14880.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "dc/dda/a14880.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "dc/dda/a14880.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "dc/dda/a14880.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "boss_azuregosAI", "dc/dda/a14880.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "dc/dda/a14880.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "dc/dda/a14880.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "dc/dda/a14880.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "dc/dda/a14880.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "dc/dda/a14880.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

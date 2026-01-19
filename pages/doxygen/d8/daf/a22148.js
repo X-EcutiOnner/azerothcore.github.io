@@ -1,7 +1,6 @@
 var a22148 =
 [
-    [ "HandleScriptEffect", "d8/daf/a22148.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d8/daf/a22148.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d8/daf/a22148.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d8/daf/a22148.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_ravenous_worgAI", "dd/d1c/a22152.html", "dd/d1c/a22152" ],
+    [ "npc_ravenous_worg", "d8/daf/a22148.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d8/daf/a22148.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

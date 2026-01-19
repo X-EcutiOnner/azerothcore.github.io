@@ -1,8 +1,15 @@
 var a11652 =
 [
-    [ "CreatureTextId", "d9/db0/a11652.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d9/db0/a11652.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d9/db0/a11652.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d9/db0/a11652.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d9/db0/a11652.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "BroadcastTextId", "d9/db0/a11652.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d9/db0/a11652.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d9/db0/a11652.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d9/db0/a11652.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d9/db0/a11652.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d9/db0/a11652.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d9/db0/a11652.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d9/db0/a11652.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d9/db0/a11652.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d9/db0/a11652.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d9/db0/a11652.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d9/db0/a11652.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

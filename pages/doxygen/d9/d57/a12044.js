@@ -1,11 +1,9 @@
 var a12044 =
 [
-    [ "spectator_commandscript", "d9/d57/a12044.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "d9/d57/a12044.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "d9/d57/a12044.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "d9/d57/a12044.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "d9/d57/a12044.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "d9/d57/a12044.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "d9/d57/a12044.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "d9/d57/a12044.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "send_commandscript", "d9/d57/a12044.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d9/d57/a12044.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d9/d57/a12044.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d9/d57/a12044.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d9/d57/a12044.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d9/d57/a12044.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

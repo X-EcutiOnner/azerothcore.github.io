@@ -1,5 +1,8 @@
 var a24348 =
 [
-    [ "at_commander_dawnforge", "d5/d66/a24348.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d5/d66/a24348.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "npc_bessyAI", "d5/d66/a24348.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d5/d66/a24348.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d5/d66/a24348.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d5/d66/a24348.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d5/d66/a24348.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

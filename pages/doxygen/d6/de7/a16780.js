@@ -1,6 +1,6 @@
 var a16780 =
 [
-    [ "npc_toc_pet_warlockAI", "d6/d6f/a16784.html", "d6/d6f/a16784" ],
-    [ "npc_toc_pet_warlock", "d6/de7/a16780.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d6/de7/a16780.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_toc_retro_paladinAI", "d6/d6f/a16784.html", "d6/d6f/a16784" ],
+    [ "npc_toc_retro_paladin", "d6/de7/a16780.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "d6/de7/a16780.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

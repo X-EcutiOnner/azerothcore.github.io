@@ -1,8 +1,6 @@
 var a17664 =
 [
-    [ "OnApply", "d9/dea/a17664.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d9/dea/a17664.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d9/dea/a17664.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d9/dea/a17664.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d9/dea/a17664.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "BloodboltHitCheck", "d9/dea/a17664.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d9/dea/a17664.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d9/dea/a17664.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

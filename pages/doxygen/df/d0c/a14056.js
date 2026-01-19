@@ -1,6 +1,7 @@
 var a14056 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d9/d6c/a14060.html", "d9/d6c/a14060" ],
-    [ "npc_tapoke_slim_jahn", "df/d0c/a14056.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "df/d0c/a14056.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_daphne_stilwellAI", "d9/d6c/a14060.html", "d9/d6c/a14060" ],
+    [ "npc_daphne_stilwell", "df/d0c/a14056.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "df/d0c/a14056.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "df/d0c/a14056.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

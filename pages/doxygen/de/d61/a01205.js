@@ -1,6 +1,6 @@
 var a01205 =
 [
-    [ "AutobroadcastMgr", "df/da9/a07228.html", "df/da9/a07228" ],
+    [ "AutobroadcastMgr", "df/d74/a07232.html", "df/d74/a07232" ],
     [ "sAutobroadcastMgr", "de/d61/a01205.html#a34abff2dadcb74370b0749fe9fda3878", null ],
     [ "AnnounceType", "de/d61/a01205.html#a28a4ef2f64643c76d8be05bf9eafc731", [
       [ "World", "de/d61/a01205.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],

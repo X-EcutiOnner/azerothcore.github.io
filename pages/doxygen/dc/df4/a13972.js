@@ -1,6 +1,7 @@
 var a13972 =
 [
-    [ "npc_highborne_lamenterAI", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
-    [ "npc_highborne_lamenter", "dc/df4/a13972.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "dc/df4/a13972.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
+    [ "npc_lady_sylvanas_windrunner", "dc/df4/a13972.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "dc/df4/a13972.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "dc/df4/a13972.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

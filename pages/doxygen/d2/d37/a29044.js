@@ -1,10 +1,9 @@
 var a29044 =
 [
-    [ "WDTFile", "d2/d37/a29044.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d2/d37/a29044.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d2/d37/a29044.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d2/d37/a29044.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d2/d37/a29044.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d2/d37/a29044.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d2/d37/a29044.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "WDT_file", "d2/d37/a29044.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d2/d37/a29044.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d2/d37/a29044.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d2/d37/a29044.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d2/d37/a29044.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d2/d37/a29044.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

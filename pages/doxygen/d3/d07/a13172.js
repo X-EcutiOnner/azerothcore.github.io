@@ -1,7 +1,6 @@
 var a13172 =
 [
-    [ "HandleScriptEffect", "d3/d07/a13172.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "d3/d07/a13172.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "d3/d07/a13172.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "d3/d07/a13172.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "de/d5a/a13176.html", "de/d5a/a13176" ],
+    [ "instance_magisters_terrace", "d3/d07/a13172.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d3/d07/a13172.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

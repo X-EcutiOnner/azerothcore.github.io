@@ -1,6 +1,7 @@
 var a08872 =
 [
-    [ "Reset", "d7/d5c/a08872.html#acccf504073283011dc32b05a5a87b85a", null ],
-    [ "Guid", "d7/d5c/a08872.html#a738a014abc8cb5df525642acc218576b", null ],
-    [ "IsUnselectable", "d7/d5c/a08872.html#a037411c58c414d0c5a39915b7acd578d", null ]
+    [ "VehicleDespawnEvent", "d7/d5c/a08872.html#a53c96e023186cfb36084814b69e62d15", null ],
+    [ "Execute", "d7/d5c/a08872.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "d7/d5c/a08872.html#a9ac4ab83b785691285fb20364925b7ca", null ],
+    [ "_self", "d7/d5c/a08872.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

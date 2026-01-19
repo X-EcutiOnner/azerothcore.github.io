@@ -1,6 +1,6 @@
 var a12972 =
 [
-    [ "HandleCast", "dc/dd6/a12972.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "dc/dd6/a12972.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "dc/dd6/a12972.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "npc_sanguine_spirit", "dc/dd6/a12972.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "dc/dd6/a12972.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "dc/dd6/a12972.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

@@ -1,9 +1,7 @@
 var a11720 =
 [
-    [ "bytes", "da/d4f/a11720.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "da/d4f/a11720.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "da/d4f/a11720.html#a0ae1299614a815acbac314ae7d09af9c", null ],
-    [ "ints", "da/d4f/a11720.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "da/d4f/a11720.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "da/d4f/a11720.html#a260ca241a3d15411151e3acfb9fd18cb", null ]
+    [ "PlayerDumpReader", "da/d4f/a11720.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "da/d4f/a11720.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "da/d4f/a11720.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "da/d4f/a11720.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

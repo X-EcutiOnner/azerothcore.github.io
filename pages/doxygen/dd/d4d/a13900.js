@@ -1,6 +1,6 @@
 var a13900 =
 [
-    [ "CheckProc", "dd/d4d/a13900.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "dd/d4d/a13900.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "dd/d4d/a13900.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_grand_magister_rommathAI", "d9/d90/a13904.html", "d9/d90/a13904" ],
+    [ "npc_grand_magister_rommath", "dd/d4d/a13900.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
+    [ "GetAI", "dd/d4d/a13900.html#abd64eff4712e8209e39e938b1813250c", null ]
 ];

@@ -1,7 +1,6 @@
 var a15528 =
 [
-    [ "npc_vekniss_stinger", "df/d70/a15528.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "df/d70/a15528.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "df/d70/a15528.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "df/d70/a15528.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "HandleDummy", "df/d70/a15528.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "df/d70/a15528.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "df/d70/a15528.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

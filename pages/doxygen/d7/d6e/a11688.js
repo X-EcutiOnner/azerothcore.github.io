@@ -1,5 +1,4 @@
 var a11688 =
 [
-    [ "Name", "d7/d6e/a11688.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
-    [ "Type", "d7/d6e/a11688.html#aeacac864bd23dcb7b24efc484810f592", null ]
+    [ "operator()", "d7/d6e/a11688.html#a92cee61e659d819612af9d8f340661ab", null ]
 ];

@@ -1,6 +1,6 @@
 var a20036 =
 [
-    [ "boss_auriayaAI", "d1/d94/a20040.html", "d1/d94/a20040" ],
-    [ "boss_auriaya", "d0/d8f/a20036.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "d0/d8f/a20036.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "achievement_assembly_of_iron", "d0/d8f/a20036.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d0/d8f/a20036.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d0/d8f/a20036.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

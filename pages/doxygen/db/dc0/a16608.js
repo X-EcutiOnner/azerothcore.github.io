@@ -1,6 +1,8 @@
 var a16608 =
 [
-    [ "HideNpcEvent", "db/dc0/a16608.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "db/dc0/a16608.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "db/dc0/a16608.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_announcer_toc5AI", "d7/d47/a16612.html", "d7/d47/a16612" ],
+    [ "npc_announcer_toc5", "db/dc0/a16608.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "db/dc0/a16608.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "db/dc0/a16608.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "db/dc0/a16608.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

@@ -1,8 +1,9 @@
 var a17076 =
 [
-    [ "npc_fos_leaderAI", "d5/d29/a17076.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d5/d29/a17076.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d5/d29/a17076.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d5/d29/a17076.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d5/d29/a17076.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandlePeriodicTick", "d5/d29/a17076.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d5/d29/a17076.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d5/d29/a17076.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d5/d29/a17076.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d5/d29/a17076.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d5/d29/a17076.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

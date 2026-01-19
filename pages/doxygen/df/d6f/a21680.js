@@ -1,6 +1,6 @@
 var a21680 =
 [
-    [ "npc_azure_spellbreakerAI", "d0/ddb/a21684.html", "d0/ddb/a21684" ],
-    [ "npc_azure_spellbreaker", "df/d6f/a21680.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "df/d6f/a21680.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_azure_stalkerAI", "d0/ddb/a21684.html", "d0/ddb/a21684" ],
+    [ "npc_azure_stalker", "df/d6f/a21680.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "df/d6f/a21680.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

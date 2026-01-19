@@ -1,8 +1,6 @@
 var a12308 =
 [
-    [ "CheckProc", "d7/d68/a12308.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d7/d68/a12308.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d7/d68/a12308.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d7/d68/a12308.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d7/d68/a12308.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_gythAI", "d4/dbb/a12312.html", "d4/dbb/a12312" ],
+    [ "boss_gyth", "d7/d68/a12308.html#a286d19b0a6e317cb7e69343982b71062", null ],
+    [ "GetAI", "d7/d68/a12308.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
 ];

@@ -1,5 +1,7 @@
 var a11732 =
 [
-    [ "Command", "d7/d2b/a11732.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "d7/d2b/a11732.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "Command", "d7/d2b/a11732.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "d7/d2b/a11732.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "d7/d2b/a11732.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "d7/d2b/a11732.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

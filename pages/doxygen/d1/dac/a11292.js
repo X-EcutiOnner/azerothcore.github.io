@@ -1,7 +1,14 @@
 var a11292 =
 [
-    [ "IsValidOpcode", "d1/dac/a11292.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d1/dac/a11292.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d1/dac/a11292.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d1/dac/a11292.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "Account", "d1/dac/a11292.html#acb9382abe66dd43176fb7af1f3020388", null ],
+    [ "AddonInfo", "d1/dac/a11292.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
+    [ "BattlegroupID", "d1/dac/a11292.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
+    [ "Build", "d1/dac/a11292.html#ae4a83f8e8c81c1d797512245392fd582", null ],
+    [ "Digest", "d1/dac/a11292.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
+    [ "DosResponse", "d1/dac/a11292.html#afe2b4146ef592a7067ddaeac449b0644", null ],
+    [ "LocalChallenge", "d1/dac/a11292.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
+    [ "LoginServerID", "d1/dac/a11292.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
+    [ "LoginServerType", "d1/dac/a11292.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
+    [ "RealmID", "d1/dac/a11292.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
+    [ "RegionID", "d1/dac/a11292.html#a4052be051b41e931747b1956dc145d64", null ]
 ];

@@ -1,13 +1,7 @@
 var a15792 =
 [
-    [ "npc_shenthulAI", "d3/d35/a15792.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "d3/d35/a15792.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "d3/d35/a15792.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "d3/d35/a15792.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "d3/d35/a15792.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "d3/d35/a15792.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "d3/d35/a15792.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "d3/d35/a15792.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "d3/d35/a15792.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "d3/d35/a15792.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_giant_spotlightAI", "d3/d35/a15792.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d3/d35/a15792.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d3/d35/a15792.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d3/d35/a15792.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

@@ -1,6 +1,6 @@
 var a02189 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d1/d8f/a23956.html", "d1/d8f/a23956" ],
+    [ "boss_wrath_scryer_soccothrates", "da/d8c/a23948.html", "da/d8c/a23948" ],
     [ "Events", "d8/d85/a02189.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

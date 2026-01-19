@@ -1,9 +1,9 @@
 var a03548 =
 [
-    [ "boss_malchezaar", "d8/d9a/a12924.html", "d8/d9a/a12924" ],
-    [ "npc_netherspite_infernal", "d2/dde/a12928.html", "d2/dde/a12928" ],
-    [ "npc_malchezaar_axe", "d2/d75/a12932.html", "d2/d75/a12932" ],
-    [ "spell_malchezaar_enfeeble", "d6/d04/a12936.html", "d6/d04/a12936" ],
+    [ "boss_malchezaar", "d2/d75/a12932.html", "d2/d75/a12932" ],
+    [ "npc_netherspite_infernal", "d6/d04/a12936.html", "d6/d04/a12936" ],
+    [ "npc_malchezaar_axe", "d2/df5/a12940.html", "d2/df5/a12940" ],
+    [ "spell_malchezaar_enfeeble", "d1/dfc/a12944.html", "d1/dfc/a12944" ],
     [ "creatures", "d8/d2e/a03548.html#a6e089756759f99eebae6d3e5c1e939b0", [
       [ "NPC_NETHERSPITE_INFERNAL", "d8/d2e/a03548.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9", null ],
       [ "NPC_MALCHEZAARS_AXE", "d8/d2e/a03548.html#a6e089756759f99eebae6d3e5c1e939b0ab5a522f5291ed3fcd44c1f41c7a4c575", null ],

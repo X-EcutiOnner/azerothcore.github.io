@@ -1,18 +1,12 @@
 var a22364 =
 [
-    [ "npc_blessed_bannerAI", "dd/dc5/a22364.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "dd/dc5/a22364.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "dd/dc5/a22364.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "dd/dc5/a22364.html#a354921ca9a3603c48885a38a507347c4", null ],
-    [ "MoveInLineOfSight", "dd/dc5/a22364.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "dd/dc5/a22364.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "dd/dc5/a22364.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "dd/dc5/a22364.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "dd/dc5/a22364.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "dd/dc5/a22364.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "dd/dc5/a22364.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "dd/dc5/a22364.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "dd/dc5/a22364.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "dd/dc5/a22364.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "dd/dc5/a22364.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "npc_tournament_training_dummyAI", "dd/dc5/a22364.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "dd/dc5/a22364.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "dd/dc5/a22364.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "dd/dc5/a22364.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "dd/dc5/a22364.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "dd/dc5/a22364.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "dd/dc5/a22364.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "dd/dc5/a22364.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "dd/dc5/a22364.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

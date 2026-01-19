@@ -1,7 +1,6 @@
 var a22568 =
 [
-    [ "HandleDummy", "d9/d00/a22568.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d9/d00/a22568.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d9/d00/a22568.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d9/d00/a22568.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "HandleDamage", "d9/d00/a22568.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d9/d00/a22568.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d9/d00/a22568.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

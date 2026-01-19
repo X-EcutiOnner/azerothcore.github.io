@@ -1,9 +1,13 @@
 var a27932 =
 [
-    [ "npc_fireworkAI", "da/de0/a27932.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "da/de0/a27932.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "da/de0/a27932.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "da/de0/a27932.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "da/de0/a27932.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "da/de0/a27932.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_spring_rabbitAI", "da/de0/a27932.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "da/de0/a27932.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "da/de0/a27932.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "da/de0/a27932.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "da/de0/a27932.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "da/de0/a27932.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "da/de0/a27932.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "da/de0/a27932.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "da/de0/a27932.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "da/de0/a27932.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

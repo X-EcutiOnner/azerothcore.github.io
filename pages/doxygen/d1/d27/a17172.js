@@ -1,6 +1,6 @@
 var a17172 =
 [
-    [ "npc_tortured_riflemanAI", "d3/df8/a17176.html", "d3/df8/a17176" ],
-    [ "npc_tortured_rifleman", "d1/d27/a17172.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d1/d27/a17172.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_spectral_footmanAI", "d3/df8/a17176.html", "d3/df8/a17176" ],
+    [ "npc_spectral_footman", "d1/d27/a17172.html#a300fb06b896d2d08f9e3671422232ad2", null ],
+    [ "GetAI", "d1/d27/a17172.html#adbc1b961aba6cefb97dfff3014248735", null ]
 ];

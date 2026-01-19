@@ -1,12 +1,8 @@
 var a07180 =
 [
-    [ "Type", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "d5/d4d/a07180.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "d5/d4d/a07180.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "d5/d4d/a07180.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "d5/d4d/a07180.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "faction", "d5/d4d/a07180.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "d5/d4d/a07180.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "d5/d4d/a07180.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "d5/d4d/a07180.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "d5/d4d/a07180.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

@@ -1,6 +1,5 @@
 var a12920 =
 [
-    [ "FilterTargets", "de/d59/a12920.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "de/d59/a12920.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "de/d59/a12920.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "go_blackened_urn", "de/d59/a12920.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "de/d59/a12920.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

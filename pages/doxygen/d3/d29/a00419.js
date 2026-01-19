@@ -1,8 +1,8 @@
 var a00419 =
 [
-    [ "ArenaSeasonReward", "d1/d63/a07308.html", "d1/d63/a07308" ],
-    [ "ArenaSeasonRewardGroup", "d9/ddf/a07312.html", "d9/ddf/a07312" ],
-    [ "ArenaSeasonMgr", "df/d60/a07316.html", "df/d60/a07316" ],
+    [ "ArenaSeasonReward", "d9/ddf/a07312.html", "d9/ddf/a07312" ],
+    [ "ArenaSeasonRewardGroup", "df/d60/a07316.html", "df/d60/a07316" ],
+    [ "ArenaSeasonMgr", "d8/da1/a07320.html", "d8/da1/a07320" ],
     [ "sArenaSeasonMgr", "d3/d29/a00419.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
     [ "ArenaSeasonRewardGroupCriteriaType", "d3/d29/a00419.html#a983281e9aada2538d6bc53ae4dd4d266", [
       [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d3/d29/a00419.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],

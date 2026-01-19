@@ -1,7 +1,6 @@
 var a24360 =
 [
-    [ "npc_maxx_a_million_escortAI", "db/dfb/a24364.html", "db/dfb/a24364" ],
-    [ "npc_maxx_a_million_escort", "d5/d62/a24360.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d5/d62/a24360.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d5/d62/a24360.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "CheckCast", "d5/d62/a24360.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d5/d62/a24360.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d5/d62/a24360.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

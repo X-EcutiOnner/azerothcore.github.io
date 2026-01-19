@@ -1,5 +1,5 @@
 var a27692 =
 [
-    [ "item_incendiary_explosives", "d6/dcd/a27692.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d6/dcd/a27692.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "item_disgusting_jar", "d6/dcd/a27692.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d6/dcd/a27692.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

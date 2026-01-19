@@ -1,9 +1,9 @@
 var a02072 =
 [
-    [ "boss_hungarfen", "d2/d41/a23640.html", "d2/d41/a23640" ],
-    [ "npc_underbog_mushroom", "d6/d4d/a23644.html", "d6/d4d/a23644" ],
-    [ "spell_spore_cloud", "d6/d0b/a23648.html", "d6/d0b/a23648" ],
-    [ "spell_despawn_underbog_mushrooms", "de/d01/a23652.html", "de/d01/a23652" ],
+    [ "boss_hungarfen", "d8/d9f/a23632.html", "d8/d9f/a23632" ],
+    [ "npc_underbog_mushroom", "d5/dd6/a23636.html", "d5/dd6/a23636" ],
+    [ "spell_spore_cloud", "d2/d41/a23640.html", "d2/d41/a23640" ],
+    [ "spell_despawn_underbog_mushrooms", "d6/d4d/a23644.html", "d6/d4d/a23644" ],
     [ "Misc", "de/d9d/a02072.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d5/d35/a03716.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "da/d85/a03758.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -262,9 +262,6 @@ var a02072 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

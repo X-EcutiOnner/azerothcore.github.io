@@ -1,7 +1,6 @@
 var a15864 =
 [
-    [ "npc_kaya_flathoofAI", "d0/d94/a15864.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d0/d94/a15864.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d0/d94/a15864.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d0/d94/a15864.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "npc_braug_dimspirit", "d0/d94/a15864.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d0/d94/a15864.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d0/d94/a15864.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

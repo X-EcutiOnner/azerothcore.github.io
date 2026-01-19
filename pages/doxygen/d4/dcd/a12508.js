@@ -1,7 +1,6 @@
 var a12508 =
 [
-    [ "HandleScript", "d4/dcd/a12508.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d4/dcd/a12508.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d4/dcd/a12508.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d4/dcd/a12508.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "go_chromaggus_leverAI", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
+    [ "go_chromaggus_lever", "d4/dcd/a12508.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d4/dcd/a12508.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

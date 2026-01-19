@@ -1,7 +1,6 @@
 var a22480 =
 [
-    [ "HandleDummy", "d8/d88/a22480.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d8/d88/a22480.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d8/d88/a22480.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d8/d88/a22480.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_time_lost_proto_drakeAI", "dd/d18/a22484.html", "dd/d18/a22484" ],
+    [ "npc_time_lost_proto_drake", "d8/d88/a22480.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d8/d88/a22480.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

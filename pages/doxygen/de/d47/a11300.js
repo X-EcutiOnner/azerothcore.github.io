@@ -1,5 +1,7 @@
 var a11300 =
 [
-    [ "SocketAdded", "de/d47/a11300.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
-    [ "SocketRemoved", "de/d47/a11300.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
+    [ "IsValidOpcode", "de/d47/a11300.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "de/d47/a11300.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "de/d47/a11300.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "de/d47/a11300.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

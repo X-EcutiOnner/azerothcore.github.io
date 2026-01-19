@@ -1,10 +1,10 @@
 var a03566 =
 [
-    [ "BoardCell", "d8/d51/a12852.html", "d8/d51/a12852" ],
-    [ "npc_echo_of_medivh", "d4/dde/a12856.html", "d4/dde/a12856" ],
-    [ "npc_chesspiece", "da/d02/a12860.html", "da/d02/a12860" ],
-    [ "npc_chess_move_trigger", "d4/dc0/a12864.html", "d4/dc0/a12864" ],
-    [ "spell_control_piece", "d2/def/a12868.html", "d2/def/a12868" ],
+    [ "BoardCell", "da/d02/a12860.html", "da/d02/a12860" ],
+    [ "npc_echo_of_medivh", "d4/dc0/a12864.html", "d4/dc0/a12864" ],
+    [ "npc_chesspiece", "d2/def/a12868.html", "d2/def/a12868" ],
+    [ "npc_chess_move_trigger", "d1/d4f/a12872.html", "d1/d4f/a12872" ],
+    [ "spell_control_piece", "d1/d26/a12876.html", "d1/d26/a12876" ],
     [ "ChessEventTalks", "d2/d6e/a03566.html#a8b868f145323416ed49f818a8dc9557d", [
       [ "TALK_EVENT_BEGIN", "d2/d6e/a03566.html#a8b868f145323416ed49f818a8dc9557da4693097f8b68000531f5ad6fe610072f", null ],
       [ "TALK_MEDIHV_CHEAT", "d2/d6e/a03566.html#a8b868f145323416ed49f818a8dc9557dadc33e864d043fc13e86d02717d78c17a", null ],

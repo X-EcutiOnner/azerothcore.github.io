@@ -1,6 +1,6 @@
 var a21860 =
 [
-    [ "PrepareSpellScript", "d2/d9d/a21860.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d2/d9d/a21860.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d2/d9d/a21860.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_counselor_talbotAI", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
+    [ "npc_counselor_talbot", "d2/d9d/a21860.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "d2/d9d/a21860.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

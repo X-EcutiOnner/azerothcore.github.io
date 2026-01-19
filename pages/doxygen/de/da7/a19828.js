@@ -1,6 +1,6 @@
 var a19828 =
 [
-    [ "boss_sjonnirAI", "de/da5/a19832.html", "de/da5/a19832" ],
-    [ "boss_sjonnir", "de/da7/a19828.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "de/da7/a19828.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "boss_maiden_of_griefAI", "de/da5/a19832.html", "de/da5/a19832" ],
+    [ "boss_maiden_of_grief", "de/da7/a19828.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "de/da7/a19828.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

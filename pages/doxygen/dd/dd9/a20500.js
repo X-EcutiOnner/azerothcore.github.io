@@ -1,5 +1,6 @@
 var a20500 =
 [
-    [ "achievement_cheese_the_freeze", "dd/dd9/a20500.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "dd/dd9/a20500.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "HandleAfterEffectApply", "dd/dd9/a20500.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "dd/dd9/a20500.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "dd/dd9/a20500.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

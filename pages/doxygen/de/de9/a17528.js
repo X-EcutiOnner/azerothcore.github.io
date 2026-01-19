@@ -1,6 +1,17 @@
 var a17528 =
 [
-    [ "ShockVortexExplodeEvent", "de/de9/a17528.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "de/de9/a17528.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "de/de9/a17528.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "instance_gundrak_InstanceMapScript", "de/de9/a17528.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
+    [ "Initialize", "de/de9/a17528.html#a680e2b0263e64f4f0b0a71f011199202", null ],
+    [ "OnGameObjectCreate", "de/de9/a17528.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
+    [ "OnGameObjectRemove", "de/de9/a17528.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
+    [ "OnUnitDeath", "de/de9/a17528.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
+    [ "SetBossState", "de/de9/a17528.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
+    [ "SetData", "de/de9/a17528.html#a39611dead845510e26b16e8eb54114a2", null ],
+    [ "Update", "de/de9/a17528.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
+    [ "_activateTimer", "de/de9/a17528.html#a4457a3506a587d7337042eb489b441dc", null ],
+    [ "_bridgeGUIDs", "de/de9/a17528.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
+    [ "_drakkariAltarGUID", "de/de9/a17528.html#a8e34281d52ac3199b90e1971899db6b1", null ],
+    [ "_keysInCount", "de/de9/a17528.html#a9b014cab41720868f61028ef201cadaa", null ],
+    [ "_moorabiAltarGUID", "de/de9/a17528.html#a39875572cef853eb3d3f624366e3f93f", null ],
+    [ "_sladRanAltarGUID", "de/de9/a17528.html#a93b651e93e28c63272a8d06d0c521aef", null ]
 ];

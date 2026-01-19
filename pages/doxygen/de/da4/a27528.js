@@ -1,6 +1,6 @@
 var a27528 =
 [
-    [ "go_bear_trapAI", "df/daa/a27532.html", "df/daa/a27532" ],
-    [ "go_bear_trap", "de/da4/a27528.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "de/da4/a27528.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "go_l70_etc_musicAI", "df/daa/a27532.html", "df/daa/a27532" ],
+    [ "go_l70_etc_music", "de/da4/a27528.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "de/da4/a27528.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

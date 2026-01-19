@@ -1,6 +1,6 @@
 var a02279 =
 [
-    [ "boss_isalien", "d0/d8a/a15148.html", "d0/d8a/a15148" ],
+    [ "boss_isalien", "d0/dea/a15156.html", "d0/dea/a15156" ],
     [ "Phases", "d2/dd2/a02279.html#a5d32d09cde4f13ec4fb05a824d3e3219", [
       [ "PHASE_HUMAN", "de/d79/a03761.html#a5d32d09cde4f13ec4fb05a824d3e3219aa89ac360fd4481a03c666986e321f9b6", null ],
       [ "PHASE_CAT", "de/d79/a03761.html#a5d32d09cde4f13ec4fb05a824d3e3219a1b3fac79b38cbf006c4a86301ac01afb", null ],

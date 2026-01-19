@@ -1,6 +1,6 @@
 var a17628 =
 [
-    [ "PrepareSpellScript", "d3/d99/a17628.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d3/d99/a17628.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d3/d99/a17628.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "KnockIntoAir", "d3/d99/a17628.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d3/d99/a17628.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d3/d99/a17628.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

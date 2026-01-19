@@ -1,14 +1,8 @@
 var a17820 =
 [
-    [ "npc_gunshipAI", "dc/df2/a17820.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "dc/df2/a17820.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "dc/df2/a17820.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "dc/df2/a17820.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "dc/df2/a17820.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "dc/df2/a17820.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "dc/df2/a17820.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "dc/df2/a17820.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "dc/df2/a17820.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "dc/df2/a17820.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "dc/df2/a17820.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "ResetEncounterEvent", "dc/df2/a17820.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "dc/df2/a17820.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "dc/df2/a17820.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "dc/df2/a17820.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "dc/df2/a17820.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

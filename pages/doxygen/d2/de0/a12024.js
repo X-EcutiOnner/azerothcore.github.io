@@ -1,10 +1,6 @@
 var a12024 =
 [
-    [ "quest_commandscript", "d2/de0/a12024.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "d2/de0/a12024.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "d2/de0/a12024.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "d2/de0/a12024.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "d2/de0/a12024.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "d2/de0/a12024.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "d2/de0/a12024.html#adbba92d0cf47879e94710c971fd994ff", null ]
+    [ "CapturedGroups", "d2/de0/a12024.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "d2/de0/a12024.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "d2/de0/a12024.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

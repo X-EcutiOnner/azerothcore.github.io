@@ -1,7 +1,7 @@
 var a14540 =
 [
-    [ "PeriodicTick", "de/dc9/a14540.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "de/dc9/a14540.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "de/dc9/a14540.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "de/dc9/a14540.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "FilterTargets", "de/dc9/a14540.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "de/dc9/a14540.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "de/dc9/a14540.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "de/dc9/a14540.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

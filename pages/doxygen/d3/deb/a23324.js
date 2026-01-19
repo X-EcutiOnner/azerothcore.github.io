@@ -1,7 +1,5 @@
 var a23324 =
 [
-    [ "OnPeriodic", "d3/deb/a23324.html#ad64b9ba13ef7d77cd778afb8e412ad04", null ],
-    [ "PrepareAuraScript", "d3/deb/a23324.html#a40faff90cb247203d3afafad9c44bfd7", null ],
-    [ "Register", "d3/deb/a23324.html#a8b2d4235784396b8c29b8e7de51e5708", null ],
-    [ "Validate", "d3/deb/a23324.html#a57b481cf462f53ec76f2db326b48c9b6", null ]
+    [ "PrepareSpellScript", "d3/deb/a23324.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "d3/deb/a23324.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

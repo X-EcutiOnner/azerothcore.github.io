@@ -1,4 +1,5 @@
 var a08124 =
 [
-    [ "Name", "da/d54/a08124.html#a624a1c1204cbc15acfc810a7720b8ea0", null ]
+    [ "BoxText", "da/d54/a08124.html#a00882f98df67222d396ae9992084a1cd", null ],
+    [ "OptionText", "da/d54/a08124.html#ab69f2dac8061cf8f6762a683243934fa", null ]
 ];

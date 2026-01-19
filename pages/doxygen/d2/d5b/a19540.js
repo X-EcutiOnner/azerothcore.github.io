@@ -1,6 +1,6 @@
 var a19540 =
 [
-    [ "npc_alexstraszaAI", "d8/d18/a19544.html", "d8/d18/a19544" ],
-    [ "npc_alexstrasza", "d2/d5b/a19540.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "d2/d5b/a19540.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_hover_diskAI", "d8/d18/a19544.html", "d8/d18/a19544" ],
+    [ "npc_hover_disk", "d2/d5b/a19540.html#af0ab534387a2af4e168915801ee855e5", null ],
+    [ "GetAI", "d2/d5b/a19540.html#adbe9285126089ca998e9b6360f42c553", null ]
 ];

@@ -1,6 +1,6 @@
 var a17044 =
 [
-    [ "PrepareSpellScript", "dc/dd6/a17044.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "dc/dd6/a17044.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "dc/dd6/a17044.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "db/de0/a17048.html", "db/de0/a17048" ],
+    [ "npc_fos_corrupted_soul_fragment", "dc/dd6/a17044.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
+    [ "GetAI", "dc/dd6/a17044.html#aed663e0a313223fcaa988b89b1b02df3", null ]
 ];

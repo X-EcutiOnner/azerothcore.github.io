@@ -1,6 +1,11 @@
 var a12284 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "d1/ded/a12288.html", "d1/ded/a12288" ],
-    [ "instance_blackrock_depths", "d5/d4f/a12284.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "d5/d4f/a12284.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "boss_doomrelAI", "d5/d4f/a12284.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d5/d4f/a12284.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d5/d4f/a12284.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d5/d4f/a12284.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d5/d4f/a12284.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d5/d4f/a12284.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d5/d4f/a12284.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d5/d4f/a12284.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

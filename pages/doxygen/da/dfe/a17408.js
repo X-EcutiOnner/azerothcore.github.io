@@ -1,6 +1,6 @@
 var a17408 =
 [
-    [ "HandleEffectPeriodic", "da/dfe/a17408.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "da/dfe/a17408.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "da/dfe/a17408.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "HandleDummy", "da/dfe/a17408.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "da/dfe/a17408.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "da/dfe/a17408.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

@@ -1,6 +1,7 @@
 var a14328 =
 [
-    [ "boss_mandokirAI", "d0/d8e/a14332.html", "d0/d8e/a14332" ],
-    [ "boss_mandokir", "d3/d06/a14328.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "d3/d06/a14328.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "HandleOnHit", "d3/d06/a14328.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d3/d06/a14328.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d3/d06/a14328.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d3/d06/a14328.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

@@ -1,8 +1,13 @@
 var a15032 =
 [
-    [ "npc_arthasAI", "d8/d1c/a15036.html", "d8/d1c/a15036" ],
-    [ "npc_arthas", "dd/db0/a15032.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "dd/db0/a15032.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "dd/db0/a15032.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "dd/db0/a15032.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "boss_salrammAI", "dd/db0/a15032.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "dd/db0/a15032.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "dd/db0/a15032.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "dd/db0/a15032.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "dd/db0/a15032.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "dd/db0/a15032.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "dd/db0/a15032.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "dd/db0/a15032.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "dd/db0/a15032.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "dd/db0/a15032.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

@@ -1,6 +1,6 @@
 var a19428 =
 [
-    [ "FilterTargets", "d2/da8/a19428.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d2/da8/a19428.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d2/da8/a19428.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_sapphironAI", "d2/da2/a19432.html", "d2/da2/a19432" ],
+    [ "boss_sapphiron", "d2/da8/a19428.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d2/da8/a19428.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

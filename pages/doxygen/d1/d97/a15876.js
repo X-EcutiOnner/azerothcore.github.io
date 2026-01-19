@@ -1,6 +1,6 @@
 var a15876 =
 [
-    [ "npc_custodian_of_timeAI", "dd/da3/a15880.html", "dd/da3/a15880" ],
-    [ "npc_custodian_of_time", "d1/d97/a15876.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d1/d97/a15876.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_aquementasAI", "dd/da3/a15880.html", "dd/da3/a15880" ],
+    [ "npc_aquementas", "d1/d97/a15876.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d1/d97/a15876.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

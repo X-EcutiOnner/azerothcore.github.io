@@ -1,6 +1,10 @@
 var a25948 =
 [
-    [ "HandleScript", "dc/de5/a25948.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "dc/de5/a25948.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "dc/de5/a25948.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "spell_item_defibrillate", "dc/de5/a25948.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "dc/de5/a25948.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "dc/de5/a25948.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "dc/de5/a25948.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "dc/de5/a25948.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "dc/de5/a25948.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "dc/de5/a25948.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

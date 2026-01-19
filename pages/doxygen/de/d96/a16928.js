@@ -1,6 +1,6 @@
 var a16928 =
 [
-    [ "npc_announcer_toc10", "de/d96/a16928.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "de/d96/a16928.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "de/d96/a16928.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d3/d11/a16932.html", "d3/d11/a16932" ],
+    [ "instance_trial_of_the_crusader", "de/d96/a16928.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "de/d96/a16928.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

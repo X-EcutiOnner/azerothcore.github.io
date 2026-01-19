@@ -1,7 +1,7 @@
 var a14876 =
 [
-    [ "HandleOnHit", "da/d40/a14876.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "da/d40/a14876.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "da/d40/a14876.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "da/d40/a14876.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "boss_azuregosAI", "dc/dda/a14880.html", "dc/dda/a14880" ],
+    [ "boss_azuregos", "da/d40/a14876.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "da/d40/a14876.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "da/d40/a14876.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

@@ -1,6 +1,6 @@
 var a22376 =
 [
-    [ "PrepareSpellScript", "d8/dee/a22376.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "d8/dee/a22376.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "d8/dee/a22376.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_frostbrood_skytalonAI", "d4/d9b/a22380.html", "d4/d9b/a22380" ],
+    [ "npc_frostbrood_skytalon", "d8/dee/a22376.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "d8/dee/a22376.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

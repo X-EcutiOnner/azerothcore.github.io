@@ -1,9 +1,9 @@
 var a02720 =
 [
-    [ "boss_razuvious", "da/d89/a19404.html", "da/d89/a19404" ],
-    [ "boss_razuvious::boss_razuviousAI", "dc/dbe/a19408.html", "dc/dbe/a19408" ],
-    [ "boss_razuvious_minion", "dc/d17/a19412.html", "dc/d17/a19412" ],
-    [ "boss_razuvious_minion::boss_razuvious_minionAI", "db/d88/a19416.html", "db/d88/a19416" ],
+    [ "boss_razuvious", "dc/d17/a19412.html", "dc/d17/a19412" ],
+    [ "boss_razuvious::boss_razuviousAI", "db/d88/a19416.html", "db/d88/a19416" ],
+    [ "boss_razuvious_minion", "d8/d00/a19420.html", "d8/d00/a19420" ],
+    [ "boss_razuvious_minion::boss_razuvious_minionAI", "d2/dc7/a19424.html", "d2/dc7/a19424" ],
     [ "Actions", "d5/d95/a02720.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "dd/db5/a00365.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "dd/db5/a00365.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1581,9 +1581,6 @@ var a02720 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

@@ -1,15 +1,9 @@
 var a16520 =
 [
-    [ "npc_argent_soldierAI", "d3/d66/a16520.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "d3/d66/a16520.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "d3/d66/a16520.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "d3/d66/a16520.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "d3/d66/a16520.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "d3/d66/a16520.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "d3/d66/a16520.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "d3/d66/a16520.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "d3/d66/a16520.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "d3/d66/a16520.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "d3/d66/a16520.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "d3/d66/a16520.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "npc_memoryAI", "d3/d66/a16520.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d3/d66/a16520.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d3/d66/a16520.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d3/d66/a16520.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d3/d66/a16520.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d3/d66/a16520.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

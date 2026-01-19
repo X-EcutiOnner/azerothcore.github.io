@@ -1,7 +1,6 @@
 var a21940 =
 [
-    [ "npc_cosmetic_toy_plane", "d8/dd0/a21940.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d8/dd0/a21940.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d8/dd0/a21940.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d8/dd0/a21940.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_dalaran_warriorAI", "d9/dcf/a21944.html", "d9/dcf/a21944" ],
+    [ "npc_dalaran_warrior", "d8/dd0/a21940.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d8/dd0/a21940.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

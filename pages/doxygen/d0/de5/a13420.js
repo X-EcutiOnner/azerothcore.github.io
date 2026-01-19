@@ -1,8 +1,8 @@
 var a13420 =
 [
-    [ "FilterTargets", "d0/de5/a13420.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d0/de5/a13420.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d0/de5/a13420.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d0/de5/a13420.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d0/de5/a13420.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "npc_apothecary_baxter", "d0/de5/a13420.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "d0/de5/a13420.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "d0/de5/a13420.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "d0/de5/a13420.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "d0/de5/a13420.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

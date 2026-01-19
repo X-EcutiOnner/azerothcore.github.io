@@ -1,8 +1,8 @@
 var a14960 =
 [
-    [ "hyjalTyrandeAI", "dd/da5/a14960.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "dd/da5/a14960.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "dd/da5/a14960.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "dd/da5/a14960.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "dd/da5/a14960.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "hyjalThrallAI", "dd/da5/a14960.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "dd/da5/a14960.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "dd/da5/a14960.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "dd/da5/a14960.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "dd/da5/a14960.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

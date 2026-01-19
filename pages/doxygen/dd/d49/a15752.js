@@ -1,6 +1,5 @@
 var a15752 =
 [
-    [ "npc_bunthen_plainswind", "dd/d49/a15752.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "dd/d49/a15752.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "dd/d49/a15752.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "at_ancient_leaf", "dd/d49/a15752.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "dd/d49/a15752.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

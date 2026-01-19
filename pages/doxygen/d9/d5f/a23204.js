@@ -1,7 +1,6 @@
 var a23204 =
 [
-    [ "npc_ashtongue_channeler", "d9/d5f/a23204.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d9/d5f/a23204.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d9/d5f/a23204.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d9/d5f/a23204.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "PrepareSpellScript", "d9/d5f/a23204.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d9/d5f/a23204.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d9/d5f/a23204.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

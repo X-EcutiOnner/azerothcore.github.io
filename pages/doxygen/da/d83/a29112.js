@@ -1,9 +1,10 @@
 var a29112 =
 [
-    [ "Flags", "da/d83/a29112.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "da/d83/a29112.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "da/d83/a29112.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "da/d83/a29112.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "da/d83/a29112.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "da/d83/a29112.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "ADTFile", "da/d83/a29112.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "da/d83/a29112.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "da/d83/a29112.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "da/d83/a29112.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "da/d83/a29112.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "da/d83/a29112.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "da/d83/a29112.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

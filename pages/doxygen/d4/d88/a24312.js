@@ -1,6 +1,7 @@
 var a24312 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d4/d1e/a24316.html", "d4/d1e/a24316" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d4/d88/a24312.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d4/d88/a24312.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "npc_kurenai_captiveAI", "d4/d1e/a24316.html", "d4/d1e/a24316" ],
+    [ "npc_kurenai_captive", "d4/d88/a24312.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d4/d88/a24312.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d4/d88/a24312.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

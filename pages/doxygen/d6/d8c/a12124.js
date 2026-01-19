@@ -1,5 +1,8 @@
 var a12124 =
 [
-    [ "at_ring_of_law", "d6/d8c/a12124.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "d6/d8c/a12124.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "ironhand_guardianAI", "d6/d8c/a12124.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "d6/d8c/a12124.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "d6/d8c/a12124.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "d6/d8c/a12124.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "d6/d8c/a12124.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

@@ -1,5 +1,8 @@
 var a14752 =
 [
-    [ "PrepareSpellScript", "da/d19/a14752.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "da/d19/a14752.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "OnApply", "da/d19/a14752.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "da/d19/a14752.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "da/d19/a14752.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "da/d19/a14752.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "da/d19/a14752.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

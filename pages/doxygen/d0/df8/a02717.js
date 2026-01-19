@@ -1,11 +1,11 @@
 var a02717 =
 [
-    [ "WebTargetSelector", "de/d4d/a19364.html", "de/d4d/a19364" ],
-    [ "boss_maexxna", "da/d00/a19368.html", "da/d00/a19368" ],
-    [ "boss_maexxna::boss_maexxnaAI", "d7/dc7/a19372.html", "d7/dc7/a19372" ],
-    [ "boss_maexxna_webwrap", "dd/d78/a19376.html", "dd/d78/a19376" ],
-    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "db/d03/a19380.html", "db/d03/a19380" ],
-    [ "spell_web_wrap_damage", "da/d29/a19384.html", "da/d29/a19384" ],
+    [ "WebTargetSelector", "d7/dc7/a19372.html", "d7/dc7/a19372" ],
+    [ "boss_maexxna", "dd/d78/a19376.html", "dd/d78/a19376" ],
+    [ "boss_maexxna::boss_maexxnaAI", "db/d03/a19380.html", "db/d03/a19380" ],
+    [ "boss_maexxna_webwrap", "da/d29/a19384.html", "da/d29/a19384" ],
+    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "df/d6a/a19388.html", "df/d6a/a19388" ],
+    [ "spell_web_wrap_damage", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
     [ "Emotes", "d0/df8/a02717.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d0/ded/a03671.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d0/ded/a03671.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1533,9 +1533,6 @@ var a02717 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

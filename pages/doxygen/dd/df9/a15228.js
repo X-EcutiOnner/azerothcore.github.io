@@ -1,14 +1,6 @@
 var a15228 =
 [
-    [ "boss_ayamiss", "dd/df9/a15228.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "dd/df9/a15228.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "dd/df9/a15228.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "dd/df9/a15228.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "dd/df9/a15228.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "dd/df9/a15228.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "dd/df9/a15228.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "dd/df9/a15228.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "dd/df9/a15228.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "dd/df9/a15228.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "dd/df9/a15228.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d6/d47/a15232.html", "d6/d47/a15232" ],
+    [ "instance_razorfen_kraul", "dd/df9/a15228.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "dd/df9/a15228.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

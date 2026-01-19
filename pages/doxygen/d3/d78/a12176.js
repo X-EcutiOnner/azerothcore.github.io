@@ -1,6 +1,9 @@
 var a12176 =
 [
-    [ "boss_anubshiahAI", "d3/d78/a12176.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
-    [ "JustEngagedWith", "d3/d78/a12176.html#ae83c1def323828814b5db6b032002438", null ],
-    [ "UpdateAI", "d3/d78/a12176.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
+    [ "npc_burning_spiritAI", "d3/d78/a12176.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "d3/d78/a12176.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "d3/d78/a12176.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "d3/d78/a12176.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "d3/d78/a12176.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "d3/d78/a12176.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

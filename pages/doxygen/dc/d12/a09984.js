@@ -1,6 +1,12 @@
 var a09984 =
 [
-    [ "aiNotifyDelay", "dc/d12/a09984.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "dc/d12/a09984.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "dc/d12/a09984.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "BanAccount", "dc/d12/a09984.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "dc/d12/a09984.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "dc/d12/a09984.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "dc/d12/a09984.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "dc/d12/a09984.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "dc/d12/a09984.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "dc/d12/a09984.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "dc/d12/a09984.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "dc/d12/a09984.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

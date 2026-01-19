@@ -1,7 +1,6 @@
 var a17452 =
 [
-    [ "HandleDummy", "d2/d4c/a17452.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d2/d4c/a17452.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d2/d4c/a17452.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d2/d4c/a17452.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "npc_living_mojoAI", "da/d12/a17456.html", "da/d12/a17456" ],
+    [ "npc_living_mojo", "d2/d4c/a17452.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d2/d4c/a17452.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

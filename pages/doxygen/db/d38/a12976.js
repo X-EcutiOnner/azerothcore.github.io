@@ -1,5 +1,6 @@
 var a12976 =
 [
-    [ "PrepareSpellScript", "db/d38/a12976.html#a50d6ebe961a0841e10537a434a741072", null ],
-    [ "Register", "db/d38/a12976.html#abc2f73133448278e0bf1bc589917dfd1", null ]
+    [ "HandleHit", "db/d38/a12976.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "db/d38/a12976.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "db/d38/a12976.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

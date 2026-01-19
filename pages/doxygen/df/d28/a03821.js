@@ -1,11 +1,11 @@
 var a03821 =
 [
-    [ "boss_brutallus", "df/d23/a13500.html", "df/d23/a13500" ],
-    [ "npc_madrigosa", "dd/d40/a13504.html", "dd/d40/a13504" ],
-    [ "spell_madrigosa_activate_barrier", "db/de7/a13508.html", "db/de7/a13508" ],
-    [ "spell_madrigosa_deactivate_barrier", "db/d83/a13512.html", "db/d83/a13512" ],
-    [ "spell_brutallus_burn", "d2/d7b/a13516.html", "d2/d7b/a13516" ],
-    [ "at_sunwell_madrigosa", "de/daf/a13520.html", "de/daf/a13520" ],
+    [ "boss_brutallus", "db/de7/a13508.html", "db/de7/a13508" ],
+    [ "npc_madrigosa", "db/d83/a13512.html", "db/d83/a13512" ],
+    [ "spell_madrigosa_activate_barrier", "d2/d7b/a13516.html", "d2/d7b/a13516" ],
+    [ "spell_madrigosa_deactivate_barrier", "de/daf/a13520.html", "de/daf/a13520" ],
+    [ "spell_brutallus_burn", "d4/d16/a13524.html", "d4/d16/a13524" ],
+    [ "at_sunwell_madrigosa", "dc/deb/a13528.html", "dc/deb/a13528" ],
     [ "eMadrigosa", "df/d28/a03821.html#a9c013fd339fb1c6ec76dc9784b1fd77c", [
       [ "EVENT_MAD_1", "df/d28/a03821.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8adbf4ce28357322d3e36e80ac8abe2b", null ],
       [ "EVENT_MAD_2", "df/d28/a03821.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f", null ],
@@ -304,9 +304,6 @@ var a03821 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

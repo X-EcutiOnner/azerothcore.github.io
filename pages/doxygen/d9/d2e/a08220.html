@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Trainer::Spell Struct Reference</title>
+<title>AzerothCore: ForcedUnsummonDelayEvent Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,157 +106,147 @@ $(document).ready(function(){initNavTree('d9/d2e/a08220.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/daf/a08217.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Trainer::Spell Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ForcedUnsummonDelayEvent Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Trainer.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for ForcedUnsummonDelayEvent:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d9/d2e/a08220.png" usemap="#ForcedUnsummonDelayEvent_map" alt=""/>
+  <map id="ForcedUnsummonDelayEvent_map" name="ForcedUnsummonDelayEvent_map">
+<area href="../../d5/d8d/a05556.html" alt="BasicEvent" shape="rect" coords="0,0,178,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a677b21866e24d2c94de28d96db07aafd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#a677b21866e24d2c94de28d96db07aafd">IsCastable</a> () const</td></tr>
-<tr class="separator:a677b21866e24d2c94de28d96db07aafd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aadabfc349c81e02743add4307977c2fd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#aadabfc349c81e02743add4307977c2fd">ForcedUnsummonDelayEvent</a> (<a class="el" href="../../d3/d6d/a08204.html">TempSummon</a> &amp;owner)</td></tr>
+<tr class="separator:aadabfc349c81e02743add4307977c2fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86d7bd6f9f47ef37382b725f0d64877b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#a86d7bd6f9f47ef37382b725f0d64877b">Execute</a> (<a class="el" href="../../de/d68/a04331.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> e_time, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p_time) override</td></tr>
+<tr class="separator:a86d7bd6f9f47ef37382b725f0d64877b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a05556"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05556')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d8d/a05556.html">BasicEvent</a></td></tr>
+<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05556"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05556"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05556"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05556"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05556"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../de/d68/a04331.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05556"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05556"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
+<tr class="separator:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05556"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05556"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../de/d68/a04331.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
+<tr class="separator:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05556"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05556"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
+<tr class="separator:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05556"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac289744925387c199fde756867bbfc57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#ac289744925387c199fde756867bbfc57">SpellId</a> = 0</td></tr>
-<tr class="separator:ac289744925387c199fde756867bbfc57"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af20caa962ba1f5edb376b78b6b35b119"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#af20caa962ba1f5edb376b78b6b35b119">MoneyCost</a> = 0</td></tr>
-<tr class="separator:af20caa962ba1f5edb376b78b6b35b119"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a008ff0df36f2e19534a5fda97616f14f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#a008ff0df36f2e19534a5fda97616f14f">ReqSkillLine</a> = 0</td></tr>
-<tr class="separator:a008ff0df36f2e19534a5fda97616f14f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa151d559cb276797a39dd203fd1b24c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#aa151d559cb276797a39dd203fd1b24c2">ReqSkillRank</a> = 0</td></tr>
-<tr class="separator:aa151d559cb276797a39dd203fd1b24c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a101686190208be6fb46a46768ca779f9"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, 3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#a101686190208be6fb46a46768ca779f9">ReqAbility</a> = { }</td></tr>
-<tr class="separator:a101686190208be6fb46a46768ca779f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45e87439b1ae356ccb9ff381f58f942e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#a45e87439b1ae356ccb9ff381f58f942e">ReqLevel</a> = 0</td></tr>
-<tr class="separator:a45e87439b1ae356ccb9ff381f58f942e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a3954577354fb882ec1def262502ed2e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d6d/a08204.html">TempSummon</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a08220.html#a3954577354fb882ec1def262502ed2e6">m_owner</a></td></tr>
+<tr class="separator:a3954577354fb882ec1def262502ed2e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a677b21866e24d2c94de28d96db07aafd" name="a677b21866e24d2c94de28d96db07aafd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a677b21866e24d2c94de28d96db07aafd">&#9670;&#160;</a></span>IsCastable()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="aadabfc349c81e02743add4307977c2fd" name="aadabfc349c81e02743add4307977c2fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aadabfc349c81e02743add4307977c2fd">&#9670;&#160;</a></span>ForcedUnsummonDelayEvent()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Spell::IsCastable </td>
+          <td class="memname">ForcedUnsummonDelayEvent::ForcedUnsummonDelayEvent </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d3/d6d/a08204.html">TempSummon</a> &amp;&#160;</td>
+          <td class="paramname"><em>owner</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   28</span>    {</div>
-<div class="line"><span class="lineno">   29</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;AssertSpellInfo(<a class="code hl_variable" href="../../d9/d2e/a08220.html#ac289744925387c199fde756867bbfc57">SpellId</a>)-&gt;HasEffect(<a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a>);</div>
-<div class="line"><span class="lineno">   30</span>    }</div>
-<div class="ttc" id="aa00104_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:826</div></div>
-<div class="ttc" id="aa04121_html_a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f"><div class="ttname"><a href="../../d0/dd3/a04121.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a></div><div class="ttdeci">@ SPELL_EFFECT_LEARN_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:825</div></div>
-<div class="ttc" id="aa08220_html_ac289744925387c199fde756867bbfc57"><div class="ttname"><a href="../../d9/d2e/a08220.html#ac289744925387c199fde756867bbfc57">Trainer::Spell::SpellId</a></div><div class="ttdeci">uint32 SpellId</div><div class="ttdef"><b>Definition:</b> Trainer.h:55</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  130</span>: <a class="code hl_function" href="../../d5/d8d/a05556.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>(), <a class="code hl_variable" href="../../d9/d2e/a08220.html#a3954577354fb882ec1def262502ed2e6">m_owner</a>(owner) { }</div>
+<div class="ttc" id="aa05556_html_a9c3cd17edab7fc410f88bb680d756975"><div class="ttname"><a href="../../d5/d8d/a05556.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent::BasicEvent</a></div><div class="ttdeci">BasicEvent()=default</div></div>
+<div class="ttc" id="aa08220_html_a3954577354fb882ec1def262502ed2e6"><div class="ttname"><a href="../../d9/d2e/a08220.html#a3954577354fb882ec1def262502ed2e6">ForcedUnsummonDelayEvent::m_owner</a></div><div class="ttdeci">TempSummon &amp; m_owner</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:134</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00825">SPELL_EFFECT_LEARN_SPELL</a>, <a class="el" href="../../#l00055">SpellId</a>, and <a class="el" href="../../#l00826">sSpellMgr</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a86d7bd6f9f47ef37382b725f0d64877b" name="a86d7bd6f9f47ef37382b725f0d64877b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86d7bd6f9f47ef37382b725f0d64877b">&#9670;&#160;</a></span>Execute()</h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00080">Trainer::Trainer::TeachSpell()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ForcedUnsummonDelayEvent::Execute </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>e_time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p_time</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d5/d8d/a05556.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  321</span>{</div>
+<div class="line"><span class="lineno">  322</span>    <a class="code hl_variable" href="../../d9/d2e/a08220.html#a3954577354fb882ec1def262502ed2e6">m_owner</a>.<a class="code hl_function" href="../../d3/d6d/a08204.html#a5181f042a68a54c93797fc9afa7a4440">UnSummon</a>();</div>
+<div class="line"><span class="lineno">  323</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  324</span>}</div>
+<div class="ttc" id="aa08204_html_a5181f042a68a54c93797fc9afa7a4440"><div class="ttname"><a href="../../d3/d6d/a08204.html#a5181f042a68a54c93797fc9afa7a4440">TempSummon::UnSummon</a></div><div class="ttdeci">virtual void UnSummon(Milliseconds msTime=0ms)</div><div class="ttdef"><b>Definition:</b> TemporarySummon.cpp:287</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00134">m_owner</a>, and <a class="el" href="../../#l00287">TempSummon::UnSummon()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af20caa962ba1f5edb376b78b6b35b119" name="af20caa962ba1f5edb376b78b6b35b119"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af20caa962ba1f5edb376b78b6b35b119">&#9670;&#160;</a></span>MoneyCost</h2>
+<a id="a3954577354fb882ec1def262502ed2e6" name="a3954577354fb882ec1def262502ed2e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3954577354fb882ec1def262502ed2e6">&#9670;&#160;</a></span>m_owner</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Trainer::Spell::MoneyCost = 0</td>
+          <td class="memname"><a class="el" href="../../d3/d6d/a08204.html">TempSummon</a>&amp; ForcedUnsummonDelayEvent::m_owner</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09283">ObjectMgr::LoadTrainers()</a>, and <a class="el" href="../../#l00080">Trainer::Trainer::TeachSpell()</a>.</p>
-
-</div>
-</div>
-<a id="a101686190208be6fb46a46768ca779f9" name="a101686190208be6fb46a46768ca779f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a101686190208be6fb46a46768ca779f9">&#9670;&#160;</a></span>ReqAbility</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::array&lt;<a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, 3&gt; Trainer::Spell::ReqAbility = { }</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Trainer::Trainer::GetSpellState()</a>, and <a class="el" href="../../#l09283">ObjectMgr::LoadTrainers()</a>.</p>
-
-</div>
-</div>
-<a id="a45e87439b1ae356ccb9ff381f58f942e" name="a45e87439b1ae356ccb9ff381f58f942e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45e87439b1ae356ccb9ff381f58f942e">&#9670;&#160;</a></span>ReqLevel</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Trainer::Spell::ReqLevel = 0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Trainer::Trainer::GetSpellState()</a>, and <a class="el" href="../../#l09283">ObjectMgr::LoadTrainers()</a>.</p>
-
-</div>
-</div>
-<a id="a008ff0df36f2e19534a5fda97616f14f" name="a008ff0df36f2e19534a5fda97616f14f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a008ff0df36f2e19534a5fda97616f14f">&#9670;&#160;</a></span>ReqSkillLine</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Trainer::Spell::ReqSkillLine = 0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Trainer::Trainer::GetSpellState()</a>, and <a class="el" href="../../#l09283">ObjectMgr::LoadTrainers()</a>.</p>
-
-</div>
-</div>
-<a id="aa151d559cb276797a39dd203fd1b24c2" name="aa151d559cb276797a39dd203fd1b24c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa151d559cb276797a39dd203fd1b24c2">&#9670;&#160;</a></span>ReqSkillRank</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Trainer::Spell::ReqSkillRank = 0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Trainer::Trainer::GetSpellState()</a>, and <a class="el" href="../../#l09283">ObjectMgr::LoadTrainers()</a>.</p>
-
-</div>
-</div>
-<a id="ac289744925387c199fde756867bbfc57" name="ac289744925387c199fde756867bbfc57"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac289744925387c199fde756867bbfc57">&#9670;&#160;</a></span>SpellId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Trainer::Spell::SpellId = 0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00133">Trainer::Trainer::CanTeachSpell()</a>, <a class="el" href="../../#l00154">Trainer::Trainer::GetSpellState()</a>, <a class="el" href="../../#l00027">IsCastable()</a>, <a class="el" href="../../#l09283">ObjectMgr::LoadTrainers()</a>, and <a class="el" href="../../#l00080">Trainer::Trainer::TeachSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00320">Execute()</a>.</p>
 
 </div>
 </div>
@@ -265,8 +255,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d8e/a04879.html">Trainer</a></li><li class="navelem"><a class="el" href="../../d9/d2e/a08220.html">Spell</a></li>
-    <li class="footer">Generated on Mon Jan 12 2026 20:52:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d2e/a08220.html">ForcedUnsummonDelayEvent</a></li>
+    <li class="footer">Generated on Mon Jan 19 2026 20:51:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

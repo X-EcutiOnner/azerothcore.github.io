@@ -1,14 +1,6 @@
 var a17432 =
 [
-    [ "boss_drakkari_colossusAI", "d0/dff/a17432.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DamageTaken", "d0/dff/a17432.html#ae31f77e5b63fee3d0745919ed737b599", null ],
-    [ "DoAction", "d0/dff/a17432.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "JustReachedHome", "d0/dff/a17432.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "d0/dff/a17432.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "d0/dff/a17432.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "d0/dff/a17432.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "ScheduleTasks", "d0/dff/a17432.html#afefbba70f93142110dcf9d7940d91d2c", null ],
-    [ "SummonedCreatureDespawn", "d0/dff/a17432.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "d0/dff/a17432.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "d0/dff/a17432.html#afc816b7d1c2705675560ddd13ecce22d", null ]
+    [ "entry", "d0/dff/a17432.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d0/dff/a17432.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d0/dff/a17432.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

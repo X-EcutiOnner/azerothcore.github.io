@@ -1,7 +1,6 @@
 var a12616 =
 [
-    [ "HandleRemove", "d4/dcd/a12616.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "d4/dcd/a12616.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "d4/dcd/a12616.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "d4/dcd/a12616.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "boss_vaelAI", "d1/d72/a12620.html", "d1/d72/a12620" ],
+    [ "boss_vaelastrasz", "d4/dcd/a12616.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
+    [ "GetAI", "d4/dcd/a12616.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
 ];

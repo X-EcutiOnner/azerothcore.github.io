@@ -1,6 +1,8 @@
 var a23156 =
 [
-    [ "boss_essence_of_angerAI", "d3/dcc/a23160.html", "d3/dcc/a23160" ],
-    [ "boss_essence_of_anger", "df/d47/a23156.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "df/d47/a23156.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "HandleEffectApply", "df/d47/a23156.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "df/d47/a23156.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "df/d47/a23156.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "df/d47/a23156.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "df/d47/a23156.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

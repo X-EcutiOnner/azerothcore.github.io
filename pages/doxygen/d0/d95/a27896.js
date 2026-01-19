@@ -1,6 +1,8 @@
 var a27896 =
 [
-    [ "npc_steam_tonkAI", "db/d30/a27900.html", "db/d30/a27900" ],
-    [ "npc_steam_tonk", "d0/d95/a27896.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d0/d95/a27896.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_wormholeAI", "db/d30/a27900.html", "db/d30/a27900" ],
+    [ "npc_wormhole", "d0/d95/a27896.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d0/d95/a27896.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d0/d95/a27896.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d0/d95/a27896.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

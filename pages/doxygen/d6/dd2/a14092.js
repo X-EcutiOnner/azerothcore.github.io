@@ -1,14 +1,16 @@
 var a14092 =
 [
-    [ "boss_hexlord_malacrass", "d6/dd2/a14092.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "d6/dd2/a14092.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "d6/dd2/a14092.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "d6/dd2/a14092.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "d6/dd2/a14092.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "d6/dd2/a14092.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "d6/dd2/a14092.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "d6/dd2/a14092.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "d6/dd2/a14092.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "d6/dd2/a14092.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "d6/dd2/a14092.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "boss_halazzi", "d6/dd2/a14092.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "d6/dd2/a14092.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "d6/dd2/a14092.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "d6/dd2/a14092.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "d6/dd2/a14092.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "d6/dd2/a14092.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "d6/dd2/a14092.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "d6/dd2/a14092.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "d6/dd2/a14092.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "d6/dd2/a14092.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "d6/dd2/a14092.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "d6/dd2/a14092.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "d6/dd2/a14092.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

@@ -1,6 +1,7 @@
 var a24512 =
 [
-    [ "npc_zephyr", "d2/df4/a24512.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d2/df4/a24512.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d2/df4/a24512.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_kservantAI", "d2/df4/a24512.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d2/df4/a24512.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d2/df4/a24512.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d2/df4/a24512.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

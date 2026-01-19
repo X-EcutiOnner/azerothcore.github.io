@@ -1,6 +1,6 @@
 var a26820 =
 [
-    [ "HandleScript", "d9/dbd/a26820.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d9/dbd/a26820.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d9/dbd/a26820.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleScript", "d9/dbd/a26820.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "d9/dbd/a26820.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "d9/dbd/a26820.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

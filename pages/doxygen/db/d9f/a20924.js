@@ -1,5 +1,6 @@
 var a20924 =
 [
-    [ "achievement_thorim_lose_your_illusion", "db/d9f/a20924.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "db/d9f/a20924.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "OnPeriodic", "db/d9f/a20924.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "db/d9f/a20924.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "db/d9f/a20924.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

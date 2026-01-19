@@ -1,5 +1,5 @@
 var a28040 =
 [
-    [ "ServerMailReward", "d5/dd7/a28040.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d5/dd7/a28040.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "npc_sunwell_gate", "d5/dd7/a28040.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d5/dd7/a28040.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

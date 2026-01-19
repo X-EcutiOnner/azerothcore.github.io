@@ -1,7 +1,7 @@
 var a04879 =
 [
-    [ "Spell", "d9/d2e/a08220.html", "d9/d2e/a08220" ],
-    [ "Trainer", "d7/d3b/a08224.html", "d7/d3b/a08224" ],
+    [ "Spell", "d7/d3b/a08224.html", "d7/d3b/a08224" ],
+    [ "Trainer", "d7/dde/a08228.html", "d7/dde/a08228" ],
     [ "FailReason", "d1/d8e/a04879.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
       [ "Unavailable", "d1/d8e/a04879.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
       [ "NotEnoughMoney", "d1/d8e/a04879.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],

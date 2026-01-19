@@ -1,6 +1,6 @@
 var a20944 =
 [
-    [ "npc_xt002_scrapbotAI", "d0/dd6/a20948.html", "d0/dd6/a20948" ],
-    [ "npc_xt002_scrapbot", "d7/dc3/a20944.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "d7/dc3/a20944.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "npc_xt002_heartAI", "d0/dd6/a20948.html", "d0/dd6/a20948" ],
+    [ "npc_xt002_heart", "d7/dc3/a20944.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "d7/dc3/a20944.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

@@ -1,7 +1,8 @@
 var a28368 =
 [
-    [ "cutPercent", "dc/d26/a28368.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "dc/d26/a28368.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "dc/d26/a28368.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "dc/d26/a28368.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "gender", "dc/d26/a28368.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dc/d26/a28368.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dc/d26/a28368.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dc/d26/a28368.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dc/d26/a28368.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

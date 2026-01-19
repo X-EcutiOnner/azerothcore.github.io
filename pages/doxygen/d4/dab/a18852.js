@@ -1,4 +1,5 @@
 var a18852 =
 [
-    [ "operator()", "d4/dab/a18852.html#ac13ad1cce91fa28dc81250672c125490", null ]
+    [ "achievement_portal_jockey", "d4/dab/a18852.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d4/dab/a18852.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

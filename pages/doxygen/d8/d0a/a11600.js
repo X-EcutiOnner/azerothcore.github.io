@@ -1,6 +1,6 @@
 var a11600 =
 [
-    [ "EffectSplitHandler", "d8/d0a/a11600.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d8/d0a/a11600.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d8/d0a/a11600.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectAbsorbHandler", "d8/d0a/a11600.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "d8/d0a/a11600.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "d8/d0a/a11600.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

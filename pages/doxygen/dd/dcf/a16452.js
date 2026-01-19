@@ -1,6 +1,6 @@
 var a16452 =
 [
-    [ "HandleHealPct", "dd/dcf/a16452.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "dd/dcf/a16452.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "dd/dcf/a16452.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "OnSummon", "dd/dcf/a16452.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "dd/dcf/a16452.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "dd/dcf/a16452.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

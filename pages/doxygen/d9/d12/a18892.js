@@ -1,6 +1,6 @@
 var a18892 =
 [
-    [ "boss_sister_svalnaAI", "d3/d7d/a18896.html", "d3/d7d/a18896" ],
-    [ "boss_sister_svalna", "d9/d12/a18892.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d9/d12/a18892.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_crok_scourgebaneAI", "d3/d7d/a18896.html", "d3/d7d/a18896" ],
+    [ "npc_crok_scourgebane", "d9/d12/a18892.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d9/d12/a18892.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

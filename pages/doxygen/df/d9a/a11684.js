@@ -1,7 +1,11 @@
 var a11684 =
 [
-    [ "PlayerGuid", "df/d9a/a11684.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "df/d9a/a11684.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "df/d9a/a11684.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "df/d9a/a11684.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "WorldUpdateTime", "df/d9a/a11684.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "df/d9a/a11684.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "df/d9a/a11684.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "df/d9a/a11684.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "df/d9a/a11684.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "df/d9a/a11684.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "df/d9a/a11684.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "df/d9a/a11684.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

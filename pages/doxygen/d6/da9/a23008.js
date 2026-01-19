@@ -1,7 +1,6 @@
 var a23008 =
 [
-    [ "HandleDummy", "d6/da9/a23008.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "d6/da9/a23008.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "d6/da9/a23008.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "d6/da9/a23008.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "FilterTargets", "d6/da9/a23008.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
+    [ "PrepareSpellScript", "d6/da9/a23008.html#ae8f3906007580963bda33cd0e420299b", null ],
+    [ "Register", "d6/da9/a23008.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
 ];

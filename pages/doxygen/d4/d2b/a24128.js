@@ -1,6 +1,6 @@
 var a24128 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d3/d9d/a24132.html", "d3/d9d/a24132" ],
-    [ "instance_the_eye", "d4/d2b/a24128.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d4/d2b/a24128.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "PrepareAuraScript", "d4/d2b/a24128.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d4/d2b/a24128.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d4/d2b/a24128.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

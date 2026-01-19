@@ -1,8 +1,6 @@
 var a08680 =
 [
-    [ "checkLeaderOnly", "de/dcc/a08680.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "de/dcc/a08680.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "de/dcc/a08680.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "de/dcc/a08680.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "de/dcc/a08680.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "SavedItem", "de/dcc/a08680.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "de/dcc/a08680.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "de/dcc/a08680.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

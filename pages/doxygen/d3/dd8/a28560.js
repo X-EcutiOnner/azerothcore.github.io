@@ -1,6 +1,9 @@
 var a28560 =
 [
-    [ "Enchantment", "d3/dd8/a28560.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "d3/dd8/a28560.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "d3/dd8/a28560.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "itemId", "d3/dd8/a28560.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "d3/dd8/a28560.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "d3/dd8/a28560.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "d3/dd8/a28560.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "d3/dd8/a28560.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "d3/dd8/a28560.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

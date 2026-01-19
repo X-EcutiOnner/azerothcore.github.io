@@ -1,6 +1,7 @@
 var a26064 =
 [
-    [ "CheckSinkholes", "d5/d3d/a26064.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d5/d3d/a26064.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d5/d3d/a26064.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "Load", "d5/d3d/a26064.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "d5/d3d/a26064.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "d5/d3d/a26064.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "d5/d3d/a26064.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

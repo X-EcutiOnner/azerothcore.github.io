@@ -1,5 +1,6 @@
 var a27624 =
 [
-    [ "go_jotunheim_cage", "d4/d99/a27624.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d4/d99/a27624.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_soulwellAI", "d3/d96/a27628.html", "d3/d96/a27628" ],
+    [ "go_soulwell", "d4/d99/a27624.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d4/d99/a27624.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

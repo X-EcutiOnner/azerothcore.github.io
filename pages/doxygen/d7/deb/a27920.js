@@ -1,6 +1,6 @@
 var a27920 =
 [
-    [ "npc_locksmith", "d7/deb/a27920.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d7/deb/a27920.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d7/deb/a27920.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_fireworkAI", "d0/def/a27924.html", "d0/def/a27924" ],
+    [ "npc_firework", "d7/deb/a27920.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d7/deb/a27920.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

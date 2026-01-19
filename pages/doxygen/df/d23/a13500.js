@@ -1,9 +1,7 @@
 var a13500 =
 [
-    [ "boss_brutallus", "df/d23/a13500.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "df/d23/a13500.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "df/d23/a13500.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "df/d23/a13500.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "df/d23/a13500.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "df/d23/a13500.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "OnRemove", "df/d23/a13500.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "df/d23/a13500.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "df/d23/a13500.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "df/d23/a13500.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

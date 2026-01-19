@@ -1,7 +1,6 @@
 var a25148 =
 [
-    [ "HandleApply", "d1/db7/a25148.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d1/db7/a25148.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d1/db7/a25148.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d1/db7/a25148.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "HandleScriptEffect", "d1/db7/a25148.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "d1/db7/a25148.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "d1/db7/a25148.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

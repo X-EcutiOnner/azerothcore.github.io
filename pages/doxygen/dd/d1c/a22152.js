@@ -1,7 +1,8 @@
 var a22152 =
 [
-    [ "HandleScriptEffect", "dd/d1c/a22152.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "dd/d1c/a22152.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "dd/d1c/a22152.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "dd/d1c/a22152.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_ravenous_worgAI", "dd/d1c/a22152.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "dd/d1c/a22152.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "dd/d1c/a22152.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "dd/d1c/a22152.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "dd/d1c/a22152.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

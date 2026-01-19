@@ -1,6 +1,8 @@
 var a12776 =
 [
-    [ "boss_sulfuronAI", "dd/dc4/a12776.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "dd/dc4/a12776.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "dd/dc4/a12776.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "FilterTargets", "dd/dc4/a12776.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "dd/dc4/a12776.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "dd/dc4/a12776.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "dd/dc4/a12776.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "dd/dc4/a12776.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

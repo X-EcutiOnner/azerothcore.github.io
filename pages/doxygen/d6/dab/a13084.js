@@ -1,6 +1,8 @@
 var a13084 =
 [
-    [ "npc_image_of_medivhAI", "dc/d7c/a13088.html", "dc/d7c/a13088" ],
-    [ "npc_image_of_medivh", "d6/dab/a13084.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "d6/dab/a13084.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "npc_barnesAI", "dc/d7c/a13088.html", "dc/d7c/a13088" ],
+    [ "npc_barnes", "d6/dab/a13084.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "d6/dab/a13084.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "d6/dab/a13084.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "d6/dab/a13084.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

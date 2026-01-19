@@ -84,7 +84,7 @@ var searchData=
   ['turkey_81',['turkey',['../d0/dce/a03971.html#a8bc1d91a992db83fed0477b2a50adca3',1,'pet_generic.cpp']]],
   ['twiggyflathead_82',['TwiggyFlathead',['../dc/d0a/a02345.html#aa59efdc816049c3fc44f4f97e12a5658',1,'zone_the_barrens.cpp']]],
   ['twinphases_83',['TwinPhases',['../d5/d73/a03836.html#a9c5bef89bea407c4bf2b7d6c4011c7ec',1,'boss_eredar_twins.cpp']]],
-  ['type_84',['Type',['../d1/d8e/a04879.html#a636cc62a0635fc1566fb574ebe9941a9',1,'Trainer::Type()'],['../d1/d5a/a07200.html#a758c9729d907d872a5e5365539486408',1,'AuctionSearcherUpdate::Type()'],['../d5/d4d/a07180.html#abfb75b18c4a43f1818cd78212c668109',1,'AuctionSearcherRequest::Type()']]],
+  ['type_84',['Type',['../d1/d8e/a04879.html#a636cc62a0635fc1566fb574ebe9941a9',1,'Trainer::Type()'],['../dc/df2/a07204.html#a758c9729d907d872a5e5365539486408',1,'AuctionSearcherUpdate::Type()'],['../dc/dc2/a07184.html#abfb75b18c4a43f1818cd78212c668109',1,'AuctionSearcherRequest::Type()']]],
   ['typeid_85',['TypeID',['../dc/d6e/a00833.html#a183c40b2ba67065929d70b3987da4cc2',1,'ObjectGuid.h']]],
   ['typemask_86',['TypeMask',['../dc/d6e/a00833.html#acfe503ba26d8a881f16958aaafd431e1',1,'ObjectGuid.h']]],
   ['tyrion_87',['Tyrion',['../d0/d17/a03491.html#affa30c579e72ac17979d6590547e9cde',1,'zone_stormwind_city.cpp']]],

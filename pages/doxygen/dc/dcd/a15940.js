@@ -1,7 +1,7 @@
 var a15940 =
 [
-    [ "npc_paoka_swiftmountainAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
-    [ "npc_paoka_swiftmountain", "dc/dcd/a15940.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "dc/dcd/a15940.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "dc/dcd/a15940.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_lakota_windsongAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
+    [ "npc_lakota_windsong", "dc/dcd/a15940.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "dc/dcd/a15940.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "dc/dcd/a15940.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

@@ -1,6 +1,6 @@
 var a20664 =
 [
-    [ "HandleDamage", "dd/db5/a20664.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "dd/db5/a20664.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "dd/db5/a20664.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "npc_ulduar_proximity_mineAI", "df/d4a/a20668.html", "df/d4a/a20668" ],
+    [ "npc_ulduar_proximity_mine", "dd/db5/a20664.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
+    [ "GetAI", "dd/db5/a20664.html#a7d8237b965699004f9df731e357b4020", null ]
 ];

@@ -1,6 +1,6 @@
 var a16560 =
 [
-    [ "HandleSpellHit", "d3/da4/a16560.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "d3/da4/a16560.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "d3/da4/a16560.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "npc_black_knight_ghoulAI", "db/d22/a16564.html", "db/d22/a16564" ],
+    [ "npc_black_knight_ghoul", "d3/da4/a16560.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d3/da4/a16560.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

@@ -1,7 +1,7 @@
 var a11392 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d4/dc2/a11392.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "d4/dc2/a11392.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d4/dc2/a11392.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d4/dc2/a11392.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "chance", "d4/dc2/a11392.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d4/dc2/a11392.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d4/dc2/a11392.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d4/dc2/a11392.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

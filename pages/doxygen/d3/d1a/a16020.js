@@ -1,6 +1,6 @@
 var a16020 =
 [
-    [ "HandleSummon", "d3/d1a/a16020.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d3/d1a/a16020.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d3/d1a/a16020.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d9/d26/a16024.html", "d9/d26/a16024" ],
+    [ "instance_zulfarrak", "d3/d1a/a16020.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d3/d1a/a16020.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

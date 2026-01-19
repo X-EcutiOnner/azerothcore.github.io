@@ -1,6 +1,5 @@
 var a12416 =
 [
-    [ "boss_urok_doomhowlAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
-    [ "boss_urok_doomhowl", "dc/df2/a12416.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "dc/df2/a12416.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "at_trigger_the_beast_movement", "dc/df2/a12416.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "dc/df2/a12416.html#a333d685d765497a950fde35067d876a1", null ]
 ];

@@ -1,6 +1,6 @@
 var a12212 =
 [
-    [ "boss_grizzleAI", "d1/d96/a12216.html", "d1/d96/a12216" ],
-    [ "boss_grizzle", "d9/de5/a12212.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "d9/de5/a12212.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "boss_gorosh_the_dervishAI", "d1/d96/a12216.html", "d1/d96/a12216" ],
+    [ "boss_gorosh_the_dervish", "d9/de5/a12212.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
+    [ "GetAI", "d9/de5/a12212.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
 ];

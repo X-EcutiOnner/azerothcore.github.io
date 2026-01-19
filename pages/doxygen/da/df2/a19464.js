@@ -1,5 +1,6 @@
 var a19464 =
 [
-    [ "at_thaddius_entrance", "da/df2/a19464.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "da/df2/a19464.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "npc_teslaAI", "d1/d8c/a19468.html", "d1/d8c/a19468" ],
+    [ "npc_tesla", "da/df2/a19464.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "da/df2/a19464.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

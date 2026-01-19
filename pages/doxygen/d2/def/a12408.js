@@ -1,5 +1,6 @@
 var a12408 =
 [
-    [ "at_trigger_the_beast_movement", "d2/def/a12408.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d2/def/a12408.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_thebeastAI", "d8/d8e/a12412.html", "d8/d8e/a12412" ],
+    [ "boss_the_beast", "d2/def/a12408.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "d2/def/a12408.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

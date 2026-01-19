@@ -1,7 +1,7 @@
 var a22000 =
 [
-    [ "CheckRequirement", "d3/ddf/a22000.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d3/ddf/a22000.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d3/ddf/a22000.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d3/ddf/a22000.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "CheckCast", "d3/ddf/a22000.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d3/ddf/a22000.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d3/ddf/a22000.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d3/ddf/a22000.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

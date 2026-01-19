@@ -1,6 +1,6 @@
 var a16584 =
 [
-    [ "boss_grand_championAI", "d3/d14/a16588.html", "d3/d14/a16588" ],
-    [ "boss_grand_champion", "d2/d79/a16584.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d2/d79/a16584.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d3/d14/a16588.html", "d3/d14/a16588" ],
+    [ "npc_toc5_grand_champion_minion", "d2/d79/a16584.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d2/d79/a16584.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

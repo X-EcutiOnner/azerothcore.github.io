@@ -1,8 +1,8 @@
 var a22888 =
 [
-    [ "boss_darkweaver_syth", "dd/d3f/a22888.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "dd/d3f/a22888.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "dd/d3f/a22888.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "dd/d3f/a22888.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "dd/d3f/a22888.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "FilterTargets", "dd/d3f/a22888.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "dd/d3f/a22888.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "dd/d3f/a22888.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "dd/d3f/a22888.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "dd/d3f/a22888.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

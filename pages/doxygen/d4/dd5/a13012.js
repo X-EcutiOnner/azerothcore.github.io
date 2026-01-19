@@ -1,8 +1,11 @@
 var a13012 =
 [
-    [ "npc_tito", "d4/dd5/a13012.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d4/dd5/a13012.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d4/dd5/a13012.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d4/dd5/a13012.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d4/dd5/a13012.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "boss_terestian_illhoof", "d4/dd5/a13012.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d4/dd5/a13012.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d4/dd5/a13012.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d4/dd5/a13012.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d4/dd5/a13012.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d4/dd5/a13012.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d4/dd5/a13012.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d4/dd5/a13012.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

@@ -1,6 +1,7 @@
 var a26460 =
 [
-    [ "CheckCast", "d6/dc7/a26460.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d6/dc7/a26460.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d6/dc7/a26460.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "FilterTargets", "d6/dc7/a26460.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "d6/dc7/a26460.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "d6/dc7/a26460.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "d6/dc7/a26460.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

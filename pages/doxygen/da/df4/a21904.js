@@ -1,6 +1,8 @@
 var a21904 =
 [
-    [ "npc_archmage_landalockAI", "d1/d75/a21908.html", "d1/d75/a21908" ],
-    [ "npc_archmage_landalock", "da/df4/a21904.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "da/df4/a21904.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_shandy_dalaranAI", "d1/d75/a21908.html", "d1/d75/a21908" ],
+    [ "npc_shandy_dalaran", "da/df4/a21904.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "da/df4/a21904.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "da/df4/a21904.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "da/df4/a21904.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

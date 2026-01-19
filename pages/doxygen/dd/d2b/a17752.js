@@ -1,6 +1,7 @@
 var a17752 =
 [
-    [ "npc_icc_blood_beastAI", "da/dc5/a17756.html", "da/dc5/a17756" ],
-    [ "npc_icc_blood_beast", "dd/d2b/a17752.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "dd/d2b/a17752.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "FilterTargets", "dd/d2b/a17752.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "dd/d2b/a17752.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "dd/d2b/a17752.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "dd/d2b/a17752.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

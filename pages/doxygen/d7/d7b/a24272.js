@@ -1,6 +1,6 @@
 var a24272 =
 [
-    [ "npc_wounded_blood_elfAI", "d7/df1/a24276.html", "d7/df1/a24276" ],
-    [ "npc_wounded_blood_elf", "d7/d7b/a24272.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d7/d7b/a24272.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_fel_guard_houndAI", "d7/df1/a24276.html", "d7/df1/a24276" ],
+    [ "npc_fel_guard_hound", "d7/d7b/a24272.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d7/d7b/a24272.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

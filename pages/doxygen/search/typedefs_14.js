@@ -7,7 +7,7 @@ var searchData=
   ['talentspellposmap_4',['TalentSpellPosMap',['../d1/dd9/a04184.html#aec54003aaeeffeda4e99f6e9c019a29f',1,'DBCStructure.h']]],
   ['task_5fhandler_5ft_5',['task_handler_t',['../dd/da7/a05632.html#a529b1284294a63217e3f9fa56c170743',1,'TaskScheduler']]],
   ['taskcontainer_6',['TaskContainer',['../dd/da7/a05632.html#a0c6c7a95026322208866b6b829e0b598',1,'TaskScheduler']]],
-  ['tavernareatriggercontainer_7',['TavernAreaTriggerContainer',['../d6/d4b/a09132.html#a80e4d9c63a79d297ecf7fbf51035ccbf',1,'ObjectMgr']]],
+  ['tavernareatriggercontainer_7',['TavernAreaTriggerContainer',['../da/deb/a09136.html#a80e4d9c63a79d297ecf7fbf51035ccbf',1,'ObjectMgr']]],
   ['taximask_8',['TaxiMask',['../d1/dd9/a04184.html#a415cc3633225b2cfe241a12bce9aeb9b',1,'DBCStructure.h']]],
   ['taxipathnodelist_9',['TaxiPathNodeList',['../d1/dd9/a04184.html#a696428ce320a7e4dd796c85fbf98b7f2',1,'DBCStructure.h']]],
   ['taxipathnodesbypath_10',['TaxiPathNodesByPath',['../d1/dd9/a04184.html#a0a9bd32b40fdd19846034d6430c681cb',1,'DBCStructure.h']]],
@@ -21,7 +21,7 @@ var searchData=
   ['timedachievementmap_18',['TimedAchievementMap',['../de/da4/a06128.html#a3bb53cc1efc73b3162fc41f45d0fe767',1,'AchievementMgr']]],
   ['timepoint_19',['TimePoint',['../d4/dc9/a04742.html#ae5ca775e8d8c664b6edef818ce1251b9',1,'Duration.h']]],
   ['timepoint_5ft_20',['timepoint_t',['../dd/da7/a05632.html#a0e14d7b24d018a41c9dc849e1421d5e7',1,'TaskScheduler']]],
-  ['tobeteleportedmap_21',['ToBeTeleportedMap',['../d8/dcf/a07380.html#adc966f868d10d74229b0b522f0ccdc32',1,'Battleground']]],
+  ['tobeteleportedmap_21',['ToBeTeleportedMap',['../d7/d50/a07384.html#adc966f868d10d74229b0b522f0ccdc32',1,'Battleground']]],
   ['transactionfuture_22',['TransactionFuture',['../dd/d81/a04001.html#ad8826e834522c9cacfd021d4529b4f87',1,'DatabaseEnvFwd.h']]],
   ['transactionpromise_23',['TransactionPromise',['../dd/d81/a04001.html#a363198b2c33dce9fd461ffd94bf063ac',1,'DatabaseEnvFwd.h']]],
   ['transportanimationcontainer_24',['TransportAnimationContainer',['../de/d96/a01685.html#a66190b362b4aab515b7cf6974acdc3ee',1,'TransportMgr.h']]],
@@ -34,5 +34,5 @@ var searchData=
   ['transportspline_31',['TransportSpline',['../de/d96/a01685.html#a05990a03a3ab902d6d79e9f33385b605',1,'TransportMgr.h']]],
   ['transporttemplates_32',['TransportTemplates',['../de/d96/a01685.html#a95da4f79fff198b8042b47657f7ccb66',1,'TransportMgr.h']]],
   ['tupletype_33',['TupleType',['../d5/d8e/a04874.html#a7dd784bc8e3d7db1d11c46886088ad76',1,'Acore::Impl::ChatCommands']]],
-  ['type_34',['type',['../db/daf/a05688.html#a64a76023297787362eb6aae9746eee66',1,'Acore::find_type_if&lt; Check &gt;::type()'],['../d1/d36/a07620.html#a9ca8227197c98defada545334546f092',1,'Acore::Impl::ChatCommands::HandlerToTuple&lt; bool(ChatHandler *, Ts...)&gt;::type()'],['../dc/d61/a07724.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9',1,'Acore::Impl::ChatCommands::tag_base::type()'],['../d7/d9e/a07744.html#adb9fbbd823ddc1a80d7d8b3063c1ec54',1,'Acore::Impl::ChatCommands::get_nth&lt; 0, T1, Ts... &gt;::type()'],['../d8/dcb/a11192.html#aa3307afff20191a467f7e948d9fd00ed',1,'get_packet_class&lt; void(WorldSession::*)(PacketClass &amp;)&gt;::type()'],['../dc/d65/a07756.html#a20bf3321a2bb91eead362115f5c9bcc7',1,'Acore::Impl::ChatCommands::tag_base&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt;::type()']]]
+  ['type_34',['type',['../db/daf/a05688.html#a64a76023297787362eb6aae9746eee66',1,'Acore::find_type_if&lt; Check &gt;::type()'],['../d0/ddf/a07624.html#a9ca8227197c98defada545334546f092',1,'Acore::Impl::ChatCommands::HandlerToTuple&lt; bool(ChatHandler *, Ts...)&gt;::type()'],['../d2/d7a/a07728.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9',1,'Acore::Impl::ChatCommands::tag_base::type()'],['../d7/dc7/a07748.html#adb9fbbd823ddc1a80d7d8b3063c1ec54',1,'Acore::Impl::ChatCommands::get_nth&lt; 0, T1, Ts... &gt;::type()'],['../d1/d82/a11196.html#aa3307afff20191a467f7e948d9fd00ed',1,'get_packet_class&lt; void(WorldSession::*)(PacketClass &amp;)&gt;::type()'],['../de/dbd/a07760.html#a20bf3321a2bb91eead362115f5c9bcc7',1,'Acore::Impl::ChatCommands::tag_base&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt;::type()']]]
 ];

@@ -1,6 +1,6 @@
 var a19180 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
-    [ "npc_isle_of_conquest_turret", "d7/d06/a19180.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d7/d06/a19180.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "d7/d93/a19184.html", "d7/d93/a19184" ],
+    [ "instance_icecrown_citadel", "d7/d06/a19180.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d7/d06/a19180.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

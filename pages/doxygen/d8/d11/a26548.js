@@ -1,7 +1,8 @@
 var a26548 =
 [
-    [ "HandleApplyEffect", "d8/d11/a26548.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d8/d11/a26548.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d8/d11/a26548.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d8/d11/a26548.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "AfterCheckProc", "d8/d11/a26548.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "d8/d11/a26548.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "d8/d11/a26548.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "d8/d11/a26548.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "d8/d11/a26548.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

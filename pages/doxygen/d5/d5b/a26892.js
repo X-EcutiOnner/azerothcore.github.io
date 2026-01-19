@@ -1,7 +1,11 @@
 var a26892 =
 [
-    [ "CalculateAmount", "d5/d5b/a26892.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "d5/d5b/a26892.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "d5/d5b/a26892.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "d5/d5b/a26892.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "CheckProc", "d5/d5b/a26892.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
+    [ "HandleProc", "d5/d5b/a26892.html#af29b1d6d8553003514918a383cb08b4a", null ],
+    [ "Load", "d5/d5b/a26892.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
+    [ "OnRemove", "d5/d5b/a26892.html#a9227147dd6e621deddd0088b95e9db2f", null ],
+    [ "PrepareAuraScript", "d5/d5b/a26892.html#a149881d517edbb15032452554fc64948", null ],
+    [ "Register", "d5/d5b/a26892.html#ac81d60d54a87a23bd9481934f5753de0", null ],
+    [ "Validate", "d5/d5b/a26892.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
+    [ "_redirectTarget", "d5/d5b/a26892.html#af3ee2a283d8942ab3652a6386c26f737", null ]
 ];

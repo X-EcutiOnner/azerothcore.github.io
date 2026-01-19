@@ -1,12 +1,6 @@
 var a15964 =
 [
-    [ "npc_cairne_bloodhoofAI", "dd/dba/a15964.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
-    [ "Reset", "dd/dba/a15964.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
-    [ "sGossipSelect", "dd/dba/a15964.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
-    [ "UpdateAI", "dd/dba/a15964.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
-    [ "_berserkerChargeTimer", "dd/dba/a15964.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
-    [ "_cleaveTimer", "dd/dba/a15964.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
-    [ "_mortalStrikeTimer", "dd/dba/a15964.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
-    [ "_thunderclapTimer", "dd/dba/a15964.html#a6bdca667875353db2badc40fd95a1ce4", null ],
-    [ "_uppercutTimer", "dd/dba/a15964.html#a9f13acd7df900d9bdac64898b183c67d", null ]
+    [ "HandleDummy", "dd/dba/a15964.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "dd/dba/a15964.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "dd/dba/a15964.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

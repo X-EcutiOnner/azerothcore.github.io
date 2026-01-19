@@ -1,9 +1,9 @@
 var a19056 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "dd/d42/a19056.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "dd/d42/a19056.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "dd/d42/a19056.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "dd/d42/a19056.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "dd/d42/a19056.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "dd/d42/a19056.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "dd/d42/a19056.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "dd/d42/a19056.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "dd/d42/a19056.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "dd/d42/a19056.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "dd/d42/a19056.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "dd/d42/a19056.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

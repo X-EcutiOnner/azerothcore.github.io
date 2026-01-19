@@ -1,5 +1,6 @@
 var a12108 =
 [
-    [ "go_shadowforge_brazier", "d8/dbe/a12108.html#aafc1d2e865294bb102c918d6016aab4b", null ],
-    [ "OnGossipHello", "d8/dbe/a12108.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
+    [ "boss_vanndarAI", "d5/da9/a12112.html", "d5/da9/a12112" ],
+    [ "boss_vanndar", "d8/dbe/a12108.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d8/dbe/a12108.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

@@ -1,7 +1,15 @@
 var a18500 =
 [
-    [ "HandleScript", "d0/d75/a18500.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d0/d75/a18500.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d0/d75/a18500.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d0/d75/a18500.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "npc_tirion_fordringAI", "d0/d75/a18500.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
+    [ "CanAIAttack", "d0/d75/a18500.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
+    [ "DoAction", "d0/d75/a18500.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
+    [ "EnterEvadeMode", "d0/d75/a18500.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
+    [ "JustReachedHome", "d0/d75/a18500.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
+    [ "MovementInform", "d0/d75/a18500.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
+    [ "Reset", "d0/d75/a18500.html#ac41e569535322bb5907fa4116bbac739", null ],
+    [ "sGossipSelect", "d0/d75/a18500.html#a56599a97f019121160b2f6ac43019772", null ],
+    [ "SpellHit", "d0/d75/a18500.html#ae68b900f87c646cfb3ece5518b59e687", null ],
+    [ "UpdateAI", "d0/d75/a18500.html#a3f729624820266f1cf1e5577c5047c3b", null ],
+    [ "_events", "d0/d75/a18500.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
+    [ "_instance", "d0/d75/a18500.html#a223a7f09ae03971487bb55e770503f7e", null ]
 ];

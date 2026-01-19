@@ -1,6 +1,6 @@
 var a15760 =
 [
-    [ "npc_silva_filnaveth", "dc/d88/a15760.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "dc/d88/a15760.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "dc/d88/a15760.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_bunthen_plainswind", "dc/d88/a15760.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "dc/d88/a15760.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "dc/d88/a15760.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

@@ -1,5 +1,5 @@
 var a10612 =
 [
-    [ "LogoutCancelAck", "de/d69/a10612.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
-    [ "Write", "de/d69/a10612.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
+    [ "LogoutCancel", "de/d69/a10612.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
+    [ "Read", "de/d69/a10612.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
 ];

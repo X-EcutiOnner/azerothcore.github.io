@@ -1,9 +1,8 @@
 var a16260 =
 [
-    [ "boss_sartharion_vesperonAI", "dd/d91/a16260.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "dd/d91/a16260.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "dd/d91/a16260.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "dd/d91/a16260.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "dd/d91/a16260.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "dd/d91/a16260.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "boss_sartharion_shadronAI", "dd/d91/a16260.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "dd/d91/a16260.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "dd/d91/a16260.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "dd/d91/a16260.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "dd/d91/a16260.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

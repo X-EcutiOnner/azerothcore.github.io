@@ -1,6 +1,6 @@
 var a16552 =
 [
-    [ "npc_black_knight_ghoulAI", "dd/dfd/a16556.html", "dd/dfd/a16556" ],
-    [ "npc_black_knight_ghoul", "d9/d14/a16552.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d9/d14/a16552.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "dd/dfd/a16556.html", "dd/dfd/a16556" ],
+    [ "npc_black_knight_skeletal_gryphon", "d9/d14/a16552.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d9/d14/a16552.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

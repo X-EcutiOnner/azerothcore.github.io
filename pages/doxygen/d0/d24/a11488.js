@@ -1,7 +1,7 @@
 var a11488 =
 [
-    [ "CategoryRecoveryTime", "d0/d24/a11488.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d0/d24/a11488.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d0/d24/a11488.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d0/d24/a11488.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "maxvalue", "d0/d24/a11488.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d0/d24/a11488.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d0/d24/a11488.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d0/d24/a11488.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

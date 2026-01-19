@@ -1,6 +1,8 @@
 var a11936 =
 [
-    [ "inventory_commandscript", "de/dfd/a11936.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "de/dfd/a11936.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "de/dfd/a11936.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "honor_commandscript", "de/dfd/a11936.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "de/dfd/a11936.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "de/dfd/a11936.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "de/dfd/a11936.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "de/dfd/a11936.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

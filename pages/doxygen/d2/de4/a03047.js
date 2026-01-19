@@ -1,20 +1,16 @@
 var a03047 =
 [
-    [ "npc_finklestein", "d2/d76/a22660.html", "d2/d76/a22660" ],
-    [ "npc_finklestein::npc_finklesteinAI", "de/dc6/a22664.html", "de/dc6/a22664" ],
-    [ "go_finklestein_cauldron", "d7/df4/a22668.html", "d7/df4/a22668" ],
-    [ "npc_overlord_drakuru_betrayal", "d5/d45/a22672.html", "d5/d45/a22672" ],
-    [ "npc_drakuru_shackles", "de/d72/a22676.html", "de/d72/a22676" ],
-    [ "npc_drakuru_shackles::npc_drakuru_shacklesAI", "d2/d0e/a22680.html", "d2/d0e/a22680" ],
-    [ "npc_captured_rageclaw", "d2/df0/a22684.html", "d2/df0/a22684" ],
-    [ "npc_captured_rageclaw::npc_captured_rageclawAI", "d3/db4/a22688.html", "d3/db4/a22688" ],
-    [ "npc_released_offspring_harkoa", "da/ddc/a22692.html", "da/ddc/a22692" ],
-    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "df/de2/a22696.html", "df/de2/a22696" ],
-    [ "npc_crusade_recruit", "d5/d03/a22700.html", "d5/d03/a22700" ],
-    [ "npc_crusade_recruit::npc_crusade_recruitAI", "d3/dfc/a22704.html", "d3/dfc/a22704" ],
-    [ "go_scourge_enclosure", "d8/dde/a22708.html", "d8/dde/a22708" ],
-    [ "spell_scourge_disguise_instability", "d3/d04/a22712.html", "d3/d04/a22712" ],
-    [ "spell_blight_fog", "d0/dbc/a22716.html", "d0/dbc/a22716" ],
+    [ "npc_finklestein", "d7/df4/a22668.html", "d7/df4/a22668" ],
+    [ "npc_finklestein::npc_finklesteinAI", "d5/d45/a22672.html", "d5/d45/a22672" ],
+    [ "go_finklestein_cauldron", "de/d72/a22676.html", "de/d72/a22676" ],
+    [ "npc_overlord_drakuru_betrayal", "d2/d0e/a22680.html", "d2/d0e/a22680" ],
+    [ "npc_released_offspring_harkoa", "d2/df0/a22684.html", "d2/df0/a22684" ],
+    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "d3/db4/a22688.html", "d3/db4/a22688" ],
+    [ "npc_crusade_recruit", "da/ddc/a22692.html", "da/ddc/a22692" ],
+    [ "npc_crusade_recruit::npc_crusade_recruitAI", "df/de2/a22696.html", "df/de2/a22696" ],
+    [ "go_scourge_enclosure", "d5/d03/a22700.html", "d5/d03/a22700" ],
+    [ "spell_scourge_disguise_instability", "d3/dfc/a22704.html", "d3/dfc/a22704" ],
+    [ "spell_blight_fog", "d8/dde/a22708.html", "d8/dde/a22708" ],
     [ "AlchemistItemRequirements", "d2/de4/a03047.html#ab81a0db27941af407a22b4297fae4c08", [
       [ "QUEST_ALCHEMIST_APPRENTICE", "d2/de4/a03047.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192", null ],
       [ "NPC_FINKLESTEIN", "d2/de4/a03047.html#ab81a0db27941af407a22b4297fae4c08a5cf7fdaa2ca28bb570bd1dd8edab09e6", null ]
@@ -33,14 +29,6 @@ var a03047 =
     [ "CrusadeRecruitEvents", "d2/de4/a03047.html#a7f62c9bdaea8d61503062d10b017e639", [
       [ "EVENT_RECRUIT_1", "d2/de4/a03047.html#a7f62c9bdaea8d61503062d10b017e639a0c41667591b38b074a96c3f2638f8efc", null ],
       [ "EVENT_RECRUIT_2", "d2/de4/a03047.html#a7f62c9bdaea8d61503062d10b017e639a7bf6caa350b5f312ea893bd9cb9c9b46", null ]
-    ] ],
-    [ "DrakuruShackles", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468e", [
-      [ "NPC_RAGECLAW", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468eae5a7cc3995ea1ec6bf0e6b10cf88b42c", null ],
-      [ "QUEST_TROLLS_IS_GONE_CRAZY", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468ead865536461e82af4c716fcc6b05bca0d", null ],
-      [ "SPELL_LEFT_CHAIN", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468ea9ca1c028e4b4efb8f1b64fdb1aa9458f", null ],
-      [ "SPELL_RIGHT_CHAIN", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468ea78a87217309119207f5733d5b75c1bf1", null ],
-      [ "SPELL_UNLOCK_SHACKLE", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468ea38d299dfaf2a1a9d3796e60bc5792e51", null ],
-      [ "SPELL_FREE_RAGECLAW", "d2/de4/a03047.html#ae1b47c6bf1ad1b8dc31220da558d468eaa4c76adb98fdd5265f5e156cdeb0dcf2", null ]
     ] ],
     [ "OverlordDrakuru", "d2/de4/a03047.html#a897271137fb114f6818b67b51fb7b225", [
       [ "SPELL_SHADOW_BOLT", "d2/de4/a03047.html#a897271137fb114f6818b67b51fb7b225a8872edea8a2ac8c4e895c975482b9413", null ],
@@ -102,11 +90,6 @@ var a03047 =
       [ "SAY_LICH_10", "d2/de4/a03047.html#a897271137fb114f6818b67b51fb7b225ab2f216d476c5cdb1914c8ac8a18949e0", null ],
       [ "SAY_LICH_11", "d2/de4/a03047.html#a897271137fb114f6818b67b51fb7b225a45e64fe5da4a3306688af0164b823b74", null ],
       [ "SAY_LICH_12", "d2/de4/a03047.html#a897271137fb114f6818b67b51fb7b225a36a853c7970596f9e263a0e7fbf1e825", null ]
-    ] ],
-    [ "Rageclaw", "d2/de4/a03047.html#a0ff9ed580599c0c850f7d53d6432fce0", [
-      [ "SPELL_UNSHACKLED", "d2/de4/a03047.html#a0ff9ed580599c0c850f7d53d6432fce0ad15cf346316f00def5a6d78f5638792d", null ],
-      [ "SPELL_KNEEL", "d2/de4/a03047.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370", null ],
-      [ "SAY_RAGECLAW", "d2/de4/a03047.html#a0ff9ed580599c0c850f7d53d6432fce0a7a8a42222a1947cf47ee480ab22d0c4f", null ]
     ] ],
     [ "ScourgeDisguiseInstability", "d2/de4/a03047.html#acea5346ffad736c0f80b61ad8c885f69", [
       [ "SCOURGE_DISGUISE_FAILING_MESSAGE_1", "d2/de4/a03047.html#acea5346ffad736c0f80b61ad8c885f69a0414afd740fe68ee4ce74105ed220709", null ],

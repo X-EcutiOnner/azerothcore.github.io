@@ -1,7 +1,7 @@
 var a13404 =
 [
-    [ "npc_apothecary_genericAI", "d6/dfc/a13404.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d6/dfc/a13404.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d6/dfc/a13404.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d6/dfc/a13404.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "boss_apothecary_hummelAI", "de/d88/a13408.html", "de/d88/a13408" ],
+    [ "boss_apothecary_hummel", "d6/dfc/a13404.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d6/dfc/a13404.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d6/dfc/a13404.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

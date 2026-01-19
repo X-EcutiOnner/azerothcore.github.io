@@ -1,16 +1,16 @@
 var a15828 =
 [
-    [ "npc_qiraj_war_spawnAI", "d5/db8/a15828.html#a1122bc3961300ba39c02613ba0fcd909", null ],
-    [ "JustDied", "d5/db8/a15828.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
-    [ "JustEngagedWith", "d5/db8/a15828.html#a628da97f8b8bda848880c53a509ad1f5", null ],
-    [ "Reset", "d5/db8/a15828.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
-    [ "UpdateAI", "d5/db8/a15828.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
-    [ "hasTarget", "d5/db8/a15828.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
-    [ "MobGUID", "d5/db8/a15828.html#a4148121a56275770ee84744a0288b6c5", null ],
-    [ "PlayerGUID", "d5/db8/a15828.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
-    [ "SpellTimer1", "d5/db8/a15828.html#a8979a90473c62aad604857d92574e5f1", null ],
-    [ "SpellTimer2", "d5/db8/a15828.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
-    [ "SpellTimer3", "d5/db8/a15828.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
-    [ "SpellTimer4", "d5/db8/a15828.html#a301971cf821e68e6be3223d4076f8b49", null ],
-    [ "Timers", "d5/db8/a15828.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
+    [ "npc_anachronos_the_ancientAI", "d5/db8/a15828.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "d5/db8/a15828.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "d5/db8/a15828.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "d5/db8/a15828.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "d5/db8/a15828.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "d5/db8/a15828.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "d5/db8/a15828.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "d5/db8/a15828.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "d5/db8/a15828.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "d5/db8/a15828.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "d5/db8/a15828.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "d5/db8/a15828.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "d5/db8/a15828.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

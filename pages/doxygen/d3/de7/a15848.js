@@ -1,6 +1,5 @@
 var a15848 =
 [
-    [ "go_wind_stoneAI", "d3/db1/a15852.html", "d3/db1/a15852" ],
-    [ "go_wind_stone", "d3/de7/a15848.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d3/de7/a15848.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "go_crystalline_tear", "d3/de7/a15848.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "d3/de7/a15848.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

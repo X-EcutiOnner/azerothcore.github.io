@@ -1,7 +1,6 @@
 var a16220 =
 [
-    [ "OnRemove", "d1/d3c/a16220.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d1/d3c/a16220.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d1/d3c/a16220.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d1/d3c/a16220.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d1/d3c/a16220.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d1/d3c/a16220.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d1/d3c/a16220.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

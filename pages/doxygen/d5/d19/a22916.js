@@ -1,15 +1,11 @@
 var a22916 =
 [
-    [ "boss_grandmaster_vorpil", "d5/d19/a22916.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d5/d19/a22916.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d5/d19/a22916.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d5/d19/a22916.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d5/d19/a22916.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d5/d19/a22916.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d5/d19/a22916.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d5/d19/a22916.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d5/d19/a22916.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d5/d19/a22916.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d5/d19/a22916.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d5/d19/a22916.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "boss_murmur", "d5/d19/a22916.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CanAIAttack", "d5/d19/a22916.html#a6b89c95747c0a37c0b37527cd360e524", null ],
+    [ "CastSuppressionOOC", "d5/d19/a22916.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d5/d19/a22916.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d5/d19/a22916.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d5/d19/a22916.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d5/d19/a22916.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d5/d19/a22916.html#ade07217a85655a513d7a472d24589691", null ]
 ];

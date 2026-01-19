@@ -1,9 +1,15 @@
 var a14872 =
 [
-    [ "boss_azuregosAI", "d0/d97/a14872.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d0/d97/a14872.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d0/d97/a14872.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d0/d97/a14872.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d0/d97/a14872.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d0/d97/a14872.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d0/d97/a14872.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "d0/d97/a14872.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "d0/d97/a14872.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "d0/d97/a14872.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "d0/d97/a14872.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "d0/d97/a14872.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "d0/d97/a14872.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "d0/d97/a14872.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "d0/d97/a14872.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "d0/d97/a14872.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "d0/d97/a14872.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "d0/d97/a14872.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

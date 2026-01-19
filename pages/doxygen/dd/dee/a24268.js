@@ -1,8 +1,9 @@
 var a24268 =
 [
-    [ "npc_ancestral_wolfAI", "dd/dee/a24268.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "dd/dee/a24268.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "dd/dee/a24268.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "dd/dee/a24268.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "dd/dee/a24268.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_wounded_blood_elfAI", "dd/dee/a24268.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "dd/dee/a24268.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "dd/dee/a24268.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "dd/dee/a24268.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "dd/dee/a24268.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "dd/dee/a24268.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

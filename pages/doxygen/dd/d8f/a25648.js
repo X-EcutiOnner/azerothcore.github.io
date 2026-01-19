@@ -1,6 +1,6 @@
 var a25648 =
 [
-    [ "CheckCast", "dd/d8f/a25648.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "dd/d8f/a25648.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "dd/d8f/a25648.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "PrepareAuraScript", "dd/d8f/a25648.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "dd/d8f/a25648.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "dd/d8f/a25648.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

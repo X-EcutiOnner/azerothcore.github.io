@@ -1,10 +1,10 @@
 var a25048 =
 [
-    [ "Load", "d0/dd2/a25048.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d0/dd2/a25048.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d0/dd2/a25048.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d0/dd2/a25048.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d0/dd2/a25048.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d0/dd2/a25048.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d0/dd2/a25048.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "HandleEffectApply", "d0/dd2/a25048.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d0/dd2/a25048.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d0/dd2/a25048.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d0/dd2/a25048.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d0/dd2/a25048.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d0/dd2/a25048.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d0/dd2/a25048.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

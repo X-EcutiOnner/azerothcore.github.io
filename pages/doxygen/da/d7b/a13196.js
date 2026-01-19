@@ -1,6 +1,6 @@
 var a13196 =
 [
-    [ "npc_scarlet_ghoulAI", "d3/dcc/a13200.html", "d3/dcc/a13200" ],
-    [ "npc_scarlet_ghoul", "da/d7b/a13196.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "da/d7b/a13196.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "CheckRequirement", "da/d7b/a13196.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "da/d7b/a13196.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "da/d7b/a13196.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

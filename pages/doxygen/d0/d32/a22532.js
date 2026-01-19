@@ -1,6 +1,6 @@
 var a22532 =
 [
-    [ "CheckCast", "d0/d32/a22532.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d0/d32/a22532.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d0/d32/a22532.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/d52/a22536.html", "d7/d52/a22536" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d0/d32/a22532.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d0/d32/a22532.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

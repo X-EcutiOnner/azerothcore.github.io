@@ -1,6 +1,6 @@
 var a16176 =
 [
-    [ "npc_anub_ar_crusher_necromancer", "da/d75/a16176.html#a469d30b357551c4ce77f040bea79e951", null ],
-    [ "DoEngagedWith", "da/d75/a16176.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
-    [ "DoEvent", "da/d75/a16176.html#a67889b3a207ab26b7895e2f7996359b1", null ]
+    [ "npc_anub_ar_crusher_champion", "da/d75/a16176.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "da/d75/a16176.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "da/d75/a16176.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

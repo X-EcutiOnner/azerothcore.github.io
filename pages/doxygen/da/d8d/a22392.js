@@ -1,6 +1,6 @@
 var a22392 =
 [
-    [ "npc_mcmanus", "da/d8d/a22392.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "da/d8d/a22392.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "da/d8d/a22392.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_still_at_it_triggerAI", "d7/d1c/a22396.html", "d7/d1c/a22396" ],
+    [ "npc_still_at_it_trigger", "da/d8d/a22392.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "da/d8d/a22392.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

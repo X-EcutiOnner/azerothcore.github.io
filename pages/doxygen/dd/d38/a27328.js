@@ -1,5 +1,5 @@
 var a27328 =
 [
-    [ "achievement_bg_av_perfection", "dd/d38/a27328.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "dd/d38/a27328.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "achievement_tilted", "dd/d38/a27328.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "dd/d38/a27328.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

@@ -1,7 +1,6 @@
 var a15788 =
 [
-    [ "npc_shenthulAI", "d3/d35/a15792.html", "d3/d35/a15792" ],
-    [ "npc_shenthul", "df/df7/a15788.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "df/df7/a15788.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "df/df7/a15788.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_giant_spotlightAI", "d3/d35/a15792.html", "d3/d35/a15792" ],
+    [ "npc_giant_spotlight", "df/df7/a15788.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "df/df7/a15788.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

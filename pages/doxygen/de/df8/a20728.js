@@ -1,6 +1,6 @@
 var a20728 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d6/dac/a20732.html", "d6/dac/a20732" ],
-    [ "npc_ulduar_rocket_strike_trigger", "de/df8/a20728.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "de/df8/a20728.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "d6/dac/a20732.html", "d6/dac/a20732" ],
+    [ "npc_ulduar_emergency_fire_bot", "de/df8/a20728.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
+    [ "GetAI", "de/df8/a20728.html#afb3ab952495175c5f571d4e39a5acea4", null ]
 ];

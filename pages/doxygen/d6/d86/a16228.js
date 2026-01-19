@@ -1,6 +1,7 @@
 var a16228 =
 [
-    [ "boss_sartharionAI", "df/d80/a16232.html", "df/d80/a16232" ],
-    [ "boss_sartharion", "d6/d86/a16228.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "d6/d86/a16228.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "OnRemove", "d6/d86/a16228.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d6/d86/a16228.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d6/d86/a16228.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d6/d86/a16228.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

@@ -1,17 +1,11 @@
 var a13008 =
 [
-    [ "boss_dorothee", "d2/da5/a13008.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
-    [ "DoAction", "d2/da5/a13008.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
-    [ "EnterEvadeMode", "d2/da5/a13008.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
-    [ "JustDied", "d2/da5/a13008.html#a289dfa1f257ca25acba9487908e6223c", null ],
-    [ "JustEngagedWith", "d2/da5/a13008.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
-    [ "JustReachedHome", "d2/da5/a13008.html#a762209d2bf78cc21c48a426732f2354e", null ],
-    [ "Reset", "d2/da5/a13008.html#ae3f123a6a9223b7928295812326b0cb4", null ],
-    [ "SummonedCreatureDies", "d2/da5/a13008.html#a0e76c828a1c7c49741963b6e98003a66", null ],
-    [ "SummonTito", "d2/da5/a13008.html#a5c04074aab40ecaeeb84b33205b40144", null ],
-    [ "UpdateAI", "d2/da5/a13008.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
-    [ "_scheduler", "d2/da5/a13008.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
-    [ "_startIntro", "d2/da5/a13008.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
-    [ "instance", "d2/da5/a13008.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
-    [ "titoDied", "d2/da5/a13008.html#a258cc9ce32f314e723d5345ac18336bf", null ]
+    [ "npc_demon_chain", "d2/da5/a13008.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d2/da5/a13008.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d2/da5/a13008.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d2/da5/a13008.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d2/da5/a13008.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d2/da5/a13008.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d2/da5/a13008.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d2/da5/a13008.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

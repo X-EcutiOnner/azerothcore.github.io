@@ -1,8 +1,9 @@
 var a14620 =
 [
-    [ "npc_love_in_air_snivel_real", "db/d22/a14620.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "db/d22/a14620.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "db/d22/a14620.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "db/d22/a14620.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "db/d22/a14620.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "entries", "db/d22/a14620.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "db/d22/a14620.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "db/d22/a14620.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "db/d22/a14620.html#a7fd78a5fa19a14ab1b002f5b6ef4e20f", null ],
+    [ "size", "db/d22/a14620.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "db/d22/a14620.html#aa22c51469489fbb6551de2b751f06c94", null ]
 ];

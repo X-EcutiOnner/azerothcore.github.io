@@ -1,4 +1,8 @@
 var a19948 =
 [
-    [ "operator()", "d7/d47/a19948.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
+    [ "HandlePeriodic", "d7/d47/a19948.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d7/d47/a19948.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d7/d47/a19948.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d7/d47/a19948.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d7/d47/a19948.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

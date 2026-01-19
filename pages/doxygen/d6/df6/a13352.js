@@ -1,6 +1,6 @@
 var a13352 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d3/d27/a13356.html", "d3/d27/a13356" ],
-    [ "boss_kirtonos_the_herald", "d6/df6/a13352.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d6/df6/a13352.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "npc_risen_guardianAI", "d3/d27/a13356.html", "d3/d27/a13356" ],
+    [ "npc_risen_guardian", "d6/df6/a13352.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "d6/df6/a13352.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

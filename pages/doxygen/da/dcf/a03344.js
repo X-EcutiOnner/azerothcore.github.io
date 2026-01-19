@@ -1,7 +1,7 @@
 var a03344 =
 [
-    [ "AccountFlagText", "d8/d2e/a11964.html", "d8/d2e/a11964" ],
-    [ "misc_commandscript", "d2/d1c/a11968.html", "d2/d1c/a11968" ],
+    [ "AccountFlagText", "d3/d0a/a11972.html", "d3/d0a/a11972" ],
+    [ "misc_commandscript", "d4/dea/a11976.html", "d4/dea/a11976" ],
     [ "AddSC_misc_commandscript", "da/dcf/a03344.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
     [ "GetLocalizeCreatureName", "da/dcf/a03344.html#aaedbdfd3cae227b11684151f41e3b977", null ],
     [ "accountFlagText", "da/dcf/a03344.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],

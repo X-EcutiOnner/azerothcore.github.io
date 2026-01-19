@@ -1,11 +1,25 @@
 var a18316 =
 [
-    [ "npc_ice_tombAI", "df/dad/a18316.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "df/dad/a18316.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "df/dad/a18316.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "df/dad/a18316.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "df/dad/a18316.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "df/dad/a18316.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "df/dad/a18316.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "df/dad/a18316.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "boss_sindragosaAI", "df/dad/a18316.html#ab02e42a863496b27a8f2b745085e30ea", null ],
+    [ "CanAIAttack", "df/dad/a18316.html#aea65b981e8b9461750a53fca3919c27f", null ],
+    [ "DamageTaken", "df/dad/a18316.html#ab4bc9869ad6074a1671b0b18f681a913", null ],
+    [ "DoAction", "df/dad/a18316.html#a93859d74931e5b810e3c48e492103919", null ],
+    [ "EnterEvadeMode", "df/dad/a18316.html#acb1e677b2347e0464df832e1d86cd3b5", null ],
+    [ "GetData", "df/dad/a18316.html#abbdaf0b2fe76e6f79126d15a1cecca2a", null ],
+    [ "JustDied", "df/dad/a18316.html#a0a41a38ba0577f9b4f10bd1143a1e615", null ],
+    [ "JustEngagedWith", "df/dad/a18316.html#af0151f1cb6776a3a180b4e24332c8489", null ],
+    [ "JustSummoned", "df/dad/a18316.html#ac3d9b66097202719781ede743fabc1ea", null ],
+    [ "KilledUnit", "df/dad/a18316.html#a27f5953a9cf68ec10a63622cf0f33d9b", null ],
+    [ "MoveInLineOfSight", "df/dad/a18316.html#a17d93e98d5c8f91e8009674a4117bd39", null ],
+    [ "MovementInform", "df/dad/a18316.html#abff1b505e9d2d6c826f814b2d43409af", null ],
+    [ "Reset", "df/dad/a18316.html#a5350ca3791fb777959de068933d121ba", null ],
+    [ "SpellHitTarget", "df/dad/a18316.html#ad2d10d5aeebea48809a61eee293ff9da", null ],
+    [ "SummonedCreatureDespawn", "df/dad/a18316.html#a5245dbb8a3065f2da4815be744dce357", null ],
+    [ "UpdateAI", "df/dad/a18316.html#a0e92f831d702eda65309787c651f221b", null ],
+    [ "_bombCount", "df/dad/a18316.html#a8ef89884c8d1b272d28dd7a6d2048964", null ],
+    [ "_isBelow20Pct", "df/dad/a18316.html#a87663e3f6d1c87c9def8eb1852adc029", null ],
+    [ "_isInAirPhase", "df/dad/a18316.html#addc25d8f87dd9fd627c0bde5944c037a", null ],
+    [ "_isLanding", "df/dad/a18316.html#a3de52bd0571eab9df13809ff5a4b891c", null ],
+    [ "_isThirdPhase", "df/dad/a18316.html#a741a811fd9832fb4275c51d2272d98f0", null ],
+    [ "_mysticBuffetStack", "df/dad/a18316.html#a9cfaa3b61da9a7aad88c2d2a537f0821", null ]
 ];

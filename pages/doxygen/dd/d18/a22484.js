@@ -1,6 +1,12 @@
 var a22484 =
 [
-    [ "npc_roxi_ramrocket", "dd/d18/a22484.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "dd/d18/a22484.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "dd/d18/a22484.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_time_lost_proto_drakeAI", "dd/d18/a22484.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "dd/d18/a22484.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "dd/d18/a22484.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "dd/d18/a22484.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "dd/d18/a22484.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "dd/d18/a22484.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "dd/d18/a22484.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "dd/d18/a22484.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "dd/d18/a22484.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

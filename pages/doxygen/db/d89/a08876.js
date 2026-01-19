@@ -1,11 +1,6 @@
 var a08876 =
 [
-    [ "VehicleSeatAddon", "db/d89/a08876.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "db/d89/a08876.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "db/d89/a08876.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "db/d89/a08876.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "db/d89/a08876.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "db/d89/a08876.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "db/d89/a08876.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "db/d89/a08876.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "Reset", "db/d89/a08876.html#acccf504073283011dc32b05a5a87b85a", null ],
+    [ "Guid", "db/d89/a08876.html#a738a014abc8cb5df525642acc218576b", null ],
+    [ "IsUnselectable", "db/d89/a08876.html#a037411c58c414d0c5a39915b7acd578d", null ]
 ];

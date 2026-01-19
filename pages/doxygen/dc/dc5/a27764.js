@@ -1,12 +1,19 @@
 var a27764 =
 [
-    [ "npc_preciousAI", "dc/dc5/a27764.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "dc/dc5/a27764.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "dc/dc5/a27764.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "dc/dc5/a27764.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "dc/dc5/a27764.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "dc/dc5/a27764.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "dc/dc5/a27764.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "dc/dc5/a27764.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "dc/dc5/a27764.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_simoneAI", "dc/dc5/a27764.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
+    [ "CorpseRemoved", "dc/dc5/a27764.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
+    [ "HandlePetRespawn", "dc/dc5/a27764.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
+    [ "JustDied", "dc/dc5/a27764.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
+    [ "JustEngagedWith", "dc/dc5/a27764.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
+    [ "JustRespawned", "dc/dc5/a27764.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
+    [ "Precious", "dc/dc5/a27764.html#ad40c5f293558ca5a00614810a89d86c9", null ],
+    [ "PreciousAI", "dc/dc5/a27764.html#acbdf0e5404402edf28fecf8657303aba", null ],
+    [ "Reset", "dc/dc5/a27764.html#a1a62a843922448390151ed14e0ca2148", null ],
+    [ "RespawnPet", "dc/dc5/a27764.html#af6d0cad159d88862e915c9f9337a49e3", null ],
+    [ "ScheduleEncounterStart", "dc/dc5/a27764.html#ab879f0b452e511212be4df530b11d461", null ],
+    [ "SetPreciousGUID", "dc/dc5/a27764.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
+    [ "SpellHit", "dc/dc5/a27764.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
+    [ "UpdateAI", "dc/dc5/a27764.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
+    [ "events", "dc/dc5/a27764.html#a1118fe0b8375db5327a9651a13832523", null ],
+    [ "preciousGUID", "dc/dc5/a27764.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
 ];

@@ -1,6 +1,5 @@
 var a23628 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "df/de4/a23628.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "df/de4/a23628.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "df/de4/a23628.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "at_underbog_ghazan", "df/de4/a23628.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "df/de4/a23628.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

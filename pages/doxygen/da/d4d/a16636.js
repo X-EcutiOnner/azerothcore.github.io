@@ -1,6 +1,6 @@
 var a16636 =
 [
-    [ "npc_nerubian_burrowerAI", "d8/dce/a16640.html", "d8/dce/a16640" ],
-    [ "npc_nerubian_burrower", "da/d4d/a16636.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "da/d4d/a16636.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_frost_sphereAI", "d8/dce/a16640.html", "d8/dce/a16640" ],
+    [ "npc_frost_sphere", "da/d4d/a16636.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "da/d4d/a16636.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

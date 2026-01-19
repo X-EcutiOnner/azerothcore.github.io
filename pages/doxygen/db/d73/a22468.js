@@ -1,11 +1,16 @@
 var a22468 =
 [
-    [ "npc_iron_watcherAI", "db/d73/a22468.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "db/d73/a22468.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "db/d73/a22468.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "db/d73/a22468.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "db/d73/a22468.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "db/d73/a22468.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "db/d73/a22468.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "db/d73/a22468.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_frosthound", "db/d73/a22468.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "db/d73/a22468.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "db/d73/a22468.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "db/d73/a22468.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "db/d73/a22468.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "db/d73/a22468.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "db/d73/a22468.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "db/d73/a22468.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "db/d73/a22468.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "db/d73/a22468.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "db/d73/a22468.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "_completionWaypoint", "db/d73/a22468.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "db/d73/a22468.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

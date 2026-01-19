@@ -1,6 +1,6 @@
 var a27052 =
 [
-    [ "HandleAuraApply", "d3/dcc/a27052.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d3/dcc/a27052.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d3/dcc/a27052.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "CheckCast", "d3/dcc/a27052.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "d3/dcc/a27052.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "d3/dcc/a27052.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

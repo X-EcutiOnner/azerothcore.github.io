@@ -1,14 +1,6 @@
 var a07388 =
 [
-    [ "IsArena", "de/da5/a07388.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "de/da5/a07388.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "de/da5/a07388.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "de/da5/a07388.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "de/da5/a07388.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "de/da5/a07388.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "de/da5/a07388.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "de/da5/a07388.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "de/da5/a07388.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "de/da5/a07388.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "de/da5/a07388.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "_Battlegrounds", "de/da5/a07388.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
+    [ "_ClientBattlegroundIds", "de/da5/a07388.html#a0526fab23b40ac1b33ce18243ad41132", null ],
+    [ "BGFreeSlotQueue", "de/da5/a07388.html#a49fd7eb3a472894f233d309d35d509be", null ]
 ];

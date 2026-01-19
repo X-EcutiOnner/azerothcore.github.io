@@ -1,11 +1,11 @@
 var a02738 =
 [
-    [ "boss_kelthuzad", "d0/db0/a19332.html", "d0/db0/a19332" ],
-    [ "boss_kelthuzad::boss_kelthuzadAI", "d3/d48/a19336.html", "d3/d48/a19336" ],
-    [ "boss_kelthuzad_minion", "d2/d03/a19340.html", "d2/d03/a19340" ],
-    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "db/daa/a19344.html", "db/daa/a19344" ],
-    [ "spell_kelthuzad_frost_blast", "d0/d56/a19348.html", "d0/d56/a19348" ],
-    [ "spell_kelthuzad_detonate_mana_aura", "dd/dbf/a19352.html", "dd/dbf/a19352" ],
+    [ "boss_kelthuzad", "d2/d03/a19340.html", "d2/d03/a19340" ],
+    [ "boss_kelthuzad::boss_kelthuzadAI", "db/daa/a19344.html", "db/daa/a19344" ],
+    [ "boss_kelthuzad_minion", "d0/d56/a19348.html", "d0/d56/a19348" ],
+    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "dd/dbf/a19352.html", "dd/dbf/a19352" ],
+    [ "spell_kelthuzad_frost_blast", "d0/d95/a19356.html", "d0/d95/a19356" ],
+    [ "spell_kelthuzad_detonate_mana_aura", "d6/d68/a19360.html", "d6/d68/a19360" ],
     [ "Event", "da/d62/a02738.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_SUMMON_SOLDIER", "da/d62/a02738.html#a5667b805d857c6d28f83f6038a0272d3a84eac75e4274b66a6397ab6c0d0f98f7", null ],
       [ "EVENT_SUMMON_UNSTOPPABLE_ABOMINATION", "da/d62/a02738.html#a5667b805d857c6d28f83f6038a0272d3af49aa46c23f4eecfc8d7ec8de4ce7d8d", null ],
@@ -285,9 +285,6 @@ var a02738 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

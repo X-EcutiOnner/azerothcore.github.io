@@ -1,6 +1,6 @@
 var a26192 =
 [
-    [ "CheckCast", "dd/d6f/a26192.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "dd/d6f/a26192.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "dd/d6f/a26192.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "CheckProc", "dd/d6f/a26192.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "dd/d6f/a26192.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "dd/d6f/a26192.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

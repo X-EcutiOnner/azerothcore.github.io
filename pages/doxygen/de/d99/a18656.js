@@ -1,9 +1,9 @@
 var a18656 =
 [
-    [ "npc_spirit_wardenAI", "de/d99/a18656.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "de/d99/a18656.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "de/d99/a18656.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "de/d99/a18656.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "de/d99/a18656.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "de/d99/a18656.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "FilterTargets", "de/d99/a18656.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "de/d99/a18656.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "de/d99/a18656.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "de/d99/a18656.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "de/d99/a18656.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "de/d99/a18656.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

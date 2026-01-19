@@ -1,12 +1,12 @@
 var a18040 =
 [
-    [ "npc_darnavanAI", "de/d05/a18040.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "de/d05/a18040.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "de/d05/a18040.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "de/d05/a18040.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "de/d05/a18040.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "de/d05/a18040.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "de/d05/a18040.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "de/d05/a18040.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "de/d05/a18040.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "npc_vengeful_shadeAI", "de/d05/a18040.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "de/d05/a18040.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "de/d05/a18040.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "de/d05/a18040.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "de/d05/a18040.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "de/d05/a18040.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "de/d05/a18040.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "de/d05/a18040.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "de/d05/a18040.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

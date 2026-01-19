@@ -1,6 +1,10 @@
 var a08216 =
 [
-    [ "ForcedUnsummonDelayEvent", "d4/d29/a08216.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d4/d29/a08216.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d4/d29/a08216.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "Puppet", "d4/d29/a08216.html#ab0082936291e6b7f5370656c7c9ed948", null ],
+    [ "GetOwner", "d4/d29/a08216.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
+    [ "InitStats", "d4/d29/a08216.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
+    [ "InitSummon", "d4/d29/a08216.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
+    [ "RemoveFromWorld", "d4/d29/a08216.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
+    [ "Update", "d4/d29/a08216.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
+    [ "m_owner", "d4/d29/a08216.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
 ];

@@ -1,7 +1,5 @@
 var a15248 =
 [
-    [ "HandleScript", "d5/d2a/a15248.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d5/d2a/a15248.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d5/d2a/a15248.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d5/d2a/a15248.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "pathId", "d5/d2a/a15248.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "d5/d2a/a15248.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

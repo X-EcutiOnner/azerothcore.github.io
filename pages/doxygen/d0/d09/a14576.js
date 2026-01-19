@@ -1,12 +1,11 @@
 var a14576 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d0/d09/a14576.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d0/d09/a14576.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d0/d09/a14576.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d0/d09/a14576.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d0/d09/a14576.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d0/d09/a14576.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d0/d09/a14576.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d0/d09/a14576.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d0/d09/a14576.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_elder_kekek", "d0/d09/a14576.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "d0/d09/a14576.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "d0/d09/a14576.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "d0/d09/a14576.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "d0/d09/a14576.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "d0/d09/a14576.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "d0/d09/a14576.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "d0/d09/a14576.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

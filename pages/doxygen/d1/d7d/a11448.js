@@ -1,7 +1,12 @@
 var a11448 =
 [
-    [ "attributeMask", "d1/d7d/a11448.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d1/d7d/a11448.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d1/d7d/a11448.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d1/d7d/a11448.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "cooldown", "d1/d7d/a11448.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
+    [ "customChance", "d1/d7d/a11448.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
+    [ "ppmRate", "d1/d7d/a11448.html#a931b2df4a187482e32ef252c3320080a", null ],
+    [ "procEx", "d1/d7d/a11448.html#a911770f28fe36243593b12fe92d6fbec", null ],
+    [ "procFlags", "d1/d7d/a11448.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
+    [ "procPhase", "d1/d7d/a11448.html#a179d83770a02e4ab13f809ed3943a399", null ],
+    [ "schoolMask", "d1/d7d/a11448.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
+    [ "spellFamilyMask", "d1/d7d/a11448.html#a2aa57bf419ab51129fe7240750ee8910", null ],
+    [ "spellFamilyName", "d1/d7d/a11448.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
 ];

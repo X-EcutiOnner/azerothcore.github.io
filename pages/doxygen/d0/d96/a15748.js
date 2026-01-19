@@ -1,6 +1,6 @@
 var a15748 =
 [
-    [ "HandleDummy", "d0/d96/a15748.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d0/d96/a15748.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d0/d96/a15748.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npcs_riverbreeze_and_silversky", "d0/d96/a15748.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d0/d96/a15748.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d0/d96/a15748.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

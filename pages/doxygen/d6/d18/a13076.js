@@ -1,8 +1,7 @@
 var a13076 =
 [
-    [ "npc_barnesAI", "d1/d2a/a13080.html", "d1/d2a/a13080" ],
-    [ "npc_barnes", "d6/d18/a13076.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d6/d18/a13076.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d6/d18/a13076.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d6/d18/a13076.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "HandleDummy", "d6/d18/a13076.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d6/d18/a13076.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d6/d18/a13076.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d6/d18/a13076.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

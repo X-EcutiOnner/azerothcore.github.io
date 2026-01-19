@@ -1,6 +1,6 @@
 var a00992 =
 [
-    [ "SpellModPredicate", "df/d1c/a08588.html", "df/d1c/a08588" ],
+    [ "SpellModPredicate", "da/d3d/a08592.html", "da/d3d/a08592" ],
     [ "CharacterCustomizeFlags", "d7/d76/a00992.html#a3a8c2696b2e9a6bf9d90ce80438aa578", [
       [ "CHAR_CUSTOMIZE_FLAG_NONE", "d7/d76/a00992.html#a3a8c2696b2e9a6bf9d90ce80438aa578a6f6dac768618381b22f3ab44ba494533", null ],
       [ "CHAR_CUSTOMIZE_FLAG_CUSTOMIZE", "d7/d76/a00992.html#a3a8c2696b2e9a6bf9d90ce80438aa578aadb876a16cbe9fa5facd96601b6a4626", null ],

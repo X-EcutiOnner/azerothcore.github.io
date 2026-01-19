@@ -1,8 +1,7 @@
 var a11424 =
 [
-    [ "DirectionType", "d6/dc7/a11424.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d6/dc7/a11424.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d6/dc7/a11424.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d6/dc7/a11424.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d6/dc7/a11424.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "SpellImmune", "d6/dc7/a11424.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d6/dc7/a11424.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d6/dc7/a11424.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d6/dc7/a11424.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

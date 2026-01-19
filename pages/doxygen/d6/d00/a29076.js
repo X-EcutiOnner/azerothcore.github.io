@@ -1,10 +1,9 @@
 var a29076 =
 [
-    [ "maxSimplificationError", "d6/d00/a29076.html#a010878a247d639234d2bb8571280aca6", null ],
-    [ "vertexPerMapEdge", "d6/d00/a29076.html#af620af11a09215f106fc6704c88fa411", null ],
-    [ "vertexPerTileEdge", "d6/d00/a29076.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
-    [ "walkableClimb", "d6/d00/a29076.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
-    [ "walkableHeight", "d6/d00/a29076.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
-    [ "walkableRadius", "d6/d00/a29076.html#a43f00aacc5e1497c169d4ba908883140", null ],
-    [ "walkableSlopeAngle", "d6/d00/a29076.html#a9792dfe730bfc437797a359896a14528", null ]
+    [ "MapTiles", "d6/d00/a29076.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "d6/d00/a29076.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "d6/d00/a29076.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "d6/d00/a29076.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "d6/d00/a29076.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "d6/d00/a29076.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

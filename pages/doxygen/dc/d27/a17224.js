@@ -1,6 +1,6 @@
 var a17224 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d0/d9a/a17228.html", "d0/d9a/a17228" ],
-    [ "npc_hor_risen_witch_doctor", "dc/d27/a17224.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "dc/d27/a17224.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "npc_hor_raging_ghoulAI", "d0/d9a/a17228.html", "d0/d9a/a17228" ],
+    [ "npc_hor_raging_ghoul", "dc/d27/a17224.html#ad2130edf27295719c46dde14deefe5a4", null ],
+    [ "GetAI", "dc/d27/a17224.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
 ];

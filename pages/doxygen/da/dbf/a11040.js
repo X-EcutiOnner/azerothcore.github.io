@@ -1,8 +1,7 @@
 var a11040 =
 [
-    [ "TrainerBuyFailed", "da/dbf/a11040.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "da/dbf/a11040.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "da/dbf/a11040.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "da/dbf/a11040.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "da/dbf/a11040.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "TrainerBuySpell", "da/dbf/a11040.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "da/dbf/a11040.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "da/dbf/a11040.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "da/dbf/a11040.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

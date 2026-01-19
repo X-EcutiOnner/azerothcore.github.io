@@ -1,6 +1,7 @@
 var a12848 =
 [
-    [ "HandleTriggerSpell", "df/d4d/a12848.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "df/d4d/a12848.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "df/d4d/a12848.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_kernobeeAI", "d8/d51/a12852.html", "d8/d51/a12852" ],
+    [ "npc_kernobee", "df/d4d/a12848.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "df/d4d/a12848.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "df/d4d/a12848.html#aa830285cf19211b8233620257735ab62", null ]
 ];

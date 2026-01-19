@@ -1,6 +1,5 @@
 var a11696 =
 [
-    [ "FieldGuidType", "db/d95/a11696.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "db/d95/a11696.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "db/d95/a11696.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "Name", "db/d95/a11696.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "db/d95/a11696.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

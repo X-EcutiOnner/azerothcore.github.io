@@ -1,6 +1,6 @@
 var a14496 =
 [
-    [ "OnApply", "d5/d05/a14496.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d5/d05/a14496.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d5/d05/a14496.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "HandleDummyEffect", "d5/d05/a14496.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d5/d05/a14496.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d5/d05/a14496.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

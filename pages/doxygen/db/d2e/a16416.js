@@ -1,8 +1,10 @@
 var a16416 =
 [
-    [ "Load", "db/d2e/a16416.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "db/d2e/a16416.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "db/d2e/a16416.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "db/d2e/a16416.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "db/d2e/a16416.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "spell_halion_damage_aoe_summon", "db/d2e/a16416.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "db/d2e/a16416.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "db/d2e/a16416.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "db/d2e/a16416.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "db/d2e/a16416.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "db/d2e/a16416.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "db/d2e/a16416.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

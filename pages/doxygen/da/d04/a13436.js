@@ -1,7 +1,7 @@
 var a13436 =
 [
-    [ "OnPeriodic", "da/d04/a13436.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "da/d04/a13436.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "da/d04/a13436.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "da/d04/a13436.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "HandleScript", "da/d04/a13436.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "da/d04/a13436.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "da/d04/a13436.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "da/d04/a13436.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

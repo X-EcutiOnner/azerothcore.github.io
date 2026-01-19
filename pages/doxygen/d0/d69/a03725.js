@@ -1,7 +1,7 @@
 var a03725 =
 [
-    [ "boss_urok_doomhowl", "dc/df2/a12416.html", "dc/df2/a12416" ],
-    [ "boss_urok_doomhowl::boss_urok_doomhowlAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
+    [ "boss_urok_doomhowl", "d1/d35/a12424.html", "d1/d35/a12424" ],
+    [ "boss_urok_doomhowl::boss_urok_doomhowlAI", "db/dd1/a12428.html", "db/dd1/a12428" ],
     [ "Events", "d0/d69/a03725.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

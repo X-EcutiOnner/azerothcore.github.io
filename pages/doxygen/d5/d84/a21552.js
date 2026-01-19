@@ -1,6 +1,6 @@
 var a21552 =
 [
-    [ "boss_ichoronAI", "d9/dce/a21556.html", "d9/dce/a21556" ],
-    [ "boss_ichoron", "d5/d84/a21552.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d5/d84/a21552.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "npc_erekem_guardAI", "d9/dce/a21556.html", "d9/dce/a21556" ],
+    [ "npc_erekem_guard", "d5/d84/a21552.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "d5/d84/a21552.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

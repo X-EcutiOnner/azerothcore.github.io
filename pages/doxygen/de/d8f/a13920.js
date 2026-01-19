@@ -1,15 +1,7 @@
 var a13920 =
 [
-    [ "npc_deathstalker_fearleia", "de/d8f/a13920.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "de/d8f/a13920.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "de/d8f/a13920.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "de/d8f/a13920.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "de/d8f/a13920.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "de/d8f/a13920.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "de/d8f/a13920.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "de/d8f/a13920.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "de/d8f/a13920.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "de/d8f/a13920.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "de/d8f/a13920.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "de/d8f/a13920.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_deathstalker_erlandAI", "d4/d48/a13924.html", "d4/d48/a13924" ],
+    [ "npc_deathstalker_erland", "de/d8f/a13920.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "de/d8f/a13920.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "de/d8f/a13920.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

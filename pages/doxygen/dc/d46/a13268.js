@@ -1,6 +1,6 @@
 var a13268 =
 [
-    [ "npc_acherus_necromancerAI", "d5/de3/a13272.html", "d5/de3/a13272" ],
-    [ "npc_acherus_necromancer", "dc/d46/a13268.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "dc/d46/a13268.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "npc_a_special_surpriseAI", "d5/de3/a13272.html", "d5/de3/a13272" ],
+    [ "npc_a_special_surprise", "dc/d46/a13268.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "dc/d46/a13268.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

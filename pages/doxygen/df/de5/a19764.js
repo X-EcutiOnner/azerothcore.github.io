@@ -1,12 +1,17 @@
 var a19764 =
 [
-    [ "boss_ionar", "df/de5/a19764.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "df/de5/a19764.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "df/de5/a19764.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "df/de5/a19764.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "df/de5/a19764.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "df/de5/a19764.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "df/de5/a19764.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "df/de5/a19764.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "df/de5/a19764.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "boss_bjarngrim", "df/de5/a19764.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "df/de5/a19764.html#a87eab2b27b48d98b94a030936722781e", null ],
+    [ "JustDied", "df/de5/a19764.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
+    [ "JustEngagedWith", "df/de5/a19764.html#ad150ab7d9837861e8c4673a78978bb11", null ],
+    [ "KilledUnit", "df/de5/a19764.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
+    [ "RemoveStanceAura", "df/de5/a19764.html#a55a695e27192313c6cbe263a739e669e", null ],
+    [ "Reset", "df/de5/a19764.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
+    [ "RollStance", "df/de5/a19764.html#acd511435f9d77aa4839e1c856382ea51", null ],
+    [ "UpdateEscortAI", "df/de5/a19764.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
+    [ "WaypointReached", "df/de5/a19764.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "events", "df/de5/a19764.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
+    [ "m_pInstance", "df/de5/a19764.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
+    [ "m_uiStance", "df/de5/a19764.html#aec11755c71f056c8294a8af1c1084353", null ],
+    [ "summons", "df/de5/a19764.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
 ];

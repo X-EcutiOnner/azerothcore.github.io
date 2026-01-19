@@ -1,7 +1,14 @@
 var a19608 =
 [
-    [ "HandlePull", "d2/d98/a19608.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d2/d98/a19608.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d2/d98/a19608.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d2/d98/a19608.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_magus_telestra", "d2/d98/a19608.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d2/d98/a19608.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d2/d98/a19608.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d2/d98/a19608.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d2/d98/a19608.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d2/d98/a19608.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d2/d98/a19608.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d2/d98/a19608.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d2/d98/a19608.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d2/d98/a19608.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d2/d98/a19608.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

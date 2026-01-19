@@ -1,7 +1,6 @@
 var a28352 =
 [
-    [ "EmoteType", "dc/db3/a28352.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "dc/db3/a28352.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "dc/db3/a28352.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "dc/db3/a28352.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "AreaGroupId", "dc/db3/a28352.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "dc/db3/a28352.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "dc/db3/a28352.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

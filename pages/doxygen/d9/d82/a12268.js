@@ -1,6 +1,6 @@
 var a12268 =
 [
-    [ "boss_gloomrel", "d9/d82/a12268.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "d9/d82/a12268.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "d9/d82/a12268.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_okthorAI", "d1/da9/a12272.html", "d1/da9/a12272" ],
+    [ "boss_okthor", "d9/d82/a12268.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
+    [ "GetAI", "d9/d82/a12268.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
 ];

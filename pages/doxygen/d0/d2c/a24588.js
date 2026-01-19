@@ -1,6 +1,6 @@
 var a24588 =
 [
-    [ "npc_slim", "d0/d2c/a24588.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d0/d2c/a24588.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d0/d2c/a24588.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "npc_pet_dk_ghoul", "d0/d2c/a24588.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d0/d2c/a24588.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d0/d2c/a24588.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

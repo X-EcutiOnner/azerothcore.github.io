@@ -1,7 +1,8 @@
 var a19872 =
 [
-    [ "HandleEffectRemove", "dc/da7/a19872.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "dc/da7/a19872.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "dc/da7/a19872.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "dc/da7/a19872.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "brann_bronzebeardAI", "d7/d35/a19876.html", "d7/d35/a19876" ],
+    [ "brann_bronzebeard", "dc/da7/a19872.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "dc/da7/a19872.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "dc/da7/a19872.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "dc/da7/a19872.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

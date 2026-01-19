@@ -1,5 +1,14 @@
 var a15236 =
 [
-    [ "npc_hive_zara_swarmer", "da/dd8/a15236.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "da/dd8/a15236.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "boss_ayamiss", "da/dd8/a15236.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "da/dd8/a15236.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "da/dd8/a15236.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "da/dd8/a15236.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "da/dd8/a15236.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "da/dd8/a15236.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "da/dd8/a15236.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "da/dd8/a15236.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "da/dd8/a15236.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "da/dd8/a15236.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "da/dd8/a15236.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

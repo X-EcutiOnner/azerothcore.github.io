@@ -1,8 +1,7 @@
 var a13300 =
 [
-    [ "DelayedSummonEvent", "d9/d0e/a13300.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d9/d0e/a13300.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d9/d0e/a13300.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d9/d0e/a13300.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d9/d0e/a13300.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "CheckCast", "d9/d0e/a13300.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "d9/d0e/a13300.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "d9/d0e/a13300.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "d9/d0e/a13300.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

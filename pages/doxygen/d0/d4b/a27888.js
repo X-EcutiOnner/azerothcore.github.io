@@ -1,7 +1,6 @@
 var a27888 =
 [
-    [ "npc_guardianAI", "d0/d4b/a27888.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d0/d4b/a27888.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d0/d4b/a27888.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d0/d4b/a27888.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_steam_tonkAI", "d5/de5/a27892.html", "d5/de5/a27892" ],
+    [ "npc_steam_tonk", "d0/d4b/a27888.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d0/d4b/a27888.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

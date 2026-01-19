@@ -1,5 +1,7 @@
 var a12252 =
 [
-    [ "boss_moira_bronzebeard", "d1/df3/a12252.html#abb9a87023b8afa242e60f9694dea1c39", null ],
-    [ "GetAI", "d1/df3/a12252.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
+    [ "boss_moira_bronzebeardAI", "d1/df3/a12252.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d1/df3/a12252.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "d1/df3/a12252.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d1/df3/a12252.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

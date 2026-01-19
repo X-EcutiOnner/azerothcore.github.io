@@ -1,6 +1,6 @@
 var a17332 =
 [
-    [ "npc_pos_after_first_bossAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
-    [ "npc_pos_after_first_boss", "d1/dad/a17332.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d1/dad/a17332.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d1/dad/a17332.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "d1/dad/a17332.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

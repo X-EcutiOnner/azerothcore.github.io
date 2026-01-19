@@ -1,8 +1,10 @@
 var a28980 =
 [
-    [ "ADT_file", "dc/dd1/a28980.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "dc/dd1/a28980.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "dc/dd1/a28980.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "dc/dd1/a28980.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "dc/dd1/a28980.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "Exception", "dc/dd1/a28980.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dc/dd1/a28980.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "dc/dd1/a28980.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dc/dd1/a28980.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "dc/dd1/a28980.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "dc/dd1/a28980.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "dc/dd1/a28980.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

@@ -1,6 +1,5 @@
 var a15496 =
 [
-    [ "HandleOnHit", "da/d45/a15496.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "da/d45/a15496.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "da/d45/a15496.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "npc_toxic_slime", "da/d45/a15496.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "da/d45/a15496.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

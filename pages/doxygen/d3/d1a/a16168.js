@@ -1,6 +1,17 @@
 var a16168 =
 [
-    [ "npc_anub_ar_crusher_champion", "d3/d1a/a16168.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d3/d1a/a16168.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d3/d1a/a16168.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "npc_hadronox_crusherPackAI", "d3/d1a/a16168.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
+    [ "DoAction", "d3/d1a/a16168.html#a37b0af619fe374f809c0a41d340e5772", null ],
+    [ "DoEngagedWith", "d3/d1a/a16168.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
+    [ "DoEvent", "d3/d1a/a16168.html#a7ed620b7288a89f83150f49f0883f38b", null ],
+    [ "GetData", "d3/d1a/a16168.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
+    [ "JustEngagedWith", "d3/d1a/a16168.html#abc2842315c49bad32ea04b0d67e7d903", null ],
+    [ "MoveInLineOfSight", "d3/d1a/a16168.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
+    [ "MovementInform", "d3/d1a/a16168.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
+    [ "SetData", "d3/d1a/a16168.html#a99c1bcd23e068cba7e663fba2953b059", null ],
+    [ "UpdateAI", "d3/d1a/a16168.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
+    [ "_doFacing", "d3/d1a/a16168.html#a522540365169c2e73aa69914c350cbd0", null ],
+    [ "_instance", "d3/d1a/a16168.html#a050359a9f4a7556c6793337d7f654543", null ],
+    [ "_myPack", "d3/d1a/a16168.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
+    [ "_positions", "d3/d1a/a16168.html#a811105fc340ac25bdc61ede98387e430", null ]
 ];

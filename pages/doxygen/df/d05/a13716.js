@@ -1,8 +1,8 @@
 var a13716 =
 [
-    [ "HandleApply", "df/d05/a13716.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "df/d05/a13716.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "df/d05/a13716.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "df/d05/a13716.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "df/d05/a13716.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "HandleApply", "df/d05/a13716.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "df/d05/a13716.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "df/d05/a13716.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "df/d05/a13716.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "df/d05/a13716.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

@@ -1,6 +1,6 @@
 var a27912 =
 [
-    [ "npc_pet_trainerAI", "d0/d03/a27916.html", "d0/d03/a27916" ],
-    [ "npc_pet_trainer", "de/d3a/a27912.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "de/d3a/a27912.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_locksmith", "de/d3a/a27912.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "de/d3a/a27912.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "de/d3a/a27912.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

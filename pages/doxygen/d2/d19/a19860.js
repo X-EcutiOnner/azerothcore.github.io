@@ -1,7 +1,6 @@
 var a19860 =
 [
-    [ "creature", "d2/d19/a19860.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d2/d19/a19860.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d2/d19/a19860.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d2/d19/a19860.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "db/d62/a19864.html", "db/d62/a19864" ],
+    [ "boss_sjonnir_malformed_ooze", "d2/d19/a19860.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d2/d19/a19860.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

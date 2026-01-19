@@ -1,6 +1,4 @@
 var a14740 =
 [
-    [ "OnApply", "d2/d55/a14740.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "d2/d55/a14740.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "d2/d55/a14740.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "npc_midsummer_bonfire_despawner", "d2/d55/a14740.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
 ];

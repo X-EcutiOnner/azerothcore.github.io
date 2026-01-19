@@ -1,8 +1,8 @@
 var a00452 =
 [
-    [ "Petition", "d5/d82/a10228.html", "d5/d82/a10228" ],
-    [ "Signatures", "d2/d81/a10232.html", "d2/d81/a10232" ],
-    [ "PetitionMgr", "d4/da2/a10236.html", "d4/da2/a10236" ],
+    [ "Petition", "d2/d81/a10232.html", "d2/d81/a10232" ],
+    [ "Signatures", "d4/da2/a10236.html", "d4/da2/a10236" ],
+    [ "PetitionMgr", "df/d3d/a10240.html", "df/d3d/a10240" ],
     [ "CHARTER_DISPLAY_ID", "d1/d0b/a00452.html#a33856c1d078b61fa0516a63176297c49", null ],
     [ "sPetitionMgr", "d1/d0b/a00452.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
     [ "PetitionContainer", "d1/d0b/a00452.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],

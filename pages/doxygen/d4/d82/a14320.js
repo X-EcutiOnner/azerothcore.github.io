@@ -1,7 +1,9 @@
 var a14320 =
 [
-    [ "HandleOnHit", "d4/d82/a14320.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d4/d82/a14320.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d4/d82/a14320.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d4/d82/a14320.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "npc_shade_of_jindo", "d4/d82/a14320.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d4/d82/a14320.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d4/d82/a14320.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d4/d82/a14320.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d4/d82/a14320.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d4/d82/a14320.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

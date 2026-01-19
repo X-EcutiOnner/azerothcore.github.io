@@ -1,7 +1,7 @@
 var a12216 =
 [
-    [ "boss_grizzleAI", "d1/d96/a12216.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "d1/d96/a12216.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "d1/d96/a12216.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "d1/d96/a12216.html#ab0f05592db6d0c806247e76232760c44", null ]
+    [ "boss_gorosh_the_dervishAI", "d1/d96/a12216.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d1/d96/a12216.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d1/d96/a12216.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d1/d96/a12216.html#a4ab769a862310bbd8b283e83077ad23d", null ]
 ];

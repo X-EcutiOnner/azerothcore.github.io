@@ -1,9 +1,10 @@
 var a12948 =
 [
-    [ "FilterTargets", "d6/d4d/a12948.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d6/d4d/a12948.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d6/d4d/a12948.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d6/d4d/a12948.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d6/d4d/a12948.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d6/d4d/a12948.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_servant_quarters", "d6/d4d/a12948.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d6/d4d/a12948.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d6/d4d/a12948.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d6/d4d/a12948.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d6/d4d/a12948.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d6/d4d/a12948.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d6/d4d/a12948.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

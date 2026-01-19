@@ -1,5 +1,6 @@
 var a12600 =
 [
-    [ "go_orb_of_domination", "da/d53/a12600.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "da/d53/a12600.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "boss_razorgoreAI", "db/dd8/a12604.html", "db/dd8/a12604" ],
+    [ "boss_razorgore", "da/d53/a12600.html#aee534a04797c5938e6da00f2ab119943", null ],
+    [ "GetAI", "da/d53/a12600.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
 ];

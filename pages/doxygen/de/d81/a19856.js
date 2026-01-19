@@ -1,9 +1,9 @@
 var a19856 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d81/a19856.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "de/d81/a19856.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "de/d81/a19856.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "de/d81/a19856.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "de/d81/a19856.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "de/d81/a19856.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "de/d81/a19856.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "de/d81/a19856.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "de/d81/a19856.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "de/d81/a19856.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "de/d81/a19856.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "de/d81/a19856.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

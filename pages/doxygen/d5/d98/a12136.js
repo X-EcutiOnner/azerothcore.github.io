@@ -1,6 +1,6 @@
 var a12136 =
 [
-    [ "npc_phalanxAI", "db/daf/a12140.html", "db/daf/a12140" ],
-    [ "npc_phalanx", "d5/d98/a12136.html#a947ee4659fe2a46d775119ddcefeb939", null ],
-    [ "GetAI", "d5/d98/a12136.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
+    [ "npc_grimstoneAI", "db/daf/a12140.html", "db/daf/a12140" ],
+    [ "npc_grimstone", "d5/d98/a12136.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "d5/d98/a12136.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

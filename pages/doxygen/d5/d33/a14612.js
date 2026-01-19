@@ -1,9 +1,11 @@
 var a14612 =
 [
-    [ "entries", "d5/d33/a14612.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d5/d33/a14612.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d5/d33/a14612.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d5/d33/a14612.html#a24e3daaa7cd515c4d48e465b2b089968", null ],
-    [ "size", "d5/d33/a14612.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d5/d33/a14612.html#ab61d72705ce024f13c93309d955417fc", null ]
+    [ "o", "d5/d33/a14612.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d5/d33/a14612.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d5/d33/a14612.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d5/d33/a14612.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d5/d33/a14612.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d5/d33/a14612.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d5/d33/a14612.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d5/d33/a14612.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

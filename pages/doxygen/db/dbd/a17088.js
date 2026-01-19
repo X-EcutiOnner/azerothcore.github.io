@@ -1,10 +1,6 @@
 var a17088 =
 [
-    [ "HandleAfterEffectAbsorb", "db/dbd/a17088.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "db/dbd/a17088.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "db/dbd/a17088.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "db/dbd/a17088.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "db/dbd/a17088.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "db/dbd/a17088.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "db/dbd/a17088.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "npc_fos_leader_secondAI", "d5/d58/a17092.html", "d5/d58/a17092" ],
+    [ "npc_fos_leader_second", "db/dbd/a17088.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "db/dbd/a17088.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

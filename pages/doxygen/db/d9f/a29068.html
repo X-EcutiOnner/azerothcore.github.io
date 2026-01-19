@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MMAP::Config::TileOverride Struct Reference</title>
+<title>AzerothCore: MMAP::Config::GlobalConfig Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,31 +107,37 @@ $(document).ready(function(){initNavTree('db/d9f/a29068.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/d0b/a29065.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MMAP::Config::TileOverride Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MMAP::Config::GlobalConfig Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9b880e84fa1d07e414e9a9a62a20969c"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a9b880e84fa1d07e414e9a9a62a20969c">walkableSlopeAngle</a></td></tr>
-<tr class="separator:a9b880e84fa1d07e414e9a9a62a20969c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e708a591e7b5597e129a653e1379a1e"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a6e708a591e7b5597e129a653e1379a1e">walkableRadius</a></td></tr>
-<tr class="separator:a6e708a591e7b5597e129a653e1379a1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32f39a07562c47be0a311d7959678044"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a32f39a07562c47be0a311d7959678044">walkableHeight</a></td></tr>
-<tr class="separator:a32f39a07562c47be0a311d7959678044"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8d2e9bccb8f6bbb36065e686ea39626"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#af8d2e9bccb8f6bbb36065e686ea39626">walkableClimb</a></td></tr>
-<tr class="separator:af8d2e9bccb8f6bbb36065e686ea39626"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9792dfe730bfc437797a359896a14528"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a9792dfe730bfc437797a359896a14528">walkableSlopeAngle</a> = 60.0f</td></tr>
+<tr class="separator:a9792dfe730bfc437797a359896a14528"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43f00aacc5e1497c169d4ba908883140"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a43f00aacc5e1497c169d4ba908883140">walkableRadius</a> = 2</td></tr>
+<tr class="separator:a43f00aacc5e1497c169d4ba908883140"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42b9a553cb3cd5d9c39d4cb7f0f59486"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a42b9a553cb3cd5d9c39d4cb7f0f59486">walkableHeight</a> = 6</td></tr>
+<tr class="separator:a42b9a553cb3cd5d9c39d4cb7f0f59486"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5f6c5daf51b6390b7146f9a8d6de7ec"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#aa5f6c5daf51b6390b7146f9a8d6de7ec">walkableClimb</a> = 6</td></tr>
+<tr class="separator:aa5f6c5daf51b6390b7146f9a8d6de7ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af620af11a09215f106fc6704c88fa411"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#af620af11a09215f106fc6704c88fa411">vertexPerMapEdge</a> = 2000</td></tr>
+<tr class="separator:af620af11a09215f106fc6704c88fa411"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a801e68fac6d59c1a236aeaf374bc9e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a5a801e68fac6d59c1a236aeaf374bc9e">vertexPerTileEdge</a> = 80</td></tr>
+<tr class="separator:a5a801e68fac6d59c1a236aeaf374bc9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a010878a247d639234d2bb8571280aca6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html#a010878a247d639234d2bb8571280aca6">maxSimplificationError</a> = 1.8f</td></tr>
+<tr class="separator:a010878a247d639234d2bb8571280aca6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="af8d2e9bccb8f6bbb36065e686ea39626" name="af8d2e9bccb8f6bbb36065e686ea39626"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8d2e9bccb8f6bbb36065e686ea39626">&#9670;&#160;</a></span>walkableClimb</h2>
+<a id="a010878a247d639234d2bb8571280aca6" name="a010878a247d639234d2bb8571280aca6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a010878a247d639234d2bb8571280aca6">&#9670;&#160;</a></span>maxSimplificationError</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableClimb</td>
+          <td class="memname">float MMAP::Config::GlobalConfig::maxSimplificationError = 1.8f</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -140,14 +146,14 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a32f39a07562c47be0a311d7959678044" name="a32f39a07562c47be0a311d7959678044"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32f39a07562c47be0a311d7959678044">&#9670;&#160;</a></span>walkableHeight</h2>
+<a id="af620af11a09215f106fc6704c88fa411" name="af620af11a09215f106fc6704c88fa411"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af620af11a09215f106fc6704c88fa411">&#9670;&#160;</a></span>vertexPerMapEdge</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableHeight</td>
+          <td class="memname">int MMAP::Config::GlobalConfig::vertexPerMapEdge = 2000</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -156,14 +162,14 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a6e708a591e7b5597e129a653e1379a1e" name="a6e708a591e7b5597e129a653e1379a1e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6e708a591e7b5597e129a653e1379a1e">&#9670;&#160;</a></span>walkableRadius</h2>
+<a id="a5a801e68fac6d59c1a236aeaf374bc9e" name="a5a801e68fac6d59c1a236aeaf374bc9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a801e68fac6d59c1a236aeaf374bc9e">&#9670;&#160;</a></span>vertexPerTileEdge</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableRadius</td>
+          <td class="memname">int MMAP::Config::GlobalConfig::vertexPerTileEdge = 80</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -172,14 +178,62 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a9b880e84fa1d07e414e9a9a62a20969c" name="a9b880e84fa1d07e414e9a9a62a20969c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9b880e84fa1d07e414e9a9a62a20969c">&#9670;&#160;</a></span>walkableSlopeAngle</h2>
+<a id="aa5f6c5daf51b6390b7146f9a8d6de7ec" name="aa5f6c5daf51b6390b7146f9a8d6de7ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5f6c5daf51b6390b7146f9a8d6de7ec">&#9670;&#160;</a></span>walkableClimb</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;float&gt; MMAP::Config::TileOverride::walkableSlopeAngle</td>
+          <td class="memname">int MMAP::Config::GlobalConfig::walkableClimb = 6</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a42b9a553cb3cd5d9c39d4cb7f0f59486" name="a42b9a553cb3cd5d9c39d4cb7f0f59486"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a42b9a553cb3cd5d9c39d4cb7f0f59486">&#9670;&#160;</a></span>walkableHeight</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int MMAP::Config::GlobalConfig::walkableHeight = 6</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a43f00aacc5e1497c169d4ba908883140" name="a43f00aacc5e1497c169d4ba908883140"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43f00aacc5e1497c169d4ba908883140">&#9670;&#160;</a></span>walkableRadius</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int MMAP::Config::GlobalConfig::walkableRadius = 2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a9792dfe730bfc437797a359896a14528" name="a9792dfe730bfc437797a359896a14528"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9792dfe730bfc437797a359896a14528">&#9670;&#160;</a></span>walkableSlopeAngle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float MMAP::Config::GlobalConfig::walkableSlopeAngle = 60.0f</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -193,8 +247,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/d72/a04841.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d0/dbd/a29064.html">Config</a></li><li class="navelem"><a class="el" href="../../db/d9f/a29068.html">TileOverride</a></li>
-    <li class="footer">Generated on Mon Jan 12 2026 20:52:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d72/a04841.html">MMAP</a></li><li class="navelem"><a class="el" href="../../de/daa/a29056.html">Config</a></li><li class="navelem"><a class="el" href="../../db/d9f/a29068.html">GlobalConfig</a></li>
+    <li class="footer">Generated on Mon Jan 19 2026 20:52:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

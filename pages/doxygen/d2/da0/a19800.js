@@ -1,5 +1,6 @@
 var a19800 =
 [
-    [ "at_hol_hall_of_watchers", "d2/da0/a19800.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "d2/da0/a19800.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dd/d48/a19804.html", "dd/d48/a19804" ],
+    [ "instance_halls_of_lightning", "d2/da0/a19800.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d2/da0/a19800.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

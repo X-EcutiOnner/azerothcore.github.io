@@ -1,6 +1,7 @@
 var a19272 =
 [
-    [ "boss_gothikAI", "d2/d44/a19276.html", "d2/d44/a19276" ],
-    [ "boss_gothik", "d5/db9/a19272.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "d5/db9/a19272.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "HandleScriptEffect", "d5/db9/a19272.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "d5/db9/a19272.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "d5/db9/a19272.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "d5/db9/a19272.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

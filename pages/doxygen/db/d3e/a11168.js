@@ -1,10 +1,9 @@
 var a11168 =
 [
-    [ "WorldStateInfo", "d1/dbe/a11172.html", "d1/dbe/a11172" ],
-    [ "InitWorldStates", "db/d3e/a11168.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "db/d3e/a11168.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "db/d3e/a11168.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "db/d3e/a11168.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "db/d3e/a11168.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "db/d3e/a11168.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "TotemCreated", "db/d3e/a11168.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "db/d3e/a11168.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "db/d3e/a11168.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "db/d3e/a11168.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "db/d3e/a11168.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "db/d3e/a11168.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

@@ -1,7 +1,6 @@
 var a12012 =
 [
-    [ "FoundObjects", "d5/d54/a12012.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
-    [ "X", "d5/d54/a12012.html#a9a184093c44a45addd7a7bae891496c0", null ],
-    [ "Y", "d5/d54/a12012.html#a86ac02df716e991f629647941dcb29cb", null ],
-    [ "Z", "d5/d54/a12012.html#a50477b2e983580c94b348f7e408a8363", null ]
+    [ "player_settings_commandscript", "d5/d54/a12012.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d5/d54/a12012.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d5/d54/a12012.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

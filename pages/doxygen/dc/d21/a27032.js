@@ -1,6 +1,7 @@
 var a27032 =
 [
-    [ "HandleKnockBack", "dc/d21/a27032.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "dc/d21/a27032.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "dc/d21/a27032.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "HandleProc", "dc/d21/a27032.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "dc/d21/a27032.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "dc/d21/a27032.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "dc/d21/a27032.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

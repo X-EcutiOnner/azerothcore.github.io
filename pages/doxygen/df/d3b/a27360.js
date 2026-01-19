@@ -1,8 +1,5 @@
 var a27360 =
 [
-    [ "CharacterActionIpLogger", "df/d3b/a27360.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "df/d3b/a27360.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "df/d3b/a27360.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "df/d3b/a27360.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "df/d3b/a27360.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "df/d3b/a27360.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "df/d3b/a27360.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

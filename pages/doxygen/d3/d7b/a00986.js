@@ -1,6 +1,6 @@
 var a00986 =
 [
-    [ "TradeData", "dc/d0b/a08732.html", "dc/d0b/a08732" ],
+    [ "TradeData", "df/d70/a08736.html", "df/d70/a08736" ],
     [ "TradeSlots", "d3/d7b/a00986.html#ad8fd978c4198825d89a1f02643d20c62", [
       [ "TRADE_SLOT_COUNT", "d3/d7b/a00986.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
       [ "TRADE_SLOT_TRADED_COUNT", "d3/d7b/a00986.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],

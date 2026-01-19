@@ -1,6 +1,6 @@
 var a20640 =
 [
-    [ "npc_ulduar_vx001AI", "db/d97/a20644.html", "db/d97/a20644" ],
-    [ "npc_ulduar_vx001", "da/d89/a20640.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "da/d89/a20640.html#acdab817141b851deb09861230323ee58", null ]
+    [ "npc_ulduar_leviathan_mkiiAI", "db/d97/a20644.html", "db/d97/a20644" ],
+    [ "npc_ulduar_leviathan_mkii", "da/d89/a20640.html#a9e4671adcb2409a7c83460d28d29f579", null ],
+    [ "GetAI", "da/d89/a20640.html#afe438e97b6989a8899850619c87cd7e6", null ]
 ];

@@ -1,7 +1,8 @@
 var a17472 =
 [
-    [ "HandleApplyAura", "df/dca/a17472.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "df/dca/a17472.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "df/dca/a17472.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "df/dca/a17472.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "boss_eck", "df/dca/a17472.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "df/dca/a17472.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "df/dca/a17472.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "df/dca/a17472.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "df/dca/a17472.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

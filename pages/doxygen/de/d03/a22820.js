@@ -1,12 +1,18 @@
 var a22820 =
 [
-    [ "OPvPCapturePointZM_Beacon", "de/d03/a22820.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "de/d03/a22820.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "de/d03/a22820.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "de/d03/a22820.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "de/d03/a22820.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "de/d03/a22820.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "de/d03/a22820.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "de/d03/a22820.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "de/d03/a22820.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "OutdoorPvPZM", "de/d03/a22820.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "de/d03/a22820.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "de/d03/a22820.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "de/d03/a22820.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "de/d03/a22820.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "de/d03/a22820.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "de/d03/a22820.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "de/d03/a22820.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "de/d03/a22820.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "de/d03/a22820.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "de/d03/a22820.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "de/d03/a22820.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "de/d03/a22820.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "de/d03/a22820.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "de/d03/a22820.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

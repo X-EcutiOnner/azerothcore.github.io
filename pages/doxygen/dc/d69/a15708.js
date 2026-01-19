@@ -1,6 +1,6 @@
 var a15708 =
 [
-    [ "npc_troll_volunteerAI", "d6/d25/a15712.html", "d6/d25/a15712" ],
-    [ "npc_troll_volunteer", "dc/d69/a15708.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "dc/d69/a15708.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_tiger_matriarchAI", "d6/d25/a15712.html", "d6/d25/a15712" ],
+    [ "npc_tiger_matriarch", "dc/d69/a15708.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "dc/d69/a15708.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

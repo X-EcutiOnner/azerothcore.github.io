@@ -1,6 +1,6 @@
 var a16196 =
 [
-    [ "boss_krik_thirAI", "da/df5/a16200.html", "da/df5/a16200" ],
-    [ "boss_krik_thir", "da/d2a/a16196.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "da/d2a/a16196.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "FilterTargets", "da/d2a/a16196.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "da/d2a/a16196.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "da/d2a/a16196.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

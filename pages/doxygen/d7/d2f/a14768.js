@@ -1,5 +1,5 @@
 var a14768 =
 [
-    [ "PrepareSpellScript", "d7/d2f/a14768.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "d7/d2f/a14768.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "PrepareSpellScript", "d7/d2f/a14768.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
+    [ "Register", "d7/d2f/a14768.html#a99f7d0be5668d5b005400140fc9865a4", null ]
 ];

@@ -1,10 +1,10 @@
 var a11948 =
 [
-    [ "lfg_commandscript", "d4/d3e/a11948.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d4/d3e/a11948.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d4/d3e/a11948.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "d4/d3e/a11948.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d4/d3e/a11948.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d4/d3e/a11948.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d4/d3e/a11948.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "item_commandscript", "d4/d3e/a11948.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d4/d3e/a11948.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d4/d3e/a11948.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d4/d3e/a11948.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d4/d3e/a11948.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d4/d3e/a11948.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d4/d3e/a11948.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

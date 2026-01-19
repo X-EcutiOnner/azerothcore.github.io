@@ -1,14 +1,12 @@
 var a13116 =
 [
-    [ "boss_priestess_delrissa", "d6/d8e/a13116.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "d6/d8e/a13116.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "d6/d8e/a13116.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "d6/d8e/a13116.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "d6/d8e/a13116.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "d6/d8e/a13116.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "d6/d8e/a13116.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "d6/d8e/a13116.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "d6/d8e/a13116.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "d6/d8e/a13116.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "d6/d8e/a13116.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "boss_felblood_kaelthas", "d6/d8e/a13116.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "d6/d8e/a13116.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "d6/d8e/a13116.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "d6/d8e/a13116.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "d6/d8e/a13116.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "d6/d8e/a13116.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "d6/d8e/a13116.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "d6/d8e/a13116.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "d6/d8e/a13116.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

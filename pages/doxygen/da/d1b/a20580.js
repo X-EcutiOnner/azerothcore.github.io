@@ -1,7 +1,6 @@
 var a20580 =
 [
-    [ "FilterTargetsInitial", "da/d1b/a20580.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "da/d1b/a20580.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "da/d1b/a20580.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "da/d1b/a20580.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "boss_kologarn_eyebeamAI", "d0/d44/a20584.html", "d0/d44/a20584" ],
+    [ "boss_kologarn_eyebeam", "da/d1b/a20580.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "da/d1b/a20580.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

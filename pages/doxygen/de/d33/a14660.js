@@ -1,6 +1,8 @@
 var a14660 =
 [
-    [ "npc_soh_fire_trigger", "de/d33/a14660.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "de/d33/a14660.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "de/d33/a14660.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "CalcPeriodic", "de/d33/a14660.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "de/d33/a14660.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "de/d33/a14660.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "de/d33/a14660.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "de/d33/a14660.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

@@ -1,6 +1,6 @@
 var a11564 =
 [
-    [ "EffectBase", "d1/de2/a11564.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d1/de2/a11564.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d1/de2/a11564.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "CheckAreaTargetHandler", "d1/de2/a11564.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "d1/de2/a11564.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "d1/de2/a11564.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

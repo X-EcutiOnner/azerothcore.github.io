@@ -1,9 +1,19 @@
 var a16164 =
 [
-    [ "npc_anub_ar_crusher", "df/dac/a16164.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "df/dac/a16164.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "df/dac/a16164.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "df/dac/a16164.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "df/dac/a16164.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "df/dac/a16164.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "boss_hadronox", "df/dac/a16164.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "df/dac/a16164.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "df/dac/a16164.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "df/dac/a16164.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "df/dac/a16164.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "df/dac/a16164.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "df/dac/a16164.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "df/dac/a16164.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MovementInform", "df/dac/a16164.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "df/dac/a16164.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "df/dac/a16164.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "df/dac/a16164.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "df/dac/a16164.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "df/dac/a16164.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "df/dac/a16164.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "df/dac/a16164.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

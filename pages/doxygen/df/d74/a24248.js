@@ -1,7 +1,6 @@
 var a24248 =
 [
-    [ "HandleEffect", "df/d74/a24248.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "df/d74/a24248.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "df/d74/a24248.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "df/d74/a24248.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_aeranasAI", "d0/d62/a24252.html", "d0/d62/a24252" ],
+    [ "npc_aeranas", "df/d74/a24248.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "df/d74/a24248.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

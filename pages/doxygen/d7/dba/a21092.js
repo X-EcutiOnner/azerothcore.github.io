@@ -1,6 +1,10 @@
 var a21092 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d1/db7/a21096.html", "d1/db7/a21096" ],
-    [ "boss_yoggsaron_descend_portal", "d7/dba/a21092.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "d7/dba/a21092.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "d7/dba/a21092.html#a351df0050661628e3ab0be2f636f9c4e", null ],
+    [ "DoAction", "d7/dba/a21092.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
+    [ "JustDied", "d7/dba/a21092.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
+    [ "SelectConstrictTarget", "d7/dba/a21092.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
+    [ "UpdateAI", "d7/dba/a21092.html#a00c137429f2b565bf195dab4e9902a7c", null ],
+    [ "_checkTimer", "d7/dba/a21092.html#ae5c189401dd04823449e7a16c197e65f", null ],
+    [ "_playerGUID", "d7/dba/a21092.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
 ];

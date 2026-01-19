@@ -1,6 +1,6 @@
 var a24736 =
 [
-    [ "HandleSummon", "df/dff/a24736.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "df/dff/a24736.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "df/dff/a24736.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "CheckProc", "df/dff/a24736.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "df/dff/a24736.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "df/dff/a24736.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

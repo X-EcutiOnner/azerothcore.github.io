@@ -1,5 +1,6 @@
 var a14832 =
 [
-    [ "achievement_pb_pilgrims_peril", "d0/db7/a14832.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "d0/db7/a14832.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "PrepareAuraScript", "d0/db7/a14832.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d0/db7/a14832.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d0/db7/a14832.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

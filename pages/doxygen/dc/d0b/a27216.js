@@ -1,8 +1,8 @@
 var a27216 =
 [
-    [ "HandleDummy", "dc/d0b/a27216.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "dc/d0b/a27216.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "dc/d0b/a27216.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "dc/d0b/a27216.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "dc/d0b/a27216.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "HandleEffect", "dc/d0b/a27216.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "dc/d0b/a27216.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "dc/d0b/a27216.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "dc/d0b/a27216.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "dc/d0b/a27216.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

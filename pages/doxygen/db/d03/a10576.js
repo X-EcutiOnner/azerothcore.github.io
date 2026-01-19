@@ -1,8 +1,6 @@
 var a10576 =
 [
-    [ "GuildFilter", "db/d03/a10576.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "db/d03/a10576.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "db/d03/a10576.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "db/d03/a10576.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "db/d03/a10576.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "GetEvent", "db/d03/a10576.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "db/d03/a10576.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "db/d03/a10576.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

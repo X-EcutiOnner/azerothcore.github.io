@@ -1,6 +1,10 @@
 var a26428 =
 [
-    [ "CalculateAmount", "d5/de6/a26428.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
-    [ "PrepareAuraScript", "d5/de6/a26428.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
-    [ "Register", "d5/de6/a26428.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
+    [ "spell_pal_judgement", "d5/de6/a26428.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d5/de6/a26428.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d5/de6/a26428.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d5/de6/a26428.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "d5/de6/a26428.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "d5/de6/a26428.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d5/de6/a26428.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

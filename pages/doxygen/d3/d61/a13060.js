@@ -1,8 +1,6 @@
 var a13060 =
 [
-    [ "CalcPeriodic", "d3/d61/a13060.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d3/d61/a13060.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d3/d61/a13060.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d3/d61/a13060.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d3/d61/a13060.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "instance_karazhan_InstanceMapScript", "d5/df3/a13064.html", "d5/df3/a13064" ],
+    [ "instance_karazhan", "d3/d61/a13060.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "d3/d61/a13060.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

@@ -1,7 +1,7 @@
 var a00017 =
 [
-    [ "FactionState", "db/dcb/a10284.html", "db/dcb/a10284" ],
-    [ "ReputationMgr", "de/dbf/a10288.html", "de/dbf/a10288" ],
+    [ "FactionState", "de/dbf/a10288.html", "de/dbf/a10288" ],
+    [ "ReputationMgr", "d8/d7f/a10292.html", "d8/d7f/a10292" ],
     [ "FactionStateList", "d4/d51/a00017.html#ad6532434415723ae38cfd01814db70c4", null ],
     [ "ForcedReactions", "d4/d51/a00017.html#a7f488a06b2477791f620e975ea444f4e", null ],
     [ "RepListID", "d4/d51/a00017.html#a5d6355bb0de767f549aeb8f1e6481624", null ],

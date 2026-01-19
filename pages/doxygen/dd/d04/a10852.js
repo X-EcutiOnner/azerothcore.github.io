@@ -1,7 +1,7 @@
 var a10852 =
 [
-    [ "GuildBankSetTabText", "dd/d04/a10852.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "dd/d04/a10852.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "dd/d04/a10852.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "dd/d04/a10852.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "GuildBankTextQueryResult", "dd/d04/a10852.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "dd/d04/a10852.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "dd/d04/a10852.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "dd/d04/a10852.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

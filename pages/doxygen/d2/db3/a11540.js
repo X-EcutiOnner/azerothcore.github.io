@@ -1,6 +1,6 @@
 var a11540 =
 [
-    [ "ObjectAreaTargetSelectHandler", "d2/db3/a11540.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "d2/db3/a11540.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "d2/db3/a11540.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "HitHandler", "d2/db3/a11540.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d2/db3/a11540.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d2/db3/a11540.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

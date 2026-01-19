@@ -1,4 +1,6 @@
 var a22020 =
 [
-    [ "operator()", "d1/dd9/a22020.html#a8176fb574f0eac852ed3528dcadac288", null ]
+    [ "HandleSendEvent", "d1/dd9/a22020.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d1/dd9/a22020.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d1/dd9/a22020.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

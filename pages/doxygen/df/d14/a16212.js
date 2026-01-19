@@ -1,6 +1,5 @@
 var a16212 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "df/d14/a16212.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureEvade", "df/d14/a16212.html#af163238686bf22f11908f64ffb5cacca", null ],
-    [ "OnUnitDeath", "df/d14/a16212.html#a45792f7c2d1a042d68907a0f475634d1", null ]
+    [ "achievement_watch_him_die", "df/d14/a16212.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "df/d14/a16212.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

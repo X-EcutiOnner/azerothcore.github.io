@@ -1,6 +1,9 @@
 var a24004 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d3/d9a/a24008.html", "d3/d9a/a24008" ],
-    [ "instance_the_botanica", "d6/dd3/a24004.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d6/dd3/a24004.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "HandleEffectApply", "d6/dd3/a24004.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d6/dd3/a24004.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d6/dd3/a24004.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d6/dd3/a24004.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d6/dd3/a24004.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d6/dd3/a24004.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

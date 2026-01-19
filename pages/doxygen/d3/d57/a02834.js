@@ -1,6 +1,6 @@
 var a02834 =
 [
-    [ "boss_ingvar_the_plunderer", "d9/da9/a21288.html", "d9/da9/a21288" ],
+    [ "boss_ingvar_the_plunderer", "db/d26/a21296.html", "db/d26/a21296" ],
     [ "eDisplayId", "d3/d57/a02834.html#a4d66f142b59aac5af3614d297e9f885e", [
       [ "DISPLAYID_DEFAULT", "d3/d57/a02834.html#a4d66f142b59aac5af3614d297e9f885ea5747813f8d3e4e2d108069263d2b4baf", null ],
       [ "DISPLAYID_UNDEAD", "d3/d57/a02834.html#a4d66f142b59aac5af3614d297e9f885eae473fac59eb688ccd47ee0e5552a5d49", null ]

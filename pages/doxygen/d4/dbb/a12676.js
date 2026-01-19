@@ -1,6 +1,7 @@
 var a12676 =
 [
-    [ "boss_gehennasAI", "de/de1/a12680.html", "de/de1/a12680" ],
-    [ "boss_gehennas", "d4/dbb/a12676.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
-    [ "GetAI", "d4/dbb/a12676.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
+    [ "HandlePeriodic", "d4/dbb/a12676.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d4/dbb/a12676.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d4/dbb/a12676.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d4/dbb/a12676.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

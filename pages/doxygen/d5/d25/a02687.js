@@ -1,9 +1,9 @@
 var a02687 =
 [
-    [ "npc_taldaram_flamesphere", "de/d06/a16112.html", "de/d06/a16112" ],
-    [ "boss_taldaram", "dd/db6/a16116.html", "dd/db6/a16116" ],
-    [ "spell_prince_taldaram_conjure_flame_sphere", "df/d4a/a16120.html", "df/d4a/a16120" ],
-    [ "spell_prince_taldaram_flame_sphere_summon", "d9/d62/a16124.html", "d9/d62/a16124" ],
+    [ "npc_taldaram_flamesphere", "df/d4a/a16120.html", "df/d4a/a16120" ],
+    [ "boss_taldaram", "d9/d62/a16124.html", "d9/d62/a16124" ],
+    [ "spell_prince_taldaram_conjure_flame_sphere", "dc/d8e/a16128.html", "dc/d8e/a16128" ],
+    [ "spell_prince_taldaram_flame_sphere_summon", "da/d38/a16132.html", "da/d38/a16132" ],
     [ "DATA_SPHERE_ANGLE_OFFSET", "d5/d25/a02687.html#abba5e7f7dee2d39e8b41c5ac0f4b1746", null ],
     [ "Actions", "d5/d25/a02687.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "dd/db5/a00365.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
@@ -347,9 +347,6 @@ var a02687 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

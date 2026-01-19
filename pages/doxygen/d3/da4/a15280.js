@@ -1,10 +1,7 @@
 var a15280 =
 [
-    [ "boss_moam", "d3/da4/a15280.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "d3/da4/a15280.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "d3/da4/a15280.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "d3/da4/a15280.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "d3/da4/a15280.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "d3/da4/a15280.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "d3/da4/a15280.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "boss_kurinnaxx", "d3/da4/a15280.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d3/da4/a15280.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d3/da4/a15280.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d3/da4/a15280.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

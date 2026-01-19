@@ -1,17 +1,13 @@
 var a11916 =
 [
-    [ "gobject_commandscript", "df/d77/a11916.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
-    [ "GetCommands", "df/d77/a11916.html#a75124102670615a7b3a0ecd457ab631a", null ],
-    [ "HandleGameObjectActivateCommand", "df/d77/a11916.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
-    [ "HandleGameObjectAddCommand", "df/d77/a11916.html#a23717867956cc0da99e3640d2b790346", null ],
-    [ "HandleGameObjectAddTempCommand", "df/d77/a11916.html#a49908d7c180d778c43702563add17d2d", null ],
-    [ "HandleGameObjectDeleteCommand", "df/d77/a11916.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
-    [ "HandleGameObjectInfoCommand", "df/d77/a11916.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
-    [ "HandleGameObjectMoveCommand", "df/d77/a11916.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
-    [ "HandleGameObjectNearCommand", "df/d77/a11916.html#a156f293b3bf9c7439b62814ee8f27650", null ],
-    [ "HandleGameObjectRespawn", "df/d77/a11916.html#aafed57aa556c8cdc0c380185b056d705", null ],
-    [ "HandleGameObjectSetPhaseCommand", "df/d77/a11916.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
-    [ "HandleGameObjectSetStateCommand", "df/d77/a11916.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
-    [ "HandleGameObjectTargetCommand", "df/d77/a11916.html#a11d33046310495c0a6d883a307c95632", null ],
-    [ "HandleGameObjectTurnCommand", "df/d77/a11916.html#a75883394613b2c3501cd48f5334199b7", null ]
+    [ "gm_commandscript", "df/d77/a11916.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "df/d77/a11916.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "df/d77/a11916.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "df/d77/a11916.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "df/d77/a11916.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "df/d77/a11916.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "df/d77/a11916.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "df/d77/a11916.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "df/d77/a11916.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "df/d77/a11916.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

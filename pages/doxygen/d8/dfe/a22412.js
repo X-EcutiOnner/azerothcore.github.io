@@ -1,6 +1,6 @@
 var a22412 =
 [
-    [ "npc_bushwhackerAI", "d0/d0b/a22416.html", "d0/d0b/a22416" ],
-    [ "npc_bushwhacker", "d8/dfe/a22412.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "d8/dfe/a22412.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "npc_vekjik", "d8/dfe/a22412.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d8/dfe/a22412.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d8/dfe/a22412.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

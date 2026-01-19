@@ -1,7 +1,6 @@
 var a07664 =
 [
-    [ "V", "d7/d2c/a07664.html#aab662b1ba92ab8eb76558f97191142cc", null ],
-    [ "TryAtIndex", "d7/d2c/a07664.html#aeff1865d7499b0b112cc39c44fd07112", null ],
-    [ "TryConsume", "d7/d2c/a07664.html#ae2a889829917ed0dd76194194efc9b13", null ],
-    [ "N", "d7/d2c/a07664.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
+    [ "value_type", "d7/d2c/a07664.html#aea5c629ecdcd9c2bfc1253ef8e775c3a", null ],
+    [ "operator()", "d7/d2c/a07664.html#a864f3c2f78b80dbc4b65dffb0d38ab55", null ],
+    [ "operator()", "d7/d2c/a07664.html#a4e13ed545328e052481a0379e7f027a5", null ]
 ];

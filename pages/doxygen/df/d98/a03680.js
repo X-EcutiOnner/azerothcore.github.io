@@ -1,7 +1,7 @@
 var a03680 =
 [
-    [ "boss_okthor", "da/dd6/a12260.html", "da/dd6/a12260" ],
-    [ "boss_okthor::boss_okthorAI", "da/d4f/a12264.html", "da/d4f/a12264" ],
+    [ "boss_okthor", "d9/d82/a12268.html", "d9/d82/a12268" ],
+    [ "boss_okthor::boss_okthorAI", "d1/da9/a12272.html", "d1/da9/a12272" ],
     [ "Spells", "df/d98/a03680.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

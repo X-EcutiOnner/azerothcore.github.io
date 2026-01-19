@@ -1,6 +1,6 @@
 var a23876 =
 [
-    [ "HandleEffect", "d7/d7d/a23876.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d7/d7d/a23876.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d7/d7d/a23876.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "boss_porung", "d7/d7d/a23876.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d7/d7d/a23876.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d7/d7d/a23876.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

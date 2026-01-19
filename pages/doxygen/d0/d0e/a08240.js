@@ -1,20 +1,13 @@
 var a08240 =
 [
-    [ "CinematicMgr", "d0/d0e/a08240.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
-    [ "~CinematicMgr", "d0/d0e/a08240.html#ac56017a73bed15eadfdb6d17891328ff", null ],
-    [ "BeginCinematic", "d0/d0e/a08240.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
-    [ "EndCinematic", "d0/d0e/a08240.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
-    [ "GetActiveCinematicCamera", "d0/d0e/a08240.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
-    [ "IsOnCinematic", "d0/d0e/a08240.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
-    [ "SetActiveCinematicCamera", "d0/d0e/a08240.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
-    [ "UpdateCinematicLocation", "d0/d0e/a08240.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
-    [ "Player", "d0/d0e/a08240.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "m_activeCinematicCameraId", "d0/d0e/a08240.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
-    [ "m_cinematicCamera", "d0/d0e/a08240.html#a0c527989b49df340a268b8f69911377c", null ],
-    [ "m_cinematicDiff", "d0/d0e/a08240.html#a398e47385916c712677268bed43f7955", null ],
-    [ "m_cinematicLength", "d0/d0e/a08240.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
-    [ "m_CinematicObject", "d0/d0e/a08240.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
-    [ "m_lastCinematicCheck", "d0/d0e/a08240.html#a50c42e2f39ba97a39ee31043dec17337", null ],
-    [ "m_remoteSightPosition", "d0/d0e/a08240.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
-    [ "player", "d0/d0e/a08240.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
+    [ "AnimationInfo", "d0/d0e/a08240.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "d0/d0e/a08240.html#aba59e5ea22700fd77295037cfd2380c8", null ],
+    [ "CapturePoint", "d0/d0e/a08240.html#a5cceefb1bf9492ed09f353059a8b9260", null ],
+    [ "FishingHole", "d0/d0e/a08240.html#aca12f8bd82b863fcdd17905c57014c46", null ],
+    [ "Health", "d0/d0e/a08240.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "d0/d0e/a08240.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "d0/d0e/a08240.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "d0/d0e/a08240.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "d0/d0e/a08240.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "Transport", "d0/d0e/a08240.html#a1ea0693341cda113a9e717e16be4f86e", null ]
 ];

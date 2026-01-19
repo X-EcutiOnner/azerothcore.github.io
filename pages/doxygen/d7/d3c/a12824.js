@@ -1,6 +1,6 @@
 var a12824 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d1/d60/a12828.html", "d1/d60/a12828" ],
-    [ "instance_deadmines", "d7/d3c/a12824.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "d7/d3c/a12824.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "boss_mr_smiteAI", "d1/d60/a12828.html", "d1/d60/a12828" ],
+    [ "boss_mr_smite", "d7/d3c/a12824.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d7/d3c/a12824.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

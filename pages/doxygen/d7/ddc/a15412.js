@@ -1,5 +1,6 @@
 var a15412 =
 [
-    [ "at_cthun_center", "d7/ddc/a15412.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d7/ddc/a15412.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "OnPeriodic", "d7/ddc/a15412.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d7/ddc/a15412.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d7/ddc/a15412.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

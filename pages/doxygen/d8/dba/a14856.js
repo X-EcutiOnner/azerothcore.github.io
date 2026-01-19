@@ -1,6 +1,6 @@
 var a14856 =
 [
-    [ "HandleScriptEffect", "d8/dba/a14856.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "d8/dba/a14856.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "d8/dba/a14856.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "HandleTriggerSpell", "d8/dba/a14856.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d8/dba/a14856.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d8/dba/a14856.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

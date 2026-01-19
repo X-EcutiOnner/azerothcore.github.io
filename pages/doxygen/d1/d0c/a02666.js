@@ -1,8 +1,8 @@
 var a02666 =
 [
-    [ "boss_krik_thir", "da/d2a/a16196.html", "da/d2a/a16196" ],
-    [ "boss_krik_thir::boss_krik_thirAI", "da/df5/a16200.html", "da/df5/a16200" ],
-    [ "achievement_watch_him_die", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
+    [ "boss_krik_thir", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
+    [ "boss_krik_thir::boss_krik_thirAI", "dd/da8/a16208.html", "dd/da8/a16208" ],
+    [ "achievement_watch_him_die", "df/d14/a16212.html", "df/d14/a16212" ],
     [ "MiscActions", "d1/d0c/a02666.html#aa7ec8fb438fd13c8679ba17beac7d9a5", [
       [ "ACTION_MINION_ENGAGED", "d1/d0c/a02666.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41", null ],
       [ "GROUP_SWARM", "d1/d0c/a02666.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c", null ],

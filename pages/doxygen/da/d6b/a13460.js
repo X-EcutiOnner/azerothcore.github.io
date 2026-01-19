@@ -1,11 +1,10 @@
 var a13460 =
 [
-    [ "boss_baroness_anastariAI", "da/d6b/a13460.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "da/d6b/a13460.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "da/d6b/a13460.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "da/d6b/a13460.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "da/d6b/a13460.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "da/d6b/a13460.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "da/d6b/a13460.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "da/d6b/a13460.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "HandleDummyTick", "da/d6b/a13460.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "da/d6b/a13460.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "da/d6b/a13460.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "da/d6b/a13460.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "da/d6b/a13460.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "da/d6b/a13460.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "da/d6b/a13460.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

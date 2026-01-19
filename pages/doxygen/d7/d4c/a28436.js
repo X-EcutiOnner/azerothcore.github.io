@@ -1,5 +1,8 @@
 var a28436 =
 [
-    [ "BitIndex", "d7/d4c/a28436.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d7/d4c/a28436.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "difficulty", "d7/d4c/a28436.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d7/d4c/a28436.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d7/d4c/a28436.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d7/d4c/a28436.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d7/d4c/a28436.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

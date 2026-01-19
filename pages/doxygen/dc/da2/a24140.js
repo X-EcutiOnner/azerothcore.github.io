@@ -1,7 +1,8 @@
 var a24140 =
 [
-    [ "boss_gatewatcher_gyrokill", "dc/da2/a24140.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "dc/da2/a24140.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "dc/da2/a24140.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "dc/da2/a24140.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "boss_mechano_lord_capacitus", "dc/da2/a24140.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "dc/da2/a24140.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "dc/da2/a24140.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "dc/da2/a24140.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "dc/da2/a24140.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

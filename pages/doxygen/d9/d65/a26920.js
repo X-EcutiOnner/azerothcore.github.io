@@ -1,6 +1,7 @@
 var a26920 =
 [
-    [ "HandleAfterCast", "d9/d65/a26920.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d9/d65/a26920.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d9/d65/a26920.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "CheckProc", "d9/d65/a26920.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "d9/d65/a26920.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "d9/d65/a26920.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "d9/d65/a26920.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

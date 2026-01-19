@@ -1,6 +1,7 @@
 var a24368 =
 [
-    [ "CheckCast", "d6/dfe/a24368.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d6/dfe/a24368.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d6/dfe/a24368.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "CheckRequirement", "d6/dfe/a24368.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d6/dfe/a24368.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d6/dfe/a24368.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d6/dfe/a24368.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

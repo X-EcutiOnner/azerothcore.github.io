@@ -1,7 +1,7 @@
 var a14948 =
 [
-    [ "hyjalThrallAI", "da/d48/a14952.html", "da/d48/a14952" ],
-    [ "npc_hyjal_thrall", "d8/d92/a14948.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d8/d92/a14948.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d8/d92/a14948.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "hyjalJainaAI", "da/d48/a14952.html", "da/d48/a14952" ],
+    [ "npc_hyjal_jaina", "d8/d92/a14948.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d8/d92/a14948.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d8/d92/a14948.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

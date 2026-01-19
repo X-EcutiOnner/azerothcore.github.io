@@ -1,5 +1,6 @@
 var a13228 =
 [
-    [ "go_acherus_soul_prison", "d1/dd7/a13228.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "d1/dd7/a13228.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d5/dd3/a13232.html", "d5/dd3/a13232" ],
+    [ "npc_unworthy_initiate_anchor", "d1/dd7/a13228.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "d1/dd7/a13228.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

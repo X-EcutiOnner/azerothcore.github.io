@@ -1,7 +1,7 @@
 var a14716 =
 [
-    [ "OnApply", "d5/dd8/a14716.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d5/dd8/a14716.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d5/dd8/a14716.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d5/dd8/a14716.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "HandleEffectApply", "d5/dd8/a14716.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "d5/dd8/a14716.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "d5/dd8/a14716.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "d5/dd8/a14716.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

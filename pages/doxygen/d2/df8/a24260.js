@@ -1,9 +1,8 @@
 var a24260 =
 [
-    [ "npc_aeranasAI", "d2/df8/a24260.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d2/df8/a24260.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d2/df8/a24260.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d2/df8/a24260.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d2/df8/a24260.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d2/df8/a24260.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_ancestral_wolfAI", "d2/df8/a24260.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d2/df8/a24260.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d2/df8/a24260.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d2/df8/a24260.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d2/df8/a24260.html#ac238214604720e298124b58c35d58e05", null ]
 ];

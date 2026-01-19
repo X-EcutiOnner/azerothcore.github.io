@@ -1,5 +1,6 @@
 var a25640 =
 [
-    [ "PrepareSpellScript", "de/ddc/a25640.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "de/ddc/a25640.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "CheckCast", "de/ddc/a25640.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "de/ddc/a25640.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "de/ddc/a25640.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

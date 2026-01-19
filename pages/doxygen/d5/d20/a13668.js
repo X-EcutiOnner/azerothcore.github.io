@@ -1,7 +1,7 @@
 var a13668 =
 [
-    [ "HandleScriptEffect", "d5/d20/a13668.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d5/d20/a13668.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d5/d20/a13668.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d5/d20/a13668.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "HandleSchoolDamage", "d5/d20/a13668.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d5/d20/a13668.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d5/d20/a13668.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d5/d20/a13668.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

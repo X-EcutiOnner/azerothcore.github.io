@@ -1,8 +1,7 @@
 var a15252 =
 [
-    [ "HandleScript", "dc/dac/a15252.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "dc/dac/a15252.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "dc/dac/a15252.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "dc/dac/a15252.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "dc/dac/a15252.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "HandleScript", "dc/dac/a15252.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "dc/dac/a15252.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "dc/dac/a15252.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "dc/dac/a15252.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

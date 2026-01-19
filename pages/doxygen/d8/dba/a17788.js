@@ -1,6 +1,7 @@
 var a17788 =
 [
-    [ "npc_stinky_iccAI", "dd/dd8/a17792.html", "dd/dd8/a17792" ],
-    [ "npc_stinky_icc", "d8/dba/a17788.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d8/dba/a17788.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "HandleScript", "d8/dba/a17788.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "d8/dba/a17788.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "d8/dba/a17788.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "d8/dba/a17788.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

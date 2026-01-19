@@ -1,6 +1,8 @@
 var a26976 =
 [
-    [ "FilterTargets", "df/d16/a26976.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "df/d16/a26976.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "df/d16/a26976.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "CheckFireTotem", "df/d16/a26976.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "df/d16/a26976.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "df/d16/a26976.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "df/d16/a26976.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "df/d16/a26976.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

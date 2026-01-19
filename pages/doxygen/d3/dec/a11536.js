@@ -1,10 +1,6 @@
 var a11536 =
 [
-    [ "TargetHook", "d3/dec/a11536.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d3/dec/a11536.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d3/dec/a11536.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d3/dec/a11536.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d3/dec/a11536.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d3/dec/a11536.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d3/dec/a11536.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "BeforeHitHandler", "d3/dec/a11536.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d3/dec/a11536.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d3/dec/a11536.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

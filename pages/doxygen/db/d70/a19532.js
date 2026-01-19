@@ -1,6 +1,6 @@
 var a19532 =
 [
-    [ "npc_hover_diskAI", "d2/d78/a19536.html", "d2/d78/a19536" ],
-    [ "npc_hover_disk", "db/d70/a19532.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "db/d70/a19532.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_scion_of_eternityAI", "d2/d78/a19536.html", "d2/d78/a19536" ],
+    [ "npc_scion_of_eternity", "db/d70/a19532.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "db/d70/a19532.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

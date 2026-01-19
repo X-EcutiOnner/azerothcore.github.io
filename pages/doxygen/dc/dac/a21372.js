@@ -1,13 +1,13 @@
 var a21372 =
 [
-    [ "npc_frenzied_worgenAI", "dc/dac/a21372.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
-    [ "DoAction", "dc/dac/a21372.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
-    [ "JustDied", "dc/dac/a21372.html#a33b723baef468ef79e67aaadba1b2691", null ],
-    [ "JustEngagedWith", "dc/dac/a21372.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
-    [ "JustReachedHome", "dc/dac/a21372.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
-    [ "MoveInLineOfSight", "dc/dac/a21372.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
-    [ "Reset", "dc/dac/a21372.html#adccac21b6eff18db096eb79dab4a27a0", null ],
-    [ "UpdateAI", "dc/dac/a21372.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
-    [ "events", "dc/dac/a21372.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
-    [ "m_pInstance", "dc/dac/a21372.html#a425720ce11714b145685f6d9c78a3dc1", null ]
+    [ "npc_ravenous_furbolgAI", "dc/dac/a21372.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
+    [ "DoAction", "dc/dac/a21372.html#a837b442d7812b0c5708995d35c0d45f6", null ],
+    [ "JustDied", "dc/dac/a21372.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
+    [ "JustEngagedWith", "dc/dac/a21372.html#a003eb350a11f3f5c2355a58958633f36", null ],
+    [ "JustReachedHome", "dc/dac/a21372.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
+    [ "MoveInLineOfSight", "dc/dac/a21372.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
+    [ "Reset", "dc/dac/a21372.html#aca5ae47050590ec22e6e929f44e09276", null ],
+    [ "UpdateAI", "dc/dac/a21372.html#ad044c04381a8d61a8fefc55129453ddf", null ],
+    [ "events", "dc/dac/a21372.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
+    [ "m_pInstance", "dc/dac/a21372.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
 ];

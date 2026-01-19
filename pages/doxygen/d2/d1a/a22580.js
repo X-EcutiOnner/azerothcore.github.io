@@ -1,7 +1,7 @@
 var a22580 =
 [
-    [ "npc_wg_demolisher_engineer", "d2/d1a/a22580.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d2/d1a/a22580.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d2/d1a/a22580.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d2/d1a/a22580.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleDummy", "d2/d1a/a22580.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "d2/d1a/a22580.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "d2/d1a/a22580.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "d2/d1a/a22580.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

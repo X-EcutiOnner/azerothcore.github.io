@@ -1,6 +1,6 @@
 var a21888 =
 [
-    [ "npc_mei_francis_mountAI", "db/d70/a21892.html", "db/d70/a21892" ],
-    [ "npc_mei_francis_mount", "da/da0/a21888.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "da/da0/a21888.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_steam_powered_auctioneerAI", "db/d70/a21892.html", "db/d70/a21892" ],
+    [ "npc_steam_powered_auctioneer", "da/da0/a21888.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "da/da0/a21888.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

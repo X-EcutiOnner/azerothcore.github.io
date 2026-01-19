@@ -1,7 +1,6 @@
 var a26072 =
 [
-    [ "Load", "db/d26/a26072.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "db/d26/a26072.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "db/d26/a26072.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "db/d26/a26072.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleDummy", "db/d26/a26072.html#ab146c4026bc8ad129bb3d421891d344b", null ],
+    [ "PrepareSpellScript", "db/d26/a26072.html#aa9743f357b9800ab2990fb584011b0a6", null ],
+    [ "Register", "db/d26/a26072.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
 ];

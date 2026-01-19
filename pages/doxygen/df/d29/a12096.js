@@ -1,14 +1,17 @@
 var a12096 =
 [
-    [ "boss_galvangarAI", "df/d29/a12096.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "df/d29/a12096.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "df/d29/a12096.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "df/d29/a12096.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "df/d29/a12096.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "df/d29/a12096.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "df/d29/a12096.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "df/d29/a12096.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "df/d29/a12096.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "df/d29/a12096.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "df/d29/a12096.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "boss_drektharAI", "df/d29/a12096.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
+    [ "AttackStart", "df/d29/a12096.html#a058d9683179756e49aa4e243d270105c", null ],
+    [ "EnterEvadeMode", "df/d29/a12096.html#a7f8677796d1b9dbe7021c056252278d3", null ],
+    [ "JustEngagedWith", "df/d29/a12096.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
+    [ "JustRespawned", "df/d29/a12096.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
+    [ "Reset", "df/d29/a12096.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
+    [ "UpdateAI", "df/d29/a12096.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
+    [ "Attacked", "df/d29/a12096.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
+    [ "FrenzyTimer", "df/d29/a12096.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
+    [ "KnockdownTimer", "df/d29/a12096.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
+    [ "ResetTimer", "df/d29/a12096.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
+    [ "Whirlwind2Timer", "df/d29/a12096.html#a788359b7f2df1794dbff643d75b2c561", null ],
+    [ "WhirlwindTimer", "df/d29/a12096.html#aef399775e552d7e80224fbb0c2f62aff", null ],
+    [ "YellTimer", "df/d29/a12096.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
 ];

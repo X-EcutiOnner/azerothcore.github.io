@@ -1,6 +1,6 @@
 var a24508 =
 [
-    [ "npc_shattrathflaskvendors", "dc/ded/a24508.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "dc/ded/a24508.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "dc/ded/a24508.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_kservantAI", "d2/df4/a24512.html", "d2/df4/a24512" ],
+    [ "npc_kservant", "dc/ded/a24508.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "dc/ded/a24508.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

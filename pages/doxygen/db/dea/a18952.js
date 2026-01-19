@@ -1,5 +1,6 @@
 var a18952 =
 [
-    [ "npc_alchemist_adrianna", "db/dea/a18952.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "db/dea/a18952.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_impaling_spearAI", "d5/d4b/a18956.html", "d5/d4b/a18956" ],
+    [ "npc_impaling_spear", "db/dea/a18952.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "db/dea/a18952.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

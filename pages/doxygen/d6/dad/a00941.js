@@ -1,8 +1,8 @@
 var a00941 =
 [
-    [ "FormationInfo", "d8/db5/a08160.html", "d8/db5/a08160" ],
-    [ "FormationMgr", "d0/dba/a08164.html", "d0/dba/a08164" ],
-    [ "CreatureGroup", "d9/dae/a08168.html", "d9/dae/a08168" ],
+    [ "FormationInfo", "d0/dba/a08164.html", "d0/dba/a08164" ],
+    [ "FormationMgr", "d9/dae/a08168.html", "d9/dae/a08168" ],
+    [ "CreatureGroup", "d1/d32/a08172.html", "d1/d32/a08172" ],
     [ "sFormationMgr", "d6/dad/a00941.html#ae80a51404625cee821a8727ed7369352", null ],
     [ "CreatureGroupInfoType", "d6/dad/a00941.html#a2c3447bf21f430bff136da6811d93a61", null ],
     [ "GroupAIFlags", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869c", [

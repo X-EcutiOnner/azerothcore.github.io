@@ -1,6 +1,6 @@
 var a22688 =
 [
-    [ "npc_captured_rageclawAI", "d3/db4/a22688.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "d3/db4/a22688.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "d3/db4/a22688.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "npc_released_offspring_harkoaAI", "d3/db4/a22688.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d3/db4/a22688.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d3/db4/a22688.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

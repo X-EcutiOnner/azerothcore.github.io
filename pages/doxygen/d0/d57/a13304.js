@@ -1,8 +1,6 @@
 var a13304 =
 [
-    [ "npc_highlord_darion_mograineAI", "d3/d48/a13308.html", "d3/d48/a13308" ],
-    [ "npc_highlord_darion_mograine", "d0/d57/a13304.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "d0/d57/a13304.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "d0/d57/a13304.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "d0/d57/a13304.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "OnRemove", "d0/d57/a13304.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "d0/d57/a13304.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "d0/d57/a13304.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

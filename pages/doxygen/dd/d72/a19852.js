@@ -1,6 +1,6 @@
 var a19852 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d81/a19856.html", "de/d81/a19856" ],
-    [ "boss_sjonnir_malformed_ooze", "dd/d72/a19852.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "dd/d72/a19852.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "de/d81/a19856.html", "de/d81/a19856" ],
+    [ "boss_sjonnir_iron_sludge", "dd/d72/a19852.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "dd/d72/a19852.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

@@ -1,9 +1,10 @@
 var a12564 =
 [
-    [ "FilterTargets", "dd/d25/a12564.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "dd/d25/a12564.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "dd/d25/a12564.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "dd/d25/a12564.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "dd/d25/a12564.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "dd/d25/a12564.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "npc_corrupted_totem", "dd/d25/a12564.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "dd/d25/a12564.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "dd/d25/a12564.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "dd/d25/a12564.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "dd/d25/a12564.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "dd/d25/a12564.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "dd/d25/a12564.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

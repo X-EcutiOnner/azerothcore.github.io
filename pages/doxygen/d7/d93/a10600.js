@@ -1,7 +1,5 @@
 var a10600 =
 [
-    [ "LogoutResponse", "d7/d93/a10600.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "d7/d93/a10600.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "d7/d93/a10600.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "d7/d93/a10600.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "LogoutRequest", "d7/d93/a10600.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
+    [ "Read", "d7/d93/a10600.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
 ];

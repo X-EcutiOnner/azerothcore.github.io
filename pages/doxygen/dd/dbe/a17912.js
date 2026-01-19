@@ -1,6 +1,8 @@
 var a17912 =
 [
-    [ "PrepareSpellScript", "dd/dbe/a17912.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "dd/dbe/a17912.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "dd/dbe/a17912.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "HandlePeriodic", "dd/dbe/a17912.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "dd/dbe/a17912.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "dd/dbe/a17912.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "dd/dbe/a17912.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "dd/dbe/a17912.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

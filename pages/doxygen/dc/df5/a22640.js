@@ -1,6 +1,7 @@
 var a22640 =
 [
-    [ "HandlePeriodicDummy", "dc/df5/a22640.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "dc/df5/a22640.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "dc/df5/a22640.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "HandleScript", "dc/df5/a22640.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "dc/df5/a22640.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "dc/df5/a22640.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "dc/df5/a22640.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

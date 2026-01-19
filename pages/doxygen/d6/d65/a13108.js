@@ -1,12 +1,7 @@
 var a13108 =
 [
-    [ "boss_felblood_kaelthas", "d6/d65/a13108.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d6/d65/a13108.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d6/d65/a13108.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d6/d65/a13108.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d6/d65/a13108.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d6/d65/a13108.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d6/d65/a13108.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d6/d65/a13108.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d6/d65/a13108.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "HandleDummy", "d6/d65/a13108.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d6/d65/a13108.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d6/d65/a13108.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d6/d65/a13108.html#a0718461731d563d2c948848f60101d49", null ]
 ];

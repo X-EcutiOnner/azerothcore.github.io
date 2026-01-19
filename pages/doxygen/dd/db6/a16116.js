@@ -1,18 +1,5 @@
 var a16116 =
 [
-    [ "boss_taldaram", "dd/db6/a16116.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
-    [ "DamageTaken", "dd/db6/a16116.html#a2252fef717c2da047dc2d823e70660c0", null ],
-    [ "DoAction", "dd/db6/a16116.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
-    [ "InitializeAI", "dd/db6/a16116.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
-    [ "JustDied", "dd/db6/a16116.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
-    [ "JustEngagedWith", "dd/db6/a16116.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
-    [ "JustSummoned", "dd/db6/a16116.html#a5ae9201a71fa665908f924647b262825", null ],
-    [ "KilledUnit", "dd/db6/a16116.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
-    [ "MovementInform", "dd/db6/a16116.html#a17ca98f742a06b1496b2216e984811d8", null ],
-    [ "OnAuraRemove", "dd/db6/a16116.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
-    [ "Reset", "dd/db6/a16116.html#ae26fec572206d2f1f9acc229ee797496", null ],
-    [ "ScheduleCombatEvents", "dd/db6/a16116.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
-    [ "SpellHitTarget", "dd/db6/a16116.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
-    [ "vanishDamage", "dd/db6/a16116.html#a85d8c95320e6f1f486a39043218f0350", null ],
-    [ "victimSperePos", "dd/db6/a16116.html#a06efb376b0d08207a0efce74770f21dc", null ]
+    [ "achievement_volunteer_work", "dd/db6/a16116.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "dd/db6/a16116.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

@@ -1,11 +1,11 @@
 var a12388 =
 [
-    [ "boss_solakar_flamewreathAI", "df/d3c/a12388.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "df/d3c/a12388.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "df/d3c/a12388.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "df/d3c/a12388.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "df/d3c/a12388.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "df/d3c/a12388.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "df/d3c/a12388.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "df/d3c/a12388.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "npc_rookery_hatcherAI", "df/d3c/a12388.html#a3154429437a108edf77de7ec1f0b2cda", null ],
+    [ "InitializeAI", "df/d3c/a12388.html#af144dc2cbe632038057f931fd71da29d", null ],
+    [ "JustEngagedWith", "df/d3c/a12388.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
+    [ "UpdateAI", "df/d3c/a12388.html#a0f867aa346a2f829067466fbfe6c5335", null ],
+    [ "events", "df/d3c/a12388.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
+    [ "nearbyEggs", "df/d3c/a12388.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
+    [ "targetEgg", "df/d3c/a12388.html#a877af9948503688944e49503a6293574", null ],
+    [ "targetPosition", "df/d3c/a12388.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
 ];

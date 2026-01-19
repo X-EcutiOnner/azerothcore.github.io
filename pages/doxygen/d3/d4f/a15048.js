@@ -1,6 +1,6 @@
 var a15048 =
 [
-    [ "npc_cos_chromie_start", "d3/d4f/a15048.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d3/d4f/a15048.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d3/d4f/a15048.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "npc_crate_helperAI", "d3/d5a/a15052.html", "d3/d5a/a15052" ],
+    [ "npc_crate_helper", "d3/d4f/a15048.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d3/d4f/a15048.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

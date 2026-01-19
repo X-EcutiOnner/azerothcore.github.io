@@ -107,6 +107,7 @@ $(document).ready(function(){initNavTree('dc/d9e/a04148.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
   <div class="headertitle"><div class="title">Socket.h File Reference</div></div>
 </div><!--header-->
@@ -114,9 +115,8 @@ $(document).ready(function(){initNavTree('dc/d9e/a04148.html','../../'); initRes
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">MessageBuffer.h</a>&quot;</code><br />
 <code>#include &lt;atomic&gt;</code><br />
-<code>#include &lt;boost/asio.hpp&gt;</code><br />
+<code>#include &lt;boost/asio/io_context.hpp&gt;</code><br />
 <code>#include &lt;boost/asio/ip/tcp.hpp&gt;</code><br />
-<code>#include &lt;functional&gt;</code><br />
 <code>#include &lt;memory&gt;</code><br />
 <code>#include &lt;queue&gt;</code><br />
 <code>#include &lt;type_traits&gt;</code><br />
@@ -125,7 +125,7 @@ $(document).ready(function(){initNavTree('dc/d9e/a04148.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6a/a28800.html">Socket&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d25/a28792.html">Socket&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
@@ -133,8 +133,29 @@ Macros</h2></td></tr>
 <tr class="memitem:a16ba013af02b9d4400b5e47d8daa022b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9e/a04148.html#a16ba013af02b9d4400b5e47d8daa022b">READ_BLOCK_SIZE</a>&#160;&#160;&#160;4096</td></tr>
 <tr class="separator:a16ba013af02b9d4400b5e47d8daa022b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:af72c5a224bc60d68d08afae3ba0cfb2f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9e/a04148.html#af72c5a224bc60d68d08afae3ba0cfb2f">IoContextTcpSocket</a> = boost::asio::basic_stream_socket&lt; boost::asio::ip::tcp, boost::asio::io_context::executor_type &gt;</td></tr>
+<tr class="separator:af72c5a224bc60d68d08afae3ba0cfb2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
+<tr class="memitem:a28a77649fbf17e65bca542516efff3e3"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3">SocketReadCallbackResult</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5">KeepReading</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>
+<br />
+ }</td></tr>
+<tr class="separator:a28a77649fbf17e65bca542516efff3e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8f6bcfe82815814726ab4f90ea013e7"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7">SocketState</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274">Open</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e">Closing</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e">Closed</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:af8f6bcfe82815814726ab4f90ea013e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa514bb66fa404b5b180297bb005c3272"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272">ProxyHeaderReadingState</a> { <br />
 &#160;&#160;<a class="el" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c">PROXY_HEADER_READING_STATE_NOT_STARTED</a>
 , <br />
@@ -169,6 +190,21 @@ Enumerations</h2></td></tr>
 
 </div>
 </div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="af72c5a224bc60d68d08afae3ba0cfb2f" name="af72c5a224bc60d68d08afae3ba0cfb2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af72c5a224bc60d68d08afae3ba0cfb2f">&#9670;&#160;</a></span>IoContextTcpSocket</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../dc/d9e/a04148.html#af72c5a224bc60d68d08afae3ba0cfb2f">IoContextTcpSocket</a> =  boost::asio::basic_stream_socket&lt;boost::asio::ip::tcp, boost::asio::io_context::executor_type&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
 <a id="a7ddce6d0420753babeb6258ada50eec1" name="a7ddce6d0420753babeb6258ada50eec1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7ddce6d0420753babeb6258ada50eec1">&#9670;&#160;</a></span>ProxyHeaderAddressFamilyAndProtocol</h2>
@@ -185,12 +221,12 @@ Enumerations</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575" name="a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575"></a>PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699" name="a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699"></a>PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>                                         {</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4</a> = 0x11,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6</a> = 0x21,</div>
-<div class="line"><span class="lineno">   48</span>};</div>
-<div class="ttc" id="aa04148_html_a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699"><div class="ttname"><a href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6</a></div><div class="ttdeci">@ PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6</div><div class="ttdef"><b>Definition:</b> Socket.h:47</div></div>
-<div class="ttc" id="aa04148_html_a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575"><div class="ttname"><a href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4</a></div><div class="ttdeci">@ PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4</div><div class="ttdef"><b>Definition:</b> Socket.h:46</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>                                         {</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4</a> = 0x11,</div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6</a> = 0x21,</div>
+<div class="line"><span class="lineno">   64</span>};</div>
+<div class="ttc" id="aa04148_html_a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699"><div class="ttname"><a href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6</a></div><div class="ttdeci">@ PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6</div><div class="ttdef"><b>Definition:</b> Socket.h:63</div></div>
+<div class="ttc" id="aa04148_html_a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575"><div class="ttname"><a href="../../dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575">PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4</a></div><div class="ttdeci">@ PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4</div><div class="ttdef"><b>Definition:</b> Socket.h:62</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -211,16 +247,83 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb" name="aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb"></a>PROXY_HEADER_READING_STATE_FINISHED&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f" name="aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f"></a>PROXY_HEADER_READING_STATE_FAILED&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   38</span>                             {</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c">PROXY_HEADER_READING_STATE_NOT_STARTED</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98">PROXY_HEADER_READING_STATE_STARTED</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb">PROXY_HEADER_READING_STATE_FINISHED</a>,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f">PROXY_HEADER_READING_STATE_FAILED</a>,</div>
-<div class="line"><span class="lineno">   43</span>};</div>
-<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c">PROXY_HEADER_READING_STATE_NOT_STARTED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_NOT_STARTED</div><div class="ttdef"><b>Definition:</b> Socket.h:39</div></div>
-<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb">PROXY_HEADER_READING_STATE_FINISHED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_FINISHED</div><div class="ttdef"><b>Definition:</b> Socket.h:41</div></div>
-<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98">PROXY_HEADER_READING_STATE_STARTED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_STARTED</div><div class="ttdef"><b>Definition:</b> Socket.h:40</div></div>
-<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f">PROXY_HEADER_READING_STATE_FAILED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_FAILED</div><div class="ttdef"><b>Definition:</b> Socket.h:42</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>                             {</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c">PROXY_HEADER_READING_STATE_NOT_STARTED</a>,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98">PROXY_HEADER_READING_STATE_STARTED</a>,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb">PROXY_HEADER_READING_STATE_FINISHED</a>,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f">PROXY_HEADER_READING_STATE_FAILED</a>,</div>
+<div class="line"><span class="lineno">   59</span>};</div>
+<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c">PROXY_HEADER_READING_STATE_NOT_STARTED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_NOT_STARTED</div><div class="ttdef"><b>Definition:</b> Socket.h:55</div></div>
+<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb">PROXY_HEADER_READING_STATE_FINISHED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_FINISHED</div><div class="ttdef"><b>Definition:</b> Socket.h:57</div></div>
+<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98">PROXY_HEADER_READING_STATE_STARTED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_STARTED</div><div class="ttdef"><b>Definition:</b> Socket.h:56</div></div>
+<div class="ttc" id="aa04148_html_aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f"><div class="ttname"><a href="../../dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f">PROXY_HEADER_READING_STATE_FAILED</a></div><div class="ttdeci">@ PROXY_HEADER_READING_STATE_FAILED</div><div class="ttdef"><b>Definition:</b> Socket.h:58</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a28a77649fbf17e65bca542516efff3e3" name="a28a77649fbf17e65bca542516efff3e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28a77649fbf17e65bca542516efff3e3">&#9670;&#160;</a></span>SocketReadCallbackResult</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3">SocketReadCallbackResult</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5" name="a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5"></a>KeepReading&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481" name="a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481"></a>Stop&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5">KeepReading</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a></div>
+<div class="line"><span class="lineno">   45</span>};</div>
+<div class="ttc" id="aa04148_html_a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5"><div class="ttname"><a href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5">SocketReadCallbackResult::KeepReading</a></div><div class="ttdeci">@ KeepReading</div></div>
+<div class="ttc" id="aa04148_html_a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481"><div class="ttname"><a href="../../dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">SocketReadCallbackResult::Stop</a></div><div class="ttdeci">@ Stop</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af8f6bcfe82815814726ab4f90ea013e7" name="af8f6bcfe82815814726ab4f90ea013e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8f6bcfe82815814726ab4f90ea013e7">&#9670;&#160;</a></span>SocketState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7">SocketState</a> : <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274" name="af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274"></a>Open&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e" name="af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e"></a>Closing&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e" name="af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e"></a>Closed&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274">Open</a> = 0,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e">Closing</a> = 1,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e">Closed</a> = 2</div>
+<div class="line"><span class="lineno">   52</span>};</div>
+<div class="ttc" id="aa04148_html_af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e"><div class="ttname"><a href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e">SocketState::Closed</a></div><div class="ttdeci">@ Closed</div></div>
+<div class="ttc" id="aa04148_html_af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e"><div class="ttname"><a href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e">SocketState::Closing</a></div><div class="ttdeci">@ Closing</div></div>
+<div class="ttc" id="aa04148_html_af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274"><div class="ttname"><a href="../../dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274">SocketState::Open</a></div><div class="ttdeci">@ Open</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -230,7 +333,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_a4d376dc24851cd2a191f06c51e076cb.html">Network</a></li><li class="navelem"><a class="el" href="../../dc/d9e/a04148.html">Socket.h</a></li>
-    <li class="footer">Generated on Mon Jan 12 2026 20:51:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 19 2026 20:51:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

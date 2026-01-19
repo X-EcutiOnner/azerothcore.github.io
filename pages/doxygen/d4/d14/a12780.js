@@ -1,6 +1,6 @@
 var a12780 =
 [
-    [ "npc_flamewaker_priestAI", "d5/d21/a12784.html", "d5/d21/a12784" ],
-    [ "npc_flamewaker_priest", "d4/d14/a12780.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "d4/d14/a12780.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "boss_sulfuronAI", "d5/d21/a12784.html", "d5/d21/a12784" ],
+    [ "boss_sulfuron", "d4/d14/a12780.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "d4/d14/a12780.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

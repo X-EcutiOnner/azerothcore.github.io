@@ -1,6 +1,6 @@
 var a14384 =
 [
-    [ "boss_renatakiAI", "d9/df5/a14388.html", "d9/df5/a14388" ],
-    [ "boss_renataki", "d6/de5/a14384.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d6/de5/a14384.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "HandleOnHit", "d6/de5/a14384.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "d6/de5/a14384.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "d6/de5/a14384.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

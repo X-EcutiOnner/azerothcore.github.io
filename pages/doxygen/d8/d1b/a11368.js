@@ -1,10 +1,6 @@
 var a11368 =
 [
-    [ "TriggeredByAuraSpellData", "d8/d1b/a11368.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "d8/d1b/a11368.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "d8/d1b/a11368.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "d8/d1b/a11368.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "d8/d1b/a11368.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "d8/d1b/a11368.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "d8/d1b/a11368.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "ChannelTargetData", "d8/d1b/a11368.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d8/d1b/a11368.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d8/d1b/a11368.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

@@ -1,6 +1,9 @@
 var a14920 =
 [
-    [ "OnRemove", "d3/dfe/a14920.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d3/dfe/a14920.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d3/dfe/a14920.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "boss_azgalor", "d3/dfe/a14920.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d3/dfe/a14920.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d3/dfe/a14920.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d3/dfe/a14920.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d3/dfe/a14920.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "d3/dfe/a14920.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

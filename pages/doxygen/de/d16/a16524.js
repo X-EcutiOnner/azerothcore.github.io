@@ -1,6 +1,6 @@
 var a16524 =
 [
-    [ "FilterTargets", "de/d16/a16524.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "de/d16/a16524.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "de/d16/a16524.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_argent_soldierAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
+    [ "npc_argent_soldier", "de/d16/a16524.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "de/d16/a16524.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

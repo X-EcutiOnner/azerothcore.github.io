@@ -1,4 +1,4 @@
 var a01670 =
 [
-    [ "MapUpdater", "d4/d39/a09952.html", "d4/d39/a09952" ]
+    [ "MapUpdater", "d6/d3e/a09956.html", "d6/d3e/a09956" ]
 ];

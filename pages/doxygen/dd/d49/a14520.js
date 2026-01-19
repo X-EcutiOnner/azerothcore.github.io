@@ -1,6 +1,7 @@
 var a14520 =
 [
-    [ "go_direbrew_mole_machineAI", "de/dab/a14524.html", "de/dab/a14524" ],
-    [ "go_direbrew_mole_machine", "dd/d49/a14520.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "dd/d49/a14520.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "npc_direbrew_minion", "dd/d49/a14520.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "dd/d49/a14520.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "dd/d49/a14520.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "dd/d49/a14520.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

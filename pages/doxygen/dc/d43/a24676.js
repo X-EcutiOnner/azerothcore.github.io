@@ -1,10 +1,14 @@
 var a24676 =
 [
-    [ "npc_pet_hunter_snake_trap", "dc/d43/a24676.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "dc/d43/a24676.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "dc/d43/a24676.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "dc/d43/a24676.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "dc/d43/a24676.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "dc/d43/a24676.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "dc/d43/a24676.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_mage_mirror_image", "dc/d43/a24676.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "dc/d43/a24676.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "dc/d43/a24676.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "dc/d43/a24676.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "dc/d43/a24676.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "dc/d43/a24676.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "dc/d43/a24676.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "dc/d43/a24676.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "dc/d43/a24676.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "dc/d43/a24676.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "dc/d43/a24676.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

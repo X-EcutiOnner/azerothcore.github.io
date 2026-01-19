@@ -1,7 +1,6 @@
 var a13664 =
 [
-    [ "HandleRemove", "dc/db7/a13664.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "dc/db7/a13664.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "dc/db7/a13664.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "dc/db7/a13664.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "FilterTargets", "dc/db7/a13664.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "dc/db7/a13664.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "dc/db7/a13664.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

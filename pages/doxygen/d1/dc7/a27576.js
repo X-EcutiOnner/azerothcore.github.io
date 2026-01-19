@@ -1,6 +1,5 @@
 var a27576 =
 [
-    [ "go_gilded_brazierAI", "dc/de8/a27580.html", "dc/de8/a27580" ],
-    [ "go_gilded_brazier", "d1/dc7/a27576.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d1/dc7/a27576.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_tablet_of_the_seven", "d1/dc7/a27576.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d1/dc7/a27576.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

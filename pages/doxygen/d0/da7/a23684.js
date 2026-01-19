@@ -1,5 +1,7 @@
 var a23684 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d0/da7/a23684.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d0/da7/a23684.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "OnApply", "d0/da7/a23684.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d0/da7/a23684.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d0/da7/a23684.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d0/da7/a23684.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

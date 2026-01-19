@@ -1,6 +1,8 @@
 var a15040 =
 [
-    [ "npc_crate_helperAI", "d0/ded/a15044.html", "d0/ded/a15044" ],
-    [ "npc_crate_helper", "d6/def/a15040.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d6/def/a15040.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "npc_arthasAI", "d0/ded/a15044.html", "d0/ded/a15044" ],
+    [ "npc_arthas", "d6/def/a15040.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d6/def/a15040.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d6/def/a15040.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d6/def/a15040.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

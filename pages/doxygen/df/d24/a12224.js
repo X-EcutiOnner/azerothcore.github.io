@@ -1,6 +1,7 @@
 var a12224 =
 [
-    [ "boss_hedrumAI", "df/d24/a12224.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "df/d24/a12224.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "df/d24/a12224.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "boss_grizzleAI", "df/d24/a12224.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "df/d24/a12224.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "df/d24/a12224.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "df/d24/a12224.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

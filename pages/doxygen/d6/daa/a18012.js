@@ -1,6 +1,6 @@
 var a18012 =
 [
-    [ "npc_cult_fanaticAI", "db/d34/a18016.html", "db/d34/a18016" ],
-    [ "npc_cult_fanatic", "d6/daa/a18012.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d6/daa/a18012.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "boss_lady_deathwhisperAI", "db/d34/a18016.html", "db/d34/a18016" ],
+    [ "boss_lady_deathwhisper", "d6/daa/a18012.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d6/daa/a18012.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

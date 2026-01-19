@@ -1,8 +1,9 @@
 var a19864 =
 [
-    [ "brann_bronzebeardAI", "db/dea/a19868.html", "db/dea/a19868" ],
-    [ "brann_bronzebeard", "db/d62/a19864.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "db/d62/a19864.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "db/d62/a19864.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "db/d62/a19864.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "db/d62/a19864.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "db/d62/a19864.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "db/d62/a19864.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "db/d62/a19864.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "db/d62/a19864.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "db/d62/a19864.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

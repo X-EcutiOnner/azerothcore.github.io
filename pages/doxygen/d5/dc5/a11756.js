@@ -1,9 +1,4 @@
 var a11756 =
 [
-    [ "map", "d5/dc5/a11756.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d5/dc5/a11756.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d5/dc5/a11756.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d5/dc5/a11756.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d5/dc5/a11756.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d5/dc5/a11756.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "Result", "d5/dc5/a11756.html#afcac99b5c5e876f3da1a72c1063c465f", null ]
 ];

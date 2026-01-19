@@ -1,8 +1,6 @@
 var a11408 =
 [
-    [ "ReflectEvent", "d8/d5e/a11408.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "d8/d5e/a11408.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "d8/d5e/a11408.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "d8/d5e/a11408.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "d8/d5e/a11408.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d8/d5e/a11408.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d8/d5e/a11408.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d8/d5e/a11408.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

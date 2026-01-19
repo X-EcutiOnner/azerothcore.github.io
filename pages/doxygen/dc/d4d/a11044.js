@@ -1,7 +1,8 @@
 var a11044 =
 [
-    [ "TrainerBuySucceeded", "dc/d4d/a11044.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "dc/d4d/a11044.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "dc/d4d/a11044.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "dc/d4d/a11044.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "TrainerBuyFailed", "dc/d4d/a11044.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "dc/d4d/a11044.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "dc/d4d/a11044.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "dc/d4d/a11044.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "dc/d4d/a11044.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

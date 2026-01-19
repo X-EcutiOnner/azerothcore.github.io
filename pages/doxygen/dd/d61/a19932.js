@@ -1,6 +1,6 @@
 var a19932 =
 [
-    [ "go_celestial_planetarium_accessAI", "d5/d26/a19936.html", "d5/d26/a19936" ],
-    [ "go_celestial_planetarium_access", "dd/d61/a19932.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "dd/d61/a19932.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "npc_algalon_worm_holeAI", "d5/d26/a19936.html", "d5/d26/a19936" ],
+    [ "npc_algalon_worm_hole", "dd/d61/a19932.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "dd/d61/a19932.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

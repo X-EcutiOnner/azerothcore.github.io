@@ -1,5 +1,7 @@
 var a29140 =
 [
-    [ "max", "d7/dd0/a29140.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
-    [ "min", "d7/dd0/a29140.html#a7277258d8bdc471a007814fadf91780a", null ]
+    [ "W", "d7/dd0/a29140.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
+    [ "X", "d7/dd0/a29140.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
+    [ "Y", "d7/dd0/a29140.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
+    [ "Z", "d7/dd0/a29140.html#a533b5e90b6333d89190828f28721e61d", null ]
 ];

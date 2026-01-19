@@ -1,6 +1,6 @@
 var a13980 =
 [
-    [ "npc_parqual_fintallas", "dd/dc7/a13980.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "dd/dc7/a13980.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "dd/dc7/a13980.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_highborne_lamenterAI", "de/d90/a13984.html", "de/d90/a13984" ],
+    [ "npc_highborne_lamenter", "dd/dc7/a13980.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "dd/dc7/a13980.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

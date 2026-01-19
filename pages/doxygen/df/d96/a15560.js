@@ -1,6 +1,6 @@
 var a15560 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d3/d25/a15564.html", "d3/d25/a15564" ],
-    [ "instance_wailing_caverns", "df/d96/a15560.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "df/d96/a15560.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "HandleApply", "df/d96/a15560.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "df/d96/a15560.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "df/d96/a15560.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

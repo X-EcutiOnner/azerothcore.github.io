@@ -1,6 +1,7 @@
 var a25752 =
 [
-    [ "CheckProc", "db/df8/a25752.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "db/df8/a25752.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "db/df8/a25752.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "FilterTargets", "db/df8/a25752.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "db/df8/a25752.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "db/df8/a25752.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "db/df8/a25752.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

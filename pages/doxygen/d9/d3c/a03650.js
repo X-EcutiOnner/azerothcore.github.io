@@ -1,7 +1,7 @@
 var a03650 =
 [
-    [ "boss_firemaw", "db/d64/a12524.html", "db/d64/a12524" ],
-    [ "boss_firemaw::boss_firemawAI", "d8/dbf/a12528.html", "d8/dbf/a12528" ],
+    [ "boss_firemaw", "de/d98/a12532.html", "de/d98/a12532" ],
+    [ "boss_firemaw::boss_firemawAI", "dc/d3b/a12536.html", "dc/d3b/a12536" ],
     [ "Events", "d9/d3c/a03650.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

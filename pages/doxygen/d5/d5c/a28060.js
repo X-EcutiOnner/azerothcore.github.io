@@ -1,5 +1,6 @@
 var a28060 =
 [
-    [ "go_transport_the_purple_princess", "d5/d5c/a28060.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d5/d5c/a28060.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "X", "d5/d5c/a28060.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d5/d5c/a28060.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d5/d5c/a28060.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

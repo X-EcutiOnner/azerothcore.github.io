@@ -1,11 +1,11 @@
 var a13004 =
 [
-    [ "boss_terestian_illhoof", "de/d59/a13004.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "de/d59/a13004.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "de/d59/a13004.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "de/d59/a13004.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "de/d59/a13004.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "de/d59/a13004.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "de/d59/a13004.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "de/d59/a13004.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_kilrek", "de/d59/a13004.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "de/d59/a13004.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "de/d59/a13004.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "de/d59/a13004.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "de/d59/a13004.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "de/d59/a13004.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "de/d59/a13004.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "de/d59/a13004.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

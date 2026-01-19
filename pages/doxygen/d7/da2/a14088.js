@@ -1,6 +1,7 @@
 var a14088 =
 [
-    [ "cooldown", "d7/da2/a14088.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "d7/da2/a14088.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "d7/da2/a14088.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "FilterTargets", "d7/da2/a14088.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "d7/da2/a14088.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "d7/da2/a14088.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "d7/da2/a14088.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

@@ -1,9 +1,6 @@
 var a17272 =
 [
-    [ "FilterTargets", "df/d52/a17272.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "df/d52/a17272.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "df/d52/a17272.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "df/d52/a17272.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "df/d52/a17272.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "df/d52/a17272.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "boss_garfrostAI", "d7/d54/a17276.html", "d7/d54/a17276" ],
+    [ "boss_garfrost", "df/d52/a17272.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "df/d52/a17272.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

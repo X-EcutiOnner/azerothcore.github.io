@@ -1,21 +1,15 @@
 var a11840 =
 [
-    [ "account_commandscript", "df/d7d/a11840.html#acfea28449f30913389ab2eddfc512dbb", null ],
-    [ "GetCommands", "df/d7d/a11840.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
-    [ "HandleAccount2FARemoveCommand", "df/d7d/a11840.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
-    [ "HandleAccount2FASetupCommand", "df/d7d/a11840.html#aedfc70990dd6211938baad8b11a45e8c", null ],
-    [ "HandleAccountAddonCommand", "df/d7d/a11840.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
-    [ "HandleAccountCommand", "df/d7d/a11840.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
-    [ "HandleAccountCreateCommand", "df/d7d/a11840.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
-    [ "HandleAccountDeleteCommand", "df/d7d/a11840.html#a4bb0b76ef822011054d699df31f60d7e", null ],
-    [ "HandleAccountLockCountryCommand", "df/d7d/a11840.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
-    [ "HandleAccountLockIpCommand", "df/d7d/a11840.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
-    [ "HandleAccountOnlineListCommand", "df/d7d/a11840.html#a36cb5b885d6c0745303b386ad42541f6", null ],
-    [ "HandleAccountPasswordCommand", "df/d7d/a11840.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
-    [ "HandleAccountRemoveLockCountryCommand", "df/d7d/a11840.html#a6a40319f52f00881a5be4a50f812b337", null ],
-    [ "HandleAccountSet2FACommand", "df/d7d/a11840.html#a195e5037d3c4886ca8e69a56daadd028", null ],
-    [ "HandleAccountSetAddonCommand", "df/d7d/a11840.html#aca017dc33dab7c379d8203569775f21b", null ],
-    [ "HandleAccountSetEmailCommand", "df/d7d/a11840.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
-    [ "HandleAccountSetGmLevelCommand", "df/d7d/a11840.html#a1aaee019de3b7802281e25e926fa4821", null ],
-    [ "HandleAccountSetPasswordCommand", "df/d7d/a11840.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ]
+    [ "SunsReachReclamationData", "df/d7d/a11840.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "df/d7d/a11840.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "df/d7d/a11840.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "df/d7d/a11840.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "df/d7d/a11840.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "df/d7d/a11840.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "df/d7d/a11840.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "df/d7d/a11840.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "df/d7d/a11840.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "df/d7d/a11840.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "df/d7d/a11840.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "df/d7d/a11840.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

@@ -1,5 +1,6 @@
 var a15840 =
 [
-    [ "go_crystalline_tear", "da/d7c/a15840.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "da/d7c/a15840.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_anachronos_quest_triggerAI", "d5/d15/a15844.html", "d5/d15/a15844" ],
+    [ "npc_anachronos_quest_trigger", "da/d7c/a15840.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "da/d7c/a15840.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

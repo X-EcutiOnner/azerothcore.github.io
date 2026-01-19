@@ -1,8 +1,6 @@
 var a19084 =
 [
-    [ "Class", "dd/de1/a19084.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "dd/de1/a19084.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "dd/de1/a19084.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "dd/de1/a19084.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "dd/de1/a19084.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_valkyr_heraldAI", "d3/d2d/a19088.html", "d3/d2d/a19088" ],
+    [ "npc_icc_valkyr_herald", "dd/de1/a19084.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "dd/de1/a19084.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

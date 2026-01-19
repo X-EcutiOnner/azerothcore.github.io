@@ -1,6 +1,7 @@
 var a12592 =
 [
-    [ "boss_razorgoreAI", "d0/d15/a12596.html", "d0/d15/a12596" ],
-    [ "boss_razorgore", "db/d68/a12592.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "db/d68/a12592.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "HandleDummy", "db/d68/a12592.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "db/d68/a12592.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "db/d68/a12592.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "db/d68/a12592.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

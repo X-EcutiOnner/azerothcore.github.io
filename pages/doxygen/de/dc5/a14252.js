@@ -1,5 +1,6 @@
 var a14252 =
 [
-    [ "at_zulgurub_entrance_speech", "de/dc5/a14252.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "de/dc5/a14252.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "boss_hakkarAI", "d2/d5a/a14256.html", "d2/d5a/a14256" ],
+    [ "boss_hakkar", "de/dc5/a14252.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "de/dc5/a14252.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

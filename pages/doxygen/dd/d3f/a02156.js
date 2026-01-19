@@ -1,8 +1,8 @@
 var a02156 =
 [
-    [ "boss_high_astromancer_solarian", "d2/d9d/a24040.html", "d2/d9d/a24040" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "dc/daf/a24044.html", "dc/daf/a24044" ],
-    [ "spell_astromancer_solarian_transform", "d8/d70/a24048.html", "d8/d70/a24048" ],
+    [ "boss_high_astromancer_solarian", "db/d4b/a24032.html", "db/d4b/a24032" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "df/d27/a24036.html", "df/d27/a24036" ],
+    [ "spell_astromancer_solarian_transform", "d2/d9d/a24040.html", "d2/d9d/a24040" ],
     [ "CENTER_O", "dd/d3f/a02156.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "dd/d3f/a02156.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "dd/d3f/a02156.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -271,9 +271,6 @@ var a02156 =
       [ "MAX_SUMMONS", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
       [ "EVENT_KILL_TALK", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d8/dd0/a02711.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ],
       [ "NPC_NAXXRAMAS_WORSHIPPER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8", null ],
       [ "NPC_NAXXRAMAS_FOLLOWER", "d8/da6/a02696.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac033a7f82bcad2cbafa1cba4440c30e0", null ],
       [ "MOVE_PHASE_NONE", "da/d28/a02705.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ad22e0bae0e0d4dda6a3222b3569669", null ],

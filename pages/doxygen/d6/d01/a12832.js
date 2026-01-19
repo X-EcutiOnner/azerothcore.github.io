@@ -1,6 +1,6 @@
 var a12832 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "da/d8e/a12836.html", "da/d8e/a12836" ],
-    [ "instance_gnomeregan", "d6/d01/a12832.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d6/d01/a12832.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "instance_deadmines_InstanceMapScript", "da/d8e/a12836.html", "da/d8e/a12836" ],
+    [ "instance_deadmines", "d6/d01/a12832.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d6/d01/a12832.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

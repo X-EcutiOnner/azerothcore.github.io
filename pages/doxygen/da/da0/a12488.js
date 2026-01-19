@@ -1,6 +1,7 @@
 var a12488 =
 [
-    [ "FilterTargets", "da/da0/a12488.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "da/da0/a12488.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "da/da0/a12488.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "go_suppression_deviceAI", "d5/d97/a12492.html", "d5/d97/a12492" ],
+    [ "go_suppression_device", "da/da0/a12488.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "da/da0/a12488.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "da/da0/a12488.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

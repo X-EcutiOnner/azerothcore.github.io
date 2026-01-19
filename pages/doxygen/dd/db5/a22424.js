@@ -1,9 +1,6 @@
 var a22424 =
 [
-    [ "npc_engineer_heliceAI", "dd/db5/a22424.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "dd/db5/a22424.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "dd/db5/a22424.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "dd/db5/a22424.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "dd/db5/a22424.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "m_uiChatTimer", "dd/db5/a22424.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "npc_bushwhackerAI", "dd/db5/a22424.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "dd/db5/a22424.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "dd/db5/a22424.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

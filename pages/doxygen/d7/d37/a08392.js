@@ -1,5 +1,5 @@
 var a08392 =
 [
-    [ "invisibilityType", "d7/d37/a08392.html#ac1e874a76fecd4d3eb061722713f6634", null ],
-    [ "InvisibilityValue", "d7/d37/a08392.html#a8e1741fca7c49f0618a3999e69ae5c81", null ]
+    [ "CastBarCaption", "d7/d37/a08392.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d7/d37/a08392.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

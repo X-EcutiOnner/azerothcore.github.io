@@ -1,6 +1,6 @@
 var a21344 =
 [
-    [ "npc_massive_jormungarAI", "d2/d10/a21348.html", "d2/d10/a21348" ],
-    [ "npc_massive_jormungar", "da/da5/a21344.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "da/da5/a21344.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "boss_palehoofAI", "d2/d10/a21348.html", "d2/d10/a21348" ],
+    [ "boss_palehoof", "da/da5/a21344.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "da/da5/a21344.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

@@ -1,6 +1,10 @@
 var a16564 =
 [
-    [ "HandleSpellHit", "db/d22/a16564.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "db/d22/a16564.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "db/d22/a16564.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "npc_black_knight_ghoulAI", "db/d22/a16564.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "db/d22/a16564.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "db/d22/a16564.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "db/d22/a16564.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "db/d22/a16564.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "db/d22/a16564.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "db/d22/a16564.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

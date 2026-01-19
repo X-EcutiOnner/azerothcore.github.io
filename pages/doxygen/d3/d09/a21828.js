@@ -1,6 +1,6 @@
 var a21828 =
 [
-    [ "npc_thassarianAI", "d4/db8/a21832.html", "d4/db8/a21832" ],
-    [ "npc_thassarian", "d3/d09/a21828.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "d3/d09/a21828.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_bloodmage_laurithAI", "d4/db8/a21832.html", "d4/db8/a21832" ],
+    [ "npc_bloodmage_laurith", "d3/d09/a21828.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d3/d09/a21828.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

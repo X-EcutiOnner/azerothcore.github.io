@@ -1,13 +1,12 @@
 var a08236 =
 [
-    [ "AnimationInfo", "d2/d05/a08236.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "d2/d05/a08236.html#a77ff98e13c5152e74701c236bbd9439a", null ],
-    [ "CapturePoint", "d2/d05/a08236.html#a6d1cf65fb52fa2dd983b0e768ba6a533", null ],
-    [ "FishingHole", "d2/d05/a08236.html#a9f5207745bfdc5d0fcdd09fe2429ac95", null ],
-    [ "Health", "d2/d05/a08236.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "d2/d05/a08236.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "d2/d05/a08236.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "d2/d05/a08236.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "d2/d05/a08236.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "d2/d05/a08236.html#aba7d64e566577c0b9ea05c0bed5d4fa8", null ]
+    [ "GameObjectModelOwnerImpl", "d2/d05/a08236.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "d2/d05/a08236.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "d2/d05/a08236.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "d2/d05/a08236.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "d2/d05/a08236.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "d2/d05/a08236.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "d2/d05/a08236.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "d2/d05/a08236.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "d2/d05/a08236.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

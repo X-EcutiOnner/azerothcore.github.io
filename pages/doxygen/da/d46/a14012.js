@@ -1,7 +1,6 @@
 var a14012 =
 [
-    [ "HandleScript", "da/d46/a14012.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "da/d46/a14012.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "da/d46/a14012.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "da/d46/a14012.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "boss_blight_wormAI", "db/dea/a14016.html", "db/dea/a14016" ],
+    [ "boss_blight_worm", "da/d46/a14012.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "da/d46/a14012.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

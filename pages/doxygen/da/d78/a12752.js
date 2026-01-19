@@ -1,7 +1,6 @@
 var a12752 =
 [
-    [ "HandleScript", "da/d78/a12752.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "da/d78/a12752.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "da/d78/a12752.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "da/d78/a12752.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_ragnarosAI", "d6/df4/a12756.html", "d6/df4/a12756" ],
+    [ "boss_ragnaros", "da/d78/a12752.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
+    [ "GetAI", "da/d78/a12752.html#af54e36608e160811ca06952fd2c63f6e", null ]
 ];

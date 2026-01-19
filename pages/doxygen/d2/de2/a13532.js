@@ -1,9 +1,12 @@
 var a13532 =
 [
-    [ "spell_eredar_twins_apply_touch", "d2/de2/a13532.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "d2/de2/a13532.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "d2/de2/a13532.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "d2/de2/a13532.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "d2/de2/a13532.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "d2/de2/a13532.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "boss_sacrolash", "d2/de2/a13532.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "d2/de2/a13532.html#ae650b6019d2f9191e1b532176159804d", null ],
+    [ "DoAction", "d2/de2/a13532.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "d2/de2/a13532.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "d2/de2/a13532.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "d2/de2/a13532.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "d2/de2/a13532.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "d2/de2/a13532.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "d2/de2/a13532.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

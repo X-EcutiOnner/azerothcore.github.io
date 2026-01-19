@@ -1,7 +1,7 @@
 var a23108 =
 [
-    [ "PrepareAuraScript", "d0/da7/a23108.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d0/da7/a23108.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d0/da7/a23108.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d0/da7/a23108.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "CheckProc", "d0/da7/a23108.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "d0/da7/a23108.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "d0/da7/a23108.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "d0/da7/a23108.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

@@ -1,5 +1,6 @@
 var a20736 =
 [
-    [ "achievement_mimiron_firefighter", "da/d22/a20736.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "da/d22/a20736.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d0/d65/a20740.html", "d0/d65/a20740" ],
+    [ "npc_ulduar_rocket_strike_trigger", "da/d22/a20736.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
+    [ "GetAI", "da/d22/a20736.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
 ];

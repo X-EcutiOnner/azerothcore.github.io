@@ -1,16 +1,12 @@
 var a11752 =
 [
-    [ "CheckContainer", "d7/d74/a11752.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "d7/d74/a11752.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "d7/d74/a11752.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "d7/d74/a11752.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "d7/d74/a11752.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "d7/d74/a11752.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "d7/d74/a11752.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "d7/d74/a11752.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "d7/d74/a11752.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "d7/d74/a11752.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "d7/d74/a11752.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "d7/d74/a11752.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "d7/d74/a11752.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "Action", "d7/d74/a11752.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d7/d74/a11752.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d7/d74/a11752.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d7/d74/a11752.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d7/d74/a11752.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d7/d74/a11752.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d7/d74/a11752.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d7/d74/a11752.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d7/d74/a11752.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

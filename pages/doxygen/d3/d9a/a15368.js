@@ -1,6 +1,5 @@
 var a15368 =
 [
-    [ "FilterTargets", "d3/d9a/a15368.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d3/d9a/a15368.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d3/d9a/a15368.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "boss_yauj", "d3/d9a/a15368.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "d3/d9a/a15368.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

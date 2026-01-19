@@ -1,8 +1,8 @@
 var a01661 =
 [
-    [ "ConditionSourceInfo", "d1/d89/a07948.html", "d1/d89/a07948" ],
-    [ "Condition", "d0/d20/a07952.html", "d0/d20/a07952" ],
-    [ "ConditionMgr", "dc/d0c/a07956.html", "dc/d0c/a07956" ],
+    [ "ConditionSourceInfo", "d0/d20/a07952.html", "d0/d20/a07952" ],
+    [ "Condition", "dc/d0c/a07956.html", "dc/d0c/a07956" ],
+    [ "ConditionMgr", "d4/d33/a07960.html", "d4/d33/a07960" ],
     [ "sConditionMgr", "d4/d41/a01661.html#a5ab0412c3dc24dbd690ba6d7f01657f8", null ],
     [ "ConditionContainer", "d4/d41/a01661.html#ad7de5903549b8835c25b25ec3a5733c9", null ],
     [ "ConditionList", "d4/d41/a01661.html#ae942a8e25dc24ce42e62625bb583c0dd", null ],
@@ -102,7 +102,7 @@ var a01661 =
       [ "CONDITION_HAS_AURA_TYPE", "d4/d41/a01661.html#aab5835ceff4b64ce6db4148256e0a0f0afb548f8d3d725806dddda6728b1fde76", null ],
       [ "CONDITION_WORLD_SCRIPT", "d4/d41/a01661.html#aab5835ceff4b64ce6db4148256e0a0f0a01b7b91ea994f8e304d9402772d4c74d", null ],
       [ "CONDITION_AI_DATA", "d4/d41/a01661.html#aab5835ceff4b64ce6db4148256e0a0f0a253b100542c4eab659d45953fa66d8af", null ],
-      [ "CONDITION_RANDOM_DUNGEON", "d4/d41/a01661.html#aab5835ceff4b64ce6db4148256e0a0f0a8d8e8264214ae894f68a188718309564", null ],
+      [ "CONDITION_PLAYER_QUEUED_RANDOM_DUNGEON", "d4/d41/a01661.html#aab5835ceff4b64ce6db4148256e0a0f0a063d588469822fd888e505458d40a661", null ],
       [ "CONDITION_AC_END", "d4/d41/a01661.html#aab5835ceff4b64ce6db4148256e0a0f0add0ddf7c2278950223ec24a30a0a6ed9", null ]
     ] ],
     [ "InstanceInfo", "d4/d41/a01661.html#a71c9edff7d630e15fff711b8eb0a130c", [

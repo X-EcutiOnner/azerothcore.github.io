@@ -1,8 +1,8 @@
 var a09352 =
 [
-    [ "CreatureWorker", "dd/d33/a09352.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "dd/d33/a09352.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "dd/d33/a09352.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "dd/d33/a09352.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "dd/d33/a09352.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "CreatureListSearcher", "dd/d33/a09352.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
+    [ "Visit", "dd/d33/a09352.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
+    [ "Visit", "dd/d33/a09352.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
+    [ "i_check", "dd/d33/a09352.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
+    [ "i_phaseMask", "dd/d33/a09352.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
 ];

@@ -1,12 +1,6 @@
 var a23420 =
 [
-    [ "boss_leotheras_the_blind", "da/d97/a23420.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "da/d97/a23420.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "da/d97/a23420.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "da/d97/a23420.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "da/d97/a23420.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "da/d97/a23420.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "da/d97/a23420.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "da/d97/a23420.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "da/d97/a23420.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "HandleScriptEffect", "da/d97/a23420.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "da/d97/a23420.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "da/d97/a23420.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

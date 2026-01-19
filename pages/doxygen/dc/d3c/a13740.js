@@ -1,7 +1,6 @@
 var a13740 =
 [
-    [ "HandleAfterCast", "dc/d3c/a13740.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "dc/d3c/a13740.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "dc/d3c/a13740.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "dc/d3c/a13740.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d3/d4e/a13744.html", "d3/d4e/a13744" ],
+    [ "instance_sunwell_plateau", "dc/d3c/a13740.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "dc/d3c/a13740.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

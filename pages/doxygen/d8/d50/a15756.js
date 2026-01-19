@@ -1,6 +1,6 @@
 var a15756 =
 [
-    [ "npc_great_bear_spirit", "d8/d50/a15756.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d8/d50/a15756.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d8/d50/a15756.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "HandleDummy", "d8/d50/a15756.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "d8/d50/a15756.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d8/d50/a15756.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

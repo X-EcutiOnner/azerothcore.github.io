@@ -1,6 +1,6 @@
 var a21544 =
 [
-    [ "npc_erekem_guardAI", "d2/d92/a21548.html", "d2/d92/a21548" ],
-    [ "npc_erekem_guard", "de/dd8/a21544.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "de/dd8/a21544.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "boss_erekemAI", "d2/d92/a21548.html", "d2/d92/a21548" ],
+    [ "boss_erekem", "de/dd8/a21544.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "de/dd8/a21544.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

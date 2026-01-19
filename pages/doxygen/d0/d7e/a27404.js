@@ -1,9 +1,11 @@
 var a27404 =
 [
-    [ "emerald_dragonAI", "d0/d7e/a27404.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d0/d7e/a27404.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d0/d7e/a27404.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d0/d7e/a27404.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d0/d7e/a27404.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d0/d7e/a27404.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "npc_dream_fogAI", "d0/d7e/a27404.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d0/d7e/a27404.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d0/d7e/a27404.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d0/d7e/a27404.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d0/d7e/a27404.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "d0/d7e/a27404.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d0/d7e/a27404.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d0/d7e/a27404.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

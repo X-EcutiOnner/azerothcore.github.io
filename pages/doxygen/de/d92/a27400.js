@@ -1,6 +1,6 @@
 var a27400 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "de/d92/a27400.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "de/d92/a27400.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "de/d92/a27400.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "npc_dream_fogAI", "d0/d7e/a27404.html", "d0/d7e/a27404" ],
+    [ "npc_dream_fog", "de/d92/a27400.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "de/d92/a27400.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

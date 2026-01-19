@@ -1,6 +1,6 @@
 var a26180 =
 [
-    [ "PrepareSpellScript", "d0/d95/a26180.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "d0/d95/a26180.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "d0/d95/a26180.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "HandleScriptEffect", "d0/d95/a26180.html#a14df2ed73118826254a6ffa923063f6c", null ],
+    [ "PrepareSpellScript", "d0/d95/a26180.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
+    [ "Register", "d0/d95/a26180.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
 ];

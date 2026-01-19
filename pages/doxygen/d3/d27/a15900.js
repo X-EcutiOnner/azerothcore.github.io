@@ -1,7 +1,7 @@
 var a15900 =
 [
-    [ "npc_giltharesAI", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
-    [ "npc_gilthares", "d3/d27/a15900.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d3/d27/a15900.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d3/d27/a15900.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_toogaAI", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
+    [ "npc_tooga", "d3/d27/a15900.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d3/d27/a15900.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d3/d27/a15900.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

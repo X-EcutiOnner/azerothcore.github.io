@@ -1,7 +1,5 @@
 var a20296 =
 [
-    [ "boss_freya_lifebinderAI", "df/d07/a20296.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "df/d07/a20296.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "df/d07/a20296.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "df/d07/a20296.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_freya_iron_rootAI", "df/d07/a20296.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "df/d07/a20296.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

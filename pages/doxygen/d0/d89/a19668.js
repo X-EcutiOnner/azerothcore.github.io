@@ -1,6 +1,6 @@
 var a19668 =
 [
-    [ "boss_varosAI", "df/df6/a19672.html", "df/df6/a19672" ],
-    [ "boss_varos", "d0/d89/a19668.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d0/d89/a19668.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "boss_uromAI", "df/df6/a19672.html", "df/df6/a19672" ],
+    [ "boss_urom", "d0/d89/a19668.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "d0/d89/a19668.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

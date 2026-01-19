@@ -1,5 +1,12 @@
 var a16108 =
 [
-    [ "achievement_volunteer_work", "dd/d4a/a16108.html#a43db6e553b370f139ac376840fdf6d70", null ],
-    [ "OnCheck", "dd/d4a/a16108.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
+    [ "npc_twilight_volunteer", "dd/d4a/a16108.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "dd/d4a/a16108.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "dd/d4a/a16108.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "dd/d4a/a16108.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "dd/d4a/a16108.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "dd/d4a/a16108.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "dd/d4a/a16108.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "dd/d4a/a16108.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "dd/d4a/a16108.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

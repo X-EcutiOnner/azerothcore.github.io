@@ -1,8 +1,6 @@
 var a19940 =
 [
-    [ "HandlePeriodic", "df/d78/a19940.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "df/d78/a19940.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "df/d78/a19940.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "df/d78/a19940.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "df/d78/a19940.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "go_celestial_planetarium_accessAI", "d2/d18/a19944.html", "d2/d18/a19944" ],
+    [ "go_celestial_planetarium_access", "df/d78/a19940.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "df/d78/a19940.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

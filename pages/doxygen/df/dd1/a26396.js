@@ -1,9 +1,6 @@
 var a26396 =
 [
-    [ "Load", "df/dd1/a26396.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "df/dd1/a26396.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "df/dd1/a26396.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "df/dd1/a26396.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "df/dd1/a26396.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "df/dd1/a26396.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "HandleEffectCalcSpellMod", "df/dd1/a26396.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "df/dd1/a26396.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "df/dd1/a26396.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

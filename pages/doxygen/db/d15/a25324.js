@@ -1,8 +1,6 @@
 var a25324 =
 [
-    [ "AchievementCredit", "db/d15/a25324.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "db/d15/a25324.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "db/d15/a25324.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "db/d15/a25324.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "db/d15/a25324.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "CalculateAmount", "db/d15/a25324.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "db/d15/a25324.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "db/d15/a25324.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

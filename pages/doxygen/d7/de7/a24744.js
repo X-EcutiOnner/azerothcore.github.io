@@ -1,6 +1,6 @@
 var a24744 =
 [
-    [ "CheckProc", "d7/de7/a24744.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
-    [ "PrepareAuraScript", "d7/de7/a24744.html#a0a6d4617ff3351411f4e13f53876db31", null ],
-    [ "Register", "d7/de7/a24744.html#a0e5d974111eeca075f38910223f5eaf4", null ]
+    [ "PrepareSpellScript", "d7/de7/a24744.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
+    [ "RecalculateDamage", "d7/de7/a24744.html#ab6a781160532d7cbb3bb3304eb412514", null ],
+    [ "Register", "d7/de7/a24744.html#a82395d00066e90abc58103b18a5ef4dc", null ]
 ];

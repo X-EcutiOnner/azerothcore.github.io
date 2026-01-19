@@ -1,6 +1,6 @@
 var a12356 =
 [
-    [ "npc_blackhand_incarceratorAI", "de/dc4/a12360.html", "de/dc4/a12360" ],
-    [ "npc_blackhand_incarcerator", "d2/dbc/a12356.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d2/dbc/a12356.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "boss_pyroguard_emberseerAI", "de/dc4/a12360.html", "de/dc4/a12360" ],
+    [ "boss_pyroguard_emberseer", "d2/dbc/a12356.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d2/dbc/a12356.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

@@ -1,8 +1,9 @@
 var a12812 =
 [
-    [ "npc_lava_spawn", "de/d9d/a12812.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "de/d9d/a12812.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "de/d9d/a12812.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "de/d9d/a12812.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "de/d9d/a12812.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "npc_mc_core_houndAI", "de/d9d/a12812.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "de/d9d/a12812.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "de/d9d/a12812.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "de/d9d/a12812.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "de/d9d/a12812.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "de/d9d/a12812.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

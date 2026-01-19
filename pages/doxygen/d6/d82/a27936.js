@@ -1,6 +1,6 @@
 var a27936 =
 [
-    [ "npc_spring_rabbitAI", "d4/ded/a27940.html", "d4/ded/a27940" ],
-    [ "npc_spring_rabbit", "d6/d82/a27936.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d6/d82/a27936.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_stable_masterAI", "d4/ded/a27940.html", "d4/ded/a27940" ],
+    [ "npc_stable_master", "d6/d82/a27936.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d6/d82/a27936.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

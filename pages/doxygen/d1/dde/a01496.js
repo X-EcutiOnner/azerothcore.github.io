@@ -1,6 +1,6 @@
 var a01496 =
 [
-    [ "AccountScript", "d8/d7f/a10292.html", "d8/d7f/a10292" ],
+    [ "AccountScript", "db/def/a10296.html", "db/def/a10296" ],
     [ "AccountHook", "d1/dde/a01496.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
       [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "d1/dde/a01496.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
       [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "d1/dde/a01496.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],

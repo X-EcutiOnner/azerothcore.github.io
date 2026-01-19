@@ -1,8 +1,8 @@
 var a00005 =
 [
-    [ "UnitBaseEvent", "d2/d55/a07932.html", "d2/d55/a07932" ],
-    [ "ThreatRefStatusChangeEvent", "d7/dfe/a07936.html", "d7/dfe/a07936" ],
-    [ "ThreatMgrEvent", "d4/d8b/a07944.html", "d4/d8b/a07944" ],
+    [ "UnitBaseEvent", "d7/dfe/a07936.html", "d7/dfe/a07936" ],
+    [ "ThreatRefStatusChangeEvent", "d9/d37/a07940.html", "d9/d37/a07940" ],
+    [ "ThreatMgrEvent", "d1/d89/a07948.html", "d1/d89/a07948" ],
     [ "UEV_ALL_EVENT_MASK", "dd/dad/a00005.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
     [ "UEV_THREAT_MANAGER_EVENT_MASK", "dd/dad/a00005.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
     [ "UEV_THREAT_REF_EVENT_MASK", "dd/dad/a00005.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],

@@ -1,5 +1,6 @@
 var a12256 =
 [
-    [ "boss_high_priestess_thaurissan", "d9/dd7/a12256.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "d9/dd7/a12256.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "boss_high_priestess_thaurissanAI", "d9/dd7/a12256.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "d9/dd7/a12256.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "d9/dd7/a12256.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

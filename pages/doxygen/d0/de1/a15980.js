@@ -1,14 +1,10 @@
 var a15980 =
 [
-    [ "npc_ringoAI", "d0/de1/a15980.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d0/de1/a15980.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d0/de1/a15980.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d0/de1/a15980.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d0/de1/a15980.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d0/de1/a15980.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d0/de1/a15980.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d0/de1/a15980.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d0/de1/a15980.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d0/de1/a15980.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d0/de1/a15980.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_ameAI", "d0/de1/a15980.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d0/de1/a15980.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d0/de1/a15980.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d0/de1/a15980.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d0/de1/a15980.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d0/de1/a15980.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d0/de1/a15980.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

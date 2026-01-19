@@ -1,6 +1,14 @@
 var a13472 =
 [
-    [ "instance_stratholme_InstanceMapScript", "d0/d9d/a13476.html", "d0/d9d/a13476" ],
-    [ "instance_stratholme", "d6/d9b/a13472.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "d6/d9b/a13472.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "boss_jarien", "d6/d9b/a13472.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
+    [ "DoAction", "d6/d9b/a13472.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
+    [ "IsSummonedBy", "d6/d9b/a13472.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
+    [ "JustDied", "d6/d9b/a13472.html#a418380b56f3432b5aec84737012f4693", null ],
+    [ "JustEngagedWith", "d6/d9b/a13472.html#ab6590cf6626a12e804520b2cde84a93e", null ],
+    [ "Reset", "d6/d9b/a13472.html#ac85ca96b42aa5115500bd24454f84209", null ],
+    [ "UpdateAI", "d6/d9b/a13472.html#acf7157ec7af7356beddc8a2429177b95", null ],
+    [ "_phase", "d6/d9b/a13472.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
+    [ "_scheduler", "d6/d9b/a13472.html#abce9540798dbae1026d1c74bfeb111a6", null ],
+    [ "_sothosDied", "d6/d9b/a13472.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
+    [ "_talked", "d6/d9b/a13472.html#ae0c943c970990b055ebc8c31d81a7198", null ]
 ];

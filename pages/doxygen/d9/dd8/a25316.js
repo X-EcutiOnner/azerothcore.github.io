@@ -1,6 +1,8 @@
 var a25316 =
 [
-    [ "HandleScriptEffect", "d9/dd8/a25316.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "d9/dd8/a25316.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "d9/dd8/a25316.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "AchievementCredit", "d9/dd8/a25316.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d9/dd8/a25316.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d9/dd8/a25316.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d9/dd8/a25316.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d9/dd8/a25316.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

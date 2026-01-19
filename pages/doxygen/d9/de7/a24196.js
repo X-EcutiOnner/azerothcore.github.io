@@ -1,6 +1,7 @@
 var a24196 =
 [
-    [ "npc_deaths_fel_cannonAI", "d5/dff/a24200.html", "d5/dff/a24200" ],
-    [ "npc_deaths_fel_cannon", "d9/de7/a24196.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d9/de7/a24196.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "OnPeriodic", "d9/de7/a24196.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d9/de7/a24196.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d9/de7/a24196.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d9/de7/a24196.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

@@ -1,5 +1,5 @@
 var a19144 =
 [
-    [ "at_icc_spire_frostwyrm", "dc/d53/a19144.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "dc/d53/a19144.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "at_icc_gauntlet_event", "dc/d53/a19144.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "dc/d53/a19144.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

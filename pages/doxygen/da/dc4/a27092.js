@@ -1,6 +1,6 @@
 var a27092 =
 [
-    [ "HandleScriptEffect", "da/dc4/a27092.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "da/dc4/a27092.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "da/dc4/a27092.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "FilterTargets", "da/dc4/a27092.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "da/dc4/a27092.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "da/dc4/a27092.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

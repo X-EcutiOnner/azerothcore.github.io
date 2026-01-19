@@ -1,6 +1,6 @@
 var a01298 =
 [
-    [ "GroupScript", "d1/d11/a10416.html", "d1/d11/a10416" ],
+    [ "GroupScript", "d3/d90/a10420.html", "d3/d90/a10420" ],
     [ "GroupHook", "d4/d34/a01298.html#a373b3fe6b402e8321892b8c1be74ab5d", [
       [ "GROUPHOOK_ON_ADD_MEMBER", "d4/d34/a01298.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
       [ "GROUPHOOK_ON_INVITE_MEMBER", "d4/d34/a01298.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
