@@ -1,11 +1,12 @@
 var a28532 =
 [
-    [ "ClassID", "dd/d4e/a28532.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "dd/d4e/a28532.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "dd/d4e/a28532.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "dd/d4e/a28532.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "dd/d4e/a28532.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "dd/d4e/a28532.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "dd/d4e/a28532.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "dd/d4e/a28532.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "CalendarFilterType", "dd/d4e/a28532.html#a082b59a0ead8223e590cbb371f3ad122", null ],
+    [ "CalendarFlags", "dd/d4e/a28532.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
+    [ "Date", "dd/d4e/a28532.html#ac5b08b086ef0668508ea9da48642e95b", null ],
+    [ "Duration", "dd/d4e/a28532.html#a10cae1b1fbb91930209a714c545b129b", null ],
+    [ "Id", "dd/d4e/a28532.html#a1119824959b87fb312209a998a5869b1", null ],
+    [ "Looping", "dd/d4e/a28532.html#afa2d93998650f88e62bfa76807961274", null ],
+    [ "Priority", "dd/d4e/a28532.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
+    [ "Region", "dd/d4e/a28532.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
+    [ "TextureFilename", "dd/d4e/a28532.html#a2209ecbb78f1f467491506cc97df57e4", null ]
 ];

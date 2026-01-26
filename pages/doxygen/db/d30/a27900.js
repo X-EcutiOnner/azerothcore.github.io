@@ -1,7 +1,8 @@
 var a27900 =
 [
-    [ "npc_wormholeAI", "db/d30/a27900.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "db/d30/a27900.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "db/d30/a27900.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "db/d30/a27900.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_wormholeAI", "d3/d62/a27904.html", "d3/d62/a27904" ],
+    [ "npc_wormhole", "db/d30/a27900.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "db/d30/a27900.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "db/d30/a27900.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "db/d30/a27900.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

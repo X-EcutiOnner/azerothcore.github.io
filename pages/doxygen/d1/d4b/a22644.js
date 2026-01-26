@@ -1,6 +1,7 @@
 var a22644 =
 [
-    [ "CheckCast", "d1/d4b/a22644.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d1/d4b/a22644.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d1/d4b/a22644.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandleScript", "d1/d4b/a22644.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "d1/d4b/a22644.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "d1/d4b/a22644.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "d1/d4b/a22644.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

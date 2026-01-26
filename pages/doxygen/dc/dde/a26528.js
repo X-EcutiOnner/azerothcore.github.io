@@ -1,8 +1,7 @@
 var a26528 =
 [
-    [ "HandleApplyEffect", "dc/dde/a26528.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "dc/dde/a26528.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "dc/dde/a26528.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "dc/dde/a26528.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "dc/dde/a26528.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "HandleHeal", "dc/dde/a26528.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "dc/dde/a26528.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "dc/dde/a26528.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "dc/dde/a26528.html#aa300822cf5455404482124a6853fb314", null ]
 ];

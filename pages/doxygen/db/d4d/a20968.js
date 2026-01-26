@@ -1,6 +1,9 @@
 var a20968 =
 [
-    [ "BoomEvent", "db/d4d/a20968.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "db/d4d/a20968.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "db/d4d/a20968.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "npc_xt002_pummellerAI", "db/d4d/a20968.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "db/d4d/a20968.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "db/d4d/a20968.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "db/d4d/a20968.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "db/d4d/a20968.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "db/d4d/a20968.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

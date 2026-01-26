@@ -1,7 +1,6 @@
 var a25264 =
 [
-    [ "HandleScript", "db/d3d/a25264.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "db/d3d/a25264.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "db/d3d/a25264.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "db/d3d/a25264.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "HandleScript", "db/d3d/a25264.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "db/d3d/a25264.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "db/d3d/a25264.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

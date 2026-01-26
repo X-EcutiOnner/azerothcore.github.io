@@ -1,7 +1,6 @@
 var a26608 =
 [
-    [ "CheckTarget", "d9/d5c/a26608.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d9/d5c/a26608.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d9/d5c/a26608.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d9/d5c/a26608.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleDummy", "d9/d5c/a26608.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "d9/d5c/a26608.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "d9/d5c/a26608.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

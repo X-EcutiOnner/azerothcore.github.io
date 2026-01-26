@@ -1,7 +1,6 @@
 var a27428 =
 [
-    [ "npc_spirit_shadeAI", "d5/db2/a27428.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d5/db2/a27428.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d5/db2/a27428.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d5/db2/a27428.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "npc_spirit_shadeAI", "d4/de3/a27432.html", "d4/de3/a27432" ],
+    [ "npc_spirit_shade", "d5/db2/a27428.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d5/db2/a27428.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

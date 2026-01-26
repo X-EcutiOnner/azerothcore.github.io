@@ -1,11 +1,6 @@
 var a24168 =
 [
-    [ "boss_pathaleon_the_calculator", "d0/dc5/a24168.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d0/dc5/a24168.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d0/dc5/a24168.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d0/dc5/a24168.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d0/dc5/a24168.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d0/dc5/a24168.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d0/dc5/a24168.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d0/dc5/a24168.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "HandlePeriodic", "d0/dc5/a24168.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d0/dc5/a24168.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d0/dc5/a24168.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

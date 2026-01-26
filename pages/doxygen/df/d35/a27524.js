@@ -1,7 +1,6 @@
 var a27524 =
 [
-    [ "go_bear_trapAI", "df/d35/a27524.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "df/d35/a27524.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "df/d35/a27524.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "df/d35/a27524.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_bear_trapAI", "de/da4/a27528.html", "de/da4/a27528" ],
+    [ "go_bear_trap", "df/d35/a27524.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "df/d35/a27524.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

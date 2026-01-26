@@ -1,6 +1,6 @@
 var a21112 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "db/db7/a21112.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
-    [ "DamageTaken", "db/db7/a21112.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
-    [ "JustDied", "db/db7/a21112.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "dc/d42/a21116.html", "dc/d42/a21116" ],
+    [ "boss_yoggsaron_influence_tentacle", "db/db7/a21112.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "db/db7/a21112.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

@@ -1,8 +1,7 @@
 var a24436 =
 [
-    [ "CreatureId", "d2/da8/a24436.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d2/da8/a24436.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d2/da8/a24436.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d2/da8/a24436.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d2/da8/a24436.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "o", "d2/da8/a24436.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d2/da8/a24436.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d2/da8/a24436.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d2/da8/a24436.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

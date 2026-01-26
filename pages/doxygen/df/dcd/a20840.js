@@ -1,11 +1,6 @@
 var a20840 =
 [
-    [ "boss_thorim_sifAI", "df/dcd/a20840.html#af63f344d3a5650baaa9b96204abc39a9", null ],
-    [ "AttackStart", "df/dcd/a20840.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
-    [ "DoAction", "df/dcd/a20840.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
-    [ "MoveInLineOfSight", "df/dcd/a20840.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
-    [ "Reset", "df/dcd/a20840.html#ab30d73613bafac5b92021677d69b3aae", null ],
-    [ "UpdateAI", "df/dcd/a20840.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
-    [ "_allowCast", "df/dcd/a20840.html#ade272764f09375d8e5fda937d42aad90", null ],
-    [ "events", "df/dcd/a20840.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
+    [ "boss_thorim_sifAI", "da/d23/a20844.html", "da/d23/a20844" ],
+    [ "boss_thorim_sif", "df/dcd/a20840.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
+    [ "GetAI", "df/dcd/a20840.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
 ];

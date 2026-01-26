@@ -1,6 +1,8 @@
 var a26416 =
 [
-    [ "CheckTarget", "de/dc4/a26416.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "de/dc4/a26416.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "de/dc4/a26416.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "Load", "de/dc4/a26416.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "de/dc4/a26416.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "de/dc4/a26416.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "de/dc4/a26416.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "de/dc4/a26416.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

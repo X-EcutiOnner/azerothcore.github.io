@@ -243,11 +243,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.SpellID);</div>
 <div class="line"><span class="lineno">   34</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(spell.Usable);</div>
 <div class="line"><span class="lineno">   35</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.MoneyCost);</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../d1/d21/a28816.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(spell.PointCost.data(), spell.PointCost.size());</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../d5/d43/a28820.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(spell.PointCost.data(), spell.PointCost.size());</div>
 <div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(spell.ReqLevel);</div>
 <div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.ReqSkillLine);</div>
 <div class="line"><span class="lineno">   39</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.ReqSkillRank);</div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../d1/d21/a28816.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(spell.ReqAbility.data(), spell.ReqAbility.size());</div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../d5/d43/a28820.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(spell.ReqAbility.data(), spell.ReqAbility.size());</div>
 <div class="line"><span class="lineno">   41</span>    }</div>
 <div class="line"><span class="lineno">   42</span> </div>
 <div class="line"><span class="lineno">   43</span>    <a class="code hl_variable" href="../../db/d25/a10544.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_variable" href="../../d2/d23/a11036.html#ad88c53405b38f276815e0f013ce5261f">Greeting</a>;</div>
@@ -261,7 +261,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa11036_html_a56a96a12b526f0e0cf89a6472c6a206b"><div class="ttname"><a href="../../d2/d23/a11036.html#a56a96a12b526f0e0cf89a6472c6a206b">WorldPackets::NPC::TrainerList::TrainerType</a></div><div class="ttdeci">int32 TrainerType</div><div class="ttdef"><b>Definition:</b> NPCPackets.h:63</div></div>
 <div class="ttc" id="aa11036_html_ab5e93d6c38efd311c701401ec03f7958"><div class="ttname"><a href="../../d2/d23/a11036.html#ab5e93d6c38efd311c701401ec03f7958">WorldPackets::NPC::TrainerList::TrainerGUID</a></div><div class="ttdeci">ObjectGuid TrainerGUID</div><div class="ttdef"><b>Definition:</b> NPCPackets.h:62</div></div>
 <div class="ttc" id="aa11036_html_ad88c53405b38f276815e0f013ce5261f"><div class="ttname"><a href="../../d2/d23/a11036.html#ad88c53405b38f276815e0f013ce5261f">WorldPackets::NPC::TrainerList::Greeting</a></div><div class="ttdeci">std::string Greeting</div><div class="ttdef"><b>Definition:</b> NPCPackets.h:65</div></div>
-<div class="ttc" id="aa28816_html_a5811e6da355e8c3d0f45997a557a666b"><div class="ttname"><a href="../../d1/d21/a28816.html#a5811e6da355e8c3d0f45997a557a666b">ByteBuffer::append</a></div><div class="ttdeci">void append(T value)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:129</div></div>
+<div class="ttc" id="aa28820_html_a5811e6da355e8c3d0f45997a557a666b"><div class="ttname"><a href="../../d5/d43/a28820.html#a5811e6da355e8c3d0f45997a557a666b">ByteBuffer::append</a></div><div class="ttdeci">void append(T value)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:129</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00037">Trainer::Trainer::SendSpells()</a>.</p>
 
@@ -338,7 +338,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d10/a04885.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../df/d8c/a04904.html">NPC</a></li><li class="navelem"><a class="el" href="../../d2/d23/a11036.html">TrainerList</a></li>
-    <li class="footer">Generated on Mon Jan 19 2026 20:52:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 26 2026 20:59:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

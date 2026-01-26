@@ -1,6 +1,5 @@
 var a27636 =
 [
-    [ "go_amberpine_outhouse", "d7/da6/a27636.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d7/da6/a27636.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d7/da6/a27636.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_dragonflayer_cage", "d7/da6/a27636.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d7/da6/a27636.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

@@ -1,11 +1,6 @@
 var a24480 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d6/da8/a24480.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "d6/da8/a24480.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "d6/da8/a24480.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "d6/da8/a24480.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "d6/da8/a24480.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "d6/da8/a24480.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "d6/da8/a24480.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "d6/da8/a24480.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "da/d92/a24484.html", "da/d92/a24484" ],
+    [ "npc_shadowmoon_tuber_node", "d6/da8/a24480.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d6/da8/a24480.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

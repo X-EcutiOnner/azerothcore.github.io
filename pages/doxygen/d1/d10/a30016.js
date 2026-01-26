@@ -1,4 +1,4 @@
 var a30016 =
 [
-    [ "ID", "d1/d10/a30016.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "gOpenArchives", "d1/d10/a30016.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
 ];

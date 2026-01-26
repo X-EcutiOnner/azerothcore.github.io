@@ -1,6 +1,6 @@
 var a20000 =
 [
-    [ "boss_runemaster_molgeimAI", "d8/d65/a20004.html", "d8/d65/a20004" ],
-    [ "boss_runemaster_molgeim", "d9/d70/a20000.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "d9/d70/a20000.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "CastRunesEvent", "d9/d70/a20000.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d9/d70/a20000.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d9/d70/a20000.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

@@ -1,7 +1,7 @@
 var a03164 =
 [
-    [ "boss_varos", "d2/dc5/a19676.html", "d2/dc5/a19676" ],
-    [ "boss_varos::boss_varosAI", "d9/d76/a19680.html", "d9/d76/a19680" ],
+    [ "boss_varos", "d9/d76/a19680.html", "d9/d76/a19680" ],
+    [ "boss_varos::boss_varosAI", "d1/d19/a19684.html", "d1/d19/a19684" ],
     [ "Events", "d8/dec/a03164.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

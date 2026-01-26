@@ -1,6 +1,9 @@
 var a20144 =
 [
-    [ "npc_pool_of_tarAI", "dd/d79/a20148.html", "dd/d79/a20148" ],
-    [ "npc_pool_of_tar", "d6/d35/a20144.html#a9c585318b4507babe77b3ba758b06a87", null ],
-    [ "GetAI", "d6/d35/a20144.html#ae77bf48a72ce49f821085f32127e91dc", null ]
+    [ "npc_thorims_hammerAI", "d6/d35/a20144.html#aafda36c8d784252d271ef031ab6a3d34", null ],
+    [ "Reset", "d6/d35/a20144.html#a57975d0dc00c86946e547ba43c7151ec", null ],
+    [ "UpdateAI", "d6/d35/a20144.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
+    [ "_beamTimer", "d6/d35/a20144.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
+    [ "_finishTime", "d6/d35/a20144.html#a218bd28d18a2c2f0aef6906619437209", null ],
+    [ "_removeTimer", "d6/d35/a20144.html#a958e4c975d1ae634745107af7d204f82", null ]
 ];

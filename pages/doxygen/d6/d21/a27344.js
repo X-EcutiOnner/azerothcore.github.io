@@ -1,5 +1,5 @@
 var a27344 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d6/d21/a27344.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d6/d21/a27344.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d6/d21/a27344.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d6/d21/a27344.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

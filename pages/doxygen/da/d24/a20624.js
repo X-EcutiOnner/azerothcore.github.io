@@ -1,5 +1,5 @@
 var a20624 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "da/d24/a20624.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "da/d24/a20624.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "achievement_kologarn_looks_could_kill", "da/d24/a20624.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "da/d24/a20624.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

@@ -1,9 +1,6 @@
 var a24276 =
 [
-    [ "npc_fel_guard_houndAI", "d7/df1/a24276.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d7/df1/a24276.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d7/df1/a24276.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d7/df1/a24276.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d7/df1/a24276.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d7/df1/a24276.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_fel_guard_houndAI", "df/d96/a24280.html", "df/d96/a24280" ],
+    [ "npc_fel_guard_hound", "d7/df1/a24276.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d7/df1/a24276.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

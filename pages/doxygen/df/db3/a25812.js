@@ -1,7 +1,8 @@
 var a25812 =
 [
-    [ "HandleJump", "df/db3/a25812.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "df/db3/a25812.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "df/db3/a25812.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "df/db3/a25812.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "OnApply", "df/db3/a25812.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "df/db3/a25812.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "df/db3/a25812.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "df/db3/a25812.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "df/db3/a25812.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

@@ -1,7 +1,6 @@
 var a24212 =
 [
-    [ "npc_daranelleAI", "d9/d18/a24212.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d9/d18/a24212.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d9/d18/a24212.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d9/d18/a24212.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_daranelleAI", "d3/d51/a24216.html", "d3/d51/a24216" ],
+    [ "npc_daranelle", "d9/d18/a24212.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d9/d18/a24212.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

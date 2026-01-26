@@ -1,14 +1,8 @@
 var a29983 =
 [
-    [ "ConfigEnvTest", "d5/dfb/a28812.html", "d5/dfb/a28812" ],
-    [ "CreateConfigWithMap", "df/d4c/a29983.html#a9239326ecbf694576c285ae8b4245e7e", null ],
-    [ "TEST_F", "df/d4c/a29983.html#a94c823774c857d4e496d49e57fc81ec7", null ],
-    [ "TEST_F", "df/d4c/a29983.html#a7b3e2d5178272c45ffc59b429efb470b", null ],
-    [ "TEST_F", "df/d4c/a29983.html#a405895a1a3d48885bc76d0cd476ef18e", null ],
-    [ "TEST_F", "df/d4c/a29983.html#a78acdeb7f8d994b9bea8032b95492f55", null ],
-    [ "TEST_F", "df/d4c/a29983.html#ad6d9eb985ed7e700cdc58e66caf1832c", null ],
-    [ "TEST_F", "df/d4c/a29983.html#ab2a3d3e7561c71ed4adc32ff482bc6c8", null ],
-    [ "TEST_F", "df/d4c/a29983.html#a2b2a3a2a1f46aa789759315c29d5af6c", null ],
-    [ "TEST_F", "df/d4c/a29983.html#ae31e3b13342d4ea071f29961ab4a1775", null ],
-    [ "TEST_F", "df/d4c/a29983.html#aabed1171286f2b1b05cc4380a00c5df7", null ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "df/d4c/a29983.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "df/d4c/a29983.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "df/d4c/a29983.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "df/d4c/a29983.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "df/d4c/a29983.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

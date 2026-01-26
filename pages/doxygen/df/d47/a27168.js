@@ -1,8 +1,7 @@
 var a27168 =
 [
-    [ "AfterCheckProc", "df/d47/a27168.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
-    [ "HandleProc", "df/d47/a27168.html#ac24bde081e118b347a3cad6832cd96da", null ],
-    [ "PrepareAuraScript", "df/d47/a27168.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
-    [ "Register", "df/d47/a27168.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
-    [ "Validate", "df/d47/a27168.html#aecc372443f71834aaeab97ba77757e2a", null ]
+    [ "CalculateAmount", "df/d47/a27168.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "df/d47/a27168.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "df/d47/a27168.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "df/d47/a27168.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

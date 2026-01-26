@@ -1,5 +1,6 @@
 var a24060 =
 [
-    [ "npc_telonicus", "d6/d94/a24060.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d6/d94/a24060.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "npc_capernian", "d6/d94/a24060.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d6/d94/a24060.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d6/d94/a24060.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

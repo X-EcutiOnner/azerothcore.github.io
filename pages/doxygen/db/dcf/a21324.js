@@ -1,6 +1,14 @@
 var a21324 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d9/d14/a21328.html", "d9/d14/a21328" ],
-    [ "instance_utgarde_keep", "db/dcf/a21324.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "db/dcf/a21324.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "boss_dalronn_the_controller", "db/dcf/a21324.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "db/dcf/a21324.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "db/dcf/a21324.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "db/dcf/a21324.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "db/dcf/a21324.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "db/dcf/a21324.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "db/dcf/a21324.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "db/dcf/a21324.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "db/dcf/a21324.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "db/dcf/a21324.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "db/dcf/a21324.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

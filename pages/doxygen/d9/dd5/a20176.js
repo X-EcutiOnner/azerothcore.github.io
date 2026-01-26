@@ -1,6 +1,7 @@
 var a20176 =
 [
-    [ "npc_mechanoliftAI", "d0/d54/a20180.html", "d0/d54/a20180" ],
-    [ "npc_mechanolift", "d9/dd5/a20176.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "d9/dd5/a20176.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d9/dd5/a20176.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "d9/dd5/a20176.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "d9/dd5/a20176.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "d9/dd5/a20176.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

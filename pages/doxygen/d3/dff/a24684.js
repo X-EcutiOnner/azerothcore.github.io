@@ -1,9 +1,5 @@
 var a24684 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d3/dff/a24684.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d3/dff/a24684.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d3/dff/a24684.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d3/dff/a24684.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d3/dff/a24684.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d3/dff/a24684.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_pet_pri_lightwell", "d3/dff/a24684.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "d3/dff/a24684.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

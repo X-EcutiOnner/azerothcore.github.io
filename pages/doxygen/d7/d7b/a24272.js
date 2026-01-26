@@ -1,6 +1,9 @@
 var a24272 =
 [
-    [ "npc_fel_guard_houndAI", "d7/df1/a24276.html", "d7/df1/a24276" ],
-    [ "npc_fel_guard_hound", "d7/d7b/a24272.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d7/d7b/a24272.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d7b/a24272.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d7/d7b/a24272.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d7/d7b/a24272.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d7/d7b/a24272.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d7/d7b/a24272.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d7/d7b/a24272.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

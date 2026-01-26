@@ -1,6 +1,5 @@
 var a20564 =
 [
-    [ "boss_kologarnAI", "d3/db6/a20568.html", "d3/db6/a20568" ],
-    [ "boss_kologarn", "df/d1c/a20564.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "df/d1c/a20564.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "achievement_ignis_shattered", "df/d1c/a20564.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "df/d1c/a20564.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

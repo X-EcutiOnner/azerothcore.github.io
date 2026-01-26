@@ -1,6 +1,6 @@
 var a21008 =
 [
-    [ "OnRemove", "d2/d12/a21008.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d2/d12/a21008.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d2/d12/a21008.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "PrepareSpellScript", "d2/d12/a21008.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "d2/d12/a21008.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "d2/d12/a21008.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

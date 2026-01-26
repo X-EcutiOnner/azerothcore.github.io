@@ -1,6 +1,7 @@
 var a26404 =
 [
-    [ "FilterTargets", "d9/db1/a26404.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "d9/db1/a26404.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "d9/db1/a26404.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "OnProc", "d9/db1/a26404.html#a304fd48cc79d3e7371212632d276b2ff", null ],
+    [ "PrepareAuraScript", "d9/db1/a26404.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
+    [ "Register", "d9/db1/a26404.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
+    [ "Validate", "d9/db1/a26404.html#adc217147d7c150d66dad4d3e922cff96", null ]
 ];

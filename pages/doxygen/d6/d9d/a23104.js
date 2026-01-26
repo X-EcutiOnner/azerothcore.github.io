@@ -1,6 +1,7 @@
 var a23104 =
 [
-    [ "PrepareAuraScript", "d6/d9d/a23104.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d6/d9d/a23104.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d6/d9d/a23104.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "PrepareAuraScript", "d6/d9d/a23104.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d6/d9d/a23104.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d6/d9d/a23104.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d6/d9d/a23104.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

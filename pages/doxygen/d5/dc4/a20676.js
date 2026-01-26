@@ -1,6 +1,6 @@
 var a20676 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d2/da6/a20680.html", "d2/da6/a20680" ],
-    [ "npc_ulduar_mimiron_rocket", "d5/dc4/a20676.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
-    [ "GetAI", "d5/dc4/a20676.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
+    [ "HandleDamage", "d5/dc4/a20676.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d5/dc4/a20676.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d5/dc4/a20676.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

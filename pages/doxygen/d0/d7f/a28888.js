@@ -1,6 +1,12 @@
 var a28888 =
 [
-    [ "ExpectDate", "d0/d7f/a28888.html#a98d1b0446f1db9a0e25ad93b40d7d7a0", null ],
-    [ "IsLeapYear", "d0/d7f/a28888.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "d0/d7f/a28888.html#af1ee91196bfb749605bf98f4441a03a4", null ]
+    [ "ApplyGmVisibleState", "d0/d7f/a28888.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "d0/d7f/a28888.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "d0/d7f/a28888.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "d0/d7f/a28888.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "d0/d7f/a28888.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d0/d7f/a28888.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d0/d7f/a28888.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d0/d7f/a28888.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d0/d7f/a28888.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

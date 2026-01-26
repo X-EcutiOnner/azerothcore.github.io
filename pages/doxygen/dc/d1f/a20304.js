@@ -1,7 +1,6 @@
 var a20304 =
 [
-    [ "boss_freya_lifebinderAI", "dc/d1f/a20304.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "dc/d1f/a20304.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "dc/d1f/a20304.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "dc/d1f/a20304.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_freya_lifebinderAI", "da/d79/a20308.html", "da/d79/a20308" ],
+    [ "boss_freya_lifebinder", "dc/d1f/a20304.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
+    [ "GetAI", "dc/d1f/a20304.html#a978e4472a080f0fc53848abaa305cd77", null ]
 ];

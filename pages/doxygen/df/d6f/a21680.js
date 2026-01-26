@@ -1,6 +1,8 @@
 var a21680 =
 [
-    [ "npc_azure_stalkerAI", "d0/ddb/a21684.html", "d0/ddb/a21684" ],
-    [ "npc_azure_stalker", "df/d6f/a21680.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "df/d6f/a21680.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "npc_azure_raiderAI", "df/d6f/a21680.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "df/d6f/a21680.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "df/d6f/a21680.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "df/d6f/a21680.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "df/d6f/a21680.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

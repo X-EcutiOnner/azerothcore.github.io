@@ -1,6 +1,18 @@
 var a21444 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "d9/d0e/a21448.html", "d9/d0e/a21448" ],
-    [ "instance_utgarde_pinnacle", "dc/dd7/a21444.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "dc/dd7/a21444.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "boss_ymironAI", "dc/dd7/a21444.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
+    [ "EnterEvadeMode", "dc/dd7/a21444.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
+    [ "JustDied", "dc/dd7/a21444.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
+    [ "JustEngagedWith", "dc/dd7/a21444.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
+    [ "KilledUnit", "dc/dd7/a21444.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
+    [ "MovementInform", "dc/dd7/a21444.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
+    [ "Reset", "dc/dd7/a21444.html#a2b6619a51641a82109e98fd4decd22e3", null ],
+    [ "SpellHitTarget", "dc/dd7/a21444.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
+    [ "UpdateAI", "dc/dd7/a21444.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
+    [ "BoatNum", "dc/dd7/a21444.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
+    [ "BoatOrder", "dc/dd7/a21444.html#a319095910309b0a78d321c4d33994542", null ],
+    [ "events", "dc/dd7/a21444.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
+    [ "pInstance", "dc/dd7/a21444.html#a115529fcbc5a0c8b57152be49915d575", null ],
+    [ "summons", "dc/dd7/a21444.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
+    [ "summons2", "dc/dd7/a21444.html#aa82280ec0e02924d653b62298ed7e471", null ]
 ];

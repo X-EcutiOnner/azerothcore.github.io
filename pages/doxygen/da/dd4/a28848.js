@@ -1,5 +1,11 @@
 var a28848 =
 [
-    [ "type", "da/dd4/a28848.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "da/dd4/a28848.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "IsAvailable", "da/dd4/a28848.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "da/dd4/a28848.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "da/dd4/a28848.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "da/dd4/a28848.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "da/dd4/a28848.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "da/dd4/a28848.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "da/dd4/a28848.html#a107c7a3e4756cc5b286c536e26c5dc27", null ],
+    [ "value", "da/dd4/a28848.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

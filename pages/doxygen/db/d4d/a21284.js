@@ -1,6 +1,13 @@
 var a21284 =
 [
-    [ "HandleEffectPeriodic", "db/d4d/a21284.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "db/d4d/a21284.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "db/d4d/a21284.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "db/d4d/a21284.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
+    [ "AttackStart", "db/d4d/a21284.html#aed91dafbc50a785875b8b41c5e328d73", null ],
+    [ "DamageTaken", "db/d4d/a21284.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
+    [ "EnterEvadeMode", "db/d4d/a21284.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
+    [ "OnCharmed", "db/d4d/a21284.html#ae268a425326efbea1282ce116ff76e3f", null ],
+    [ "PassengerBoarded", "db/d4d/a21284.html#a83409607638100fddd229829ee2bea40", null ],
+    [ "Reset", "db/d4d/a21284.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
+    [ "UpdateAI", "db/d4d/a21284.html#ac10669fddd193d583ecead8ed37879b3", null ],
+    [ "_spawnedMechanic", "db/d4d/a21284.html#a2db3016e32b4e77724fea98d605eaa59", null ],
+    [ "events", "db/d4d/a21284.html#ac61064ee3e22b476a35dce4564f65882", null ]
 ];

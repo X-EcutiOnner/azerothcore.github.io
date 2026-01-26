@@ -134,6 +134,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a28f68795fb4f5028f3e2c768eb829450"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a11f12d1e6ca795bd7aef0deebaefe05a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d7c/a07916.html">HostileReference</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2e/a07920.html#a11f12d1e6ca795bd7aef0deebaefe05a">SelectNextVictim</a> (<a class="el" href="../../d9/d93/a08084.html">Creature</a> *attacker, <a class="el" href="../../dc/d7c/a07916.html">HostileReference</a> *currentVictim) const</td></tr>
 <tr class="separator:a11f12d1e6ca795bd7aef0deebaefe05a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33a691aba4def422a67bdc8453211e8e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d7c/a07916.html">HostileReference</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2e/a07920.html#a33a691aba4def422a67bdc8453211e8e">SelectNextVictimTieBreaker</a> (<a class="el" href="../../d9/d93/a08084.html">Creature</a> *attacker, ThreatContainer::StorageType::const_iterator currentIter, bool noPriorityTargetFound) const</td></tr>
+<tr class="separator:a33a691aba4def422a67bdc8453211e8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c471a8d7c30591a3609f98ca645f5d0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2e/a07920.html#a3c471a8d7c30591a3609f98ca645f5d0">IsPreferredTarget</a> (<a class="el" href="../../d9/d93/a08084.html">Creature</a> *attacker, <a class="el" href="../../d4/d58/a08836.html">Unit</a> *target) const</td></tr>
+<tr class="separator:a3c471a8d7c30591a3609f98ca645f5d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a097b94f1de5825c738cd312674e16751"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2e/a07920.html#a097b94f1de5825c738cd312674e16751">setDirty</a> (bool <a class="el" href="../../dc/d2e/a07920.html#a759b5599133b30d1b60f08fbde32e380">isDirty</a>)</td></tr>
 <tr class="separator:a097b94f1de5825c738cd312674e16751"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a759b5599133b30d1b60f08fbde32e380"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2e/a07920.html#a759b5599133b30d1b60f08fbde32e380">isDirty</a> () const</td></tr>
@@ -267,14 +271,14 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  185</span>    {</div>
-<div class="line"><span class="lineno">  186</span>        <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.push_back(hostileRef);</div>
-<div class="line"><span class="lineno">  187</span>    }</div>
-<div class="ttc" id="aa07920_html_a81f66d85664dd65b06aa8412bca69db2"><div class="ttname"><a href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">ThreatContainer::iThreatList</a></div><div class="ttdeci">StorageType iThreatList</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:194</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  189</span>    {</div>
+<div class="line"><span class="lineno">  190</span>        <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.push_back(hostileRef);</div>
+<div class="line"><span class="lineno">  191</span>    }</div>
+<div class="ttc" id="aa07920_html_a81f66d85664dd65b06aa8412bca69db2"><div class="ttname"><a href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">ThreatContainer::iThreatList</a></div><div class="ttdeci">StorageType iThreatList</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:198</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00488">ThreatMgr::_addThreat()</a>, and <a class="el" href="../../#l00585">ThreatMgr::processThreatEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00553">ThreatMgr::_addThreat()</a>, and <a class="el" href="../../#l00650">ThreatMgr::processThreatEvent()</a>.</p>
 
 </div>
 </div>
@@ -315,7 +319,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00138">HostileReference::AddThreat()</a>, and <a class="el" href="../../#l00261">getReferenceByTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00488">ThreatMgr::_addThreat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00553">ThreatMgr::_addThreat()</a>.</p>
 
 </div>
 </div>
@@ -351,9 +355,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  256</span>    <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.clear();</div>
 <div class="line"><span class="lineno">  257</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00426">ThreatMgr::clearReferences()</a>, and <a class="el" href="../../#l00151">~ThreatContainer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00491">ThreatMgr::clearReferences()</a>, and <a class="el" href="../../#l00151">~ThreatContainer()</a>.</p>
 
 </div>
 </div>
@@ -379,13 +383,13 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  164</span>    {</div>
-<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.empty();</div>
-<div class="line"><span class="lineno">  166</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  168</span>    {</div>
+<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.empty();</div>
+<div class="line"><span class="lineno">  170</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00225">ThreatMgr::areThreatListsEmpty()</a>, <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>, and <a class="el" href="../../#l00224">ThreatMgr::isThreatListEmpty()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00229">ThreatMgr::areThreatListsEmpty()</a>, <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>, and <a class="el" href="../../#l00228">ThreatMgr::isThreatListEmpty()</a>.</p>
 
 </div>
 </div>
@@ -411,11 +415,11 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  169</span>    {</div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.empty() ? nullptr : <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.front();</div>
-<div class="line"><span class="lineno">  171</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  173</span>    {</div>
+<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.empty() ? nullptr : <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.front();</div>
+<div class="line"><span class="lineno">  175</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>.</p>
 
@@ -450,7 +454,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  281</span>}</div>
 <div class="ttc" id="aa07916_html_a0588a24578dfe8351b8c3bd62a0c1324"><div class="ttname"><a href="../../dc/d7c/a07916.html#a0588a24578dfe8351b8c3bd62a0c1324">HostileReference::getUnitGuid</a></div><div class="ttdeci">ObjectGuid getUnitGuid() const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:106</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00106">HostileReference::getUnitGuid()</a>, and <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00106">HostileReference::getUnitGuid()</a>, and <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
 </div>
 </div>
@@ -478,7 +482,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00261">getReferenceByTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00286">AddThreat()</a>, <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>, <a class="el" href="../../#l00279">ThreatMgr::FindReference()</a>, <a class="el" href="../../#l00261">getReferenceByTarget()</a>, <a class="el" href="../../#l00525">ThreatMgr::GetThreat()</a>, <a class="el" href="../../#l00538">ThreatMgr::getThreatWithoutTemp()</a>, <a class="el" href="../../#l00296">ModifyThreatByPercent()</a>, <a class="el" href="../../#l00234">boss_priestess_lackey_commonAI::RecalculateThreat()</a>, <a class="el" href="../../#l00104">boss_faction_championsAI::RecalculateThreat()</a>, <a class="el" href="../../#l00551">ThreatMgr::tauntApply()</a>, and <a class="el" href="../../#l00563">ThreatMgr::tauntFadeOut()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00286">AddThreat()</a>, <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>, <a class="el" href="../../#l00283">ThreatMgr::FindReference()</a>, <a class="el" href="../../#l00261">getReferenceByTarget()</a>, <a class="el" href="../../#l00590">ThreatMgr::GetThreat()</a>, <a class="el" href="../../#l00603">ThreatMgr::getThreatWithoutTemp()</a>, <a class="el" href="../../#l00296">ModifyThreatByPercent()</a>, <a class="el" href="../../#l00234">boss_priestess_lackey_commonAI::RecalculateThreat()</a>, <a class="el" href="../../#l00104">boss_faction_championsAI::RecalculateThreat()</a>, <a class="el" href="../../#l00616">ThreatMgr::tauntApply()</a>, and <a class="el" href="../../#l00628">ThreatMgr::tauntFadeOut()</a>.</p>
 
 </div>
 </div>
@@ -504,11 +508,11 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  176</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  180</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00082">boss_hazzarah::CanAIAttack()</a>, <a class="el" href="../../#l00079">boss_renataki::boss_renatakiAI::CanAIAttack()</a>, <a class="el" href="../../#l00274">ThreatMgr::GetOfflineThreatList()</a>, <a class="el" href="../../#l00227">ThreatMgr::GetSortedThreatList()</a>, and <a class="el" href="../../#l00273">ThreatMgr::GetThreatList()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00082">boss_hazzarah::CanAIAttack()</a>, <a class="el" href="../../#l00079">boss_renataki::boss_renatakiAI::CanAIAttack()</a>, <a class="el" href="../../#l00278">ThreatMgr::GetOfflineThreatList()</a>, <a class="el" href="../../#l00231">ThreatMgr::GetSortedThreatList()</a>, and <a class="el" href="../../#l00277">ThreatMgr::GetThreatList()</a>.</p>
 
 </div>
 </div>
@@ -534,12 +538,68 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  161</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">iDirty</a>; }</div>
-<div class="ttc" id="aa07920_html_a8b99e743d8fd4a5f51965c924eff75a9"><div class="ttname"><a href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">ThreatContainer::iDirty</a></div><div class="ttdeci">bool iDirty</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:195</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  165</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">iDirty</a>; }</div>
+<div class="ttc" id="aa07920_html_a8b99e743d8fd4a5f51965c924eff75a9"><div class="ttname"><a href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">ThreatContainer::iDirty</a></div><div class="ttdeci">bool iDirty</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00195">iDirty</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00199">iDirty</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00159">setDirty()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00163">setDirty()</a>.</p>
+
+</div>
+</div>
+<a id="a3c471a8d7c30591a3609f98ca645f5d0" name="a3c471a8d7c30591a3609f98ca645f5d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c471a8d7c30591a3609f98ca645f5d0">&#9670;&#160;</a></span>IsPreferredTarget()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ThreatContainer::IsPreferredTarget </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d93/a08084.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>attacker</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d58/a08836.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>target</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  458</span>{</div>
+<div class="line"><span class="lineno">  459</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ae7269683ec5b0e44c3ee49bd6f896615">IsImmunedToDamageOrSchool</a>(attacker-&gt;<a class="code hl_function" href="../../d9/d93/a08084.html#ab1fe599b19bd33530f5bba414fb41cfd">GetMeleeDamageSchoolMask</a>()))</div>
+<div class="line"><span class="lineno">  460</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  461</span> </div>
+<div class="line"><span class="lineno">  462</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a1bbfd6ed9dbd8e094278548724b129e4">HasNegativeAuraWithInterruptFlag</a>(<a class="code hl_enumvalue" href="../../de/d76/a00134.html#a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>))</div>
+<div class="line"><span class="lineno">  463</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  464</span> </div>
+<div class="line"><span class="lineno">  465</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a>))</div>
+<div class="line"><span class="lineno">  466</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  467</span> </div>
+<div class="line"><span class="lineno">  468</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a628ce74c6a509b58212931f024be837f">HasAuraTypeWithCaster</a>(<a class="code hl_enumvalue" href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee">SPELL_AURA_IGNORED</a>, attacker-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
+<div class="line"><span class="lineno">  469</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  470</span> </div>
+<div class="line"><span class="lineno">  471</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  472</span>}</div>
+<div class="ttc" id="aa00116_html_a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee"><div class="ttname"><a href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee">SPELL_AURA_IGNORED</a></div><div class="ttdeci">@ SPELL_AURA_IGNORED</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:284</div></div>
+<div class="ttc" id="aa00134_html_a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a"><div class="ttname"><a href="../../de/d76/a00134.html#a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a></div><div class="ttdeci">@ AURA_INTERRUPT_FLAG_TAKE_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:44</div></div>
+<div class="ttc" id="aa00881_html_ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0"><div class="ttname"><a href="../../df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a></div><div class="ttdeci">@ UNIT_STATE_CONFUSED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:181</div></div>
+<div class="ttc" id="aa08084_html_ab1fe599b19bd33530f5bba414fb41cfd"><div class="ttname"><a href="../../d9/d93/a08084.html#ab1fe599b19bd33530f5bba414fb41cfd">Creature::GetMeleeDamageSchoolMask</a></div><div class="ttdeci">SpellSchoolMask GetMeleeDamageSchoolMask(WeaponAttackType=BASE_ATTACK, uint8=0) const override</div><div class="ttdef"><b>Definition:</b> Creature.h:163</div></div>
+<div class="ttc" id="aa08452_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../de/d33/a08452.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
+<div class="ttc" id="aa08836_html_a1bbfd6ed9dbd8e094278548724b129e4"><div class="ttname"><a href="../../d4/d58/a08836.html#a1bbfd6ed9dbd8e094278548724b129e4">Unit::HasNegativeAuraWithInterruptFlag</a></div><div class="ttdeci">bool HasNegativeAuraWithInterruptFlag(uint32 flag, ObjectGuid guid=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5915</div></div>
+<div class="ttc" id="aa08836_html_a628ce74c6a509b58212931f024be837f"><div class="ttname"><a href="../../d4/d58/a08836.html#a628ce74c6a509b58212931f024be837f">Unit::HasAuraTypeWithCaster</a></div><div class="ttdeci">bool HasAuraTypeWithCaster(AuraType auratype, ObjectGuid caster) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5856</div></div>
+<div class="ttc" id="aa08836_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d4/d58/a08836.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:726</div></div>
+<div class="ttc" id="aa08836_html_ae7269683ec5b0e44c3ee49bd6f896615"><div class="ttname"><a href="../../d4/d58/a08836.html#ae7269683ec5b0e44c3ee49bd6f896615">Unit::IsImmunedToDamageOrSchool</a></div><div class="ttdeci">bool IsImmunedToDamageOrSchool(SpellSchoolMask meleeSchoolMask) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13071</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00044">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00163">Creature::GetMeleeDamageSchoolMask()</a>, <a class="el" href="../../#l05856">Unit::HasAuraTypeWithCaster()</a>, <a class="el" href="../../#l05915">Unit::HasNegativeAuraWithInterruptFlag()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l13071">Unit::IsImmunedToDamageOrSchool()</a>, <a class="el" href="../../#l00284">SPELL_AURA_IGNORED</a>, and <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00317">SelectNextVictim()</a>, and <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>.</p>
 
 </div>
 </div>
@@ -575,7 +635,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00261">getReferenceByTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00508">ThreatMgr::ModifyThreatByPercent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00573">ThreatMgr::ModifyThreatByPercent()</a>.</p>
 
 </div>
 </div>
@@ -602,13 +662,13 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  180</span>    {</div>
-<div class="line"><span class="lineno">  181</span>        <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.remove(hostileRef);</div>
-<div class="line"><span class="lineno">  182</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  184</span>    {</div>
+<div class="line"><span class="lineno">  185</span>        <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.remove(hostileRef);</div>
+<div class="line"><span class="lineno">  186</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00585">ThreatMgr::processThreatEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00650">ThreatMgr::processThreatEvent()</a>.</p>
 
 </div>
 </div>
@@ -650,7 +710,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  328</span>        <a class="code hl_class" href="../../d4/d58/a08836.html">Unit</a>* cvUnit = currentVictim-&gt;<a class="code hl_function" href="../../d6/d72/a05308.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>();</div>
 <div class="line"><span class="lineno">  329</span>        <span class="keywordflow">if</span> (!attacker-&gt;<a class="code hl_function" href="../../d9/d93/a08084.html#a42cd2388a23189619d6c0f8131040132">CanCreatureAttack</a>(cvUnit)) <span class="comment">// pussywizard: if currentVictim is not valid =&gt; don&#39;t compare the threat with it, just take the highest threat valid target</span></div>
 <div class="line"><span class="lineno">  330</span>            currentVictim = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (cvUnit-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ae7269683ec5b0e44c3ee49bd6f896615">IsImmunedToDamageOrSchool</a>(attacker-&gt;<a class="code hl_function" href="../../d9/d93/a08084.html#ab1fe599b19bd33530f5bba414fb41cfd">GetMeleeDamageSchoolMask</a>()) || cvUnit-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a1bbfd6ed9dbd8e094278548724b129e4">HasNegativeAuraWithInterruptFlag</a>(<a class="code hl_enumvalue" href="../../de/d76/a00134.html#a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>) || cvUnit-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a>)) <span class="comment">// pussywizard: no 10%/30% if currentVictim is immune to damage or has auras breakable by damage</span></div>
+<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d2e/a07920.html#a3c471a8d7c30591a3609f98ca645f5d0">IsPreferredTarget</a>(attacker, cvUnit)) <span class="comment">// pussywizard: no 10%/30% if currentVictim is immune to damage or has auras breakable by damage</span></div>
 <div class="line"><span class="lineno">  332</span>            currentVictim = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  333</span>    }</div>
 <div class="line"><span class="lineno">  334</span> </div>
@@ -667,7 +727,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  345</span> </div>
 <div class="line"><span class="lineno">  346</span>        <span class="comment">// pussywizard: don&#39;t go to threat comparison if this ref is immune to damage or has aura breakable on damage (second choice target)</span></div>
 <div class="line"><span class="lineno">  347</span>        <span class="comment">// pussywizard: if this is the last entry on the threat list, then all targets are second choice, set bool to true and loop threat list again, ignoring this section</span></div>
-<div class="line"><span class="lineno">  348</span>        <span class="keywordflow">if</span> (!noPriorityTargetFound &amp;&amp; (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ae7269683ec5b0e44c3ee49bd6f896615">IsImmunedToDamageOrSchool</a>(attacker-&gt;<a class="code hl_function" href="../../d9/d93/a08084.html#ab1fe599b19bd33530f5bba414fb41cfd">GetMeleeDamageSchoolMask</a>()) || target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a1bbfd6ed9dbd8e094278548724b129e4">HasNegativeAuraWithInterruptFlag</a>(<a class="code hl_enumvalue" href="../../de/d76/a00134.html#a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>) || target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a>) || target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a628ce74c6a509b58212931f024be837f">HasAuraTypeWithCaster</a>(<a class="code hl_enumvalue" href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee">SPELL_AURA_IGNORED</a>, attacker-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())))</div>
+<div class="line"><span class="lineno">  348</span>        <span class="keywordflow">if</span> (!noPriorityTargetFound &amp;&amp; !<a class="code hl_function" href="../../dc/d2e/a07920.html#a3c471a8d7c30591a3609f98ca645f5d0">IsPreferredTarget</a>(attacker, target))</div>
 <div class="line"><span class="lineno">  349</span>        {</div>
 <div class="line"><span class="lineno">  350</span>            <span class="keywordflow">if</span> (iter != lastRef)</div>
 <div class="line"><span class="lineno">  351</span>            {</div>
@@ -716,36 +776,112 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  394</span>            }</div>
 <div class="line"><span class="lineno">  395</span>            <span class="keywordflow">else</span> <span class="comment">// pussywizard: no currentVictim, first passing all checks is chosen (highest threat, list is sorted)</span></div>
 <div class="line"><span class="lineno">  396</span>            {</div>
-<div class="line"><span class="lineno">  397</span>                found = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  398</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  399</span>            }</div>
-<div class="line"><span class="lineno">  400</span>        }</div>
-<div class="line"><span class="lineno">  401</span>        ++iter;</div>
-<div class="line"><span class="lineno">  402</span>    }</div>
-<div class="line"><span class="lineno">  403</span>    <span class="keywordflow">if</span> (!found)</div>
-<div class="line"><span class="lineno">  404</span>        currentRef = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  405</span> </div>
-<div class="line"><span class="lineno">  406</span>    <span class="keywordflow">return</span> currentRef;</div>
-<div class="line"><span class="lineno">  407</span>}</div>
-<div class="ttc" id="aa00116_html_a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee"><div class="ttname"><a href="../../d4/d3e/a00116.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee">SPELL_AURA_IGNORED</a></div><div class="ttdeci">@ SPELL_AURA_IGNORED</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:284</div></div>
-<div class="ttc" id="aa00134_html_a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a"><div class="ttname"><a href="../../de/d76/a00134.html#a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a></div><div class="ttdeci">@ AURA_INTERRUPT_FLAG_TAKE_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:44</div></div>
-<div class="ttc" id="aa00881_html_ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0"><div class="ttname"><a href="../../df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a></div><div class="ttdeci">@ UNIT_STATE_CONFUSED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:181</div></div>
+<div class="line"><span class="lineno">  397</span>                <span class="comment">// tie-breaker if multiple targets have the same threat: select closest target</span></div>
+<div class="line"><span class="lineno">  398</span>                currentRef = <a class="code hl_function" href="../../dc/d2e/a07920.html#a33a691aba4def422a67bdc8453211e8e">SelectNextVictimTieBreaker</a>(attacker, iter, noPriorityTargetFound);</div>
+<div class="line"><span class="lineno">  399</span>                found = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  400</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  401</span>            }</div>
+<div class="line"><span class="lineno">  402</span>        }</div>
+<div class="line"><span class="lineno">  403</span>        ++iter;</div>
+<div class="line"><span class="lineno">  404</span>    }</div>
+<div class="line"><span class="lineno">  405</span>    <span class="keywordflow">if</span> (!found)</div>
+<div class="line"><span class="lineno">  406</span>        currentRef = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  407</span> </div>
+<div class="line"><span class="lineno">  408</span>    <span class="keywordflow">return</span> currentRef;</div>
+<div class="line"><span class="lineno">  409</span>}</div>
 <div class="ttc" id="aa04568_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dd/d7a/a04568.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa05308_html_a0c80169399d27b402ff3ad97305cd337"><div class="ttname"><a href="../../d6/d72/a05308.html#a0c80169399d27b402ff3ad97305cd337">Reference::getTarget</a></div><div class="ttdeci">TO * getTarget() const</div><div class="ttdef"><b>Definition:</b> Reference.h:95</div></div>
 <div class="ttc" id="aa07916_html_a01a3eea64dc3132bc463a0f701800d76"><div class="ttname"><a href="../../dc/d7c/a07916.html#a01a3eea64dc3132bc463a0f701800d76">HostileReference::GetThreat</a></div><div class="ttdeci">float GetThreat() const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:62</div></div>
+<div class="ttc" id="aa07920_html_a33a691aba4def422a67bdc8453211e8e"><div class="ttname"><a href="../../dc/d2e/a07920.html#a33a691aba4def422a67bdc8453211e8e">ThreatContainer::SelectNextVictimTieBreaker</a></div><div class="ttdeci">HostileReference * SelectNextVictimTieBreaker(Creature *attacker, ThreatContainer::StorageType::const_iterator currentIter, bool noPriorityTargetFound) const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.cpp:412</div></div>
+<div class="ttc" id="aa07920_html_a3c471a8d7c30591a3609f98ca645f5d0"><div class="ttname"><a href="../../dc/d2e/a07920.html#a3c471a8d7c30591a3609f98ca645f5d0">ThreatContainer::IsPreferredTarget</a></div><div class="ttdeci">bool IsPreferredTarget(Creature *attacker, Unit *target) const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.cpp:457</div></div>
 <div class="ttc" id="aa08084_html_a42cd2388a23189619d6c0f8131040132"><div class="ttname"><a href="../../d9/d93/a08084.html#a42cd2388a23189619d6c0f8131040132">Creature::CanCreatureAttack</a></div><div class="ttdeci">bool CanCreatureAttack(Unit const *victim, bool skipDistCheck=false) const</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2583</div></div>
-<div class="ttc" id="aa08084_html_ab1fe599b19bd33530f5bba414fb41cfd"><div class="ttname"><a href="../../d9/d93/a08084.html#ab1fe599b19bd33530f5bba414fb41cfd">Creature::GetMeleeDamageSchoolMask</a></div><div class="ttdeci">SpellSchoolMask GetMeleeDamageSchoolMask(WeaponAttackType=BASE_ATTACK, uint8=0) const override</div><div class="ttdef"><b>Definition:</b> Creature.h:163</div></div>
-<div class="ttc" id="aa08452_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../de/d33/a08452.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
 <div class="ttc" id="aa08836_html"><div class="ttname"><a href="../../d4/d58/a08836.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
-<div class="ttc" id="aa08836_html_a1bbfd6ed9dbd8e094278548724b129e4"><div class="ttname"><a href="../../d4/d58/a08836.html#a1bbfd6ed9dbd8e094278548724b129e4">Unit::HasNegativeAuraWithInterruptFlag</a></div><div class="ttdeci">bool HasNegativeAuraWithInterruptFlag(uint32 flag, ObjectGuid guid=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5915</div></div>
-<div class="ttc" id="aa08836_html_a628ce74c6a509b58212931f024be837f"><div class="ttname"><a href="../../d4/d58/a08836.html#a628ce74c6a509b58212931f024be837f">Unit::HasAuraTypeWithCaster</a></div><div class="ttdeci">bool HasAuraTypeWithCaster(AuraType auratype, ObjectGuid caster) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5856</div></div>
 <div class="ttc" id="aa08836_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../d4/d58/a08836.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:665</div></div>
-<div class="ttc" id="aa08836_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d4/d58/a08836.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:726</div></div>
-<div class="ttc" id="aa08836_html_ae7269683ec5b0e44c3ee49bd6f896615"><div class="ttname"><a href="../../d4/d58/a08836.html#ae7269683ec5b0e44c3ee49bd6f896615">Unit::IsImmunedToDamageOrSchool</a></div><div class="ttdeci">bool IsImmunedToDamageOrSchool(SpellSchoolMask meleeSchoolMask) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13071</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00044">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>, <a class="el" href="../../#l02583">Creature::CanCreatureAttack()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00163">Creature::GetMeleeDamageSchoolMask()</a>, <a class="el" href="../../#l00095">Reference&lt; TO, FROM &gt;::getTarget()</a>, <a class="el" href="../../#l00062">HostileReference::GetThreat()</a>, <a class="el" href="../../#l05856">Unit::HasAuraTypeWithCaster()</a>, <a class="el" href="../../#l05915">Unit::HasNegativeAuraWithInterruptFlag()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l13071">Unit::IsImmunedToDamageOrSchool()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00194">iThreatList</a>, <a class="el" href="../../#l00284">SPELL_AURA_IGNORED</a>, and <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l02583">Creature::CanCreatureAttack()</a>, <a class="el" href="../../#l00095">Reference&lt; TO, FROM &gt;::getTarget()</a>, <a class="el" href="../../#l00062">HostileReference::GetThreat()</a>, <a class="el" href="../../#l00457">IsPreferredTarget()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00198">iThreatList</a>, and <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00515">ThreatMgr::getHostileTarget()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00580">ThreatMgr::getHostileTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a33a691aba4def422a67bdc8453211e8e" name="a33a691aba4def422a67bdc8453211e8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33a691aba4def422a67bdc8453211e8e">&#9670;&#160;</a></span>SelectNextVictimTieBreaker()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d7c/a07916.html">HostileReference</a> * ThreatContainer::SelectNextVictimTieBreaker </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d93/a08084.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>attacker</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ThreatContainer::StorageType::const_iterator&#160;</td>
+          <td class="paramname"><em>currentIter</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>noPriorityTargetFound</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  413</span>{</div>
+<div class="line"><span class="lineno">  414</span>    <a class="code hl_class" href="../../dc/d7c/a07916.html">HostileReference</a>* bestRef = *currentIter;</div>
+<div class="line"><span class="lineno">  415</span>    <span class="keywordtype">float</span> bestThreat = bestRef-&gt;<a class="code hl_function" href="../../dc/d7c/a07916.html#a01a3eea64dc3132bc463a0f701800d76">GetThreat</a>();</div>
+<div class="line"><span class="lineno">  416</span>    <span class="keywordtype">float</span> shortestDistSq = attacker-&gt;<a class="code hl_function" href="../../d6/d96/a08536.html#afbbbf953e0cc505fbc596ff7cee17be0">GetExactDistSq</a>(bestRef-&gt;<a class="code hl_function" href="../../d6/d72/a05308.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>());</div>
+<div class="line"><span class="lineno">  417</span> </div>
+<div class="line"><span class="lineno">  418</span>    <span class="keyword">auto</span> tieIter = std::next(currentIter);</div>
+<div class="line"><span class="lineno">  419</span> </div>
+<div class="line"><span class="lineno">  420</span>    <span class="keywordflow">while</span> (tieIter != <a class="code hl_variable" href="../../dc/d2e/a07920.html#a81f66d85664dd65b06aa8412bca69db2">iThreatList</a>.end())</div>
+<div class="line"><span class="lineno">  421</span>    {</div>
+<div class="line"><span class="lineno">  422</span>        <a class="code hl_class" href="../../dc/d7c/a07916.html">HostileReference</a>* nextRef = *tieIter;</div>
+<div class="line"><span class="lineno">  423</span> </div>
+<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (!nextRef)</div>
+<div class="line"><span class="lineno">  425</span>        {</div>
+<div class="line"><span class="lineno">  426</span>            ++tieIter;</div>
+<div class="line"><span class="lineno">  427</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  428</span>        }</div>
+<div class="line"><span class="lineno">  429</span> </div>
+<div class="line"><span class="lineno">  430</span>        <span class="comment">// Threatlist is sorted, so we can stop as soon as we find a lower threat</span></div>
+<div class="line"><span class="lineno">  431</span>        <span class="keywordflow">if</span> (bestThreat - nextRef-&gt;<a class="code hl_function" href="../../dc/d7c/a07916.html#a01a3eea64dc3132bc463a0f701800d76">GetThreat</a>() &gt; 0.01f)</div>
+<div class="line"><span class="lineno">  432</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  433</span> </div>
+<div class="line"><span class="lineno">  434</span>        <a class="code hl_class" href="../../d4/d58/a08836.html">Unit</a>* target = nextRef-&gt;<a class="code hl_function" href="../../d6/d72/a05308.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>();</div>
+<div class="line"><span class="lineno">  435</span> </div>
+<div class="line"><span class="lineno">  436</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  437</span>        {</div>
+<div class="line"><span class="lineno">  438</span>            ++tieIter;</div>
+<div class="line"><span class="lineno">  439</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  440</span>        }</div>
+<div class="line"><span class="lineno">  441</span> </div>
+<div class="line"><span class="lineno">  442</span>        <span class="keywordflow">if</span> (attacker-&gt;<a class="code hl_function" href="../../d9/d93/a08084.html#a42cd2388a23189619d6c0f8131040132">CanCreatureAttack</a>(target) &amp;&amp; (noPriorityTargetFound || <a class="code hl_function" href="../../dc/d2e/a07920.html#a3c471a8d7c30591a3609f98ca645f5d0">IsPreferredTarget</a>(attacker, target)))</div>
+<div class="line"><span class="lineno">  443</span>        {</div>
+<div class="line"><span class="lineno">  444</span>            <span class="keywordtype">float</span> distSq = attacker-&gt;<a class="code hl_function" href="../../d6/d96/a08536.html#afbbbf953e0cc505fbc596ff7cee17be0">GetExactDistSq</a>(target);</div>
+<div class="line"><span class="lineno">  445</span>            <span class="keywordflow">if</span> (distSq &lt; shortestDistSq)</div>
+<div class="line"><span class="lineno">  446</span>            {</div>
+<div class="line"><span class="lineno">  447</span>                bestRef = nextRef;</div>
+<div class="line"><span class="lineno">  448</span>                shortestDistSq = distSq;</div>
+<div class="line"><span class="lineno">  449</span>            }</div>
+<div class="line"><span class="lineno">  450</span>        }</div>
+<div class="line"><span class="lineno">  451</span>        ++tieIter;</div>
+<div class="line"><span class="lineno">  452</span>    }</div>
+<div class="line"><span class="lineno">  453</span>    <span class="keywordflow">return</span> bestRef;</div>
+<div class="line"><span class="lineno">  454</span>}</div>
+<div class="ttc" id="aa08536_html_afbbbf953e0cc505fbc596ff7cee17be0"><div class="ttname"><a href="../../d6/d96/a08536.html#afbbbf953e0cc505fbc596ff7cee17be0">Position::GetExactDistSq</a></div><div class="ttdeci">float GetExactDistSq(float x, float y, float z) const</div><div class="ttdef"><b>Definition:</b> Position.h:174</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02583">Creature::CanCreatureAttack()</a>, <a class="el" href="../../#l00174">Position::GetExactDistSq()</a>, <a class="el" href="../../#l00095">Reference&lt; TO, FROM &gt;::getTarget()</a>, <a class="el" href="../../#l00062">HostileReference::GetThreat()</a>, <a class="el" href="../../#l00457">IsPreferredTarget()</a>, and <a class="el" href="../../#l00198">iThreatList</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00317">SelectNextVictim()</a>.</p>
 
 </div>
 </div>
@@ -772,12 +908,12 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  159</span>{ <a class="code hl_variable" href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">iDirty</a> = <a class="code hl_function" href="../../dc/d2e/a07920.html#a759b5599133b30d1b60f08fbde32e380">isDirty</a>; }</div>
-<div class="ttc" id="aa07920_html_a759b5599133b30d1b60f08fbde32e380"><div class="ttname"><a href="../../dc/d2e/a07920.html#a759b5599133b30d1b60f08fbde32e380">ThreatContainer::isDirty</a></div><div class="ttdeci">bool isDirty() const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:161</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  163</span>{ <a class="code hl_variable" href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">iDirty</a> = <a class="code hl_function" href="../../dc/d2e/a07920.html#a759b5599133b30d1b60f08fbde32e380">isDirty</a>; }</div>
+<div class="ttc" id="aa07920_html_a759b5599133b30d1b60f08fbde32e380"><div class="ttname"><a href="../../dc/d2e/a07920.html#a759b5599133b30d1b60f08fbde32e380">ThreatContainer::isDirty</a></div><div class="ttdeci">bool isDirty() const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00195">iDirty</a>, and <a class="el" href="../../#l00161">isDirty()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00199">iDirty</a>, and <a class="el" href="../../#l00165">isDirty()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00245">ThreatMgr::setDirty()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00249">ThreatMgr::setDirty()</a>.</p>
 
 </div>
 </div>
@@ -809,11 +945,11 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  309</span> </div>
 <div class="line"><span class="lineno">  310</span>    <a class="code hl_variable" href="../../dc/d2e/a07920.html#a8b99e743d8fd4a5f51965c924eff75a9">iDirty</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  311</span>}</div>
-<div class="ttc" id="aa07932_html"><div class="ttname"><a href="../../d2/d55/a07932.html">Acore::ThreatOrderPred</a></div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:320</div></div>
+<div class="ttc" id="aa07932_html"><div class="ttname"><a href="../../d2/d55/a07932.html">Acore::ThreatOrderPred</a></div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:324</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00195">iDirty</a>, and <a class="el" href="../../#l00194">iThreatList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00199">iDirty</a>, and <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00515">ThreatMgr::getHostileTarget()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00580">ThreatMgr::getHostileTarget()</a>.</p>
 
 </div>
 </div>
@@ -861,7 +997,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00161">isDirty()</a>, <a class="el" href="../../#l00159">setDirty()</a>, and <a class="el" href="../../#l00305">update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00165">isDirty()</a>, <a class="el" href="../../#l00163">setDirty()</a>, and <a class="el" href="../../#l00305">update()</a>.</p>
 
 </div>
 </div>
@@ -885,7 +1021,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00184">addReference()</a>, <a class="el" href="../../#l00248">clearReferences()</a>, <a class="el" href="../../#l00163">empty()</a>, <a class="el" href="../../#l00168">getMostHated()</a>, <a class="el" href="../../#l00269">getReferenceByTarget()</a>, <a class="el" href="../../#l00176">GetThreatList()</a>, <a class="el" href="../../#l00179">remove()</a>, <a class="el" href="../../#l00255">ThreatMgr::resetAggro()</a>, <a class="el" href="../../#l00651">ThreatMgr::ResetAllThreat()</a>, <a class="el" href="../../#l00317">SelectNextVictim()</a>, and <a class="el" href="../../#l00305">update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00188">addReference()</a>, <a class="el" href="../../#l00248">clearReferences()</a>, <a class="el" href="../../#l00167">empty()</a>, <a class="el" href="../../#l00172">getMostHated()</a>, <a class="el" href="../../#l00269">getReferenceByTarget()</a>, <a class="el" href="../../#l00180">GetThreatList()</a>, <a class="el" href="../../#l00183">remove()</a>, <a class="el" href="../../#l00259">ThreatMgr::resetAggro()</a>, <a class="el" href="../../#l00716">ThreatMgr::ResetAllThreat()</a>, <a class="el" href="../../#l00317">SelectNextVictim()</a>, <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>, and <a class="el" href="../../#l00305">update()</a>.</p>
 
 </div>
 </div>
@@ -895,7 +1031,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d2e/a07920.html">ThreatContainer</a></li>
-    <li class="footer">Generated on Mon Jan 19 2026 20:52:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 26 2026 20:59:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,8 @@
 var a23120 =
 [
-    [ "SuckBackEvent", "df/ded/a23120.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "df/ded/a23120.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "df/ded/a23120.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "df/ded/a23120.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "FilterTargets", "df/ded/a23120.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "df/ded/a23120.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "df/ded/a23120.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "df/ded/a23120.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "df/ded/a23120.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

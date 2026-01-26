@@ -1,6 +1,6 @@
 var a22072 =
 [
-    [ "npc_q24545_vegard_dummyAI", "de/df4/a22072.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "de/df4/a22072.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "de/df4/a22072.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_q24545_vegard_dummyAI", "d0/d68/a22076.html", "d0/d68/a22076" ],
+    [ "npc_q24545_vegard_dummy", "de/df4/a22072.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "de/df4/a22072.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

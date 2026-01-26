@@ -1,8 +1,7 @@
 var a24824 =
 [
-    [ "HandleDamage", "d7/d73/a24824.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d7/d73/a24824.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d7/d73/a24824.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d7/d73/a24824.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d7/d73/a24824.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "HandleDummy", "d7/d73/a24824.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "d7/d73/a24824.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "d7/d73/a24824.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "d7/d73/a24824.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

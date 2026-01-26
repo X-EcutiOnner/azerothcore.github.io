@@ -1,14 +1,6 @@
 var a21820 =
 [
-    [ "npc_hidden_cultistAI", "de/dcc/a21820.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "de/dcc/a21820.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "de/dcc/a21820.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "de/dcc/a21820.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "de/dcc/a21820.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "de/dcc/a21820.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "de/dcc/a21820.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "de/dcc/a21820.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "de/dcc/a21820.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "de/dcc/a21820.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "de/dcc/a21820.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "npc_hidden_cultistAI", "d4/d00/a21824.html", "d4/d00/a21824" ],
+    [ "npc_hidden_cultist", "de/dcc/a21820.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "de/dcc/a21820.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

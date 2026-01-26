@@ -1,7 +1,5 @@
 var a23196 =
 [
-    [ "npc_ashtongue_channeler", "de/d59/a23196.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "de/d59/a23196.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "de/d59/a23196.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "de/d59/a23196.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "npc_ashtongue_sorcerer", "de/d59/a23196.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "de/d59/a23196.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

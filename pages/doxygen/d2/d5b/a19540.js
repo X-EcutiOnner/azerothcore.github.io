@@ -1,6 +1,10 @@
 var a19540 =
 [
-    [ "npc_hover_diskAI", "d8/d18/a19544.html", "d8/d18/a19544" ],
-    [ "npc_hover_disk", "d2/d5b/a19540.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d2/d5b/a19540.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_scion_of_eternityAI", "d2/d5b/a19540.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d2/d5b/a19540.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d2/d5b/a19540.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d2/d5b/a19540.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d2/d5b/a19540.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d2/d5b/a19540.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d2/d5b/a19540.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

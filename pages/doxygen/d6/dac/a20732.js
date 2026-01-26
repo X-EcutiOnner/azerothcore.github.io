@@ -1,9 +1,6 @@
 var a20732 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d6/dac/a20732.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d6/dac/a20732.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d6/dac/a20732.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d6/dac/a20732.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d6/dac/a20732.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d6/dac/a20732.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "da/d22/a20736.html", "da/d22/a20736" ],
+    [ "npc_ulduar_emergency_fire_bot", "d6/dac/a20732.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
+    [ "GetAI", "d6/dac/a20732.html#afb3ab952495175c5f571d4e39a5acea4", null ]
 ];

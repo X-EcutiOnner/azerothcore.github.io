@@ -1,17 +1,7 @@
 var a28784 =
 [
-    [ "AcceptCallback", "da/d62/a28784.html#ae67025eb8e17fa2e21a31ef2c1126d3e", null ],
-    [ "AsyncAcceptor", "da/d62/a28784.html#ad7f6d43d134ef97e31061c43408c4c17", null ],
-    [ "AsyncAccept", "da/d62/a28784.html#a0d7a3371b14fa8eecbe30ff73e366398", null ],
-    [ "AsyncAcceptWithCallback", "da/d62/a28784.html#ae2443c046b245262497e407c9a5b7b3f", null ],
-    [ "Bind", "da/d62/a28784.html#a91c22b6aba05bc493cfaf28a9203ce84", null ],
-    [ "Close", "da/d62/a28784.html#a0ed31d03f8cdb38b1e359f3085e7ee29", null ],
-    [ "DefaultSocketFactory", "da/d62/a28784.html#aadf8a9dfb6c1c2acb5d3deb5ca6839e5", null ],
-    [ "SetSocketFactory", "da/d62/a28784.html#a1c36bf67a6bf2bda36eefca9ac2eb699", null ],
-    [ "_acceptor", "da/d62/a28784.html#acde256fa08ae9fc7b785d5b5038cb6ae", null ],
-    [ "_closed", "da/d62/a28784.html#a27230b467efdb08dbb9b0c0198db0936", null ],
-    [ "_endpoint", "da/d62/a28784.html#a2e120e7924841a5cc71ec57143ac47c9", null ],
-    [ "_socket", "da/d62/a28784.html#a6059f96aa17966e2480771340d3593db", null ],
-    [ "_socketFactory", "da/d62/a28784.html#a0384d4c9813757e0237d23ed1cca2c12", null ],
-    [ "_supportSocketActivation", "da/d62/a28784.html#ae5e66fec6b3a21263be2b87edd5d07dd", null ]
+    [ "TalentSpellPos", "da/d62/a28784.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "da/d62/a28784.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "da/d62/a28784.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "da/d62/a28784.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

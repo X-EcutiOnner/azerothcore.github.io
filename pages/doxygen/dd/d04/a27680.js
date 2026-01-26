@@ -1,5 +1,10 @@
 var a27680 =
 [
-    [ "item_only_for_flight", "dd/d04/a27680.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "dd/d04/a27680.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "guard_shattrath_aldorAI", "dd/d04/a27680.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "dd/d04/a27680.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "dd/d04/a27680.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "dd/d04/a27680.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "dd/d04/a27680.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "dd/d04/a27680.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "dd/d04/a27680.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

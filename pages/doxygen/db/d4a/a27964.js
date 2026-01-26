@@ -1,8 +1,5 @@
 var a27964 =
 [
-    [ "npc_traveler_mammoth_vendor", "db/d4a/a27964.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "db/d4a/a27964.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "db/d4a/a27964.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "db/d4a/a27964.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "db/d4a/a27964.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "npc_controller", "db/d4a/a27964.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "db/d4a/a27964.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

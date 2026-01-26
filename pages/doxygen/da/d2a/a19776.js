@@ -1,12 +1,12 @@
 var a19776 =
 [
-    [ "npc_spark_of_ionar", "da/d2a/a19776.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "da/d2a/a19776.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "da/d2a/a19776.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "da/d2a/a19776.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "da/d2a/a19776.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "da/d2a/a19776.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "da/d2a/a19776.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "da/d2a/a19776.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "da/d2a/a19776.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "boss_ionar", "da/d2a/a19776.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "da/d2a/a19776.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "da/d2a/a19776.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "da/d2a/a19776.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "da/d2a/a19776.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "da/d2a/a19776.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "da/d2a/a19776.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "da/d2a/a19776.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "da/d2a/a19776.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

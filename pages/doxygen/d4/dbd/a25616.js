@@ -1,5 +1,5 @@
 var a25616 =
 [
-    [ "PrepareSpellScript", "d4/dbd/a25616.html#aa07fade62e79ccc8ad969de44b886332", null ],
-    [ "Register", "d4/dbd/a25616.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
+    [ "PrepareSpellScript", "d4/dbd/a25616.html#af2a8cfb5f732691622b4c633f4dde253", null ],
+    [ "Register", "d4/dbd/a25616.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
 ];

@@ -1,9 +1,8 @@
 var a23272 =
 [
-    [ "HandleEffectApply", "d2/de9/a23272.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "d2/de9/a23272.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "d2/de9/a23272.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "d2/de9/a23272.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "d2/de9/a23272.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "d2/de9/a23272.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "instance_black_temple_InstanceMapScript", "d2/de9/a23272.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d2/de9/a23272.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d2/de9/a23272.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d2/de9/a23272.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d2/de9/a23272.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

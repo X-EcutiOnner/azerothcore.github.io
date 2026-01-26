@@ -1,6 +1,6 @@
 var a20972 =
 [
-    [ "npc_xt002_boombotAI", "d2/d62/a20976.html", "d2/d62/a20976" ],
-    [ "npc_xt002_boombot", "d6/da0/a20972.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "d6/da0/a20972.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "BoomEvent", "d6/da0/a20972.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "d6/da0/a20972.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "d6/da0/a20972.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

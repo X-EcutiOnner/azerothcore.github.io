@@ -1,7 +1,7 @@
 var a22588 =
 [
-    [ "npc_wg_demolisher_engineer", "df/d0a/a22588.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "df/d0a/a22588.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "df/d0a/a22588.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "df/d0a/a22588.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleScript", "df/d0a/a22588.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "df/d0a/a22588.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "df/d0a/a22588.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "df/d0a/a22588.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

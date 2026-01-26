@@ -1,6 +1,7 @@
 var a23124 =
 [
-    [ "boss_reliquary_of_soulsAI", "dc/d19/a23128.html", "dc/d19/a23128" ],
-    [ "boss_reliquary_of_souls", "d1/d37/a23124.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d1/d37/a23124.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "SuckBackEvent", "d1/d37/a23124.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d1/d37/a23124.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d1/d37/a23124.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d1/d37/a23124.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

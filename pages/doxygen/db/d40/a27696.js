@@ -1,5 +1,5 @@
 var a27696 =
 [
-    [ "item_petrov_cluster_bombs", "db/d40/a27696.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "db/d40/a27696.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "item_disgusting_jar", "db/d40/a27696.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "db/d40/a27696.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

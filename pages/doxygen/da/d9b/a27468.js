@@ -1,5 +1,9 @@
 var a27468 =
 [
-    [ "go_seer_of_zebhalak", "da/d9b/a27468.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "da/d9b/a27468.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "ChatLogScript", "da/d9b/a27468.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

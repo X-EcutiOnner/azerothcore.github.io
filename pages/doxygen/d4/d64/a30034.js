@@ -1,7 +1,6 @@
 var a30034 =
 [
-    [ "AllocationPct", "d4/d64/a30034.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d4/d64/a30034.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d4/d64/a30034.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d4/d64/a30034.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "ComputeBaseUnitDim", "d4/d64/a30034.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "isCurrentDirectory", "d4/d64/a30034.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "d4/d64/a30034.html#a45540263b1795bfc48c91a117c239a6c", null ]
 ];

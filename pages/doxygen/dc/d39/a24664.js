@@ -1,5 +1,8 @@
 var a24664 =
 [
-    [ "npc_pet_proto_drake_whelp", "dc/d39/a24664.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "dc/d39/a24664.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "npc_pet_darting_hatchling", "dc/d39/a24664.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "dc/d39/a24664.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "dc/d39/a24664.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "dc/d39/a24664.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "dc/d39/a24664.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

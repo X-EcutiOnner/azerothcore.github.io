@@ -1,10 +1,12 @@
 var a28416 =
 [
-    [ "HasFlag", "d0/d95/a28416.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d0/d95/a28416.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d0/d95/a28416.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d0/d95/a28416.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d0/d95/a28416.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d0/d95/a28416.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d0/d95/a28416.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "ID", "d0/d95/a28416.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "d0/d95/a28416.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "d0/d95/a28416.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "d0/d95/a28416.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "d0/d95/a28416.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "d0/d95/a28416.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "d0/d95/a28416.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "d0/d95/a28416.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "d0/d95/a28416.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

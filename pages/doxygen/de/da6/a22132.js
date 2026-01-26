@@ -1,7 +1,7 @@
 var a22132 =
 [
-    [ "npc_emilyAI", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
-    [ "npc_emily", "de/da6/a22132.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "de/da6/a22132.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "de/da6/a22132.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "OnRemove", "de/da6/a22132.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "de/da6/a22132.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "de/da6/a22132.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "de/da6/a22132.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

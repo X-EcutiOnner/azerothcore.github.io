@@ -1,6 +1,11 @@
 var a21620 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "df/dc7/a21624.html", "df/dc7/a21624" ],
-    [ "instance_violet_hold", "d4/df3/a21620.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d4/df3/a21620.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "npc_vh_void_sentryAI", "d4/df3/a21620.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d4/df3/a21620.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d4/df3/a21620.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d4/df3/a21620.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d4/df3/a21620.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d4/df3/a21620.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d4/df3/a21620.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d4/df3/a21620.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

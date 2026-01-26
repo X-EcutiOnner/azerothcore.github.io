@@ -1,6 +1,7 @@
 var a23292 =
 [
-    [ "PrepareAuraScript", "dc/d28/a23292.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "dc/d28/a23292.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "dc/d28/a23292.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleEffectRemove", "dc/d28/a23292.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "dc/d28/a23292.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "dc/d28/a23292.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "dc/d28/a23292.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

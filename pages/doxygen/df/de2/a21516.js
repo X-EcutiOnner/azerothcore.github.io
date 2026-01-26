@@ -1,8 +1,6 @@
 var a21516 =
 [
-    [ "npc_frozen_orbAI", "df/de2/a21516.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "df/de2/a21516.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "df/de2/a21516.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "df/de2/a21516.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "df/de2/a21516.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_frozen_orbAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
+    [ "npc_frozen_orb", "df/de2/a21516.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "df/de2/a21516.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

@@ -1,5 +1,6 @@
 var a27280 =
 [
-    [ "achievement_resilient_victory", "d9/d2b/a27280.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d9/d2b/a27280.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "AfterCheckProc", "d9/d2b/a27280.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "d9/d2b/a27280.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "d9/d2b/a27280.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

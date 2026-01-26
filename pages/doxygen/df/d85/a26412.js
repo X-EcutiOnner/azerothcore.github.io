@@ -1,8 +1,7 @@
 var a26412 =
 [
-    [ "Load", "df/d85/a26412.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "df/d85/a26412.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "df/d85/a26412.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "df/d85/a26412.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "df/d85/a26412.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleScriptEffect", "df/d85/a26412.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "df/d85/a26412.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "df/d85/a26412.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "df/d85/a26412.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

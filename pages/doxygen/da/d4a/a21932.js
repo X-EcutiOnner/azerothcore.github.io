@@ -1,6 +1,9 @@
 var a21932 =
 [
-    [ "npc_dalaran_mageAI", "d9/d57/a21936.html", "d9/d57/a21936" ],
-    [ "npc_dalaran_mage", "da/d4a/a21932.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "da/d4a/a21932.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_minigob_manabonk", "da/d4a/a21932.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "da/d4a/a21932.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "da/d4a/a21932.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "da/d4a/a21932.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "da/d4a/a21932.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "da/d4a/a21932.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

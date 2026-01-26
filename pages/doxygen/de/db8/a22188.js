@@ -1,7 +1,11 @@
 var a22188 =
 [
-    [ "HandleScript", "de/db8/a22188.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "de/db8/a22188.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "de/db8/a22188.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "de/db8/a22188.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_lake_frogAI", "de/db8/a22188.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "de/db8/a22188.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "de/db8/a22188.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "de/db8/a22188.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "de/db8/a22188.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "de/db8/a22188.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "de/db8/a22188.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "de/db8/a22188.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

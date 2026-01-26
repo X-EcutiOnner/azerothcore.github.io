@@ -1,12 +1,6 @@
 var a20976 =
 [
-    [ "npc_xt002_boombotAI", "d2/d62/a20976.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "d2/d62/a20976.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "d2/d62/a20976.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "d2/d62/a20976.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "d2/d62/a20976.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "d2/d62/a20976.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "d2/d62/a20976.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "d2/d62/a20976.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "d2/d62/a20976.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "npc_xt002_boombotAI", "d6/d11/a20980.html", "d6/d11/a20980" ],
+    [ "npc_xt002_boombot", "d2/d62/a20976.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "d2/d62/a20976.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

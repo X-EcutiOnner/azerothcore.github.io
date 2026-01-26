@@ -1,7 +1,9 @@
 var a26540 =
 [
-    [ "HandleApplyEffect", "db/d33/a26540.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "db/d33/a26540.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "db/d33/a26540.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "db/d33/a26540.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckProc", "db/d33/a26540.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "db/d33/a26540.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "db/d33/a26540.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "db/d33/a26540.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "db/d33/a26540.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "db/d33/a26540.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

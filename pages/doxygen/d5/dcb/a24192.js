@@ -1,6 +1,6 @@
 var a24192 =
 [
-    [ "npc_deaths_fel_cannonAI", "d5/dcb/a24192.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d5/dcb/a24192.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d5/dcb/a24192.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "npc_deaths_fel_cannonAI", "d9/de7/a24196.html", "d9/de7/a24196" ],
+    [ "npc_deaths_fel_cannon", "d5/dcb/a24192.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d5/dcb/a24192.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

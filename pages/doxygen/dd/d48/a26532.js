@@ -1,6 +1,8 @@
 var a26532 =
 [
-    [ "HandleDamage", "dd/d48/a26532.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "dd/d48/a26532.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "dd/d48/a26532.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleApplyEffect", "dd/d48/a26532.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "dd/d48/a26532.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "dd/d48/a26532.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "dd/d48/a26532.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "dd/d48/a26532.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

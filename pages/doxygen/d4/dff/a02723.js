@@ -1,8 +1,8 @@
 var a02723 =
 [
-    [ "boss_sapphiron", "d2/da8/a19428.html", "d2/da8/a19428" ],
-    [ "boss_sapphiron::boss_sapphironAI", "d2/da2/a19432.html", "d2/da2/a19432" ],
-    [ "spell_sapphiron_frost_explosion", "df/dc2/a19436.html", "df/dc2/a19436" ],
+    [ "boss_sapphiron", "d2/da2/a19432.html", "d2/da2/a19432" ],
+    [ "boss_sapphiron::boss_sapphironAI", "df/dc2/a19436.html", "df/dc2/a19436" ],
+    [ "spell_sapphiron_frost_explosion", "d9/dc6/a19440.html", "d9/dc6/a19440" ],
     [ "Events", "d4/dff/a02723.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

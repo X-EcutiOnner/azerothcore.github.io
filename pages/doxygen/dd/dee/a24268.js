@@ -1,9 +1,6 @@
 var a24268 =
 [
-    [ "npc_wounded_blood_elfAI", "dd/dee/a24268.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "dd/dee/a24268.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "dd/dee/a24268.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "dd/dee/a24268.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "dd/dee/a24268.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "dd/dee/a24268.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d7b/a24272.html", "d7/d7b/a24272" ],
+    [ "npc_wounded_blood_elf", "dd/dee/a24268.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "dd/dee/a24268.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

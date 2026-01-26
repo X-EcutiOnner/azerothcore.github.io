@@ -1,6 +1,8 @@
 var a21672 =
 [
-    [ "npc_azure_raiderAI", "d1/d94/a21676.html", "d1/d94/a21676" ],
-    [ "npc_azure_raider", "d7/df2/a21672.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "d7/df2/a21672.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_azure_mage_slayerAI", "d7/df2/a21672.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d7/df2/a21672.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d7/df2/a21672.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d7/df2/a21672.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d7/df2/a21672.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

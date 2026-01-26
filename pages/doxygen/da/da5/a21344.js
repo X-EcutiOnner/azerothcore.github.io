@@ -1,6 +1,7 @@
 var a21344 =
 [
-    [ "boss_palehoofAI", "d2/d10/a21348.html", "d2/d10/a21348" ],
-    [ "boss_palehoof", "da/da5/a21344.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "da/da5/a21344.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "HandleOnEffectRemove", "da/da5/a21344.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "da/da5/a21344.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "da/da5/a21344.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "da/da5/a21344.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

@@ -1,9 +1,6 @@
 var a27952 =
 [
-    [ "npc_arcanite_dragonling", "d9/ded/a27952.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "d9/ded/a27952.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "d9/ded/a27952.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "d9/ded/a27952.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "d9/ded/a27952.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "d9/ded/a27952.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "npc_venomhide_hatchlingAI", "d9/ded/a27952.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d9/ded/a27952.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d9/ded/a27952.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

@@ -1,6 +1,8 @@
 var a19632 =
 [
-    [ "instance_nexus_InstanceMapScript", "dc/d75/a19636.html", "dc/d75/a19636" ],
-    [ "instance_nexus", "da/d3b/a19632.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "da/d3b/a19632.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "npc_crystal_spike", "da/d3b/a19632.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "da/d3b/a19632.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "da/d3b/a19632.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "da/d3b/a19632.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "da/d3b/a19632.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

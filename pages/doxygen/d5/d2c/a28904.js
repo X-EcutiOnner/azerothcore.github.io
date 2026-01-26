@@ -1,16 +1,13 @@
 var a28904 =
 [
-    [ "Iterator", "d5/d2c/a28904.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "d5/d2c/a28904.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "d5/d2c/a28904.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "d5/d2c/a28904.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "d5/d2c/a28904.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "d5/d2c/a28904.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "d5/d2c/a28904.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "d5/d2c/a28904.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "d5/d2c/a28904.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "d5/d2c/a28904.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "d5/d2c/a28904.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "d5/d2c/a28904.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "d5/d2c/a28904.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "liquid_data", "da/d20/a28912.html", "da/d20/a28912" ],
+    [ "prepareLoadedData", "d5/d2c/a28904.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
+    [ "data", "d5/d2c/a28904.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
+    [ "fcc", "d5/d2c/a28904.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
+    [ "fcc_txt", "d5/d2c/a28904.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
+    [ "flags", "d5/d2c/a28904.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
+    [ "height1", "d5/d2c/a28904.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
+    [ "height2", "d5/d2c/a28904.html#ab03dc912a304c0585d2725596adb4b49", null ],
+    [ "liquid", "d5/d2c/a28904.html#aae29940e6fdf046f9a29cf519ef61936", null ],
+    [ "size", "d5/d2c/a28904.html#a11581f9fb52a4ca433765e6312168288", null ]
 ];

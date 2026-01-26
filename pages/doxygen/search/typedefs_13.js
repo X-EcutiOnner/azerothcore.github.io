@@ -54,7 +54,7 @@ var searchData=
   ['smartaieventstoredlist_51',['SmartAIEventStoredList',['../d3/d5e/a00275.html#a9bf01cc8325bd669dff76a3545290fe4',1,'SmartScriptMgr.h']]],
   ['smarteventconditioncontainer_52',['SmartEventConditionContainer',['../d4/d41/a01661.html#abdfa94c93c90adfe4347841af180cbec',1,'ConditionMgr.h']]],
   ['socialmap_53',['SocialMap',['../dc/d0b/a08732.html#a2b80fa18a6f1ed54fda7719867f45ebd',1,'SocialMgr']]],
-  ['socketcontainer_54',['SocketContainer',['../d7/d77/a28788.html#afecfc2ddefae1d1dca0f74e36695a748',1,'NetworkThread']]],
+  ['socketcontainer_54',['SocketContainer',['../dd/d25/a28792.html#afecfc2ddefae1d1dca0f74e36695a748',1,'NetworkThread']]],
   ['sortableauctionentrieslist_55',['SortableAuctionEntriesList',['../d2/d71/a01055.html#a7d6d8287b2adf4a3caae16ed69a8519d',1,'AuctionHouseSearcher.h']]],
   ['spectatorlist_56',['SpectatorList',['../d7/d50/a07384.html#a152b516933fa88d053a99d3e3aa052c3',1,'Battleground']]],
   ['speedopcodepair_57',['SpeedOpcodePair',['../d7/d46/a00890.html#ab52bc855c0c581574dfd53d868dc587f',1,'Unit.h']]],

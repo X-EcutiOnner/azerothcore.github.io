@@ -1,5 +1,4 @@
 var a28604 =
 [
-    [ "id", "d7/d4d/a28604.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d7/d4d/a28604.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "Pattern", "d7/d4d/a28604.html#abcd404cd99f0a41b266db09ddae4da68", null ]
 ];

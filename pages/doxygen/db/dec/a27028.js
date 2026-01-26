@@ -1,6 +1,6 @@
 var a27028 =
 [
-    [ "CheckProc", "db/dec/a27028.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "db/dec/a27028.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "db/dec/a27028.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleKnockBack", "db/dec/a27028.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "db/dec/a27028.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "db/dec/a27028.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

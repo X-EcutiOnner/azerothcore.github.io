@@ -1,6 +1,6 @@
 var a02225 =
 [
-    [ "boss_high_botanist_freywinn", "d2/da6/a23976.html", "d2/da6/a23976" ],
+    [ "boss_high_botanist_freywinn", "d8/d09/a23980.html", "d8/d09/a23980" ],
     [ "Npcs", "d4/dc0/a02225.html#a213e9ce155baf17b6147afe6a069d54d", [
       [ "NPC_TM_GUARDSMAN", "d4/da8/a02444.html#a213e9ce155baf17b6147afe6a069d54da21f261d22a0cd419e2febe6c2604502e", null ],
       [ "NPC_TM_PROTECTOR", "d4/da8/a02444.html#a213e9ce155baf17b6147afe6a069d54da78f045556089f7be512b4bc38abc558f", null ],
@@ -21,6 +21,7 @@ var a02225 =
       [ "NPC_HORDE_CLERIC", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54da58336a1a1f4d7eaddbac94a5c13c8724", null ],
       [ "NPC_COMMANDER_STOUTBEARD", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54da568a2459d3a7841412df12615c767067", null ],
       [ "NPC_COMMANDER_KOLURG", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54da0425e79c992c887c8b446fadf58d5c75", null ],
+      [ "NPC_CRYSTALLINE_FRAYER", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54da25a74c141f8865232513b4b4e5325ce1", null ],
       [ "GO_TELESTRA_SPHERE", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54da089f33ffb46bc05ba1c96f5a35945ee2", null ],
       [ "GO_ANOMALUS_SPHERE", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54da5cb804bef6d740c87c8d774813209b30", null ],
       [ "GO_ORMOROK_SPHERE", "d9/d4f/a03206.html#a213e9ce155baf17b6147afe6a069d54daf5b0aa3e69e1cde75a96eea26041c666", null ],
