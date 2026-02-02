@@ -1,10 +1,8 @@
 var a24928 =
 [
-    [ "CalculateAPAmount", "db/df2/a24928.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "db/df2/a24928.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "db/df2/a24928.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "db/df2/a24928.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "db/df2/a24928.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "db/df2/a24928.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "db/df2/a24928.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "AfterRemove", "db/df2/a24928.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "db/df2/a24928.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "db/df2/a24928.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "db/df2/a24928.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "db/df2/a24928.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

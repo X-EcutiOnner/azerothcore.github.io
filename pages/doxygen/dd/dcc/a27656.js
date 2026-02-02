@@ -1,6 +1,5 @@
 var a27656 =
 [
-    [ "go_bellsAI", "db/d1a/a27660.html", "db/d1a/a27660" ],
-    [ "go_bells", "dd/dcc/a27656.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "dd/dcc/a27656.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "item_only_for_flight", "dd/dcc/a27656.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "dd/dcc/a27656.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

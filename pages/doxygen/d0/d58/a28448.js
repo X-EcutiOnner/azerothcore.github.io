@@ -1,5 +1,6 @@
 var a28448 =
 [
-    [ "Id", "d0/d58/a28448.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "d0/d58/a28448.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "color", "d0/d58/a28448.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d0/d58/a28448.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d0/d58/a28448.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

@@ -1,10 +1,12 @@
 var a21560 =
 [
-    [ "npc_erekem_guardAI", "dc/d82/a21560.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "dc/d82/a21560.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "dc/d82/a21560.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "dc/d82/a21560.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "dc/d82/a21560.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "dc/d82/a21560.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "dc/d82/a21560.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "boss_lavanthorAI", "dc/d82/a21560.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "dc/d82/a21560.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "dc/d82/a21560.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "dc/d82/a21560.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "dc/d82/a21560.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "dc/d82/a21560.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "dc/d82/a21560.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "dc/d82/a21560.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

@@ -1,6 +1,8 @@
 var a22184 =
 [
-    [ "npc_lake_frogAI", "de/db8/a22188.html", "de/db8/a22188" ],
-    [ "npc_lake_frog", "d6/d9d/a22184.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d6/d9d/a22184.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "HandleEffectApply", "d6/d9d/a22184.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d6/d9d/a22184.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d6/d9d/a22184.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d6/d9d/a22184.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d6/d9d/a22184.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

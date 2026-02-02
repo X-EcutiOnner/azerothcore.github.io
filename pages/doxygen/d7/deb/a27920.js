@@ -1,6 +1,7 @@
 var a27920 =
 [
-    [ "npc_experience", "d7/deb/a27920.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d7/deb/a27920.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d7/deb/a27920.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_venomhide_hatchlingAI", "d0/def/a27924.html", "d0/def/a27924" ],
+    [ "npc_venomhide_hatchling", "d7/deb/a27920.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d7/deb/a27920.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d7/deb/a27920.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

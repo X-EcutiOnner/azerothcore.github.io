@@ -172,10 +172,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aec270291a46b401ba59f367a94eaf565"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2488d8f0ca631d1004e577347663d84e"><td class="memItemLeft" align="right" valign="top">const Vector3 &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a2488d8f0ca631d1004e577347663d84e">getPoint</a> (<a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> i) const</td></tr>
 <tr class="separator:a2488d8f0ca631d1004e577347663d84e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9b11420c24387cd4796650b85e37d359"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a9b11420c24387cd4796650b85e37d359">init_spline</a> (const Vector3 *controls, <a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> count, <a class="el" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a> m)</td></tr>
-<tr class="separator:a9b11420c24387cd4796650b85e37d359"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add5fd58a7c5edc3c5345813e0086b860"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#add5fd58a7c5edc3c5345813e0086b860">init_cyclic_spline</a> (const Vector3 *controls, <a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> count, <a class="el" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a> m, <a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> cyclic_point)</td></tr>
-<tr class="separator:add5fd58a7c5edc3c5345813e0086b860"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51228c74a9b3bb66c77b27eac107fbc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a51228c74a9b3bb66c77b27eac107fbc5">init_spline</a> (const Vector3 *controls, <a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> count, <a class="el" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a> m, float orientation)</td></tr>
+<tr class="separator:a51228c74a9b3bb66c77b27eac107fbc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20aeb370ccd200c3cabaf9c9066da392"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a20aeb370ccd200c3cabaf9c9066da392">init_cyclic_spline</a> (const Vector3 *controls, <a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> count, <a class="el" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a> m, <a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> cyclic_point, float orientation)</td></tr>
+<tr class="separator:a20aeb370ccd200c3cabaf9c9066da392"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0d320a2dc6db0e026829cdfce4bf1bd9"><td class="memTemplParams" colspan="2">template&lt;class Init &gt; </td></tr>
 <tr class="memitem:a0d320a2dc6db0e026829cdfce4bf1bd9"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a0d320a2dc6db0e026829cdfce4bf1bd9">init_spline_custom</a> (Init &amp;initializer)</td></tr>
 <tr class="separator:a0d320a2dc6db0e026829cdfce4bf1bd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -243,6 +243,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:acab01ea4c863d0c90c169fc8813ddd4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5301207167e707f9b7296cad775ab8d9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> {false}</td></tr>
 <tr class="separator:a5301207167e707f9b7296cad775ab8d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e67541a6058399015af3742352f1ac3"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a> {0}</td></tr>
+<tr class="separator:a6e67541a6058399015af3742352f1ac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
 Static Protected Attributes</h2></td></tr>
@@ -374,14 +376,14 @@ Static Protected Attributes</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908" name="ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908"></a>STEPS_PER_SEGMENT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   53</span>        {</div>
-<div class="line"><span class="lineno">   54</span>            <span class="comment">// could be modified, affects segment length evaluation precision</span></div>
-<div class="line"><span class="lineno">   55</span>            <span class="comment">// lesser value saves more performance in cost of lover precision</span></div>
-<div class="line"><span class="lineno">   56</span>            <span class="comment">// minimal value is 1</span></div>
-<div class="line"><span class="lineno">   57</span>            <span class="comment">// client&#39;s value is 20, blizzs use 2-3 steps to compute length</span></div>
-<div class="line"><span class="lineno">   58</span>            <a class="code hl_enumvalue" href="../../d3/d1f/a10192.html#ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908">STEPS_PER_SEGMENT</a> = 3</div>
-<div class="line"><span class="lineno">   59</span>        };</div>
-<div class="ttc" id="aa10192_html_ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908"><div class="ttname"><a href="../../d3/d1f/a10192.html#ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908">Movement::SplineBase::STEPS_PER_SEGMENT</a></div><div class="ttdeci">@ STEPS_PER_SEGMENT</div><div class="ttdef"><b>Definition:</b> Spline.h:58</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>        {</div>
+<div class="line"><span class="lineno">   55</span>            <span class="comment">// could be modified, affects segment length evaluation precision</span></div>
+<div class="line"><span class="lineno">   56</span>            <span class="comment">// lesser value saves more performance in cost of lover precision</span></div>
+<div class="line"><span class="lineno">   57</span>            <span class="comment">// minimal value is 1</span></div>
+<div class="line"><span class="lineno">   58</span>            <span class="comment">// client&#39;s value is 20, blizzs use 2-3 steps to compute length</span></div>
+<div class="line"><span class="lineno">   59</span>            <a class="code hl_enumvalue" href="../../d3/d1f/a10192.html#ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908">STEPS_PER_SEGMENT</a> = 3</div>
+<div class="line"><span class="lineno">   60</span>        };</div>
+<div class="ttc" id="aa10192_html_ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908"><div class="ttname"><a href="../../d3/d1f/a10192.html#ac1379f499a05d3657b67265972e31c67af8e13b728ef434c606dc4c6b66684908">Movement::SplineBase::STEPS_PER_SEGMENT</a></div><div class="ttdeci">@ STEPS_PER_SEGMENT</div><div class="ttdef"><b>Definition:</b> Spline.h:59</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -459,11 +461,11 @@ Static Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  285</span>    {</div>
-<div class="line"><span class="lineno">  286</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = 0;</div>
-<div class="line"><span class="lineno">  287</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = 0;</div>
-<div class="line"><span class="lineno">  288</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.clear();</div>
-<div class="line"><span class="lineno">  289</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  291</span>    {</div>
+<div class="line"><span class="lineno">  292</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = 0;</div>
+<div class="line"><span class="lineno">  293</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = 0;</div>
+<div class="line"><span class="lineno">  294</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.clear();</div>
+<div class="line"><span class="lineno">  295</span>    }</div>
 <div class="ttc" id="aa10192_html_a37192fbc57bfe73c09916ec181860ed7"><div class="ttname"><a href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">Movement::SplineBase::points</a></div><div class="ttdeci">ControlArray points</div><div class="ttdef"><b>Definition:</b> Spline.h:44</div></div>
 <div class="ttc" id="aa10192_html_acbc7e3f2c43de66ef88d86d1e2d9fab2"><div class="ttname"><a href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">Movement::SplineBase::index_hi</a></div><div class="ttdeci">index_type index_hi</div><div class="ttdef"><b>Definition:</b> Spline.h:47</div></div>
 <div class="ttc" id="aa10192_html_af38f585652cb0227e23299afa10bb96d"><div class="ttname"><a href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">Movement::SplineBase::index_lo</a></div><div class="ttdeci">index_type index_lo</div><div class="ttdef"><b>Definition:</b> Spline.h:46</div></div>
@@ -496,7 +498,7 @@ Static Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> == <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> == <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a>;}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00047">index_hi</a>, and <a class="el" href="../../#l00046">index_lo</a>.</p>
 
@@ -550,13 +552,13 @@ Static Protected Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  103</span>{(this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#ae63abd2b810a736c7695a56a493e0473">derivative_evaluators</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(Idx, u, hermite);}</div>
+<div class="fragment"><div class="line"><span class="lineno">  104</span>{(this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#ae63abd2b810a736c7695a56a493e0473">derivative_evaluators</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(Idx, u, hermite);}</div>
 <div class="ttc" id="aa10192_html_acab01ea4c863d0c90c169fc8813ddd4e"><div class="ttname"><a href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">Movement::SplineBase::m_mode</a></div><div class="ttdeci">uint8 m_mode</div><div class="ttdef"><b>Definition:</b> Spline.h:49</div></div>
-<div class="ttc" id="aa10192_html_ae63abd2b810a736c7695a56a493e0473"><div class="ttname"><a href="../../d3/d1f/a10192.html#ae63abd2b810a736c7695a56a493e0473">Movement::SplineBase::derivative_evaluators</a></div><div class="ttdeci">static EvaluationMethtod derivative_evaluators[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:72</div></div>
+<div class="ttc" id="aa10192_html_ae63abd2b810a736c7695a56a493e0473"><div class="ttname"><a href="../../d3/d1f/a10192.html#ae63abd2b810a736c7695a56a493e0473">Movement::SplineBase::derivative_evaluators</a></div><div class="ttdeci">static EvaluationMethtod derivative_evaluators[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:73</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00049">m_mode</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00166">Movement::Spline&lt; length_type &gt;::evaluate_derivative()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00167">Movement::Spline&lt; length_type &gt;::evaluate_derivative()</a>.</p>
 
 </div>
 </div>
@@ -606,12 +608,12 @@ Static Protected Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{(this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#af7df2a9dc5d487b512bfcab4e0370106">evaluators</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(Idx, u, c);}</div>
-<div class="ttc" id="aa10192_html_af7df2a9dc5d487b512bfcab4e0370106"><div class="ttname"><a href="../../d3/d1f/a10192.html#af7df2a9dc5d487b512bfcab4e0370106">Movement::SplineBase::evaluators</a></div><div class="ttdeci">static EvaluationMethtod evaluators[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:67</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   98</span>{(this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#af7df2a9dc5d487b512bfcab4e0370106">evaluators</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(Idx, u, c);}</div>
+<div class="ttc" id="aa10192_html_af7df2a9dc5d487b512bfcab4e0370106"><div class="ttname"><a href="../../d3/d1f/a10192.html#af7df2a9dc5d487b512bfcab4e0370106">Movement::SplineBase::evaluators</a></div><div class="ttdeci">static EvaluationMethtod evaluators[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:68</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00049">m_mode</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00161">Movement::Spline&lt; length_type &gt;::evaluate_percent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00162">Movement::Spline&lt; length_type &gt;::evaluate_percent()</a>.</p>
 
 </div>
 </div>
@@ -933,11 +935,11 @@ Static Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <p >Bounds for spline indexes. All indexes should be in range [first, last). </p>
-<div class="fragment"><div class="line"><span class="lineno">  106</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a>;}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00046">index_lo</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00244">Movement::MoveSpline::_updateState()</a>, <a class="el" href="../../#l00081">Movement::MoveSpline::computeFallElevation()</a>, <a class="el" href="../../#l00317">Movement::MoveSpline::currentPathIdx()</a>, <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, <a class="el" href="../../#l00202">Movement::Spline&lt; length_type &gt;::length()</a>, and <a class="el" href="../../#l00043">Movement::PacketBuilder::WriteCommonMonsterMovePart()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00244">Movement::MoveSpline::_updateState()</a>, <a class="el" href="../../#l00081">Movement::MoveSpline::computeFallElevation()</a>, <a class="el" href="../../#l00317">Movement::MoveSpline::currentPathIdx()</a>, <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, <a class="el" href="../../#l00203">Movement::Spline&lt; length_type &gt;::length()</a>, and <a class="el" href="../../#l00043">Movement::PacketBuilder::WriteCommonMonsterMovePart()</a>.</p>
 
 </div>
 </div>
@@ -964,7 +966,7 @@ Static Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[i];}</div>
+<div class="fragment"><div class="line"><span class="lineno">  117</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[i];}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00044">points</a>.</p>
 
@@ -994,7 +996,7 @@ Static Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.size();}</div>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.size();}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00044">points</a>.</p>
 
@@ -1024,7 +1026,7 @@ Static Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>;}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00044">points</a>.</p>
 
@@ -1032,8 +1034,8 @@ Static Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="add5fd58a7c5edc3c5345813e0086b860" name="add5fd58a7c5edc3c5345813e0086b860"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add5fd58a7c5edc3c5345813e0086b860">&#9670;&#160;</a></span>init_cyclic_spline()</h2>
+<a id="a20aeb370ccd200c3cabaf9c9066da392" name="a20aeb370ccd200c3cabaf9c9066da392"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20aeb370ccd200c3cabaf9c9066da392">&#9670;&#160;</a></span>init_cyclic_spline()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1060,7 +1062,13 @@ Static Protected Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a>&#160;</td>
-          <td class="paramname"><em>cyclic_point</em>&#160;</td>
+          <td class="paramname"><em>cyclic_point</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>orientation</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1069,23 +1077,25 @@ Static Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  211</span>    {</div>
-<div class="line"><span class="lineno">  212</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a> = m;</div>
-<div class="line"><span class="lineno">  213</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  214</span> </div>
-<div class="line"><span class="lineno">  215</span>        (this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639">initializers</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(controls, count, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>, cyclic_point);</div>
-<div class="line"><span class="lineno">  216</span>    }</div>
-<div class="ttc" id="aa10192_html_a33f224d12367e8dd3f1a63e41979a639"><div class="ttname"><a href="../../d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639">Movement::SplineBase::initializers</a></div><div class="ttdeci">static InitMethtod initializers[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:84</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  212</span>    {</div>
+<div class="line"><span class="lineno">  213</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a> = m;</div>
+<div class="line"><span class="lineno">  214</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  215</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a> = orientation;</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>        (this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639">initializers</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(controls, count, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>, cyclic_point);</div>
+<div class="line"><span class="lineno">  218</span>    }</div>
+<div class="ttc" id="aa10192_html_a33f224d12367e8dd3f1a63e41979a639"><div class="ttname"><a href="../../d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639">Movement::SplineBase::initializers</a></div><div class="ttdeci">static InitMethtod initializers[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:85</div></div>
 <div class="ttc" id="aa10192_html_a5301207167e707f9b7296cad775ab8d9"><div class="ttname"><a href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">Movement::SplineBase::cyclic</a></div><div class="ttdeci">bool cyclic</div><div class="ttdef"><b>Definition:</b> Spline.h:50</div></div>
+<div class="ttc" id="aa10192_html_a6e67541a6058399015af3742352f1ac3"><div class="ttname"><a href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">Movement::SplineBase::initialOrientation</a></div><div class="ttdeci">float initialOrientation</div><div class="ttdef"><b>Definition:</b> Spline.h:51</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00084">initializers</a>, and <a class="el" href="../../#l00049">m_mode</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00085">initializers</a>, <a class="el" href="../../#l00051">initialOrientation</a>, and <a class="el" href="../../#l00049">m_mode</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00174">Movement::Spline&lt; length_type &gt;::init_cyclic_spline()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00175">Movement::Spline&lt; length_type &gt;::init_cyclic_spline()</a>.</p>
 
 </div>
 </div>
-<a id="a9b11420c24387cd4796650b85e37d359" name="a9b11420c24387cd4796650b85e37d359"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9b11420c24387cd4796650b85e37d359">&#9670;&#160;</a></span>init_spline()</h2>
+<a id="a51228c74a9b3bb66c77b27eac107fbc5" name="a51228c74a9b3bb66c77b27eac107fbc5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51228c74a9b3bb66c77b27eac107fbc5">&#9670;&#160;</a></span>init_spline()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1106,7 +1116,13 @@ Static Protected Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a>&#160;</td>
-          <td class="paramname"><em>m</em>&#160;</td>
+          <td class="paramname"><em>m</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>orientation</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1119,13 +1135,14 @@ Static Protected Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  203</span>    {</div>
 <div class="line"><span class="lineno">  204</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a> = m;</div>
 <div class="line"><span class="lineno">  205</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  206</span> </div>
-<div class="line"><span class="lineno">  207</span>        (this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639">initializers</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(controls, count, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>, 0);</div>
-<div class="line"><span class="lineno">  208</span>    }</div>
+<div class="line"><span class="lineno">  206</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a> = orientation;</div>
+<div class="line"><span class="lineno">  207</span> </div>
+<div class="line"><span class="lineno">  208</span>        (this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639">initializers</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(controls, count, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>, 0);</div>
+<div class="line"><span class="lineno">  209</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00084">initializers</a>, and <a class="el" href="../../#l00049">m_mode</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00085">initializers</a>, <a class="el" href="../../#l00051">initialOrientation</a>, and <a class="el" href="../../#l00049">m_mode</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">Movement::Spline&lt; length_type &gt;::init_spline()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00174">Movement::Spline&lt; length_type &gt;::init_spline()</a>.</p>
 
 </div>
 </div>
@@ -1155,9 +1172,9 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 <p >As i can see there are a lot of ways how spline can be initialized would be no harm to have some custom initializers. </p>
-<div class="fragment"><div class="line"><span class="lineno">  125</span>        {</div>
-<div class="line"><span class="lineno">  126</span>            initializer(<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a>);</div>
-<div class="line"><span class="lineno">  127</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  126</span>        {</div>
+<div class="line"><span class="lineno">  127</span>            initializer(<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a>, <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a>);</div>
+<div class="line"><span class="lineno">  128</span>        }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, <a class="el" href="../../#l00049">m_mode</a>, and <a class="el" href="../../#l00044">points</a>.</p>
 
@@ -1210,17 +1227,17 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  272</span>    {</div>
-<div class="line"><span class="lineno">  273</span>        <a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> c = count / 3u * 3u;</div>
-<div class="line"><span class="lineno">  274</span>        <a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> t = c / 3u;</div>
-<div class="line"><span class="lineno">  275</span> </div>
-<div class="line"><span class="lineno">  276</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.resize(c);</div>
-<div class="line"><span class="lineno">  277</span>        memcpy(&amp;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0], controls, <span class="keyword">sizeof</span>(Vector3) * c);</div>
-<div class="line"><span class="lineno">  278</span> </div>
-<div class="line"><span class="lineno">  279</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = 0;</div>
-<div class="line"><span class="lineno">  280</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = t - 1;</div>
-<div class="line"><span class="lineno">  281</span>        <span class="comment">//mov_assert(points.size() % 3 == 0);</span></div>
-<div class="line"><span class="lineno">  282</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  278</span>    {</div>
+<div class="line"><span class="lineno">  279</span>        <a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> c = count / 3u * 3u;</div>
+<div class="line"><span class="lineno">  280</span>        <a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> t = c / 3u;</div>
+<div class="line"><span class="lineno">  281</span> </div>
+<div class="line"><span class="lineno">  282</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.resize(c);</div>
+<div class="line"><span class="lineno">  283</span>        memcpy(&amp;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0], controls, <span class="keyword">sizeof</span>(Vector3) * c);</div>
+<div class="line"><span class="lineno">  284</span> </div>
+<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = 0;</div>
+<div class="line"><span class="lineno">  286</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = t - 1;</div>
+<div class="line"><span class="lineno">  287</span>        <span class="comment">//mov_assert(points.size() % 3 == 0);</span></div>
+<div class="line"><span class="lineno">  288</span>    }</div>
 <div class="ttc" id="aa10192_html_a6610d94dcbdc06c43565fa389b739c67"><div class="ttname"><a href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">Movement::SplineBase::index_type</a></div><div class="ttdeci">int index_type</div><div class="ttdef"><b>Definition:</b> Spline.h:31</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, and <a class="el" href="../../#l00044">points</a>.</p>
@@ -1272,39 +1289,43 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  239</span>    {</div>
-<div class="line"><span class="lineno">  240</span>        <span class="keyword">const</span> <span class="keywordtype">int</span> real_size = count + (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> ? (1 + 2) : (1 + 1));</div>
-<div class="line"><span class="lineno">  241</span> </div>
-<div class="line"><span class="lineno">  242</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.resize(real_size);</div>
+<div class="fragment"><div class="line"><span class="lineno">  241</span>    {</div>
+<div class="line"><span class="lineno">  242</span>        <span class="keyword">const</span> <span class="keywordtype">int</span> real_size = count + (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> ? (1 + 2) : (1 + 1));</div>
 <div class="line"><span class="lineno">  243</span> </div>
-<div class="line"><span class="lineno">  244</span>        <span class="keywordtype">int</span> lo_index = 1;</div>
-<div class="line"><span class="lineno">  245</span>        <span class="keywordtype">int</span> high_index = lo_index + count - 1;</div>
-<div class="line"><span class="lineno">  246</span> </div>
-<div class="line"><span class="lineno">  247</span>        memcpy(&amp;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[lo_index], controls, <span class="keyword">sizeof</span>(Vector3) * count);</div>
+<div class="line"><span class="lineno">  244</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.resize(real_size);</div>
+<div class="line"><span class="lineno">  245</span> </div>
+<div class="line"><span class="lineno">  246</span>        <span class="keywordtype">int</span> lo_index = 1;</div>
+<div class="line"><span class="lineno">  247</span>        <span class="keywordtype">int</span> high_index = lo_index + count - 1;</div>
 <div class="line"><span class="lineno">  248</span> </div>
-<div class="line"><span class="lineno">  249</span>        <span class="comment">// first and last two indexes are space for special &#39;virtual points&#39;</span></div>
-<div class="line"><span class="lineno">  250</span>        <span class="comment">// these points are required for proper C_Evaluate and C_Evaluate_Derivative methtod work</span></div>
-<div class="line"><span class="lineno">  251</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>)</div>
-<div class="line"><span class="lineno">  252</span>        {</div>
-<div class="line"><span class="lineno">  253</span>            <span class="keywordflow">if</span> (cyclic_point == 0)</div>
-<div class="line"><span class="lineno">  254</span>                <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[count - 1];</div>
-<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  256</span>                <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[0].lerp(controls[1], -1);</div>
-<div class="line"><span class="lineno">  257</span> </div>
-<div class="line"><span class="lineno">  258</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[high_index + 1] = controls[cyclic_point];</div>
-<div class="line"><span class="lineno">  259</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[high_index + 2] = controls[cyclic_point + 1];</div>
-<div class="line"><span class="lineno">  260</span>        }</div>
-<div class="line"><span class="lineno">  261</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  262</span>        {</div>
-<div class="line"><span class="lineno">  263</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[0].lerp(controls[1], -1);</div>
-<div class="line"><span class="lineno">  264</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[high_index + 1] = controls[count - 1];</div>
-<div class="line"><span class="lineno">  265</span>        }</div>
-<div class="line"><span class="lineno">  266</span> </div>
-<div class="line"><span class="lineno">  267</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = lo_index;</div>
-<div class="line"><span class="lineno">  268</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = high_index + (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> ? 1 : 0);</div>
-<div class="line"><span class="lineno">  269</span>    }</div>
+<div class="line"><span class="lineno">  249</span>        memcpy(&amp;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[lo_index], controls, <span class="keyword">sizeof</span>(Vector3) * count);</div>
+<div class="line"><span class="lineno">  250</span> </div>
+<div class="line"><span class="lineno">  251</span>        <span class="comment">// first and last two indexes are space for special &#39;virtual points&#39;</span></div>
+<div class="line"><span class="lineno">  252</span>        <span class="comment">// these points are required for proper C_Evaluate and C_Evaluate_Derivative methtod work</span></div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>)</div>
+<div class="line"><span class="lineno">  254</span>        {</div>
+<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">if</span> (cyclic_point == 0)</div>
+<div class="line"><span class="lineno">  256</span>                <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[count - 1];</div>
+<div class="line"><span class="lineno">  257</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  258</span>                <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[0] - G3D::Vector3{ std::cos(<a class="code hl_variable" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a>), std::sin(<a class="code hl_variable" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a>), 0.0f };</div>
+<div class="line"><span class="lineno">  259</span> </div>
+<div class="line"><span class="lineno">  260</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[high_index + 1] = controls[cyclic_point];</div>
+<div class="line"><span class="lineno">  261</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[high_index + 2] = controls[cyclic_point + 1];</div>
+<div class="line"><span class="lineno">  262</span>        }</div>
+<div class="line"><span class="lineno">  263</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  264</span>        {</div>
+<div class="line"><span class="lineno">  265</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a> == <a class="code hl_enumvalue" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731aa237cadfa35c5a8a98d58ada3c2c4c903">ModeCatmullrom</a>)</div>
+<div class="line"><span class="lineno">  266</span>                <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[0] - G3D::Vector3{ std::cos(<a class="code hl_variable" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a>), std::sin(<a class="code hl_variable" href="../../d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3">initialOrientation</a>), 0.0f };</div>
+<div class="line"><span class="lineno">  267</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  268</span>                <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0] = controls[0].lerp(controls[1], -1);</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[high_index + 1] = controls[count - 1];</div>
+<div class="line"><span class="lineno">  271</span>        }</div>
+<div class="line"><span class="lineno">  272</span> </div>
+<div class="line"><span class="lineno">  273</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = lo_index;</div>
+<div class="line"><span class="lineno">  274</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = high_index + (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> ? 1 : 0);</div>
+<div class="line"><span class="lineno">  275</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, and <a class="el" href="../../#l00044">points</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, <a class="el" href="../../#l00051">initialOrientation</a>, <a class="el" href="../../#l00049">m_mode</a>, <a class="el" href="../../#l00037">ModeCatmullrom</a>, and <a class="el" href="../../#l00044">points</a>.</p>
 
 </div>
 </div>
@@ -1353,24 +1374,24 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  219</span>    {</div>
-<div class="line"><span class="lineno">  220</span>        <a class="code hl_define" href="../../dd/d7a/a04568.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(count &gt;= 2);</div>
-<div class="line"><span class="lineno">  221</span>        <span class="keyword">const</span> <span class="keywordtype">int</span> real_size = count + 1;</div>
-<div class="line"><span class="lineno">  222</span> </div>
-<div class="line"><span class="lineno">  223</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.resize(real_size);</div>
+<div class="fragment"><div class="line"><span class="lineno">  221</span>    {</div>
+<div class="line"><span class="lineno">  222</span>        <a class="code hl_define" href="../../dd/d7a/a04568.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(count &gt;= 2);</div>
+<div class="line"><span class="lineno">  223</span>        <span class="keyword">const</span> <span class="keywordtype">int</span> real_size = count + 1;</div>
 <div class="line"><span class="lineno">  224</span> </div>
-<div class="line"><span class="lineno">  225</span>        memcpy(&amp;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0], controls, <span class="keyword">sizeof</span>(Vector3) * count);</div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.resize(real_size);</div>
 <div class="line"><span class="lineno">  226</span> </div>
-<div class="line"><span class="lineno">  227</span>        <span class="comment">// first and last two indexes are space for special &#39;virtual points&#39;</span></div>
-<div class="line"><span class="lineno">  228</span>        <span class="comment">// these points are required for proper C_Evaluate and C_Evaluate_Derivative methtod work</span></div>
-<div class="line"><span class="lineno">  229</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>)</div>
-<div class="line"><span class="lineno">  230</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[count] = controls[cyclic_point];</div>
-<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  232</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[count] = controls[count - 1];</div>
-<div class="line"><span class="lineno">  233</span> </div>
-<div class="line"><span class="lineno">  234</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = 0;</div>
-<div class="line"><span class="lineno">  235</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> ? count : (count - 1);</div>
-<div class="line"><span class="lineno">  236</span>    }</div>
+<div class="line"><span class="lineno">  227</span>        memcpy(&amp;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[0], controls, <span class="keyword">sizeof</span>(Vector3) * count);</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>        <span class="comment">// first and last two indexes are space for special &#39;virtual points&#39;</span></div>
+<div class="line"><span class="lineno">  230</span>        <span class="comment">// these points are required for proper C_Evaluate and C_Evaluate_Derivative methtod work</span></div>
+<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>)</div>
+<div class="line"><span class="lineno">  232</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[count] = controls[cyclic_point];</div>
+<div class="line"><span class="lineno">  233</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  234</span>            <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[count] = controls[count - 1];</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d">index_lo</a> = 0;</div>
+<div class="line"><span class="lineno">  237</span>        <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a> = <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a> ? count : (count - 1);</div>
+<div class="line"><span class="lineno">  238</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00050">cyclic</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, and <a class="el" href="../../#l00044">points</a>.</p>
 
@@ -1398,7 +1419,7 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  112</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#a5301207167e707f9b7296cad775ab8d9">cyclic</a>;}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00050">cyclic</a>.</p>
 
@@ -1428,11 +1449,11 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2">index_hi</a>;}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00047">index_hi</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00310">Movement::MoveSpline::_Finalize()</a>, <a class="el" href="../../#l00244">Movement::MoveSpline::_updateState()</a>, <a class="el" href="../../#l00317">Movement::MoveSpline::currentPathIdx()</a>, <a class="el" href="../../#l00120">Movement::MoveSpline::FinalDestination()</a>, <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, and <a class="el" href="../../#l00202">Movement::Spline&lt; length_type &gt;::length()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00310">Movement::MoveSpline::_Finalize()</a>, <a class="el" href="../../#l00244">Movement::MoveSpline::_updateState()</a>, <a class="el" href="../../#l00317">Movement::MoveSpline::currentPathIdx()</a>, <a class="el" href="../../#l00120">Movement::MoveSpline::FinalDestination()</a>, <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, and <a class="el" href="../../#l00203">Movement::Spline&lt; length_type &gt;::length()</a>.</p>
 
 </div>
 </div>
@@ -1458,12 +1479,12 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>{ <span class="keywordflow">return</span> (<a class="code hl_enumeration" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a>)<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{ <span class="keywordflow">return</span> (<a class="code hl_enumeration" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">EvaluationMode</a>)<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>;}</div>
 <div class="ttc" id="aa10192_html_a815f7b7cd727035f39a5d81bb3ff731a"><div class="ttname"><a href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731a">Movement::SplineBase::EvaluationMode</a></div><div class="ttdeci">EvaluationMode</div><div class="ttdef"><b>Definition:</b> Spline.h:35</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00049">m_mode</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00291">ToString()</a>, and <a class="el" href="../../#l00159">Movement::PacketBuilder::WriteCreate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00297">ToString()</a>, and <a class="el" href="../../#l00159">Movement::PacketBuilder::WriteCreate()</a>.</p>
 
 </div>
 </div>
@@ -1491,8 +1512,8 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 <p >Calculates distance between [i; i+1] points, assumes that index i is in bounds. </p>
-<div class="fragment"><div class="line"><span class="lineno">  132</span>{ <span class="keywordflow">return</span> (this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#ae755cfd5bbc9e1fae8678be70c82348b">seglengths</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(i);}</div>
-<div class="ttc" id="aa10192_html_ae755cfd5bbc9e1fae8678be70c82348b"><div class="ttname"><a href="../../d3/d1f/a10192.html#ae755cfd5bbc9e1fae8678be70c82348b">Movement::SplineBase::seglengths</a></div><div class="ttdeci">static SegLenghtMethtod seglengths[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:78</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  133</span>{ <span class="keywordflow">return</span> (this-&gt;*<a class="code hl_variable" href="../../d3/d1f/a10192.html#ae755cfd5bbc9e1fae8678be70c82348b">seglengths</a>[<a class="code hl_variable" href="../../d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e">m_mode</a>])(i);}</div>
+<div class="ttc" id="aa10192_html_ae755cfd5bbc9e1fae8678be70c82348b"><div class="ttname"><a href="../../d3/d1f/a10192.html#ae755cfd5bbc9e1fae8678be70c82348b">Movement::SplineBase::seglengths</a></div><div class="ttdeci">static SegLenghtMethtod seglengths[ModesEnd]</div><div class="ttdef"><b>Definition:</b> Spline.h:79</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00049">m_mode</a>.</p>
 
@@ -1545,7 +1566,7 @@ template&lt;class Init &gt; </div>
 <div class="line"><span class="lineno">  199</span>        <span class="keywordflow">return</span> length;</div>
 <div class="line"><span class="lineno">  200</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00097">Movement::C_Evaluate()</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, <a class="el" href="../../#l00044">points</a>, <a class="el" href="../../d9/dd0/a04882.html#a508e01047096fea2dbd9e0fedf6d75cb">Movement::s_Bezier3Coeffs()</a>, and <a class="el" href="../../#l00058">STEPS_PER_SEGMENT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00097">Movement::C_Evaluate()</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, <a class="el" href="../../#l00044">points</a>, <a class="el" href="../../d9/dd0/a04882.html#a508e01047096fea2dbd9e0fedf6d75cb">Movement::s_Bezier3Coeffs()</a>, and <a class="el" href="../../#l00059">STEPS_PER_SEGMENT</a>.</p>
 
 </div>
 </div>
@@ -1591,7 +1612,7 @@ template&lt;class Init &gt; </div>
 <div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span> length;</div>
 <div class="line"><span class="lineno">  177</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00097">Movement::C_Evaluate()</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, <a class="el" href="../../#l00044">points</a>, <a class="el" href="../../d9/dd0/a04882.html#aff10e913762216c0735a8a3530ee25d2">Movement::s_catmullRomCoeffs()</a>, and <a class="el" href="../../#l00058">STEPS_PER_SEGMENT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00097">Movement::C_Evaluate()</a>, <a class="el" href="../../#l00047">index_hi</a>, <a class="el" href="../../#l00046">index_lo</a>, <a class="el" href="../../#l00044">points</a>, <a class="el" href="../../d9/dd0/a04882.html#aff10e913762216c0735a8a3530ee25d2">Movement::s_catmullRomCoeffs()</a>, and <a class="el" href="../../#l00059">STEPS_PER_SEGMENT</a>.</p>
 
 </div>
 </div>
@@ -1641,21 +1662,21 @@ template&lt;class Init &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  292</span>    {</div>
-<div class="line"><span class="lineno">  293</span>        std::stringstream str;</div>
-<div class="line"><span class="lineno">  294</span>        <span class="keyword">const</span> <span class="keywordtype">char</span>* mode_str[<a class="code hl_enumvalue" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731aa283328758f9b80aced4f344a65564468">ModesEnd</a>] = {<span class="stringliteral">&quot;Linear&quot;</span>, <span class="stringliteral">&quot;CatmullRom&quot;</span>, <span class="stringliteral">&quot;Bezier3&quot;</span>, <span class="stringliteral">&quot;Uninitialized&quot;</span>};</div>
-<div class="line"><span class="lineno">  295</span> </div>
-<div class="line"><span class="lineno">  296</span>        <a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> count = this-&gt;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.size();</div>
-<div class="line"><span class="lineno">  297</span>        str &lt;&lt; <span class="stringliteral">&quot;mode: &quot;</span> &lt;&lt; mode_str[<a class="code hl_function" href="../../d3/d1f/a10192.html#afb64ddbb7477c7c9b9332c74ee536466">mode</a>()] &lt;&lt; std::endl;</div>
-<div class="line"><span class="lineno">  298</span>        str &lt;&lt; <span class="stringliteral">&quot;points count: &quot;</span> &lt;&lt; count &lt;&lt; std::endl;</div>
-<div class="line"><span class="lineno">  299</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> i = 0; i &lt; count; ++i)</div>
-<div class="line"><span class="lineno">  300</span>            str &lt;&lt; <span class="stringliteral">&quot;point &quot;</span> &lt;&lt; i &lt;&lt; <span class="stringliteral">&quot; : &quot;</span> &lt;&lt; <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[i].toString() &lt;&lt; std::endl;</div>
+<div class="fragment"><div class="line"><span class="lineno">  298</span>    {</div>
+<div class="line"><span class="lineno">  299</span>        std::stringstream str;</div>
+<div class="line"><span class="lineno">  300</span>        <span class="keyword">const</span> <span class="keywordtype">char</span>* mode_str[<a class="code hl_enumvalue" href="../../d3/d1f/a10192.html#a815f7b7cd727035f39a5d81bb3ff731aa283328758f9b80aced4f344a65564468">ModesEnd</a>] = {<span class="stringliteral">&quot;Linear&quot;</span>, <span class="stringliteral">&quot;CatmullRom&quot;</span>, <span class="stringliteral">&quot;Bezier3&quot;</span>, <span class="stringliteral">&quot;Uninitialized&quot;</span>};</div>
 <div class="line"><span class="lineno">  301</span> </div>
-<div class="line"><span class="lineno">  302</span>        <span class="keywordflow">return</span> str.str();</div>
-<div class="line"><span class="lineno">  303</span>    }</div>
-<div class="ttc" id="aa10192_html_afb64ddbb7477c7c9b9332c74ee536466"><div class="ttname"><a href="../../d3/d1f/a10192.html#afb64ddbb7477c7c9b9332c74ee536466">Movement::SplineBase::mode</a></div><div class="ttdeci">EvaluationMode mode() const</div><div class="ttdef"><b>Definition:</b> Spline.h:110</div></div>
+<div class="line"><span class="lineno">  302</span>        <a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> count = this-&gt;<a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>.size();</div>
+<div class="line"><span class="lineno">  303</span>        str &lt;&lt; <span class="stringliteral">&quot;mode: &quot;</span> &lt;&lt; mode_str[<a class="code hl_function" href="../../d3/d1f/a10192.html#afb64ddbb7477c7c9b9332c74ee536466">mode</a>()] &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  304</span>        str &lt;&lt; <span class="stringliteral">&quot;points count: &quot;</span> &lt;&lt; count &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  305</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d3/d1f/a10192.html#a6610d94dcbdc06c43565fa389b739c67">index_type</a> i = 0; i &lt; count; ++i)</div>
+<div class="line"><span class="lineno">  306</span>            str &lt;&lt; <span class="stringliteral">&quot;point &quot;</span> &lt;&lt; i &lt;&lt; <span class="stringliteral">&quot; : &quot;</span> &lt;&lt; <a class="code hl_variable" href="../../d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7">points</a>[i].toString() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  307</span> </div>
+<div class="line"><span class="lineno">  308</span>        <span class="keywordflow">return</span> str.str();</div>
+<div class="line"><span class="lineno">  309</span>    }</div>
+<div class="ttc" id="aa10192_html_afb64ddbb7477c7c9b9332c74ee536466"><div class="ttname"><a href="../../d3/d1f/a10192.html#afb64ddbb7477c7c9b9332c74ee536466">Movement::SplineBase::mode</a></div><div class="ttdeci">EvaluationMode mode() const</div><div class="ttdef"><b>Definition:</b> Spline.h:111</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">mode()</a>, <a class="el" href="../../#l00040">ModesEnd</a>, and <a class="el" href="../../#l00044">points</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">mode()</a>, <a class="el" href="../../#l00040">ModesEnd</a>, and <a class="el" href="../../#l00044">points</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00289">Movement::MoveSpline::ToString()</a>.</p>
 
@@ -1700,7 +1721,7 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{ <a class="code hl_define" href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   87</span>{ <a class="code hl_define" href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(); }</div>
 <div class="ttc" id="aa04568_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">ABORT</a>.</p>
@@ -1752,7 +1773,7 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{ <a class="code hl_define" href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   89</span>{ <a class="code hl_define" href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(); }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">ABORT</a>.</p>
 
@@ -1781,7 +1802,7 @@ template&lt;class Init &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{ <a class="code hl_define" href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   88</span>{ <a class="code hl_define" href="../../dd/d7a/a04568.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(); }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">ABORT</a>.</p>
 
@@ -1808,7 +1829,7 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00210">init_cyclic_spline()</a>, <a class="el" href="../../#l00202">init_spline()</a>, <a class="el" href="../../#l00124">init_spline_custom()</a>, <a class="el" href="../../#l00238">InitCatmullRom()</a>, <a class="el" href="../../#l00218">InitLinear()</a>, and <a class="el" href="../../#l00111">isCyclic()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00211">init_cyclic_spline()</a>, <a class="el" href="../../#l00202">init_spline()</a>, <a class="el" href="../../#l00125">init_spline_custom()</a>, <a class="el" href="../../#l00240">InitCatmullRom()</a>, <a class="el" href="../../#l00220">InitLinear()</a>, and <a class="el" href="../../#l00112">isCyclic()</a>.</p>
 
 </div>
 </div>
@@ -1841,7 +1862,7 @@ template&lt;class Init &gt; </div>
 <div class="ttc" id="aa10192_html_a479bedc009b21874f0282e2d31647c29"><div class="ttname"><a href="../../d3/d1f/a10192.html#a479bedc009b21874f0282e2d31647c29">Movement::SplineBase::EvaluateDerivativeCatmullRom</a></div><div class="ttdeci">void EvaluateDerivativeCatmullRom(index_type, float, Vector3 &amp;) const</div><div class="ttdef"><b>Definition:</b> Spline.cpp:140</div></div>
 <div class="ttc" id="aa10192_html_a8fdfebac1364d5f8dd80c2eeddca6f5a"><div class="ttname"><a href="../../d3/d1f/a10192.html#a8fdfebac1364d5f8dd80c2eeddca6f5a">Movement::SplineBase::EvaluateDerivativeBezier3</a></div><div class="ttdeci">void EvaluateDerivativeBezier3(index_type, float, Vector3 &amp;) const</div><div class="ttdef"><b>Definition:</b> Spline.cpp:146</div></div>
 <div class="ttc" id="aa10192_html_a97191bbb290e7e1d0e1f4b1843f333a8"><div class="ttname"><a href="../../d3/d1f/a10192.html#a97191bbb290e7e1d0e1f4b1843f333a8">Movement::SplineBase::EvaluateDerivativeLinear</a></div><div class="ttdeci">void EvaluateDerivativeLinear(index_type, float, Vector3 &amp;) const</div><div class="ttdef"><b>Definition:</b> Spline.cpp:134</div></div>
-<div class="ttc" id="aa10192_html_aec65c172c290e441867312afb9e7369b"><div class="ttname"><a href="../../d3/d1f/a10192.html#aec65c172c290e441867312afb9e7369b">Movement::SplineBase::UninitializedSplineEvaluationMethod</a></div><div class="ttdeci">void UninitializedSplineEvaluationMethod(index_type, float, Vector3 &amp;) const</div><div class="ttdef"><b>Definition:</b> Spline.h:86</div></div>
+<div class="ttc" id="aa10192_html_aec65c172c290e441867312afb9e7369b"><div class="ttname"><a href="../../d3/d1f/a10192.html#aec65c172c290e441867312afb9e7369b">Movement::SplineBase::UninitializedSplineEvaluationMethod</a></div><div class="ttdeci">void UninitializedSplineEvaluationMethod(index_type, float, Vector3 &amp;) const</div><div class="ttdef"><b>Definition:</b> Spline.h:87</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1897,7 +1918,7 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00284">clear()</a>, <a class="el" href="../../#l00109">empty()</a>, <a class="el" href="../../#l00127">EvaluateBezier3()</a>, <a class="el" href="../../#l00121">EvaluateCatmullRom()</a>, <a class="el" href="../../#l00146">EvaluateDerivativeBezier3()</a>, <a class="el" href="../../#l00140">EvaluateDerivativeCatmullRom()</a>, <a class="el" href="../../#l00134">EvaluateDerivativeLinear()</a>, <a class="el" href="../../#l00115">EvaluateLinear()</a>, <a class="el" href="../../#l00124">init_spline_custom()</a>, <a class="el" href="../../#l00271">InitBezier3()</a>, <a class="el" href="../../#l00238">InitCatmullRom()</a>, <a class="el" href="../../#l00181">Movement::Spline&lt; length_type &gt;::initLengths()</a>, <a class="el" href="../../#l00218">InitLinear()</a>, <a class="el" href="../../#l00107">last()</a>, <a class="el" href="../../#l00200">Movement::Spline&lt; length_type &gt;::length()</a>, <a class="el" href="../../#l00179">SegLengthBezier3()</a>, <a class="el" href="../../#l00159">SegLengthCatmullRom()</a>, and <a class="el" href="../../#l00153">SegLengthLinear()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00290">clear()</a>, <a class="el" href="../../#l00110">empty()</a>, <a class="el" href="../../#l00127">EvaluateBezier3()</a>, <a class="el" href="../../#l00121">EvaluateCatmullRom()</a>, <a class="el" href="../../#l00146">EvaluateDerivativeBezier3()</a>, <a class="el" href="../../#l00140">EvaluateDerivativeCatmullRom()</a>, <a class="el" href="../../#l00134">EvaluateDerivativeLinear()</a>, <a class="el" href="../../#l00115">EvaluateLinear()</a>, <a class="el" href="../../#l00125">init_spline_custom()</a>, <a class="el" href="../../#l00277">InitBezier3()</a>, <a class="el" href="../../#l00240">InitCatmullRom()</a>, <a class="el" href="../../#l00182">Movement::Spline&lt; length_type &gt;::initLengths()</a>, <a class="el" href="../../#l00220">InitLinear()</a>, <a class="el" href="../../#l00108">last()</a>, <a class="el" href="../../#l00201">Movement::Spline&lt; length_type &gt;::length()</a>, <a class="el" href="../../#l00179">SegLengthBezier3()</a>, <a class="el" href="../../#l00159">SegLengthCatmullRom()</a>, and <a class="el" href="../../#l00153">SegLengthLinear()</a>.</p>
 
 </div>
 </div>
@@ -1921,7 +1942,7 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00284">clear()</a>, <a class="el" href="../../#l00109">empty()</a>, <a class="el" href="../../#l00127">EvaluateBezier3()</a>, <a class="el" href="../../#l00121">EvaluateCatmullRom()</a>, <a class="el" href="../../#l00146">EvaluateDerivativeBezier3()</a>, <a class="el" href="../../#l00140">EvaluateDerivativeCatmullRom()</a>, <a class="el" href="../../#l00134">EvaluateDerivativeLinear()</a>, <a class="el" href="../../#l00115">EvaluateLinear()</a>, <a class="el" href="../../#l00106">first()</a>, <a class="el" href="../../#l00124">init_spline_custom()</a>, <a class="el" href="../../#l00271">InitBezier3()</a>, <a class="el" href="../../#l00238">InitCatmullRom()</a>, <a class="el" href="../../#l00181">Movement::Spline&lt; length_type &gt;::initLengths()</a>, <a class="el" href="../../#l00218">InitLinear()</a>, <a class="el" href="../../#l00179">SegLengthBezier3()</a>, <a class="el" href="../../#l00159">SegLengthCatmullRom()</a>, and <a class="el" href="../../#l00153">SegLengthLinear()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00290">clear()</a>, <a class="el" href="../../#l00110">empty()</a>, <a class="el" href="../../#l00127">EvaluateBezier3()</a>, <a class="el" href="../../#l00121">EvaluateCatmullRom()</a>, <a class="el" href="../../#l00146">EvaluateDerivativeBezier3()</a>, <a class="el" href="../../#l00140">EvaluateDerivativeCatmullRom()</a>, <a class="el" href="../../#l00134">EvaluateDerivativeLinear()</a>, <a class="el" href="../../#l00115">EvaluateLinear()</a>, <a class="el" href="../../#l00107">first()</a>, <a class="el" href="../../#l00125">init_spline_custom()</a>, <a class="el" href="../../#l00277">InitBezier3()</a>, <a class="el" href="../../#l00240">InitCatmullRom()</a>, <a class="el" href="../../#l00182">Movement::Spline&lt; length_type &gt;::initLengths()</a>, <a class="el" href="../../#l00220">InitLinear()</a>, <a class="el" href="../../#l00179">SegLengthBezier3()</a>, <a class="el" href="../../#l00159">SegLengthCatmullRom()</a>, and <a class="el" href="../../#l00153">SegLengthLinear()</a>.</p>
 
 </div>
 </div>
@@ -1952,11 +1973,35 @@ template&lt;class Init &gt; </div>
 <div class="line">        &amp;<a class="code hl_function" href="../../d3/d1f/a10192.html#ad8e8a50d51c34508f25c158115f8abdb">SplineBase::InitBezier3</a>,</div>
 <div class="line">        &amp;<a class="code hl_function" href="../../d3/d1f/a10192.html#a520721b492690d166fdb6c17a6bffe51">SplineBase::UninitializedSplineInitMethod</a>,</div>
 <div class="line">    }</div>
-<div class="ttc" id="aa10192_html_a520721b492690d166fdb6c17a6bffe51"><div class="ttname"><a href="../../d3/d1f/a10192.html#a520721b492690d166fdb6c17a6bffe51">Movement::SplineBase::UninitializedSplineInitMethod</a></div><div class="ttdeci">void UninitializedSplineInitMethod(Vector3 const *, index_type, bool, index_type)</div><div class="ttdef"><b>Definition:</b> Spline.h:88</div></div>
-<div class="ttc" id="aa10192_html_ad8e8a50d51c34508f25c158115f8abdb"><div class="ttname"><a href="../../d3/d1f/a10192.html#ad8e8a50d51c34508f25c158115f8abdb">Movement::SplineBase::InitBezier3</a></div><div class="ttdeci">void InitBezier3(const Vector3 *, index_type, bool, index_type)</div><div class="ttdef"><b>Definition:</b> Spline.cpp:271</div></div>
-<div class="ttc" id="aa10192_html_ae1bc098b3ca87cd4b96f60b345ec22f2"><div class="ttname"><a href="../../d3/d1f/a10192.html#ae1bc098b3ca87cd4b96f60b345ec22f2">Movement::SplineBase::InitCatmullRom</a></div><div class="ttdeci">void InitCatmullRom(const Vector3 *, index_type, bool, index_type)</div><div class="ttdef"><b>Definition:</b> Spline.cpp:238</div></div>
+<div class="ttc" id="aa10192_html_a520721b492690d166fdb6c17a6bffe51"><div class="ttname"><a href="../../d3/d1f/a10192.html#a520721b492690d166fdb6c17a6bffe51">Movement::SplineBase::UninitializedSplineInitMethod</a></div><div class="ttdeci">void UninitializedSplineInitMethod(Vector3 const *, index_type, bool, index_type)</div><div class="ttdef"><b>Definition:</b> Spline.h:89</div></div>
+<div class="ttc" id="aa10192_html_ad8e8a50d51c34508f25c158115f8abdb"><div class="ttname"><a href="../../d3/d1f/a10192.html#ad8e8a50d51c34508f25c158115f8abdb">Movement::SplineBase::InitBezier3</a></div><div class="ttdeci">void InitBezier3(const Vector3 *, index_type, bool, index_type)</div><div class="ttdef"><b>Definition:</b> Spline.cpp:277</div></div>
+<div class="ttc" id="aa10192_html_ae1bc098b3ca87cd4b96f60b345ec22f2"><div class="ttname"><a href="../../d3/d1f/a10192.html#ae1bc098b3ca87cd4b96f60b345ec22f2">Movement::SplineBase::InitCatmullRom</a></div><div class="ttdeci">void InitCatmullRom(const Vector3 *, index_type, bool, index_type)</div><div class="ttdef"><b>Definition:</b> Spline.cpp:240</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00210">init_cyclic_spline()</a>, and <a class="el" href="../../#l00202">init_spline()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00211">init_cyclic_spline()</a>, and <a class="el" href="../../#l00202">init_spline()</a>.</p>
+
+</div>
+</div>
+<a id="a6e67541a6058399015af3742352f1ac3" name="a6e67541a6058399015af3742352f1ac3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e67541a6058399015af3742352f1ac3">&#9670;&#160;</a></span>initialOrientation</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Movement::SplineBase::initialOrientation {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00211">init_cyclic_spline()</a>, <a class="el" href="../../#l00202">init_spline()</a>, and <a class="el" href="../../#l00240">InitCatmullRom()</a>.</p>
 
 </div>
 </div>
@@ -1980,7 +2025,7 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00103">evaluate_derivative()</a>, <a class="el" href="../../#l00097">evaluate_percent()</a>, <a class="el" href="../../#l00210">init_cyclic_spline()</a>, <a class="el" href="../../#l00202">init_spline()</a>, <a class="el" href="../../#l00124">init_spline_custom()</a>, <a class="el" href="../../#l00110">mode()</a>, and <a class="el" href="../../#l00132">SegLength()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00104">evaluate_derivative()</a>, <a class="el" href="../../#l00098">evaluate_percent()</a>, <a class="el" href="../../#l00211">init_cyclic_spline()</a>, <a class="el" href="../../#l00202">init_spline()</a>, <a class="el" href="../../#l00125">init_spline_custom()</a>, <a class="el" href="../../#l00240">InitCatmullRom()</a>, <a class="el" href="../../#l00111">mode()</a>, and <a class="el" href="../../#l00133">SegLength()</a>.</p>
 
 </div>
 </div>
@@ -2004,7 +2049,7 @@ template&lt;class Init &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00284">clear()</a>, <a class="el" href="../../#l00127">EvaluateBezier3()</a>, <a class="el" href="../../#l00121">EvaluateCatmullRom()</a>, <a class="el" href="../../#l00146">EvaluateDerivativeBezier3()</a>, <a class="el" href="../../#l00140">EvaluateDerivativeCatmullRom()</a>, <a class="el" href="../../#l00134">EvaluateDerivativeLinear()</a>, <a class="el" href="../../#l00115">EvaluateLinear()</a>, <a class="el" href="../../#l00116">getPoint()</a>, <a class="el" href="../../#l00115">getPointCount()</a>, <a class="el" href="../../#l00114">getPoints()</a>, <a class="el" href="../../#l00124">init_spline_custom()</a>, <a class="el" href="../../#l00271">InitBezier3()</a>, <a class="el" href="../../#l00238">InitCatmullRom()</a>, <a class="el" href="../../#l00218">InitLinear()</a>, <a class="el" href="../../#l00179">SegLengthBezier3()</a>, <a class="el" href="../../#l00159">SegLengthCatmullRom()</a>, <a class="el" href="../../#l00153">SegLengthLinear()</a>, and <a class="el" href="../../#l00291">ToString()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00290">clear()</a>, <a class="el" href="../../#l00127">EvaluateBezier3()</a>, <a class="el" href="../../#l00121">EvaluateCatmullRom()</a>, <a class="el" href="../../#l00146">EvaluateDerivativeBezier3()</a>, <a class="el" href="../../#l00140">EvaluateDerivativeCatmullRom()</a>, <a class="el" href="../../#l00134">EvaluateDerivativeLinear()</a>, <a class="el" href="../../#l00115">EvaluateLinear()</a>, <a class="el" href="../../#l00117">getPoint()</a>, <a class="el" href="../../#l00116">getPointCount()</a>, <a class="el" href="../../#l00115">getPoints()</a>, <a class="el" href="../../#l00125">init_spline_custom()</a>, <a class="el" href="../../#l00277">InitBezier3()</a>, <a class="el" href="../../#l00240">InitCatmullRom()</a>, <a class="el" href="../../#l00220">InitLinear()</a>, <a class="el" href="../../#l00179">SegLengthBezier3()</a>, <a class="el" href="../../#l00159">SegLengthCatmullRom()</a>, <a class="el" href="../../#l00153">SegLengthLinear()</a>, and <a class="el" href="../../#l00297">ToString()</a>.</p>
 
 </div>
 </div>
@@ -2036,7 +2081,7 @@ template&lt;class Init &gt; </div>
 <div class="line">    }</div>
 <div class="ttc" id="aa10192_html_a17550dfbefd86496ca9adfb69ea79ec7"><div class="ttname"><a href="../../d3/d1f/a10192.html#a17550dfbefd86496ca9adfb69ea79ec7">Movement::SplineBase::SegLengthLinear</a></div><div class="ttdeci">float SegLengthLinear(index_type) const</div><div class="ttdef"><b>Definition:</b> Spline.cpp:153</div></div>
 <div class="ttc" id="aa10192_html_a5ca255eb2aace968ba60cbd0eeaa9837"><div class="ttname"><a href="../../d3/d1f/a10192.html#a5ca255eb2aace968ba60cbd0eeaa9837">Movement::SplineBase::SegLengthBezier3</a></div><div class="ttdeci">float SegLengthBezier3(index_type) const</div><div class="ttdef"><b>Definition:</b> Spline.cpp:179</div></div>
-<div class="ttc" id="aa10192_html_a60572b06ecbd6b106ec4bb25c925542f"><div class="ttname"><a href="../../d3/d1f/a10192.html#a60572b06ecbd6b106ec4bb25c925542f">Movement::SplineBase::UninitializedSplineSegLenghtMethod</a></div><div class="ttdeci">float UninitializedSplineSegLenghtMethod(index_type) const</div><div class="ttdef"><b>Definition:</b> Spline.h:87</div></div>
+<div class="ttc" id="aa10192_html_a60572b06ecbd6b106ec4bb25c925542f"><div class="ttname"><a href="../../d3/d1f/a10192.html#a60572b06ecbd6b106ec4bb25c925542f">Movement::SplineBase::UninitializedSplineSegLenghtMethod</a></div><div class="ttdeci">float UninitializedSplineSegLenghtMethod(index_type) const</div><div class="ttdef"><b>Definition:</b> Spline.h:88</div></div>
 <div class="ttc" id="aa10192_html_a6c4861abaf2e0b2b594bdff0e18eb3b4"><div class="ttname"><a href="../../d3/d1f/a10192.html#a6c4861abaf2e0b2b594bdff0e18eb3b4">Movement::SplineBase::SegLengthCatmullRom</a></div><div class="ttdeci">float SegLengthCatmullRom(index_type) const</div><div class="ttdef"><b>Definition:</b> Spline.cpp:159</div></div>
 </div><!-- fragment -->
 </div>
@@ -2047,7 +2092,7 @@ template&lt;class Init &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dd0/a04882.html">Movement</a></li><li class="navelem"><a class="el" href="../../d3/d1f/a10192.html">SplineBase</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:59:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:16:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

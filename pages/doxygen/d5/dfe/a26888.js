@@ -1,7 +1,6 @@
 var a26888 =
 [
-    [ "CalculateAmount", "d5/dfe/a26888.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "d5/dfe/a26888.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "d5/dfe/a26888.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "d5/dfe/a26888.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "HandleAfterCast", "d5/dfe/a26888.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d5/dfe/a26888.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d5/dfe/a26888.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

@@ -1,6 +1,6 @@
 var a21668 =
 [
-    [ "npc_azure_mage_slayerAI", "d7/df2/a21672.html", "d7/df2/a21672" ],
-    [ "npc_azure_mage_slayer", "d0/d2d/a21668.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d0/d2d/a21668.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "npc_azure_spellbreakerAI", "d7/df2/a21672.html", "d7/df2/a21672" ],
+    [ "npc_azure_spellbreaker", "d0/d2d/a21668.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
+    [ "GetAI", "d0/d2d/a21668.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
 ];

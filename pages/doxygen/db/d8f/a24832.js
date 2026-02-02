@@ -1,7 +1,6 @@
 var a24832 =
 [
-    [ "CalcDamage", "db/d8f/a24832.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "db/d8f/a24832.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "db/d8f/a24832.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "db/d8f/a24832.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "RaiseDeadCheck", "db/d8f/a24832.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "db/d8f/a24832.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "db/d8f/a24832.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

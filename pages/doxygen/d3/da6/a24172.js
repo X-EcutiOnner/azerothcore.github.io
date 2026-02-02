@@ -1,11 +1,7 @@
 var a24172 =
 [
-    [ "boss_pathaleon_the_calculator", "d3/da6/a24172.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d3/da6/a24172.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d3/da6/a24172.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d3/da6/a24172.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d3/da6/a24172.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d3/da6/a24172.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d3/da6/a24172.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d3/da6/a24172.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "OnPeriodic", "d3/da6/a24172.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d3/da6/a24172.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d3/da6/a24172.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d3/da6/a24172.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

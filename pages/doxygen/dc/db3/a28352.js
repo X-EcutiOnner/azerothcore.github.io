@@ -1,14 +1,7 @@
 var a28352 =
 [
-    [ "IsFlyable", "dc/db3/a28352.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "dc/db3/a28352.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "dc/db3/a28352.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "dc/db3/a28352.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "dc/db3/a28352.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "dc/db3/a28352.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "dc/db3/a28352.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "dc/db3/a28352.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "dc/db3/a28352.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "dc/db3/a28352.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "dc/db3/a28352.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "Class", "dc/db3/a28352.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "dc/db3/a28352.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "dc/db3/a28352.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "dc/db3/a28352.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

@@ -1,7 +1,6 @@
 var a27168 =
 [
-    [ "CalculateAmount", "df/d47/a27168.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "df/d47/a27168.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "df/d47/a27168.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "df/d47/a27168.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "HandleRemove", "df/d47/a27168.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "df/d47/a27168.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "df/d47/a27168.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

@@ -1,6 +1,6 @@
 var a22056 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "dc/d59/a22060.html", "dc/d59/a22060" ],
-    [ "npc_q24545_wretched_ghoul", "d8/d7b/a22056.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d8/d7b/a22056.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_q24545_vegardAI", "dc/d59/a22060.html", "dc/d59/a22060" ],
+    [ "npc_q24545_vegard", "d8/d7b/a22056.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d8/d7b/a22056.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

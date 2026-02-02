@@ -1,6 +1,7 @@
 var a21864 =
 [
-    [ "npc_counselor_talbotAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
-    [ "npc_counselor_talbot", "d3/dbd/a21864.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d3/dbd/a21864.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_warmage_violetstand", "d3/dbd/a21864.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d3/dbd/a21864.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d3/dbd/a21864.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d3/dbd/a21864.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

@@ -1,6 +1,6 @@
 var a21700 =
 [
-    [ "npc_azure_captainAI", "d2/d15/a21704.html", "d2/d15/a21704" ],
-    [ "npc_azure_captain", "d7/df8/a21700.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d7/df8/a21700.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "HandleEffectPeriodic", "d7/df8/a21700.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d7/df8/a21700.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d7/df8/a21700.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

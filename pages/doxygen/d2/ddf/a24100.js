@@ -1,6 +1,6 @@
 var a24100 =
 [
-    [ "HandleScriptEffect", "d2/ddf/a24100.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d2/ddf/a24100.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d2/ddf/a24100.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "instance_the_eye_InstanceMapScript", "d5/dde/a24104.html", "d5/dde/a24104" ],
+    [ "instance_the_eye", "d2/ddf/a24100.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d2/ddf/a24100.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

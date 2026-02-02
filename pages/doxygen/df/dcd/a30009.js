@@ -1,14 +1,13 @@
 var a30009 =
 [
-    [ "file_MVER", "dc/d81/a29000.html", "dc/d81/a29000" ],
-    [ "FileLoader", "dd/d40/a29008.html", "dd/d40/a29008" ],
-    [ "FILE_FORMAT_VERSION", "df/dcd/a30009.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "df/dcd/a30009.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "df/dcd/a30009.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "df/dcd/a30009.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "df/dcd/a30009.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "df/dcd/a30009.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "df/dcd/a30009.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "df/dcd/a30009.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "df/dcd/a30009.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "ConfigPolicy", "d9/dff/a05196.html", "d9/dff/a05196" ],
+    [ "ConfigMgr", "d6/d6a/a05200.html", "d6/d6a/a05200" ],
+    [ "ConfigException", "d6/d3f/a05204.html", "d6/d3f/a05204" ],
+    [ "sConfigMgr", "df/dcd/a30009.html#a7236988e98bdd405bf435a029b70a26f", null ],
+    [ "ConfigSeverity", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3", [
+      [ "Skip", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
+      [ "Warn", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
+      [ "Error", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Fatal", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
+    ] ]
 ];

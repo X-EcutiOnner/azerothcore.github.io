@@ -1,12 +1,6 @@
 var a21592 =
 [
-    [ "boss_moraggAI", "d6/d2e/a21592.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d6/d2e/a21592.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d6/d2e/a21592.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d6/d2e/a21592.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d6/d2e/a21592.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d6/d2e/a21592.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d6/d2e/a21592.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d6/d2e/a21592.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d6/d2e/a21592.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_vh_void_sentryAI", "dc/ddf/a21596.html", "dc/ddf/a21596" ],
+    [ "npc_vh_void_sentry", "d6/d2e/a21592.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "d6/d2e/a21592.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

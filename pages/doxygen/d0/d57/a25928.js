@@ -1,9 +1,8 @@
 var a25928 =
 [
-    [ "spell_item_trigger_spell", "d0/d57/a25928.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "d0/d57/a25928.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "d0/d57/a25928.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "d0/d57/a25928.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "d0/d57/a25928.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "d0/d57/a25928.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "HandleProc", "d0/d57/a25928.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "d0/d57/a25928.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "d0/d57/a25928.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "d0/d57/a25928.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "d0/d57/a25928.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

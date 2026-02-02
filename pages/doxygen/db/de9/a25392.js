@@ -1,7 +1,8 @@
 var a25392 =
 [
-    [ "HandleScriptEffect", "db/de9/a25392.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
-    [ "PrepareSpellScript", "db/de9/a25392.html#af4320dd6567d8c9cb2a1492095a98459", null ],
-    [ "Register", "db/de9/a25392.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
-    [ "Validate", "db/de9/a25392.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
+    [ "CheckCast", "db/de9/a25392.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "db/de9/a25392.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "db/de9/a25392.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "db/de9/a25392.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "db/de9/a25392.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

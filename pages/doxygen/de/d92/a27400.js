@@ -1,9 +1,6 @@
 var a27400 =
 [
-    [ "emerald_dragonAI", "de/d92/a27400.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "de/d92/a27400.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "de/d92/a27400.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "de/d92/a27400.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "de/d92/a27400.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "de/d92/a27400.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "npc_spirit_shadeAI", "d0/d7e/a27404.html", "d0/d7e/a27404" ],
+    [ "npc_spirit_shade", "de/d92/a27400.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "de/d92/a27400.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

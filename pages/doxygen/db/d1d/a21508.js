@@ -1,6 +1,6 @@
 var a21508 =
 [
-    [ "boss_toravonAI", "db/d49/a21512.html", "db/d49/a21512" ],
-    [ "boss_toravon", "db/d1d/a21508.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "db/d1d/a21508.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "db/d49/a21512.html", "db/d49/a21512" ],
+    [ "instance_vault_of_archavon", "db/d1d/a21508.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "db/d1d/a21508.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

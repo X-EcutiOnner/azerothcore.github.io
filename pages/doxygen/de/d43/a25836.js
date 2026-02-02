@@ -1,7 +1,6 @@
 var a25836 =
 [
-    [ "HandleScriptEffect", "de/d43/a25836.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "de/d43/a25836.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "de/d43/a25836.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "de/d43/a25836.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "OnRemove", "de/d43/a25836.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "de/d43/a25836.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "de/d43/a25836.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

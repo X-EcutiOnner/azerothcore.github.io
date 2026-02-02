@@ -407,6 +407,7 @@ var a02210 =
       [ "DATA_OMROGG_LEFT_HEAD", "d6/d94/a02033.html#afb6eb4f28419b652027fad41104a6d22a95c3bca8e95896b690f3503e3ef31875", null ],
       [ "DATA_OMROGG_RIGHT_HEAD", "d6/d94/a02033.html#afb6eb4f28419b652027fad41104a6d22a040e4b2e1bdad27be5dcca9a39a4e3cc", null ],
       [ "DATA_WARCHIEF_PORTAL", "d6/d94/a02033.html#afb6eb4f28419b652027fad41104a6d22a67e96decde08b7bea19fc87ad8656e3e", null ],
+      [ "DATA_LAST_FLAME_ARROW", "d6/d94/a02033.html#afb6eb4f28419b652027fad41104a6d22ae8a3a7519ff3b93747589918a6fe5129", null ],
       [ "DATA_ZEREKETH", "dd/d09/a02180.html#afb6eb4f28419b652027fad41104a6d22a1c5ca28657197117ea376bbe5a5b4a5a", null ],
       [ "DATA_DALLIAH", "dd/d09/a02180.html#afb6eb4f28419b652027fad41104a6d22adbd0a40329f226f8d3ee0a053e193480", null ],
       [ "DATA_SOCCOTHRATES", "dd/d09/a02180.html#afb6eb4f28419b652027fad41104a6d22a1d1e8bdbaa39601512fa7602f3b22d64", null ],
@@ -483,6 +484,7 @@ var a02210 =
       [ "GO_FEL_IRON_CHECT_HEROIC", "d4/dae/a01994.html#acd8b54d8672687df8df94cb3d9a2a744a3df24a649fb3ca366a43a593e3d26057", null ],
       [ "GO_GRAND_WARLOCK_CHAMBER_DOOR_1", "d6/d94/a02033.html#acd8b54d8672687df8df94cb3d9a2a744a52f42ac688a13a610458ddb34ca3c4d9", null ],
       [ "GO_GRAND_WARLOCK_CHAMBER_DOOR_2", "d6/d94/a02033.html#acd8b54d8672687df8df94cb3d9a2a744aee69234beaca015950f4daf5556bd092", null ],
+      [ "GO_BLAZE", "d6/d94/a02033.html#acd8b54d8672687df8df94cb3d9a2a744a76cc377730af5a132be175c81db9ac9b", null ],
       [ "GO_DOOR_MOARG_1", "d8/d1e/a02210.html#acd8b54d8672687df8df94cb3d9a2a744a2a7e69f5940ea31bf675822e9a72bd70", null ],
       [ "GO_DOOR_MOARG_2", "d8/d1e/a02210.html#acd8b54d8672687df8df94cb3d9a2a744ac3d4ec6faaa60f8a0c815ed8ee1a868a", null ],
       [ "GO_DOOR_NETHERMANCER", "d8/d1e/a02210.html#acd8b54d8672687df8df94cb3d9a2a744adda62666c22bfb57a7054f84a9699e96", null ]

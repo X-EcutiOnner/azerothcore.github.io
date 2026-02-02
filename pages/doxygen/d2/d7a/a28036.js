@@ -1,5 +1,6 @@
 var a28036 =
 [
-    [ "ServerMailReward", "d2/d7a/a28036.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d2/d7a/a28036.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "X", "d2/d7a/a28036.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d2/d7a/a28036.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d2/d7a/a28036.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

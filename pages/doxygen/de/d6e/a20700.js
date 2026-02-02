@@ -1,9 +1,6 @@
 var a20700 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "de/d6e/a20700.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "de/d6e/a20700.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "de/d6e/a20700.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "de/d6e/a20700.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "de/d6e/a20700.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "de/d6e/a20700.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "npc_ulduar_flames_spreadAI", "db/d10/a20704.html", "db/d10/a20704" ],
+    [ "npc_ulduar_flames_spread", "de/d6e/a20700.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "de/d6e/a20700.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

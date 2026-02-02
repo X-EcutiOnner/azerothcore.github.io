@@ -1,11 +1,6 @@
 var a27408 =
 [
-    [ "npc_dream_fogAI", "d0/d26/a27408.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "d0/d26/a27408.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "d0/d26/a27408.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "d0/d26/a27408.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "d0/d26/a27408.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "d0/d26/a27408.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "d0/d26/a27408.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "d0/d26/a27408.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "boss_emerissAI", "d4/d8c/a27412.html", "d4/d8c/a27412" ],
+    [ "boss_emeriss", "d0/d26/a27408.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d0/d26/a27408.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

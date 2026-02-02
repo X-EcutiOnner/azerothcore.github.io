@@ -1,5 +1,5 @@
 var a19596 =
 [
-    [ "achievement_chaos_theory", "d4/df2/a19596.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d4/df2/a19596.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "achievement_split_personality", "d4/df2/a19596.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d4/df2/a19596.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

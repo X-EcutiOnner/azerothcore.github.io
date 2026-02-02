@@ -614,9 +614,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  681</span>: <a class="code hl_struct" href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66baf997d32fd35e20be1409ace0fcabeebb">AI_TYPE_RANGED</a>) { }</div>
-<div class="ttc" id="aa03638_html_a85c683fbce186a8ef023f3fd98e9a66baf997d32fd35e20be1409ace0fcabeebb"><div class="ttname"><a href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66baf997d32fd35e20be1409ace0fcabeebb">AI_TYPE_RANGED</a></div><div class="ttdeci">@ AI_TYPE_RANGED</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:207</div></div>
-<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a></div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:211</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  683</span>: <a class="code hl_struct" href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66baf997d32fd35e20be1409ace0fcabeebb">AI_TYPE_RANGED</a>) { }</div>
+<div class="ttc" id="aa03638_html_a85c683fbce186a8ef023f3fd98e9a66baf997d32fd35e20be1409ace0fcabeebb"><div class="ttname"><a href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66baf997d32fd35e20be1409ace0fcabeebb">AI_TYPE_RANGED</a></div><div class="ttdeci">@ AI_TYPE_RANGED</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:209</div></div>
+<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a></div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:213</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -648,49 +648,49 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  684</span>    {</div>
-<div class="line"><span class="lineno">  685</span>        <a class="code hl_function" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a>(who);</div>
-<div class="line"><span class="lineno">  686</span> </div>
-<div class="line"><span class="lineno">  687</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(20s, [&amp;] {</div>
-<div class="line"><span class="lineno">  688</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba83a5c952e514addc9baf83385a9f8de3">SPELL_GOBLIN_DRAGON_GUN</a>);</div>
-<div class="line"><span class="lineno">  689</span>        }, 20s);</div>
-<div class="line"><span class="lineno">  690</span> </div>
-<div class="line"><span class="lineno">  691</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(7s, [&amp;] {</div>
-<div class="line"><span class="lineno">  692</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba6409f3ecf8d823aa2d475f74648c8694">SPELL_ROCKET_LAUNCH</a>);</div>
-<div class="line"><span class="lineno">  693</span>        }, 20s);</div>
-<div class="line"><span class="lineno">  694</span> </div>
-<div class="line"><span class="lineno">  695</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(14s, [&amp;] {</div>
-<div class="line"><span class="lineno">  696</span>            std::list&lt;Creature*&gt; cList = <a class="code hl_function" href="../../df/d40/a06296.html#ac6d4be79fb1966ee5bdd1678ecab1340">DoFindFriendlyMissingBuff</a>(30.0f, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827">SPELL_RECOMBOBULATE</a>);</div>
-<div class="line"><span class="lineno">  697</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; creature : cList)</div>
-<div class="line"><span class="lineno">  698</span>                <span class="keywordflow">if</span> (creature-&gt;IsPolymorphed())</div>
-<div class="line"><span class="lineno">  699</span>                {</div>
-<div class="line"><span class="lineno">  700</span>                    <a class="code hl_function" href="../../d1/d65/a06240.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827">SPELL_RECOMBOBULATE</a>);</div>
-<div class="line"><span class="lineno">  701</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  702</span>                }</div>
-<div class="line"><span class="lineno">  703</span>        }, 10s);</div>
-<div class="line"><span class="lineno">  704</span> </div>
-<div class="line"><span class="lineno">  705</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(10s, [&amp;] {</div>
-<div class="line"><span class="lineno">  706</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba7d827992f43d628f53f5e20a47e70076">SPELL_HIGH_EXPLOSIVE_SHEEP</a>);</div>
-<div class="line"><span class="lineno">  707</span>        }, 1min);</div>
-<div class="line"><span class="lineno">  708</span> </div>
-<div class="line"><span class="lineno">  709</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(5s, [&amp;] {</div>
-<div class="line"><span class="lineno">  710</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba53a1bee066886261c2f387a32145f497">SPELL_FEL_IRON_BOMB</a>, 0, 15.0f);</div>
-<div class="line"><span class="lineno">  711</span>        }, 20s);</div>
-<div class="line"><span class="lineno">  712</span>    }</div>
-<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba53a1bee066886261c2f387a32145f497"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba53a1bee066886261c2f387a32145f497">SPELL_FEL_IRON_BOMB</a></div><div class="ttdeci">@ SPELL_FEL_IRON_BOMB</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:674</div></div>
-<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba6409f3ecf8d823aa2d475f74648c8694"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba6409f3ecf8d823aa2d475f74648c8694">SPELL_ROCKET_LAUNCH</a></div><div class="ttdeci">@ SPELL_ROCKET_LAUNCH</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:673</div></div>
-<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba7d827992f43d628f53f5e20a47e70076"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba7d827992f43d628f53f5e20a47e70076">SPELL_HIGH_EXPLOSIVE_SHEEP</a></div><div class="ttdeci">@ SPELL_HIGH_EXPLOSIVE_SHEEP</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:676</div></div>
-<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba83a5c952e514addc9baf83385a9f8de3"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba83a5c952e514addc9baf83385a9f8de3">SPELL_GOBLIN_DRAGON_GUN</a></div><div class="ttdeci">@ SPELL_GOBLIN_DRAGON_GUN</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:672</div></div>
-<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827">SPELL_RECOMBOBULATE</a></div><div class="ttdeci">@ SPELL_RECOMBOBULATE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:675</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  686</span>    {</div>
+<div class="line"><span class="lineno">  687</span>        <a class="code hl_function" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a>(who);</div>
+<div class="line"><span class="lineno">  688</span> </div>
+<div class="line"><span class="lineno">  689</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(20s, [&amp;] {</div>
+<div class="line"><span class="lineno">  690</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba83a5c952e514addc9baf83385a9f8de3">SPELL_GOBLIN_DRAGON_GUN</a>);</div>
+<div class="line"><span class="lineno">  691</span>        }, 20s);</div>
+<div class="line"><span class="lineno">  692</span> </div>
+<div class="line"><span class="lineno">  693</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(7s, [&amp;] {</div>
+<div class="line"><span class="lineno">  694</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba6409f3ecf8d823aa2d475f74648c8694">SPELL_ROCKET_LAUNCH</a>);</div>
+<div class="line"><span class="lineno">  695</span>        }, 20s);</div>
+<div class="line"><span class="lineno">  696</span> </div>
+<div class="line"><span class="lineno">  697</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(14s, [&amp;] {</div>
+<div class="line"><span class="lineno">  698</span>            std::list&lt;Creature*&gt; cList = <a class="code hl_function" href="../../df/d40/a06296.html#ac6d4be79fb1966ee5bdd1678ecab1340">DoFindFriendlyMissingBuff</a>(30.0f, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827">SPELL_RECOMBOBULATE</a>);</div>
+<div class="line"><span class="lineno">  699</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; creature : cList)</div>
+<div class="line"><span class="lineno">  700</span>                <span class="keywordflow">if</span> (creature-&gt;IsPolymorphed())</div>
+<div class="line"><span class="lineno">  701</span>                {</div>
+<div class="line"><span class="lineno">  702</span>                    <a class="code hl_function" href="../../d1/d65/a06240.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827">SPELL_RECOMBOBULATE</a>);</div>
+<div class="line"><span class="lineno">  703</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  704</span>                }</div>
+<div class="line"><span class="lineno">  705</span>        }, 10s);</div>
+<div class="line"><span class="lineno">  706</span> </div>
+<div class="line"><span class="lineno">  707</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(10s, [&amp;] {</div>
+<div class="line"><span class="lineno">  708</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba7d827992f43d628f53f5e20a47e70076">SPELL_HIGH_EXPLOSIVE_SHEEP</a>);</div>
+<div class="line"><span class="lineno">  709</span>        }, 1min);</div>
+<div class="line"><span class="lineno">  710</span> </div>
+<div class="line"><span class="lineno">  711</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(5s, [&amp;] {</div>
+<div class="line"><span class="lineno">  712</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba53a1bee066886261c2f387a32145f497">SPELL_FEL_IRON_BOMB</a>, 0, 15.0f);</div>
+<div class="line"><span class="lineno">  713</span>        }, 20s);</div>
+<div class="line"><span class="lineno">  714</span>    }</div>
+<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba53a1bee066886261c2f387a32145f497"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba53a1bee066886261c2f387a32145f497">SPELL_FEL_IRON_BOMB</a></div><div class="ttdeci">@ SPELL_FEL_IRON_BOMB</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:676</div></div>
+<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba6409f3ecf8d823aa2d475f74648c8694"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba6409f3ecf8d823aa2d475f74648c8694">SPELL_ROCKET_LAUNCH</a></div><div class="ttdeci">@ SPELL_ROCKET_LAUNCH</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:675</div></div>
+<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba7d827992f43d628f53f5e20a47e70076"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba7d827992f43d628f53f5e20a47e70076">SPELL_HIGH_EXPLOSIVE_SHEEP</a></div><div class="ttdeci">@ SPELL_HIGH_EXPLOSIVE_SHEEP</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:678</div></div>
+<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba83a5c952e514addc9baf83385a9f8de3"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba83a5c952e514addc9baf83385a9f8de3">SPELL_GOBLIN_DRAGON_GUN</a></div><div class="ttdeci">@ SPELL_GOBLIN_DRAGON_GUN</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:674</div></div>
+<div class="ttc" id="aa03638_html_a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827"><div class="ttname"><a href="../../df/df2/a03638.html#a6fce8d7ce188b5613a71c5b69c587bbba970a70560ee456545b52b5820c20c827">SPELL_RECOMBOBULATE</a></div><div class="ttdeci">@ SPELL_RECOMBOBULATE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:677</div></div>
 <div class="ttc" id="aa06240_html_a01ab166c5d8c01645f8c638c85ed2c94"><div class="ttname"><a href="../../d1/d65/a06240.html#a01ab166c5d8c01645f8c638c85ed2c94">UnitAI::DoCastRandomTarget</a></div><div class="ttdeci">SpellCastResult DoCastRandomTarget(uint32 spellId, uint32 threatTablePosition=0, float dist=0.0f, bool playerOnly=true, bool triggered=false, bool withTank=true)</div><div class="ttdoc">Cast the spell on a random unit from the threat list.</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:295</div></div>
 <div class="ttc" id="aa06240_html_a1e37cbb75f91c247b04131afc7ce35f5"><div class="ttname"><a href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">UnitAI::DoCastAOE</a></div><div class="ttdeci">SpellCastResult DoCastAOE(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:284</div></div>
 <div class="ttc" id="aa06240_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:276</div></div>
 <div class="ttc" id="aa06240_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d1/d65/a06240.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:177</div></div>
 <div class="ttc" id="aa06296_html_a967ab195c2a069153701e99655512282"><div class="ttname"><a href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScriptedAI::ScheduleTimedEvent</a></div><div class="ttdeci">void ScheduleTimedEvent(Milliseconds timerMin, Milliseconds timerMax, std::function&lt; void()&gt; exec, Milliseconds repeatMin, Milliseconds repeatMax=0ms, uint32 uniqueId=0)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:339</div></div>
 <div class="ttc" id="aa06296_html_ac6d4be79fb1966ee5bdd1678ecab1340"><div class="ttname"><a href="../../df/d40/a06296.html#ac6d4be79fb1966ee5bdd1678ecab1340">ScriptedAI::DoFindFriendlyMissingBuff</a></div><div class="ttdeci">std::list&lt; Creature * &gt; DoFindFriendlyMissingBuff(float range, uint32 spellId)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:526</div></div>
-<div class="ttc" id="aa13128_html_a4d47aacc653ab0e4b74fa3bcbcfdbbc7"><div class="ttname"><a href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *who) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:273</div></div>
+<div class="ttc" id="aa13128_html_a4d47aacc653ab0e4b74fa3bcbcfdbbc7"><div class="ttname"><a href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *who) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:275</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00295">UnitAI::DoCastRandomTarget()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00526">ScriptedAI::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l00273">boss_priestess_lackey_commonAI::JustEngagedWith()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00674">SPELL_FEL_IRON_BOMB</a>, <a class="el" href="../../#l00672">SPELL_GOBLIN_DRAGON_GUN</a>, <a class="el" href="../../#l00676">SPELL_HIGH_EXPLOSIVE_SHEEP</a>, <a class="el" href="../../#l00675">SPELL_RECOMBOBULATE</a>, and <a class="el" href="../../#l00673">SPELL_ROCKET_LAUNCH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00295">UnitAI::DoCastRandomTarget()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00526">ScriptedAI::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l00275">boss_priestess_lackey_commonAI::JustEngagedWith()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00676">SPELL_FEL_IRON_BOMB</a>, <a class="el" href="../../#l00674">SPELL_GOBLIN_DRAGON_GUN</a>, <a class="el" href="../../#l00678">SPELL_HIGH_EXPLOSIVE_SHEEP</a>, <a class="el" href="../../#l00677">SPELL_RECOMBOBULATE</a>, and <a class="el" href="../../#l00675">SPELL_ROCKET_LAUNCH</a>.</p>
 
 </div>
 </div>
@@ -700,7 +700,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d96/a13160.html">boss_zelfan</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:14:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

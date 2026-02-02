@@ -1,8 +1,5 @@
 var a28340 =
 [
-    [ "difficulty", "d1/d2a/a28340.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d1/d2a/a28340.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d1/d2a/a28340.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d1/d2a/a28340.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d1/d2a/a28340.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "ID", "d1/d2a/a28340.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d1/d2a/a28340.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

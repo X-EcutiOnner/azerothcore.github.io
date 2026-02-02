@@ -1,6 +1,6 @@
 var a24392 =
 [
-    [ "npc_infernal_attackerAI", "d1/df1/a24396.html", "d1/df1/a24396" ],
-    [ "npc_infernal_attacker", "d7/d76/a24392.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d7/d76/a24392.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npc_drake_dealer_hurlunk", "d7/d76/a24392.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "d7/d76/a24392.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "d7/d76/a24392.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

@@ -1,7 +1,6 @@
 var a20208 =
 [
-    [ "FilterTargets", "d9/dad/a20208.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "d9/dad/a20208.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "d9/dad/a20208.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "d9/dad/a20208.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "PrepareSpellScript", "d9/dad/a20208.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d9/dad/a20208.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d9/dad/a20208.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

@@ -1,9 +1,7 @@
 var a20144 =
 [
-    [ "npc_thorims_hammerAI", "d6/d35/a20144.html#aafda36c8d784252d271ef031ab6a3d34", null ],
-    [ "Reset", "d6/d35/a20144.html#a57975d0dc00c86946e547ba43c7151ec", null ],
-    [ "UpdateAI", "d6/d35/a20144.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
-    [ "_beamTimer", "d6/d35/a20144.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
-    [ "_finishTime", "d6/d35/a20144.html#a218bd28d18a2c2f0aef6906619437209", null ],
-    [ "_removeTimer", "d6/d35/a20144.html#a958e4c975d1ae634745107af7d204f82", null ]
+    [ "npc_storm_beacon_spawnAI", "d6/d35/a20144.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d6/d35/a20144.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d6/d35/a20144.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d6/d35/a20144.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

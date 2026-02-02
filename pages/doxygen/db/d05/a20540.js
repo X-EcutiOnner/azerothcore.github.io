@@ -1,12 +1,5 @@
 var a20540 =
 [
-    [ "npc_ulduar_iron_constructAI", "db/d05/a20540.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "db/d05/a20540.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "db/d05/a20540.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "db/d05/a20540.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "db/d05/a20540.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "db/d05/a20540.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "db/d05/a20540.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "db/d05/a20540.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "db/d05/a20540.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "achievement_ignis_shattered", "db/d05/a20540.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "db/d05/a20540.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

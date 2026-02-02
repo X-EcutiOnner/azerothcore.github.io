@@ -190,7 +190,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  696</span>: <a class="code hl_class" href="../../d2/dc2/a10344.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_thaddius_entrance&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  699</span>: <a class="code hl_class" href="../../d2/dc2/a10344.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_thaddius_entrance&quot;</span>) { }</div>
 <div class="ttc" id="aa10344_html"><div class="ttname"><a href="../../d2/dc2/a10344.html">OnlyOnceAreaTriggerScript</a></div><div class="ttdef"><b>Definition:</b> AreaTriggerScript.h:36</div></div>
 </div><!-- fragment -->
 </div>
@@ -231,13 +231,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/dc2/a10344.html#a6da93a21c84345bd77e467377810e756">OnlyOnceAreaTriggerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  699</span>    {</div>
-<div class="line"><span class="lineno">  700</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/dae/a09760.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d0/d69/a08488.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  701</span>            <span class="keywordflow">if</span> (instance-&gt;GetBossState(<a class="code hl_enumvalue" href="../../dd/d9a/a02699.html#acc04ec0d16988954b6262227213072aeacc2ffed5395aa7771711eb15c2aaa92d">BOSS_THADDIUS</a>) != <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
-<div class="line"><span class="lineno">  702</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d93/a08084.html">Creature</a>* thaddius = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../dd/d9a/a02699.html#a8583d5c31f6e596bafbdc0c20eb41ed7abf380981fa89ed13b0487fd0275fe6ef">DATA_THADDIUS_BOSS</a>))</div>
-<div class="line"><span class="lineno">  703</span>                    thaddius-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a16774215bba3b38580ea51987d64cff1a78569ce7a1386704a7b7389d30d62d8e">SAY_GREET</a>);</div>
-<div class="line"><span class="lineno">  704</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  705</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  702</span>    {</div>
+<div class="line"><span class="lineno">  703</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/dae/a09760.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d0/d69/a08488.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  704</span>            <span class="keywordflow">if</span> (instance-&gt;GetBossState(<a class="code hl_enumvalue" href="../../dd/d9a/a02699.html#acc04ec0d16988954b6262227213072aeacc2ffed5395aa7771711eb15c2aaa92d">BOSS_THADDIUS</a>) != <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
+<div class="line"><span class="lineno">  705</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d93/a08084.html">Creature</a>* thaddius = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../dd/d9a/a02699.html#a8583d5c31f6e596bafbdc0c20eb41ed7abf380981fa89ed13b0487fd0275fe6ef">DATA_THADDIUS_BOSS</a>))</div>
+<div class="line"><span class="lineno">  706</span>                    thaddius-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a16774215bba3b38580ea51987d64cff1a78569ce7a1386704a7b7389d30d62d8e">SAY_GREET</a>);</div>
+<div class="line"><span class="lineno">  707</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  708</span>    }</div>
 <div class="ttc" id="aa01139_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../d5/d3e/a01139.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:61</div></div>
 <div class="ttc" id="aa02699_html_a8583d5c31f6e596bafbdc0c20eb41ed7abf380981fa89ed13b0487fd0275fe6ef"><div class="ttname"><a href="../../dd/d9a/a02699.html#a8583d5c31f6e596bafbdc0c20eb41ed7abf380981fa89ed13b0487fd0275fe6ef">DATA_THADDIUS_BOSS</a></div><div class="ttdeci">@ DATA_THADDIUS_BOSS</div><div class="ttdef"><b>Definition:</b> naxxramas.h:50</div></div>
 <div class="ttc" id="aa02699_html_acc04ec0d16988954b6262227213072aeacc2ffed5395aa7771711eb15c2aaa92d"><div class="ttname"><a href="../../dd/d9a/a02699.html#acc04ec0d16988954b6262227213072aeacc2ffed5395aa7771711eb15c2aaa92d">BOSS_THADDIUS</a></div><div class="ttdeci">@ BOSS_THADDIUS</div><div class="ttdef"><b>Definition:</b> naxxramas.h:36</div></div>
@@ -256,7 +256,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d67/a19476.html">at_thaddius_entrance</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:14:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

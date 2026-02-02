@@ -1,6 +1,6 @@
 var a20904 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d1/d03/a20908.html", "d1/d03/a20908" ],
-    [ "boss_thorim_ancient_rune_giant", "d8/d8f/a20904.html#ad87dca7c6058e4b8b1234410644523dd", null ],
-    [ "GetAI", "d8/d8f/a20904.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
+    [ "OnPeriodic", "d8/d8f/a20904.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d8/d8f/a20904.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d8/d8f/a20904.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

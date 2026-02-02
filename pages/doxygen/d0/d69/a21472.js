@@ -1,6 +1,7 @@
 var a21472 =
 [
-    [ "boss_emalonAI", "d2/d39/a21476.html", "d2/d39/a21476" ],
-    [ "boss_emalon", "d0/d69/a21472.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d0/d69/a21472.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "HandleDummy", "d0/d69/a21472.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d0/d69/a21472.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d0/d69/a21472.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d0/d69/a21472.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

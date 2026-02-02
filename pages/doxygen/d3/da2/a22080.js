@@ -1,6 +1,7 @@
 var a22080 =
 [
-    [ "npc_q24545_vegardAI", "da/db8/a22084.html", "da/db8/a22084" ],
-    [ "npc_q24545_vegard", "d3/da2/a22080.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d3/da2/a22080.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "HandleDummy", "d3/da2/a22080.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d3/da2/a22080.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d3/da2/a22080.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d3/da2/a22080.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

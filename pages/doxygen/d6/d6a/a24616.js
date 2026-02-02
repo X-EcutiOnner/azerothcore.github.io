@@ -1,6 +1,8 @@
 var a24616 =
 [
-    [ "achievement", "d6/d6a/a24616.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d6/d6a/a24616.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d6/d6a/a24616.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d6/d6a/a24616.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d6/d6a/a24616.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d6/d6a/a24616.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d6/d6a/a24616.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d6/d6a/a24616.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

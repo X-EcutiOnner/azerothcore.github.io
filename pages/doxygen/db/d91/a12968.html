@@ -754,10 +754,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06304_html_ace268b3d2d922496c8508ddb263c1fb1"><div class="ttname"><a href="../../d2/d9e/a06304.html#ace268b3d2d922496c8508ddb263c1fb1">BossAI::DamageTaken</a></div><div class="ttdeci">void DamageTaken(Unit *attacker, uint32 &amp;damage, DamageEffectType damagetype, SpellSchoolMask damageSchoolMask) override</div><div class="ttdoc">Called at any Damage from any attacker (before damage apply)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:777</div></div>
 <div class="ttc" id="aa08452_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../de/d33/a08452.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
 <div class="ttc" id="aa08836_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../d4/d58/a08836.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1251</div></div>
-<div class="ttc" id="aa08836_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../d4/d58/a08836.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5844</div></div>
+<div class="ttc" id="aa08836_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../d4/d58/a08836.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5851</div></div>
 <div class="ttc" id="aa12968_html_a1e9a1c361046b12fe0569fbdef4a7033"><div class="ttname"><a href="../../db/d91/a12968.html#a1e9a1c361046b12fe0569fbdef4a7033">boss_tenris_mirkblood::_mirrorTarget</a></div><div class="ttdeci">Unit * _mirrorTarget</div><div class="ttdef"><b>Definition:</b> boss_tenris_mirkblood.cpp:165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00165">_mirrorTarget</a>, <a class="el" href="../../#l01251">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00777">BossAI::DamageTaken()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l05844">Unit::HasAura()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00039">SPELL_BLOOD_MIRROR0</a>, and <a class="el" href="../../#l00043">SPELL_BLOOD_MIRROR_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00165">_mirrorTarget</a>, <a class="el" href="../../#l01251">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00777">BossAI::DamageTaken()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l05851">Unit::HasAura()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00039">SPELL_BLOOD_MIRROR0</a>, and <a class="el" href="../../#l00043">SPELL_BLOOD_MIRROR_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -791,9 +791,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  161</span>        <a class="code hl_variable" href="../../df/d40/a06296.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#ae60ed2cee8b340a5efb62f2acd249284">SetImmuneToPC</a>(<span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  162</span>    }</div>
 <div class="ttc" id="aa06304_html_aa3133830d3ea0203b71628a549f38b59"><div class="ttname"><a href="../../d2/d9e/a06304.html#aa3133830d3ea0203b71628a549f38b59">BossAI::_EnterEvadeMode</a></div><div class="ttdeci">void _EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:692</div></div>
-<div class="ttc" id="aa08836_html_ae60ed2cee8b340a5efb62f2acd249284"><div class="ttname"><a href="../../d4/d58/a08836.html#ae60ed2cee8b340a5efb62f2acd249284">Unit::SetImmuneToPC</a></div><div class="ttdeci">void SetImmuneToPC(bool apply, bool keepCombat=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13763</div></div>
+<div class="ttc" id="aa08836_html_ae60ed2cee8b340a5efb62f2acd249284"><div class="ttname"><a href="../../d4/d58/a08836.html#ae60ed2cee8b340a5efb62f2acd249284">Unit::SetImmuneToPC</a></div><div class="ttdeci">void SetImmuneToPC(bool apply, bool keepCombat=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13772</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00692">BossAI::_EnterEvadeMode()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, and <a class="el" href="../../#l13763">Unit::SetImmuneToPC()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00692">BossAI::_EnterEvadeMode()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, and <a class="el" href="../../#l13772">Unit::SetImmuneToPC()</a>.</p>
 
 </div>
 </div>
@@ -946,7 +946,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06304_html_a2fe5fffaedd7d15e8edde6f2e276287c"><div class="ttname"><a href="../../d2/d9e/a06304.html#a2fe5fffaedd7d15e8edde6f2e276287c">BossAI::ScheduleHealthCheckEvent</a></div><div class="ttdeci">void ScheduleHealthCheckEvent(uint32 healthPct, std::function&lt; void()&gt; exec, bool allowedWhileCasting=true)</div><div class="ttdoc">Executes a function once the creature reaches the defined health point percent.</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:803</div></div>
 <div class="ttc" id="aa06304_html_acdc89a1df0e62952becf83d9e1bd6299"><div class="ttname"><a href="../../d2/d9e/a06304.html#acdc89a1df0e62952becf83d9e1bd6299">BossAI::_Reset</a></div><div class="ttdeci">void _Reset()</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:634</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00634">BossAI::_Reset()</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00034">SAY_SUMMON</a>, <a class="el" href="../../#l00803">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l13763">Unit::SetImmuneToPC()</a>, <a class="el" href="../../#l00045">SPELL_BLOOD_TAP</a>, and <a class="el" href="../../#l00061">SPELL_SUMMON_SANGUINE_SPIRIT_MISSILE_BURST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00634">BossAI::_Reset()</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00034">SAY_SUMMON</a>, <a class="el" href="../../#l00803">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l13772">Unit::SetImmuneToPC()</a>, <a class="el" href="../../#l00045">SPELL_BLOOD_TAP</a>, and <a class="el" href="../../#l00061">SPELL_SUMMON_SANGUINE_SPIRIT_MISSILE_BURST</a>.</p>
 
 </div>
 </div>
@@ -1025,7 +1025,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d91/a12968.html">boss_tenris_mirkblood</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:14:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

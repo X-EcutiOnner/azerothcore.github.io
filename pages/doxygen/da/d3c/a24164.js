@@ -1,10 +1,6 @@
 var a24164 =
 [
-    [ "npc_raging_flames", "da/d3c/a24164.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "da/d3c/a24164.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "da/d3c/a24164.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "da/d3c/a24164.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "da/d3c/a24164.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "da/d3c/a24164.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "da/d3c/a24164.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/dc5/a24168.html", "d0/dc5/a24168" ],
+    [ "npc_deaths_fel_cannon", "da/d3c/a24164.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "da/d3c/a24164.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

@@ -1,10 +1,19 @@
 var a27740 =
 [
-    [ "npc_prof_tailor", "dc/d74/a27740.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "dc/d74/a27740.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "dc/d74/a27740.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "dc/d74/a27740.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "dc/d74/a27740.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "dc/d74/a27740.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "dc/d74/a27740.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "npc_simoneAI", "dc/d74/a27740.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
+    [ "CorpseRemoved", "dc/d74/a27740.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
+    [ "HandlePetRespawn", "dc/d74/a27740.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
+    [ "JustDied", "dc/d74/a27740.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
+    [ "JustEngagedWith", "dc/d74/a27740.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
+    [ "JustRespawned", "dc/d74/a27740.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
+    [ "Precious", "dc/d74/a27740.html#ad40c5f293558ca5a00614810a89d86c9", null ],
+    [ "PreciousAI", "dc/d74/a27740.html#acbdf0e5404402edf28fecf8657303aba", null ],
+    [ "Reset", "dc/d74/a27740.html#a1a62a843922448390151ed14e0ca2148", null ],
+    [ "RespawnPet", "dc/d74/a27740.html#af6d0cad159d88862e915c9f9337a49e3", null ],
+    [ "ScheduleEncounterStart", "dc/d74/a27740.html#ab879f0b452e511212be4df530b11d461", null ],
+    [ "SetPreciousGUID", "dc/d74/a27740.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
+    [ "SpellHit", "dc/d74/a27740.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
+    [ "UpdateAI", "dc/d74/a27740.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
+    [ "events", "dc/d74/a27740.html#a1118fe0b8375db5327a9651a13832523", null ],
+    [ "preciousGUID", "dc/d74/a27740.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
 ];

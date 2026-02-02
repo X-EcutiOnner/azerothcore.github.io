@@ -1,6 +1,6 @@
 var a19636 =
 [
-    [ "instance_nexus_InstanceMapScript", "d2/dc7/a19640.html", "d2/dc7/a19640" ],
-    [ "instance_nexus", "dc/d75/a19636.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "dc/d75/a19636.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "boss_eregosAI", "d2/dc7/a19640.html", "d2/dc7/a19640" ],
+    [ "boss_eregos", "dc/d75/a19636.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "dc/d75/a19636.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

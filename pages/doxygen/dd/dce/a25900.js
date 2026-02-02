@@ -1,6 +1,9 @@
 var a25900 =
 [
-    [ "HandleSummon", "dd/dce/a25900.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
-    [ "PrepareSpellScript", "dd/dce/a25900.html#a4974a3687df394d51db322210ebb5ddb", null ],
-    [ "Register", "dd/dce/a25900.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
+    [ "spell_item_trigger_spell", "dd/dce/a25900.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "dd/dce/a25900.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "dd/dce/a25900.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "dd/dce/a25900.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "dd/dce/a25900.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "dd/dce/a25900.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

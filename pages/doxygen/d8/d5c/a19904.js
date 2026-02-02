@@ -1,6 +1,6 @@
 var a19904 =
 [
-    [ "boss_algalon_the_observerAI", "d3/d9b/a19908.html", "d3/d9b/a19908" ],
-    [ "boss_algalon_the_observer", "d8/d5c/a19904.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d8/d5c/a19904.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "npc_living_constellationAI", "d3/d9b/a19908.html", "d3/d9b/a19908" ],
+    [ "npc_living_constellation", "d8/d5c/a19904.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d8/d5c/a19904.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

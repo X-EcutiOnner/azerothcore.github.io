@@ -1,6 +1,6 @@
 var a24156 =
 [
-    [ "HandleDummy", "de/df2/a24156.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "de/df2/a24156.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "de/df2/a24156.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d9/d32/a24160.html", "d9/d32/a24160" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "de/df2/a24156.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "de/df2/a24156.html#a250707096229da28024960beeb7725bf", null ]
 ];

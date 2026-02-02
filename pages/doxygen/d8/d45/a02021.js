@@ -1,8 +1,8 @@
 var a02021 =
 [
-    [ "boss_porung", "d1/dee/a23880.html", "d1/dee/a23880" ],
-    [ "npc_shattered_hand_scout", "dd/d11/a23884.html", "dd/d11/a23884" ],
-    [ "spell_tsh_shoot_flame_arrow", "d2/daf/a23888.html", "d2/daf/a23888" ],
+    [ "boss_porung", "da/d4e/a23856.html", "da/d4e/a23856" ],
+    [ "npc_shattered_hand_scout", "de/d09/a23860.html", "de/d09/a23860" ],
+    [ "spell_tsh_shoot_flame_arrow", "d9/df3/a23864.html", "d9/df3/a23864" ],
     [ "Misc", "d8/d45/a02021.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d5/d35/a03716.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "da/d85/a03758.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

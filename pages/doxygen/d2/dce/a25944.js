@@ -1,6 +1,6 @@
 var a25944 =
 [
-    [ "HandleScript", "d2/dce/a25944.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "d2/dce/a25944.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "d2/dce/a25944.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "FilterTargets", "d2/dce/a25944.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d2/dce/a25944.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d2/dce/a25944.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

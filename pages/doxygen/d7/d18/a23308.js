@@ -1,6 +1,6 @@
 var a23308 =
 [
-    [ "HandleScriptEffect", "d7/d18/a23308.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "d7/d18/a23308.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "d7/d18/a23308.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "boss_doomlordkazzakAI", "d1/dfd/a23312.html", "d1/dfd/a23312" ],
+    [ "boss_doomlord_kazzak", "d7/d18/a23308.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d7/d18/a23308.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

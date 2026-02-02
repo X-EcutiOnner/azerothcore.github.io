@@ -1,6 +1,6 @@
 var a22508 =
 [
-    [ "npc_freed_protodrakeAI", "d6/d60/a22512.html", "d6/d60/a22512" ],
-    [ "npc_freed_protodrake", "d1/d5b/a22508.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d1/d5b/a22508.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "HandleScriptEffect", "d1/d5b/a22508.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d1/d5b/a22508.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d1/d5b/a22508.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

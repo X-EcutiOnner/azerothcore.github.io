@@ -1,8 +1,7 @@
 var a22256 =
 [
-    [ "CheckCast", "da/da1/a22256.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "da/da1/a22256.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "da/da1/a22256.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "da/da1/a22256.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "da/da1/a22256.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_battle_at_valhalasAI", "de/db3/a22260.html", "de/db3/a22260" ],
+    [ "npc_battle_at_valhalas", "da/da1/a22256.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "da/da1/a22256.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "da/da1/a22256.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

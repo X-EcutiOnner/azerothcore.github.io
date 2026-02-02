@@ -1,5 +1,5 @@
 var a27592 =
 [
-    [ "go_southfury_moonstone", "df/de6/a27592.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "df/de6/a27592.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "go_jotunheim_cage", "df/de6/a27592.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "df/de6/a27592.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

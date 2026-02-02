@@ -1,6 +1,6 @@
 var a20864 =
 [
-    [ "boss_thorim_sif_blizzardAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
-    [ "boss_thorim_sif_blizzard", "d0/dad/a20864.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "d0/dad/a20864.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
+    [ "boss_thorim_gauntlet_npcs", "d0/dad/a20864.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
+    [ "GetAI", "d0/dad/a20864.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
 ];

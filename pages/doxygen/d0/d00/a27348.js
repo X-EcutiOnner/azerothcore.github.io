@@ -1,5 +1,5 @@
 var a27348 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d0/d00/a27348.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d0/d00/a27348.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d0/d00/a27348.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d0/d00/a27348.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

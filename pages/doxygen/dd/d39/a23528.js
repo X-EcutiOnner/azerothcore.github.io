@@ -1,7 +1,7 @@
 var a23528 =
 [
-    [ "npc_ahune_ice_spear_bunny", "dd/d39/a23528.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "dd/d39/a23528.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "dd/d39/a23528.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "dd/d39/a23528.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "PeriodicTick", "dd/d39/a23528.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "dd/d39/a23528.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "dd/d39/a23528.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "dd/d39/a23528.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

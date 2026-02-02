@@ -1,7 +1,10 @@
 var a25924 =
 [
-    [ "OnRemove", "dc/d4a/a25924.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "dc/d4a/a25924.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "dc/d4a/a25924.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "dc/d4a/a25924.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "spell_item_defibrillate", "dc/d4a/a25924.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "dc/d4a/a25924.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "dc/d4a/a25924.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "dc/d4a/a25924.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "dc/d4a/a25924.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "dc/d4a/a25924.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "dc/d4a/a25924.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

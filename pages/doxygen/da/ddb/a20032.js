@@ -1,6 +1,6 @@
 var a20032 =
 [
-    [ "HandleInstaKill", "da/ddb/a20032.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "da/ddb/a20032.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "da/ddb/a20032.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d0/d8f/a20036.html", "d0/d8f/a20036" ],
+    [ "npc_auriaya_sanctum_sentry", "da/ddb/a20032.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
+    [ "GetAI", "da/ddb/a20032.html#a6a8843d3f24378a2fd334e773618ab72", null ]
 ];

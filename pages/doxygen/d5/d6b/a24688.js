@@ -1,9 +1,6 @@
 var a24688 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d5/d6b/a24688.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d5/d6b/a24688.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d5/d6b/a24688.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d5/d6b/a24688.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d5/d6b/a24688.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d5/d6b/a24688.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "HandlePeriodic", "d5/d6b/a24688.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d5/d6b/a24688.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d5/d6b/a24688.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

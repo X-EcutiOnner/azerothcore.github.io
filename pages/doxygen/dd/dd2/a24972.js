@@ -1,6 +1,6 @@
 var a24972 =
 [
-    [ "CalculateAmount", "dd/dd2/a24972.html#a60d451e6b359501b138564085c87a99f", null ],
-    [ "PrepareAuraScript", "dd/dd2/a24972.html#a22059b71bcfdfb9a3be59feaf8005d3f", null ],
-    [ "Register", "dd/dd2/a24972.html#ab33586608d444404c07edc4ffbb717ee", null ]
+    [ "FilterTargets", "dd/dd2/a24972.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "dd/dd2/a24972.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "dd/dd2/a24972.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

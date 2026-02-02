@@ -1,6 +1,7 @@
 var a23088 =
 [
-    [ "HandleSharedRule", "d8/dc9/a23088.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "d8/dc9/a23088.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "d8/dc9/a23088.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "CheckProc", "d8/dc9/a23088.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "d8/dc9/a23088.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "d8/dc9/a23088.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "d8/dc9/a23088.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

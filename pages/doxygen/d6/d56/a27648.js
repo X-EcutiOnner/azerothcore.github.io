@@ -1,5 +1,6 @@
 var a27648 =
 [
-    [ "go_massive_seaforium_charge", "d6/d56/a27648.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d6/d56/a27648.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "guard_shattrath_aldorAI", "da/da9/a27652.html", "da/da9/a27652" ],
+    [ "guard_shattrath_aldor", "d6/d56/a27648.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d6/d56/a27648.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

@@ -1,6 +1,7 @@
 var a27012 =
 [
-    [ "HandleDummy", "df/d8c/a27012.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "df/d8c/a27012.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "df/d8c/a27012.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "HandleAuraApply", "df/d8c/a27012.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "df/d8c/a27012.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "df/d8c/a27012.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "df/d8c/a27012.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

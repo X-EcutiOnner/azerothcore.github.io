@@ -1,9 +1,8 @@
 var a24968 =
 [
-    [ "Absorb", "dc/d30/a24968.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "dc/d30/a24968.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "dc/d30/a24968.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "dc/d30/a24968.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "dc/d30/a24968.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "dc/d30/a24968.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "AfterApply", "dc/d30/a24968.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dc/d30/a24968.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dc/d30/a24968.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dc/d30/a24968.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dc/d30/a24968.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

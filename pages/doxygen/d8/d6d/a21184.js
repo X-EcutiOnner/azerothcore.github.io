@@ -1,6 +1,6 @@
 var a21184 =
 [
-    [ "FilterTargets", "d8/d6d/a21184.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d8/d6d/a21184.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d8/d6d/a21184.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "OnEffect", "d8/d6d/a21184.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d8/d6d/a21184.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d8/d6d/a21184.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

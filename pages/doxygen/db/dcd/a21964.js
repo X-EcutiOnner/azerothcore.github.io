@@ -1,5 +1,6 @@
 var a21964 =
 [
-    [ "go_the_pearl_of_the_depths", "db/dcd/a21964.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "db/dcd/a21964.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_mindless_ghoulAI", "db/dcd/a21964.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "db/dcd/a21964.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "db/dcd/a21964.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

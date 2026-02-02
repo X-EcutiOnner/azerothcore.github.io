@@ -1,6 +1,6 @@
 var a22064 =
 [
-    [ "GhoulTargetCheck", "dd/d61/a22064.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "dd/d61/a22064.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "dd/d61/a22064.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_spiritual_insightAI", "df/d89/a22068.html", "df/d89/a22068" ],
+    [ "npc_spiritual_insight", "dd/d61/a22064.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "dd/d61/a22064.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

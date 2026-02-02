@@ -1,8 +1,11 @@
 var a19808 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "de/de9/a19808.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "de/de9/a19808.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "de/de9/a19808.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "de/de9/a19808.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "de/de9/a19808.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "boss_maiden_of_griefAI", "de/de9/a19808.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "de/de9/a19808.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "de/de9/a19808.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "de/de9/a19808.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "de/de9/a19808.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "de/de9/a19808.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "de/de9/a19808.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "de/de9/a19808.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

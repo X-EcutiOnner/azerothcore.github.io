@@ -1,6 +1,9 @@
 var a19832 =
 [
-    [ "boss_maiden_of_griefAI", "d7/d5e/a19836.html", "d7/d5e/a19836" ],
-    [ "boss_maiden_of_grief", "de/da5/a19832.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "de/da5/a19832.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "de/da5/a19832.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "de/da5/a19832.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "de/da5/a19832.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "de/da5/a19832.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "de/da5/a19832.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "de/da5/a19832.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

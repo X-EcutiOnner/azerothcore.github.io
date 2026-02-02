@@ -1,7 +1,9 @@
 var a24244 =
 [
-    [ "HandleEffect", "d2/d0b/a24244.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d2/d0b/a24244.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d2/d0b/a24244.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d2/d0b/a24244.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_wounded_blood_elfAI", "d2/d0b/a24244.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d2/d0b/a24244.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d2/d0b/a24244.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d2/d0b/a24244.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d2/d0b/a24244.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d2/d0b/a24244.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

@@ -1,10 +1,7 @@
 var a22140 =
 [
-    [ "npc_emilyAI", "df/df1/a22140.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "df/df1/a22140.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "df/df1/a22140.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "df/df1/a22140.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "df/df1/a22140.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "df/df1/a22140.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "df/df1/a22140.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "HandleScriptEffect", "df/df1/a22140.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "df/df1/a22140.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "df/df1/a22140.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "df/df1/a22140.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

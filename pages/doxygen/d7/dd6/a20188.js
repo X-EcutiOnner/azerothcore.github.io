@@ -1,5 +1,6 @@
 var a20188 =
 [
-    [ "go_ulduar_tower", "d7/dd6/a20188.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d7/dd6/a20188.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "HandleScript", "d7/dd6/a20188.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d7/dd6/a20188.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d7/dd6/a20188.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

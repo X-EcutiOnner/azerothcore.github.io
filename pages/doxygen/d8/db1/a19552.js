@@ -1,6 +1,6 @@
 var a19552 =
 [
-    [ "npc_alexstraszaAI", "d0/dce/a19556.html", "d0/dce/a19556" ],
-    [ "npc_alexstrasza", "d8/db1/a19552.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "d8/db1/a19552.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d0/dce/a19556.html", "d0/dce/a19556" ],
+    [ "instance_eye_of_eternity", "d8/db1/a19552.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d8/db1/a19552.html#a475958c76204df77a6ca51606ddeb577", null ]
 ];

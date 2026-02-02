@@ -1,6 +1,6 @@
 var a19828 =
 [
-    [ "CalculateDamage", "de/da7/a19828.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "de/da7/a19828.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "de/da7/a19828.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "de/da5/a19832.html", "de/da5/a19832" ],
+    [ "boss_sjonnir_iron_sludge", "de/da7/a19828.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "de/da7/a19828.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

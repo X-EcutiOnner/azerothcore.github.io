@@ -1,8 +1,7 @@
 var a22564 =
 [
-    [ "spell_loosen_grip", "d3/d57/a22564.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "d3/d57/a22564.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "d3/d57/a22564.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "d3/d57/a22564.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "d3/d57/a22564.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "HandleScript", "d3/d57/a22564.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "d3/d57/a22564.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "d3/d57/a22564.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "d3/d57/a22564.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

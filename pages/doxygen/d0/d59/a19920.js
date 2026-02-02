@@ -1,6 +1,6 @@
 var a19920 =
 [
-    [ "npc_collapsing_starAI", "d4/d90/a19924.html", "d4/d90/a19924" ],
-    [ "npc_collapsing_star", "d0/d59/a19920.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d0/d59/a19920.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "go_celestial_planetarium_accessAI", "d4/d90/a19924.html", "d4/d90/a19924" ],
+    [ "go_celestial_planetarium_access", "d0/d59/a19920.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "d0/d59/a19920.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

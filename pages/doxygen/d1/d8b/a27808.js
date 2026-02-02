@@ -1,7 +1,10 @@
 var a27808 =
 [
-    [ "npc_riggle_bassbaitAI", "d1/d8b/a27808.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d1/d8b/a27808.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d1/d8b/a27808.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d1/d8b/a27808.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_air_force_botsAI", "d1/d8b/a27808.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d1/d8b/a27808.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d1/d8b/a27808.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d1/d8b/a27808.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d1/d8b/a27808.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d1/d8b/a27808.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d1/d8b/a27808.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

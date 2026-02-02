@@ -1,6 +1,6 @@
 var a21004 =
 [
-    [ "HandleScript", "d8/d18/a21004.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d8/d18/a21004.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d8/d18/a21004.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "boss_yoggsaron_saraAI", "d2/d12/a21008.html", "d2/d12/a21008" ],
+    [ "boss_yoggsaron_sara", "d8/d18/a21004.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "d8/d18/a21004.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

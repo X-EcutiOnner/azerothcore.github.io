@@ -1,6 +1,5 @@
 var a22692 =
 [
-    [ "npc_released_offspring_harkoaAI", "da/ddc/a22692.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "da/ddc/a22692.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "da/ddc/a22692.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "da/ddc/a22692.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "da/ddc/a22692.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

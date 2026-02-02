@@ -1,6 +1,6 @@
 var a21128 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d7/dd9/a21132.html", "d7/dd9/a21132" ],
-    [ "boss_yoggsaron_lich_king", "d9/d51/a21128.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d9/d51/a21128.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "boss_yoggsaron_voiceAI", "d7/dd9/a21132.html", "d7/dd9/a21132" ],
+    [ "boss_yoggsaron_voice", "d9/d51/a21128.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "d9/d51/a21128.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

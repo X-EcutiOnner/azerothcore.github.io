@@ -1,6 +1,6 @@
 var a22688 =
 [
-    [ "npc_released_offspring_harkoaAI", "da/ddc/a22692.html", "da/ddc/a22692" ],
-    [ "npc_released_offspring_harkoa", "d3/db4/a22688.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d3/db4/a22688.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "FilterTargets", "d3/db4/a22688.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d3/db4/a22688.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d3/db4/a22688.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

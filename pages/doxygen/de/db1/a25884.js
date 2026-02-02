@@ -1,6 +1,6 @@
 var a25884 =
 [
-    [ "HandleProc", "de/db1/a25884.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
-    [ "PrepareAuraScript", "de/db1/a25884.html#a5299aaeacead013e00e81ec7960528f8", null ],
-    [ "Register", "de/db1/a25884.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
+    [ "HandlePeriodicTick", "de/db1/a25884.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "de/db1/a25884.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "de/db1/a25884.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

@@ -1,7 +1,9 @@
 var a26924 =
 [
-    [ "CheckProc", "d0/dcd/a26924.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "d0/dcd/a26924.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "d0/dcd/a26924.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "d0/dcd/a26924.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "HandleHeal", "d0/dcd/a26924.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d0/dcd/a26924.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d0/dcd/a26924.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d0/dcd/a26924.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d0/dcd/a26924.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d0/dcd/a26924.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

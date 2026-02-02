@@ -1,5 +1,6 @@
 var a20520 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "dc/dbe/a20520.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "dc/dbe/a20520.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "boss_ignisAI", "d2/d5c/a20524.html", "d2/d5c/a20524" ],
+    [ "boss_ignis", "dc/dbe/a20520.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "dc/dbe/a20520.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

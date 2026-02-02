@@ -1,7 +1,6 @@
 var a23844 =
 [
-    [ "FilterTargets", "da/d34/a23844.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "da/d34/a23844.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "da/d34/a23844.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "da/d34/a23844.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "PrepareSpellScript", "da/d34/a23844.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "da/d34/a23844.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "da/d34/a23844.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

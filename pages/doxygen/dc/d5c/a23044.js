@@ -1,7 +1,7 @@
 var a23044 =
 [
-    [ "VerasEnvenom", "dc/d5c/a23044.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "dc/d5c/a23044.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "dc/d5c/a23044.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "dc/d5c/a23044.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "boss_veras_darkshadow", "dc/d5c/a23044.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "dc/d5c/a23044.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "dc/d5c/a23044.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "dc/d5c/a23044.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

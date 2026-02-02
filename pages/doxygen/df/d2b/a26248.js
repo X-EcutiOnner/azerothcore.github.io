@@ -1,6 +1,12 @@
 var a26248 =
 [
-    [ "OnRemove", "df/d2b/a26248.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "df/d2b/a26248.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "df/d2b/a26248.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "CalcPeriodic", "df/d2b/a26248.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "df/d2b/a26248.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "df/d2b/a26248.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "df/d2b/a26248.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "df/d2b/a26248.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "df/d2b/a26248.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "df/d2b/a26248.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "df/d2b/a26248.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "df/d2b/a26248.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

@@ -1,12 +1,7 @@
 var a21320 =
 [
-    [ "boss_skarvald_the_constructor", "df/d72/a21320.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "df/d72/a21320.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "df/d72/a21320.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "df/d72/a21320.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "df/d72/a21320.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "df/d72/a21320.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "df/d72/a21320.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "df/d72/a21320.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "df/d72/a21320.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "HandleOnEffectRemove", "df/d72/a21320.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "df/d72/a21320.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "df/d72/a21320.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "df/d72/a21320.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

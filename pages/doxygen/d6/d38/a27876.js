@@ -1,13 +1,7 @@
 var a27876 =
 [
-    [ "npc_garments_of_questsAI", "d6/d38/a27876.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d6/d38/a27876.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d6/d38/a27876.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d6/d38/a27876.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d6/d38/a27876.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d6/d38/a27876.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "d6/d38/a27876.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d6/d38/a27876.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d6/d38/a27876.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d6/d38/a27876.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_wormholeAI", "d6/d38/a27876.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d6/d38/a27876.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d6/d38/a27876.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d6/d38/a27876.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

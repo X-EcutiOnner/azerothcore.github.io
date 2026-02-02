@@ -1,8 +1,9 @@
 var a28692 =
 [
-    [ "NoRuneCost", "dc/da2/a28692.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "dc/da2/a28692.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "dc/da2/a28692.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "dc/da2/a28692.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "dc/da2/a28692.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "Category", "dc/da2/a28692.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "dc/da2/a28692.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "dc/da2/a28692.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "dc/da2/a28692.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "dc/da2/a28692.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "dc/da2/a28692.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

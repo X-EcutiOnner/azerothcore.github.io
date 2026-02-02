@@ -1,6 +1,6 @@
 var a23828 =
 [
-    [ "HandleScriptEffect", "d2/d36/a23828.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d2/d36/a23828.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d2/d36/a23828.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d4/dce/a23832.html", "d4/dce/a23832" ],
+    [ "instance_magtheridons_lair", "d2/d36/a23828.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d2/d36/a23828.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

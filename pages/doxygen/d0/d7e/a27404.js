@@ -1,6 +1,7 @@
 var a27404 =
 [
-    [ "npc_dream_fogAI", "d0/d26/a27408.html", "d0/d26/a27408" ],
-    [ "npc_dream_fog", "d0/d7e/a27404.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d0/d7e/a27404.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "npc_spirit_shadeAI", "d0/d7e/a27404.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d0/d7e/a27404.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d0/d7e/a27404.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d0/d7e/a27404.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

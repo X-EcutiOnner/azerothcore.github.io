@@ -1,5 +1,6 @@
 var a28456 =
 [
-    [ "Id", "de/d51/a28456.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "de/d51/a28456.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "Id", "de/d51/a28456.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "de/d51/a28456.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "de/d51/a28456.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

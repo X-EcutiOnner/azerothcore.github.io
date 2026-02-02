@@ -1,13 +1,7 @@
 var a23520 =
 [
-    [ "npc_ahune_bunny", "dc/d71/a23520.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
-    [ "DoAction", "dc/d71/a23520.html#ad071787c47254f603ba7692889733202", null ],
-    [ "JustDied", "dc/d71/a23520.html#a8733a3e495ebf69df4f9d1213df50170", null ],
-    [ "JustSummoned", "dc/d71/a23520.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
-    [ "ResetFlameCallers", "dc/d71/a23520.html#a60a74aabbf42116079081134a332a100", null ],
-    [ "UpdateAI", "dc/d71/a23520.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
-    [ "_events", "dc/d71/a23520.html#af84154fff16cbdb15586b3b07223e010", null ],
-    [ "_instance", "dc/d71/a23520.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
-    [ "_submerged", "dc/d71/a23520.html#a15fdcc2fda18e118f398ccc055f52942", null ],
-    [ "_summons", "dc/d71/a23520.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
+    [ "PeriodicTick", "dc/d71/a23520.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "dc/d71/a23520.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "dc/d71/a23520.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "dc/d71/a23520.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

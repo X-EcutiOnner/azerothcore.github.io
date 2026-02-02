@@ -1,5 +1,7 @@
 var a20752 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "db/d7f/a20752.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "db/d7f/a20752.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/d7f/a20752.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "db/d7f/a20752.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "db/d7f/a20752.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "db/d7f/a20752.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

@@ -1,6 +1,6 @@
 var a21120 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "de/d5d/a21124.html", "de/d5d/a21124" ],
-    [ "boss_yoggsaron_immortal_guardian", "d4/d9a/a21120.html#a4009759d284b54cb958ee0bb80c45f14", null ],
-    [ "GetAI", "d4/d9a/a21120.html#ac532ca090d93ce6d11a0332329111f2b", null ]
+    [ "boss_yoggsaron_neltharionAI", "de/d5d/a21124.html", "de/d5d/a21124" ],
+    [ "boss_yoggsaron_neltharion", "d4/d9a/a21120.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d4/d9a/a21120.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

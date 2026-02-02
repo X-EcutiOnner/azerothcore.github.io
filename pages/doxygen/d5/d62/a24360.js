@@ -1,10 +1,11 @@
 var a24360 =
 [
-    [ "npc_maxx_a_million_escortAI", "d5/d62/a24360.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d5/d62/a24360.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d5/d62/a24360.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d5/d62/a24360.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d5/d62/a24360.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "d5/d62/a24360.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d5/d62/a24360.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "npc_invis_infernal_casterAI", "d5/d62/a24360.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d5/d62/a24360.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d5/d62/a24360.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d5/d62/a24360.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d5/d62/a24360.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d5/d62/a24360.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d5/d62/a24360.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d5/d62/a24360.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

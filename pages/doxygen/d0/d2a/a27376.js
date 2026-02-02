@@ -1,5 +1,6 @@
 var a27376 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d0/d2a/a27376.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d0/d2a/a27376.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "npc_dream_fogAI", "d2/d58/a27380.html", "d2/d58/a27380" ],
+    [ "npc_dream_fog", "d0/d2a/a27376.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d0/d2a/a27376.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

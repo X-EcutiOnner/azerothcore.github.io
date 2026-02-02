@@ -1,6 +1,6 @@
 var a19944 =
 [
-    [ "go_celestial_planetarium_accessAI", "d7/d47/a19948.html", "d7/d47/a19948" ],
-    [ "go_celestial_planetarium_access", "d2/d18/a19944.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d2/d18/a19944.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "PrepareSpellScript", "d2/d18/a19944.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d2/d18/a19944.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d2/d18/a19944.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

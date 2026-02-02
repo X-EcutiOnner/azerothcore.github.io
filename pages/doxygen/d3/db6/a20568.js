@@ -1,6 +1,7 @@
 var a20568 =
 [
-    [ "boss_kologarnAI", "db/df5/a20572.html", "db/df5/a20572" ],
-    [ "boss_kologarn", "d3/db6/a20568.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "d3/db6/a20568.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "FilterTargetsInitial", "d3/db6/a20568.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d3/db6/a20568.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d3/db6/a20568.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d3/db6/a20568.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

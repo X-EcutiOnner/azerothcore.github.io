@@ -1,8 +1,10 @@
 var a26304 =
 [
-    [ "Absorb", "dc/dab/a26304.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "dc/dab/a26304.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "dc/dab/a26304.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "dc/dab/a26304.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "dc/dab/a26304.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "AfterCheckProc", "dc/dab/a26304.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "dc/dab/a26304.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "dc/dab/a26304.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "dc/dab/a26304.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "dc/dab/a26304.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "dc/dab/a26304.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "dc/dab/a26304.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

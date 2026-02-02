@@ -1,6 +1,5 @@
 var a21220 =
 [
-    [ "CheckCast", "df/dab/a21220.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "df/dab/a21220.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "df/dab/a21220.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "df/dab/a21220.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "df/dab/a21220.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

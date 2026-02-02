@@ -1,6 +1,6 @@
 var a20444 =
 [
-    [ "npc_ulduar_hodir_druidAI", "d8/dc8/a20448.html", "d8/dc8/a20448" ],
-    [ "npc_ulduar_hodir_druid", "dc/d76/a20444.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "dc/d76/a20444.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "DestroyWinterCache", "dc/d76/a20444.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "dc/d76/a20444.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "dc/d76/a20444.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

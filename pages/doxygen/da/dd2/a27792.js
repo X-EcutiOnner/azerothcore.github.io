@@ -1,6 +1,6 @@
 var a27792 =
 [
-    [ "npc_taxi", "da/dd2/a27792.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "da/dd2/a27792.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "da/dd2/a27792.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_target_dummyAI", "db/dd0/a27796.html", "db/dd0/a27796" ],
+    [ "npc_target_dummy", "da/dd2/a27792.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "da/dd2/a27792.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

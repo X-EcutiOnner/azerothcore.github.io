@@ -1,6 +1,8 @@
 var a20780 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d3/d96/a20784.html", "d3/d96/a20784" ],
-    [ "npc_ulduar_harpoonfirestate", "d6/d61/a20780.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "d6/d61/a20780.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "d6/d61/a20780.html#aedb43124c923621aadecb77511204fc6", null ],
+    [ "CanAIAttack", "d6/d61/a20780.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
+    [ "Reset", "d6/d61/a20780.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
+    [ "UpdateAI", "d6/d61/a20780.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
+    [ "timer2", "d6/d61/a20780.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
 ];

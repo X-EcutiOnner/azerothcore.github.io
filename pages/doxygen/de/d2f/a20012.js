@@ -1,6 +1,8 @@
 var a20012 =
 [
-    [ "npc_assembly_lightningAI", "d2/db4/a20016.html", "d2/db4/a20016" ],
-    [ "npc_assembly_lightning", "de/d2f/a20012.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "de/d2f/a20012.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "OnPeriodic", "de/d2f/a20012.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "de/d2f/a20012.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "de/d2f/a20012.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "de/d2f/a20012.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "de/d2f/a20012.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

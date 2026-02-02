@@ -1,10 +1,12 @@
 var a22344 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d6/d20/a22344.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d6/d20/a22344.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d6/d20/a22344.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d6/d20/a22344.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d6/d20/a22344.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d6/d20/a22344.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d6/d20/a22344.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_tournament_training_dummyAI", "d6/d20/a22344.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "d6/d20/a22344.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "d6/d20/a22344.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "d6/d20/a22344.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "d6/d20/a22344.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "d6/d20/a22344.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "d6/d20/a22344.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "d6/d20/a22344.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "d6/d20/a22344.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

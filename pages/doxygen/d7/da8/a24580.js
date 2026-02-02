@@ -1,6 +1,6 @@
 var a24580 =
 [
-    [ "go_ancient_skull_pile", "d7/da8/a24580.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d7/da8/a24580.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d7/da8/a24580.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "HandleDamageCalc", "d7/da8/a24580.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d7/da8/a24580.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d7/da8/a24580.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

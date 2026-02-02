@@ -1,6 +1,6 @@
 var a22392 =
 [
-    [ "HandleHealPct", "da/d8d/a22392.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "da/d8d/a22392.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "da/d8d/a22392.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_vekjik", "da/d8d/a22392.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "da/d8d/a22392.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "da/d8d/a22392.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

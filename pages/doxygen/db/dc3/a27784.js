@@ -1,11 +1,6 @@
 var a27784 =
 [
-    [ "npc_franklinAI", "db/dc3/a27784.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "db/dc3/a27784.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "db/dc3/a27784.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "db/dc3/a27784.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "db/dc3/a27784.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "db/dc3/a27784.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "db/dc3/a27784.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "db/dc3/a27784.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_training_dummyAI", "d5/d19/a27788.html", "d5/d19/a27788" ],
+    [ "npc_training_dummy", "db/dc3/a27784.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
+    [ "GetAI", "db/dc3/a27784.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
 ];

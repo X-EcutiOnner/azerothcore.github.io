@@ -1,6 +1,5 @@
 var a21872 =
 [
-    [ "PrepareSpellScript", "d9/dbd/a21872.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d9/dbd/a21872.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d9/dbd/a21872.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/dbd/a21872.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d9/dbd/a21872.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

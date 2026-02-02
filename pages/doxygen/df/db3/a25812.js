@@ -1,8 +1,6 @@
 var a25812 =
 [
-    [ "OnApply", "df/db3/a25812.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "df/db3/a25812.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "df/db3/a25812.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "df/db3/a25812.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "df/db3/a25812.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleDummy", "df/db3/a25812.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "df/db3/a25812.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "df/db3/a25812.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

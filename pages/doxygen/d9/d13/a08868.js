@@ -27,6 +27,7 @@ var a08868 =
     [ "Install", "d9/d13/a08868.html#aa08c4d4d91b9b773d7675a03ae7695fa", null ],
     [ "InstallAccessory", "d9/d13/a08868.html#ab24082d564a2645571b275ad37befe5b", null ],
     [ "InstallAllAccessories", "d9/d13/a08868.html#aebf47d4b105ad8fffa989cb3adf55afe", null ],
+    [ "IsControllableVehicle", "d9/d13/a08868.html#aa0d8e9952aa4ca637bf75d7c0332b908", null ],
     [ "IsVehicleInUse", "d9/d13/a08868.html#a06211ca71a5a6a44f7430d7c6c430c51", null ],
     [ "RelocatePassengers", "d9/d13/a08868.html#aad793a2337e5cba70ade6638f8550614", null ],
     [ "RemoveAllPassengers", "d9/d13/a08868.html#a56de5cf217145c0e5c1b0f123a83b6ae", null ],

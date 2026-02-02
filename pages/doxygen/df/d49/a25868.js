@@ -1,6 +1,6 @@
 var a25868 =
 [
-    [ "HandleActivateObject", "df/d49/a25868.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "df/d49/a25868.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "df/d49/a25868.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandlePeriodicTick", "df/d49/a25868.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "df/d49/a25868.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "df/d49/a25868.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

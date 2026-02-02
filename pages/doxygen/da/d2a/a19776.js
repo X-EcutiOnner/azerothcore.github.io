@@ -1,12 +1,6 @@
 var a19776 =
 [
-    [ "boss_ionar", "da/d2a/a19776.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "da/d2a/a19776.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "da/d2a/a19776.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "da/d2a/a19776.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "da/d2a/a19776.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "da/d2a/a19776.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "da/d2a/a19776.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "da/d2a/a19776.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "da/d2a/a19776.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "de/d70/a19780.html", "de/d70/a19780" ],
+    [ "instance_halls_of_lightning", "da/d2a/a19776.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "da/d2a/a19776.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

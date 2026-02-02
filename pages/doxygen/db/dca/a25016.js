@@ -1,7 +1,10 @@
 var a25016 =
 [
-    [ "CalculateAmount", "db/dca/a25016.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
-    [ "Load", "db/dca/a25016.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
-    [ "PrepareAuraScript", "db/dca/a25016.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
-    [ "Register", "db/dca/a25016.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
+    [ "Load", "db/dca/a25016.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "db/dca/a25016.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "db/dca/a25016.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "db/dca/a25016.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "db/dca/a25016.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "db/dca/a25016.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "db/dca/a25016.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

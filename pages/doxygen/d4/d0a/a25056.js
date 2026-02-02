@@ -1,10 +1,9 @@
 var a25056 =
 [
-    [ "FilterTargets", "d4/d0a/a25056.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d4/d0a/a25056.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d4/d0a/a25056.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d4/d0a/a25056.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d4/d0a/a25056.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d4/d0a/a25056.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d4/d0a/a25056.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "PrepareAuraScript", "d4/d0a/a25056.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d4/d0a/a25056.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d4/d0a/a25056.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d4/d0a/a25056.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d4/d0a/a25056.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d4/d0a/a25056.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

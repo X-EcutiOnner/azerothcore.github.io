@@ -1,6 +1,6 @@
 var a26536 =
 [
-    [ "HandleDamage", "d2/d55/a26536.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d2/d55/a26536.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d2/d55/a26536.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleDummyEffect", "d2/d55/a26536.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d2/d55/a26536.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d2/d55/a26536.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

@@ -1,5 +1,5 @@
 var a27296 =
 [
-    [ "achievement_bg_ic_resource_glut", "da/dde/a27296.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "da/dde/a27296.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "achievement_bg_av_perfection", "da/dde/a27296.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "da/dde/a27296.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

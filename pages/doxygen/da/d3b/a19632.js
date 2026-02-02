@@ -1,8 +1,13 @@
 var a19632 =
 [
-    [ "npc_crystal_spike", "da/d3b/a19632.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "da/d3b/a19632.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "da/d3b/a19632.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "da/d3b/a19632.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "da/d3b/a19632.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_oculus_unstable_sphereAI", "da/d3b/a19632.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "da/d3b/a19632.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "da/d3b/a19632.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "da/d3b/a19632.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "da/d3b/a19632.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "da/d3b/a19632.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "da/d3b/a19632.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "da/d3b/a19632.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "da/d3b/a19632.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "da/d3b/a19632.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

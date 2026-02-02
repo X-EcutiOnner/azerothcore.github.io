@@ -1,9 +1,6 @@
 var a21868 =
 [
-    [ "npc_counselor_talbotAI", "da/ddb/a21868.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "da/ddb/a21868.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "da/ddb/a21868.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "da/ddb/a21868.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "da/ddb/a21868.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "da/ddb/a21868.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/dbd/a21872.html", "d9/dbd/a21872" ],
+    [ "npc_steam_powered_auctioneer", "da/ddb/a21868.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "da/ddb/a21868.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

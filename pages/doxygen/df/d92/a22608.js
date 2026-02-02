@@ -1,6 +1,7 @@
 var a22608 =
 [
-    [ "npc_wg_queueAI", "df/d92/a22608.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "df/d92/a22608.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "df/d92/a22608.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "HandleScript", "df/d92/a22608.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "df/d92/a22608.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "df/d92/a22608.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "df/d92/a22608.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

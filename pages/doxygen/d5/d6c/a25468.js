@@ -1,5 +1,7 @@
 var a25468 =
 [
-    [ "PrepareSpellScript", "d5/d6c/a25468.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "d5/d6c/a25468.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "OnApply", "d5/d6c/a25468.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d5/d6c/a25468.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d5/d6c/a25468.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d5/d6c/a25468.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

@@ -1,7 +1,8 @@
 var a28408 =
 [
-    [ "Displayid", "d6/d4b/a28408.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d6/d4b/a28408.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d6/d4b/a28408.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d6/d4b/a28408.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "DamagedDisplayId", "d6/d4b/a28408.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d6/d4b/a28408.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d6/d4b/a28408.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d6/d4b/a28408.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d6/d4b/a28408.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

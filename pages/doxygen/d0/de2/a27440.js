@@ -1,10 +1,9 @@
 var a27440 =
 [
-    [ "boss_emerissAI", "d0/de2/a27440.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d0/de2/a27440.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d0/de2/a27440.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d0/de2/a27440.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d0/de2/a27440.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d0/de2/a27440.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d0/de2/a27440.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "ChatLogScript", "d0/de2/a27440.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "d0/de2/a27440.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "d0/de2/a27440.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "d0/de2/a27440.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "d0/de2/a27440.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "d0/de2/a27440.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

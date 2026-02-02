@@ -1,10 +1,7 @@
 var a19700 =
 [
-    [ "npc_oculus_drakegiverAI", "d3/dd7/a19700.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d3/dd7/a19700.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d3/dd7/a19700.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d3/dd7/a19700.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d3/dd7/a19700.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d3/dd7/a19700.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d3/dd7/a19700.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "CalcDamage", "d3/dd7/a19700.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d3/dd7/a19700.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d3/dd7/a19700.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d3/dd7/a19700.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

@@ -1,8 +1,7 @@
 var a26468 =
 [
-    [ "CheckProc", "d1/db2/a26468.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "d1/db2/a26468.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "d1/db2/a26468.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "d1/db2/a26468.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "d1/db2/a26468.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "CalculateAmount", "d1/db2/a26468.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "d1/db2/a26468.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "d1/db2/a26468.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d1/db2/a26468.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

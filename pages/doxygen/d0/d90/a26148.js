@@ -1,8 +1,6 @@
 var a26148 =
 [
-    [ "HandleDummy", "d0/d90/a26148.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
-    [ "Load", "d0/d90/a26148.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
-    [ "PrepareSpellScript", "d0/d90/a26148.html#a070e83b84feb418f02327240daebede7", null ],
-    [ "Register", "d0/d90/a26148.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
-    [ "Validate", "d0/d90/a26148.html#a48934cde38c6f3b18087267b616ff338", null ]
+    [ "PrepareSpellScript", "d0/d90/a26148.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "d0/d90/a26148.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "d0/d90/a26148.html#a59641895cead08de4a4503262505ee73", null ]
 ];

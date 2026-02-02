@@ -1,14 +1,13 @@
 var a21360 =
 [
-    [ "npc_massive_jormungarAI", "d1/d56/a21360.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d1/d56/a21360.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d1/d56/a21360.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d1/d56/a21360.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d1/d56/a21360.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d1/d56/a21360.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d1/d56/a21360.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d1/d56/a21360.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d1/d56/a21360.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d1/d56/a21360.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d1/d56/a21360.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_frenzied_worgenAI", "d1/d56/a21360.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d1/d56/a21360.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d1/d56/a21360.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d1/d56/a21360.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d1/d56/a21360.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d1/d56/a21360.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d1/d56/a21360.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d1/d56/a21360.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d1/d56/a21360.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d1/d56/a21360.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

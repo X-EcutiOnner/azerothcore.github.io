@@ -1,11 +1,6 @@
 var a22908 =
 [
-    [ "boss_blackheart_the_inciter", "de/d1c/a22908.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "de/d1c/a22908.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "de/d1c/a22908.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "de/d1c/a22908.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "de/d1c/a22908.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "de/d1c/a22908.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "de/d1c/a22908.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "de/d1c/a22908.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "PrepareSpellScript", "de/d1c/a22908.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "de/d1c/a22908.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "de/d1c/a22908.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

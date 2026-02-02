@@ -1,8 +1,6 @@
 var a21256 =
 [
-    [ "npc_ulduar_keeperAI", "da/d91/a21260.html", "da/d91/a21260" ],
-    [ "npc_ulduar_keeper", "d2/d4e/a21256.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d2/d4e/a21256.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d2/d4e/a21256.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d2/d4e/a21256.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "da/d91/a21260.html", "da/d91/a21260" ],
+    [ "npc_ulduar_arachnopod_destroyer", "d2/d4e/a21256.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
+    [ "GetAI", "d2/d4e/a21256.html#ad667e7bacc181e79cb002181c71aac7c", null ]
 ];

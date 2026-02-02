@@ -1,6 +1,7 @@
 var a25492 =
 [
-    [ "OnApply", "de/dea/a25492.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "de/dea/a25492.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "de/dea/a25492.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "ModDest", "de/dea/a25492.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "de/dea/a25492.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "de/dea/a25492.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "de/dea/a25492.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

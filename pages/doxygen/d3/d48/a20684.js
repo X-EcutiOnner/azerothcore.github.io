@@ -1,8 +1,9 @@
 var a20684 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d3/d48/a20684.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "d3/d48/a20684.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "d3/d48/a20684.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "d3/d48/a20684.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "d3/d48/a20684.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "HandleEffectPeriodic", "d3/d48/a20684.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d3/d48/a20684.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d3/d48/a20684.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d3/d48/a20684.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d3/d48/a20684.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d3/d48/a20684.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

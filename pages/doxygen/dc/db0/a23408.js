@@ -1,6 +1,6 @@
 var a23408 =
 [
-    [ "HandleScriptEffect", "dc/db0/a23408.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "dc/db0/a23408.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "dc/db0/a23408.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "FilterTargets", "dc/db0/a23408.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "dc/db0/a23408.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "dc/db0/a23408.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

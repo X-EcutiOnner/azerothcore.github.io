@@ -2,6 +2,7 @@ var a19448 =
 [
     [ "boss_thaddiusAI", "d2/d9e/a19448.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
     [ "DoAction", "d2/d9e/a19448.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
+    [ "IsAnyPlayerInMeleeRange", "d2/d9e/a19448.html#aa5175bb29e16c1c421cf16207e890d57", null ],
     [ "JustDied", "d2/d9e/a19448.html#a2ec7bfa46d972cdd857289693acdc965", null ],
     [ "JustEngagedWith", "d2/d9e/a19448.html#a52ec355e0ddd2a29b06b473303941b46", null ],
     [ "JustSummoned", "d2/d9e/a19448.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],

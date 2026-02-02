@@ -1,5 +1,6 @@
 var a25796 =
 [
-    [ "PrepareSpellScript", "d8/dab/a25796.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "d8/dab/a25796.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "CheckProc", "d8/dab/a25796.html#a8158e7338b29b072f0c851771d0e8eee", null ],
+    [ "PrepareAuraScript", "d8/dab/a25796.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
+    [ "Register", "d8/dab/a25796.html#ae24336f87db322e546bd858bc50f2351", null ]
 ];

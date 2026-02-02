@@ -1,6 +1,9 @@
 var a24584 =
 [
-    [ "npc_slim", "d9/d8c/a24584.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d9/d8c/a24584.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d9/d8c/a24584.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d9/d8c/a24584.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d9/d8c/a24584.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d9/d8c/a24584.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d9/d8c/a24584.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d9/d8c/a24584.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d9/d8c/a24584.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

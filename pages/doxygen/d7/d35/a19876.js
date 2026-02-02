@@ -1,8 +1,6 @@
 var a19876 =
 [
-    [ "brann_bronzebeardAI", "de/dd1/a19880.html", "de/dd1/a19880" ],
-    [ "brann_bronzebeard", "d7/d35/a19876.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d7/d35/a19876.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d7/d35/a19876.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d7/d35/a19876.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "CosmicSmashDamageEvent", "d7/d35/a19876.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d7/d35/a19876.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d7/d35/a19876.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

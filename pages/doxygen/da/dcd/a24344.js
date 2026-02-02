@@ -1,5 +1,7 @@
 var a24344 =
 [
-    [ "at_commander_dawnforge", "da/dcd/a24344.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "da/dcd/a24344.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "CheckRequirement", "da/dcd/a24344.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "da/dcd/a24344.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "da/dcd/a24344.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "da/dcd/a24344.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

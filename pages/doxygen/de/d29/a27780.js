@@ -1,8 +1,7 @@
 var a27780 =
 [
-    [ "npc_franklinAI", "db/dc3/a27784.html", "db/dc3/a27784" ],
-    [ "npc_franklin", "de/d29/a27780.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "de/d29/a27780.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "de/d29/a27780.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "de/d29/a27780.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "npc_riggle_bassbaitAI", "de/d29/a27780.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "de/d29/a27780.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "de/d29/a27780.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "de/d29/a27780.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

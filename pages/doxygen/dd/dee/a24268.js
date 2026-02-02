@@ -1,6 +1,6 @@
 var a24268 =
 [
-    [ "npc_wounded_blood_elfAI", "d7/d7b/a24272.html", "d7/d7b/a24272" ],
-    [ "npc_wounded_blood_elf", "dd/dee/a24268.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "dd/dee/a24268.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "go_magtheridons_head", "dd/dee/a24268.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "dd/dee/a24268.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "dd/dee/a24268.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

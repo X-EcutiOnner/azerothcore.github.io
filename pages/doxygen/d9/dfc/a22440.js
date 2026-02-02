@@ -1,6 +1,6 @@
 var a22440 =
 [
-    [ "npc_jungle_punch_targetAI", "de/dd9/a22444.html", "de/dd9/a22444" ],
-    [ "npc_jungle_punch_target", "d9/dfc/a22440.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d9/dfc/a22440.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "HandleScript", "d9/dfc/a22440.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "d9/dfc/a22440.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "d9/dfc/a22440.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

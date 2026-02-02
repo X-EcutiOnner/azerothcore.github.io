@@ -1,8 +1,5 @@
 var a26600 =
 [
-    [ "HandleEffectRemove", "df/d80/a26600.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "df/d80/a26600.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "df/d80/a26600.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "df/d80/a26600.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "df/d80/a26600.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "PrepareSpellScript", "df/d80/a26600.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
+    [ "Register", "df/d80/a26600.html#a721430db1738b255f114483bdddef5e2", null ]
 ];

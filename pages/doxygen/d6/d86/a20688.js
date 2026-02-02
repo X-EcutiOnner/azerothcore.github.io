@@ -1,6 +1,5 @@
 var a20688 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "db/de0/a20692.html", "db/de0/a20692" ],
-    [ "npc_ulduar_magnetic_core", "d6/d86/a20688.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "d6/d86/a20688.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "go_ulduar_do_not_push_this_button", "d6/d86/a20688.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "d6/d86/a20688.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

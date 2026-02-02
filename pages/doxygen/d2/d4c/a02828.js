@@ -1,9 +1,9 @@
 var a02828 =
 [
-    [ "npc_frost_tomb", "db/d5c/a21304.html", "db/d5c/a21304" ],
-    [ "boss_keleseth", "d2/dc1/a21308.html", "d2/dc1/a21308" ],
-    [ "npc_vrykul_skeleton", "d4/dce/a21312.html", "d4/dce/a21312" ],
-    [ "spell_frost_tomb_aura", "d1/d1d/a21316.html", "d1/d1d/a21316" ],
+    [ "npc_frost_tomb", "dc/dac/a21280.html", "dc/dac/a21280" ],
+    [ "boss_keleseth", "db/d4d/a21284.html", "db/d4d/a21284" ],
+    [ "npc_vrykul_skeleton", "d9/da9/a21288.html", "d9/da9/a21288" ],
+    [ "spell_frost_tomb_aura", "d0/d64/a21292.html", "d0/d64/a21292" ],
     [ "eNPCs", "d2/d4c/a02828.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_BROODLORD", "de/df3/a00185.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
       [ "NPC_JAN_ALAI", "de/df3/a00185.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
@@ -76,6 +76,8 @@ var a02828 =
       [ "SPELL_ARCANE_SHOCK", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a70217cff0adeb1a0499b1651a82f03ef", null ],
       [ "SPELL_HASTE", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
       [ "SPELL_ALEXSTRASZA_GIFT", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ],
+      [ "SPELL_SUMMON_RED_DRAGON_BUDDY", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a830614a9bf710d7048b72ee0a5278eff", null ],
+      [ "SPELL_RIDE_RED_DRAGON", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ],
       [ "SPELL_SUMMON_VALKYR", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
       [ "SPELL_RESURRECTION_BEAM", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5b685630d8a3d29bdf642c7c3fb066cb", null ],
       [ "SPELL_RESURRECTION_BALL", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a581272352a56e266974b3d5242b18b1c", null ],

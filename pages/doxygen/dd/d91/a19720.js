@@ -1,7 +1,6 @@
 var a19720 =
 [
-    [ "Apply", "dd/d91/a19720.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "dd/d91/a19720.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "dd/d91/a19720.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "dd/d91/a19720.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "HandlePeriodic", "dd/d91/a19720.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "dd/d91/a19720.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "dd/d91/a19720.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

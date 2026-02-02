@@ -1,8 +1,7 @@
 var a19952 =
 [
-    [ "HandlePeriodic", "da/d4d/a19952.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "da/d4d/a19952.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "da/d4d/a19952.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "da/d4d/a19952.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "da/d4d/a19952.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "HandlePeriodic", "da/d4d/a19952.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "da/d4d/a19952.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "da/d4d/a19952.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "da/d4d/a19952.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

@@ -1,6 +1,6 @@
 var a21224 =
 [
-    [ "HandleScript", "d4/d0c/a21224.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d4/d0c/a21224.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d4/d0c/a21224.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "instance_ulduar_InstanceMapScript", "dd/da6/a21228.html", "dd/da6/a21228" ],
+    [ "instance_ulduar", "d4/d0c/a21224.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d4/d0c/a21224.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

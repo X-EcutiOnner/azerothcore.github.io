@@ -1,5 +1,6 @@
 var a27600 =
 [
-    [ "go_tele_to_violet_stand", "d8/ddc/a27600.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "d8/ddc/a27600.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "go_soulwellAI", "db/d48/a27604.html", "db/d48/a27604" ],
+    [ "go_soulwell", "d8/ddc/a27600.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d8/ddc/a27600.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

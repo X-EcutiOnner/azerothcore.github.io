@@ -330,6 +330,7 @@ var a00881 =
     [ "UnitState", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544", [
       [ "UNIT_STATE_DIED", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a1fba79641d6d2749fd2f2dc26e0e7fba", null ],
       [ "UNIT_STATE_MELEE_ATTACKING", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544aca5cf26a4e0d2d9e3126ff99ed3796ef", null ],
+      [ "UNIT_STATE_CHARMED", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544af5772ac6790d549119c9b68ab486df29", null ],
       [ "UNIT_STATE_STUNNED", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106", null ],
       [ "UNIT_STATE_ROAMING", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544aa36759647797ae28c5b8c36dbb4872d5", null ],
       [ "UNIT_STATE_CHASE", "df/d41/a00881.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9", null ],

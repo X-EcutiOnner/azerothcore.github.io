@@ -1,6 +1,6 @@
 var a27628 =
 [
-    [ "go_soulwellAI", "d6/d8b/a27632.html", "d6/d8b/a27632" ],
-    [ "go_soulwell", "d3/d96/a27628.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d3/d96/a27628.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_bellsAI", "d6/d8b/a27632.html", "d6/d8b/a27632" ],
+    [ "go_bells", "d3/d96/a27628.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d3/d96/a27628.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

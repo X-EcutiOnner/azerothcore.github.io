@@ -1,6 +1,6 @@
 var a28856 =
 [
-    [ "SetUp", "dc/d91/a28856.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "dc/d91/a28856.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "dc/d91/a28856.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "ForceInitValues", "dc/d91/a28856.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
+    [ "Player", "dc/d91/a28856.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "UpdateObjectVisibility", "dc/d91/a28856.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
 ];

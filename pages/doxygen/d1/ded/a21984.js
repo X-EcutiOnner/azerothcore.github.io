@@ -1,6 +1,6 @@
 var a21984 =
 [
-    [ "npc_mindless_ghoulAI", "dd/d20/a21988.html", "dd/d20/a21988" ],
-    [ "npc_mindless_ghoul", "d1/ded/a21984.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d1/ded/a21984.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "CheckCast", "d1/ded/a21984.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d1/ded/a21984.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d1/ded/a21984.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

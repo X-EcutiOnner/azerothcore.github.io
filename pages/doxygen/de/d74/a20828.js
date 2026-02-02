@@ -1,5 +1,11 @@
 var a20828 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "de/d74/a20828.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "de/d74/a20828.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "boss_thorim_lightning_orbAI", "de/d74/a20828.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
+    [ "AttackStart", "de/d74/a20828.html#a88a885b96016788f8011dd1d3d44d992", null ],
+    [ "EnterEvadeMode", "de/d74/a20828.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
+    [ "InitWaypoint", "de/d74/a20828.html#a420217dd9e482edc24a87dead2753321", null ],
+    [ "MoveInLineOfSight", "de/d74/a20828.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
+    [ "Reset", "de/d74/a20828.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
+    [ "WaypointReached", "de/d74/a20828.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
+    [ "Timer", "de/d74/a20828.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
 ];

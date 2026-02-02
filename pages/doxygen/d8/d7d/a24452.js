@@ -1,6 +1,6 @@
 var a24452 =
 [
-    [ "npc_lord_illidan_stormrageAI", "df/d2c/a24456.html", "df/d2c/a24456" ],
-    [ "npc_lord_illidan_stormrage", "d8/d7d/a24452.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d8/d7d/a24452.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "df/d2c/a24456.html", "df/d2c/a24456" ],
+    [ "npc_shadowmoon_tuber_node", "d8/d7d/a24452.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d8/d7d/a24452.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

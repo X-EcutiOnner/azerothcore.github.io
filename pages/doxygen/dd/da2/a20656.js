@@ -1,24 +1,6 @@
 var a20656 =
 [
-    [ "npc_ulduar_vx001AI", "dd/da2/a20656.html#a47b46f1110a0a376544e388501a5dc82", null ],
-    [ "AttackStart", "dd/da2/a20656.html#a5b3fdc76e6ea484a7d0fdc815dad56c7", null ],
-    [ "DamageTaken", "dd/da2/a20656.html#a41b562b4df965445e8581eec12a4bcfa", null ],
-    [ "DoAction", "dd/da2/a20656.html#aacbaae85f9870e64ca43a42c224bb12e", null ],
-    [ "EnterEvadeMode", "dd/da2/a20656.html#aed853ac2a262750d1ccb636146897f06", null ],
-    [ "GetData", "dd/da2/a20656.html#a7b7387c58924d3e05ed1e5fc9273e1fa", null ],
-    [ "KilledUnit", "dd/da2/a20656.html#a0a12f7cfd55b0e14f41b8ae3107656fc", null ],
-    [ "MoveInLineOfSight", "dd/da2/a20656.html#a37295ca8047d2cb2248faa59b68830bf", null ],
-    [ "PassengerBoarded", "dd/da2/a20656.html#a8b9f0a4a56f38f527ce1c80202ce084f", null ],
-    [ "Reset", "dd/da2/a20656.html#a07dcd2c5ce8125bff0287f172ead79d5", null ],
-    [ "SetData", "dd/da2/a20656.html#a3cfeac1b6f76d9c337ceb64dd8647980", null ],
-    [ "SpellHit", "dd/da2/a20656.html#abf25b8b64231c1aba63a381734709d76", null ],
-    [ "UpdateAI", "dd/da2/a20656.html#aeb7956153cbfcac4064a5896c231bebb", null ],
-    [ "bIsEvading", "dd/da2/a20656.html#ab0230a2e72f5a0f37abcb01428749db2", null ],
-    [ "events", "dd/da2/a20656.html#a4728fe7157b76c4841a29548817ca3be", null ],
-    [ "fighting", "dd/da2/a20656.html#a53ff3572622d29e3b58719990df8ce6a", null ],
-    [ "leftarm", "dd/da2/a20656.html#a52c6c4e1ed36f81b5d655e0399d485e1", null ],
-    [ "Phase", "dd/da2/a20656.html#a17aa1eaa6af8e450f47348096d9ed400", null ],
-    [ "pInstance", "dd/da2/a20656.html#a05d8dfa16d609a8689e7b1f01cd4333b", null ],
-    [ "spinningUpOrientation", "dd/da2/a20656.html#a2d696433e3897b0ddbc2d22da8af741f", null ],
-    [ "spinningUpTimer", "dd/da2/a20656.html#ab42021785e07a3ca000ae807c53c84a8", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "df/df3/a20660.html", "df/df3/a20660" ],
+    [ "npc_ulduar_mimiron_rocket", "dd/da2/a20656.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
+    [ "GetAI", "dd/da2/a20656.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
 ];

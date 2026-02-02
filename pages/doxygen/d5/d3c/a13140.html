@@ -614,9 +614,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  451</span>: <a class="code hl_struct" href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a>) { }</div>
-<div class="ttc" id="aa03638_html_a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc"><div class="ttname"><a href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a></div><div class="ttdeci">@ AI_TYPE_MELEE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:206</div></div>
-<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a></div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:211</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  453</span>: <a class="code hl_struct" href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a>) { }</div>
+<div class="ttc" id="aa03638_html_a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc"><div class="ttname"><a href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a></div><div class="ttdeci">@ AI_TYPE_MELEE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:208</div></div>
+<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a></div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:213</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -648,29 +648,29 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  454</span>    {</div>
-<div class="line"><span class="lineno">  455</span>        <a class="code hl_function" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a>(who);</div>
-<div class="line"><span class="lineno">  456</span> </div>
-<div class="line"><span class="lineno">  457</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(6s, [&amp;] {</div>
-<div class="line"><span class="lineno">  458</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b">SPELL_KNOCKDOWN</a>);</div>
-<div class="line"><span class="lineno">  459</span>        }, 10s);</div>
-<div class="line"><span class="lineno">  460</span> </div>
-<div class="line"><span class="lineno">  461</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(3s, [&amp;] {</div>
-<div class="line"><span class="lineno">  462</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50">SPELL_SNAP_KICK</a>);</div>
-<div class="line"><span class="lineno">  463</span>        }, 10s);</div>
-<div class="line"><span class="lineno">  464</span> </div>
-<div class="line"><span class="lineno">  465</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(3s, [&amp;] {</div>
-<div class="line"><span class="lineno">  466</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6a311d63dccca931b5a87b7ef14c17199e">SPELL_FISTS_OF_ARCANE</a>);</div>
-<div class="line"><span class="lineno">  467</span>        }, 10s);</div>
-<div class="line"><span class="lineno">  468</span>    }</div>
-<div class="ttc" id="aa03638_html_a900f3352aadd098f5a6289cbad77dab6a311d63dccca931b5a87b7ef14c17199e"><div class="ttname"><a href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6a311d63dccca931b5a87b7ef14c17199e">SPELL_FISTS_OF_ARCANE</a></div><div class="ttdeci">@ SPELL_FISTS_OF_ARCANE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:446</div></div>
-<div class="ttc" id="aa03638_html_a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50"><div class="ttname"><a href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50">SPELL_SNAP_KICK</a></div><div class="ttdeci">@ SPELL_SNAP_KICK</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:445</div></div>
-<div class="ttc" id="aa03638_html_a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b"><div class="ttname"><a href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b">SPELL_KNOCKDOWN</a></div><div class="ttdeci">@ SPELL_KNOCKDOWN</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:444</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  456</span>    {</div>
+<div class="line"><span class="lineno">  457</span>        <a class="code hl_function" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a>(who);</div>
+<div class="line"><span class="lineno">  458</span> </div>
+<div class="line"><span class="lineno">  459</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(6s, [&amp;] {</div>
+<div class="line"><span class="lineno">  460</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b">SPELL_KNOCKDOWN</a>);</div>
+<div class="line"><span class="lineno">  461</span>        }, 10s);</div>
+<div class="line"><span class="lineno">  462</span> </div>
+<div class="line"><span class="lineno">  463</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(3s, [&amp;] {</div>
+<div class="line"><span class="lineno">  464</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50">SPELL_SNAP_KICK</a>);</div>
+<div class="line"><span class="lineno">  465</span>        }, 10s);</div>
+<div class="line"><span class="lineno">  466</span> </div>
+<div class="line"><span class="lineno">  467</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(3s, [&amp;] {</div>
+<div class="line"><span class="lineno">  468</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6a311d63dccca931b5a87b7ef14c17199e">SPELL_FISTS_OF_ARCANE</a>);</div>
+<div class="line"><span class="lineno">  469</span>        }, 10s);</div>
+<div class="line"><span class="lineno">  470</span>    }</div>
+<div class="ttc" id="aa03638_html_a900f3352aadd098f5a6289cbad77dab6a311d63dccca931b5a87b7ef14c17199e"><div class="ttname"><a href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6a311d63dccca931b5a87b7ef14c17199e">SPELL_FISTS_OF_ARCANE</a></div><div class="ttdeci">@ SPELL_FISTS_OF_ARCANE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:448</div></div>
+<div class="ttc" id="aa03638_html_a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50"><div class="ttname"><a href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50">SPELL_SNAP_KICK</a></div><div class="ttdeci">@ SPELL_SNAP_KICK</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:447</div></div>
+<div class="ttc" id="aa03638_html_a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b"><div class="ttname"><a href="../../df/df2/a03638.html#a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b">SPELL_KNOCKDOWN</a></div><div class="ttdeci">@ SPELL_KNOCKDOWN</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:446</div></div>
 <div class="ttc" id="aa06240_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:276</div></div>
 <div class="ttc" id="aa06296_html_a967ab195c2a069153701e99655512282"><div class="ttname"><a href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScriptedAI::ScheduleTimedEvent</a></div><div class="ttdeci">void ScheduleTimedEvent(Milliseconds timerMin, Milliseconds timerMax, std::function&lt; void()&gt; exec, Milliseconds repeatMin, Milliseconds repeatMax=0ms, uint32 uniqueId=0)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:339</div></div>
-<div class="ttc" id="aa13128_html_a4d47aacc653ab0e4b74fa3bcbcfdbbc7"><div class="ttname"><a href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *who) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:273</div></div>
+<div class="ttc" id="aa13128_html_a4d47aacc653ab0e4b74fa3bcbcfdbbc7"><div class="ttname"><a href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *who) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:275</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00273">boss_priestess_lackey_commonAI::JustEngagedWith()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00446">SPELL_FISTS_OF_ARCANE</a>, <a class="el" href="../../#l00444">SPELL_KNOCKDOWN</a>, and <a class="el" href="../../#l00445">SPELL_SNAP_KICK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00275">boss_priestess_lackey_commonAI::JustEngagedWith()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00448">SPELL_FISTS_OF_ARCANE</a>, <a class="el" href="../../#l00446">SPELL_KNOCKDOWN</a>, and <a class="el" href="../../#l00447">SPELL_SNAP_KICK</a>.</p>
 
 </div>
 </div>
@@ -680,7 +680,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d3c/a13140.html">boss_eramas_brightblaze</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:14:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

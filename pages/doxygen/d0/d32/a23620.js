@@ -1,6 +1,6 @@
 var a23620 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/dcc/a23624.html", "d3/dcc/a23624" ],
-    [ "instance_steam_vault", "d0/d32/a23620.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d0/d32/a23620.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "HandlePeriodic", "d0/d32/a23620.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d0/d32/a23620.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d0/d32/a23620.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

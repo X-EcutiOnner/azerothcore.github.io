@@ -1,6 +1,6 @@
 var a24728 =
 [
-    [ "HandlePeriodic", "db/d86/a24728.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "db/d86/a24728.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "db/d86/a24728.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "HandleProc", "db/d86/a24728.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
+    [ "PrepareAuraScript", "db/d86/a24728.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "db/d86/a24728.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

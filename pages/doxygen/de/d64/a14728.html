@@ -364,11 +364,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08452_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:200</div></div>
 <div class="ttc" id="aa08836_html"><div class="ttname"><a href="../../d4/d58/a08836.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
 <div class="ttc" id="aa08836_html_a0d13935c40d0392f7f7b5a34540461b2"><div class="ttname"><a href="../../d4/d58/a08836.html#a0d13935c40d0392f7f7b5a34540461b2">Unit::getGender</a></div><div class="ttdeci">uint8 getGender() const</div><div class="ttdef"><b>Definition:</b> Unit.h:838</div></div>
-<div class="ttc" id="aa08836_html_a45cc249e2d3dc3f60bd61b143c8a8a7d"><div class="ttname"><a href="../../d4/d58/a08836.html#a45cc249e2d3dc3f60bd61b143c8a8a7d">Unit::SetDisplayId</a></div><div class="ttdeci">virtual void SetDisplayId(uint32 modelId, float displayScale=1.f)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16998</div></div>
-<div class="ttc" id="aa08836_html_ad6df47a81f5f5f147e68211ee935b398"><div class="ttname"><a href="../../d4/d58/a08836.html#ad6df47a81f5f5f147e68211ee935b398">Unit::RemoveAurasByType</a></div><div class="ttdeci">void RemoveAurasByType(AuraType auraType, ObjectGuid casterGUID=ObjectGuid::Empty, Aura *except=nullptr, bool negative=true, bool positive=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5233</div></div>
+<div class="ttc" id="aa08836_html_a45cc249e2d3dc3f60bd61b143c8a8a7d"><div class="ttname"><a href="../../d4/d58/a08836.html#a45cc249e2d3dc3f60bd61b143c8a8a7d">Unit::SetDisplayId</a></div><div class="ttdeci">virtual void SetDisplayId(uint32 modelId, float displayScale=1.f)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17007</div></div>
+<div class="ttc" id="aa08836_html_ad6df47a81f5f5f147e68211ee935b398"><div class="ttname"><a href="../../d4/d58/a08836.html#ad6df47a81f5f5f147e68211ee935b398">Unit::RemoveAurasByType</a></div><div class="ttdeci">void RemoveAurasByType(AuraType auraType, ObjectGuid casterGUID=ObjectGuid::Empty, Aura *except=nullptr, bool negative=true, bool positive=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5240</div></div>
 <div class="ttc" id="aa11560_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d9/d98/a11560.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">GENDER_MALE</a>, <a class="el" href="../../#l00838">Unit::getGender()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00441">MODEL_GOBLIN_FEMALE</a>, <a class="el" href="../../#l00440">MODEL_GOBLIN_MALE</a>, <a class="el" href="../../#l05233">Unit::RemoveAurasByType()</a>, <a class="el" href="../../#l16998">Unit::SetDisplayId()</a>, and <a class="el" href="../../#l00141">SPELL_AURA_MOUNTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">GENDER_MALE</a>, <a class="el" href="../../#l00838">Unit::getGender()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00441">MODEL_GOBLIN_FEMALE</a>, <a class="el" href="../../#l00440">MODEL_GOBLIN_MALE</a>, <a class="el" href="../../#l05240">Unit::RemoveAurasByType()</a>, <a class="el" href="../../#l17007">Unit::SetDisplayId()</a>, and <a class="el" href="../../#l00141">SPELL_AURA_MOUNTED</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00479">Register()</a>.</p>
 
@@ -412,9 +412,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  475</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
 <div class="line"><span class="lineno">  476</span>            target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#acb800095887418d08fdfa8ade11f0074">RestoreDisplayId</a>();</div>
 <div class="line"><span class="lineno">  477</span>    }</div>
-<div class="ttc" id="aa08836_html_acb800095887418d08fdfa8ade11f0074"><div class="ttname"><a href="../../d4/d58/a08836.html#acb800095887418d08fdfa8ade11f0074">Unit::RestoreDisplayId</a></div><div class="ttdeci">void RestoreDisplayId()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17011</div></div>
+<div class="ttc" id="aa08836_html_acb800095887418d08fdfa8ade11f0074"><div class="ttname"><a href="../../d4/d58/a08836.html#acb800095887418d08fdfa8ade11f0074">Unit::RestoreDisplayId</a></div><div class="ttdeci">void RestoreDisplayId()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17020</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l17011">Unit::RestoreDisplayId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l17020">Unit::RestoreDisplayId()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00479">Register()</a>.</p>
 
@@ -529,7 +529,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d64/a14728.html">spell_gen_aura_service_uniform</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:59:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:15:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

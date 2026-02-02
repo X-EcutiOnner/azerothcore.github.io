@@ -1,6 +1,6 @@
 var a19560 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "dc/d58/a19564.html", "dc/d58/a19564" ],
-    [ "npc_eoe_wyrmrest_skytalon", "d2/db3/a19560.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "d2/db3/a19560.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "ChargeRifts", "d2/db3/a19560.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d2/db3/a19560.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d2/db3/a19560.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

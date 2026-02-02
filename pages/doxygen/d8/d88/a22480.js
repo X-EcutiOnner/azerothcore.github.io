@@ -1,11 +1,9 @@
 var a22480 =
 [
-    [ "npc_iron_watcherAI", "d8/d88/a22480.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "d8/d88/a22480.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "d8/d88/a22480.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "d8/d88/a22480.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "d8/d88/a22480.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "d8/d88/a22480.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "d8/d88/a22480.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "d8/d88/a22480.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_brunnhildar_prisonerAI", "d8/d88/a22480.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d8/d88/a22480.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d8/d88/a22480.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d8/d88/a22480.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d8/d88/a22480.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d8/d88/a22480.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

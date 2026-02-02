@@ -1,8 +1,8 @@
 var a25292 =
 [
-    [ "OnApply", "d0/d1d/a25292.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d0/d1d/a25292.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d0/d1d/a25292.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d0/d1d/a25292.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d0/d1d/a25292.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "AchievementCredit", "d0/d1d/a25292.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d0/d1d/a25292.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d0/d1d/a25292.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d0/d1d/a25292.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d0/d1d/a25292.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

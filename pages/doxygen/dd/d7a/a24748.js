@@ -1,6 +1,11 @@
 var a24748 =
 [
-    [ "PrepareSpellScript", "dd/d7a/a24748.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "dd/d7a/a24748.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "dd/d7a/a24748.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "CalcPeriodic", "dd/d7a/a24748.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "dd/d7a/a24748.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "dd/d7a/a24748.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "dd/d7a/a24748.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "dd/d7a/a24748.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "dd/d7a/a24748.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "dd/d7a/a24748.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "dd/d7a/a24748.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

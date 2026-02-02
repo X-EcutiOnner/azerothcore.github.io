@@ -1,6 +1,8 @@
 var a27812 =
 [
-    [ "npc_training_dummyAI", "d3/da7/a27816.html", "d3/da7/a27816" ],
-    [ "npc_training_dummy", "da/dc3/a27812.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "da/dc3/a27812.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_chicken_cluckAI", "d3/da7/a27816.html", "d3/da7/a27816" ],
+    [ "npc_chicken_cluck", "da/dc3/a27812.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "da/dc3/a27812.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "da/dc3/a27812.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "da/dc3/a27812.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

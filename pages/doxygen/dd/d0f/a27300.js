@@ -1,5 +1,5 @@
 var a27300 =
 [
-    [ "achievement_bg_ic_glaive_grave", "dd/d0f/a27300.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "dd/d0f/a27300.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "achievement_sa_defense_of_the_ancients", "dd/d0f/a27300.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "dd/d0f/a27300.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

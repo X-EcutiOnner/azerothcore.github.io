@@ -1,7 +1,6 @@
 var a26132 =
 [
-    [ "HandleHeal", "d9/de8/a26132.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d9/de8/a26132.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d9/de8/a26132.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d9/de8/a26132.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleDummy", "d9/de8/a26132.html#a1daf78c552ffd963f181eded01b570a9", null ],
+    [ "PrepareSpellScript", "d9/de8/a26132.html#adaa82dfd828ed915cfc16f95e73cd224", null ],
+    [ "Register", "d9/de8/a26132.html#a63771475c954e4bddf6c1fc4c04990e0", null ]
 ];

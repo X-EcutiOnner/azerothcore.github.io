@@ -1,8 +1,7 @@
 var a27172 =
 [
-    [ "AfterCheckProc", "d9/dfc/a27172.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
-    [ "HandleProc", "d9/dfc/a27172.html#ac24bde081e118b347a3cad6832cd96da", null ],
-    [ "PrepareAuraScript", "d9/dfc/a27172.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
-    [ "Register", "d9/dfc/a27172.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
-    [ "Validate", "d9/dfc/a27172.html#aecc372443f71834aaeab97ba77757e2a", null ]
+    [ "HandleDummy", "d9/dfc/a27172.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "d9/dfc/a27172.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "d9/dfc/a27172.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "d9/dfc/a27172.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

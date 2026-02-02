@@ -1,8 +1,6 @@
 var a23748 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d2/dbe/a23748.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d2/dbe/a23748.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d2/dbe/a23748.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d2/dbe/a23748.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d2/dbe/a23748.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "da/dc2/a23752.html", "da/dc2/a23752" ],
+    [ "instance_blood_furnace", "d2/dbe/a23748.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d2/dbe/a23748.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

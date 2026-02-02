@@ -1,6 +1,8 @@
 var a19528 =
 [
-    [ "npc_nexus_lordAI", "db/d70/a19532.html", "db/d70/a19532" ],
-    [ "npc_nexus_lord", "d5/dbe/a19528.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d5/dbe/a19528.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "npc_alexstrasza", "d5/dbe/a19528.html#ad828bd325d6f8845ce1d5edc48129381", null ],
+    [ "AttackStart", "d5/dbe/a19528.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d5/dbe/a19528.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d5/dbe/a19528.html#aec1c93eee408ecefbceec22be4b90dba", null ],
+    [ "events", "d5/dbe/a19528.html#ac87a62fea64310f94554702a95e2f5c0", null ]
 ];

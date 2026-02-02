@@ -1,10 +1,6 @@
 var a21096 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "d1/db7/a21096.html#a351df0050661628e3ab0be2f636f9c4e", null ],
-    [ "DoAction", "d1/db7/a21096.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
-    [ "JustDied", "d1/db7/a21096.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
-    [ "SelectConstrictTarget", "d1/db7/a21096.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
-    [ "UpdateAI", "d1/db7/a21096.html#a00c137429f2b565bf195dab4e9902a7c", null ],
-    [ "_checkTimer", "d1/db7/a21096.html#ae5c189401dd04823449e7a16c197e65f", null ],
-    [ "_playerGUID", "d1/db7/a21096.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "d6/d6d/a21100.html", "d6/d6d/a21100" ],
+    [ "boss_yoggsaron_immortal_guardian", "d1/db7/a21096.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "d1/db7/a21096.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

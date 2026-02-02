@@ -1,6 +1,6 @@
 var a25724 =
 [
-    [ "CheckCast", "df/d8c/a25724.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "df/d8c/a25724.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "df/d8c/a25724.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "CheckCast", "df/d8c/a25724.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "df/d8c/a25724.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "df/d8c/a25724.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

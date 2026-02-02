@@ -1,7 +1,5 @@
 var a27884 =
 [
-    [ "npc_guardianAI", "d7/d40/a27884.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d7/d40/a27884.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d7/d40/a27884.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d7/d40/a27884.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_pet_trainerAI", "d7/d40/a27884.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d7/d40/a27884.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

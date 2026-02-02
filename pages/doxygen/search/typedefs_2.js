@@ -28,5 +28,6 @@ var searchData=
   ['bgzoneref_25',['bgZoneRef',['../d0/d3c/a00971.html#ad02e5b85aad803acf5ec43c31028d07e',1,'Player.h']]],
   ['binary_26',['Binary',['../d8/d9b/a04067.html#a45c2b15f675e85c1f4462be09f27c59e',1,'Field.h']]],
   ['boundinstancesmap_27',['BoundInstancesMap',['../db/d17/a01148.html#aaa779bf09b703eb355cb51ac3481a19e',1,'InstanceSaveMgr.h']]],
-  ['broadcasttextcontainer_28',['BroadcastTextContainer',['../df/dee/a01646.html#aee411527f1beb34609c25acb024deab7',1,'ObjectMgr.h']]]
+  ['breadcrumbquestmap_28',['BreadcrumbQuestMap',['../da/deb/a09136.html#a5e84b3625de0cb9ec2933cb65301d694',1,'ObjectMgr']]],
+  ['broadcasttextcontainer_29',['BroadcastTextContainer',['../df/dee/a01646.html#aee411527f1beb34609c25acb024deab7',1,'ObjectMgr.h']]]
 ];

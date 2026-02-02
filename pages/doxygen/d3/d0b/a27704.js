@@ -1,5 +1,7 @@
 var a27704 =
 [
-    [ "item_captured_frog", "d3/d0b/a27704.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d3/d0b/a27704.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "npc_engineering_tele_trinket", "d3/d0b/a27704.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d3/d0b/a27704.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d3/d0b/a27704.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d3/d0b/a27704.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

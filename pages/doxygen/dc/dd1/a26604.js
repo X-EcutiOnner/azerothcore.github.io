@@ -1,6 +1,5 @@
 var a26604 =
 [
-    [ "HandleScriptEffect", "dc/dd1/a26604.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "dc/dd1/a26604.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "dc/dd1/a26604.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "PrepareSpellScript", "dc/dd1/a26604.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "dc/dd1/a26604.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

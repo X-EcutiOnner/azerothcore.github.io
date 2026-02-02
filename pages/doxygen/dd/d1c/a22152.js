@@ -1,6 +1,6 @@
 var a22152 =
 [
-    [ "npc_ravenous_worgAI", "d6/dda/a22156.html", "d6/dda/a22156" ],
-    [ "npc_ravenous_worg", "dd/d1c/a22152.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "dd/d1c/a22152.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_venture_co_stragglerAI", "d6/dda/a22156.html", "d6/dda/a22156" ],
+    [ "npc_venture_co_straggler", "dd/d1c/a22152.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "dd/d1c/a22152.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

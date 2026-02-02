@@ -1,6 +1,6 @@
 var a21028 =
 [
-    [ "boss_yoggsaron_saraAI", "d9/dd4/a21032.html", "d9/dd4/a21032" ],
-    [ "boss_yoggsaron_sara", "de/d03/a21028.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "de/d03/a21028.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "boss_yoggsaronAI", "d9/dd4/a21032.html", "d9/dd4/a21032" ],
+    [ "boss_yoggsaron", "de/d03/a21028.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "de/d03/a21028.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

@@ -1,6 +1,6 @@
 var a24084 =
 [
-    [ "HandlePeriodic", "da/d60/a24084.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "da/d60/a24084.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "da/d60/a24084.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "FilterTargets", "da/d60/a24084.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "da/d60/a24084.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "da/d60/a24084.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

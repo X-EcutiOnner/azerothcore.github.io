@@ -1,6 +1,6 @@
 var a27880 =
 [
-    [ "npc_guardianAI", "d7/d40/a27884.html", "d7/d40/a27884" ],
-    [ "npc_guardian", "d4/d04/a27880.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d4/d04/a27880.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_pet_trainerAI", "d7/d40/a27884.html", "d7/d40/a27884" ],
+    [ "npc_pet_trainer", "d4/d04/a27880.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d4/d04/a27880.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

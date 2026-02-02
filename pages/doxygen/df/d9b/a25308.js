@@ -1,6 +1,6 @@
 var a25308 =
 [
-    [ "HandleScriptEffect", "df/d9b/a25308.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
-    [ "PrepareSpellScript", "df/d9b/a25308.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
-    [ "Register", "df/d9b/a25308.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
+    [ "CheckSeat", "df/d9b/a25308.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "df/d9b/a25308.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "df/d9b/a25308.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

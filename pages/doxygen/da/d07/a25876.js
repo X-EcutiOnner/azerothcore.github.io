@@ -1,5 +1,6 @@
 var a25876 =
 [
-    [ "PrepareSpellScript", "da/d07/a25876.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "da/d07/a25876.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "HandleSummon", "da/d07/a25876.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "da/d07/a25876.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "da/d07/a25876.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

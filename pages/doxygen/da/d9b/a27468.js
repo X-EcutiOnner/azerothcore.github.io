@@ -1,9 +1,5 @@
 var a27468 =
 [
-    [ "ChatLogScript", "da/d9b/a27468.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "da/d9b/a27468.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "go_resonite_cask", "da/d9b/a27468.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "da/d9b/a27468.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

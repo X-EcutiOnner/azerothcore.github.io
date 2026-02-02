@@ -1,9 +1,10 @@
 var a19772 =
 [
-    [ "npc_stormforged_lieutenant", "d9/df3/a19772.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d9/df3/a19772.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d9/df3/a19772.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d9/df3/a19772.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d9/df3/a19772.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d9/df3/a19772.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "npc_molten_golem", "d9/df3/a19772.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d9/df3/a19772.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d9/df3/a19772.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d9/df3/a19772.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d9/df3/a19772.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d9/df3/a19772.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d9/df3/a19772.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

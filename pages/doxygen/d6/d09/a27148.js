@@ -1,8 +1,6 @@
 var a27148 =
 [
-    [ "ApplyEffect", "d6/d09/a27148.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d6/d09/a27148.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d6/d09/a27148.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d6/d09/a27148.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d6/d09/a27148.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "HandleOnHit", "d6/d09/a27148.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "d6/d09/a27148.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "d6/d09/a27148.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

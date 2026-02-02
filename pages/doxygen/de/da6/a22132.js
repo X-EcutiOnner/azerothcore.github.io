@@ -1,7 +1,8 @@
 var a22132 =
 [
-    [ "OnRemove", "de/da6/a22132.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "de/da6/a22132.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "de/da6/a22132.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "de/da6/a22132.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_ravenous_worgAI", "de/da6/a22132.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "de/da6/a22132.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "de/da6/a22132.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "de/da6/a22132.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "de/da6/a22132.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

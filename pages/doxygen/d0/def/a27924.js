@@ -1,6 +1,6 @@
 var a27924 =
 [
-    [ "npc_fireworkAI", "d3/df4/a27928.html", "d3/df4/a27928" ],
-    [ "npc_firework", "d0/def/a27924.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d0/def/a27924.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_venomhide_hatchlingAI", "d0/def/a27924.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d0/def/a27924.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d0/def/a27924.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

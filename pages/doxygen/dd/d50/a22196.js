@@ -1,7 +1,6 @@
 var a22196 =
 [
-    [ "HandleAfterEffectApply", "dd/d50/a22196.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "dd/d50/a22196.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "dd/d50/a22196.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "dd/d50/a22196.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_attracted_reef_bullAI", "da/dc1/a22200.html", "da/dc1/a22200" ],
+    [ "npc_attracted_reef_bull", "dd/d50/a22196.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "dd/d50/a22196.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

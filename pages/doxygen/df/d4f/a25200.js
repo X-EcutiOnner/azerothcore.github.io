@@ -1,6 +1,8 @@
 var a25200 =
 [
-    [ "HandleScriptEffect", "df/d4f/a25200.html#af8f2f4c4459204aa766a41dc4003581c", null ],
-    [ "PrepareSpellScript", "df/d4f/a25200.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
-    [ "Register", "df/d4f/a25200.html#a034e52b435b6f4586084cb831e162c40", null ]
+    [ "CheckIfCorpseNear", "df/d4f/a25200.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "df/d4f/a25200.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "df/d4f/a25200.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "df/d4f/a25200.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "df/d4f/a25200.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

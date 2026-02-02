@@ -1,6 +1,6 @@
 var a20584 =
 [
-    [ "boss_kologarn_eyebeamAI", "d7/dc0/a20588.html", "d7/dc0/a20588" ],
-    [ "boss_kologarn_eyebeam", "d0/d44/a20584.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
-    [ "GetAI", "d0/d44/a20584.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
+    [ "OnRemoveStun", "d0/d44/a20584.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d0/d44/a20584.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d0/d44/a20584.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

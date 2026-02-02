@@ -1,8 +1,9 @@
 var a26836 =
 [
-    [ "CheckCast", "da/d65/a26836.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "da/d65/a26836.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "da/d65/a26836.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "da/d65/a26836.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "da/d65/a26836.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleAfterHit", "da/d65/a26836.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "da/d65/a26836.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "da/d65/a26836.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "da/d65/a26836.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "da/d65/a26836.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "da/d65/a26836.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

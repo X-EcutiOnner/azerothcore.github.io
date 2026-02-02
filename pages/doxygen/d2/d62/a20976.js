@@ -1,6 +1,8 @@
 var a20976 =
 [
-    [ "npc_xt002_boombotAI", "d6/d11/a20980.html", "d6/d11/a20980" ],
-    [ "npc_xt002_boombot", "d2/d62/a20976.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "d2/d62/a20976.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "OnPeriodic", "d2/d62/a20976.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d2/d62/a20976.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d2/d62/a20976.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d2/d62/a20976.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d2/d62/a20976.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

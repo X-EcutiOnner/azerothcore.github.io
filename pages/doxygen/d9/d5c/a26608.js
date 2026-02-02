@@ -1,6 +1,6 @@
 var a26608 =
 [
-    [ "HandleDummy", "d9/d5c/a26608.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "d9/d5c/a26608.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "d9/d5c/a26608.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "CheckProc", "d9/d5c/a26608.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d9/d5c/a26608.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d9/d5c/a26608.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

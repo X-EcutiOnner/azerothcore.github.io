@@ -1,5 +1,5 @@
 var a27620 =
 [
-    [ "go_jotunheim_cage", "d9/d90/a27620.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d9/d90/a27620.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_massive_seaforium_charge", "d9/d90/a27620.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d9/d90/a27620.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

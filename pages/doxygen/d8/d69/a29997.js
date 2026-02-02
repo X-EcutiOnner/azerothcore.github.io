@@ -1,5 +1,7 @@
 var a29997 =
 [
-    [ "id", "d8/d69/a29997.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d8/d69/a29997.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "MPQArchive", "d3/d0e/a28988.html", "d3/d0e/a28988" ],
+    [ "MPQFile", "de/dc5/a28992.html", "de/dc5/a28992" ],
+    [ "ArchiveSet", "d8/d69/a29997.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d8/d69/a29997.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

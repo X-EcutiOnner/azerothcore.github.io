@@ -1,11 +1,5 @@
 var a23732 =
 [
-    [ "boss_kiggler_the_crazed", "dc/da3/a23732.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "dc/da3/a23732.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "dc/da3/a23732.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "dc/da3/a23732.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "dc/da3/a23732.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "dc/da3/a23732.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "dc/da3/a23732.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "dc/da3/a23732.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "go_broggok_lever", "dc/da3/a23732.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "dc/da3/a23732.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

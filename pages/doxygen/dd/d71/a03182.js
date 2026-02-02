@@ -1,11 +1,11 @@
 var a03182 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d8/d5d/a19576.html", "d8/d5d/a19576" ],
     [ "ALEXSTRASZA_GIFT", "dd/d71/a03182.html#a75e648e1864b15a814c2c3e02faf6336", null ],
     [ "DataHeader", "dd/d71/a03182.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "EyeOfEternityScriptName", "dd/d71/a03182.html#a7ce256d13936cff51c83835c5e3329f9", null ],
     [ "HEART_OF_MAGIC", "dd/d71/a03182.html#af59d6ded8cc013d2fbafa76cc1ff948a", null ],
     [ "INTRO_MOVEMENT_INTERVAL", "dd/d71/a03182.html#a914791b23da531680a3fa365d19e7919", null ],
+    [ "RegisterEoECreatureAI", "dd/d71/a03182.html#a7e91271b328cb120e1f5f75539ef83fa", null ],
     [ "Data", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "TYPE_GELIHAST", "dc/de1/a02513.html#af5baa506e65b4caa6be6d1c6661dfe63aba8a7ffa7c59b363812d39c2f84cfb06", null ],
       [ "TYPE_FIRE1", "dc/de1/a02513.html#af5baa506e65b4caa6be6d1c6661dfe63ab51c33641138640c72e3196ce6fb27fe", null ],
@@ -71,8 +71,8 @@ var a03182 =
       [ "DATA_GAL_DARAH", "dd/d08/a02957.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d", null ],
       [ "DATA_ECK_THE_FEROCIOUS", "dd/d08/a02957.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288", null ],
       [ "MAX_ENCOUNTERS", "dd/d08/a02957.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_MALYGOS", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a2ac20edc8400118e986cb3e8c0833118", null ],
       [ "DATA_IRIS_ACTIVATED", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
-      [ "DATA_ENCOUNTER_STATUS", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a06e771c0d2e0da47d4fd955db056b0c4", null ],
       [ "DATA_SET_IRIS_INACTIVE", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a1dcf1f64522995a4635c77b607d1824c", null ],
       [ "DATA_HIDE_IRIS_AND_PORTAL", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ],
       [ "DATA_MALYGOS_GUID", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a32904c6059a5b12e98c818f97ec1b14c", null ],
@@ -149,6 +149,9 @@ var a03182 =
       [ "ACHIEV_CRITERIA_A_POKE_IN_THE_EYE_25", "dd/d71/a03182.html#a7b67ae0eba9bb5ef739ec60c6231af71ac916a6111e77dc6c2f603f7c4ecd898b", null ],
       [ "ACHIEV_YOU_DONT_HAVE_AN_ENTERNITY_EVENT", "dd/d71/a03182.html#a7b67ae0eba9bb5ef739ec60c6231af71a82841da172afaa60b92fc4aea561b69b", null ]
     ] ],
+    [ "EoEMisc", "dd/d71/a03182.html#a7c97f73f4cb0f865cae5bcb83b5b01c2", [
+      [ "EVENT_IRIS_ACTIVATED", "dd/d71/a03182.html#a7c97f73f4cb0f865cae5bcb83b5b01c2a08fdfb88363920a779952ea57f16484a", null ]
+    ] ],
     [ "eSpells", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0", [
       [ "SPELL_SOULSTORM_CHANNEL_OOC", "d9/d5e/a03086.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4e9598e401126e84132d489043d6ddd", null ],
       [ "SPELL_SHADOW_BOLT", "d9/d5e/a03086.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a8872edea8a2ac8c4e895c975482b9413", null ],
@@ -201,6 +204,8 @@ var a03182 =
       [ "SPELL_ARCANE_SHOCK", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a70217cff0adeb1a0499b1651a82f03ef", null ],
       [ "SPELL_HASTE", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
       [ "SPELL_ALEXSTRASZA_GIFT", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ],
+      [ "SPELL_SUMMON_RED_DRAGON_BUDDY", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a830614a9bf710d7048b72ee0a5278eff", null ],
+      [ "SPELL_RIDE_RED_DRAGON", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ],
       [ "SPELL_SUMMON_VALKYR", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
       [ "SPELL_RESURRECTION_BEAM", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5b685630d8a3d29bdf642c7c3fb066cb", null ],
       [ "SPELL_RESURRECTION_BALL", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a581272352a56e266974b3d5242b18b1c", null ],
@@ -367,7 +372,6 @@ var a03182 =
       [ "NPC_HOVER_DISK", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5ca9c327c4592f7711c26c51c3fc03d2b54", null ],
       [ "NPC_ARCANE_OVERLOAD", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5ca87d9c957ef45c0e90fcbef07c94c4c2e", null ],
       [ "NPC_SURGE_OF_POWER", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5caf6aa5bbf6159c712e1b25863dfe45d9b", null ],
-      [ "NPC_WYRMREST_SKYTALON", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5caf7b8a3b895235f57b62709d3ce2215a4", null ],
       [ "NPC_STATIC_FIELD", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5cac87fa82670db238f21926da3e15031de", null ],
       [ "NPC_ALEXSTRASZA", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5cab3d24eea73922a81c6c4f4a7a0071030", null ],
       [ "NPC_DRAKOS", "d0/d04/a03161.html#a6986ec7b2d3274669934af9795f26d5ca159355a5d62485573c94323e3d8c1e58", null ],
@@ -450,6 +454,7 @@ var a03182 =
     ] ],
     [ "GetEyeOfEternityAI", "dd/d71/a03182.html#ad65e4efd9fa965476bbaaa6da7d95fbd", null ],
     [ "CenterPos", "dd/d71/a03182.html#ae66e95c14537a74ebd7d32542aa359ca", null ],
+    [ "EncounterCount", "dd/d71/a03182.html#a31d630c40753c29f94ceac2db5e451a8", null ],
     [ "FourSidesPos", "dd/d71/a03182.html#ae13721540dc0ce9423633d9b5fbdeef2", null ],
     [ "MalygosIntroIntervals", "dd/d71/a03182.html#a96de54c0b6f0f36fadc0222347f923ab", null ],
     [ "Phase2NorthPos", "dd/d71/a03182.html#aba0abca8be7751435e0981b59d9fced2", null ]

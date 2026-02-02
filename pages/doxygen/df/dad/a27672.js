@@ -1,10 +1,5 @@
 var a27672 =
 [
-    [ "guard_shattrath_scryerAI", "df/dad/a27672.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "df/dad/a27672.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "df/dad/a27672.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "df/dad/a27672.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "df/dad/a27672.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "df/dad/a27672.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "df/dad/a27672.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "item_petrov_cluster_bombs", "df/dad/a27672.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "df/dad/a27672.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

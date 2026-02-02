@@ -1,7 +1,6 @@
 var a21304 =
 [
-    [ "npc_frost_tomb", "db/d5c/a21304.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "db/d5c/a21304.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "db/d5c/a21304.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "db/d5c/a21304.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d2/dc1/a21308.html", "d2/dc1/a21308" ],
+    [ "instance_utgarde_keep", "db/d5c/a21304.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "db/d5c/a21304.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

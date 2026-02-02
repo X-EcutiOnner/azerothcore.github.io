@@ -1,6 +1,6 @@
 var a25204 =
 [
-    [ "HandleOnEffectHit", "db/dfe/a25204.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "db/dfe/a25204.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "db/dfe/a25204.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleScript", "db/dfe/a25204.html#aa6104370d5700e43223c7138e941ba05", null ],
+    [ "PrepareSpellScript", "db/dfe/a25204.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
+    [ "Register", "db/dfe/a25204.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
 ];

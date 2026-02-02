@@ -1,6 +1,5 @@
 var a21364 =
 [
-    [ "npc_ferocious_rhinoAI", "dd/d0c/a21368.html", "dd/d0c/a21368" ],
-    [ "npc_ferocious_rhino", "d0/d86/a21364.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d0/d86/a21364.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "go_palehoof_sphere", "d0/d86/a21364.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "d0/d86/a21364.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

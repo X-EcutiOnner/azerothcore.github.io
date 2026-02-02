@@ -1,8 +1,11 @@
 var a27840 =
 [
-    [ "npc_chicken_cluckAI", "d0/d30/a27844.html", "d0/d30/a27844" ],
-    [ "npc_chicken_cluck", "d2/da5/a27840.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d2/da5/a27840.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d2/da5/a27840.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d2/da5/a27840.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_injured_patientAI", "d2/da5/a27840.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "d2/da5/a27840.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "d2/da5/a27840.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "d2/da5/a27840.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "d2/da5/a27840.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "d2/da5/a27840.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "d2/da5/a27840.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "d2/da5/a27840.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

@@ -1,6 +1,7 @@
 var a25728 =
 [
-    [ "CheckCast", "d2/df6/a25728.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "d2/df6/a25728.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "d2/df6/a25728.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "FilterTargets", "d2/df6/a25728.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d2/df6/a25728.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d2/df6/a25728.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d2/df6/a25728.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

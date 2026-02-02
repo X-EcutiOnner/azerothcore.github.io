@@ -1,7 +1,7 @@
 var a22004 =
 [
-    [ "CheckCast", "de/d9f/a22004.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "de/d9f/a22004.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "de/d9f/a22004.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "de/d9f/a22004.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "HandleApplyEffect", "de/d9f/a22004.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "de/d9f/a22004.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "de/d9f/a22004.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "de/d9f/a22004.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

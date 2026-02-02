@@ -1,7 +1,7 @@
 var a25060 =
 [
-    [ "if", "da/d52/a25060.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "da/d52/a25060.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "da/d52/a25060.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "da/d52/a25060.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CheckRequirement", "da/d52/a25060.html#a6be5f335a15226db87a04548490f488d", null ],
+    [ "PrepareSpellScript", "da/d52/a25060.html#a25463eda0ce51a124e8715baf305c8f6", null ],
+    [ "Register", "da/d52/a25060.html#a8db5a5597d8f6fe4064799766fb61502", null ],
+    [ "_level", "da/d52/a25060.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
 ];

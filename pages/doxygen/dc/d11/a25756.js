@@ -1,7 +1,7 @@
 var a25756 =
 [
-    [ "FilterTargets", "dc/d11/a25756.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "dc/d11/a25756.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "dc/d11/a25756.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "dc/d11/a25756.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "CalcPeriodic", "dc/d11/a25756.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "dc/d11/a25756.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "dc/d11/a25756.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "dc/d11/a25756.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

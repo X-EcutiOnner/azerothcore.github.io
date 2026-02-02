@@ -1,5 +1,6 @@
 var a27684 =
 [
-    [ "item_only_for_flight", "d9/d08/a27684.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d9/d08/a27684.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "trigger_periodicAI", "d6/d3a/a27688.html", "d6/d3a/a27688" ],
+    [ "trigger_periodic", "d9/d08/a27684.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d9/d08/a27684.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

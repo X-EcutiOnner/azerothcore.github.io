@@ -1,9 +1,9 @@
 var a29080 =
 [
-    [ "MapTiles", "db/dca/a29080.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "db/dca/a29080.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "db/dca/a29080.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "db/dca/a29080.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "db/dca/a29080.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "db/dca/a29080.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "Flags", "db/dca/a29080.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "db/dca/a29080.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "db/dca/a29080.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "db/dca/a29080.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "db/dca/a29080.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "db/dca/a29080.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

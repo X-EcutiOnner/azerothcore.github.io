@@ -1,6 +1,5 @@
 var a26648 =
 [
-    [ "HandleScriptEffect", "d0/d76/a26648.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "d0/d76/a26648.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "d0/d76/a26648.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d0/d76/a26648.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d0/d76/a26648.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

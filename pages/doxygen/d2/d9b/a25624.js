@@ -1,5 +1,6 @@
 var a25624 =
 [
-    [ "PrepareSpellScript", "d2/d9b/a25624.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "d2/d9b/a25624.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "PrepareAuraScript", "d2/d9b/a25624.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d2/d9b/a25624.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d2/d9b/a25624.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

@@ -876,7 +876,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../df/d40/a06296.html#a8d6c7fd71269453c229326c9785006e8">ScriptedAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  123</span>    {</div>
-<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d8f/a14944.html#ae2141b4ea1d10cb74146aec63d65214c">_recentlySpoken</a> &amp;&amp; victim-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d8f/a14944.html#ae2141b4ea1d10cb74146aec63d65214c">_recentlySpoken</a> &amp;&amp; victim-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; <a class="code hl_variable" href="../../df/d40/a06296.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
 <div class="line"><span class="lineno">  125</span>        {</div>
 <div class="line"><span class="lineno">  126</span>            <a class="code hl_enumeration" href="../../d2/d35/a02468.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d73/a02465.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc">SAY_ONSLAY</a>);</div>
 <div class="line"><span class="lineno">  127</span>            <a class="code hl_variable" href="../../d4/d8f/a14944.html#ae2141b4ea1d10cb74146aec63d65214c">_recentlySpoken</a> = <span class="keyword">true</span>;</div>
@@ -889,8 +889,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  134</span>    }</div>
 <div class="ttc" id="aa02465_html_aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc"><div class="ttname"><a href="../../d4/d73/a02465.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc">SAY_ONSLAY</a></div><div class="ttdeci">@ SAY_ONSLAY</div><div class="ttdef"><b>Definition:</b> boss_rage_winterchill.cpp:34</div></div>
 <div class="ttc" id="aa08452_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:200</div></div>
+<div class="ttc" id="aa08836_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d4/d58/a08836.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1773</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00143">_recentlySpoken</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00034">SAY_ONSLAY</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, and <a class="el" href="../../#l00076">CreatureAI::scheduler</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00143">_recentlySpoken</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00034">SAY_ONSLAY</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, and <a class="el" href="../../#l00076">CreatureAI::scheduler</a>.</p>
 
 </div>
 </div>
@@ -973,7 +974,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d8f/a14944.html">boss_rage_winterchill</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:14:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

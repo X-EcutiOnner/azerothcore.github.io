@@ -1,5 +1,7 @@
 var a23616 =
 [
-    [ "go_main_chambers_access_panel", "d0/ddc/a23616.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d0/ddc/a23616.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "npc_underbog_mushroom", "d0/ddc/a23616.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d0/ddc/a23616.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d0/ddc/a23616.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d0/ddc/a23616.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

@@ -1,6 +1,8 @@
 var a24072 =
 [
-    [ "HandlePeriodic", "d7/d27/a24072.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d7/d27/a24072.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d7/d27/a24072.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "HandleScriptEffect", "d7/d27/a24072.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d7/d27/a24072.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d7/d27/a24072.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d7/d27/a24072.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d7/d27/a24072.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

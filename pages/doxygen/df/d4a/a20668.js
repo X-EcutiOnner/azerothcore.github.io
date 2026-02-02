@@ -1,6 +1,8 @@
 var a20668 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d6/dfa/a20672.html", "d6/dfa/a20672" ],
-    [ "npc_ulduar_proximity_mine", "df/d4a/a20668.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "df/d4a/a20668.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "npc_ulduar_magnetic_coreAI", "df/d4a/a20668.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "df/d4a/a20668.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "df/d4a/a20668.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "df/d4a/a20668.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "df/d4a/a20668.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

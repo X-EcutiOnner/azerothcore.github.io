@@ -1,6 +1,6 @@
 var a20100 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "d8/d39/a20104.html", "d8/d39/a20104" ],
-    [ "boss_flame_leviathan_defense_turret", "dc/d97/a20100.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "dc/d97/a20100.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "npc_hodirs_furyAI", "d8/d39/a20104.html", "d8/d39/a20104" ],
+    [ "npc_hodirs_fury", "dc/d97/a20100.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
+    [ "GetAI", "dc/d97/a20100.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
 ];

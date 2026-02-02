@@ -1,8 +1,7 @@
 var a20184 =
 [
-    [ "npc_mechanoliftAI", "d9/dbb/a20184.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
-    [ "Reset", "d9/dbb/a20184.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
-    [ "UpdateAI", "d9/dbb/a20184.html#a3f8634abde6b3aa00acf03c77df433be", null ],
-    [ "_evadeTimer", "d9/dbb/a20184.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
-    [ "_startTimer", "d9/dbb/a20184.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
+    [ "FilterTargets", "d9/dbb/a20184.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "d9/dbb/a20184.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "d9/dbb/a20184.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "d9/dbb/a20184.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

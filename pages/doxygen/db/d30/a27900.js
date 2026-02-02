@@ -1,8 +1,9 @@
 var a27900 =
 [
-    [ "npc_wormholeAI", "d3/d62/a27904.html", "d3/d62/a27904" ],
-    [ "npc_wormhole", "db/d30/a27900.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "db/d30/a27900.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "db/d30/a27900.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "db/d30/a27900.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_fireworkAI", "db/d30/a27900.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "db/d30/a27900.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "db/d30/a27900.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "db/d30/a27900.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "db/d30/a27900.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "db/d30/a27900.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

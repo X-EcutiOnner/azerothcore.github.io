@@ -320,36 +320,36 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  605</span>    {</div>
-<div class="line"><span class="lineno">  606</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">GetTriggeringSpell</a>())</div>
-<div class="line"><span class="lineno">  607</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  608</span> </div>
-<div class="line"><span class="lineno">  609</span>        <a class="code hl_class" href="../../d4/d58/a08836.html">Unit</a>* target = <a class="code hl_function" href="../../db/d09/a11520.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
-<div class="line"><span class="lineno">  610</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  611</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  612</span> </div>
-<div class="line"><span class="lineno">  613</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_function" href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">GetTriggeringSpell</a>()-&gt;Id) || !target-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno">  614</span>        {</div>
-<div class="line"><span class="lineno">  615</span>            <a class="code hl_function" href="../../db/d09/a11520.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(0);</div>
-<div class="line"><span class="lineno">  616</span>        }</div>
-<div class="line"><span class="lineno">  617</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/dae/a09760.html">InstanceScript</a>* instance = target-&gt;<a class="code hl_function" href="../../d0/d69/a08488.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  618</span>        {</div>
-<div class="line"><span class="lineno">  619</span>            instance-&gt;SetData(<a class="code hl_enumvalue" href="../../dd/d9a/a02699.html#a8583d5c31f6e596bafbdc0c20eb41ed7a731f7557a52eab314acb6eafe38b5a51">DATA_CHARGES_CROSSED</a>, 0);</div>
-<div class="line"><span class="lineno">  620</span>        }</div>
-<div class="line"><span class="lineno">  621</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  608</span>    {</div>
+<div class="line"><span class="lineno">  609</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">GetTriggeringSpell</a>())</div>
+<div class="line"><span class="lineno">  610</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  611</span> </div>
+<div class="line"><span class="lineno">  612</span>        <a class="code hl_class" href="../../d4/d58/a08836.html">Unit</a>* target = <a class="code hl_function" href="../../db/d09/a11520.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
+<div class="line"><span class="lineno">  613</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  614</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  615</span> </div>
+<div class="line"><span class="lineno">  616</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_function" href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">GetTriggeringSpell</a>()-&gt;Id) || !target-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  617</span>        {</div>
+<div class="line"><span class="lineno">  618</span>            <a class="code hl_function" href="../../db/d09/a11520.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(0);</div>
+<div class="line"><span class="lineno">  619</span>        }</div>
+<div class="line"><span class="lineno">  620</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/dae/a09760.html">InstanceScript</a>* instance = target-&gt;<a class="code hl_function" href="../../d0/d69/a08488.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  621</span>        {</div>
+<div class="line"><span class="lineno">  622</span>            instance-&gt;SetData(<a class="code hl_enumvalue" href="../../dd/d9a/a02699.html#a8583d5c31f6e596bafbdc0c20eb41ed7a731f7557a52eab314acb6eafe38b5a51">DATA_CHARGES_CROSSED</a>, 0);</div>
+<div class="line"><span class="lineno">  623</span>        }</div>
+<div class="line"><span class="lineno">  624</span>    }</div>
 <div class="ttc" id="aa02699_html_a8583d5c31f6e596bafbdc0c20eb41ed7a731f7557a52eab314acb6eafe38b5a51"><div class="ttname"><a href="../../dd/d9a/a02699.html#a8583d5c31f6e596bafbdc0c20eb41ed7a731f7557a52eab314acb6eafe38b5a51">DATA_CHARGES_CROSSED</a></div><div class="ttdeci">@ DATA_CHARGES_CROSSED</div><div class="ttdef"><b>Definition:</b> naxxramas.h:79</div></div>
 <div class="ttc" id="aa08452_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../de/d33/a08452.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:200</div></div>
 <div class="ttc" id="aa08488_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d0/d69/a08488.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1214</div></div>
 <div class="ttc" id="aa08836_html"><div class="ttname"><a href="../../d4/d58/a08836.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
-<div class="ttc" id="aa08836_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../d4/d58/a08836.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5844</div></div>
+<div class="ttc" id="aa08836_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../d4/d58/a08836.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5851</div></div>
 <div class="ttc" id="aa09760_html"><div class="ttname"><a href="../../d1/dae/a09760.html">InstanceScript</a></div><div class="ttdef"><b>Definition:</b> InstanceScript.h:143</div></div>
 <div class="ttc" id="aa11520_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../db/d09/a11520.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aa11520_html_a8d32cff0eb4aaf5487c4c293226fe331"><div class="ttname"><a href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">SpellScript::GetTriggeringSpell</a></div><div class="ttdeci">SpellInfo const * GetTriggeringSpell()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:630</div></div>
 <div class="ttc" id="aa11520_html_ac1cfda0b3181c0da3422765acf78922e"><div class="ttname"><a href="../../db/d09/a11520.html#ac1cfda0b3181c0da3422765acf78922e">SpellScript::SetHitDamage</a></div><div class="ttdeci">void SetHitDamage(int32 damage)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:524</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">DATA_CHARGES_CROSSED</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l01214">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00630">SpellScript::GetTriggeringSpell()</a>, <a class="el" href="../../#l05844">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00079">DATA_CHARGES_CROSSED</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l01214">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00630">SpellScript::GetTriggeringSpell()</a>, <a class="el" href="../../#l05851">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00623">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00626">Register()</a>.</p>
 
 </div>
 </div>
@@ -376,28 +376,28 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  581</span>    {</div>
-<div class="line"><span class="lineno">  582</span>        <a class="code hl_typedef" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> count = 0;</div>
-<div class="line"><span class="lineno">  583</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; ihit : targets)</div>
-<div class="line"><span class="lineno">  584</span>        {</div>
-<div class="line"><span class="lineno">  585</span>            <span class="keywordflow">if</span> (ihit-&gt;GetGUID() != <a class="code hl_function" href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetGUID())</div>
-<div class="line"><span class="lineno">  586</span>            {</div>
-<div class="line"><span class="lineno">  587</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/dad/a08704.html">Player</a>* target = ihit-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
-<div class="line"><span class="lineno">  588</span>                {</div>
-<div class="line"><span class="lineno">  589</span>                    <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_function" href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">GetTriggeringSpell</a>()-&gt;Id))</div>
-<div class="line"><span class="lineno">  590</span>                    {</div>
-<div class="line"><span class="lineno">  591</span>                        ++count;</div>
-<div class="line"><span class="lineno">  592</span>                    }</div>
-<div class="line"><span class="lineno">  593</span>                }</div>
-<div class="line"><span class="lineno">  594</span>            }</div>
-<div class="line"><span class="lineno">  595</span>        }</div>
-<div class="line"><span class="lineno">  596</span> </div>
-<div class="line"><span class="lineno">  597</span>        <span class="keywordflow">if</span> (count)</div>
-<div class="line"><span class="lineno">  598</span>        {</div>
-<div class="line"><span class="lineno">  599</span>            <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = <a class="code hl_function" href="../../db/d09/a11520.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d7/dbc/a11444.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0">SPELL_POSITIVE_CHARGE</a> ? <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9a8ba6564944a1455aee4c76339e7ae5">SPELL_POSITIVE_CHARGE_STACK</a> : <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9af5349fd667c5fad4a16c8aa19810d8">SPELL_NEGATIVE_CHARGE_STACK</a>;</div>
-<div class="line"><span class="lineno">  600</span>            <a class="code hl_function" href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a497d8ba87e00ebcb796f2e320cccb989">SetAuraStack</a>(spellId, <a class="code hl_function" href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), count);</div>
-<div class="line"><span class="lineno">  601</span>        }</div>
-<div class="line"><span class="lineno">  602</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  584</span>    {</div>
+<div class="line"><span class="lineno">  585</span>        <a class="code hl_typedef" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> count = 0;</div>
+<div class="line"><span class="lineno">  586</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; ihit : targets)</div>
+<div class="line"><span class="lineno">  587</span>        {</div>
+<div class="line"><span class="lineno">  588</span>            <span class="keywordflow">if</span> (ihit-&gt;GetGUID() != <a class="code hl_function" href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetGUID())</div>
+<div class="line"><span class="lineno">  589</span>            {</div>
+<div class="line"><span class="lineno">  590</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/dad/a08704.html">Player</a>* target = ihit-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  591</span>                {</div>
+<div class="line"><span class="lineno">  592</span>                    <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_function" href="../../db/d09/a11520.html#a8d32cff0eb4aaf5487c4c293226fe331">GetTriggeringSpell</a>()-&gt;Id))</div>
+<div class="line"><span class="lineno">  593</span>                    {</div>
+<div class="line"><span class="lineno">  594</span>                        ++count;</div>
+<div class="line"><span class="lineno">  595</span>                    }</div>
+<div class="line"><span class="lineno">  596</span>                }</div>
+<div class="line"><span class="lineno">  597</span>            }</div>
+<div class="line"><span class="lineno">  598</span>        }</div>
+<div class="line"><span class="lineno">  599</span> </div>
+<div class="line"><span class="lineno">  600</span>        <span class="keywordflow">if</span> (count)</div>
+<div class="line"><span class="lineno">  601</span>        {</div>
+<div class="line"><span class="lineno">  602</span>            <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = <a class="code hl_function" href="../../db/d09/a11520.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d7/dbc/a11444.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0">SPELL_POSITIVE_CHARGE</a> ? <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9a8ba6564944a1455aee4c76339e7ae5">SPELL_POSITIVE_CHARGE_STACK</a> : <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9af5349fd667c5fad4a16c8aa19810d8">SPELL_NEGATIVE_CHARGE_STACK</a>;</div>
+<div class="line"><span class="lineno">  603</span>            <a class="code hl_function" href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a497d8ba87e00ebcb796f2e320cccb989">SetAuraStack</a>(spellId, <a class="code hl_function" href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), count);</div>
+<div class="line"><span class="lineno">  604</span>        }</div>
+<div class="line"><span class="lineno">  605</span>    }</div>
 <div class="ttc" id="aa02732_html_a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0"><div class="ttname"><a href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0">SPELL_POSITIVE_CHARGE</a></div><div class="ttdeci">@ SPELL_POSITIVE_CHARGE</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:77</div></div>
 <div class="ttc" id="aa02732_html_a5bd342133be8c2137b831460acc9298ca9a8ba6564944a1455aee4c76339e7ae5"><div class="ttname"><a href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9a8ba6564944a1455aee4c76339e7ae5">SPELL_POSITIVE_CHARGE_STACK</a></div><div class="ttdeci">@ SPELL_POSITIVE_CHARGE_STACK</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:78</div></div>
 <div class="ttc" id="aa02732_html_a5bd342133be8c2137b831460acc9298ca9af5349fd667c5fad4a16c8aa19810d8"><div class="ttname"><a href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9af5349fd667c5fad4a16c8aa19810d8">SPELL_NEGATIVE_CHARGE_STACK</a></div><div class="ttdeci">@ SPELL_NEGATIVE_CHARGE_STACK</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:80</div></div>
@@ -405,14 +405,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04331_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa08452_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../de/d33/a08452.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition:</b> Object.h:201</div></div>
 <div class="ttc" id="aa08704_html"><div class="ttname"><a href="../../d9/dad/a08704.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1066</div></div>
-<div class="ttc" id="aa08836_html_a497d8ba87e00ebcb796f2e320cccb989"><div class="ttname"><a href="../../d4/d58/a08836.html#a497d8ba87e00ebcb796f2e320cccb989">Unit::SetAuraStack</a></div><div class="ttdeci">void SetAuraStack(uint32 spellId, Unit *target, uint32 stack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:19153</div></div>
+<div class="ttc" id="aa08836_html_a497d8ba87e00ebcb796f2e320cccb989"><div class="ttname"><a href="../../d4/d58/a08836.html#a497d8ba87e00ebcb796f2e320cccb989">Unit::SetAuraStack</a></div><div class="ttdeci">void SetAuraStack(uint32 spellId, Unit *target, uint32 stack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:19164</div></div>
 <div class="ttc" id="aa11444_html_a49bc14059c2bd3785231c52e0d54d382"><div class="ttname"><a href="../../d7/dbc/a11444.html#a49bc14059c2bd3785231c52e0d54d382">SpellInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:320</div></div>
 <div class="ttc" id="aa11520_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../db/d09/a11520.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:411</div></div>
 <div class="ttc" id="aa11520_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../db/d09/a11520.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00630">SpellScript::GetTriggeringSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l19153">Unit::SetAuraStack()</a>, <a class="el" href="../../#l00080">SPELL_NEGATIVE_CHARGE_STACK</a>, <a class="el" href="../../#l00077">SPELL_POSITIVE_CHARGE</a>, <a class="el" href="../../#l00078">SPELL_POSITIVE_CHARGE_STACK</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00630">SpellScript::GetTriggeringSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l19164">Unit::SetAuraStack()</a>, <a class="el" href="../../#l00080">SPELL_NEGATIVE_CHARGE_STACK</a>, <a class="el" href="../../#l00077">SPELL_POSITIVE_CHARGE</a>, <a class="el" href="../../#l00078">SPELL_POSITIVE_CHARGE_STACK</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00623">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00626">Register()</a>.</p>
 
 </div>
 </div>
@@ -466,10 +466,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dc/d64/a11504.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  624</span>    {</div>
-<div class="line"><span class="lineno">  625</span>        <a class="code hl_variable" href="../../db/d09/a11520.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d5/db1/a00140.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d7/d09/a19460.html#ab8948b09b685ad970f5292ca4c5d97ba">spell_thaddius_pos_neg_charge::HandleDamage</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a292c893150c454dd75628b719db1fe97abd12cbfc6a8daf7ca788d06a77256e01">SPELL_EFFECT_SCHOOL_DAMAGE</a>);</div>
-<div class="line"><span class="lineno">  626</span>        <a class="code hl_variable" href="../../db/d09/a11520.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d5/db1/a00140.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d7/d09/a19460.html#ac36e689bad93aa17738f390680764a7e">spell_thaddius_pos_neg_charge::HandleTargets</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a>);</div>
-<div class="line"><span class="lineno">  627</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  627</span>    {</div>
+<div class="line"><span class="lineno">  628</span>        <a class="code hl_variable" href="../../db/d09/a11520.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d5/db1/a00140.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d7/d09/a19460.html#ab8948b09b685ad970f5292ca4c5d97ba">spell_thaddius_pos_neg_charge::HandleDamage</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a292c893150c454dd75628b719db1fe97abd12cbfc6a8daf7ca788d06a77256e01">SPELL_EFFECT_SCHOOL_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">  629</span>        <a class="code hl_variable" href="../../db/d09/a11520.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d5/db1/a00140.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d7/d09/a19460.html#ac36e689bad93aa17738f390680764a7e">spell_thaddius_pos_neg_charge::HandleTargets</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a>);</div>
+<div class="line"><span class="lineno">  630</span>    }</div>
 <div class="ttc" id="aa00140_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../d5/db1/a00140.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aa00140_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../d5/db1/a00140.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa04121_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d0/dd3/a04121.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
@@ -477,10 +477,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04121_html_a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1"><div class="ttname"><a href="../../d0/dd3/a04121.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ALLY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1445</div></div>
 <div class="ttc" id="aa11520_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../db/d09/a11520.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition:</b> SpellScript.h:336</div></div>
 <div class="ttc" id="aa11520_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../db/d09/a11520.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa19460_html_ab8948b09b685ad970f5292ca4c5d97ba"><div class="ttname"><a href="../../d7/d09/a19460.html#ab8948b09b685ad970f5292ca4c5d97ba">spell_thaddius_pos_neg_charge::HandleDamage</a></div><div class="ttdeci">void HandleDamage(SpellEffIndex)</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:604</div></div>
-<div class="ttc" id="aa19460_html_ac36e689bad93aa17738f390680764a7e"><div class="ttname"><a href="../../d7/d09/a19460.html#ac36e689bad93aa17738f390680764a7e">spell_thaddius_pos_neg_charge::HandleTargets</a></div><div class="ttdeci">void HandleTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:580</div></div>
+<div class="ttc" id="aa19460_html_ab8948b09b685ad970f5292ca4c5d97ba"><div class="ttname"><a href="../../d7/d09/a19460.html#ab8948b09b685ad970f5292ca4c5d97ba">spell_thaddius_pos_neg_charge::HandleDamage</a></div><div class="ttdeci">void HandleDamage(SpellEffIndex)</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:607</div></div>
+<div class="ttc" id="aa19460_html_ac36e689bad93aa17738f390680764a7e"><div class="ttname"><a href="../../d7/d09/a19460.html#ac36e689bad93aa17738f390680764a7e">spell_thaddius_pos_neg_charge::HandleTargets</a></div><div class="ttdeci">void HandleTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_thaddius.cpp:583</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00604">HandleDamage()</a>, <a class="el" href="../../#l00580">HandleTargets()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00791">SPELL_EFFECT_SCHOOL_DAMAGE</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01445">TARGET_UNIT_SRC_AREA_ALLY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00607">HandleDamage()</a>, <a class="el" href="../../#l00583">HandleTargets()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00791">SPELL_EFFECT_SCHOOL_DAMAGE</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01445">TARGET_UNIT_SRC_AREA_ALLY</a>.</p>
 
 </div>
 </div>
@@ -509,9 +509,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d64/a11504.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  576</span>    {</div>
-<div class="line"><span class="lineno">  577</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d64/a11504.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0">SPELL_POSITIVE_CHARGE</a>, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9a8ba6564944a1455aee4c76339e7ae5">SPELL_POSITIVE_CHARGE_STACK</a> });</div>
-<div class="line"><span class="lineno">  578</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  579</span>    {</div>
+<div class="line"><span class="lineno">  580</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d64/a11504.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0">SPELL_POSITIVE_CHARGE</a>, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a5bd342133be8c2137b831460acc9298ca9a8ba6564944a1455aee4c76339e7ae5">SPELL_POSITIVE_CHARGE_STACK</a> });</div>
+<div class="line"><span class="lineno">  581</span>    }</div>
 <div class="ttc" id="aa11504_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dc/d64/a11504.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00077">SPELL_POSITIVE_CHARGE</a>, <a class="el" href="../../#l00078">SPELL_POSITIVE_CHARGE_STACK</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -524,7 +524,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d09/a19460.html">spell_thaddius_pos_neg_charge</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:59:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:15:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

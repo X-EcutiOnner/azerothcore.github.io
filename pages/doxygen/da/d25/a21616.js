@@ -1,6 +1,6 @@
 var a21616 =
 [
-    [ "npc_vh_void_sentryAI", "d4/df3/a21620.html", "d4/df3/a21620" ],
-    [ "npc_vh_void_sentry", "da/d25/a21616.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
-    [ "GetAI", "da/d25/a21616.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
+    [ "npc_vh_teleportation_portalAI", "d4/df3/a21620.html", "d4/df3/a21620" ],
+    [ "npc_vh_teleportation_portal", "da/d25/a21616.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "da/d25/a21616.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

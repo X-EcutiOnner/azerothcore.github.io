@@ -1,8 +1,6 @@
 var a27064 =
 [
-    [ "CalcPeriodic", "d1/d4f/a27064.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "d1/d4f/a27064.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "d1/d4f/a27064.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "d1/d4f/a27064.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "d1/d4f/a27064.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleDummy", "d1/d4f/a27064.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "d1/d4f/a27064.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "d1/d4f/a27064.html#a27aece218c848064ae387491f9176099", null ]
 ];

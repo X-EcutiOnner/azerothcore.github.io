@@ -1,12 +1,6 @@
 var a23348 =
 [
-    [ "boss_fathomlord_karathress", "d7/d57/a23348.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d7/d57/a23348.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d7/d57/a23348.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d7/d57/a23348.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d7/d57/a23348.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d7/d57/a23348.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d7/d57/a23348.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d7/d57/a23348.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d7/d57/a23348.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "OnPeriodic", "d7/d57/a23348.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d7/d57/a23348.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d7/d57/a23348.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

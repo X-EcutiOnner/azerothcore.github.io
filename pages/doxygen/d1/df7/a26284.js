@@ -1,6 +1,7 @@
 var a26284 =
 [
-    [ "OnRemove", "d1/df7/a26284.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "d1/df7/a26284.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "d1/df7/a26284.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "CalculateAmount", "d1/df7/a26284.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d1/df7/a26284.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "d1/df7/a26284.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d1/df7/a26284.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

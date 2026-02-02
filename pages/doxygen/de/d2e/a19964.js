@@ -1,7 +1,5 @@
 var a19964 =
 [
-    [ "HandleDummyEffect", "de/d2e/a19964.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "de/d2e/a19964.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "de/d2e/a19964.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "de/d2e/a19964.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "achievement_algalon_herald_of_the_titans", "de/d2e/a19964.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "de/d2e/a19964.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

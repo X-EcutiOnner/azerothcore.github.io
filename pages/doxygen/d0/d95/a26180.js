@@ -1,6 +1,6 @@
 var a26180 =
 [
-    [ "CalculateDamage", "d0/d95/a26180.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "d0/d95/a26180.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "d0/d95/a26180.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "PrepareSpellScript", "d0/d95/a26180.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d0/d95/a26180.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d0/d95/a26180.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

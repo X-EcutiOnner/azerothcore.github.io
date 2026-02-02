@@ -1,9 +1,7 @@
 var a23576 =
 [
-    [ "boss_mennu_the_betrayer", "db/d9f/a23576.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "db/d9f/a23576.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "db/d9f/a23576.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "db/d9f/a23576.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "db/d9f/a23576.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "db/d9f/a23576.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "boss_hydromancer_thespia", "db/d9f/a23576.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "db/d9f/a23576.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "db/d9f/a23576.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "db/d9f/a23576.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

@@ -1,5 +1,6 @@
 var a24668 =
 [
-    [ "npc_pet_proto_drake_whelp", "d4/df4/a24668.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "d4/df4/a24668.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "FilterTargets", "d4/df4/a24668.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d4/df4/a24668.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d4/df4/a24668.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

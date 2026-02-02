@@ -1,6 +1,6 @@
 var a24512 =
 [
-    [ "npc_kservantAI", "d5/da1/a24516.html", "d5/da1/a24516" ],
-    [ "npc_kservant", "d2/df4/a24512.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d2/df4/a24512.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "HandleSendEvent", "d2/df4/a24512.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d2/df4/a24512.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d2/df4/a24512.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

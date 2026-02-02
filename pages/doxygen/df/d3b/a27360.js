@@ -1,7 +1,5 @@
 var a27360 =
 [
-    [ "CharacterDeleteActionIpLogger", "df/d3b/a27360.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "df/d3b/a27360.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "df/d3b/a27360.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "df/d3b/a27360.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "AreaTrigger_at_sentry_point", "df/d3b/a27360.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "df/d3b/a27360.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

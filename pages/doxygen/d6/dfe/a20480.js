@@ -1,6 +1,6 @@
 var a20480 =
 [
-    [ "FilterTargets", "d6/dfe/a20480.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d6/dfe/a20480.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d6/dfe/a20480.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "HandleAfterEffectApply", "d6/dfe/a20480.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d6/dfe/a20480.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d6/dfe/a20480.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

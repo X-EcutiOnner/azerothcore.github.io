@@ -1,13 +1,11 @@
 var a19516 =
 [
-    [ "npc_vortex_rideAI", "df/d94/a19516.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
-    [ "AttackStart", "df/d94/a19516.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
-    [ "DamageTaken", "df/d94/a19516.html#a39e33812041877296c11c9bace6a4667", null ],
-    [ "MoveInLineOfSight", "df/d94/a19516.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
-    [ "PassengerBoarded", "df/d94/a19516.html#a77234a8f4ec9c687b194a8c332820609", null ],
-    [ "UpdateAI", "df/d94/a19516.html#ad450120965f9e85bdb69ffc4c092c901", null ],
-    [ "bUpdatedFlying", "df/d94/a19516.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
-    [ "despawnTimer", "df/d94/a19516.html#acd7a8c972db52077f8b02317f5398ff0", null ],
-    [ "timer", "df/d94/a19516.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
-    [ "VORTEX_RADIUS", "df/d94/a19516.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
+    [ "npc_nexus_lord", "df/d94/a19516.html#af69d593840747f3e6bdfcce32bbd5c66", null ],
+    [ "AttackStart", "df/d94/a19516.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "df/d94/a19516.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "df/d94/a19516.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "df/d94/a19516.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "events", "df/d94/a19516.html#a59a5b91eb950675d14cfd8e9c2da9548", null ],
+    [ "pInstance", "df/d94/a19516.html#a7187de65f193cd7e06bf6898f802d544", null ],
+    [ "timer", "df/d94/a19516.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

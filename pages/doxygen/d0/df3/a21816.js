@@ -1,9 +1,6 @@
 var a21816 =
 [
-    [ "npc_warmage_coldarraAI", "d0/df3/a21816.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d0/df3/a21816.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d0/df3/a21816.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d0/df3/a21816.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d0/df3/a21816.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d0/df3/a21816.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_thassarianAI", "de/dcc/a21820.html", "de/dcc/a21820" ],
+    [ "npc_thassarian", "d0/df3/a21816.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "d0/df3/a21816.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

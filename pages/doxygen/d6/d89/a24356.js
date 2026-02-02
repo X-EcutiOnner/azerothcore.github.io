@@ -1,7 +1,6 @@
 var a24356 =
 [
-    [ "npc_maxx_a_million_escortAI", "d5/d62/a24360.html", "d5/d62/a24360" ],
-    [ "npc_maxx_a_million_escort", "d6/d89/a24356.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d6/d89/a24356.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d6/d89/a24356.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_invis_infernal_casterAI", "d5/d62/a24360.html", "d5/d62/a24360" ],
+    [ "npc_invis_infernal_caster", "d6/d89/a24356.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d6/d89/a24356.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

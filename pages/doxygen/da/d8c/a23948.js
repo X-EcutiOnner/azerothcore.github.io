@@ -1,10 +1,7 @@
 var a23948 =
 [
-    [ "boss_harbinger_skyriss", "da/d8c/a23948.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "da/d8c/a23948.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "da/d8c/a23948.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "da/d8c/a23948.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "da/d8c/a23948.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "da/d8c/a23948.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "da/d8c/a23948.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "AfterApply", "da/d8c/a23948.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "da/d8c/a23948.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "da/d8c/a23948.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "da/d8c/a23948.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

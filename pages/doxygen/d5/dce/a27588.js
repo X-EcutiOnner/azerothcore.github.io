@@ -1,5 +1,5 @@
 var a27588 =
 [
-    [ "go_sacred_fire_of_life", "d5/dce/a27588.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d5/dce/a27588.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_arcane_prison", "d5/dce/a27588.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d5/dce/a27588.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

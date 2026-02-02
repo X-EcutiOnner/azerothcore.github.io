@@ -1,10 +1,9 @@
 var a23056 =
 [
-    [ "boss_gathios_the_shatterer", "d8/def/a23056.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "d8/def/a23056.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "d8/def/a23056.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "d8/def/a23056.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "d8/def/a23056.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "d8/def/a23056.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "d8/def/a23056.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "HandleAfterCast", "d8/def/a23056.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d8/def/a23056.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d8/def/a23056.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d8/def/a23056.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d8/def/a23056.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d8/def/a23056.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

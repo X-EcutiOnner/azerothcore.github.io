@@ -1,6 +1,11 @@
 var a23488 =
 [
-    [ "HandleEffectRemove", "dc/d2b/a23488.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "dc/d2b/a23488.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "dc/d2b/a23488.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "boss_ahune", "dc/d2b/a23488.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "dc/d2b/a23488.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "dc/d2b/a23488.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "dc/d2b/a23488.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "dc/d2b/a23488.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "dc/d2b/a23488.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "dc/d2b/a23488.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "dc/d2b/a23488.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

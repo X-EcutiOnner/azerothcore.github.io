@@ -1,13 +1,16 @@
 var a23892 =
 [
-    [ "boss_warbringer_omrogg", "da/de4/a23892.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "da/de4/a23892.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "da/de4/a23892.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "da/de4/a23892.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "da/de4/a23892.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "da/de4/a23892.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "da/de4/a23892.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "da/de4/a23892.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "da/de4/a23892.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "da/de4/a23892.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "da/de4/a23892.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "da/de4/a23892.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "da/de4/a23892.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "da/de4/a23892.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "da/de4/a23892.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "da/de4/a23892.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "SetGuidData", "da/de4/a23892.html#aba8c1ea3be2a6199cefa47c52ecf7f31", null ],
+    [ "Update", "da/de4/a23892.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "da/de4/a23892.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "da/de4/a23892.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "LastArrowGUID", "da/de4/a23892.html#a602015bb20d74f6d3aac07b23ad48aea", null ],
+    [ "PrisonerGUID", "da/de4/a23892.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "da/de4/a23892.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

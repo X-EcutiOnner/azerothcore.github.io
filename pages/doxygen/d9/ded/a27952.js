@@ -1,6 +1,9 @@
 var a27952 =
 [
-    [ "npc_venomhide_hatchlingAI", "d9/ded/a27952.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d9/ded/a27952.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d9/ded/a27952.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_herald_of_the_lich_king", "d9/ded/a27952.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d9/ded/a27952.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d9/ded/a27952.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d9/ded/a27952.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d9/ded/a27952.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d9/ded/a27952.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

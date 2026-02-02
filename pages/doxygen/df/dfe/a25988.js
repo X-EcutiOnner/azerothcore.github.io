@@ -1,8 +1,8 @@
 var a25988 =
 [
-    [ "HandleDummy", "df/dfe/a25988.html#ad303a5c1bbbab3766bd5e9ab753b2a01", null ],
-    [ "Load", "df/dfe/a25988.html#a054d9083b24183f4427fc0cb4985ba62", null ],
-    [ "PrepareSpellScript", "df/dfe/a25988.html#aa4904ed55b5e216e0af5e32508372d4e", null ],
-    [ "Register", "df/dfe/a25988.html#a5679f34290f90dbcaf15f09eca0fb20f", null ],
-    [ "Validate", "df/dfe/a25988.html#a0a01f5e290b91e58b4b0f8ba443eb7bf", null ]
+    [ "HandleDummy", "df/dfe/a25988.html#a57897df074b7766c022526e082b4a13b", null ],
+    [ "Load", "df/dfe/a25988.html#a47cbade67be124496c6194391ab51794", null ],
+    [ "PrepareSpellScript", "df/dfe/a25988.html#af5e5a22976adfa5588ca8e054e19a669", null ],
+    [ "Register", "df/dfe/a25988.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
+    [ "Validate", "df/dfe/a25988.html#a97d037267e385e0d3fd80543a5ddb366", null ]
 ];

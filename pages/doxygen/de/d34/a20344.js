@@ -1,6 +1,8 @@
 var a20344 =
 [
-    [ "boss_vezaxAI", "d3/dc3/a20348.html", "d3/dc3/a20348" ],
-    [ "boss_vezax", "de/d34/a20344.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "de/d34/a20344.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "OnApply", "de/d34/a20344.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "de/d34/a20344.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "de/d34/a20344.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "de/d34/a20344.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "de/d34/a20344.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

@@ -1,6 +1,6 @@
 var a26760 =
 [
-    [ "HandleDummy", "df/d26/a26760.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "df/d26/a26760.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "df/d26/a26760.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "PrepareSpellScript", "df/d26/a26760.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "df/d26/a26760.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "df/d26/a26760.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

@@ -1,6 +1,5 @@
 var a19580 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "de/df9/a19584.html", "de/df9/a19584" ],
-    [ "instance_eye_of_eternity", "de/ddf/a19580.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "de/ddf/a19580.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "achievement_intense_cold", "de/ddf/a19580.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "de/ddf/a19580.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

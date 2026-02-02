@@ -1,6 +1,6 @@
 var a21572 =
 [
-    [ "npc_ichor_globuleAI", "df/d7b/a21576.html", "df/d7b/a21576" ],
-    [ "npc_ichor_globule", "d7/d2f/a21572.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d7/d2f/a21572.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "HandleEffectPeriodic", "d7/d2f/a21572.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d7/d2f/a21572.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d7/d2f/a21572.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

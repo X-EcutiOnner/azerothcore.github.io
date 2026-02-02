@@ -1,7 +1,6 @@
 var a20316 =
 [
-    [ "boss_freya_healthy_sporeAI", "d7/de2/a20316.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d7/de2/a20316.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d7/de2/a20316.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d7/de2/a20316.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "achievement_freya_knock_on_wood", "d7/de2/a20316.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d7/de2/a20316.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d7/de2/a20316.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

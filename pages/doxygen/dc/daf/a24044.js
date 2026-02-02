@@ -1,7 +1,5 @@
 var a24044 =
 [
-    [ "OnApply", "dc/daf/a24044.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "dc/daf/a24044.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "dc/daf/a24044.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "dc/daf/a24044.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "npc_thaladred", "dc/daf/a24044.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "dc/daf/a24044.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

@@ -1,7 +1,5 @@
 var a20704 =
 [
-    [ "HandleEffectPeriodic", "db/d10/a20704.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "db/d10/a20704.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "db/d10/a20704.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "db/d10/a20704.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_flames_spreadAI", "db/d10/a20704.html#a607ee542f7c6d84f4072557e44a80905", null ],
+    [ "SpellHit", "db/d10/a20704.html#abe69df9873fc125306a4ed757665e448", null ]
 ];

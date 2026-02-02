@@ -1,18 +1,11 @@
 var a20648 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "d1/dde/a20648.html#a5502ef972b889513a3d3d9b85d256af4", null ],
-    [ "DamageTaken", "d1/dde/a20648.html#a773f86b23d373bae4e57d4d67b270b6d", null ],
-    [ "EnterEvadeMode", "d1/dde/a20648.html#ab6d02d90b4fe5f6bda0eed4f8f05c001", null ],
-    [ "GetS3", "d1/dde/a20648.html#af76019911ce9bb993ebb7c658d30188d", null ],
-    [ "KilledUnit", "d1/dde/a20648.html#a53acdf5b1703a3feca814184a018cc3d", null ],
-    [ "MoveInLineOfSight", "d1/dde/a20648.html#a0f4f1b5876d608b01376430444e472e3", null ],
-    [ "PassengerBoarded", "d1/dde/a20648.html#a55f76a830084d7aaa3df0d6bf0630121", null ],
-    [ "Reset", "d1/dde/a20648.html#a63174d9dcdf5a0d433f9694bda6d7086", null ],
-    [ "SetData", "d1/dde/a20648.html#a214491b36ca047f666d5931365649c4c", null ],
-    [ "SpellHit", "d1/dde/a20648.html#ad9c47de936a986e6698a1b8ed6caf68f", null ],
-    [ "UpdateAI", "d1/dde/a20648.html#a4267062c75d3bee348c946be6f8d5878", null ],
-    [ "bIsEvading", "d1/dde/a20648.html#ac142b9abf799b944cd5e20cc0e9979c8", null ],
-    [ "events", "d1/dde/a20648.html#a6f12f0d68459399cf85ce030cb633d4f", null ],
-    [ "Phase", "d1/dde/a20648.html#ad9e8d511cbd34ff024799f6ec61fe1ff", null ],
-    [ "pInstance", "d1/dde/a20648.html#aa991c7f1cf64ca7e0963323222ffc1dd", null ]
+    [ "npc_ulduar_proximity_mineAI", "d1/dde/a20648.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "d1/dde/a20648.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "d1/dde/a20648.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "d1/dde/a20648.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "UpdateAI", "d1/dde/a20648.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "d1/dde/a20648.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "d1/dde/a20648.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "d1/dde/a20648.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

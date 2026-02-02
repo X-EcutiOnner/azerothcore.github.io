@@ -1,9 +1,7 @@
 var a29036 =
 [
-    [ "adtData", "d2/d37/a29044.html", "d2/d37/a29044" ],
-    [ "prepareLoadedData", "da/d02/a29036.html#a6b755c9e341918d05105d993391429c6", null ],
-    [ "adt_list", "da/d02/a29036.html#abe28c39e8856412c4fb182baab3218f0", null ],
-    [ "fcc", "da/d02/a29036.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
-    [ "fcc_txt", "da/d02/a29036.html#a0657c323732de8d83b9c360c1dd03b61", null ],
-    [ "size", "da/d02/a29036.html#a797c02773dd470a318474c7ef033ba7c", null ]
+    [ "walkableClimb", "da/d02/a29036.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "da/d02/a29036.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "da/d02/a29036.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "da/d02/a29036.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

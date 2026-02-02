@@ -1,10 +1,7 @@
 var a26860 =
 [
-    [ "Absorb", "dc/d7c/a26860.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "dc/d7c/a26860.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "dc/d7c/a26860.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "dc/d7c/a26860.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "dc/d7c/a26860.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "dc/d7c/a26860.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "dc/d7c/a26860.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "CalculateAmount", "dc/d7c/a26860.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "dc/d7c/a26860.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "dc/d7c/a26860.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "dc/d7c/a26860.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

@@ -1,6 +1,7 @@
 var a21988 =
 [
-    [ "npc_mindless_ghoulAI", "dd/d20/a21988.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "dd/d20/a21988.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "dd/d20/a21988.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "CheckRequirement", "dd/d20/a21988.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "dd/d20/a21988.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "dd/d20/a21988.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "dd/d20/a21988.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

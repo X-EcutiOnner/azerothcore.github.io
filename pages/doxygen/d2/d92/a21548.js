@@ -1,6 +1,6 @@
 var a21548 =
 [
-    [ "boss_erekemAI", "d5/d84/a21552.html", "d5/d84/a21552" ],
-    [ "boss_erekem", "d2/d92/a21548.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "d2/d92/a21548.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "npc_ichor_globuleAI", "d5/d84/a21552.html", "d5/d84/a21552" ],
+    [ "npc_ichor_globule", "d2/d92/a21548.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "d2/d92/a21548.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

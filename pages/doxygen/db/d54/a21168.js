@@ -1,9 +1,7 @@
 var a21168 =
 [
-    [ "HandleOnEffectApply", "db/d54/a21168.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "db/d54/a21168.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "db/d54/a21168.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "db/d54/a21168.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "db/d54/a21168.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "db/d54/a21168.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "OnPeriodic", "db/d54/a21168.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "db/d54/a21168.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "db/d54/a21168.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "db/d54/a21168.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

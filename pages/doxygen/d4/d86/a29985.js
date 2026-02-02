@@ -1,10 +1,14 @@
 var a29985 =
 [
-    [ "PvPDifficultyEntry", "d4/d86/a29985.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d4/d86/a29985.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d4/d86/a29985.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d4/d86/a29985.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d4/d86/a29985.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d4/d86/a29985.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d4/d86/a29985.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "file_MVER", "de/d59/a28976.html", "de/d59/a28976" ],
+    [ "FileLoader", "dc/d0c/a28984.html", "dc/d0c/a28984" ],
+    [ "FILE_FORMAT_VERSION", "d4/d86/a29985.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
+    [ "int16", "d4/d86/a29985.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
+    [ "int32", "d4/d86/a29985.html#ab7903878916593daecbeb95b98115ab0", null ],
+    [ "int64", "d4/d86/a29985.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
+    [ "int8", "d4/d86/a29985.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
+    [ "uint16", "d4/d86/a29985.html#ac2a9e79eb120216f855626495b7bd18a", null ],
+    [ "uint32", "d4/d86/a29985.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
+    [ "uint64", "d4/d86/a29985.html#abc0f5bc07737e498f287334775dff2b6", null ],
+    [ "uint8", "d4/d86/a29985.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
 ];

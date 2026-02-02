@@ -1,8 +1,8 @@
 var a25704 =
 [
-    [ "HandlePeriodic", "d1/d67/a25704.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "d1/d67/a25704.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "d1/d67/a25704.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "d1/d67/a25704.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "d1/d67/a25704.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "OnApply", "d1/d67/a25704.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "d1/d67/a25704.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "d1/d67/a25704.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "d1/d67/a25704.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "d1/d67/a25704.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

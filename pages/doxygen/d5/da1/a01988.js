@@ -1,6 +1,6 @@
 var a01988 =
 [
-    [ "boss_omor_the_unscarred", "d3/db6/a23780.html", "d3/db6/a23780" ],
+    [ "boss_omor_the_unscarred", "d6/d42/a23756.html", "d6/d42/a23756" ],
     [ "Says", "d5/da1/a01988.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d5/d35/a03716.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "dc/dd8/a03755.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

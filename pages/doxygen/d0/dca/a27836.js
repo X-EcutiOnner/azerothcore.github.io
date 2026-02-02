@@ -1,10 +1,6 @@
 var a27836 =
 [
-    [ "npc_air_force_botsAI", "d0/dca/a27836.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d0/dca/a27836.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d0/dca/a27836.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d0/dca/a27836.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d0/dca/a27836.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d0/dca/a27836.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d0/dca/a27836.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_injured_patientAI", "d2/da5/a27840.html", "d2/da5/a27840" ],
+    [ "npc_injured_patient", "d0/dca/a27836.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d0/dca/a27836.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

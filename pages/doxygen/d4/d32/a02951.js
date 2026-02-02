@@ -1,7 +1,7 @@
 var a02951 =
 [
-    [ "npc_preparations_for_war_vehicle", "d5/db5/a21884.html", "d5/db5/a21884" ],
-    [ "npc_warmage_violetstand", "da/da0/a21888.html", "da/da0/a21888" ],
+    [ "npc_preparations_for_war_vehicle", "d2/d9d/a21860.html", "d2/d9d/a21860" ],
+    [ "npc_warmage_violetstand", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
     [ "ePreparationsForWar", "d4/d32/a02951.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
       [ "NPC_CLOUDBUSTER", "d4/d32/a02951.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],
       [ "NPC_HAMMERHEAD", "d4/d32/a02951.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
@@ -123,7 +123,6 @@ var a02951 =
       [ "NPC_HOVER_DISK", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5ca9c327c4592f7711c26c51c3fc03d2b54", null ],
       [ "NPC_ARCANE_OVERLOAD", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5ca87d9c957ef45c0e90fcbef07c94c4c2e", null ],
       [ "NPC_SURGE_OF_POWER", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5caf6aa5bbf6159c712e1b25863dfe45d9b", null ],
-      [ "NPC_WYRMREST_SKYTALON", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5caf7b8a3b895235f57b62709d3ce2215a4", null ],
       [ "NPC_STATIC_FIELD", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5cac87fa82670db238f21926da3e15031de", null ],
       [ "NPC_ALEXSTRASZA", "dd/d71/a03182.html#a6986ec7b2d3274669934af9795f26d5cab3d24eea73922a81c6c4f4a7a0071030", null ],
       [ "NPC_DRAKOS", "d0/d04/a03161.html#a6986ec7b2d3274669934af9795f26d5ca159355a5d62485573c94323e3d8c1e58", null ],

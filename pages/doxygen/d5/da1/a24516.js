@@ -1,7 +1,7 @@
 var a24516 =
 [
-    [ "npc_kservantAI", "d5/da1/a24516.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d5/da1/a24516.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d5/da1/a24516.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d5/da1/a24516.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "HandleSendEvent", "d5/da1/a24516.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d5/da1/a24516.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d5/da1/a24516.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d5/da1/a24516.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

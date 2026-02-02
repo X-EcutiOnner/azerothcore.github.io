@@ -1,6 +1,6 @@
 var a25764 =
 [
-    [ "HandleItemRemove", "d0/db8/a25764.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d0/db8/a25764.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d0/db8/a25764.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "HandlePreventAura", "d0/db8/a25764.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d0/db8/a25764.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d0/db8/a25764.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

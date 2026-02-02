@@ -1,6 +1,6 @@
 var a19864 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "db/dea/a19868.html", "db/dea/a19868" ],
-    [ "boss_sjonnir_malformed_ooze", "db/d62/a19864.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "db/d62/a19864.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "HandleApplyTouch", "db/d62/a19864.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "db/d62/a19864.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "db/d62/a19864.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

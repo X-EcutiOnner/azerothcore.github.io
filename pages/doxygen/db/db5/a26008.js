@@ -1,8 +1,9 @@
 var a26008 =
 [
-    [ "HandleDummy", "db/db5/a26008.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
-    [ "Load", "db/db5/a26008.html#af767de9953372e5e56509a0be9e90958", null ],
-    [ "PrepareSpellScript", "db/db5/a26008.html#a0385a22f908ac62ab987fe9f84cad330", null ],
-    [ "Register", "db/db5/a26008.html#a1212726a4fcbac06b527648dff58c546", null ],
-    [ "Validate", "db/db5/a26008.html#ab014db76cf4656e10665f12fb18c5997", null ]
+    [ "CheckProc", "db/db5/a26008.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "db/db5/a26008.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "db/db5/a26008.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "db/db5/a26008.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "db/db5/a26008.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "db/db5/a26008.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

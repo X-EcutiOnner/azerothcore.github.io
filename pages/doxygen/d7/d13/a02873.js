@@ -1,14 +1,14 @@
 var a02873 =
 [
-    [ "boss_auriaya", "d7/dd6/a20048.html", "d7/dd6/a20048" ],
-    [ "boss_auriaya::boss_auriayaAI", "d9/d09/a20052.html", "d9/d09/a20052" ],
-    [ "npc_auriaya_sanctum_sentry", "d4/d29/a20056.html", "d4/d29/a20056" ],
-    [ "npc_auriaya_sanctum_sentry::npc_auriaya_sanctum_sentryAI", "da/d14/a20060.html", "da/d14/a20060" ],
-    [ "npc_auriaya_feral_defender", "de/ddf/a20064.html", "de/ddf/a20064" ],
-    [ "npc_auriaya_feral_defender::npc_auriaya_feral_defenderAI", "dd/daf/a20068.html", "dd/daf/a20068" ],
-    [ "spell_auriaya_sentinel_blast", "d7/d5a/a20072.html", "d7/d5a/a20072" ],
-    [ "achievement_auriaya_crazy_cat_lady", "d0/d4f/a20076.html", "d0/d4f/a20076" ],
-    [ "achievement_auriaya_nine_lives", "d1/d98/a20080.html", "d1/d98/a20080" ],
+    [ "boss_auriaya", "db/dfa/a20024.html", "db/dfa/a20024" ],
+    [ "boss_auriaya::boss_auriayaAI", "d0/d98/a20028.html", "d0/d98/a20028" ],
+    [ "npc_auriaya_sanctum_sentry", "da/ddb/a20032.html", "da/ddb/a20032" ],
+    [ "npc_auriaya_sanctum_sentry::npc_auriaya_sanctum_sentryAI", "d0/d8f/a20036.html", "d0/d8f/a20036" ],
+    [ "npc_auriaya_feral_defender", "d1/d94/a20040.html", "d1/d94/a20040" ],
+    [ "npc_auriaya_feral_defender::npc_auriaya_feral_defenderAI", "d7/d89/a20044.html", "d7/d89/a20044" ],
+    [ "spell_auriaya_sentinel_blast", "d7/dd6/a20048.html", "d7/dd6/a20048" ],
+    [ "achievement_auriaya_crazy_cat_lady", "d9/d09/a20052.html", "d9/d09/a20052" ],
+    [ "achievement_auriaya_nine_lives", "d4/d29/a20056.html", "d4/d29/a20056" ],
     [ "AuriayaEvents", "d7/d13/a02873.html#a7e23dcf30d7d2163bfeb660ab6e77eac", [
       [ "EVENT_SUMMON_FERAL_DEFENDER", "d7/d13/a02873.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d", null ],
       [ "EVENT_TERRIFYING_SCREECH", "d7/d13/a02873.html#a7e23dcf30d7d2163bfeb660ab6e77eacadae3b32642ab8b6c6e415f0570d70e94", null ],

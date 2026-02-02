@@ -27,8 +27,8 @@ var a10192 =
     [ "getPoint", "d3/d1f/a10192.html#a2488d8f0ca631d1004e577347663d84e", null ],
     [ "getPointCount", "d3/d1f/a10192.html#aec270291a46b401ba59f367a94eaf565", null ],
     [ "getPoints", "d3/d1f/a10192.html#abfedcb6ac1261e845c73743dfa8daa1f", null ],
-    [ "init_cyclic_spline", "d3/d1f/a10192.html#add5fd58a7c5edc3c5345813e0086b860", null ],
-    [ "init_spline", "d3/d1f/a10192.html#a9b11420c24387cd4796650b85e37d359", null ],
+    [ "init_cyclic_spline", "d3/d1f/a10192.html#a20aeb370ccd200c3cabaf9c9066da392", null ],
+    [ "init_spline", "d3/d1f/a10192.html#a51228c74a9b3bb66c77b27eac107fbc5", null ],
     [ "init_spline_custom", "d3/d1f/a10192.html#a0d320a2dc6db0e026829cdfce4bf1bd9", null ],
     [ "InitBezier3", "d3/d1f/a10192.html#ad8e8a50d51c34508f25c158115f8abdb", null ],
     [ "InitCatmullRom", "d3/d1f/a10192.html#ae1bc098b3ca87cd4b96f60b345ec22f2", null ],
@@ -50,6 +50,7 @@ var a10192 =
     [ "index_hi", "d3/d1f/a10192.html#acbc7e3f2c43de66ef88d86d1e2d9fab2", null ],
     [ "index_lo", "d3/d1f/a10192.html#af38f585652cb0227e23299afa10bb96d", null ],
     [ "initializers", "d3/d1f/a10192.html#a33f224d12367e8dd3f1a63e41979a639", null ],
+    [ "initialOrientation", "d3/d1f/a10192.html#a6e67541a6058399015af3742352f1ac3", null ],
     [ "m_mode", "d3/d1f/a10192.html#acab01ea4c863d0c90c169fc8813ddd4e", null ],
     [ "points", "d3/d1f/a10192.html#a37192fbc57bfe73c09916ec181860ed7", null ],
     [ "seglengths", "d3/d1f/a10192.html#ae755cfd5bbc9e1fae8678be70c82348b", null ]

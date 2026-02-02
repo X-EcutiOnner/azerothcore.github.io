@@ -1,8 +1,6 @@
 var a21176 =
 [
-    [ "FilterTargets", "de/da9/a21176.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "de/da9/a21176.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "de/da9/a21176.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "de/da9/a21176.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "de/da9/a21176.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "OnRemove", "de/da9/a21176.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "de/da9/a21176.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "de/da9/a21176.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

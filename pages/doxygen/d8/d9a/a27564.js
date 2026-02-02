@@ -1,6 +1,5 @@
 var a27564 =
 [
-    [ "go_midsummer_musicAI", "dc/d2f/a27568.html", "dc/d2f/a27568" ],
-    [ "go_midsummer_music", "d8/d9a/a27564.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "d8/d9a/a27564.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "go_southfury_moonstone", "d8/d9a/a27564.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d8/d9a/a27564.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

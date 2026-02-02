@@ -1,11 +1,6 @@
 var a20916 =
 [
-    [ "boss_thorim_arena_npcsAI", "d4/d85/a20916.html#aab66eff737c803f6680ca5f93baaa6ca", null ],
-    [ "CanAIAttack", "d4/d85/a20916.html#ae214fabcc4db1f40a15be3369e66b030", null ],
-    [ "JustEngagedWith", "d4/d85/a20916.html#a60530453c2cbf5f22fb0d45088f90706", null ],
-    [ "Reset", "d4/d85/a20916.html#a83cb4bdb14a757733333f94d02fbf8db", null ],
-    [ "SelectT", "d4/d85/a20916.html#a84f22d142aad0ed7354784192bd5df3b", null ],
-    [ "UpdateAI", "d4/d85/a20916.html#acf09c7b12bce41c38980905457d4dbb4", null ],
-    [ "_isCaster", "d4/d85/a20916.html#a2c55eacc7b16be459935b586a0654500", null ],
-    [ "events", "d4/d85/a20916.html#aea5a9f9c915a7827316c48a504bc992e", null ]
+    [ "boss_xt002AI", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
+    [ "boss_xt002", "d4/d85/a20916.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "d4/d85/a20916.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

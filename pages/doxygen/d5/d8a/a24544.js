@@ -1,7 +1,10 @@
 var a24544 =
 [
-    [ "HandleSendEvent", "d5/d8a/a24544.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d5/d8a/a24544.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d5/d8a/a24544.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d5/d8a/a24544.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_isla_starmaneAI", "d5/d8a/a24544.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d5/d8a/a24544.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d5/d8a/a24544.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d5/d8a/a24544.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d5/d8a/a24544.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d5/d8a/a24544.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "d5/d8a/a24544.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

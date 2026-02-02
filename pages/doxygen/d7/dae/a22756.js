@@ -1,10 +1,14 @@
 var a22756 =
 [
-    [ "OPvPCapturePointHP", "d7/dae/a22756.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d7/dae/a22756.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d7/dae/a22756.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d7/dae/a22756.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d7/dae/a22756.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d7/dae/a22756.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d7/dae/a22756.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "OutdoorPvPNA", "d7/dae/a22756.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "d7/dae/a22756.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "d7/dae/a22756.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "d7/dae/a22756.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "d7/dae/a22756.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "d7/dae/a22756.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "d7/dae/a22756.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "d7/dae/a22756.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "d7/dae/a22756.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "d7/dae/a22756.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "d7/dae/a22756.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

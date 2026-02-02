@@ -1,7 +1,6 @@
 var a24700 =
 [
-    [ "CheckCast", "df/d98/a24700.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "df/d98/a24700.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "df/d98/a24700.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "df/d98/a24700.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandlePeriodic", "df/d98/a24700.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "df/d98/a24700.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "df/d98/a24700.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

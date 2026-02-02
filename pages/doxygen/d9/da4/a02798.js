@@ -1,9 +1,9 @@
 var a02798 =
 [
-    [ "boss_zuramat", "d5/d7d/a21608.html", "d5/d7d/a21608" ],
-    [ "boss_zuramat::boss_zuramatAI", "d8/d5b/a21612.html", "d8/d5b/a21612" ],
-    [ "npc_vh_void_sentry", "da/d25/a21616.html", "da/d25/a21616" ],
-    [ "npc_vh_void_sentry::npc_vh_void_sentryAI", "d4/df3/a21620.html", "d4/df3/a21620" ],
+    [ "boss_zuramat", "df/db2/a21584.html", "df/db2/a21584" ],
+    [ "boss_zuramat::boss_zuramatAI", "d0/dc2/a21588.html", "d0/dc2/a21588" ],
+    [ "npc_vh_void_sentry", "d6/d2e/a21592.html", "d6/d2e/a21592" ],
+    [ "npc_vh_void_sentry::npc_vh_void_sentryAI", "dc/ddf/a21596.html", "dc/ddf/a21596" ],
     [ "NPC_VOID_SENTRY_BALL", "d9/da4/a02798.html#ad5b8f2597f257f84fe802e98918f9f6a", null ],
     [ "eEvents", "d9/da4/a02798.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "de/d69/a02786.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
@@ -177,6 +177,8 @@ var a02798 =
       [ "SPELL_ARCANE_SHOCK", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a70217cff0adeb1a0499b1651a82f03ef", null ],
       [ "SPELL_HASTE", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
       [ "SPELL_ALEXSTRASZA_GIFT", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ],
+      [ "SPELL_SUMMON_RED_DRAGON_BUDDY", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a830614a9bf710d7048b72ee0a5278eff", null ],
+      [ "SPELL_RIDE_RED_DRAGON", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ],
       [ "SPELL_SUMMON_VALKYR", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
       [ "SPELL_RESURRECTION_BEAM", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5b685630d8a3d29bdf642c7c3fb066cb", null ],
       [ "SPELL_RESURRECTION_BALL", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a581272352a56e266974b3d5242b18b1c", null ],

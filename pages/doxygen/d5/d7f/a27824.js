@@ -1,9 +1,10 @@
 var a27824 =
 [
-    [ "npc_target_dummyAI", "d5/d7f/a27824.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d5/d7f/a27824.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d5/d7f/a27824.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d5/d7f/a27824.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d5/d7f/a27824.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d5/d7f/a27824.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_dancing_flamesAI", "d5/d7f/a27824.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d5/d7f/a27824.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d5/d7f/a27824.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d5/d7f/a27824.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d5/d7f/a27824.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d5/d7f/a27824.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d5/d7f/a27824.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

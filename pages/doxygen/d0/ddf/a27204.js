@@ -1,7 +1,6 @@
 var a27204 =
 [
-    [ "HandleDummy", "d0/ddf/a27204.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d0/ddf/a27204.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d0/ddf/a27204.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d0/ddf/a27204.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleHeal", "d0/ddf/a27204.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d0/ddf/a27204.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d0/ddf/a27204.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

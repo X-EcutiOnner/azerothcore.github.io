@@ -1,9 +1,7 @@
 var a23080 =
 [
-    [ "HandleAfterCast", "d3/d5d/a23080.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d3/d5d/a23080.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d3/d5d/a23080.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d3/d5d/a23080.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d3/d5d/a23080.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d3/d5d/a23080.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "PrepareAuraScript", "d3/d5d/a23080.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d3/d5d/a23080.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d3/d5d/a23080.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d3/d5d/a23080.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

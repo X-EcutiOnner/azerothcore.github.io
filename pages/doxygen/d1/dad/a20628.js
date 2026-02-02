@@ -1,5 +1,6 @@
 var a20628 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d1/dad/a20628.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d1/dad/a20628.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "npc_ulduar_vx001AI", "d2/dad/a20632.html", "d2/dad/a20632" ],
+    [ "npc_ulduar_vx001", "d1/dad/a20628.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d1/dad/a20628.html#acdab817141b851deb09861230323ee58", null ]
 ];

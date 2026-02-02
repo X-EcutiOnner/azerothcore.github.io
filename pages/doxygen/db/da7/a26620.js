@@ -1,6 +1,6 @@
 var a26620 =
 [
-    [ "HandleScript", "db/da7/a26620.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "db/da7/a26620.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "db/da7/a26620.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "HandleScriptEffect", "db/da7/a26620.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "db/da7/a26620.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "db/da7/a26620.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

@@ -1,7 +1,6 @@
 var a24372 =
 [
-    [ "CheckRequirement", "de/d03/a24372.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "de/d03/a24372.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "de/d03/a24372.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "de/d03/a24372.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_mature_netherwing_drakeAI", "d2/d6a/a24376.html", "d2/d6a/a24376" ],
+    [ "npc_mature_netherwing_drake", "de/d03/a24372.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "de/d03/a24372.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

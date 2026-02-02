@@ -1,7 +1,6 @@
 var a23064 =
 [
-    [ "boss_lady_malande", "d6/d06/a23064.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d6/d06/a23064.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d6/d06/a23064.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d6/d06/a23064.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleSharedRule", "d6/d06/a23064.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d6/d06/a23064.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d6/d06/a23064.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

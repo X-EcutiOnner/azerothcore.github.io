@@ -1,6 +1,6 @@
 var a23264 =
 [
-    [ "PrepareSpellScript", "d0/d54/a23264.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d0/d54/a23264.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d0/d54/a23264.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "HandleEffectRemove", "d0/d54/a23264.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "d0/d54/a23264.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "d0/d54/a23264.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

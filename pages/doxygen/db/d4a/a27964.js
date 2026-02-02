@@ -1,5 +1,6 @@
 var a27964 =
 [
-    [ "npc_controller", "db/d4a/a27964.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "db/d4a/a27964.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_necropolis_proxy", "db/d4a/a27964.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "db/d4a/a27964.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "db/d4a/a27964.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

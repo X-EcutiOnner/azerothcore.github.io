@@ -1,6 +1,6 @@
 var a20972 =
 [
-    [ "BoomEvent", "d6/da0/a20972.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "d6/da0/a20972.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "d6/da0/a20972.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "PrepareSpellScript", "d6/da0/a20972.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d6/da0/a20972.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d6/da0/a20972.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

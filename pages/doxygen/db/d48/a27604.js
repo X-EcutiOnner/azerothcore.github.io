@@ -1,6 +1,5 @@
 var a27604 =
 [
-    [ "go_fel_crystalforge", "db/d48/a27604.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "db/d48/a27604.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "db/d48/a27604.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_soulwellAI", "db/d48/a27604.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "db/d48/a27604.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

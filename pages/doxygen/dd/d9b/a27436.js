@@ -1,6 +1,8 @@
 var a27436 =
 [
-    [ "boss_emerissAI", "d0/de2/a27440.html", "d0/de2/a27440" ],
-    [ "boss_emeriss", "dd/d9b/a27436.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "dd/d9b/a27436.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "FilterTargets", "dd/d9b/a27436.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "dd/d9b/a27436.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "dd/d9b/a27436.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "dd/d9b/a27436.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "dd/d9b/a27436.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

@@ -1,9 +1,7 @@
 var a25436 =
 [
-    [ "spell_gen_lifebloom", "d4/d24/a25436.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "d4/d24/a25436.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "d4/d24/a25436.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "d4/d24/a25436.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "d4/d24/a25436.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "d4/d24/a25436.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "CalculateAmount", "d4/d24/a25436.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "d4/d24/a25436.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "d4/d24/a25436.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "d4/d24/a25436.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

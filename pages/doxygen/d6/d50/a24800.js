@@ -1,7 +1,8 @@
 var a24800 =
 [
-    [ "CorpseExplosionCheck", "d6/d50/a24800.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d6/d50/a24800.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d6/d50/a24800.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d6/d50/a24800.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "HandleDamage", "d6/d50/a24800.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d6/d50/a24800.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d6/d50/a24800.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d6/d50/a24800.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d6/d50/a24800.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

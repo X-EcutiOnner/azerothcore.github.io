@@ -1,8 +1,8 @@
 var a04262 =
 [
-    [ "Vec3D", "d2/d93/a29132.html", "d2/d93/a29132" ],
-    [ "AaBox3D", "d3/d01/a29136.html", "d3/d01/a29136" ],
-    [ "Vec2D", "d7/dd0/a29140.html", "d7/dd0/a29140" ],
-    [ "Quaternion", "dc/d4a/a29144.html", "dc/d4a/a29144" ],
+    [ "Vec3D", "df/de3/a29104.html", "df/de3/a29104" ],
+    [ "AaBox3D", "d1/d6c/a29108.html", "d1/d6c/a29108" ],
+    [ "Vec2D", "da/d83/a29112.html", "da/d83/a29112" ],
+    [ "Quaternion", "d7/d81/a29116.html", "d7/d81/a29116" ],
     [ "rotate", "d1/d7a/a04262.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

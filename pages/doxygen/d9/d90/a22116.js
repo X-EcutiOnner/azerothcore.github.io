@@ -1,8 +1,10 @@
 var a22116 =
 [
-    [ "AfterApply", "d9/d90/a22116.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d9/d90/a22116.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d9/d90/a22116.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d9/d90/a22116.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d9/d90/a22116.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_emilyAI", "d9/d90/a22116.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d9/d90/a22116.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d9/d90/a22116.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d9/d90/a22116.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d9/d90/a22116.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d9/d90/a22116.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d9/d90/a22116.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

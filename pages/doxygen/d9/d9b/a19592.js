@@ -1,15 +1,7 @@
 var a19592 =
 [
-    [ "boss_anomalus", "d9/d9b/a19592.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/d9b/a19592.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d9/d9b/a19592.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d9/d9b/a19592.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d9/d9b/a19592.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d9/d9b/a19592.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d9/d9b/a19592.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d9/d9b/a19592.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d9/d9b/a19592.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d9/d9b/a19592.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d9/d9b/a19592.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d9/d9b/a19592.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "HandlePull", "d9/d9b/a19592.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d9/d9b/a19592.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d9/d9b/a19592.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d9/d9b/a19592.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

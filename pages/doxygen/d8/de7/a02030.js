@@ -1,10 +1,10 @@
 var a02030 =
 [
-    [ "PeonRoleplay", "de/d09/a23860.html", "de/d09/a23860" ],
-    [ "boss_grand_warlock_nethekurse", "d9/df3/a23864.html", "d9/df3/a23864" ],
-    [ "spell_tsh_shadow_bolt", "d3/df5/a23868.html", "d3/df5/a23868" ],
-    [ "spell_target_fissures", "d9/d18/a23872.html", "d9/d18/a23872" ],
-    [ "at_rp_nethekurse", "d7/d7d/a23876.html", "d7/d7d/a23876" ],
+    [ "PeonRoleplay", "d7/db3/a23836.html", "d7/db3/a23836" ],
+    [ "boss_grand_warlock_nethekurse", "d6/da0/a23840.html", "d6/da0/a23840" ],
+    [ "spell_tsh_shadow_bolt", "da/d34/a23844.html", "da/d34/a23844" ],
+    [ "spell_target_fissures", "d3/d00/a23848.html", "d3/d00/a23848" ],
+    [ "at_rp_nethekurse", "dc/dae/a23852.html", "dc/dae/a23852" ],
     [ "Actions", "d8/de7/a02030.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "dd/db5/a00365.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "dd/db5/a00365.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -395,8 +395,8 @@ var a02030 =
       [ "DATA_GAL_DARAH", "dd/d08/a02957.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d", null ],
       [ "DATA_ECK_THE_FEROCIOUS", "dd/d08/a02957.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288", null ],
       [ "MAX_ENCOUNTERS", "dd/d08/a02957.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_MALYGOS", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a2ac20edc8400118e986cb3e8c0833118", null ],
       [ "DATA_IRIS_ACTIVATED", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
-      [ "DATA_ENCOUNTER_STATUS", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a06e771c0d2e0da47d4fd955db056b0c4", null ],
       [ "DATA_SET_IRIS_INACTIVE", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a1dcf1f64522995a4635c77b607d1824c", null ],
       [ "DATA_HIDE_IRIS_AND_PORTAL", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ],
       [ "DATA_MALYGOS_GUID", "dd/d71/a03182.html#af5baa506e65b4caa6be6d1c6661dfe63a32904c6059a5b12e98c818f97ec1b14c", null ],

@@ -1,7 +1,8 @@
 var a22580 =
 [
-    [ "HandleDummy", "d2/d1a/a22580.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d2/d1a/a22580.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d2/d1a/a22580.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d2/d1a/a22580.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_wg_queueAI", "d0/db8/a22584.html", "d0/db8/a22584" ],
+    [ "npc_wg_queue", "d2/d1a/a22580.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "d2/d1a/a22580.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "d2/d1a/a22580.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "d2/d1a/a22580.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

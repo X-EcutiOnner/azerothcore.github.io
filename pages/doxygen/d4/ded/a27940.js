@@ -1,6 +1,8 @@
 var a27940 =
 [
-    [ "npc_stable_masterAI", "d9/de0/a27944.html", "d9/de0/a27944" ],
-    [ "npc_stable_master", "d4/ded/a27940.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d4/ded/a27940.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_traveler_mammoth_vendor", "d4/ded/a27940.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "d4/ded/a27940.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "d4/ded/a27940.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "d4/ded/a27940.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "d4/ded/a27940.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

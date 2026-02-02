@@ -1,5 +1,6 @@
 var a19608 =
 [
-    [ "achievement_intense_cold", "d2/d98/a19608.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d2/d98/a19608.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "instance_nexus_InstanceMapScript", "dd/d3f/a19612.html", "dd/d3f/a19612" ],
+    [ "instance_nexus", "d2/d98/a19608.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d2/d98/a19608.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

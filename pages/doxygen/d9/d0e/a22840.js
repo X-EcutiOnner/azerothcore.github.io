@@ -1,8 +1,8 @@
 var a22840 =
 [
-    [ "CalcPeriodic", "d9/d0e/a22840.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d9/d0e/a22840.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d9/d0e/a22840.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d9/d0e/a22840.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d9/d0e/a22840.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "boss_tavarok", "d9/d0e/a22840.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d9/d0e/a22840.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d9/d0e/a22840.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d9/d0e/a22840.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d9/d0e/a22840.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

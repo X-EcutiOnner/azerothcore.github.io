@@ -1,9 +1,9 @@
 var a02816 =
 [
-    [ "boss_ichoron", "d7/d41/a21564.html", "d7/d41/a21564" ],
-    [ "boss_ichoron::boss_ichoronAI", "d9/dae/a21568.html", "d9/dae/a21568" ],
-    [ "npc_ichor_globule", "d7/d2f/a21572.html", "d7/d2f/a21572" ],
-    [ "npc_ichor_globule::npc_ichor_globuleAI", "df/d7b/a21576.html", "df/d7b/a21576" ],
+    [ "boss_ichoron", "dd/dd0/a21540.html", "dd/dd0/a21540" ],
+    [ "boss_ichoron::boss_ichoronAI", "de/dd8/a21544.html", "de/dd8/a21544" ],
+    [ "npc_ichor_globule", "d2/d92/a21548.html", "d2/d92/a21548" ],
+    [ "npc_ichor_globule::npc_ichor_globuleAI", "d5/d84/a21552.html", "d5/d84/a21552" ],
     [ "ACTION_WATER_ELEMENT_HIT", "d4/d97/a02816.html#a604a96878790aff47651e4539253d716", null ],
     [ "ACTION_WATER_ELEMENT_KILLED", "d4/d97/a02816.html#a0819f535f9b98d41695eeb883e6d94a4", null ],
     [ "MAX_SPAWN_LOC", "d4/d97/a02816.html#a986d752f01bfa1c34b10e82145538920", null ],
@@ -73,6 +73,8 @@ var a02816 =
       [ "SPELL_ARCANE_SHOCK", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a70217cff0adeb1a0499b1651a82f03ef", null ],
       [ "SPELL_HASTE", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
       [ "SPELL_ALEXSTRASZA_GIFT", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ],
+      [ "SPELL_SUMMON_RED_DRAGON_BUDDY", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a830614a9bf710d7048b72ee0a5278eff", null ],
+      [ "SPELL_RIDE_RED_DRAGON", "dd/d71/a03182.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ],
       [ "SPELL_SUMMON_VALKYR", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a3a34cb9d4f5c054f2dc0bbb68c584e02", null ],
       [ "SPELL_RESURRECTION_BEAM", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5b685630d8a3d29bdf642c7c3fb066cb", null ],
       [ "SPELL_RESURRECTION_BALL", "d3/d57/a02834.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a581272352a56e266974b3d5242b18b1c", null ],

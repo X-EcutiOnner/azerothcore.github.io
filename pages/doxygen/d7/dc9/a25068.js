@@ -1,6 +1,5 @@
 var a25068 =
 [
-    [ "PrepareSpellScript", "d7/dc9/a25068.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "d7/dc9/a25068.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "d7/dc9/a25068.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "PrepareSpellScript", "d7/dc9/a25068.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "d7/dc9/a25068.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

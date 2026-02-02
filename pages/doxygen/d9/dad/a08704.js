@@ -766,6 +766,7 @@ var a08704 =
     [ "RewardReputation", "d9/dad/a08704.html#a3adf2d157acd095270257b49c3b24ed7", null ],
     [ "RewardReputation", "d9/dad/a08704.html#a8f45fa8d4717866ccd8983dc4880ea56", null ],
     [ "Satisfy", "d9/dad/a08704.html#abf8567288a1d5323206e6498bc9139d3", null ],
+    [ "SatisfyQuestBreadcrumb", "d9/dad/a08704.html#a672d128bf323a3b44ab367e823d82f26", null ],
     [ "SatisfyQuestClass", "d9/dad/a08704.html#a8d5b1b54960d39e389dcfa8c71dc54f4", null ],
     [ "SatisfyQuestConditions", "d9/dad/a08704.html#a5713cd88450fc91ded78904209521176", null ],
     [ "SatisfyQuestDay", "d9/dad/a08704.html#a518389d20cdf628f73a4ca8db9b5d2fd", null ],

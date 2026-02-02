@@ -1,6 +1,7 @@
 var a24896 =
 [
-    [ "CheckProc", "df/d7b/a24896.html#a4838d728bddfb320ad4b30166fefb6f9", null ],
-    [ "PrepareAuraScript", "df/d7b/a24896.html#a2e572b677ad3b754316066f3e53edbbb", null ],
-    [ "Register", "df/d7b/a24896.html#acecdc9e5079c49b312521a65682b602a", null ]
+    [ "AfterApply", "df/d7b/a24896.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "df/d7b/a24896.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "df/d7b/a24896.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "df/d7b/a24896.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

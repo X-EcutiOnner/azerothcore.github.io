@@ -1,6 +1,6 @@
 var a26816 =
 [
-    [ "HandleScript", "d4/d88/a26816.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d4/d88/a26816.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d4/d88/a26816.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleSendEvent", "d4/d88/a26816.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "d4/d88/a26816.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "d4/d88/a26816.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

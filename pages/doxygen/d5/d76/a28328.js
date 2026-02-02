@@ -1,4 +1,6 @@
 var a28328 =
 [
-    [ "ID", "d5/d76/a28328.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "AreaGroupId", "d5/d76/a28328.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d5/d76/a28328.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d5/d76/a28328.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

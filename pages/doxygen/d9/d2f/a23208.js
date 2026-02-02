@@ -1,6 +1,7 @@
 var a23208 =
 [
-    [ "PrepareSpellScript", "d9/d2f/a23208.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d9/d2f/a23208.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d9/d2f/a23208.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "Absorb", "d9/d2f/a23208.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "d9/d2f/a23208.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "d9/d2f/a23208.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "d9/d2f/a23208.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

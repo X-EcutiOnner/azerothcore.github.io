@@ -1,7 +1,5 @@
 var a24568 =
 [
-    [ "npc_isla_starmaneAI", "d2/d54/a24572.html", "d2/d54/a24572" ],
-    [ "npc_isla_starmane", "db/d76/a24568.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "db/d76/a24568.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "db/d76/a24568.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_pet_dk_risen_ally", "db/d76/a24568.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "db/d76/a24568.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

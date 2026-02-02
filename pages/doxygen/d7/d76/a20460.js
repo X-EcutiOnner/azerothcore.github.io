@@ -1,6 +1,5 @@
 var a20460 =
 [
-    [ "npc_ulduar_hodir_mageAI", "d0/d55/a20464.html", "d0/d55/a20464" ],
-    [ "npc_ulduar_hodir_mage", "d7/d76/a20460.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "d7/d76/a20460.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "FlashFreezeCheck", "d7/d76/a20460.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d7/d76/a20460.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

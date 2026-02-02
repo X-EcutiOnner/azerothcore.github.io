@@ -1,6 +1,6 @@
 var a24364 =
 [
-    [ "CheckCast", "db/dfb/a24364.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "db/dfb/a24364.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "db/dfb/a24364.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_infernal_attackerAI", "d6/dfe/a24368.html", "d6/dfe/a24368" ],
+    [ "npc_infernal_attacker", "db/dfb/a24364.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "db/dfb/a24364.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

@@ -1,11 +1,15 @@
 var a21620 =
 [
-    [ "npc_vh_void_sentryAI", "d4/df3/a21620.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "d4/df3/a21620.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "d4/df3/a21620.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "d4/df3/a21620.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "d4/df3/a21620.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "d4/df3/a21620.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "d4/df3/a21620.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "d4/df3/a21620.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "npc_vh_teleportation_portalAI", "d4/df3/a21620.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
+    [ "JustDied", "d4/df3/a21620.html#aab2cc259d78492c54e21b4279697f909", null ],
+    [ "JustSummoned", "d4/df3/a21620.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
+    [ "SummonedMobDied", "d4/df3/a21620.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
+    [ "UpdateAI", "d4/df3/a21620.html#a812e330e20924cc34262363ecc0a3fc1", null ],
+    [ "addValue", "d4/df3/a21620.html#aa52f29a41d12320516737b437af62fc3", null ],
+    [ "bKorG", "d4/df3/a21620.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
+    [ "events", "d4/df3/a21620.html#a329635246e80e7264cad6749ee70be40", null ],
+    [ "listOfMobs", "d4/df3/a21620.html#a470a61cf7d424711b07770fd56c74b29", null ],
+    [ "pInstance", "d4/df3/a21620.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
+    [ "spawned", "d4/df3/a21620.html#a8921c314c2f4b958e11136504971f427", null ],
+    [ "wave", "d4/df3/a21620.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
 ];

@@ -614,9 +614,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  538</span>: <a class="code hl_struct" href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a>) { }</div>
-<div class="ttc" id="aa03638_html_a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc"><div class="ttname"><a href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a></div><div class="ttdeci">@ AI_TYPE_MELEE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:206</div></div>
-<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a></div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:211</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  540</span>: <a class="code hl_struct" href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a>(creature, <a class="code hl_enumvalue" href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a>) { }</div>
+<div class="ttc" id="aa03638_html_a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc"><div class="ttname"><a href="../../df/df2/a03638.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a></div><div class="ttdeci">@ AI_TYPE_MELEE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:208</div></div>
+<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">boss_priestess_lackey_commonAI</a></div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:213</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -648,47 +648,47 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  541</span>    {</div>
-<div class="line"><span class="lineno">  542</span>        <a class="code hl_function" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a>(who);</div>
-<div class="line"><span class="lineno">  543</span>        <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc">SPELL_BATTLE_SHOUT</a>);</div>
-<div class="line"><span class="lineno">  544</span> </div>
-<div class="line"><span class="lineno">  545</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(6s, [&amp;] {</div>
-<div class="line"><span class="lineno">  546</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe">SPELL_INTERCEPT</a>);</div>
-<div class="line"><span class="lineno">  547</span>        }, 10s);</div>
-<div class="line"><span class="lineno">  548</span> </div>
-<div class="line"><span class="lineno">  549</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(10s, [&amp;] {</div>
-<div class="line"><span class="lineno">  550</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92afa4e2a4c2a24bc29010bc0903e35ee22">SPELL_DISARM</a>);</div>
-<div class="line"><span class="lineno">  551</span>        }, 16s);</div>
-<div class="line"><span class="lineno">  552</span> </div>
-<div class="line"><span class="lineno">  553</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(18s, [&amp;] {</div>
-<div class="line"><span class="lineno">  554</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553">SPELL_HAMSTRING</a>);</div>
-<div class="line"><span class="lineno">  555</span>        }, 15s);</div>
-<div class="line"><span class="lineno">  556</span> </div>
-<div class="line"><span class="lineno">  557</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(4s, [&amp;] {</div>
-<div class="line"><span class="lineno">  558</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a>);</div>
-<div class="line"><span class="lineno">  559</span>        }, 10s);</div>
-<div class="line"><span class="lineno">  560</span> </div>
-<div class="line"><span class="lineno">  561</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(8s, [&amp;] {</div>
-<div class="line"><span class="lineno">  562</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92ab1652f7d20e6d16563cefff05fa08615">SPELL_PIERCING_HOWL</a>);</div>
-<div class="line"><span class="lineno">  563</span>        }, 15s);</div>
-<div class="line"><span class="lineno">  564</span> </div>
-<div class="line"><span class="lineno">  565</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(1s, [&amp;] {</div>
-<div class="line"><span class="lineno">  566</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a99346d181da7e06bc6c08427a2b39880">SPELL_FRIGHTENING_SHOUT</a>);</div>
-<div class="line"><span class="lineno">  567</span>        }, 18s);</div>
-<div class="line"><span class="lineno">  568</span>    }</div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553">SPELL_HAMSTRING</a></div><div class="ttdeci">@ SPELL_HAMSTRING</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:531</div></div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc">SPELL_BATTLE_SHOUT</a></div><div class="ttdeci">@ SPELL_BATTLE_SHOUT</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:532</div></div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a></div><div class="ttdeci">@ SPELL_MORTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:533</div></div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe">SPELL_INTERCEPT</a></div><div class="ttdeci">@ SPELL_INTERCEPT</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:527</div></div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a99346d181da7e06bc6c08427a2b39880"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a99346d181da7e06bc6c08427a2b39880">SPELL_FRIGHTENING_SHOUT</a></div><div class="ttdeci">@ SPELL_FRIGHTENING_SHOUT</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:530</div></div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92ab1652f7d20e6d16563cefff05fa08615"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92ab1652f7d20e6d16563cefff05fa08615">SPELL_PIERCING_HOWL</a></div><div class="ttdeci">@ SPELL_PIERCING_HOWL</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:529</div></div>
-<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92afa4e2a4c2a24bc29010bc0903e35ee22"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92afa4e2a4c2a24bc29010bc0903e35ee22">SPELL_DISARM</a></div><div class="ttdeci">@ SPELL_DISARM</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:528</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  543</span>    {</div>
+<div class="line"><span class="lineno">  544</span>        <a class="code hl_function" href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a>(who);</div>
+<div class="line"><span class="lineno">  545</span>        <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc">SPELL_BATTLE_SHOUT</a>);</div>
+<div class="line"><span class="lineno">  546</span> </div>
+<div class="line"><span class="lineno">  547</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(6s, [&amp;] {</div>
+<div class="line"><span class="lineno">  548</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe">SPELL_INTERCEPT</a>);</div>
+<div class="line"><span class="lineno">  549</span>        }, 10s);</div>
+<div class="line"><span class="lineno">  550</span> </div>
+<div class="line"><span class="lineno">  551</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(10s, [&amp;] {</div>
+<div class="line"><span class="lineno">  552</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92afa4e2a4c2a24bc29010bc0903e35ee22">SPELL_DISARM</a>);</div>
+<div class="line"><span class="lineno">  553</span>        }, 16s);</div>
+<div class="line"><span class="lineno">  554</span> </div>
+<div class="line"><span class="lineno">  555</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(18s, [&amp;] {</div>
+<div class="line"><span class="lineno">  556</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553">SPELL_HAMSTRING</a>);</div>
+<div class="line"><span class="lineno">  557</span>        }, 15s);</div>
+<div class="line"><span class="lineno">  558</span> </div>
+<div class="line"><span class="lineno">  559</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(4s, [&amp;] {</div>
+<div class="line"><span class="lineno">  560</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a>);</div>
+<div class="line"><span class="lineno">  561</span>        }, 10s);</div>
+<div class="line"><span class="lineno">  562</span> </div>
+<div class="line"><span class="lineno">  563</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(8s, [&amp;] {</div>
+<div class="line"><span class="lineno">  564</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92ab1652f7d20e6d16563cefff05fa08615">SPELL_PIERCING_HOWL</a>);</div>
+<div class="line"><span class="lineno">  565</span>        }, 15s);</div>
+<div class="line"><span class="lineno">  566</span> </div>
+<div class="line"><span class="lineno">  567</span>        <a class="code hl_function" href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(1s, [&amp;] {</div>
+<div class="line"><span class="lineno">  568</span>            <a class="code hl_function" href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a99346d181da7e06bc6c08427a2b39880">SPELL_FRIGHTENING_SHOUT</a>);</div>
+<div class="line"><span class="lineno">  569</span>        }, 18s);</div>
+<div class="line"><span class="lineno">  570</span>    }</div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553">SPELL_HAMSTRING</a></div><div class="ttdeci">@ SPELL_HAMSTRING</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:533</div></div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc">SPELL_BATTLE_SHOUT</a></div><div class="ttdeci">@ SPELL_BATTLE_SHOUT</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:534</div></div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a></div><div class="ttdeci">@ SPELL_MORTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:535</div></div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe">SPELL_INTERCEPT</a></div><div class="ttdeci">@ SPELL_INTERCEPT</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:529</div></div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92a99346d181da7e06bc6c08427a2b39880"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a99346d181da7e06bc6c08427a2b39880">SPELL_FRIGHTENING_SHOUT</a></div><div class="ttdeci">@ SPELL_FRIGHTENING_SHOUT</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:532</div></div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92ab1652f7d20e6d16563cefff05fa08615"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92ab1652f7d20e6d16563cefff05fa08615">SPELL_PIERCING_HOWL</a></div><div class="ttdeci">@ SPELL_PIERCING_HOWL</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:531</div></div>
+<div class="ttc" id="aa03638_html_aaf1f6da599c3d7b6c1ce3d779e46cc92afa4e2a4c2a24bc29010bc0903e35ee22"><div class="ttname"><a href="../../df/df2/a03638.html#aaf1f6da599c3d7b6c1ce3d779e46cc92afa4e2a4c2a24bc29010bc0903e35ee22">SPELL_DISARM</a></div><div class="ttdeci">@ SPELL_DISARM</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:530</div></div>
 <div class="ttc" id="aa06240_html_a1e37cbb75f91c247b04131afc7ce35f5"><div class="ttname"><a href="../../d1/d65/a06240.html#a1e37cbb75f91c247b04131afc7ce35f5">UnitAI::DoCastAOE</a></div><div class="ttdeci">SpellCastResult DoCastAOE(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:284</div></div>
 <div class="ttc" id="aa06240_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d1/d65/a06240.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:276</div></div>
 <div class="ttc" id="aa06296_html_a967ab195c2a069153701e99655512282"><div class="ttname"><a href="../../df/d40/a06296.html#a967ab195c2a069153701e99655512282">ScriptedAI::ScheduleTimedEvent</a></div><div class="ttdeci">void ScheduleTimedEvent(Milliseconds timerMin, Milliseconds timerMax, std::function&lt; void()&gt; exec, Milliseconds repeatMin, Milliseconds repeatMax=0ms, uint32 uniqueId=0)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:339</div></div>
-<div class="ttc" id="aa13128_html_a4d47aacc653ab0e4b74fa3bcbcfdbbc7"><div class="ttname"><a href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *who) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:273</div></div>
+<div class="ttc" id="aa13128_html_a4d47aacc653ab0e4b74fa3bcbcfdbbc7"><div class="ttname"><a href="../../d9/d59/a13128.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7">boss_priestess_lackey_commonAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *who) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:275</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00273">boss_priestess_lackey_commonAI::JustEngagedWith()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00532">SPELL_BATTLE_SHOUT</a>, <a class="el" href="../../#l00528">SPELL_DISARM</a>, <a class="el" href="../../#l00530">SPELL_FRIGHTENING_SHOUT</a>, <a class="el" href="../../#l00531">SPELL_HAMSTRING</a>, <a class="el" href="../../#l00527">SPELL_INTERCEPT</a>, <a class="el" href="../../#l00533">SPELL_MORTAL_STRIKE</a>, and <a class="el" href="../../#l00529">SPELL_PIERCING_HOWL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00275">boss_priestess_lackey_commonAI::JustEngagedWith()</a>, <a class="el" href="../../#l00339">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00534">SPELL_BATTLE_SHOUT</a>, <a class="el" href="../../#l00530">SPELL_DISARM</a>, <a class="el" href="../../#l00532">SPELL_FRIGHTENING_SHOUT</a>, <a class="el" href="../../#l00533">SPELL_HAMSTRING</a>, <a class="el" href="../../#l00529">SPELL_INTERCEPT</a>, <a class="el" href="../../#l00535">SPELL_MORTAL_STRIKE</a>, and <a class="el" href="../../#l00531">SPELL_PIERCING_HOWL</a>.</p>
 
 </div>
 </div>
@@ -698,7 +698,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d2a/a13148.html">boss_warlord_salaris</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 2 2026 23:14:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

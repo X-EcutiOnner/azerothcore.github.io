@@ -1,5 +1,8 @@
 var a27688 =
 [
-    [ "item_incendiary_explosives", "d6/d3a/a27688.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d6/d3a/a27688.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "trigger_periodicAI", "d6/d3a/a27688.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d6/d3a/a27688.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d6/d3a/a27688.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d6/d3a/a27688.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d6/d3a/a27688.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

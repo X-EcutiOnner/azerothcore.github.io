@@ -1,7 +1,5 @@
 var a23836 =
 [
-    [ "HandleDummyApply", "d7/db3/a23836.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d7/db3/a23836.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d7/db3/a23836.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d7/db3/a23836.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "spellId", "d7/db3/a23836.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d7/db3/a23836.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

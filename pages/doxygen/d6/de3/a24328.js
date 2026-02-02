@@ -1,8 +1,7 @@
 var a24328 =
 [
-    [ "npc_captain_saeedAI", "de/d58/a24332.html", "de/d58/a24332" ],
-    [ "npc_captain_saeed", "d6/de3/a24328.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d6/de3/a24328.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d6/de3/a24328.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d6/de3/a24328.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_maxx_a_million_escortAI", "de/d58/a24332.html", "de/d58/a24332" ],
+    [ "npc_maxx_a_million_escort", "d6/de3/a24328.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d6/de3/a24328.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d6/de3/a24328.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

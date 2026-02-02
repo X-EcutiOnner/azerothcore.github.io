@@ -1,7 +1,5 @@
 var a21880 =
 [
-    [ "HandleEffectHit", "de/d37/a21880.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "de/d37/a21880.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "de/d37/a21880.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "de/d37/a21880.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_mei_francis_mountAI", "de/d37/a21880.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "de/d37/a21880.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

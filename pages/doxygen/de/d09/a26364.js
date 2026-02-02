@@ -1,6 +1,9 @@
 var a26364 =
 [
-    [ "CheckProc", "de/d09/a26364.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "de/d09/a26364.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "de/d09/a26364.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "Load", "de/d09/a26364.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "de/d09/a26364.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "de/d09/a26364.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "de/d09/a26364.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "de/d09/a26364.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "de/d09/a26364.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

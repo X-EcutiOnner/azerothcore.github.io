@@ -1,6 +1,7 @@
 var a22244 =
 [
-    [ "npc_razael_and_lyana", "d2/d6f/a22244.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "d2/d6f/a22244.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "d2/d6f/a22244.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "HandleScript", "d2/d6f/a22244.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "d2/d6f/a22244.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "d2/d6f/a22244.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "d2/d6f/a22244.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

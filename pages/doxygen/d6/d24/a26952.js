@@ -1,9 +1,8 @@
 var a26952 =
 [
-    [ "HandleHeal", "d6/d24/a26952.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d6/d24/a26952.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d6/d24/a26952.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d6/d24/a26952.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d6/d24/a26952.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d6/d24/a26952.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckFireTotem", "d6/d24/a26952.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d6/d24/a26952.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d6/d24/a26952.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d6/d24/a26952.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d6/d24/a26952.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

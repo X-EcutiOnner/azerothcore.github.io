@@ -1,7 +1,7 @@
 var a25424 =
 [
-    [ "HandleStun", "d9/d4c/a25424.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d9/d4c/a25424.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d9/d4c/a25424.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d9/d4c/a25424.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleScript", "d9/d4c/a25424.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "d9/d4c/a25424.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "d9/d4c/a25424.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "d9/d4c/a25424.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

@@ -1,6 +1,5 @@
 var a21724 =
 [
-    [ "HandleEffectPeriodic", "db/d99/a21724.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "db/d99/a21724.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "db/d99/a21724.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_khunok_the_behemothAI", "db/d99/a21724.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "db/d99/a21724.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

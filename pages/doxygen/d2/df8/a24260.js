@@ -1,6 +1,6 @@
 var a24260 =
 [
-    [ "npc_ancestral_wolfAI", "d2/d2e/a24264.html", "d2/d2e/a24264" ],
-    [ "npc_ancestral_wolf", "d2/df8/a24260.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d2/df8/a24260.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "go_beaconAI", "d2/d2e/a24264.html", "d2/d2e/a24264" ],
+    [ "go_beacon", "d2/df8/a24260.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d2/df8/a24260.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

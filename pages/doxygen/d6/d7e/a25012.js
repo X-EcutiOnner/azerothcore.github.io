@@ -1,8 +1,6 @@
 var a25012 =
 [
-    [ "AfterApply", "d6/d7e/a25012.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "d6/d7e/a25012.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "d6/d7e/a25012.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "d6/d7e/a25012.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "d6/d7e/a25012.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CheckProc", "d6/d7e/a25012.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "d6/d7e/a25012.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "d6/d7e/a25012.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];
