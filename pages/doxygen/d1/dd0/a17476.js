@@ -1,15 +1,12 @@
 var a17476 =
 [
-    [ "boss_gal_darah", "d1/dd0/a17476.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "d1/dd0/a17476.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "d1/dd0/a17476.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "d1/dd0/a17476.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "d1/dd0/a17476.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "d1/dd0/a17476.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "d1/dd0/a17476.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "d1/dd0/a17476.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "d1/dd0/a17476.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "d1/dd0/a17476.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "d1/dd0/a17476.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "d1/dd0/a17476.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "boss_moorabiAI", "d1/dd0/a17476.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d1/dd0/a17476.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d1/dd0/a17476.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d1/dd0/a17476.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d1/dd0/a17476.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d1/dd0/a17476.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d1/dd0/a17476.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d1/dd0/a17476.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d1/dd0/a17476.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

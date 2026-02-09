@@ -1,9 +1,6 @@
 var a17344 =
 [
-    [ "npc_pos_after_first_bossAI", "d1/dc5/a17344.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d1/dc5/a17344.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d1/dc5/a17344.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d1/dc5/a17344.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d1/dc5/a17344.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d1/dc5/a17344.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_pos_collapsing_icicleAI", "d8/d36/a17348.html", "d8/d36/a17348" ],
+    [ "npc_pos_collapsing_icicle", "d1/dc5/a17344.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d1/dc5/a17344.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

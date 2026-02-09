@@ -1,6 +1,6 @@
 var a16464 =
 [
-    [ "npc_living_infernoAI", "d1/dad/a16468.html", "d1/dad/a16468" ],
-    [ "npc_living_inferno", "d9/dcf/a16464.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d9/dcf/a16464.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "HandleScript", "d9/dcf/a16464.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "d9/dcf/a16464.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "d9/dcf/a16464.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

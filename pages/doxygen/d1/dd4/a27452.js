@@ -1,6 +1,5 @@
 var a27452 =
 [
-    [ "go_witherbark_totem_bundleAI", "d1/dd4/a27452.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d1/dd4/a27452.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d1/dd4/a27452.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "go_ethereum_prison", "d1/dd4/a27452.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d1/dd4/a27452.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

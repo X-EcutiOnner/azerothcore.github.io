@@ -1,6 +1,7 @@
 var a16684 =
 [
-    [ "npc_toc_shamanAI", "df/dd9/a16688.html", "df/dd9/a16688" ],
-    [ "npc_toc_shaman", "d6/ddf/a16684.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "d6/ddf/a16684.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "npc_toc_priestAI", "d6/ddf/a16684.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d6/ddf/a16684.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d6/ddf/a16684.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d6/ddf/a16684.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

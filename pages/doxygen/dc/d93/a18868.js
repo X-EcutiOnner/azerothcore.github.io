@@ -1,6 +1,7 @@
 var a18868 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
-    [ "npc_highlord_tirion_fordring_lh", "dc/d93/a18868.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "dc/d93/a18868.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "npc_frost_freeze_trapAI", "dc/d93/a18868.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "dc/d93/a18868.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "dc/d93/a18868.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "dc/d93/a18868.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

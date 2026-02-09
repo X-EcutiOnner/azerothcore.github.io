@@ -1,6 +1,8 @@
 var a17208 =
 [
-    [ "npc_hor_lich_kingAI", "df/d58/a17212.html", "df/d58/a17212" ],
-    [ "npc_hor_lich_king", "d3/daf/a17208.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "d3/daf/a17208.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "npc_hor_raging_ghoulAI", "d3/daf/a17208.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d3/daf/a17208.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d3/daf/a17208.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d3/daf/a17208.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d3/daf/a17208.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

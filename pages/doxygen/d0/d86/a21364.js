@@ -1,5 +1,5 @@
 var a21364 =
 [
-    [ "go_palehoof_sphere", "d0/d86/a21364.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d0/d86/a21364.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "go_harpoon_canon", "d0/d86/a21364.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
+    [ "OnGossipHello", "d0/d86/a21364.html#ad0098bafd1233636bde181312126e65f", null ]
 ];

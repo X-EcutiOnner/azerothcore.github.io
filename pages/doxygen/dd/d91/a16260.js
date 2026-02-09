@@ -1,8 +1,10 @@
 var a16260 =
 [
-    [ "boss_sartharion_shadronAI", "dd/d91/a16260.html#a02e2e657ac74ab37a4568589511de664", null ],
-    [ "ExecuteEvent", "dd/d91/a16260.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
-    [ "HandleExtraEvent", "dd/d91/a16260.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
-    [ "Reset", "dd/d91/a16260.html#a7054cde1de2166c2b06489187115cb3f", null ],
-    [ "SummonedCreatureDies", "dd/d91/a16260.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
+    [ "HandleDummy", "dd/d91/a16260.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "dd/d91/a16260.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "dd/d91/a16260.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "dd/d91/a16260.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "dd/d91/a16260.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "dd/d91/a16260.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "dd/d91/a16260.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

@@ -1,6 +1,10 @@
 var a16808 =
 [
-    [ "boss_jaraxxusAI", "d1/d02/a16812.html", "d1/d02/a16812" ],
-    [ "boss_jaraxxus", "d0/dd9/a16808.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d0/dd9/a16808.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_mistress_of_painAI", "d0/dd9/a16808.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d0/dd9/a16808.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d0/dd9/a16808.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d0/dd9/a16808.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d0/dd9/a16808.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d0/dd9/a16808.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d0/dd9/a16808.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

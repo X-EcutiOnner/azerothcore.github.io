@@ -1,6 +1,7 @@
 var a12660 =
 [
-    [ "boss_garrAI", "dc/d5d/a12664.html", "dc/d5d/a12664" ],
-    [ "boss_garr", "d5/d81/a12660.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "d5/d81/a12660.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "HandleAfterApply", "d5/d81/a12660.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d5/d81/a12660.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d5/d81/a12660.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d5/d81/a12660.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

@@ -1,9 +1,8 @@
 var a18560 =
 [
-    [ "npc_icc_ice_sphereAI", "d5/d56/a18560.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d5/d56/a18560.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d5/d56/a18560.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d5/d56/a18560.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d5/d56/a18560.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d5/d56/a18560.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "ChangeDamageAndGrow", "d5/d56/a18560.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d5/d56/a18560.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d5/d56/a18560.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d5/d56/a18560.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d5/d56/a18560.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

@@ -1,10 +1,15 @@
 var a17096 =
 [
-    [ "HandleAfterEffectAbsorb", "df/dd5/a17096.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "df/dd5/a17096.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "df/dd5/a17096.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "df/dd5/a17096.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "df/dd5/a17096.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "df/dd5/a17096.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "df/dd5/a17096.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "boss_falricAI", "df/dd5/a17096.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "df/dd5/a17096.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "df/dd5/a17096.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "df/dd5/a17096.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "df/dd5/a17096.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "df/dd5/a17096.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "df/dd5/a17096.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "df/dd5/a17096.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "df/dd5/a17096.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "df/dd5/a17096.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "df/dd5/a17096.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "df/dd5/a17096.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

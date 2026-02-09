@@ -1,7 +1,5 @@
 var a11700 =
 [
-    [ "StringTransaction", "dc/d82/a11700.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "dc/d82/a11700.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "dc/d82/a11700.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "dc/d82/a11700.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "Name", "dc/d82/a11700.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "dc/d82/a11700.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

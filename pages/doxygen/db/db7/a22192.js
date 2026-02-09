@@ -1,7 +1,6 @@
 var a22192 =
 [
-    [ "HandleScript", "db/db7/a22192.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "db/db7/a22192.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "db/db7/a22192.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "db/db7/a22192.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_plaguehound_trackerAI", "dd/d50/a22196.html", "dd/d50/a22196" ],
+    [ "npc_plaguehound_tracker", "db/db7/a22192.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "db/db7/a22192.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

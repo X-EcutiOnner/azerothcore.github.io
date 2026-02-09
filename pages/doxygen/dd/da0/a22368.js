@@ -1,6 +1,5 @@
 var a22368 =
 [
-    [ "HandleHealPct", "dd/da0/a22368.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "dd/da0/a22368.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "dd/da0/a22368.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "go_brazier", "dd/da0/a22368.html#a432a07256fde679a889de7ba0f64f092", null ],
+    [ "OnGossipHello", "dd/da0/a22368.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
 ];

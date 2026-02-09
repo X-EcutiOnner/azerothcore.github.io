@@ -1,10 +1,11 @@
 var a27716 =
 [
-    [ "go_evil_book_for_dummies", "d3/da5/a27716.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d3/da5/a27716.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d3/da5/a27716.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d3/da5/a27716.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d3/da5/a27716.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d3/da5/a27716.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d3/da5/a27716.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "npc_artoriusAI", "d3/da5/a27716.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d3/da5/a27716.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d3/da5/a27716.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d3/da5/a27716.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d3/da5/a27716.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d3/da5/a27716.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d3/da5/a27716.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d3/da5/a27716.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

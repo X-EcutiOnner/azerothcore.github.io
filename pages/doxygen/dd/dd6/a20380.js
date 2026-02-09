@@ -1,6 +1,8 @@
 var a20380 =
 [
-    [ "boss_hodirAI", "db/dbc/a20384.html", "db/dbc/a20384" ],
-    [ "boss_hodir", "dd/dd6/a20380.html#a5740f489f57380d2633a8ee5a18de339", null ],
-    [ "GetAI", "dd/dd6/a20380.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
+    [ "npc_ulduar_flash_freezeAI", "dd/dd6/a20380.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "dd/dd6/a20380.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "dd/dd6/a20380.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "dd/dd6/a20380.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "dd/dd6/a20380.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

@@ -1,8 +1,9 @@
 var a25036 =
 [
-    [ "HandleSchoolDMG", "d2/d40/a25036.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d2/d40/a25036.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d2/d40/a25036.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d2/d40/a25036.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d2/d40/a25036.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "PrepareAuraScript", "d2/d40/a25036.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d2/d40/a25036.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d2/d40/a25036.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d2/d40/a25036.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d2/d40/a25036.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d2/d40/a25036.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

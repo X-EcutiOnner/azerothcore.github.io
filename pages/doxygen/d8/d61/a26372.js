@@ -1,6 +1,8 @@
 var a26372 =
 [
-    [ "HandleEffectCalcSpellMod", "d8/d61/a26372.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "d8/d61/a26372.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "d8/d61/a26372.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "Load", "d8/d61/a26372.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d8/d61/a26372.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d8/d61/a26372.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d8/d61/a26372.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d8/d61/a26372.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

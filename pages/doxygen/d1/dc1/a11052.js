@@ -1,6 +1,7 @@
 var a11052 =
 [
-    [ "InvalidStringValueException", "d1/dc1/a11052.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d1/dc1/a11052.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d1/dc1/a11052.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "TrainerBuySucceeded", "d1/dc1/a11052.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "d1/dc1/a11052.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "d1/dc1/a11052.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "d1/dc1/a11052.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

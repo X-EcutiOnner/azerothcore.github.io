@@ -1,9 +1,6 @@
 var a19744 =
 [
-    [ "npc_stormforged_lieutenant", "d2/d18/a19744.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d2/d18/a19744.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d2/d18/a19744.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d2/d18/a19744.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d2/d18/a19744.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d2/d18/a19744.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "CalculateDamage", "d2/d18/a19744.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d2/d18/a19744.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d2/d18/a19744.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

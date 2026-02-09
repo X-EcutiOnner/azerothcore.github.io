@@ -1,7 +1,12 @@
 var a23744 =
 [
-    [ "boss_the_maker", "d9/d8d/a23744.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d9/d8d/a23744.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d9/d8d/a23744.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d9/d8d/a23744.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "boss_nazan", "d9/d8d/a23744.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d9/d8d/a23744.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d9/d8d/a23744.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d9/d8d/a23744.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d9/d8d/a23744.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d9/d8d/a23744.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d9/d8d/a23744.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d9/d8d/a23744.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d9/d8d/a23744.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

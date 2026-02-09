@@ -1,6 +1,6 @@
 var a25020 =
 [
-    [ "HandleScript", "d2/dae/a25020.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d2/dae/a25020.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d2/dae/a25020.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "PrepareSpellScript", "d2/dae/a25020.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "d2/dae/a25020.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "d2/dae/a25020.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

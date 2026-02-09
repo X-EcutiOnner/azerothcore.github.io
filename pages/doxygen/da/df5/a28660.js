@@ -1,7 +1,10 @@
 var a28660 =
 [
-    [ "Flags", "da/df5/a28660.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "da/df5/a28660.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "da/df5/a28660.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "da/df5/a28660.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "attackSpeed", "da/df5/a28660.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "da/df5/a28660.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "da/df5/a28660.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "da/df5/a28660.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "da/df5/a28660.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "da/df5/a28660.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "da/df5/a28660.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

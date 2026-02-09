@@ -1,4 +1,6 @@
 var a29998 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d6/dfe/a29998.html#a411c46599e926f8cdf49c63957255359", null ]
+    [ "ComputeBaseUnitDim", "d6/dfe/a29998.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "isCurrentDirectory", "d6/dfe/a29998.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "d6/dfe/a29998.html#a45540263b1795bfc48c91a117c239a6c", null ]
 ];

@@ -1,6 +1,6 @@
 var a16788 =
 [
-    [ "npc_toc_pet_warlockAI", "dd/d04/a16792.html", "dd/d04/a16792" ],
-    [ "npc_toc_pet_warlock", "df/d10/a16788.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "df/d10/a16788.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "boss_jaraxxusAI", "dd/d04/a16792.html", "dd/d04/a16792" ],
+    [ "boss_jaraxxus", "df/d10/a16788.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "df/d10/a16788.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

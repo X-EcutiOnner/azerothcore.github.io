@@ -1,7 +1,6 @@
 var a24172 =
 [
-    [ "OnPeriodic", "d3/da6/a24172.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d3/da6/a24172.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d3/da6/a24172.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d3/da6/a24172.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_simon_bunnyAI", "d3/ddb/a24176.html", "d3/ddb/a24176" ],
+    [ "npc_simon_bunny", "d3/da6/a24172.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d3/da6/a24172.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

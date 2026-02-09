@@ -1,7 +1,6 @@
 var a22140 =
 [
-    [ "HandleScriptEffect", "df/df1/a22140.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "df/df1/a22140.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "df/df1/a22140.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "df/df1/a22140.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_lake_frogAI", "df/da9/a22144.html", "df/da9/a22144" ],
+    [ "npc_lake_frog", "df/df1/a22140.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "df/df1/a22140.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

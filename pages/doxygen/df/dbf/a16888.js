@@ -1,6 +1,6 @@
 var a16888 =
 [
-    [ "boss_eydisAI", "dc/d25/a16892.html", "dc/d25/a16892" ],
-    [ "boss_eydis", "df/dbf/a16888.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "df/dbf/a16888.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_concentrated_ballAI", "dc/d25/a16892.html", "dc/d25/a16892" ],
+    [ "npc_concentrated_ball", "df/dbf/a16888.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "df/dbf/a16888.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

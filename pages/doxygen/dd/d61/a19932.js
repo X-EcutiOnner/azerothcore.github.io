@@ -1,6 +1,7 @@
 var a19932 =
 [
-    [ "HandlePeriodic", "dd/d61/a19932.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "dd/d61/a19932.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "dd/d61/a19932.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "HandlePeriodic", "dd/d61/a19932.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "dd/d61/a19932.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "dd/d61/a19932.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "dd/d61/a19932.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

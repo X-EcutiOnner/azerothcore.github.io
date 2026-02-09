@@ -1,7 +1,11 @@
 var a18304 =
 [
-    [ "IceTombSummonEvent", "db/d16/a18304.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "db/d16/a18304.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "db/d16/a18304.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "db/d16/a18304.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "npc_ice_tombAI", "db/d16/a18304.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "db/d16/a18304.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "db/d16/a18304.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "db/d16/a18304.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "db/d16/a18304.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "db/d16/a18304.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "db/d16/a18304.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "db/d16/a18304.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

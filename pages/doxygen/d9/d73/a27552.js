@@ -1,5 +1,5 @@
 var a27552 =
 [
-    [ "go_tablet_of_the_seven", "d9/d73/a27552.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d9/d73/a27552.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_sacred_fire_of_life", "d9/d73/a27552.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d9/d73/a27552.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

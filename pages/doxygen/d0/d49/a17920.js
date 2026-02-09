@@ -1,6 +1,6 @@
 var a17920 =
 [
-    [ "PrepareSpellScript", "d0/d49/a17920.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d0/d49/a17920.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d0/d49/a17920.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "PrepareSpellScript", "d0/d49/a17920.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d0/d49/a17920.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d0/d49/a17920.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

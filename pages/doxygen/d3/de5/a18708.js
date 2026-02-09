@@ -1,5 +1,7 @@
 var a18708 =
 [
-    [ "achievement_been_waiting_long_time", "d3/de5/a18708.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d3/de5/a18708.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "AuraRemoveEvent", "d3/de5/a18708.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d3/de5/a18708.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d3/de5/a18708.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d3/de5/a18708.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

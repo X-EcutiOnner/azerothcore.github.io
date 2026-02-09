@@ -1,5 +1,6 @@
 var a25596 =
 [
-    [ "PrepareSpellScript", "dc/d54/a25596.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "dc/d54/a25596.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "FilterTargets", "dc/d54/a25596.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "dc/d54/a25596.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "dc/d54/a25596.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

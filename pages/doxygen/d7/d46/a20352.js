@@ -1,6 +1,5 @@
 var a20352 =
 [
-    [ "FilterTargets", "d7/d46/a20352.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d7/d46/a20352.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d7/d46/a20352.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "go_ulduar_pure_saronite_deposit", "d7/d46/a20352.html#a39da51a78b9f27392ed7494e18e89b93", null ],
+    [ "OnGossipHello", "d7/d46/a20352.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
 ];

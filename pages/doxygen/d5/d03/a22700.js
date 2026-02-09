@@ -1,13 +1,7 @@
 var a22700 =
 [
-    [ "OPvPCapturePointEP_NPT", "d5/d03/a22700.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d5/d03/a22700.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d5/d03/a22700.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "d5/d03/a22700.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d5/d03/a22700.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d5/d03/a22700.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d5/d03/a22700.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d5/d03/a22700.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d5/d03/a22700.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d5/d03/a22700.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "OutdoorPvPGH", "d5/d03/a22700.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d5/d03/a22700.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d5/d03/a22700.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d5/d03/a22700.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

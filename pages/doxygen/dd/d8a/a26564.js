@@ -1,9 +1,8 @@
 var a26564 =
 [
-    [ "HandleAfterCast", "dd/d8a/a26564.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "dd/d8a/a26564.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "dd/d8a/a26564.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "dd/d8a/a26564.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "dd/d8a/a26564.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "dd/d8a/a26564.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleEffectRemove", "dd/d8a/a26564.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "dd/d8a/a26564.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "dd/d8a/a26564.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "dd/d8a/a26564.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "dd/d8a/a26564.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

@@ -1,6 +1,6 @@
 var a27792 =
 [
-    [ "npc_target_dummyAI", "db/dd0/a27796.html", "db/dd0/a27796" ],
-    [ "npc_target_dummy", "da/dd2/a27792.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "da/dd2/a27792.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "spawnedCreatureEntry", "da/dd2/a27792.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "da/dd2/a27792.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "da/dd2/a27792.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

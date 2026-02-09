@@ -1,7 +1,5 @@
 var a22720 =
 [
-    [ "OutdoorPvPGH", "d3/d4a/a22720.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "d3/d4a/a22720.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "d3/d4a/a22720.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d3/d4a/a22720.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "OutdoorPvP_nagrand", "d3/d4a/a22720.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
+    [ "GetOutdoorPvP", "d3/d4a/a22720.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
 ];

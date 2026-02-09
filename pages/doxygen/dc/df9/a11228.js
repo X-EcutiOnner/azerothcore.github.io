@@ -1,12 +1,5 @@
 var a11228 =
 [
-    [ "PacketLog", "dc/df9/a11228.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "dc/df9/a11228.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "dc/df9/a11228.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "dc/df9/a11228.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "dc/df9/a11228.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "dc/df9/a11228.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "dc/df9/a11228.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "dc/df9/a11228.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "dc/df9/a11228.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "SocketIPBytes", "dc/df9/a11228.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "dc/df9/a11228.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

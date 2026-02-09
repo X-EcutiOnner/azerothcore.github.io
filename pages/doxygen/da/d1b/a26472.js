@@ -1,6 +1,9 @@
 var a26472 =
 [
-    [ "HandleAfterHit", "da/d1b/a26472.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "da/d1b/a26472.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "da/d1b/a26472.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "CheckCast", "da/d1b/a26472.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "da/d1b/a26472.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "da/d1b/a26472.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "da/d1b/a26472.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "da/d1b/a26472.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "da/d1b/a26472.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

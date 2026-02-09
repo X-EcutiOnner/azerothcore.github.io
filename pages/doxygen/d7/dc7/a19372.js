@@ -1,15 +1,8 @@
 var a19372 =
 [
-    [ "boss_loathebAI", "d7/dc7/a19372.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d7/dc7/a19372.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d7/dc7/a19372.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d7/dc7/a19372.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d7/dc7/a19372.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d7/dc7/a19372.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d7/dc7/a19372.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d7/dc7/a19372.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d7/dc7/a19372.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d7/dc7/a19372.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d7/dc7/a19372.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d7/dc7/a19372.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "boss_maexxna_webwrapAI", "d7/dc7/a19372.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d7/dc7/a19372.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d7/dc7/a19372.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d7/dc7/a19372.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d7/dc7/a19372.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

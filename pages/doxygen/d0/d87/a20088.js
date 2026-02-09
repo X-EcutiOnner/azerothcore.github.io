@@ -1,5 +1,6 @@
 var a20088 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d0/d87/a20088.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "d0/d87/a20088.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "npc_mimirons_infernoAI", "d8/d89/a20092.html", "d8/d89/a20092" ],
+    [ "npc_mimirons_inferno", "d0/d87/a20088.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "d0/d87/a20088.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

@@ -1,6 +1,6 @@
 var a26720 =
 [
-    [ "HandleDummy", "df/db3/a26720.html#a904038167c9ba270cb54cd6adbe22563", null ],
-    [ "PrepareSpellScript", "df/db3/a26720.html#a326656405c3400225a4ce10567c1c482", null ],
-    [ "Register", "df/db3/a26720.html#a2d83815d44543686525238723a3ab39a", null ]
+    [ "HandleTriggerSpell", "df/db3/a26720.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "df/db3/a26720.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "df/db3/a26720.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

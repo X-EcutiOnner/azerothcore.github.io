@@ -1,5 +1,6 @@
 var a18412 =
 [
-    [ "at_sindragosa_lair", "d1/d20/a18412.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d1/d20/a18412.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "HandleScript", "d1/d20/a18412.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d1/d20/a18412.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d1/d20/a18412.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

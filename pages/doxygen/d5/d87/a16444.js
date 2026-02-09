@@ -1,7 +1,6 @@
 var a16444 =
 [
-    [ "TwilightCutterSelector", "d5/d87/a16444.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d5/d87/a16444.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d5/d87/a16444.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d5/d87/a16444.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "npc_living_infernoAI", "dc/de6/a16448.html", "dc/de6/a16448" ],
+    [ "npc_living_inferno", "d5/d87/a16444.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d5/d87/a16444.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

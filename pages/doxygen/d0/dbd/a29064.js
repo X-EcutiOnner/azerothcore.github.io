@@ -1,16 +1,13 @@
 var a29064 =
 [
-    [ "TileBuilder", "d0/dbd/a29064.html#a11941bfac809a75cc1b523fe0ce25c55", null ],
-    [ "TileBuilder", "d0/dbd/a29064.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
-    [ "~TileBuilder", "d0/dbd/a29064.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
-    [ "buildMoveMapTile", "d0/dbd/a29064.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
-    [ "buildTile", "d0/dbd/a29064.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
-    [ "shouldSkipTile", "d0/dbd/a29064.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
-    [ "WaitCompletion", "d0/dbd/a29064.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
-    [ "WorkerThread", "d0/dbd/a29064.html#a4c0497cde74883557ec841233376f95c", null ],
-    [ "m_debugOutput", "d0/dbd/a29064.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
-    [ "m_mapBuilder", "d0/dbd/a29064.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
-    [ "m_rcContext", "d0/dbd/a29064.html#a160c3ad76146488175c6ae228ad4ef83", null ],
-    [ "m_terrainBuilder", "d0/dbd/a29064.html#ade1605fb1b68693516c9fb27f94b278d", null ],
-    [ "m_workerThread", "d0/dbd/a29064.html#a4e03cb818b108400737e3a54df24945d", null ]
+    [ "liquidTris", "d0/dbd/a29064.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "d0/dbd/a29064.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "d0/dbd/a29064.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "d0/dbd/a29064.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "d0/dbd/a29064.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "d0/dbd/a29064.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "d0/dbd/a29064.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "d0/dbd/a29064.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "d0/dbd/a29064.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "d0/dbd/a29064.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

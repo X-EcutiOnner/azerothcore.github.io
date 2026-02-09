@@ -1,6 +1,6 @@
 var a22052 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d0/d12/a22052.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d0/d12/a22052.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d0/d12/a22052.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d8/d7b/a22056.html", "d8/d7b/a22056" ],
+    [ "npc_commander_eligor_dawnbringer", "d0/d12/a22052.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d0/d12/a22052.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

@@ -1,5 +1,7 @@
 var a18712 =
 [
-    [ "achievement_neck_deep_in_vile", "d8/ded/a18712.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d8/ded/a18712.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "ValithriaDespawner", "d8/ded/a18712.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d8/ded/a18712.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d8/ded/a18712.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d8/ded/a18712.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

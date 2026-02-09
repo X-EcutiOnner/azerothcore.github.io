@@ -1,7 +1,7 @@
 var a23080 =
 [
-    [ "PrepareAuraScript", "d3/d5d/a23080.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d3/d5d/a23080.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d3/d5d/a23080.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d3/d5d/a23080.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "SuckBackEvent", "d3/d5d/a23080.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d3/d5d/a23080.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d3/d5d/a23080.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d3/d5d/a23080.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

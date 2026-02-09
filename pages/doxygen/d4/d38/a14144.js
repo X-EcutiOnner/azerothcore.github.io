@@ -1,7 +1,7 @@
 var a14144 =
 [
-    [ "OnPeriodic", "d4/d38/a14144.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d4/d38/a14144.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d4/d38/a14144.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d4/d38/a14144.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_zuljin_vortex", "d4/d38/a14144.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d4/d38/a14144.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d4/d38/a14144.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d4/d38/a14144.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

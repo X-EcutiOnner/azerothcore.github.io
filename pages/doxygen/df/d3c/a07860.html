@@ -122,7 +122,7 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memTemplItemLeft" align="right" valign="top">static std::enable_if_t&lt; std::is_integral_v&lt; T &gt;, bool &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/d3c/a07860.html#a45556cc3ac64a6692ef08d6d93d48a4d">StoreTo</a> (T &amp;val, std::string_view data)</td></tr>
 <tr class="separator:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d3c/a07860.html#a1f368b832f95ce4acc6ed47ad4ca2e8d">StoreTo</a> (<a class="el" href="../../d3/d22/a08504.html">ObjectGuid</a> &amp;val, std::string_view data)</td></tr>
+<tr class="memitem:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d3c/a07860.html#a1f368b832f95ce4acc6ed47ad4ca2e8d">StoreTo</a> (<a class="el" href="../../db/d8e/a08508.html">ObjectGuid</a> &amp;val, std::string_view data)</td></tr>
 <tr class="separator:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -139,7 +139,7 @@ Static Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d22/a08504.html">ObjectGuid</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/d8e/a08508.html">ObjectGuid</a> &amp;&#160;</td>
           <td class="paramname"><em>val</em>, </td>
         </tr>
         <tr>
@@ -163,14 +163,14 @@ Static Public Member Functions</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  132</span>            {</div>
 <div class="line"><span class="lineno">  133</span>                <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint64&gt;</a> res = Acore::StringTo&lt;uint64&gt;(data, 16))</div>
 <div class="line"><span class="lineno">  134</span>                {</div>
-<div class="line"><span class="lineno">  135</span>                    val.<a class="code hl_function" href="../../d3/d22/a08504.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(*res);</div>
+<div class="line"><span class="lineno">  135</span>                    val.<a class="code hl_function" href="../../db/d8e/a08508.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(*res);</div>
 <div class="line"><span class="lineno">  136</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  137</span>                }</div>
 <div class="line"><span class="lineno">  138</span>                <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  139</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  140</span>            }</div>
 <div class="ttc" id="aa04745_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
-<div class="ttc" id="aa08504_html_adfd90f25996d5e85a14e25f1af152c94"><div class="ttname"><a href="../../d3/d22/a08504.html#adfd90f25996d5e85a14e25f1af152c94">ObjectGuid::Set</a></div><div class="ttdeci">void Set(uint64 guid)</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:137</div></div>
+<div class="ttc" id="aa08508_html_adfd90f25996d5e85a14e25f1af152c94"><div class="ttname"><a href="../../db/d8e/a08508.html#adfd90f25996d5e85a14e25f1af152c94">ObjectGuid::Set</a></div><div class="ttdeci">void Set(uint64 guid)</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:137</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00137">ObjectGuid::Set()</a>.</p>
 
@@ -311,7 +311,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d27/a04876.html">Hyperlinks</a></li><li class="navelem"><a class="el" href="../../db/dab/a04877.html">LinkTags</a></li><li class="navelem"><a class="el" href="../../df/d3c/a07860.html">base_tag</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:16:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 9 2026 21:12:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

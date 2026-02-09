@@ -1,6 +1,9 @@
 var a20916 =
 [
-    [ "boss_xt002AI", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
-    [ "boss_xt002", "d4/d85/a20916.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "d4/d85/a20916.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "npc_xt002_scrapbotAI", "d4/d85/a20916.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
+    [ "JustDied", "d4/d85/a20916.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
+    [ "MovementInform", "d4/d85/a20916.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
+    [ "Reset", "d4/d85/a20916.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
+    [ "UpdateAI", "d4/d85/a20916.html#ae2de6767f8ab502833971e4171d48c13", null ],
+    [ "_locked", "d4/d85/a20916.html#add3bfe992d635629ac7e07e04c4334c9", null ]
 ];

@@ -1,6 +1,6 @@
 var a26788 =
 [
-    [ "HandleScript", "de/d84/a26788.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "de/d84/a26788.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "de/d84/a26788.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleScript", "de/d84/a26788.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "de/d84/a26788.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "de/d84/a26788.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

@@ -212,16 +212,16 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_class" href="../../d8/d97/a09912.html">Map</a>* map = member-&gt;FindMap();</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_class" href="../../d6/db1/a09916.html">Map</a>* map = member-&gt;FindMap();</div>
 <div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (!map)</div>
 <div class="line"><span class="lineno">   42</span>    {</div>
 <div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   44</span>    }</div>
 <div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    CreatureGroupHolderType::iterator itr = map-&gt;<a class="code hl_variable" href="../../d8/d97/a09912.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.find(groupId);</div>
+<div class="line"><span class="lineno">   46</span>    CreatureGroupHolderType::iterator itr = map-&gt;<a class="code hl_variable" href="../../d6/db1/a09916.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.find(groupId);</div>
 <div class="line"><span class="lineno">   47</span> </div>
 <div class="line"><span class="lineno">   48</span>    <span class="comment">//Add member to an existing group</span></div>
-<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (itr != map-&gt;<a class="code hl_variable" href="../../d8/d97/a09912.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.end())</div>
+<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (itr != map-&gt;<a class="code hl_variable" href="../../d6/db1/a09916.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.end())</div>
 <div class="line"><span class="lineno">   50</span>    {</div>
 <div class="line"><span class="lineno">   51</span>        <a class="code hl_define" href="../../d6/d12/a04661.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Group found: {}, inserting creature {}, Group InstanceID {}&quot;</span>, groupId, member-&gt;GetGUID().ToString(), member-&gt;GetInstanceId());</div>
 <div class="line"><span class="lineno">   52</span>        itr-&gt;second-&gt;AddMember(member);</div>
@@ -231,15 +231,15 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   56</span>    {</div>
 <div class="line"><span class="lineno">   57</span>        <a class="code hl_define" href="../../d6/d12/a04661.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Group not found: {}. Creating new group.&quot;</span>, groupId);</div>
 <div class="line"><span class="lineno">   58</span>        <a class="code hl_class" href="../../d1/d32/a08172.html">CreatureGroup</a>* group = <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d32/a08172.html">CreatureGroup</a>(groupId);</div>
-<div class="line"><span class="lineno">   59</span>        map-&gt;<a class="code hl_variable" href="../../d8/d97/a09912.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>[groupId] = group;</div>
+<div class="line"><span class="lineno">   59</span>        map-&gt;<a class="code hl_variable" href="../../d6/db1/a09916.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>[groupId] = group;</div>
 <div class="line"><span class="lineno">   60</span>        group-&gt;<a class="code hl_function" href="../../d1/d32/a08172.html#afca7fafddd0f361507469f875bf5d17c">AddMember</a>(member);</div>
 <div class="line"><span class="lineno">   61</span>    }</div>
 <div class="line"><span class="lineno">   62</span>}</div>
 <div class="ttc" id="aa04661_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d6/d12/a04661.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
 <div class="ttc" id="aa08172_html"><div class="ttname"><a href="../../d1/d32/a08172.html">CreatureGroup</a></div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:90</div></div>
 <div class="ttc" id="aa08172_html_afca7fafddd0f361507469f875bf5d17c"><div class="ttname"><a href="../../d1/d32/a08172.html#afca7fafddd0f361507469f875bf5d17c">CreatureGroup::AddMember</a></div><div class="ttdeci">void AddMember(Creature *member)</div><div class="ttdef"><b>Definition:</b> CreatureGroups.cpp:170</div></div>
-<div class="ttc" id="aa09912_html"><div class="ttname"><a href="../../d8/d97/a09912.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:163</div></div>
-<div class="ttc" id="aa09912_html_acd71e42ca86d66e62fc0360bb4cab851"><div class="ttname"><a href="../../d8/d97/a09912.html#acd71e42ca86d66e62fc0360bb4cab851">Map::CreatureGroupHolder</a></div><div class="ttdeci">CreatureGroupHolderType CreatureGroupHolder</div><div class="ttdef"><b>Definition:</b> Map.h:332</div></div>
+<div class="ttc" id="aa09916_html"><div class="ttname"><a href="../../d6/db1/a09916.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:163</div></div>
+<div class="ttc" id="aa09916_html_acd71e42ca86d66e62fc0360bb4cab851"><div class="ttname"><a href="../../d6/db1/a09916.html#acd71e42ca86d66e62fc0360bb4cab851">Map::CreatureGroupHolder</a></div><div class="ttdeci">CreatureGroupHolderType CreatureGroupHolder</div><div class="ttdef"><b>Definition:</b> Map.h:332</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00170">CreatureGroup::AddMember()</a>, <a class="el" href="../../#l00332">Map::CreatureGroupHolder</a>, <a class="el" href="../../#l00621">WorldObject::FindMap()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00509">WorldObject::GetInstanceId()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
@@ -315,7 +315,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  102</span>        <span class="comment">//Load group member data</span></div>
 <div class="line"><span class="lineno">  103</span>        <a class="code hl_struct" href="../../d0/dba/a08164.html">FormationInfo</a> group_member;</div>
 <div class="line"><span class="lineno">  104</span>        group_member.<a class="code hl_variable" href="../../d0/dba/a08164.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>            = fields[0].<a class="code hl_function" href="../../d0/d5d/a05800.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  105</span>        <a class="code hl_typedef" href="../../d3/d22/a08504.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> <span class="keyword">const</span> memberGUID = fields[1].<a class="code hl_function" href="../../d0/d5d/a05800.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  105</span>        <a class="code hl_typedef" href="../../db/d8e/a08508.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> <span class="keyword">const</span> memberGUID = fields[1].<a class="code hl_function" href="../../d0/d5d/a05800.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno">  106</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> follow_dist             = fields[2].<a class="code hl_function" href="../../d0/d5d/a05800.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><span class="lineno">  107</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> follow_angle            = fields[3].<a class="code hl_function" href="../../d0/d5d/a05800.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;() * (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI) / 180);</div>
 <div class="line"><span class="lineno">  108</span>        group_member.<a class="code hl_variable" href="../../d0/dba/a08164.html#af9f6dc52999efef6f0819bb8d1670fec">groupAI</a>               = fields[4].<a class="code hl_function" href="../../d0/d5d/a05800.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d68/a04331.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
@@ -379,7 +379,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  166</span>    <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Creatures In Formations in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d7/d47/a04685.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
 <div class="line"><span class="lineno">  167</span>    <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno">  168</span>}</div>
-<div class="ttc" id="aa01646_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1656</div></div>
+<div class="ttc" id="aa01646_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1686</div></div>
 <div class="ttc" id="aa03989_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../dd/d27/a03989.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
 <div class="ttc" id="aa04001_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../dd/d81/a04001.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
 <div class="ttc" id="aa04331_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
@@ -400,9 +400,9 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa08164_html_af9f6dc52999efef6f0819bb8d1670fec"><div class="ttname"><a href="../../d0/dba/a08164.html#af9f6dc52999efef6f0819bb8d1670fec">FormationInfo::groupAI</a></div><div class="ttdeci">uint16 groupAI</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:66</div></div>
 <div class="ttc" id="aa08164_html_afc612acf30e8d0a047aac5b0fc2dc07b"><div class="ttname"><a href="../../d0/dba/a08164.html#afc612acf30e8d0a047aac5b0fc2dc07b">FormationInfo::HasGroupFlag</a></div><div class="ttdeci">bool HasGroupFlag(uint16 flag) const</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:70</div></div>
 <div class="ttc" id="aa08168_html_ac11a3dfbe6a4f7df01d966f14b0aecd9"><div class="ttname"><a href="../../d9/dae/a08168.html#ac11a3dfbe6a4f7df01d966f14b0aecd9">FormationMgr::CreatureGroupMap</a></div><div class="ttdeci">CreatureGroupInfoType CreatureGroupMap</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:86</div></div>
-<div class="ttc" id="aa08504_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d3/d22/a08504.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
+<div class="ttc" id="aa08508_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../db/d8e/a08508.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">CreatureGroupMap</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00066">FormationInfo::groupAI</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00063">FormationInfo::leaderGUID</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00067">FormationInfo::point_1</a>, <a class="el" href="../../#l00068">FormationInfo::point_2</a>, <a class="el" href="../../#l01656">sObjectMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00086">CreatureGroupMap</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00066">FormationInfo::groupAI</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00063">FormationInfo::leaderGUID</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00067">FormationInfo::point_1</a>, <a class="el" href="../../#l00068">FormationInfo::point_2</a>, <a class="el" href="../../#l01686">sObjectMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 </div>
 </div>
@@ -437,14 +437,14 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   68</span> </div>
 <div class="line"><span class="lineno">   69</span>    <span class="keywordflow">if</span> (group-&gt;<a class="code hl_function" href="../../d1/d32/a08172.html#ad88320d89fba23f6cdf5fd0b4de33c18">IsEmpty</a>())</div>
 <div class="line"><span class="lineno">   70</span>    {</div>
-<div class="line"><span class="lineno">   71</span>        <a class="code hl_class" href="../../d8/d97/a09912.html">Map</a>* map = member-&gt;FindMap();</div>
+<div class="line"><span class="lineno">   71</span>        <a class="code hl_class" href="../../d6/db1/a09916.html">Map</a>* map = member-&gt;FindMap();</div>
 <div class="line"><span class="lineno">   72</span>        <span class="keywordflow">if</span> (!map)</div>
 <div class="line"><span class="lineno">   73</span>        {</div>
 <div class="line"><span class="lineno">   74</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   75</span>        }</div>
 <div class="line"><span class="lineno">   76</span> </div>
 <div class="line"><span class="lineno">   77</span>        <a class="code hl_define" href="../../d6/d12/a04661.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Deleting group with InstanceID {}&quot;</span>, member-&gt;GetInstanceId());</div>
-<div class="line"><span class="lineno">   78</span>        map-&gt;<a class="code hl_variable" href="../../d8/d97/a09912.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.erase(group-&gt;<a class="code hl_function" href="../../d1/d32/a08172.html#a0d67df48ef040fc8f14b1ddf307aed14">GetId</a>());</div>
+<div class="line"><span class="lineno">   78</span>        map-&gt;<a class="code hl_variable" href="../../d6/db1/a09916.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.erase(group-&gt;<a class="code hl_function" href="../../d1/d32/a08172.html#a0d67df48ef040fc8f14b1ddf307aed14">GetId</a>());</div>
 <div class="line"><span class="lineno">   79</span>        <span class="keyword">delete</span> group;</div>
 <div class="line"><span class="lineno">   80</span>    }</div>
 <div class="line"><span class="lineno">   81</span>}</div>
@@ -479,7 +479,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dae/a08168.html">FormationMgr</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:14:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 9 2026 21:11:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

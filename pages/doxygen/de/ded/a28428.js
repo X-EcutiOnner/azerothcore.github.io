@@ -1,5 +1,19 @@
 var a28428 =
 [
-    [ "Id", "de/ded/a28428.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "de/ded/a28428.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "FactionRespondsToCallForHelp", "de/ded/a28428.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "de/ded/a28428.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "de/ded/a28428.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "de/ded/a28428.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "de/ded/a28428.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "de/ded/a28428.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
+    [ "IsHostileToPlayers", "de/ded/a28428.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "de/ded/a28428.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "de/ded/a28428.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "de/ded/a28428.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "de/ded/a28428.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "de/ded/a28428.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "de/ded/a28428.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "de/ded/a28428.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "de/ded/a28428.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "de/ded/a28428.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

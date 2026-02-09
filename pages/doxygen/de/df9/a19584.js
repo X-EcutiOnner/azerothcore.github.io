@@ -1,14 +1,8 @@
 var a19584 =
 [
-    [ "boss_magus_telestra", "de/df9/a19584.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "de/df9/a19584.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "de/df9/a19584.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "de/df9/a19584.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "de/df9/a19584.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "de/df9/a19584.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "de/df9/a19584.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "de/df9/a19584.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "de/df9/a19584.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "de/df9/a19584.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "de/df9/a19584.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
+    [ "npc_crystal_spike", "de/df9/a19584.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "de/df9/a19584.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "de/df9/a19584.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "de/df9/a19584.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "de/df9/a19584.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

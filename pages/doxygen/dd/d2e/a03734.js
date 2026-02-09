@@ -1,7 +1,7 @@
 var a03734 =
 [
-    [ "boss_overlord_wyrmthalak", "d0/d6b/a12348.html", "d0/d6b/a12348" ],
-    [ "boss_overlord_wyrmthalak::boss_overlordwyrmthalakAI", "d6/d3f/a12352.html", "d6/d3f/a12352" ],
+    [ "boss_overlord_wyrmthalak", "d6/d3f/a12352.html", "d6/d3f/a12352" ],
+    [ "boss_overlord_wyrmthalak::boss_overlordwyrmthalakAI", "d2/dbc/a12356.html", "d2/dbc/a12356" ],
     [ "Adds", "dd/d2e/a03734.html#a2933cb34869f6eceea9b33441a4608ad", [
       [ "NPC_SPIRESTONE_WARLORD", "dd/d2e/a03734.html#a2933cb34869f6eceea9b33441a4608ada3f7866506513346cd5aebdcf27322b25", null ],
       [ "NPC_SMOLDERTHORN_BERSERKER", "dd/d2e/a03734.html#a2933cb34869f6eceea9b33441a4608ada7c0a3088589c1df2edf499c7d65a496d", null ],

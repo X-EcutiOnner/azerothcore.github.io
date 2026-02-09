@@ -1,5 +1,7 @@
 var a19020 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d2/d4b/a19020.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d2/d4b/a19020.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "HandleEffectPeriodic", "d2/d4b/a19020.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d2/d4b/a19020.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d2/d4b/a19020.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d2/d4b/a19020.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

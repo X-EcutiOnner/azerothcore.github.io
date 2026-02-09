@@ -1,20 +1,9 @@
 var a29012 =
 [
-    [ "FileLoader", "d6/db6/a29012.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "d6/db6/a29012.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "FileLoader", "d6/db6/a29012.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "d6/db6/a29012.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "free", "d6/db6/a29012.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
-    [ "free", "d6/db6/a29012.html#aef98564821c8e63b6d484179cda0b380", null ],
-    [ "GetData", "d6/db6/a29012.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetData", "d6/db6/a29012.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetDataSize", "d6/db6/a29012.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "GetDataSize", "d6/db6/a29012.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "loadFile", "d6/db6/a29012.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "loadFile", "d6/db6/a29012.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "prepareLoadedData", "d6/db6/a29012.html#ab66347098d7c9ac470339c232f9b7588", null ],
-    [ "prepareLoadedData", "d6/db6/a29012.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
-    [ "data", "d6/db6/a29012.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
-    [ "data_size", "d6/db6/a29012.html#a355891fc980538e74080b9b83a95dec8", null ],
-    [ "version", "d6/db6/a29012.html#a41cedec185e5909d83c8a185d1476dee", null ]
+    [ "WDT_file", "d6/db6/a29012.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d6/db6/a29012.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d6/db6/a29012.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d6/db6/a29012.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d6/db6/a29012.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d6/db6/a29012.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

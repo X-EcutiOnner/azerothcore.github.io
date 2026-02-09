@@ -1,6 +1,7 @@
 var a16264 =
 [
-    [ "boss_sartharion_vesperonAI", "dd/d79/a16268.html", "dd/d79/a16268" ],
-    [ "boss_sartharion_vesperon", "d0/d02/a16264.html#a53af67abd9f9bff7f72ee2441e885500", null ],
-    [ "GetAI", "d0/d02/a16264.html#ad045054b44910461e704c412a524bdc4", null ]
+    [ "HandleHit", "d0/d02/a16264.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d0/d02/a16264.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d0/d02/a16264.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d0/d02/a16264.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

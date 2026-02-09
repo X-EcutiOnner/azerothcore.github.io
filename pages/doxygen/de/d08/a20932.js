@@ -1,6 +1,6 @@
 var a20932 =
 [
-    [ "npc_xt002_scrapbotAI", "d9/d3c/a20936.html", "d9/d3c/a20936" ],
-    [ "npc_xt002_scrapbot", "de/d08/a20932.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "de/d08/a20932.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "npc_xt002_boombotAI", "d9/d3c/a20936.html", "d9/d3c/a20936" ],
+    [ "npc_xt002_boombot", "de/d08/a20932.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "de/d08/a20932.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

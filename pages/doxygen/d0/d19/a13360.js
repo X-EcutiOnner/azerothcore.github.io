@@ -1,6 +1,9 @@
 var a13360 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d2/d50/a13364.html", "d2/d50/a13364" ],
-    [ "boss_kirtonos_the_herald", "d0/d19/a13360.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d0/d19/a13360.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "npc_risen_guardianAI", "d0/d19/a13360.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d0/d19/a13360.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d0/d19/a13360.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d0/d19/a13360.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d0/d19/a13360.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d0/d19/a13360.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

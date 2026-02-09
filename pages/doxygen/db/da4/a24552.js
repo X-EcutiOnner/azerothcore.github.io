@@ -1,6 +1,6 @@
 var a24552 =
 [
-    [ "go_ancient_skull_pile", "db/da4/a24552.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "db/da4/a24552.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "db/da4/a24552.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_pet_dk_army_of_the_dead", "db/da4/a24552.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "db/da4/a24552.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "db/da4/a24552.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

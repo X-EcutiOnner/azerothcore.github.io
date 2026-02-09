@@ -1,5 +1,6 @@
 var a20804 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d5/dba/a20804.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d5/dba/a20804.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "boss_thorim_lightning_orbAI", "de/da0/a20808.html", "de/da0/a20808" ],
+    [ "boss_thorim_lightning_orb", "d5/dba/a20804.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "d5/dba/a20804.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

@@ -1,7 +1,7 @@
 var a18148 =
 [
-    [ "HandleScript", "d9/da4/a18148.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d9/da4/a18148.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d9/da4/a18148.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d9/da4/a18148.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "HandleExtraEffect", "d9/da4/a18148.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d9/da4/a18148.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d9/da4/a18148.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d9/da4/a18148.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

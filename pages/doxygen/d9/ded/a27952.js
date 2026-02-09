@@ -1,9 +1,9 @@
 var a27952 =
 [
-    [ "npc_herald_of_the_lich_king", "d9/ded/a27952.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d9/ded/a27952.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d9/ded/a27952.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d9/ded/a27952.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d9/ded/a27952.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d9/ded/a27952.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_necropolis_health", "d9/ded/a27952.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "d9/ded/a27952.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "d9/ded/a27952.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "d9/ded/a27952.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "d9/ded/a27952.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "d9/ded/a27952.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

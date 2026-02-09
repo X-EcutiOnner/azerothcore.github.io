@@ -1,6 +1,6 @@
 var a21120 =
 [
-    [ "boss_yoggsaron_neltharionAI", "de/d5d/a21124.html", "de/d5d/a21124" ],
-    [ "boss_yoggsaron_neltharion", "d4/d9a/a21120.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d4/d9a/a21120.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "FilterTargets", "d4/d9a/a21120.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d4/d9a/a21120.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d4/d9a/a21120.html#ab79041a2536878498744555475bce5c8", null ]
 ];

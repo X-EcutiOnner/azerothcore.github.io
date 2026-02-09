@@ -1,6 +1,8 @@
 var a20116 =
 [
-    [ "npc_thorims_hammerAI", "d6/db4/a20120.html", "d6/db4/a20120" ],
-    [ "npc_thorims_hammer", "d2/d0a/a20116.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d2/d0a/a20116.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "npc_brann_radioAI", "d2/d0a/a20116.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "d2/d0a/a20116.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "d2/d0a/a20116.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "d2/d0a/a20116.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "d2/d0a/a20116.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

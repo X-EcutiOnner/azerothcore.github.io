@@ -1,6 +1,14 @@
 var a17104 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d7/d0d/a17108.html", "d7/d0d/a17108" ],
-    [ "instance_forge_of_souls", "d2/d3b/a17104.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d2/d3b/a17104.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "boss_marwynAI", "d2/d3b/a17104.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "d2/d3b/a17104.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "d2/d3b/a17104.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "d2/d3b/a17104.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "d2/d3b/a17104.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "d2/d3b/a17104.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "d2/d3b/a17104.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "d2/d3b/a17104.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "d2/d3b/a17104.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "d2/d3b/a17104.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "d2/d3b/a17104.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

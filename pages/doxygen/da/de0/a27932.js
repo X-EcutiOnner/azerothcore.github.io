@@ -1,7 +1,8 @@
 var a27932 =
 [
-    [ "npc_crashin_thrashin_robot", "da/de0/a27932.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "da/de0/a27932.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "da/de0/a27932.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "da/de0/a27932.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_traveler_mammoth_vendor", "da/de0/a27932.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "da/de0/a27932.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "da/de0/a27932.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "da/de0/a27932.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "da/de0/a27932.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

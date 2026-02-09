@@ -1,6 +1,5 @@
 var a21816 =
 [
-    [ "npc_thassarianAI", "de/dcc/a21820.html", "de/dcc/a21820" ],
-    [ "npc_thassarian", "d0/df3/a21816.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "d0/df3/a21816.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_leryssaAI", "d0/df3/a21816.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d0/df3/a21816.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

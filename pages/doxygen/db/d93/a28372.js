@@ -1,8 +1,7 @@
 var a28372 =
 [
-    [ "ID", "db/d93/a28372.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "db/d93/a28372.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "db/d93/a28372.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "db/d93/a28372.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "db/d93/a28372.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "Displayid", "db/d93/a28372.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "db/d93/a28372.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "db/d93/a28372.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "db/d93/a28372.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

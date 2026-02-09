@@ -1,5 +1,6 @@
 var a20228 =
 [
-    [ "achievement_flame_leviathan_shutout", "d2/d83/a20228.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d2/d83/a20228.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "boss_freya_elder_stonebarkAI", "df/d2a/a20232.html", "df/d2a/a20232" ],
+    [ "boss_freya_elder_stonebark", "d2/d83/a20228.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d2/d83/a20228.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

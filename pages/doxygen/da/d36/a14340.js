@@ -1,20 +1,6 @@
 var a14340 =
 [
-    [ "boss_mandokirAI", "da/d36/a14340.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
-    [ "CalculateThreat", "da/d36/a14340.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "da/d36/a14340.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
-    [ "DoAction", "da/d36/a14340.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
-    [ "DoMeleeAttackIfReady", "da/d36/a14340.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
-    [ "JustDied", "da/d36/a14340.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
-    [ "JustEngagedWith", "da/d36/a14340.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
-    [ "KilledUnit", "da/d36/a14340.html#a6230dc14db38d43fb060f028cfde9d32", null ],
-    [ "MovementInform", "da/d36/a14340.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
-    [ "OnTeleportUnreacheablePlayer", "da/d36/a14340.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
-    [ "Reset", "da/d36/a14340.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
-    [ "SetGUID", "da/d36/a14340.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
-    [ "UpdateAI", "da/d36/a14340.html#a1037b770bb46400aef0ec034f86468fc", null ],
-    [ "_chargeTarget", "da/d36/a14340.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
-    [ "_useExecute", "da/d36/a14340.html#a305f064869874d8620d794a7d26f6358", null ],
-    [ "killCount", "da/d36/a14340.html#a280e27385988e0f5cc65c60511bd4100", null ],
-    [ "reviveGUID", "da/d36/a14340.html#a7f955c8399167d3f3aa974596f398c13", null ]
+    [ "boss_mandokirAI", "da/ddf/a14344.html", "da/ddf/a14344" ],
+    [ "boss_mandokir", "da/d36/a14340.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "da/d36/a14340.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

@@ -1,6 +1,6 @@
 var a01019 =
 [
-    [ "PlayerSetting", "d8/dc0/a08716.html", "d8/dc0/a08716" ],
+    [ "PlayerSetting", "db/d44/a08720.html", "db/d44/a08720" ],
     [ "PlayerSettingMap", "db/daf/a01019.html#a03676554928fdf5649c8c7f77a128d04", null ],
     [ "PlayerSettingVector", "db/daf/a01019.html#a5c88535ec12f87cc432b1c594bf05326", null ],
     [ "AnnouncerFlags", "db/daf/a01019.html#a32dfba2d10d91879403874fc75b928fd", [

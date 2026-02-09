@@ -1,8 +1,6 @@
 var a21708 =
 [
-    [ "HandleEffectRemove", "d1/d05/a21708.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d1/d05/a21708.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d1/d05/a21708.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d1/d05/a21708.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d1/d05/a21708.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_iruk", "d1/d05/a21708.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "d1/d05/a21708.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "d1/d05/a21708.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

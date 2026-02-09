@@ -1,25 +1,6 @@
 var a17552 =
 [
-    [ "boss_prince_taldaramAI", "da/d6d/a17552.html#a8887ecc2d5eae177dbc7adbd087b9c7e", null ],
-    [ "DamageDealt", "da/d6d/a17552.html#a7fdce83dce5c425aa6ba266860808f8a", null ],
-    [ "DamageTaken", "da/d6d/a17552.html#aeb85f808b766fb8e7a27c778c25b79f0", null ],
-    [ "DoAction", "da/d6d/a17552.html#ace782c6784cccf5dee01aa4de57ca0fb", null ],
-    [ "EnterEvadeMode", "da/d6d/a17552.html#a145d62ce132c3cdaeb7918790122967b", null ],
-    [ "InitializeAI", "da/d6d/a17552.html#a86ffd0e0da7bff506bad5508c32de505", null ],
-    [ "JustDied", "da/d6d/a17552.html#a5433de81912a208ea79533e0650d8687", null ],
-    [ "JustEngagedWith", "da/d6d/a17552.html#ae9b82e54daa62b196c6064143253b0d7", null ],
-    [ "JustReachedHome", "da/d6d/a17552.html#a448dcc055b5a4f57b6ad1ed09a4e19de", null ],
-    [ "JustRespawned", "da/d6d/a17552.html#a692da5cd278c64a6e14c9a997e02a433", null ],
-    [ "JustSummoned", "da/d6d/a17552.html#af62d0d20e8f7f312c1cd57ba3816bf70", null ],
-    [ "KilledUnit", "da/d6d/a17552.html#a1b3b2ce6d33becceb9a0426932b351be", null ],
-    [ "Reset", "da/d6d/a17552.html#acb777001e906749c81328df787732938", null ],
-    [ "SpellHit", "da/d6d/a17552.html#ae6258962c56bb67fdc09abe695a48fd7", null ],
-    [ "SummonedCreatureDespawn", "da/d6d/a17552.html#af512a9920b3e21641776197a570d87fa", null ],
-    [ "UpdateAI", "da/d6d/a17552.html#a1c15de4b477bbab2bb7d73df9f524d77", null ],
-    [ "_canDie", "da/d6d/a17552.html#aabe7cd8c61d97e1b3ea5a5736245aba0", null ],
-    [ "_evading", "da/d6d/a17552.html#a9dd90a58ca89477b9d18e3931edfec45", null ],
-    [ "_isEmpowered", "da/d6d/a17552.html#af5299914d228a49622524c13a63bb5cb", null ],
-    [ "events", "da/d6d/a17552.html#ae6e957dbd34e2c10d26875647faabe6b", null ],
-    [ "instance", "da/d6d/a17552.html#a45e9131b837b3967cc5b8d08ce7946cd", null ],
-    [ "summons", "da/d6d/a17552.html#aa198916309f31e243afc879c289269f8", null ]
+    [ "npc_dark_nucleusAI", "de/d78/a17556.html", "de/d78/a17556" ],
+    [ "npc_dark_nucleus", "da/d6d/a17552.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "da/d6d/a17552.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

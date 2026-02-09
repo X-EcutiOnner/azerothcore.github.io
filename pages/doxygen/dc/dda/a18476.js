@@ -1,6 +1,6 @@
 var a18476 =
 [
-    [ "LichKingMovieEvent", "dc/dda/a18476.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "dc/dda/a18476.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "dc/dda/a18476.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "npc_tirion_fordringAI", "df/d30/a18480.html", "df/d30/a18480" ],
+    [ "npc_tirion_fordring_tft", "dc/dda/a18476.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "dc/dda/a18476.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

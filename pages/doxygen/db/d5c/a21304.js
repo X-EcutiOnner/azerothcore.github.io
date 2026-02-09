@@ -1,6 +1,6 @@
 var a21304 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d2/dc1/a21308.html", "d2/dc1/a21308" ],
-    [ "instance_utgarde_keep", "db/d5c/a21304.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "db/d5c/a21304.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "boss_palehoofAI", "d2/dc1/a21308.html", "d2/dc1/a21308" ],
+    [ "boss_palehoof", "db/d5c/a21304.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "db/d5c/a21304.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

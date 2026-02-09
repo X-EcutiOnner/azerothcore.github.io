@@ -1,6 +1,6 @@
 var a21484 =
 [
-    [ "boss_toravonAI", "db/d54/a21488.html", "db/d54/a21488" ],
-    [ "boss_toravon", "d0/deb/a21484.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "d0/deb/a21484.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "npc_frozen_orb_stalkerAI", "d0/deb/a21484.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d0/deb/a21484.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d0/deb/a21484.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

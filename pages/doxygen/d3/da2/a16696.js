@@ -1,7 +1,6 @@
 var a16696 =
 [
-    [ "npc_toc_paladinAI", "d3/da2/a16696.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d3/da2/a16696.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d3/da2/a16696.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d3/da2/a16696.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "npc_toc_warlockAI", "d3/d43/a16700.html", "d3/d43/a16700" ],
+    [ "npc_toc_warlock", "d3/da2/a16696.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d3/da2/a16696.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

@@ -1,7 +1,10 @@
 var a26288 =
 [
-    [ "CalculateSpellAmount", "da/d18/a26288.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "da/d18/a26288.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "da/d18/a26288.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "da/d18/a26288.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "AfterCheckProc", "da/d18/a26288.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "da/d18/a26288.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "da/d18/a26288.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "da/d18/a26288.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "da/d18/a26288.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "da/d18/a26288.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "da/d18/a26288.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

@@ -1,6 +1,6 @@
 var a19912 =
 [
-    [ "npc_algalon_worm_holeAI", "d6/d1b/a19916.html", "d6/d1b/a19916" ],
-    [ "npc_algalon_worm_hole", "d0/d2a/a19912.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "d0/d2a/a19912.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "HandlePeriodic", "d0/d2a/a19912.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d0/d2a/a19912.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d0/d2a/a19912.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

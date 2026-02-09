@@ -1,7 +1,7 @@
 var a02414 =
 [
-    [ "npc_muglash", "d9/de6/a15576.html", "d9/de6/a15576" ],
-    [ "npc_muglash::npc_muglashAI", "d0/d9b/a15580.html", "d0/d9b/a15580" ],
+    [ "npc_muglash", "d0/d9b/a15580.html", "d0/d9b/a15580" ],
+    [ "npc_muglash::npc_muglashAI", "db/d1d/a15584.html", "db/d1d/a15584" ],
     [ "Muglash", "de/dc9/a02414.html#a61aa1bf847260f3b69320f14a98eb057", [
       [ "SAY_MUG_START1", "de/dc9/a02414.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
       [ "SAY_MUG_START2", "de/dc9/a02414.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],

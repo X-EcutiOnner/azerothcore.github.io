@@ -1,7 +1,5 @@
 var a27332 =
 [
-    [ "CharacterDeleteActionIpLogger", "db/d58/a27332.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "db/d58/a27332.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "db/d58/a27332.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "db/d58/a27332.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "AreaTrigger_at_legion_teleporter", "db/d58/a27332.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "db/d58/a27332.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

@@ -1,8 +1,8 @@
 var a14660 =
 [
-    [ "CalcPeriodic", "de/d33/a14660.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "de/d33/a14660.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "de/d33/a14660.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "de/d33/a14660.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "de/d33/a14660.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "HandleDummy", "de/d33/a14660.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "de/d33/a14660.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "de/d33/a14660.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "de/d33/a14660.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "de/d33/a14660.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

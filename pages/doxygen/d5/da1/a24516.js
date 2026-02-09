@@ -1,7 +1,12 @@
 var a24516 =
 [
-    [ "HandleSendEvent", "d5/da1/a24516.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d5/da1/a24516.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d5/da1/a24516.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d5/da1/a24516.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_unkor_the_ruthlessAI", "d5/da1/a24516.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d5/da1/a24516.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "d5/da1/a24516.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "d5/da1/a24516.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d5/da1/a24516.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "d5/da1/a24516.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "d5/da1/a24516.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "d5/da1/a24516.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "d5/da1/a24516.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

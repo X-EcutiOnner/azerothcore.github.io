@@ -1,7 +1,6 @@
 var a22004 =
 [
-    [ "HandleApplyEffect", "de/d9f/a22004.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "de/d9f/a22004.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "de/d9f/a22004.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "de/d9f/a22004.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "SACActivateEvent", "de/d9f/a22004.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "de/d9f/a22004.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "de/d9f/a22004.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

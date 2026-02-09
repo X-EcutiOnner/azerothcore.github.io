@@ -1,6 +1,6 @@
 var a20592 =
 [
-    [ "FilterTargets", "d3/d64/a20592.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d3/d64/a20592.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d3/d64/a20592.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "boss_mimironAI", "dd/d9a/a20596.html", "dd/d9a/a20596" ],
+    [ "boss_mimiron", "d3/d64/a20592.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "d3/d64/a20592.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

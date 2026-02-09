@@ -1,6 +1,7 @@
 var a17240 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d5/d9f/a17244.html", "d5/d9f/a17244" ],
-    [ "npc_hor_lumbering_abomination", "d2/dd5/a17240.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
-    [ "GetAI", "d2/dd5/a17240.html#a0601ac0af85e545617013846c48de29a", null ]
+    [ "UtherBatteredHiltEvent", "d2/dd5/a17240.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d2/dd5/a17240.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d2/dd5/a17240.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d2/dd5/a17240.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

@@ -1,6 +1,5 @@
 var a27544 =
 [
-    [ "go_gilded_brazierAI", "d6/d76/a27548.html", "d6/d76/a27548" ],
-    [ "go_gilded_brazier", "dc/d64/a27544.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "dc/d64/a27544.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_tablet_of_the_seven", "dc/d64/a27544.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "dc/d64/a27544.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

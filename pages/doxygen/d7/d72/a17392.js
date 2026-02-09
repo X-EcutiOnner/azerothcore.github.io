@@ -1,11 +1,7 @@
 var a17392 =
 [
-    [ "npc_pos_leader_secondAI", "d7/d72/a17392.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d7/d72/a17392.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d7/d72/a17392.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d7/d72/a17392.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d7/d72/a17392.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d7/d72/a17392.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d7/d72/a17392.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d7/d72/a17392.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "HandleEffectPeriodic", "d7/d72/a17392.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d7/d72/a17392.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d7/d72/a17392.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d7/d72/a17392.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

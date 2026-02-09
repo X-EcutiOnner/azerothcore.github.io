@@ -1,11 +1,7 @@
 var a23488 =
 [
-    [ "boss_ahune", "dc/d2b/a23488.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "dc/d2b/a23488.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "dc/d2b/a23488.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "dc/d2b/a23488.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "dc/d2b/a23488.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "dc/d2b/a23488.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "dc/d2b/a23488.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "dc/d2b/a23488.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "go_ahune_ice_spear", "dc/d2b/a23488.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "dc/d2b/a23488.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "dc/d2b/a23488.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "dc/d2b/a23488.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

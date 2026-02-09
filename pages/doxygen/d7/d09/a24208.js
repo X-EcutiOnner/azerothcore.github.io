@@ -1,6 +1,9 @@
 var a24208 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d9/d18/a24212.html", "d9/d18/a24212" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d7/d09/a24208.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d7/d09/a24208.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_aeranasAI", "d7/d09/a24208.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d7/d09/a24208.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d7/d09/a24208.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d7/d09/a24208.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d7/d09/a24208.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d7/d09/a24208.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

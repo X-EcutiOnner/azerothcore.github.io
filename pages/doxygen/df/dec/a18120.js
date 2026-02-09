@@ -1,6 +1,6 @@
 var a18120 =
 [
-    [ "boss_professor_putricideAI", "d0/dbd/a18124.html", "d0/dbd/a18124" ],
-    [ "boss_professor_putricide", "df/dec/a18120.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "df/dec/a18120.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "npc_gas_cloudAI", "d0/dbd/a18124.html", "d0/dbd/a18124" ],
+    [ "npc_gas_cloud", "df/dec/a18120.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "df/dec/a18120.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

@@ -1010,6 +1010,8 @@ Enumerations</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8">NPC_TOXIC_SPOREBAT</a> = 22140
 , <br />
+&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99">NPC_COILFANG_FRENZY</a> = 21508
+, <br />
 &#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a> = 184568
 , <br />
 &#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a> = 184203
@@ -1037,17 +1039,21 @@ Enumerations</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006">SPELL_SCALDING_WATER</a> = 37284
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66">SPELL_FRENZY_WATER</a> = 37026
+&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5">SPELL_SERVERSIDE_SUMMON_FRENZY</a> = 37026
+, <br />
+&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b">SPELL_SERVERSIDE_FRENZY_WATER_PERIODIC</a> = 37280
 <br />
  }</td></tr>
 <tr class="separator:ad7602f6f7909a67411e5ab9d687a4e58"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0a3f585fae3e717f00ce9b54aff49a8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8">KeeperCount</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2">MIN_KEEPER_COUNT</a> = 0
+<tr class="memitem:a678efa7fc70de1d43dbf9ac74ce1f15a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15a">SSNPCCount</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2">MIN_KEEPER_COUNT</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5">MAX_KEEPER_COUNT</a> = 24
+&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5">MAX_KEEPER_COUNT</a> = 54
+, <br />
+&#160;&#160;<a class="el" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61">MAX_FRENZY_COUNT</a> = 50
 <br />
  }</td></tr>
-<tr class="separator:ac0a3f585fae3e717f00ce9b54aff49a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a678efa7fc70de1d43dbf9ac74ce1f15a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -1579,27 +1585,31 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="ac0a3f585fae3e717f00ce9b54aff49a8" name="ac0a3f585fae3e717f00ce9b54aff49a8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0a3f585fae3e717f00ce9b54aff49a8">&#9670;&#160;</a></span>KeeperCount</h2>
+<a id="a678efa7fc70de1d43dbf9ac74ce1f15a" name="a678efa7fc70de1d43dbf9ac74ce1f15a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a678efa7fc70de1d43dbf9ac74ce1f15a">&#9670;&#160;</a></span>SSNPCCount</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8">KeeperCount</a></td>
+          <td class="memname">enum <a class="el" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15a">SSNPCCount</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2" name="ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2"></a>MIN_KEEPER_COUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5" name="ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5"></a>MAX_KEEPER_COUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2" name="a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2"></a>MIN_KEEPER_COUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5" name="a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5"></a>MAX_KEEPER_COUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61" name="a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61"></a>MAX_FRENZY_COUNT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2">MIN_KEEPER_COUNT</a> = 0,</div>
-<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5">MAX_KEEPER_COUNT</a> = 24</div>
-<div class="line"><span class="lineno">   98</span>};</div>
-<div class="ttc" id="aa02108_html_ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5"><div class="ttname"><a href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5">MAX_KEEPER_COUNT</a></div><div class="ttdeci">@ MAX_KEEPER_COUNT</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:97</div></div>
-<div class="ttc" id="aa02108_html_ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2"><div class="ttname"><a href="../../d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2">MIN_KEEPER_COUNT</a></div><div class="ttdeci">@ MIN_KEEPER_COUNT</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:96</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2">MIN_KEEPER_COUNT</a> = 0,</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5">MAX_KEEPER_COUNT</a> = 54,</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61">MAX_FRENZY_COUNT</a> = 50</div>
+<div class="line"><span class="lineno">  104</span>};</div>
+<div class="ttc" id="aa02108_html_a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5"><div class="ttname"><a href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5">MAX_KEEPER_COUNT</a></div><div class="ttdeci">@ MAX_KEEPER_COUNT</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:101</div></div>
+<div class="ttc" id="aa02108_html_a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2"><div class="ttname"><a href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2">MIN_KEEPER_COUNT</a></div><div class="ttdeci">@ MIN_KEEPER_COUNT</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:100</div></div>
+<div class="ttc" id="aa02108_html_a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61"><div class="ttname"><a href="../../d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61">MAX_FRENZY_COUNT</a></div><div class="ttdeci">@ MAX_FRENZY_COUNT</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:103</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1632,6 +1642,7 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69" name="a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69"></a>NPC_COILFANG_STRIDER&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e" name="a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e"></a>NPC_TAINTED_ELEMENTAL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8" name="a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8"></a>NPC_TOXIC_SPOREBAT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99" name="a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99"></a>NPC_COILFANG_FRENZY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118" name="a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118"></a>GO_LADY_VASHJ_BRIDGE_CONSOLE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3" name="a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3"></a>GO_COILFANG_BRIDGE1&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c" name="a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c"></a>GO_COILFANG_BRIDGE2&#160;</td><td class="fielddoc"></td></tr>
@@ -1664,44 +1675,46 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69">NPC_COILFANG_STRIDER</a>                    = 22056,</div>
 <div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e">NPC_TAINTED_ELEMENTAL</a>                   = 22009,</div>
 <div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8">NPC_TOXIC_SPOREBAT</a>                      = 22140,</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a>            = 184568,</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a>                     = 184203,</div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c">GO_COILFANG_BRIDGE2</a>                     = 184204,</div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514">GO_COILFANG_BRIDGE3</a>                     = 184205,</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3e86a134c9ef39c8edc4cef62e810388">GO_SHIELD_GENERATOR1</a>                    = 185051,</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a09a94b05e413b49d58c948c58fd5d90d">GO_SHIELD_GENERATOR2</a>                    = 185052,</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a7175e81800523f1b328d9236fe36ee83">GO_SHIELD_GENERATOR3</a>                    = 185053,</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a994c636654fc454ff2ac3ad1bf2feb97">GO_SHIELD_GENERATOR4</a>                    = 185054,</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c">GO_STRANGE_POOL</a>                         = 184956</div>
-<div class="line"><span class="lineno">   84</span>};</div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99">NPC_COILFANG_FRENZY</a>                     = 21508,</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a>            = 184568,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a>                     = 184203,</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c">GO_COILFANG_BRIDGE2</a>                     = 184204,</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514">GO_COILFANG_BRIDGE3</a>                     = 184205,</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3e86a134c9ef39c8edc4cef62e810388">GO_SHIELD_GENERATOR1</a>                    = 185051,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a09a94b05e413b49d58c948c58fd5d90d">GO_SHIELD_GENERATOR2</a>                    = 185052,</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a7175e81800523f1b328d9236fe36ee83">GO_SHIELD_GENERATOR3</a>                    = 185053,</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a994c636654fc454ff2ac3ad1bf2feb97">GO_SHIELD_GENERATOR4</a>                    = 185054,</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c">GO_STRANGE_POOL</a>                         = 184956</div>
+<div class="line"><span class="lineno">   85</span>};</div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a02ec757b5f9befea04f6d88f7e4bff44"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a02ec757b5f9befea04f6d88f7e4bff44">NPC_CYCLONE_KARATHRESS</a></div><div class="ttdeci">@ NPC_CYCLONE_KARATHRESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:54</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a09a94b05e413b49d58c948c58fd5d90d"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a09a94b05e413b49d58c948c58fd5d90d">GO_SHIELD_GENERATOR2</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR2</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:79</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c">GO_STRANGE_POOL</a></div><div class="ttdeci">@ GO_STRANGE_POOL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:83</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a09a94b05e413b49d58c948c58fd5d90d"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a09a94b05e413b49d58c948c58fd5d90d">GO_SHIELD_GENERATOR2</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR2</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:80</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c">GO_STRANGE_POOL</a></div><div class="ttdeci">@ GO_STRANGE_POOL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:84</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a2917a7824e99a14c13f489b261dc6882"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a2917a7824e99a14c13f489b261dc6882">NPC_FATHOM_GUARD_SHARKKIS</a></div><div class="ttdeci">@ NPC_FATHOM_GUARD_SHARKKIS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:58</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514">GO_COILFANG_BRIDGE3</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE3</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:76</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514">GO_COILFANG_BRIDGE3</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE3</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:77</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a360537f601019f9522404bd720962617"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a360537f601019f9522404bd720962617">NPC_ENCHANTED_ELEMENTAL</a></div><div class="ttdeci">@ NPC_ENCHANTED_ELEMENTAL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:67</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e">NPC_TAINTED_ELEMENTAL</a></div><div class="ttdeci">@ NPC_TAINTED_ELEMENTAL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:70</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a3e86a134c9ef39c8edc4cef62e810388"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3e86a134c9ef39c8edc4cef62e810388">GO_SHIELD_GENERATOR1</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR1</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:78</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a3e86a134c9ef39c8edc4cef62e810388"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3e86a134c9ef39c8edc4cef62e810388">GO_SHIELD_GENERATOR1</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR1</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:79</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a5d39a01a3bb26014888771c126b939b4"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a5d39a01a3bb26014888771c126b939b4">NPC_HYDROSS_THE_UNSTABLE</a></div><div class="ttdeci">@ NPC_HYDROSS_THE_UNSTABLE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:51</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a></div><div class="ttdeci">@ GO_LADY_VASHJ_BRIDGE_CONSOLE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:73</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a></div><div class="ttdeci">@ GO_LADY_VASHJ_BRIDGE_CONSOLE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:74</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8">NPC_TOXIC_SPOREBAT</a></div><div class="ttdeci">@ NPC_TOXIC_SPOREBAT</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:71</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a7175e81800523f1b328d9236fe36ee83"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a7175e81800523f1b328d9236fe36ee83">GO_SHIELD_GENERATOR3</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR3</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:80</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a7175e81800523f1b328d9236fe36ee83"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a7175e81800523f1b328d9236fe36ee83">GO_SHIELD_GENERATOR3</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR3</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:81</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a7bcaef0899762035cf33b96886b232fd"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a7bcaef0899762035cf33b96886b232fd">NPC_COILFANG_PRIESTESS</a></div><div class="ttdeci">@ NPC_COILFANG_PRIESTESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:65</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a7c16cf9744557f72e72894b9472e2c3e"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a7c16cf9744557f72e72894b9472e2c3e">NPC_LADY_VASHJ</a></div><div class="ttdeci">@ NPC_LADY_VASHJ</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:56</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a9374e15da3cc6bbccd3533be823ac70a"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a9374e15da3cc6bbccd3533be823ac70a">NPC_LEOTHERAS_THE_BLIND</a></div><div class="ttdeci">@ NPC_LEOTHERAS_THE_BLIND</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:53</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a994c636654fc454ff2ac3ad1bf2feb97"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a994c636654fc454ff2ac3ad1bf2feb97">GO_SHIELD_GENERATOR4</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR4</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:81</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669a994c636654fc454ff2ac3ad1bf2feb97"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a994c636654fc454ff2ac3ad1bf2feb97">GO_SHIELD_GENERATOR4</a></div><div class="ttdeci">@ GO_SHIELD_GENERATOR4</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:82</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669aa9ddbcd9580c375ef8ec7c6d04ff05b2"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669aa9ddbcd9580c375ef8ec7c6d04ff05b2">NPC_FATHOM_LORD_KARATHRESS</a></div><div class="ttdeci">@ NPC_FATHOM_LORD_KARATHRESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:55</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669aac591f904f504e7e510320589afc39a9"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669aac591f904f504e7e510320589afc39a9">NPC_FATHOM_GUARD_TIDALVESS</a></div><div class="ttdeci">@ NPC_FATHOM_GUARD_TIDALVESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:59</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669abc20cf236d0df389516e204d508bb8d2"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abc20cf236d0df389516e204d508bb8d2">NPC_COILFANG_ELITE</a></div><div class="ttdeci">@ NPC_COILFANG_ELITE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:68</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE1</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:74</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE1</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:75</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669addedaab0e715c76265b3dbb7085baa48"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669addedaab0e715c76265b3dbb7085baa48">NPC_SEER_OLUM</a></div><div class="ttdeci">@ NPC_SEER_OLUM</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:62</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669adf6dfb0aecaa966977259b92ad16f17c"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669adf6dfb0aecaa966977259b92ad16f17c">NPC_THE_LURKER_BELOW</a></div><div class="ttdeci">@ NPC_THE_LURKER_BELOW</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:52</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669aed39b0e5254aa2e3dcb06380f2f42726"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669aed39b0e5254aa2e3dcb06380f2f42726">NPC_COILFANG_SHATTERER</a></div><div class="ttdeci">@ NPC_COILFANG_SHATTERER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:64</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69">NPC_COILFANG_STRIDER</a></div><div class="ttdeci">@ NPC_COILFANG_STRIDER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:69</div></div>
-<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c">GO_COILFANG_BRIDGE2</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE2</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:75</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c">GO_COILFANG_BRIDGE2</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE2</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:76</div></div>
+<div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99">NPC_COILFANG_FRENZY</a></div><div class="ttdeci">@ NPC_COILFANG_FRENZY</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:72</div></div>
 <div class="ttc" id="aa02108_html_a2ee1f33d8ee290d833dd84e07c1ff669aff9b96a011ffe2976676c7b4f183fe71"><div class="ttname"><a href="../../d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669aff9b96a011ffe2976676c7b4f183fe71">NPC_FATHOM_GUARD_CARIBDIS</a></div><div class="ttdeci">@ NPC_FATHOM_GUARD_CARIBDIS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:60</div></div>
 </div><!-- fragment -->
 </div>
@@ -1721,18 +1734,23 @@ Functions</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75" name="ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75"></a>SPELL_SUMMON_SERPENTSHRINE_PARASITE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a" name="ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a"></a>SPELL_RAMPART_INFECTION&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006" name="ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006"></a>SPELL_SCALDING_WATER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66" name="ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66"></a>SPELL_FRENZY_WATER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5" name="ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5"></a>SPELL_SERVERSIDE_SUMMON_FRENZY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b" name="ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b"></a>SPELL_SERVERSIDE_FRENZY_WATER_PERIODIC&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75">SPELL_SUMMON_SERPENTSHRINE_PARASITE</a>     = 39045,</div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a">SPELL_RAMPART_INFECTION</a>                 = 39042,</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006">SPELL_SCALDING_WATER</a>                    = 37284,</div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66">SPELL_FRENZY_WATER</a>                      = 37026</div>
-<div class="line"><span class="lineno">   92</span>};</div>
-<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a">SPELL_RAMPART_INFECTION</a></div><div class="ttdeci">@ SPELL_RAMPART_INFECTION</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:89</div></div>
-<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75">SPELL_SUMMON_SERPENTSHRINE_PARASITE</a></div><div class="ttdeci">@ SPELL_SUMMON_SERPENTSHRINE_PARASITE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:88</div></div>
-<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006">SPELL_SCALDING_WATER</a></div><div class="ttdeci">@ SPELL_SCALDING_WATER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:90</div></div>
-<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66">SPELL_FRENZY_WATER</a></div><div class="ttdeci">@ SPELL_FRENZY_WATER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:91</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75">SPELL_SUMMON_SERPENTSHRINE_PARASITE</a>     = 39045,</div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a">SPELL_RAMPART_INFECTION</a>                 = 39042,</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006">SPELL_SCALDING_WATER</a>                    = 37284,</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// SPELL_SERVERSIDE_COILFANG_WATER      = 37025, // Dummy Aura, unused</span></div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5">SPELL_SERVERSIDE_SUMMON_FRENZY</a>          = 37026,</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b">SPELL_SERVERSIDE_FRENZY_WATER_PERIODIC</a>  = 37280</div>
+<div class="line"><span class="lineno">   96</span>};</div>
+<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5">SPELL_SERVERSIDE_SUMMON_FRENZY</a></div><div class="ttdeci">@ SPELL_SERVERSIDE_SUMMON_FRENZY</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:94</div></div>
+<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a">SPELL_RAMPART_INFECTION</a></div><div class="ttdeci">@ SPELL_RAMPART_INFECTION</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:90</div></div>
+<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75">SPELL_SUMMON_SERPENTSHRINE_PARASITE</a></div><div class="ttdeci">@ SPELL_SUMMON_SERPENTSHRINE_PARASITE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:89</div></div>
+<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006">SPELL_SCALDING_WATER</a></div><div class="ttdeci">@ SPELL_SCALDING_WATER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:91</div></div>
+<div class="ttc" id="aa02108_html_ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b"><div class="ttname"><a href="../../d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b">SPELL_SERVERSIDE_FRENZY_WATER_PERIODIC</a></div><div class="ttdeci">@ SPELL_SERVERSIDE_FRENZY_WATER_PERIODIC</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:95</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1762,9 +1780,9 @@ template&lt;class AI , class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
-<div class="line"><span class="lineno">  103</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d8/dd8/a02108.html#a63296120a376040f4f8f15bd9db124c6">SerpentShrineScriptName</a>);</div>
-<div class="line"><span class="lineno">  104</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
+<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d8/dd8/a02108.html#a63296120a376040f4f8f15bd9db124c6">SerpentShrineScriptName</a>);</div>
+<div class="line"><span class="lineno">  110</span>}</div>
 <div class="ttc" id="aa02108_html_a63296120a376040f4f8f15bd9db124c6"><div class="ttname"><a href="../../d8/dd8/a02108.html#a63296120a376040f4f8f15bd9db124c6">SerpentShrineScriptName</a></div><div class="ttdeci">#define SerpentShrineScriptName</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:25</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00025">SerpentShrineScriptName</a>.</p>
@@ -1777,7 +1795,7 @@ template&lt;class AI , class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_22de0d38c781b430619603c756a2179f.html">CoilfangReservoir</a></li><li class="navelem"><a class="el" href="../../dir_5febca738accb9adac72053a7a9a3335.html">SerpentShrine</a></li><li class="navelem"><a class="el" href="../../d8/dd8/a02108.html">serpent_shrine.h</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:14:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 9 2026 21:10:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

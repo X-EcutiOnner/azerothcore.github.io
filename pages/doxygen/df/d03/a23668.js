@@ -1,7 +1,7 @@
 var a23668 =
 [
-    [ "CalcPeriodic", "df/d03/a23668.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "df/d03/a23668.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "df/d03/a23668.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "df/d03/a23668.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "OnApply", "df/d03/a23668.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "df/d03/a23668.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "df/d03/a23668.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "df/d03/a23668.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

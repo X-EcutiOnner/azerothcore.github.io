@@ -1,6 +1,7 @@
 var a20264 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d7/dfd/a20268.html", "d7/dfd/a20268" ],
-    [ "boss_freya_elder_ironbranch", "d2/dcc/a20264.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d2/dcc/a20264.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "boss_freya_lifebinderAI", "d2/dcc/a20264.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "d2/dcc/a20264.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "d2/dcc/a20264.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "d2/dcc/a20264.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

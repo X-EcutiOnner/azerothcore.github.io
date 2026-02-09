@@ -1,6 +1,6 @@
 var a12236 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d6/d91/a12240.html", "d6/d91/a12240" ],
-    [ "boss_high_interrogator_gerstahn", "d8/d99/a12236.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "d8/d99/a12236.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "boss_hedrumAI", "d8/d99/a12236.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "d8/d99/a12236.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "d8/d99/a12236.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

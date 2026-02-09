@@ -1,6 +1,6 @@
 var a15052 =
 [
-    [ "npc_crate_helperAI", "d3/d5a/a15052.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d3/d5a/a15052.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d3/d5a/a15052.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "npc_crate_helperAI", "df/d5c/a15056.html", "df/d5c/a15056" ],
+    [ "npc_crate_helper", "d3/d5a/a15052.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d3/d5a/a15052.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

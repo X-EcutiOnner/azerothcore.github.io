@@ -1,8 +1,6 @@
 var a20400 =
 [
-    [ "npc_ulduar_flash_freezeAI", "de/d96/a20400.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "de/d96/a20400.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "de/d96/a20400.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "de/d96/a20400.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "de/d96/a20400.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "npc_ulduar_hodir_druidAI", "d8/dd9/a20404.html", "d8/dd9/a20404" ],
+    [ "npc_ulduar_hodir_druid", "de/d96/a20400.html#a07809d61d55756a847467043b0e90989", null ],
+    [ "GetAI", "de/d96/a20400.html#a4b0503e20bf8caddf0ea544a88124263", null ]
 ];

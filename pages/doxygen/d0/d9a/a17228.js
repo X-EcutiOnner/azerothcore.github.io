@@ -1,8 +1,7 @@
 var a17228 =
 [
-    [ "npc_hor_raging_ghoulAI", "d0/d9a/a17228.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "d0/d9a/a17228.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "d0/d9a/a17228.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "d0/d9a/a17228.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "d0/d9a/a17228.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "HandleEffectPeriodic", "d0/d9a/a17228.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d0/d9a/a17228.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d0/d9a/a17228.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d0/d9a/a17228.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

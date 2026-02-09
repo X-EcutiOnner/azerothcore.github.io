@@ -1,14 +1,13 @@
 var a13028 =
 [
-    [ "boss_strawman", "df/d85/a13028.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "df/d85/a13028.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "df/d85/a13028.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "df/d85/a13028.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "df/d85/a13028.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "df/d85/a13028.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "df/d85/a13028.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "df/d85/a13028.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "df/d85/a13028.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "df/d85/a13028.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "df/d85/a13028.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "boss_roar", "df/d85/a13028.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "df/d85/a13028.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "df/d85/a13028.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "df/d85/a13028.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "df/d85/a13028.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "df/d85/a13028.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "df/d85/a13028.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "df/d85/a13028.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "df/d85/a13028.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "df/d85/a13028.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

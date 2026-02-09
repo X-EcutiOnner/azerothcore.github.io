@@ -1,6 +1,6 @@
 var a16616 =
 [
-    [ "HideNpcEvent", "d0/d29/a16616.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d0/d29/a16616.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d0/d29/a16616.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_frost_sphereAI", "d9/d93/a16620.html", "d9/d93/a16620" ],
+    [ "npc_frost_sphere", "d0/d29/a16616.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d0/d29/a16616.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

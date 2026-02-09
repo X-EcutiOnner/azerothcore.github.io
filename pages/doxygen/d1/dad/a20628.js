@@ -1,6 +1,11 @@
 var a20628 =
 [
-    [ "npc_ulduar_vx001AI", "d2/dad/a20632.html", "d2/dad/a20632" ],
-    [ "npc_ulduar_vx001", "d1/dad/a20628.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "d1/dad/a20628.html#acdab817141b851deb09861230323ee58", null ]
+    [ "npc_ulduar_proximity_mineAI", "d1/dad/a20628.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "d1/dad/a20628.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "d1/dad/a20628.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "d1/dad/a20628.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "UpdateAI", "d1/dad/a20628.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "d1/dad/a20628.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "d1/dad/a20628.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "d1/dad/a20628.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

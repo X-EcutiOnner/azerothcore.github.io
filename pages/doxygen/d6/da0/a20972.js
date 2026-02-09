@@ -1,6 +1,5 @@
 var a20972 =
 [
-    [ "PrepareSpellScript", "d6/da0/a20972.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d6/da0/a20972.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d6/da0/a20972.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "achievement_xt002_nerf_engineering", "d6/da0/a20972.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d6/da0/a20972.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

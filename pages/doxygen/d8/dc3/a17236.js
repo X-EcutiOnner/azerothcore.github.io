@@ -1,9 +1,5 @@
 var a17236 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d8/dc3/a17236.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d8/dc3/a17236.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d8/dc3/a17236.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d8/dc3/a17236.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d8/dc3/a17236.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d8/dc3/a17236.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "at_hor_battered_hilt_throw", "d8/dc3/a17236.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d8/dc3/a17236.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

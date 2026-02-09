@@ -1,9 +1,7 @@
 var a21908 =
 [
-    [ "npc_minigob_manabonk", "d1/d75/a21908.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d1/d75/a21908.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d1/d75/a21908.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d1/d75/a21908.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d1/d75/a21908.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d1/d75/a21908.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_cosmetic_toy_plane", "d1/d75/a21908.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d1/d75/a21908.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d1/d75/a21908.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d1/d75/a21908.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

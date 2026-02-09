@@ -1,12 +1,15 @@
 var a19248 =
 [
-    [ "boss_faerlinaAI", "dc/d1b/a19248.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "dc/d1b/a19248.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "dc/d1b/a19248.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "dc/d1b/a19248.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "dc/d1b/a19248.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "dc/d1b/a19248.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "dc/d1b/a19248.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "dc/d1b/a19248.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "dc/d1b/a19248.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "boss_gluthAI", "dc/d1b/a19248.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "dc/d1b/a19248.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "dc/d1b/a19248.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "dc/d1b/a19248.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "dc/d1b/a19248.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "dc/d1b/a19248.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "dc/d1b/a19248.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "dc/d1b/a19248.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "dc/d1b/a19248.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "dc/d1b/a19248.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "dc/d1b/a19248.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "summons", "dc/d1b/a19248.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

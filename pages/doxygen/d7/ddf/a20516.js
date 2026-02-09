@@ -1,12 +1,9 @@
 var a20516 =
 [
-    [ "npc_ulduar_iron_constructAI", "d7/ddf/a20516.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "d7/ddf/a20516.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "d7/ddf/a20516.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "d7/ddf/a20516.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "d7/ddf/a20516.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "d7/ddf/a20516.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "d7/ddf/a20516.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "d7/ddf/a20516.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "d7/ddf/a20516.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "HandleEffectPeriodic", "d7/ddf/a20516.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d7/ddf/a20516.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d7/ddf/a20516.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d7/ddf/a20516.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d7/ddf/a20516.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d7/ddf/a20516.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

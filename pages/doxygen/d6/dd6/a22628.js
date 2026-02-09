@@ -1,6 +1,9 @@
 var a22628 =
 [
-    [ "HandlePeriodicDummy", "d6/dd6/a22628.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d6/dd6/a22628.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d6/dd6/a22628.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_finklesteinAI", "da/d0b/a22632.html", "da/d0b/a22632" ],
+    [ "npc_finklestein", "d6/dd6/a22628.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d6/dd6/a22628.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d6/dd6/a22628.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d6/dd6/a22628.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d6/dd6/a22628.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

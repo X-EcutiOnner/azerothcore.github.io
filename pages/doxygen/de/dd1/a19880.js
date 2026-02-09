@@ -1,6 +1,6 @@
 var a19880 =
 [
-    [ "boss_algalon_the_observerAI", "d9/df6/a19884.html", "d9/df6/a19884" ],
-    [ "boss_algalon_the_observer", "de/dd1/a19880.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "de/dd1/a19880.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "npc_collapsing_starAI", "de/dd1/a19880.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "de/dd1/a19880.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "de/dd1/a19880.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

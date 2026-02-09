@@ -1,12 +1,7 @@
 var a13976 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dc/d4c/a13976.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "dc/d4c/a13976.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "dc/d4c/a13976.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "dc/d4c/a13976.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "dc/d4c/a13976.html#a10ecf7bf7551be186e1c00390eaad203", null ],
-    [ "UpdateAI", "dc/d4c/a13976.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "dc/d4c/a13976.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "dc/d4c/a13976.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "dc/d4c/a13976.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dd/dc7/a13980.html", "dd/dc7/a13980" ],
+    [ "npc_lady_sylvanas_windrunner", "dc/d4c/a13976.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "dc/d4c/a13976.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "dc/d4c/a13976.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

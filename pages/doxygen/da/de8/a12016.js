@@ -1,5 +1,6 @@
 var a12016 =
 [
-    [ "Chance", "da/de8/a12016.html#a20ae19fc80deceb81adccb91b341fb82", null ],
-    [ "Entry", "da/de8/a12016.html#ae8b951678ec65907370ffe700cd668c8", null ]
+    [ "player_settings_commandscript", "da/de8/a12016.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "da/de8/a12016.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "da/de8/a12016.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

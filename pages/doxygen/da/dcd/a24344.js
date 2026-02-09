@@ -1,7 +1,6 @@
 var a24344 =
 [
-    [ "CheckRequirement", "da/dcd/a24344.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "da/dcd/a24344.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "da/dcd/a24344.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "da/dcd/a24344.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_infernal_attackerAI", "d5/d66/a24348.html", "d5/d66/a24348" ],
+    [ "npc_infernal_attacker", "da/dcd/a24344.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "da/dcd/a24344.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

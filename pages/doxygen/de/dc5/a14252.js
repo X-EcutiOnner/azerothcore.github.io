@@ -1,6 +1,8 @@
 var a14252 =
 [
-    [ "boss_hakkarAI", "d2/d5a/a14256.html", "d2/d5a/a14256" ],
-    [ "boss_hakkar", "de/dc5/a14252.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "de/dc5/a14252.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "boss_grilekAI", "de/dc5/a14252.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "de/dc5/a14252.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "de/dc5/a14252.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "de/dc5/a14252.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "de/dc5/a14252.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

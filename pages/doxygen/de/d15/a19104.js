@@ -1,13 +1,12 @@
 var a19104 =
 [
-    [ "npc_icc_spire_frostwyrm", "de/d15/a19104.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "de/d15/a19104.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "de/d15/a19104.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "de/d15/a19104.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "de/d15/a19104.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "de/d15/a19104.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "de/d15/a19104.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "de/d15/a19104.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "de/d15/a19104.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "de/d15/a19104.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "de/d15/a19104.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "de/d15/a19104.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "de/d15/a19104.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "de/d15/a19104.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "de/d15/a19104.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "de/d15/a19104.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "de/d15/a19104.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "de/d15/a19104.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "de/d15/a19104.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

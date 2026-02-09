@@ -1,7 +1,9 @@
 var a21772 =
 [
-    [ "npc_bonker_togglevoltAI", "d1/d0f/a21776.html", "d1/d0f/a21776" ],
-    [ "npc_bonker_togglevolt", "d8/d57/a21772.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "d8/d57/a21772.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "d8/d57/a21772.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_warmage_coldarraAI", "d8/d57/a21772.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d8/d57/a21772.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d8/d57/a21772.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d8/d57/a21772.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d8/d57/a21772.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d8/d57/a21772.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

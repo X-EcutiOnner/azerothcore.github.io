@@ -1,6 +1,7 @@
 var a20560 =
 [
-    [ "boss_kologarn_eyebeamAI", "df/d1c/a20564.html", "df/d1c/a20564" ],
-    [ "boss_kologarn_eyebeam", "d8/d9b/a20560.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
-    [ "GetAI", "d8/d9b/a20560.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
+    [ "FilterTargetsInitial", "d8/d9b/a20560.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d8/d9b/a20560.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d8/d9b/a20560.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d8/d9b/a20560.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

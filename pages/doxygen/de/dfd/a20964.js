@@ -1,7 +1,6 @@
 var a20964 =
 [
-    [ "npc_xt002_life_sparkAI", "de/dfd/a20964.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "de/dfd/a20964.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "de/dfd/a20964.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "de/dfd/a20964.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "PrepareSpellScript", "de/dfd/a20964.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "de/dfd/a20964.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "de/dfd/a20964.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

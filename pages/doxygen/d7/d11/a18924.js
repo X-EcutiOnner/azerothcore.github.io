@@ -1,6 +1,6 @@
 var a18924 =
 [
-    [ "npc_captain_brandonAI", "d7/d11/a18924.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d7/d11/a18924.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d7/d11/a18924.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_frostwing_vrykulAI", "d0/d05/a18928.html", "d0/d05/a18928" ],
+    [ "npc_frostwing_vrykul", "d7/d11/a18924.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d7/d11/a18924.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

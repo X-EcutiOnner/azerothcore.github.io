@@ -1,6 +1,6 @@
 var a20652 =
 [
-    [ "HandleDamage", "d9/d02/a20652.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "d9/d02/a20652.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "d9/d02/a20652.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "dd/da2/a20656.html", "dd/da2/a20656" ],
+    [ "npc_ulduar_bot_summon_trigger", "d9/d02/a20652.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
+    [ "GetAI", "d9/d02/a20652.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
 ];

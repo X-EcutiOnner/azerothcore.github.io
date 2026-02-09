@@ -1,7 +1,6 @@
 var a19860 =
 [
-    [ "HandleEffectRemove", "d2/d19/a19860.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d2/d19/a19860.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d2/d19/a19860.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d2/d19/a19860.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "boss_algalon_the_observerAI", "db/d62/a19864.html", "db/d62/a19864" ],
+    [ "boss_algalon_the_observer", "d2/d19/a19860.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "d2/d19/a19860.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

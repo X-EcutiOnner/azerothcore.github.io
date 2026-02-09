@@ -1,7 +1,6 @@
 var a25112 =
 [
-    [ "CheckProc", "d7/d8d/a25112.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "d7/d8d/a25112.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "d7/d8d/a25112.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "d7/d8d/a25112.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "CheckLevel", "d7/d8d/a25112.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d7/d8d/a25112.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d7/d8d/a25112.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

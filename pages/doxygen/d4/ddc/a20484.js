@@ -1,6 +1,5 @@
 var a20484 =
 [
-    [ "HandleAfterEffectApply", "d4/ddc/a20484.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d4/ddc/a20484.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d4/ddc/a20484.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "achievement_staying_buffed_all_winter_10", "d4/ddc/a20484.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "d4/ddc/a20484.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

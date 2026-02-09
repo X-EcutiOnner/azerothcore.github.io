@@ -1,6 +1,8 @@
 var a21628 =
 [
-    [ "npc_azure_invaderAI", "d8/d69/a21632.html", "d8/d69/a21632" ],
-    [ "npc_azure_invader", "d3/df3/a21628.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "d3/df3/a21628.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "npc_azure_mage_slayerAI", "d3/df3/a21628.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d3/df3/a21628.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d3/df3/a21628.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d3/df3/a21628.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d3/df3/a21628.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

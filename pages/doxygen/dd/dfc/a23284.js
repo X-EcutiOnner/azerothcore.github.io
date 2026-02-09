@@ -1,6 +1,5 @@
 var a23284 =
 [
-    [ "HandleScriptEffect", "dd/dfc/a23284.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "dd/dfc/a23284.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "dd/dfc/a23284.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "PrepareSpellScript", "dd/dfc/a23284.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "dd/dfc/a23284.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

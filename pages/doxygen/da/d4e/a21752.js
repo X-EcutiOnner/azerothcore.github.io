@@ -1,7 +1,7 @@
 var a21752 =
 [
-    [ "HandleScriptEffect", "da/d4e/a21752.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "da/d4e/a21752.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "da/d4e/a21752.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "da/d4e/a21752.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_bonker_togglevoltAI", "d5/df5/a21756.html", "d5/df5/a21756" ],
+    [ "npc_bonker_togglevolt", "da/d4e/a21752.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "da/d4e/a21752.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "da/d4e/a21752.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

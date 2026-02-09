@@ -1,7 +1,17 @@
 var a28532 =
 [
-    [ "AllocationPct", "dd/d4e/a28532.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "dd/d4e/a28532.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "dd/d4e/a28532.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "dd/d4e/a28532.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "Entry", "dd/d4e/a28532.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "dd/d4e/a28532.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "dd/d4e/a28532.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "dd/d4e/a28532.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "dd/d4e/a28532.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "dd/d4e/a28532.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "dd/d4e/a28532.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "dd/d4e/a28532.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "dd/d4e/a28532.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "dd/d4e/a28532.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "dd/d4e/a28532.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "dd/d4e/a28532.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "dd/d4e/a28532.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "dd/d4e/a28532.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

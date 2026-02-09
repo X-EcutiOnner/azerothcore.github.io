@@ -1,7 +1,6 @@
 var a17596 =
 [
-    [ "HandleDummyTick", "d8/d42/a17596.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "d8/d42/a17596.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "d8/d42/a17596.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "d8/d42/a17596.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "ChangeSummonPos", "d8/d42/a17596.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d8/d42/a17596.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d8/d42/a17596.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

@@ -1,6 +1,10 @@
 var a12840 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d6/d3a/a12844.html", "d6/d3a/a12844" ],
-    [ "instance_gnomeregan", "de/d49/a12840.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "de/d49/a12840.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "instance_deadmines_InstanceMapScript", "de/d49/a12840.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "de/d49/a12840.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "de/d49/a12840.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "de/d49/a12840.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "de/d49/a12840.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "de/d49/a12840.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "de/d49/a12840.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

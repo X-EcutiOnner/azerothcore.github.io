@@ -1,5 +1,6 @@
 var a22252 =
 [
-    [ "npc_black_knight_graveyardAI", "dd/dbc/a22252.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "dd/dbc/a22252.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "npc_lord_areteAI", "da/da1/a22256.html", "da/da1/a22256" ],
+    [ "npc_lord_arete", "dd/dbc/a22252.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "dd/dbc/a22252.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

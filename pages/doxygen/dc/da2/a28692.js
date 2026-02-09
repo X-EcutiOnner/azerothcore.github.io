@@ -1,9 +1,7 @@
 var a28692 =
 [
-    [ "Category", "dc/da2/a28692.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "dc/da2/a28692.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "dc/da2/a28692.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "dc/da2/a28692.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "dc/da2/a28692.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "dc/da2/a28692.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "ClassMask", "dc/da2/a28692.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "dc/da2/a28692.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "dc/da2/a28692.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "dc/da2/a28692.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

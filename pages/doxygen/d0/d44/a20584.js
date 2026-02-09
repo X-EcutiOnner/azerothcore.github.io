@@ -1,6 +1,5 @@
 var a20584 =
 [
-    [ "OnRemoveStun", "d0/d44/a20584.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d0/d44/a20584.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d0/d44/a20584.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d0/d44/a20584.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d0/d44/a20584.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

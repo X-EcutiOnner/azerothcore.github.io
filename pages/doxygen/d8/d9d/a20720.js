@@ -1,5 +1,6 @@
 var a20720 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d8/d9d/a20720.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "d8/d9d/a20720.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "boss_razorscaleAI", "d4/d3b/a20724.html", "d4/d3b/a20724" ],
+    [ "boss_razorscale", "d8/d9d/a20720.html#ad8fe81f1b553414df3fa07c646029065", null ],
+    [ "GetAI", "d8/d9d/a20720.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
 ];

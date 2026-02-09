@@ -1,9 +1,8 @@
 var a18812 =
 [
-    [ "npc_gluttonous_abominationAI", "de/d0b/a18812.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "de/d0b/a18812.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "de/d0b/a18812.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "de/d0b/a18812.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "de/d0b/a18812.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "de/d0b/a18812.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "DecayPeriodicTimer", "de/d0b/a18812.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "de/d0b/a18812.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "de/d0b/a18812.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "de/d0b/a18812.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "de/d0b/a18812.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

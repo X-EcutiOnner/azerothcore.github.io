@@ -1,10 +1,9 @@
 var a27788 =
 [
-    [ "npc_training_dummyAI", "d5/d19/a27788.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d5/d19/a27788.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d5/d19/a27788.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d5/d19/a27788.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d5/d19/a27788.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d5/d19/a27788.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d5/d19/a27788.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_target_dummyAI", "d5/d19/a27788.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "d5/d19/a27788.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "d5/d19/a27788.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "d5/d19/a27788.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "d5/d19/a27788.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "d5/d19/a27788.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

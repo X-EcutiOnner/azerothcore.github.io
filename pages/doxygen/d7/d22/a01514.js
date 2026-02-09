@@ -1,7 +1,7 @@
 var a01514 =
 [
-    [ "ScriptPointMove", "d8/d22/a10536.html", "d8/d22/a10536" ],
-    [ "SystemMgr", "d4/d24/a10540.html", "d4/d24/a10540" ],
+    [ "ScriptPointMove", "d4/d24/a10540.html", "d4/d24/a10540" ],
+    [ "SystemMgr", "db/d25/a10544.html", "db/d25/a10544" ],
     [ "sScriptSystemMgr", "d7/d22/a01514.html#a95cfdf568913b08b669f19b401f888a7", null ],
     [ "TEXT_SOURCE_RANGE", "d7/d22/a01514.html#a55d384db121a9bd513042ebdeb40e602", null ],
     [ "ScriptPointVector", "d7/d22/a01514.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],

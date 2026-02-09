@@ -1,7 +1,6 @@
 var a18264 =
 [
-    [ "HandleScript", "df/dfa/a18264.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "df/dfa/a18264.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "df/dfa/a18264.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "df/dfa/a18264.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "DespawnSelf", "df/dfa/a18264.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "df/dfa/a18264.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "df/dfa/a18264.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

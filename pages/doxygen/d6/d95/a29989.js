@@ -1,13 +1,7 @@
 var a29989 =
 [
-    [ "ConfigPolicy", "df/d18/a05168.html", "df/d18/a05168" ],
-    [ "ConfigMgr", "d8/de4/a05172.html", "d8/de4/a05172" ],
-    [ "ConfigException", "d3/dd2/a05176.html", "d3/dd2/a05176" ],
-    [ "sConfigMgr", "d6/d95/a29989.html#a7236988e98bdd405bf435a029b70a26f", null ],
-    [ "ConfigSeverity", "d6/d95/a29989.html#a05eaca858744a1f9f0e309e7867383e3", [
-      [ "Skip", "d6/d95/a29989.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
-      [ "Warn", "d6/d95/a29989.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
-      [ "Error", "d6/d95/a29989.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
-      [ "Fatal", "d6/d95/a29989.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
-    ] ]
+    [ "MPQArchive", "dc/dd1/a28980.html", "dc/dd1/a28980" ],
+    [ "MPQFile", "dc/d0c/a28984.html", "dc/d0c/a28984" ],
+    [ "ArchiveSet", "d6/d95/a29989.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d6/d95/a29989.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

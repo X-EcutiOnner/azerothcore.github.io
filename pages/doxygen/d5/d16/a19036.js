@@ -1,7 +1,9 @@
 var a19036 =
 [
-    [ "HandleEffectPeriodic", "d5/d16/a19036.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d5/d16/a19036.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d5/d16/a19036.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d5/d16/a19036.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d5/d16/a19036.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "d5/d16/a19036.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "d5/d16/a19036.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "d5/d16/a19036.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "d5/d16/a19036.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "d5/d16/a19036.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

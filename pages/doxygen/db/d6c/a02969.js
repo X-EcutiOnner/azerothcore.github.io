@@ -1,9 +1,9 @@
 var a02969 =
 [
-    [ "boss_moorabi", "d4/d25/a17492.html", "d4/d25/a17492" ],
-    [ "boss_moorabi::boss_moorabiAI", "df/d9d/a17496.html", "df/d9d/a17496" ],
-    [ "spell_moorabi_mojo_frenzy_aura", "df/d2e/a17500.html", "df/d2e/a17500" ],
-    [ "achievement_less_rabi", "da/d4b/a17504.html", "da/d4b/a17504" ],
+    [ "boss_moorabi", "df/dca/a17472.html", "df/dca/a17472" ],
+    [ "boss_moorabi::boss_moorabiAI", "d1/dd0/a17476.html", "d1/dd0/a17476" ],
+    [ "spell_moorabi_mojo_frenzy_aura", "d9/d40/a17480.html", "d9/d40/a17480" ],
+    [ "achievement_less_rabi", "d6/d14/a17484.html", "d6/d14/a17484" ],
     [ "eSays", "db/d6c/a02969.html#a488e6db208f9fcca6f7a9b61d4ffad11", [
       [ "SAY_AGGRO", "db/d6c/a02969.html#a488e6db208f9fcca6f7a9b61d4ffad11a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SLAY", "db/d6c/a02969.html#a488e6db208f9fcca6f7a9b61d4ffad11a9e64f6e600dd42567d18006912811f75", null ],

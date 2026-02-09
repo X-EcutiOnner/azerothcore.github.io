@@ -1,6 +1,6 @@
 var a16920 =
 [
-    [ "HandleEffectPeriodic", "dc/dcf/a16920.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "dc/dcf/a16920.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "dc/dcf/a16920.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "boss_dredAI", "d2/d97/a16924.html", "d2/d97/a16924" ],
+    [ "boss_dred", "dc/dcf/a16920.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "dc/dcf/a16920.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

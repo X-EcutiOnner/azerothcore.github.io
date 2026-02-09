@@ -1,6 +1,6 @@
 var a18600 =
 [
-    [ "ModDest", "d7/d8f/a18600.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d7/d8f/a18600.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d7/d8f/a18600.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "ModDestHeight", "d7/d8f/a18600.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d7/d8f/a18600.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d7/d8f/a18600.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

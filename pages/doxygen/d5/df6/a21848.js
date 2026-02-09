@@ -1,6 +1,6 @@
 var a21848 =
 [
-    [ "PrepareSpellScript", "d5/df6/a21848.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d5/df6/a21848.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d5/df6/a21848.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/df7/a21852.html", "d9/df7/a21852" ],
+    [ "npc_steam_powered_auctioneer", "d5/df6/a21848.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d5/df6/a21848.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

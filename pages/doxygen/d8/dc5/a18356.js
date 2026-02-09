@@ -1,7 +1,6 @@
 var a18356 =
 [
-    [ "PeriodicTick", "d8/dc5/a18356.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "d8/dc5/a18356.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "d8/dc5/a18356.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "d8/dc5/a18356.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "MysticBuffetTargetFilter", "d8/dc5/a18356.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "d8/dc5/a18356.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "d8/dc5/a18356.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

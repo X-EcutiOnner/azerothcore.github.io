@@ -1,6 +1,5 @@
 var a27448 =
 [
-    [ "go_witherbark_totem_bundleAI", "d1/dd4/a27452.html", "d1/dd4/a27452" ],
-    [ "go_witherbark_totem_bundle", "d4/daf/a27448.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d4/daf/a27448.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "go_arena_ready_marker", "d4/daf/a27448.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d4/daf/a27448.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

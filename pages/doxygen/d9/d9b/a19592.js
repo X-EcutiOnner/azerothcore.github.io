@@ -1,7 +1,12 @@
 var a19592 =
 [
-    [ "HandlePull", "d9/d9b/a19592.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d9/d9b/a19592.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d9/d9b/a19592.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d9/d9b/a19592.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/d9b/a19592.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d9/d9b/a19592.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d9/d9b/a19592.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d9/d9b/a19592.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d9/d9b/a19592.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d9/d9b/a19592.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d9/d9b/a19592.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d9/d9b/a19592.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d9/d9b/a19592.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

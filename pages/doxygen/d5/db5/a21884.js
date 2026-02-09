@@ -1,8 +1,9 @@
 var a21884 =
 [
-    [ "npc_shandy_dalaranAI", "da/da0/a21888.html", "da/da0/a21888" ],
-    [ "npc_shandy_dalaran", "d5/db5/a21884.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d5/db5/a21884.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d5/db5/a21884.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d5/db5/a21884.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_mageguard_dalaranAI", "d5/db5/a21884.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d5/db5/a21884.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d5/db5/a21884.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d5/db5/a21884.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d5/db5/a21884.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d5/db5/a21884.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

@@ -1,10 +1,15 @@
 var a17456 =
 [
-    [ "npc_living_mojoAI", "da/d12/a17456.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "da/d12/a17456.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "da/d12/a17456.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "da/d12/a17456.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "da/d12/a17456.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "da/d12/a17456.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "da/d12/a17456.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "boss_gal_darah", "da/d12/a17456.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
+    [ "GetData", "da/d12/a17456.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
+    [ "JustDied", "da/d12/a17456.html#a98f53f7131155114da1eeb19f5a50daa", null ],
+    [ "JustEngagedWith", "da/d12/a17456.html#acf7696bdfa868808f29a90dbec4b0688", null ],
+    [ "JustReachedHome", "da/d12/a17456.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
+    [ "JustSummoned", "da/d12/a17456.html#a490e259cf452c417864c978510d06fd2", null ],
+    [ "KilledUnit", "da/d12/a17456.html#a799e52cfe029164149017ea7f963937f", null ],
+    [ "Reset", "da/d12/a17456.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
+    [ "ScheduleEvents", "da/d12/a17456.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
+    [ "SpellHit", "da/d12/a17456.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
+    [ "_stampedeVictim", "da/d12/a17456.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
+    [ "impaledList", "da/d12/a17456.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
 ];

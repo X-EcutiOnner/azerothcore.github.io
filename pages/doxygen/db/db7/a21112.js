@@ -1,6 +1,10 @@
 var a21112 =
 [
-    [ "boss_yoggsaron_llaneAI", "dc/d42/a21116.html", "dc/d42/a21116" ],
-    [ "boss_yoggsaron_llane", "db/db7/a21112.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "db/db7/a21112.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "boss_yoggsaron_voiceAI", "db/db7/a21112.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "db/db7/a21112.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "db/db7/a21112.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "db/db7/a21112.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "db/db7/a21112.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "db/db7/a21112.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "db/db7/a21112.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

@@ -1,7 +1,6 @@
 var a18088 =
 [
-    [ "HandleScriptEffect", "de/d93/a18088.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "de/d93/a18088.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "de/d93/a18088.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "de/d93/a18088.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "AbominationDespawner", "de/d93/a18088.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "de/d93/a18088.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "de/d93/a18088.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

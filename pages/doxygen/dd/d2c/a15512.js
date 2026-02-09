@@ -1,13 +1,6 @@
 var a15512 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "dd/d2c/a15512.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "dd/d2c/a15512.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "dd/d2c/a15512.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "dd/d2c/a15512.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "dd/d2c/a15512.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "dd/d2c/a15512.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "dd/d2c/a15512.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "dd/d2c/a15512.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "dd/d2c/a15512.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "dd/d2c/a15512.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "de/d96/a15516.html", "de/d96/a15516" ],
+    [ "instance_temple_of_ahnqiraj", "dd/d2c/a15512.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "dd/d2c/a15512.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

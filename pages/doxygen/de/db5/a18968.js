@@ -1,8 +1,7 @@
 var a18968 =
 [
-    [ "npc_arthas_teleport_visualAI", "de/db5/a18968.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "de/db5/a18968.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "de/db5/a18968.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "de/db5/a18968.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "de/db5/a18968.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "HandleQuestComplete", "de/db5/a18968.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "de/db5/a18968.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "de/db5/a18968.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "de/db5/a18968.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

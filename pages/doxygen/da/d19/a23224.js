@@ -1,7 +1,6 @@
 var a23224 =
 [
-    [ "HandleOnHit", "da/d19/a23224.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "da/d19/a23224.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "da/d19/a23224.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "da/d19/a23224.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "instance_black_temple_InstanceMapScript", "df/db9/a23228.html", "df/db9/a23228" ],
+    [ "instance_black_temple", "da/d19/a23224.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "da/d19/a23224.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

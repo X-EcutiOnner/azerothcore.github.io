@@ -1,7 +1,8 @@
 var a20152 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "dd/d4f/a20152.html#ab9191e20df488df184c468ca1ac41084", null ],
-    [ "MovementInform", "dd/d4f/a20152.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
-    [ "UpdateAI", "dd/d4f/a20152.html#a77b3a493c5650d91c903879db324651d", null ],
-    [ "_allowTimer", "dd/d4f/a20152.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
+    [ "FilterTargets", "dd/d4f/a20152.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "dd/d4f/a20152.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "dd/d4f/a20152.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "dd/d4f/a20152.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "dd/d4f/a20152.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

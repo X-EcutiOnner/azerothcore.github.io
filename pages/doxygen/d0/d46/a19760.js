@@ -1,12 +1,8 @@
 var a19760 =
 [
-    [ "boss_loken", "d0/d46/a19760.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d0/d46/a19760.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d0/d46/a19760.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d0/d46/a19760.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d0/d46/a19760.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d0/d46/a19760.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d0/d46/a19760.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d0/d46/a19760.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d0/d46/a19760.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d0/d46/a19760.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d0/d46/a19760.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d0/d46/a19760.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d0/d46/a19760.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d0/d46/a19760.html#a52db8081961566ef2002424f00b60189", null ]
 ];

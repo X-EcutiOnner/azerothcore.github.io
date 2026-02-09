@@ -1,7 +1,4 @@
 var a18840 =
 [
-    [ "PeriodicTick", "d3/dc9/a18840.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d3/dc9/a18840.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d3/dc9/a18840.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d3/dc9/a18840.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "operator()", "d3/dc9/a18840.html#ac13ad1cce91fa28dc81250672c125490", null ]
 ];

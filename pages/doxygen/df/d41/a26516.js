@@ -1,7 +1,6 @@
 var a26516 =
 [
-    [ "HandleApplyEffect", "df/d41/a26516.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "df/d41/a26516.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "df/d41/a26516.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "df/d41/a26516.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "HandleDummyEffect", "df/d41/a26516.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "df/d41/a26516.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "df/d41/a26516.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

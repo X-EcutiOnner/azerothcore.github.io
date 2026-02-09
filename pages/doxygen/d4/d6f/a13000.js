@@ -1,9 +1,6 @@
 var a13000 =
 [
-    [ "go_blood_drenched_doorAI", "d4/d6f/a13000.html#af431fff2778278cbd3e27b3906201373", null ],
-    [ "GossipHello", "d4/d6f/a13000.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
-    [ "UpdateAI", "d4/d6f/a13000.html#a644ac9ce05242714d1b87150852539f3", null ],
-    [ "events", "d4/d6f/a13000.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
-    [ "mirkblood", "d4/d6f/a13000.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
-    [ "opener", "d4/d6f/a13000.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
+    [ "go_blood_drenched_doorAI", "de/d59/a13004.html", "de/d59/a13004" ],
+    [ "go_blood_drenched_door", "d4/d6f/a13000.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "d4/d6f/a13000.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

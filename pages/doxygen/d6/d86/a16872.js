@@ -1,4 +1,5 @@
 var a16872 =
 [
-    [ "boss_dreadscaleAI", "d6/d86/a16872.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
+    [ "boss_eydisAI", "d6/d86/a16872.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "d6/d86/a16872.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

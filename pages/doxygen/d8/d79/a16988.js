@@ -1,6 +1,7 @@
 var a16988 =
 [
-    [ "OnPeriodic", "d8/d79/a16988.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d8/d79/a16988.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d8/d79/a16988.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "HandleScriptEffect", "d8/d79/a16988.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d8/d79/a16988.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d8/d79/a16988.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d8/d79/a16988.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

@@ -1,19 +1,11 @@
 var a16244 =
 [
-    [ "boss_sartharion_dragonAI", "dc/d9d/a16244.html#afffee05f402a1960232c7920beb9beb9", null ],
-    [ "ClearInstance", "dc/d9d/a16244.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
-    [ "DoAction", "dc/d9d/a16244.html#aeb49e63300a317f0e969159266fd8ea1", null ],
-    [ "HandleExtraEvent", "dc/d9d/a16244.html#a406b4d5957efb872de3bff5c8012de2a", null ],
-    [ "JustDied", "dc/d9d/a16244.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
-    [ "JustEngagedWith", "dc/d9d/a16244.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
-    [ "JustSummoned", "dc/d9d/a16244.html#a16582179f25ddc130f97bb70fe80316f", null ],
-    [ "KilledUnit", "dc/d9d/a16244.html#a09428ec63c8589a527accf8b024f6666", null ],
-    [ "MoveInLineOfSight", "dc/d9d/a16244.html#a75cd7f27019e4013adde104e7663e5bc", null ],
-    [ "MovementInform", "dc/d9d/a16244.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
-    [ "RemoveTwilightPortal", "dc/d9d/a16244.html#a26aff742f99b04bfaf56fa46158ce306", null ],
-    [ "Reset", "dc/d9d/a16244.html#a86acfe30f898bd6b709c4743ae808867", null ],
-    [ "UpdateAI", "dc/d9d/a16244.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "extraEvents", "dc/d9d/a16244.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
-    [ "isCalledBySartharion", "dc/d9d/a16244.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
-    [ "portalGUID", "dc/d9d/a16244.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
+    [ "boss_sartharion_tenebron", "dc/d9d/a16244.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "dc/d9d/a16244.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "dc/d9d/a16244.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "HandleExtraEvent", "dc/d9d/a16244.html#ac92e2cfea431b520e37109052130e60d", null ],
+    [ "JustDied", "dc/d9d/a16244.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "dc/d9d/a16244.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "dc/d9d/a16244.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "dc/d9d/a16244.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

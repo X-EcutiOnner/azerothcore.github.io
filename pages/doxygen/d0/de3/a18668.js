@@ -1,7 +1,6 @@
 var a18668 =
 [
-    [ "HandleProc", "d0/de3/a18668.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d0/de3/a18668.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d0/de3/a18668.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d0/de3/a18668.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_lk_spirit_bombAI", "d2/d36/a18672.html", "d2/d36/a18672" ],
+    [ "npc_lk_spirit_bomb", "d0/de3/a18668.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d0/de3/a18668.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

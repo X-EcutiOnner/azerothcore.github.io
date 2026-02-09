@@ -3,9 +3,9 @@ var searchData=
   ['bannedaddonlist_0',['BannedAddonList',['../d8/de5/a04867.html#a2ea3deb6be3c64b7b58ed27ccf60c779',1,'AddonMgr']]],
   ['bannedcontainer_1',['BannedContainer',['../d1/d4b/a07576.html#a6d98ed78f66b6e3aff1a0448475d8417',1,'Channel']]],
   ['base_2',['base',['../db/d04/a04992.html#a810cca29867b0864537650c7dc26a270',1,'DynTreeImpl::base()'],['../d1/d83/a07796.html#a72ad0de027b5ed860a45d5aa64c62468',1,'Acore::ChatCommands::Variant::base()']]],
-  ['basesocket_3',['BaseSocket',['../d6/dd0/a11304.html#ae5afe4a13342b05e233b508031c31066',1,'WorldSocket']]],
-  ['basesocketmgr_4',['BaseSocketMgr',['../db/d37/a05748.html#a55ca5c800a783d89fbe05bd945374b84',1,'AuthSocketMgr::BaseSocketMgr()'],['../d6/dfb/a11312.html#a6f9671b94ae64c0c3482e085cb2a252f',1,'WorldSocketMgr::BaseSocketMgr()']]],
-  ['basexpcontainer_5',['BaseXPContainer',['../da/deb/a09136.html#a8bf3b4e7ffff2b0e4e4cc162ca9e01b7',1,'ObjectMgr']]],
+  ['basesocket_3',['BaseSocket',['../d6/d96/a11308.html#ae5afe4a13342b05e233b508031c31066',1,'WorldSocket']]],
+  ['basesocketmgr_4',['BaseSocketMgr',['../db/d37/a05748.html#a55ca5c800a783d89fbe05bd945374b84',1,'AuthSocketMgr::BaseSocketMgr()'],['../d0/d7b/a11316.html#a6f9671b94ae64c0c3482e085cb2a252f',1,'WorldSocketMgr::BaseSocketMgr()']]],
+  ['basexpcontainer_5',['BaseXPContainer',['../dc/dee/a09140.html#a8bf3b4e7ffff2b0e4e4cc162ca9e01b7',1,'ObjectMgr']]],
   ['battlefieldmap_6',['BattlefieldMap',['../de/d9b/a07248.html#aea781a60967fbc877bd1593628cdf32d',1,'BattlefieldMgr']]],
   ['battlefieldset_7',['BattlefieldSet',['../de/d9b/a07248.html#a440a0f37414815a060e23ac6b79ca3c5',1,'BattlefieldMgr']]],
   ['battlegroundclientidscontainer_8',['BattlegroundClientIdsContainer',['../db/d43/a00422.html#aa4d7efc49483e1820c6d759f0f3613f2',1,'BattlegroundMgr.h']]],
@@ -28,6 +28,6 @@ var searchData=
   ['bgzoneref_25',['bgZoneRef',['../d0/d3c/a00971.html#ad02e5b85aad803acf5ec43c31028d07e',1,'Player.h']]],
   ['binary_26',['Binary',['../d8/d9b/a04067.html#a45c2b15f675e85c1f4462be09f27c59e',1,'Field.h']]],
   ['boundinstancesmap_27',['BoundInstancesMap',['../db/d17/a01148.html#aaa779bf09b703eb355cb51ac3481a19e',1,'InstanceSaveMgr.h']]],
-  ['breadcrumbquestmap_28',['BreadcrumbQuestMap',['../da/deb/a09136.html#a5e84b3625de0cb9ec2933cb65301d694',1,'ObjectMgr']]],
+  ['breadcrumbquestmap_28',['BreadcrumbQuestMap',['../dc/dee/a09140.html#a5e84b3625de0cb9ec2933cb65301d694',1,'ObjectMgr']]],
   ['broadcasttextcontainer_29',['BroadcastTextContainer',['../df/dee/a01646.html#aee411527f1beb34609c25acb024deab7',1,'ObjectMgr.h']]]
 ];

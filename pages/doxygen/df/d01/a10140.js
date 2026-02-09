@@ -1,7 +1,5 @@
 var a10140 =
 [
-    [ "WriteCommonMonsterMovePart", "df/d01/a10140.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
-    [ "WriteCreate", "df/d01/a10140.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
-    [ "WriteMonsterMove", "df/d01/a10140.html#a4c4294e3fed32aca35078dd4975b057d", null ],
-    [ "WriteStopMovement", "df/d01/a10140.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "Cost", "df/d01/a10140.html#a6de1eebdd222f71e874a46e5daa354a4", null ],
+    [ "PathIndex", "df/d01/a10140.html#aa5f8bc350f2c5aeac9d5e135c34eb662", null ]
 ];

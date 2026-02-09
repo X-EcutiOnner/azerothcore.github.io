@@ -1,7 +1,7 @@
 var a25364 =
 [
-    [ "HandleScriptEffect", "db/d64/a25364.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
-    [ "PrepareSpellScript", "db/d64/a25364.html#af4320dd6567d8c9cb2a1492095a98459", null ],
-    [ "Register", "db/d64/a25364.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
-    [ "Validate", "db/d64/a25364.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
+    [ "PrepareSpellScript", "db/d64/a25364.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "db/d64/a25364.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "db/d64/a25364.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "db/d64/a25364.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

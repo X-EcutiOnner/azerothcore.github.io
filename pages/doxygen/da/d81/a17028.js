@@ -1,7 +1,8 @@
 var a17028 =
 [
-    [ "HandleEffectRemove", "da/d81/a17028.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "da/d81/a17028.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "da/d81/a17028.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "da/d81/a17028.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "da/d81/a17028.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "da/d81/a17028.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "da/d81/a17028.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "da/d81/a17028.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "da/d81/a17028.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

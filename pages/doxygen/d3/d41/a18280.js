@@ -1,6 +1,7 @@
 var a18280 =
 [
-    [ "CheckTarget", "d3/d41/a18280.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d3/d41/a18280.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d3/d41/a18280.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "FrostBombExplosion", "d3/d41/a18280.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d3/d41/a18280.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d3/d41/a18280.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d3/d41/a18280.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

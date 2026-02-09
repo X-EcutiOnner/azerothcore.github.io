@@ -1,7 +1,6 @@
 var a21204 =
 [
-    [ "HandleProc", "de/d56/a21204.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "de/d56/a21204.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "de/d56/a21204.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "de/d56/a21204.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "instance_ulduar_InstanceMapScript", "d0/d4d/a21208.html", "d0/d4d/a21208" ],
+    [ "instance_ulduar", "de/d56/a21204.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "de/d56/a21204.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

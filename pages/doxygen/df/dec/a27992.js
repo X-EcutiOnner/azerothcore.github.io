@@ -1,4 +1,7 @@
 var a27992 =
 [
-    [ "operator()", "df/dec/a27992.html#a76ede7ef27a41a284821e690c88375c9", null ]
+    [ "HandleDummy", "df/dec/a27992.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "df/dec/a27992.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "df/dec/a27992.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "df/dec/a27992.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

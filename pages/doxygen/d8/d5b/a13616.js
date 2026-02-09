@@ -1,8 +1,6 @@
 var a13616 =
 [
-    [ "FilterTargets", "d8/d5b/a13616.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d8/d5b/a13616.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d8/d5b/a13616.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d8/d5b/a13616.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d8/d5b/a13616.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "SpectralBlastCheck", "d8/d5b/a13616.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d8/d5b/a13616.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d8/d5b/a13616.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

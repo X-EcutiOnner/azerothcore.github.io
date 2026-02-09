@@ -1,7 +1,7 @@
 var a02792 =
 [
-    [ "boss_xevozz", "df/d7b/a21576.html", "df/d7b/a21576" ],
-    [ "boss_xevozz::boss_xevozzAI", "d2/da2/a21580.html", "d2/da2/a21580" ],
+    [ "boss_xevozz", "d9/dce/a21556.html", "d9/dce/a21556" ],
+    [ "boss_xevozz::boss_xevozzAI", "dc/d82/a21560.html", "dc/d82/a21560" ],
     [ "eEvents", "de/db6/a02792.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "de/d69/a02786.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "de/d69/a02786.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

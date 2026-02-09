@@ -1,6 +1,8 @@
 var a26444 =
 [
-    [ "FilterTargets", "da/d23/a26444.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "da/d23/a26444.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "da/d23/a26444.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CheckProc", "da/d23/a26444.html#ac6b3ce1ff227a140b77e177198675dbf", null ],
+    [ "HandleProc", "da/d23/a26444.html#ae5ed8237f49454279db6348dbde653ad", null ],
+    [ "PrepareAuraScript", "da/d23/a26444.html#a1ee84242579d4cd81d6313f78354729b", null ],
+    [ "Register", "da/d23/a26444.html#a8f16147f2dfc433458ad32529f7d25d1", null ],
+    [ "Validate", "da/d23/a26444.html#a787639c45505da58aeb2174148ef4f83", null ]
 ];

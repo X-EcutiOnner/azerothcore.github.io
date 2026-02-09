@@ -1,12 +1,14 @@
 var a28316 =
 [
-    [ "ID", "d5/d0e/a28316.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "d5/d0e/a28316.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "d5/d0e/a28316.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "d5/d0e/a28316.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "d5/d0e/a28316.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "d5/d0e/a28316.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "d5/d0e/a28316.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "d5/d0e/a28316.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "d5/d0e/a28316.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "IsFlyable", "d5/d0e/a28316.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d5/d0e/a28316.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d5/d0e/a28316.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d5/d0e/a28316.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d5/d0e/a28316.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d5/d0e/a28316.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d5/d0e/a28316.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d5/d0e/a28316.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d5/d0e/a28316.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d5/d0e/a28316.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d5/d0e/a28316.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

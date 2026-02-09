@@ -1,5 +1,7 @@
 var a19016 =
 [
-    [ "at_icc_start_blood_quickening", "db/d17/a19016.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "db/d17/a19016.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "HandleEffectPeriodic", "db/d17/a19016.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "db/d17/a19016.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "db/d17/a19016.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "db/d17/a19016.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

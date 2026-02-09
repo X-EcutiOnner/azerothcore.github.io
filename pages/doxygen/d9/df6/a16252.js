@@ -1,11 +1,9 @@
 var a16252 =
 [
-    [ "boss_sartharion_tenebronAI", "d9/df6/a16252.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "d9/df6/a16252.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "d9/df6/a16252.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "d9/df6/a16252.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "d9/df6/a16252.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "d9/df6/a16252.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "d9/df6/a16252.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "d9/df6/a16252.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "boss_sartharion_vesperon", "d9/df6/a16252.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "d9/df6/a16252.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "d9/df6/a16252.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "HandleExtraEvent", "d9/df6/a16252.html#acae445af370ab199b92b06962bd26977", null ],
+    [ "Reset", "d9/df6/a16252.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "d9/df6/a16252.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

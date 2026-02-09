@@ -1,6 +1,13 @@
 var a21840 =
 [
-    [ "npc_counselor_talbotAI", "df/db2/a21844.html", "df/db2/a21844" ],
-    [ "npc_counselor_talbot", "db/d4b/a21840.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "db/d4b/a21840.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_preparations_for_war_vehicle", "db/d4b/a21840.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "db/d4b/a21840.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "db/d4b/a21840.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "db/d4b/a21840.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "db/d4b/a21840.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "db/d4b/a21840.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "db/d4b/a21840.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "db/d4b/a21840.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "db/d4b/a21840.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "db/d4b/a21840.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

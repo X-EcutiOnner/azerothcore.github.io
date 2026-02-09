@@ -1,9 +1,6 @@
 var a21664 =
 [
-    [ "npc_azure_stalkerAI", "dc/dc4/a21664.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "dc/dc4/a21664.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "dc/dc4/a21664.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "dc/dc4/a21664.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "dc/dc4/a21664.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "dc/dc4/a21664.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "npc_azure_sorcerorAI", "d0/d2d/a21668.html", "d0/d2d/a21668" ],
+    [ "npc_azure_sorceror", "dc/dc4/a21664.html#ab81ec144680a37312b0a5e0110365a1a", null ],
+    [ "GetAI", "dc/dc4/a21664.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
 ];

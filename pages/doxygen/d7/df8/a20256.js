@@ -1,6 +1,5 @@
 var a20256 =
 [
-    [ "boss_freya_elder_brightleafAI", "d9/de2/a20260.html", "d9/de2/a20260" ],
-    [ "boss_freya_elder_brightleaf", "d7/df8/a20256.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "d7/df8/a20256.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "boss_freya_iron_rootAI", "d7/df8/a20256.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "d7/df8/a20256.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

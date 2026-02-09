@@ -1,6 +1,6 @@
 var a18864 =
 [
-    [ "CaptainSurviveTalk", "df/d4f/a18864.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "df/d4f/a18864.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "df/d4f/a18864.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_frost_freeze_trapAI", "dc/d93/a18868.html", "dc/d93/a18868" ],
+    [ "npc_frost_freeze_trap", "df/d4f/a18864.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "df/d4f/a18864.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

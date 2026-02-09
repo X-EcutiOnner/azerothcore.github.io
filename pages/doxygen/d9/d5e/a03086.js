@@ -1,13 +1,13 @@
 var a03086 =
 [
-    [ "boss_bronjahm", "df/d5a/a17036.html", "df/d5a/a17036" ],
-    [ "boss_bronjahm::boss_bronjahmAI", "d4/d50/a17040.html", "d4/d50/a17040" ],
-    [ "npc_fos_corrupted_soul_fragment", "dc/dd6/a17044.html", "dc/dd6/a17044" ],
-    [ "npc_fos_corrupted_soul_fragment::npc_fos_corrupted_soul_fragmentAI", "db/de0/a17048.html", "db/de0/a17048" ],
-    [ "spell_bronjahm_magic_bane", "d2/def/a17052.html", "d2/def/a17052" ],
-    [ "spell_bronjahm_soulstorm_channel_ooc_aura", "d5/d09/a17056.html", "d5/d09/a17056" ],
-    [ "spell_bronjahm_soulstorm_visual_aura", "d6/de0/a17060.html", "d6/de0/a17060" ],
-    [ "spell_bronjahm_soulstorm_targeting", "da/dce/a17064.html", "da/dce/a17064" ],
+    [ "boss_bronjahm", "d1/d7f/a17016.html", "d1/d7f/a17016" ],
+    [ "boss_bronjahm::boss_bronjahmAI", "d2/d39/a17020.html", "d2/d39/a17020" ],
+    [ "npc_fos_corrupted_soul_fragment", "d3/d71/a17024.html", "d3/d71/a17024" ],
+    [ "npc_fos_corrupted_soul_fragment::npc_fos_corrupted_soul_fragmentAI", "da/d81/a17028.html", "da/d81/a17028" ],
+    [ "spell_bronjahm_magic_bane", "d1/d59/a17032.html", "d1/d59/a17032" ],
+    [ "spell_bronjahm_soulstorm_channel_ooc_aura", "df/d5a/a17036.html", "df/d5a/a17036" ],
+    [ "spell_bronjahm_soulstorm_visual_aura", "d4/d50/a17040.html", "d4/d50/a17040" ],
+    [ "spell_bronjahm_soulstorm_targeting", "dc/dd6/a17044.html", "dc/dd6/a17044" ],
     [ "eEvents", "d9/d5e/a03086.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "de/d69/a02786.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "de/d69/a02786.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

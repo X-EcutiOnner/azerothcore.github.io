@@ -1,6 +1,10 @@
 var a27216 =
 [
-    [ "CalculateAmount", "dc/d0b/a27216.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "dc/d0b/a27216.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "dc/d0b/a27216.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "CheckProc", "dc/d0b/a27216.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "dc/d0b/a27216.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "dc/d0b/a27216.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "dc/d0b/a27216.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "dc/d0b/a27216.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "dc/d0b/a27216.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTarget", "dc/d0b/a27216.html#ad48f21d3a45e97857265e6047f253910", null ]
 ];

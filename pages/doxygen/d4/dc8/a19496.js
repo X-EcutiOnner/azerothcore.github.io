@@ -1,7 +1,11 @@
 var a19496 =
 [
-    [ "npc_naxxramas_trigger", "d4/dc8/a19496.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d4/dc8/a19496.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d4/dc8/a19496.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d4/dc8/a19496.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "npc_nexus_lord", "d4/dc8/a19496.html#af69d593840747f3e6bdfcce32bbd5c66", null ],
+    [ "AttackStart", "d4/dc8/a19496.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d4/dc8/a19496.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d4/dc8/a19496.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d4/dc8/a19496.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "events", "d4/dc8/a19496.html#a59a5b91eb950675d14cfd8e9c2da9548", null ],
+    [ "pInstance", "d4/dc8/a19496.html#a7187de65f193cd7e06bf6898f802d544", null ],
+    [ "timer", "d4/dc8/a19496.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

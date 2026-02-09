@@ -1,6 +1,6 @@
 var a17604 =
 [
-    [ "HandleScript", "d8/d90/a17604.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "d8/d90/a17604.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "d8/d90/a17604.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "OnAbsorb", "d8/d90/a17604.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d8/d90/a17604.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d8/d90/a17604.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

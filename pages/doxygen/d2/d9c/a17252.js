@@ -1,5 +1,6 @@
 var a17252 =
 [
-    [ "at_hor_battered_hilt_start", "d2/d9c/a17252.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d2/d9c/a17252.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "boss_garfrostAI", "d5/dac/a17256.html", "d5/dac/a17256" ],
+    [ "boss_garfrost", "d2/d9c/a17252.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d2/d9c/a17252.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

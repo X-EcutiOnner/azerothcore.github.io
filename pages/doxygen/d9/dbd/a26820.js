@@ -1,7 +1,10 @@
 var a26820 =
 [
-    [ "CalcPeriodic", "d9/dbd/a26820.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d9/dbd/a26820.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d9/dbd/a26820.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d9/dbd/a26820.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "CheckProc", "d9/dbd/a26820.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "d9/dbd/a26820.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "d9/dbd/a26820.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "d9/dbd/a26820.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "d9/dbd/a26820.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "d9/dbd/a26820.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "d9/dbd/a26820.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

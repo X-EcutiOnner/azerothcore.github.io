@@ -1,7 +1,6 @@
 var a17128 =
 [
-    [ "OnRemove", "d4/d4b/a17128.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d4/d4b/a17128.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d4/d4b/a17128.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d4/d4b/a17128.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_phantom_mageAI", "da/d42/a17132.html", "da/d42/a17132" ],
+    [ "npc_phantom_mage", "d4/d4b/a17128.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "d4/d4b/a17128.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

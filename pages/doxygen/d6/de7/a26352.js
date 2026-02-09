@@ -1,7 +1,9 @@
 var a26352 =
 [
-    [ "HandleDummy", "d6/de7/a26352.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d6/de7/a26352.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d6/de7/a26352.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d6/de7/a26352.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "CountTargets", "d6/de7/a26352.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "d6/de7/a26352.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "d6/de7/a26352.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "d6/de7/a26352.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "d6/de7/a26352.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "d6/de7/a26352.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

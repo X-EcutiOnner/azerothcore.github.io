@@ -1,6 +1,6 @@
 var a19876 =
 [
-    [ "CosmicSmashDamageEvent", "d7/d35/a19876.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d7/d35/a19876.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d7/d35/a19876.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "npc_collapsing_starAI", "de/dd1/a19880.html", "de/dd1/a19880" ],
+    [ "npc_collapsing_star", "d7/d35/a19876.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d7/d35/a19876.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

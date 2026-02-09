@@ -1,6 +1,6 @@
 var a20316 =
 [
-    [ "achievement_freya_knock_on_wood", "d7/de2/a20316.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d7/de2/a20316.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d7/de2/a20316.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/d0d/a20320.html", "d8/d0d/a20320" ],
+    [ "npc_ulduar_saronite_animus", "d7/de2/a20316.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d7/de2/a20316.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

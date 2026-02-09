@@ -1,8 +1,7 @@
 var a18836 =
 [
-    [ "FilterTargets", "de/d73/a18836.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "de/d73/a18836.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "de/d73/a18836.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "de/d73/a18836.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "de/d73/a18836.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "FrostwingVrykulSearcher", "de/d73/a18836.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "de/d73/a18836.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "de/d73/a18836.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "de/d73/a18836.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

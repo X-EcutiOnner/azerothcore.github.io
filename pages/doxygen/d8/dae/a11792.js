@@ -1,6 +1,18 @@
 var a11792 =
 [
-    [ "rainChance", "df/da2/a04828.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "df/da2/a04828.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "df/da2/a04828.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "WardenWin", "d8/dae/a11792.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
+    [ "~WardenWin", "d8/dae/a11792.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
+    [ "ForceChecks", "d8/dae/a11792.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetModuleForClient", "d8/dae/a11792.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
+    [ "HandleData", "d8/dae/a11792.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
+    [ "HandleHashResult", "d8/dae/a11792.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
+    [ "Init", "d8/dae/a11792.html#a3222620148b84a4d95593800a83ba3fa", null ],
+    [ "InitializeModule", "d8/dae/a11792.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
+    [ "IsCheckInProgress", "d8/dae/a11792.html#aee57f10f6f4f676908c54f305210b6bc", null ],
+    [ "RequestChecks", "d8/dae/a11792.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
+    [ "RequestHash", "d8/dae/a11792.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
+    [ "_ChecksTodo", "d8/dae/a11792.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
+    [ "_CurrentChecks", "d8/dae/a11792.html#a9cb49a2629d08e0f54d363f81c284425", null ],
+    [ "_PendingChecks", "d8/dae/a11792.html#a463e1f12600b12ddf54f762093ae57f0", null ],
+    [ "_serverTicks", "d8/dae/a11792.html#a79e969e649fa057cd3a1a835837188c6", null ]
 ];

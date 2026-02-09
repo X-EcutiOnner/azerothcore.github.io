@@ -1,5 +1,9 @@
 var a24640 =
 [
-    [ "npc_pet_proto_drake_whelp", "db/d82/a24640.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "db/d82/a24640.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "npc_pet_shaman_earth_elemental", "db/d82/a24640.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "db/d82/a24640.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "db/d82/a24640.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "db/d82/a24640.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "db/d82/a24640.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "db/d82/a24640.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

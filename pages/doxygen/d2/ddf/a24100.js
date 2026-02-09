@@ -1,6 +1,7 @@
 var a24100 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d5/dde/a24104.html", "d5/dde/a24104" ],
-    [ "instance_the_eye", "d2/ddf/a24100.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d2/ddf/a24100.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "HandleDamage", "d2/ddf/a24100.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "d2/ddf/a24100.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "d2/ddf/a24100.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "d2/ddf/a24100.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

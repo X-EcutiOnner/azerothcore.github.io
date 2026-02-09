@@ -1,6 +1,8 @@
 var a26508 =
 [
-    [ "HandleDamage", "d7/d9c/a26508.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d7/d9c/a26508.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d7/d9c/a26508.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "AfterCheckProc", "d7/d9c/a26508.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "d7/d9c/a26508.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "d7/d9c/a26508.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "d7/d9c/a26508.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "d7/d9c/a26508.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

@@ -1,5 +1,6 @@
 var a20368 =
 [
-    [ "achievement_shadowdodger", "d9/d08/a20368.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d9/d08/a20368.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "npc_ulduar_icicleAI", "d4/d74/a20372.html", "d4/d74/a20372" ],
+    [ "npc_ulduar_icicle", "d9/d08/a20368.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "d9/d08/a20368.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

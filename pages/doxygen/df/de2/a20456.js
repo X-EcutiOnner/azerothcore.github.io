@@ -1,6 +1,7 @@
 var a20456 =
 [
-    [ "FilterTargets", "df/de2/a20456.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "df/de2/a20456.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "df/de2/a20456.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "HandleEffectPeriodic", "df/de2/a20456.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "df/de2/a20456.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "df/de2/a20456.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "df/de2/a20456.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

@@ -1,9 +1,9 @@
 var a03590 =
 [
-    [ "boss_akilzon", "d7/d77/a14076.html", "d7/d77/a14076" ],
-    [ "npc_akilzon_eagle", "dc/df8/a14080.html", "dc/df8/a14080" ],
-    [ "spell_electrial_storm", "df/d3e/a14084.html", "df/d3e/a14084" ],
-    [ "spell_electrical_storm_proc", "d7/da2/a14088.html", "d7/da2/a14088" ],
+    [ "boss_akilzon", "dc/df8/a14080.html", "dc/df8/a14080" ],
+    [ "npc_akilzon_eagle", "df/d3e/a14084.html", "df/d3e/a14084" ],
+    [ "spell_electrial_storm", "d7/da2/a14088.html", "d7/da2/a14088" ],
+    [ "spell_electrical_storm_proc", "d6/dd2/a14092.html", "d6/dd2/a14092" ],
     [ "Misc", "dd/de9/a03590.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d5/d35/a03716.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "da/d85/a03758.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

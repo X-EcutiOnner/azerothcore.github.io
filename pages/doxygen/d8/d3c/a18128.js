@@ -1,14 +1,7 @@
 var a18128 =
 [
-    [ "npc_putricide_oozeAI", "d8/d3c/a18128.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
-    [ "CastMainSpell", "d8/d3c/a18128.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
-    [ "IsSummonedBy", "d8/d3c/a18128.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
-    [ "SelectNewTarget", "d8/d3c/a18128.html#a0a4167a73249967fcf268683f936647d", null ],
-    [ "SetGUID", "d8/d3c/a18128.html#af8abd6581901df51a3757f4a19443045", null ],
-    [ "SpellHit", "d8/d3c/a18128.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
-    [ "SpellHitTarget", "d8/d3c/a18128.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
-    [ "UpdateAI", "d8/d3c/a18128.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
-    [ "_hitTargetSpellId", "d8/d3c/a18128.html#a728b62580e7a84e9947a45b460ab140c", null ],
-    [ "_newTargetSelectTimer", "d8/d3c/a18128.html#a9615a0e6c73c155330c1791c2a205553", null ],
-    [ "targetGUID", "d8/d3c/a18128.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
+    [ "HandleScript", "d8/d3c/a18128.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d8/d3c/a18128.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d8/d3c/a18128.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d8/d3c/a18128.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

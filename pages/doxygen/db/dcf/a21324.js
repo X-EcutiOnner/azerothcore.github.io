@@ -1,6 +1,13 @@
 var a21324 =
 [
-    [ "boss_palehoofAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
-    [ "boss_palehoof", "db/dcf/a21324.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "db/dcf/a21324.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_ferocious_rhinoAI", "db/dcf/a21324.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "db/dcf/a21324.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "db/dcf/a21324.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "db/dcf/a21324.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "db/dcf/a21324.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "db/dcf/a21324.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "db/dcf/a21324.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "db/dcf/a21324.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "db/dcf/a21324.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "db/dcf/a21324.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

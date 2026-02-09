@@ -1,7 +1,5 @@
 var a19940 =
 [
-    [ "HandleDummyEffect", "df/d78/a19940.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "df/d78/a19940.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "df/d78/a19940.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "df/d78/a19940.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "df/d78/a19940.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "df/d78/a19940.html#affea33614581545c65513bfe533d7246", null ]
 ];

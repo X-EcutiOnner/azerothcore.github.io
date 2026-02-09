@@ -1,7 +1,8 @@
 var a15696 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d6/d63/a15696.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d6/d63/a15696.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d6/d63/a15696.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d6/d63/a15696.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_aged_dying_ancient_kodo", "d6/d63/a15696.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d6/d63/a15696.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d6/d63/a15696.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "OnGossipHello", "d6/d63/a15696.html#a760b1c45119893fc7e792139b2e9d948", null ],
+    [ "SpellHit", "d6/d63/a15696.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

@@ -1,6 +1,5 @@
 var a17408 =
 [
-    [ "HandleDummy", "da/dfe/a17408.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "da/dfe/a17408.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "da/dfe/a17408.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "entry", "da/dfe/a17408.html#a44c7a625896d6fddc15da39988e0b042", null ],
+    [ "pathId", "da/dfe/a17408.html#accd6af0ddfa248a972612d802a1e641e", null ]
 ];

@@ -1,7 +1,6 @@
 var a16776 =
 [
-    [ "npc_toc_enh_shamanAI", "d9/df6/a16776.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d9/df6/a16776.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d9/df6/a16776.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d9/df6/a16776.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_pet_hunterAI", "d6/de7/a16780.html", "d6/de7/a16780" ],
+    [ "npc_toc_pet_hunter", "d9/df6/a16776.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d9/df6/a16776.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

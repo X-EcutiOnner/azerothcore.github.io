@@ -1,7 +1,7 @@
 var a02171 =
 [
-    [ "instance_the_eye", "d2/ddf/a24100.html", "d2/ddf/a24100" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d5/dde/a24104.html", "d5/dde/a24104" ],
+    [ "instance_the_eye", "d1/dfb/a24080.html", "d1/dfb/a24080" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "da/d60/a24084.html", "da/d60/a24084" ],
     [ "AddSC_instance_the_eye", "d6/d1e/a02171.html#a2edbd129d024cabd379cca055dd3e341", null ],
     [ "boundaries", "d6/d1e/a02171.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d6/d1e/a02171.html#a412286b689bd324fedd65ddd8dde8afb", null ],

@@ -1,5 +1,7 @@
 var a28596 =
 [
-    [ "Exp", "dc/d97/a28596.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "dc/d97/a28596.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "EpicPropertiesPoints", "dc/d97/a28596.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "dc/d97/a28596.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "dc/d97/a28596.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "dc/d97/a28596.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

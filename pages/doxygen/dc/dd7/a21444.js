@@ -1,7 +1,6 @@
 var a21444 =
 [
-    [ "HandleScript", "dc/dd7/a21444.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "dc/dd7/a21444.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "dc/dd7/a21444.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "dc/dd7/a21444.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "boss_koralonAI", "d9/d0e/a21448.html", "d9/d0e/a21448" ],
+    [ "boss_koralon", "dc/dd7/a21444.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "dc/dd7/a21444.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

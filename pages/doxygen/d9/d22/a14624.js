@@ -1,6 +1,9 @@
 var a14624 =
 [
-    [ "HandleScript", "d9/d22/a14624.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "d9/d22/a14624.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "d9/d22/a14624.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "entries", "d9/d22/a14624.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d9/d22/a14624.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d9/d22/a14624.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d9/d22/a14624.html#a7fd78a5fa19a14ab1b002f5b6ef4e20f", null ],
+    [ "size", "d9/d22/a14624.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d9/d22/a14624.html#aa22c51469489fbb6551de2b751f06c94", null ]
 ];

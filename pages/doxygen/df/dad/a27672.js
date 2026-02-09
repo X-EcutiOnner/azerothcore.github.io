@@ -1,5 +1,5 @@
 var a27672 =
 [
-    [ "item_petrov_cluster_bombs", "df/dad/a27672.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "df/dad/a27672.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "item_generic_limit_chance_above_60", "df/dad/a27672.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "df/dad/a27672.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

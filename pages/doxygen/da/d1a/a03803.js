@@ -1,9 +1,9 @@
 var a03803 =
 [
-    [ "boss_baron_geddon", "d8/d73/a12644.html", "d8/d73/a12644" ],
-    [ "boss_baron_geddon::boss_baron_geddonAI", "d0/d41/a12648.html", "d0/d41/a12648" ],
-    [ "spell_geddon_inferno_aura", "d9/df0/a12652.html", "d9/df0/a12652" ],
-    [ "spell_geddon_armageddon_aura", "d1/d9f/a12656.html", "d1/d9f/a12656" ],
+    [ "boss_baron_geddon", "d0/d41/a12648.html", "d0/d41/a12648" ],
+    [ "boss_baron_geddon::boss_baron_geddonAI", "d9/df0/a12652.html", "d9/df0/a12652" ],
+    [ "spell_geddon_inferno_aura", "d1/d9f/a12656.html", "d1/d9f/a12656" ],
+    [ "spell_geddon_armageddon_aura", "d5/d81/a12660.html", "d5/d81/a12660" ],
     [ "Emotes", "da/d1a/a03803.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d0/ded/a03671.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d0/ded/a03671.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

@@ -1,6 +1,6 @@
 var a18052 =
 [
-    [ "HandlePeriodicTick", "de/ddf/a18052.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "de/ddf/a18052.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "de/ddf/a18052.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_coldflameAI", "dc/d3e/a18056.html", "dc/d3e/a18056" ],
+    [ "npc_coldflame", "de/ddf/a18052.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "de/ddf/a18052.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

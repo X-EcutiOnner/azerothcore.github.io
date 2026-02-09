@@ -1,7 +1,7 @@
 var a21168 =
 [
-    [ "OnPeriodic", "db/d54/a21168.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "db/d54/a21168.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "db/d54/a21168.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "db/d54/a21168.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "HandleScriptEffect", "db/d54/a21168.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "db/d54/a21168.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "db/d54/a21168.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "db/d54/a21168.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

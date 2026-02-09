@@ -1,6 +1,9 @@
 var a17896 =
 [
-    [ "npc_gunship_gunnerAI", "dd/dd4/a17900.html", "dd/dd4/a17900" ],
-    [ "npc_gunship_gunner", "d1/d5e/a17896.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d1/d5e/a17896.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "CheckAreaTarget", "d1/d5e/a17896.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d1/d5e/a17896.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d1/d5e/a17896.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d1/d5e/a17896.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d1/d5e/a17896.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d1/d5e/a17896.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

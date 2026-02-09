@@ -1,7 +1,6 @@
 var a24352 =
 [
-    [ "HandleEffectApply", "d2/d1e/a24352.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d2/d1e/a24352.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d2/d1e/a24352.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d2/d1e/a24352.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_mature_netherwing_drakeAI", "d6/d89/a24356.html", "d6/d89/a24356" ],
+    [ "npc_mature_netherwing_drake", "d2/d1e/a24352.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d2/d1e/a24352.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

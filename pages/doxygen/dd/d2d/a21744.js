@@ -1,9 +1,7 @@
 var a21744 =
 [
-    [ "npc_lurgglbrAI", "dd/d2d/a21744.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "dd/d2d/a21744.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "dd/d2d/a21744.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "dd/d2d/a21744.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "dd/d2d/a21744.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "dd/d2d/a21744.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_mootoo_the_youngerAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
+    [ "npc_mootoo_the_younger", "dd/d2d/a21744.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "dd/d2d/a21744.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "dd/d2d/a21744.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

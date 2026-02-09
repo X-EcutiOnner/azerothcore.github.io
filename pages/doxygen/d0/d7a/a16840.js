@@ -1,6 +1,6 @@
 var a16840 =
 [
-    [ "npc_snobold_vassalAI", "d5/d88/a16844.html", "d5/d88/a16844" ],
-    [ "npc_snobold_vassal", "d0/d7a/a16840.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "d0/d7a/a16840.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "boss_acidmawAI", "d5/d88/a16844.html", "d5/d88/a16844" ],
+    [ "boss_acidmaw", "d0/d7a/a16840.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
+    [ "GetAI", "d0/d7a/a16840.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
 ];

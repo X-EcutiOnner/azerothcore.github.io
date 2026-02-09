@@ -1,6 +1,8 @@
 var a16772 =
 [
-    [ "npc_toc_enh_shamanAI", "d9/df6/a16776.html", "d9/df6/a16776" ],
-    [ "npc_toc_enh_shaman", "d0/dde/a16772.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d0/dde/a16772.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "npc_toc_pet_warlockAI", "d0/dde/a16772.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d0/dde/a16772.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d0/dde/a16772.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d0/dde/a16772.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d0/dde/a16772.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

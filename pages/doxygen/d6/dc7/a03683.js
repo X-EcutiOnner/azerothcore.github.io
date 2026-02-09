@@ -1,9 +1,9 @@
 var a03683 =
 [
-    [ "boss_moira_bronzebeardAI", "d1/df3/a12252.html", "d1/df3/a12252" ],
-    [ "boss_high_priestess_thaurissanAI", "d9/dd7/a12256.html", "d9/dd7/a12256" ],
-    [ "boss_moira_bronzebeard", "da/dd6/a12260.html", "da/dd6/a12260" ],
-    [ "boss_high_priestess_thaurissan", "da/d4f/a12264.html", "da/d4f/a12264" ],
+    [ "boss_moira_bronzebeardAI", "d9/dd7/a12256.html", "d9/dd7/a12256" ],
+    [ "boss_high_priestess_thaurissanAI", "da/dd6/a12260.html", "da/dd6/a12260" ],
+    [ "boss_moira_bronzebeard", "da/d4f/a12264.html", "da/d4f/a12264" ],
+    [ "boss_high_priestess_thaurissan", "d9/d82/a12268.html", "d9/d82/a12268" ],
     [ "Spells", "d6/dc7/a03683.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "dd/db5/a00365.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

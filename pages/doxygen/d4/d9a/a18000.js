@@ -1,5 +1,6 @@
 var a18000 =
 [
-    [ "achievement_im_on_a_boat", "d4/d9a/a18000.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d4/d9a/a18000.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "npc_cult_fanaticAI", "d6/d1e/a18004.html", "d6/d1e/a18004" ],
+    [ "npc_cult_fanatic", "d4/d9a/a18000.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d4/d9a/a18000.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

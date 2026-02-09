@@ -1,7 +1,7 @@
 var a18532 =
 [
-    [ "OnRemove", "d0/d12/a18532.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d0/d12/a18532.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d0/d12/a18532.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d0/d12/a18532.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "CheckTargetCount", "d0/d12/a18532.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "d0/d12/a18532.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "d0/d12/a18532.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "d0/d12/a18532.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

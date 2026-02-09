@@ -1,5 +1,14 @@
 var a19596 =
 [
-    [ "achievement_split_personality", "d4/df2/a19596.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "d4/df2/a19596.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "npc_crystalline_frayer", "d4/df2/a19596.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d4/df2/a19596.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d4/df2/a19596.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "EnterSeedPod", "d4/df2/a19596.html#a070554a809ba40726d005fdba19a16b0", null ],
+    [ "JustEngagedWith", "d4/df2/a19596.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "LeaveSeedPod", "d4/df2/a19596.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
+    [ "Reset", "d4/df2/a19596.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d4/df2/a19596.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d4/df2/a19596.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "_inSeedPod", "d4/df2/a19596.html#a26e0c5f780bc661796f922c52000c30a", null ],
+    [ "_scheduler", "d4/df2/a19596.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
 ];

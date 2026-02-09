@@ -1,8 +1,7 @@
 var a20660 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "df/df3/a20660.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "df/df3/a20660.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "df/df3/a20660.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "df/df3/a20660.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "df/df3/a20660.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "HandleEffectPeriodic", "df/df3/a20660.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "df/df3/a20660.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "df/df3/a20660.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "df/df3/a20660.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

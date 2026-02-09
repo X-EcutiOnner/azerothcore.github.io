@@ -1,7 +1,6 @@
 var a16916 =
 [
-    [ "HandleAfterEffectAbsorb", "d6/d47/a16916.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d6/d47/a16916.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d6/d47/a16916.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d6/d47/a16916.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_announcer_toc10", "d6/d47/a16916.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d6/d47/a16916.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d6/d47/a16916.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

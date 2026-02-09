@@ -1,7 +1,7 @@
 var a24328 =
 [
-    [ "npc_maxx_a_million_escortAI", "de/d58/a24332.html", "de/d58/a24332" ],
-    [ "npc_maxx_a_million_escort", "d6/de3/a24328.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d6/de3/a24328.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d6/de3/a24328.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "HandleScriptEffect", "d6/de3/a24328.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d6/de3/a24328.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d6/de3/a24328.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d6/de3/a24328.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

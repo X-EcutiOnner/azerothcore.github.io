@@ -1,9 +1,9 @@
 var a03866 =
 [
-    [ "zm_beacon", "dc/dab/a22788.html", "dc/dab/a22788" ],
-    [ "OPvPCapturePointZM_Beacon", "de/dd4/a22792.html", "de/dd4/a22792" ],
-    [ "OPvPCapturePointZM_Graveyard", "d0/d96/a22796.html", "d0/d96/a22796" ],
-    [ "OutdoorPvPZM", "d9/d45/a22800.html", "d9/d45/a22800" ],
+    [ "zm_beacon", "d0/d25/a22768.html", "d0/d25/a22768" ],
+    [ "OPvPCapturePointZM_Beacon", "d9/d6a/a22772.html", "d9/d6a/a22772" ],
+    [ "OPvPCapturePointZM_Graveyard", "dc/d51/a22776.html", "dc/d51/a22776" ],
+    [ "OutdoorPvPZM", "d5/d7e/a22780.html", "d5/d7e/a22780" ],
     [ "OutdoorPvPZMSpells", "db/d06/a03866.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
       [ "ZM_CAPTURE_BUFF", "db/d06/a03866.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
       [ "ZM_BATTLE_STANDARD_A", "db/d06/a03866.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],

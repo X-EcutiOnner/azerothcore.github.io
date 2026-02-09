@@ -1,7 +1,10 @@
 var a21292 =
 [
-    [ "HandleEffectPeriodic", "d0/d64/a21292.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d0/d64/a21292.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d0/d64/a21292.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d0/d64/a21292.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "npc_dragonflayer_forge_master", "d0/d64/a21292.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d0/d64/a21292.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d0/d64/a21292.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d0/d64/a21292.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d0/d64/a21292.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d0/d64/a21292.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d0/d64/a21292.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

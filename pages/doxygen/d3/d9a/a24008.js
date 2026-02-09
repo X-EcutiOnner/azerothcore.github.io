@@ -1,6 +1,13 @@
 var a24008 =
 [
-    [ "OnApply", "d3/d9a/a24008.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "d3/d9a/a24008.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "d3/d9a/a24008.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "advisor_baseAI", "d3/d9a/a24008.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "d3/d9a/a24008.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "d3/d9a/a24008.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "d3/d9a/a24008.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "Reset", "d3/d9a/a24008.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "d3/d9a/a24008.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "d3/d9a/a24008.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "d3/d9a/a24008.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "d3/d9a/a24008.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "d3/d9a/a24008.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

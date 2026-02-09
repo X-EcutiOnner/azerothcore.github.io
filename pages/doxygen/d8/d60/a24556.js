@@ -1,6 +1,5 @@
 var a24556 =
 [
-    [ "npc_slim", "d8/d60/a24556.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d8/d60/a24556.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d8/d60/a24556.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "d8/d60/a24556.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "d8/d60/a24556.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

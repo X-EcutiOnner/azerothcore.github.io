@@ -1,5 +1,5 @@
 var a26184 =
 [
-    [ "PrepareSpellScript", "d2/dc8/a26184.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
-    [ "Register", "d2/dc8/a26184.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
+    [ "PrepareSpellScript", "d2/dc8/a26184.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
+    [ "Register", "d2/dc8/a26184.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
 ];

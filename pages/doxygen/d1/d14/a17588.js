@@ -1,6 +1,7 @@
 var a17588 =
 [
-    [ "npc_kinetic_bombAI", "d9/d70/a17592.html", "d9/d70/a17592" ],
-    [ "npc_kinetic_bomb", "d1/d14/a17588.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d1/d14/a17588.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "HandleScript", "d1/d14/a17588.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d1/d14/a17588.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d1/d14/a17588.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d1/d14/a17588.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

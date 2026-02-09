@@ -1,5 +1,6 @@
 var a21940 =
 [
-    [ "go_the_pearl_of_the_depths", "d8/dd0/a21940.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d8/dd0/a21940.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_mindless_ghoulAI", "d9/dcf/a21944.html", "d9/dcf/a21944" ],
+    [ "npc_mindless_ghoul", "d8/dd0/a21940.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d8/dd0/a21940.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

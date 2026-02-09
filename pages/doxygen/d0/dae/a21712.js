@@ -1,6 +1,6 @@
 var a21712 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d9/d57/a21716.html", "d9/d57/a21716" ],
-    [ "npc_sinkhole_kill_credit", "d0/dae/a21712.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d0/dae/a21712.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_nerubar_victimAI", "d9/d57/a21716.html", "d9/d57/a21716" ],
+    [ "npc_nerubar_victim", "d0/dae/a21712.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d0/dae/a21712.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

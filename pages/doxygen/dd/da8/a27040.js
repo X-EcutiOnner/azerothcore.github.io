@@ -1,11 +1,6 @@
 var a27040 =
 [
-    [ "CalcPeriodic", "dd/da8/a27040.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "dd/da8/a27040.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "dd/da8/a27040.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "dd/da8/a27040.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "dd/da8/a27040.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "dd/da8/a27040.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "dd/da8/a27040.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "dd/da8/a27040.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "HandleBanish", "dd/da8/a27040.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "dd/da8/a27040.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "dd/da8/a27040.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

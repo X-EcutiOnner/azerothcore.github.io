@@ -1,6 +1,13 @@
 var a17572 =
 [
-    [ "npc_dark_nucleusAI", "d0/da9/a17576.html", "d0/da9/a17576" ],
-    [ "npc_dark_nucleus", "d6/d0f/a17572.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d6/d0f/a17572.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_kinetic_bombAI", "d6/d0f/a17572.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d6/d0f/a17572.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d6/d0f/a17572.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d6/d0f/a17572.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d6/d0f/a17572.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d6/d0f/a17572.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d6/d0f/a17572.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d6/d0f/a17572.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d6/d0f/a17572.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d6/d0f/a17572.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

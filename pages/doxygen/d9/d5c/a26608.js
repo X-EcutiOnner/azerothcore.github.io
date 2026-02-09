@@ -1,6 +1,5 @@
 var a26608 =
 [
-    [ "CheckProc", "d9/d5c/a26608.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d9/d5c/a26608.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d9/d5c/a26608.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "spell_q55_sacred_cleansing", "d9/d5c/a26608.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "d9/d5c/a26608.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

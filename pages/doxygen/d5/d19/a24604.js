@@ -1,8 +1,9 @@
 var a24604 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d5/d19/a24604.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d5/d19/a24604.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d5/d19/a24604.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d5/d19/a24604.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d5/d19/a24604.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d5/d19/a24604.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d5/d19/a24604.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d5/d19/a24604.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d5/d19/a24604.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d5/d19/a24604.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d5/d19/a24604.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

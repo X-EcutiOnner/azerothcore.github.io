@@ -1,8 +1,6 @@
 var a21024 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d1/d91/a21024.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "d1/d91/a21024.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "d1/d91/a21024.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "d1/d91/a21024.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "d1/d91/a21024.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "boss_yoggsaron_death_orbAI", "de/d03/a21028.html", "de/d03/a21028" ],
+    [ "boss_yoggsaron_death_orb", "d1/d91/a21024.html#a862d01f012cee832b41bc7c584816b93", null ],
+    [ "GetAI", "d1/d91/a21024.html#a3169cd0e78642503f394a6cb74307871", null ]
 ];

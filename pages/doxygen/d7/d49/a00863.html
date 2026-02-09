@@ -126,9 +126,11 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d37/a08392.html">GameObjectLocale</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d99/a08396.html">GameObjectAddon</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d99/a08396.html">QuaternionData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d9f/a08400.html">GameObjectData</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d9f/a08400.html">GameObjectAddon</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2f/a08404.html">GameObjectData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
@@ -196,14 +198,14 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650" name="ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"></a>GO_STATE_READY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e" name="ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e"></a>GO_STATE_ACTIVE_ALTERNATIVE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  690</span>{</div>
-<div class="line"><span class="lineno">  691</span>    <a class="code hl_enumvalue" href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a> = 0,                        <span class="comment">// show in world as used and not reset (closed door open)</span></div>
-<div class="line"><span class="lineno">  692</span>    <a class="code hl_enumvalue" href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a> = 1,                        <span class="comment">// show in world as ready (closed door close)</span></div>
-<div class="line"><span class="lineno">  693</span>    <a class="code hl_enumvalue" href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a> = 2                         <span class="comment">// show in world as used in alt way and not reset (closed door open by cannon fire)</span></div>
-<div class="line"><span class="lineno">  694</span>};</div>
-<div class="ttc" id="aa00863_html_ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"><div class="ttname"><a href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a></div><div class="ttdeci">@ GO_STATE_READY</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:692</div></div>
-<div class="ttc" id="aa00863_html_ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"><div class="ttname"><a href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:691</div></div>
-<div class="ttc" id="aa00863_html_ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e"><div class="ttname"><a href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE_ALTERNATIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:693</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  704</span>{</div>
+<div class="line"><span class="lineno">  705</span>    <a class="code hl_enumvalue" href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a> = 0,                        <span class="comment">// show in world as used and not reset (closed door open)</span></div>
+<div class="line"><span class="lineno">  706</span>    <a class="code hl_enumvalue" href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a> = 1,                        <span class="comment">// show in world as ready (closed door close)</span></div>
+<div class="line"><span class="lineno">  707</span>    <a class="code hl_enumvalue" href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a> = 2                         <span class="comment">// show in world as used in alt way and not reset (closed door open by cannon fire)</span></div>
+<div class="line"><span class="lineno">  708</span>};</div>
+<div class="ttc" id="aa00863_html_ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"><div class="ttname"><a href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a></div><div class="ttdeci">@ GO_STATE_READY</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:706</div></div>
+<div class="ttc" id="aa00863_html_ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"><div class="ttname"><a href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:705</div></div>
+<div class="ttc" id="aa00863_html_ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e"><div class="ttname"><a href="../../d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE_ALTERNATIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:707</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -213,7 +215,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_8a86f46c68fd9f4cbeaa550d3ee2afc5.html">GameObject</a></li><li class="navelem"><a class="el" href="../../d7/d49/a00863.html">GameObjectData.h</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:13:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 9 2026 21:10:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,15 +1,8 @@
 var a18948 =
 [
-    [ "npc_frostwing_vrykulAI", "d7/de0/a18948.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
-    [ "AttackStart", "d7/de0/a18948.html#a42a53fedc36aa71f52900a416e414fc6", null ],
-    [ "CanAIAttack", "d7/de0/a18948.html#a91300d1178a2b433bd8830ec1066368e", null ],
-    [ "JustEngagedWith", "d7/de0/a18948.html#abc75688914cd4f984448dd3f21527d89", null ],
-    [ "JustSummoned", "d7/de0/a18948.html#a116908f5689d6d75570379f13ed0bd90", null ],
-    [ "Reset", "d7/de0/a18948.html#a4baa20089b50acee617c4b85bc6b8478", null ],
-    [ "SpellHitTarget", "d7/de0/a18948.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
-    [ "UpdateAI", "d7/de0/a18948.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
-    [ "events", "d7/de0/a18948.html#accae0992a349361d85200863f5ac4f81", null ],
-    [ "events2", "d7/de0/a18948.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
-    [ "isRanged", "d7/de0/a18948.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
-    [ "summons", "d7/de0/a18948.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
+    [ "npc_arthas_teleport_visualAI", "d7/de0/a18948.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d7/de0/a18948.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d7/de0/a18948.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d7/de0/a18948.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d7/de0/a18948.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

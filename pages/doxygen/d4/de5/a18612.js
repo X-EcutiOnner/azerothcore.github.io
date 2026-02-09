@@ -1,7 +1,8 @@
 var a18612 =
 [
-    [ "PrepareSpellScript", "d4/de5/a18612.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d4/de5/a18612.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d4/de5/a18612.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d4/de5/a18612.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "Load", "d4/de5/a18612.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d4/de5/a18612.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d4/de5/a18612.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d4/de5/a18612.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d4/de5/a18612.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

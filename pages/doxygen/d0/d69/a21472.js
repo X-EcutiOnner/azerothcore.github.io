@@ -1,7 +1,6 @@
 var a21472 =
 [
-    [ "HandleDummy", "d0/d69/a21472.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d0/d69/a21472.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d0/d69/a21472.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d0/d69/a21472.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_frozen_orbAI", "d2/d39/a21476.html", "d2/d39/a21476" ],
+    [ "npc_frozen_orb", "d0/d69/a21472.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d0/d69/a21472.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

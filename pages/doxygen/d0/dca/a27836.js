@@ -1,6 +1,6 @@
 var a27836 =
 [
-    [ "npc_injured_patientAI", "d2/da5/a27840.html", "d2/da5/a27840" ],
-    [ "npc_injured_patient", "d0/dca/a27836.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d0/dca/a27836.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "npc_garments_of_questsAI", "d2/da5/a27840.html", "d2/da5/a27840" ],
+    [ "npc_garments_of_quests", "d0/dca/a27836.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d0/dca/a27836.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

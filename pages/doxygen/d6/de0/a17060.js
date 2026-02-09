@@ -1,7 +1,8 @@
 var a17060 =
 [
-    [ "HandlePeriodicTick", "d6/de0/a17060.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d6/de0/a17060.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d6/de0/a17060.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d6/de0/a17060.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "npc_fos_leaderAI", "da/dce/a17064.html", "da/dce/a17064" ],
+    [ "npc_fos_leader", "d6/de0/a17060.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d6/de0/a17060.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d6/de0/a17060.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d6/de0/a17060.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

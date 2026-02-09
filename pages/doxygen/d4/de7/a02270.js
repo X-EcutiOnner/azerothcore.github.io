@@ -1,9 +1,9 @@
 var a02270 =
 [
-    [ "boss_najentus", "df/db9/a23228.html", "df/db9/a23228" ],
-    [ "spell_najentus_needle_spine", "d2/d7c/a23232.html", "d2/d7c/a23232" ],
-    [ "spell_najentus_hurl_spine", "dd/d9b/a23236.html", "dd/d9b/a23236" ],
-    [ "spell_najentus_remove_spines", "df/d94/a23240.html", "df/d94/a23240" ],
+    [ "boss_najentus", "d9/d2f/a23208.html", "d9/d2f/a23208" ],
+    [ "spell_najentus_needle_spine", "d6/d1a/a23212.html", "d6/d1a/a23212" ],
+    [ "spell_najentus_hurl_spine", "d4/d76/a23216.html", "d4/d76/a23216" ],
+    [ "spell_najentus_remove_spines", "d7/d97/a23220.html", "d7/d97/a23220" ],
     [ "Events", "d4/de7/a02270.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

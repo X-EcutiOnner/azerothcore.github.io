@@ -1,6 +1,6 @@
 var a16908 =
 [
-    [ "npc_concentrated_ballAI", "d3/d87/a16912.html", "d3/d87/a16912" ],
-    [ "npc_concentrated_ball", "d9/d40/a16908.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d9/d40/a16908.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d3/d87/a16912.html", "d3/d87/a16912" ],
+    [ "instance_trial_of_the_crusader", "d9/d40/a16908.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d9/d40/a16908.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

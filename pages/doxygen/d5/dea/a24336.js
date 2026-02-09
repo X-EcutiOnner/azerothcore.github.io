@@ -1,6 +1,6 @@
 var a24336 =
 [
-    [ "CheckCast", "d5/dea/a24336.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d5/dea/a24336.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d5/dea/a24336.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_invis_infernal_casterAI", "d5/d5d/a24340.html", "d5/d5d/a24340" ],
+    [ "npc_invis_infernal_caster", "d5/dea/a24336.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d5/dea/a24336.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

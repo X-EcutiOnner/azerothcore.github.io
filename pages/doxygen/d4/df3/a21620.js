@@ -1,15 +1,10 @@
 var a21620 =
 [
-    [ "npc_vh_teleportation_portalAI", "d4/df3/a21620.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
-    [ "JustDied", "d4/df3/a21620.html#aab2cc259d78492c54e21b4279697f909", null ],
-    [ "JustSummoned", "d4/df3/a21620.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
-    [ "SummonedMobDied", "d4/df3/a21620.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
-    [ "UpdateAI", "d4/df3/a21620.html#a812e330e20924cc34262363ecc0a3fc1", null ],
-    [ "addValue", "d4/df3/a21620.html#aa52f29a41d12320516737b437af62fc3", null ],
-    [ "bKorG", "d4/df3/a21620.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
-    [ "events", "d4/df3/a21620.html#a329635246e80e7264cad6749ee70be40", null ],
-    [ "listOfMobs", "d4/df3/a21620.html#a470a61cf7d424711b07770fd56c74b29", null ],
-    [ "pInstance", "d4/df3/a21620.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
-    [ "spawned", "d4/df3/a21620.html#a8921c314c2f4b958e11136504971f427", null ],
-    [ "wave", "d4/df3/a21620.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
+    [ "npc_azure_binderAI", "d4/df3/a21620.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d4/df3/a21620.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d4/df3/a21620.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d4/df3/a21620.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d4/df3/a21620.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d4/df3/a21620.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d4/df3/a21620.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

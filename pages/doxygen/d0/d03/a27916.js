@@ -1,5 +1,6 @@
 var a27916 =
 [
-    [ "npc_stable_masterAI", "d0/d03/a27916.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "d0/d03/a27916.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "npc_venomhide_hatchlingAI", "d0/d03/a27916.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d0/d03/a27916.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d0/d03/a27916.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

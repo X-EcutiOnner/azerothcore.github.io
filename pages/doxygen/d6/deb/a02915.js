@@ -1,7 +1,7 @@
 var a02915 =
 [
-    [ "boss_bjarngrim", "d2/de3/a19740.html", "d2/de3/a19740" ],
-    [ "npc_stormforged_lieutenant", "d2/d18/a19744.html", "d2/d18/a19744" ],
+    [ "boss_bjarngrim", "dd/d91/a19720.html", "dd/d91/a19720" ],
+    [ "npc_stormforged_lieutenant", "d9/d2e/a19724.html", "d9/d2e/a19724" ],
     [ "BjarngrimEvents", "d6/deb/a02915.html#aa8c3e344bed87b5cb609d644244a84dc", [
       [ "EVENT_BJARNGRIM_CHANGE_STANCE", "d6/deb/a02915.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688", null ],
       [ "EVENT_BJARNGRIM_REFLECTION", "d6/deb/a02915.html#aa8c3e344bed87b5cb609d644244a84dca248b5d28ba71eaca7bebb2db0e87af8b", null ],

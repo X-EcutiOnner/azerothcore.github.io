@@ -1,15 +1,16 @@
 var a11764 =
 [
-    [ "SunsReachReclamationData", "d0/d31/a11764.html#a840eb2024ae39f2f60f819e884db80b3", null ],
-    [ "GetData", "d0/d31/a11764.html#ae7ef124f28f2bc8230b4234652734994", null ],
-    [ "GetPhasePercentage", "d0/d31/a11764.html#a215cec505dd74695704ae7961161e195", null ],
-    [ "GetSubPhasePercentage", "d0/d31/a11764.html#aaee292336c57d967842d63f55e69bf0f", null ],
-    [ "GetSunwellGatePercentage", "d0/d31/a11764.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
-    [ "m_gate", "d0/d31/a11764.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
-    [ "m_gateCounters", "d0/d31/a11764.html#a76b38d6f571386c1d818752e12a66f66", null ],
-    [ "m_phase", "d0/d31/a11764.html#a67711cd7d43f481161b8f98690d67fe3", null ],
-    [ "m_subphaseMask", "d0/d31/a11764.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
-    [ "m_sunsReachReclamationCounters", "d0/d31/a11764.html#a14253084085c114aa2cfeefdebb0257d", null ],
-    [ "m_sunsReachReclamationMutex", "d0/d31/a11764.html#a0ef2835b702469482926ec4942d0f786", null ],
-    [ "m_sunsReachReclamationPlayers", "d0/d31/a11764.html#a72780ba8e17ccf5513d104eb228b3411", null ]
+    [ "CheckContainer", "d0/d31/a11764.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "d0/d31/a11764.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "d0/d31/a11764.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "d0/d31/a11764.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "d0/d31/a11764.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "d0/d31/a11764.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "d0/d31/a11764.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "d0/d31/a11764.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "d0/d31/a11764.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "d0/d31/a11764.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "d0/d31/a11764.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "d0/d31/a11764.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "d0/d31/a11764.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

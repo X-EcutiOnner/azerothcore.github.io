@@ -1,7 +1,6 @@
 var a16480 =
 [
-    [ "HandleDummy", "d8/d4c/a16480.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "d8/d4c/a16480.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "d8/d4c/a16480.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "d8/d4c/a16480.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "boss_eadricAI", "d4/d37/a16484.html", "d4/d37/a16484" ],
+    [ "boss_eadric", "d8/d4c/a16480.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "d8/d4c/a16480.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

@@ -1,9 +1,9 @@
 var a02828 =
 [
-    [ "npc_frost_tomb", "dc/dac/a21280.html", "dc/dac/a21280" ],
-    [ "boss_keleseth", "db/d4d/a21284.html", "db/d4d/a21284" ],
-    [ "npc_vrykul_skeleton", "d9/da9/a21288.html", "d9/da9/a21288" ],
-    [ "spell_frost_tomb_aura", "d0/d64/a21292.html", "d0/d64/a21292" ],
+    [ "npc_frost_tomb", "da/d91/a21260.html", "da/d91/a21260" ],
+    [ "boss_keleseth", "db/ded/a21264.html", "db/ded/a21264" ],
+    [ "npc_vrykul_skeleton", "d6/d34/a21268.html", "d6/d34/a21268" ],
+    [ "spell_frost_tomb_aura", "dc/d59/a21272.html", "dc/d59/a21272" ],
     [ "eNPCs", "d2/d4c/a02828.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_BROODLORD", "de/df3/a00185.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
       [ "NPC_JAN_ALAI", "de/df3/a00185.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],

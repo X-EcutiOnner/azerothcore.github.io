@@ -1,9 +1,6 @@
 var a16820 =
 [
-    [ "npc_fel_infernalAI", "d1/dfc/a16820.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d1/dfc/a16820.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d1/dfc/a16820.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d1/dfc/a16820.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d1/dfc/a16820.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d1/dfc/a16820.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_snobold_vassalAI", "d5/dd8/a16824.html", "d5/dd8/a16824" ],
+    [ "npc_snobold_vassal", "d1/dfc/a16820.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d1/dfc/a16820.html#a77976a59f600591454fac197ded613ef", null ]
 ];

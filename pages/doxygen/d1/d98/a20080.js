@@ -1,11 +1,6 @@
 var a20080 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "d1/d98/a20080.html#aedf30f06fe89c805019f7cc254646ff1", null ],
-    [ "CanAIAttack", "d1/d98/a20080.html#a76efa1d88ce029775809abb3ec88efb3", null ],
-    [ "DamageTaken", "d1/d98/a20080.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
-    [ "JustDied", "d1/d98/a20080.html#af261cc1f0458984719ab1bb4518bdc64", null ],
-    [ "KilledUnit", "d1/d98/a20080.html#aed3f2a4bac3391683989eec94697ef16", null ],
-    [ "UpdateAI", "d1/d98/a20080.html#a575eb381d1aa31af60484271ae6e4627", null ],
-    [ "_instance", "d1/d98/a20080.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
-    [ "_setHealth", "d1/d98/a20080.html#aeb220ded0a6515674a428716a8be9f48", null ]
+    [ "npc_hodirs_furyAI", "d8/def/a20084.html", "d8/def/a20084" ],
+    [ "npc_hodirs_fury", "d1/d98/a20080.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
+    [ "GetAI", "d1/d98/a20080.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
 ];

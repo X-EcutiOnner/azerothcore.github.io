@@ -1,5 +1,5 @@
 var a27664 =
 [
-    [ "item_mysterious_egg", "de/df3/a27664.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "de/df3/a27664.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "item_petrov_cluster_bombs", "de/df3/a27664.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "de/df3/a27664.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

@@ -1,8 +1,6 @@
 var a19460 =
 [
-    [ "HandleDamage", "d7/d09/a19460.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d7/d09/a19460.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d7/d09/a19460.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d7/d09/a19460.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d7/d09/a19460.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "DespawnTime", "d7/d09/a19460.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d7/d09/a19460.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d7/d09/a19460.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

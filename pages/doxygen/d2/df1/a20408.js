@@ -1,6 +1,6 @@
 var a20408 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d2/df1/a20408.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "d2/df1/a20408.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "d2/df1/a20408.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "npc_ulduar_hodir_shamanAI", "dc/d56/a20412.html", "dc/d56/a20412" ],
+    [ "npc_ulduar_hodir_shaman", "d2/df1/a20408.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "d2/df1/a20408.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

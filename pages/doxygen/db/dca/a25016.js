@@ -1,10 +1,8 @@
 var a25016 =
 [
-    [ "Load", "db/dca/a25016.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "db/dca/a25016.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "db/dca/a25016.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "db/dca/a25016.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "db/dca/a25016.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "db/dca/a25016.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "db/dca/a25016.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "HandleSchoolDMG", "db/dca/a25016.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
+    [ "HandleScriptEffect", "db/dca/a25016.html#a06f9cf29387b49f3e5950661173c77eb", null ],
+    [ "PrepareSpellScript", "db/dca/a25016.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
+    [ "Register", "db/dca/a25016.html#a9bdbf7578509976d482a26869e9068aa", null ],
+    [ "Validate", "db/dca/a25016.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
 ];

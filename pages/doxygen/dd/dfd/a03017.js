@@ -2,6 +2,7 @@ var a03017 =
 [
     [ "DataHeader", "dd/dfd/a03017.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "ObsidianSanctumScriptName", "dd/dfd/a03017.html#accb9d1f27143774736f13b6dd04325ed", null ],
+    [ "RegisterObsidianSanctumCreatureAI", "dd/dfd/a03017.html#a9293e1c83e19ab7b05cdce50c5aa51a0", null ],
     [ "Data", "dd/dfd/a03017.html#a5ddd2f4ab6b0acc94a78aa229927bd6b", [
       [ "TYPE_GELIHAST", "dc/de1/a02513.html#af5baa506e65b4caa6be6d1c6661dfe63aba8a7ffa7c59b363812d39c2f84cfb06", null ],
       [ "TYPE_FIRE1", "dc/de1/a02513.html#af5baa506e65b4caa6be6d1c6661dfe63ab51c33641138640c72e3196ce6fb27fe", null ],

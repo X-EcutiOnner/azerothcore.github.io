@@ -1,7 +1,7 @@
 var a01940 =
 [
-    [ "instance_sethekk_halls", "de/d58/a22872.html", "de/d58/a22872" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "d9/d93/a22876.html", "d9/d93/a22876" ],
+    [ "instance_sethekk_halls", "dc/df6/a22852.html", "dc/df6/a22852" ],
+    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "dc/d8c/a22856.html", "dc/d8c/a22856" ],
     [ "AddSC_instance_sethekk_halls", "d5/dba/a01940.html#a14325c1667938972a51bf364b00fe3c3", null ],
     [ "anzuSummonEventId", "d5/dba/a01940.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
     [ "creatureData", "d5/dba/a01940.html#a412286b689bd324fedd65ddd8dde8afb", null ],

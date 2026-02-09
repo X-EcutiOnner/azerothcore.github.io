@@ -1,8 +1,6 @@
 var a26204 =
 [
-    [ "CheckQuest", "da/d3c/a26204.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "da/d3c/a26204.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "da/d3c/a26204.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "da/d3c/a26204.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "da/d3c/a26204.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "OnRemove", "da/d3c/a26204.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "da/d3c/a26204.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "da/d3c/a26204.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

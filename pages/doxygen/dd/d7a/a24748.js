@@ -1,11 +1,10 @@
 var a24748 =
 [
-    [ "CalcPeriodic", "dd/d7a/a24748.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "dd/d7a/a24748.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "dd/d7a/a24748.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "dd/d7a/a24748.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "dd/d7a/a24748.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "dd/d7a/a24748.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "dd/d7a/a24748.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "dd/d7a/a24748.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "CheckProc", "dd/d7a/a24748.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "dd/d7a/a24748.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "dd/d7a/a24748.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "dd/d7a/a24748.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "dd/d7a/a24748.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "dd/d7a/a24748.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTarget", "dd/d7a/a24748.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
 ];

@@ -1,6 +1,6 @@
 var a16552 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dd/dfd/a16556.html", "dd/dfd/a16556" ],
-    [ "npc_black_knight_skeletal_gryphon", "d9/d14/a16552.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d9/d14/a16552.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "HandleSpellHit", "d9/d14/a16552.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "d9/d14/a16552.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "d9/d14/a16552.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

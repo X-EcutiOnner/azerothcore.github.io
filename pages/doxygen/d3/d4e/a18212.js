@@ -1,6 +1,6 @@
 var a18212 =
 [
-    [ "OnRemove", "d3/d4e/a18212.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d3/d4e/a18212.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d3/d4e/a18212.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "boss_rotfaceAI", "d0/d58/a18216.html", "d0/d58/a18216" ],
+    [ "boss_rotface", "d3/d4e/a18212.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d3/d4e/a18212.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

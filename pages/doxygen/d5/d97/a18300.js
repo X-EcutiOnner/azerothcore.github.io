@@ -1,7 +1,6 @@
 var a18300 =
 [
-    [ "FrostBombExplosion", "d5/d97/a18300.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d5/d97/a18300.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d5/d97/a18300.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d5/d97/a18300.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_ice_tombAI", "db/d16/a18304.html", "db/d16/a18304" ],
+    [ "npc_ice_tomb", "d5/d97/a18300.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d5/d97/a18300.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

@@ -1,6 +1,5 @@
 var a23184 =
 [
-    [ "PrepareSpellScript", "d8/dae/a23184.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d8/dae/a23184.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d8/dae/a23184.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "npc_vengeful_spirit", "d8/dae/a23184.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "d8/dae/a23184.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

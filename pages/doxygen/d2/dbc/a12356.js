@@ -1,6 +1,9 @@
 var a12356 =
 [
-    [ "boss_pyroguard_emberseerAI", "de/dc4/a12360.html", "de/dc4/a12360" ],
-    [ "boss_pyroguard_emberseer", "d2/dbc/a12356.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "d2/dbc/a12356.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "boss_overlordwyrmthalakAI", "d2/dbc/a12356.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d2/dbc/a12356.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d2/dbc/a12356.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d2/dbc/a12356.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d2/dbc/a12356.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d2/dbc/a12356.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

@@ -1,7 +1,7 @@
 var a17972 =
 [
-    [ "FilterTargets", "dc/d24/a17972.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "dc/d24/a17972.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "dc/d24/a17972.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "dc/d24/a17972.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "PrepareSpellScript", "dc/d24/a17972.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "dc/d24/a17972.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "dc/d24/a17972.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "dc/d24/a17972.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

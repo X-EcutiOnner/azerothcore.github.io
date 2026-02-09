@@ -1,6 +1,10 @@
 var a23472 =
 [
-    [ "HandleEffectRemove", "dd/df8/a23472.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "dd/df8/a23472.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "dd/df8/a23472.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "npc_frozen_core", "dd/df8/a23472.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "dd/df8/a23472.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "dd/df8/a23472.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "dd/df8/a23472.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "dd/df8/a23472.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "dd/df8/a23472.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "dd/df8/a23472.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

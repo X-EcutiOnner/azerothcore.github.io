@@ -1,8 +1,6 @@
 var a18616 =
 [
-    [ "Load", "dd/d42/a18616.html#add67e02f44e3658bff98faf7a9466ba3", null ],
-    [ "OnPeriodic", "dd/d42/a18616.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
-    [ "PrepareAuraScript", "dd/d42/a18616.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
-    [ "Register", "dd/d42/a18616.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
-    [ "_is25Man", "dd/d42/a18616.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
+    [ "npc_strangulate_vehicleAI", "df/dda/a18620.html", "df/dda/a18620" ],
+    [ "npc_strangulate_vehicle", "dd/d42/a18616.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "dd/d42/a18616.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

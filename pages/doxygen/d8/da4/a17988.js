@@ -1,7 +1,6 @@
 var a17988 =
 [
-    [ "DamageGunship", "d8/da4/a17988.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d8/da4/a17988.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d8/da4/a17988.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d8/da4/a17988.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "DaranavanMoveEvent", "d8/da4/a17988.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d8/da4/a17988.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d8/da4/a17988.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

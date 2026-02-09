@@ -1,7 +1,20 @@
 var a22920 =
 [
-    [ "HandleProc", "df/d96/a22920.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "df/d96/a22920.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "df/d96/a22920.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "df/d96/a22920.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "boss_illidan_stormrage", "df/d96/a22920.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
+    [ "CanAIAttack", "df/d96/a22920.html#a9607a9a09df9d07ebae0513458435b4d", null ],
+    [ "CycleBeamPos", "df/d96/a22920.html#a2044514c049262328022ac22a651fb92", null ],
+    [ "DamageTaken", "df/d96/a22920.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
+    [ "DoAction", "df/d96/a22920.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
+    [ "EnterEvadeMode", "df/d96/a22920.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "JustDied", "df/d96/a22920.html#a4d38abd8885862e31a88da4de754e35d", null ],
+    [ "JustEngagedWith", "df/d96/a22920.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
+    [ "JustSummoned", "df/d96/a22920.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
+    [ "KilledUnit", "df/d96/a22920.html#abf29f9607351d35953d8d0e97779c3f9", null ],
+    [ "MovementInform", "df/d96/a22920.html#acdd75f289288b3e6de4136267d490519", null ],
+    [ "Reset", "df/d96/a22920.html#aa5eb94712f886e821630535cb2970dfe", null ],
+    [ "ScheduleAbilities", "df/d96/a22920.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "_canTalk", "df/d96/a22920.html#abaf0cca3f159aae572203254c41444a3", null ],
+    [ "_dying", "df/d96/a22920.html#af312452020938736624496d9f6a76d28", null ],
+    [ "_inCutscene", "df/d96/a22920.html#a715525706b44dbc53847e639f3b15d3a", null ],
+    [ "beamPosId", "df/d96/a22920.html#a6168b84bfb49781736fa2accf5225808", null ]
 ];

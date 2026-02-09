@@ -1,9 +1,6 @@
 var a23432 =
 [
-    [ "CalcPeriodic", "da/d1e/a23432.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "da/d1e/a23432.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "da/d1e/a23432.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "da/d1e/a23432.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "da/d1e/a23432.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "da/d1e/a23432.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d4/d19/a23436.html", "d4/d19/a23436" ],
+    [ "instance_serpent_shrine", "da/d1e/a23432.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "da/d1e/a23432.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

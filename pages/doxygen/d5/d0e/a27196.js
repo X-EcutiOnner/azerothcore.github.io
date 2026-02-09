@@ -1,6 +1,6 @@
 var a27196 =
 [
-    [ "HandleDummy", "d5/d0e/a27196.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "d5/d0e/a27196.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "d5/d0e/a27196.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "HandleHeal", "d5/d0e/a27196.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d5/d0e/a27196.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d5/d0e/a27196.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

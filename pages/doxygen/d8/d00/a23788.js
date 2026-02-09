@@ -1,6 +1,8 @@
 var a23788 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d3/ded/a23792.html", "d3/ded/a23792" ],
-    [ "instance_hellfire_ramparts", "d8/d00/a23788.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d8/d00/a23788.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "HandleDummyApply", "d8/d00/a23788.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d8/d00/a23788.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d8/d00/a23788.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d8/d00/a23788.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d8/d00/a23788.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

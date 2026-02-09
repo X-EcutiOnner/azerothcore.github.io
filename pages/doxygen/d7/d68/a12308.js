@@ -1,6 +1,8 @@
 var a12308 =
 [
-    [ "boss_gythAI", "d4/dbb/a12312.html", "d4/dbb/a12312" ],
-    [ "boss_gyth", "d7/d68/a12308.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "d7/d68/a12308.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "boss_drakkisathAI", "d7/d68/a12308.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "d7/d68/a12308.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "d7/d68/a12308.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "d7/d68/a12308.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "d7/d68/a12308.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

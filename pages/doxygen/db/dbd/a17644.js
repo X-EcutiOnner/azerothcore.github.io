@@ -1,6 +1,6 @@
 var a17644 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d3/d28/a17648.html", "d3/d28/a17648" ],
-    [ "boss_blood_queen_lana_thel", "db/dbd/a17644.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "db/dbd/a17644.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "BloodboltHitCheck", "db/dbd/a17644.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "db/dbd/a17644.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "db/dbd/a17644.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

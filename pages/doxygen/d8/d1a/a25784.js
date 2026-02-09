@@ -1,8 +1,6 @@
 var a25784 =
 [
-    [ "OnApply", "d8/d1a/a25784.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "d8/d1a/a25784.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "d8/d1a/a25784.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "d8/d1a/a25784.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d8/d1a/a25784.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleHeal", "d8/d1a/a25784.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "d8/d1a/a25784.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "d8/d1a/a25784.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

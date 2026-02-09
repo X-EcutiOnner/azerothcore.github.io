@@ -1,6 +1,6 @@
 var a24532 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d2/d02/a24536.html", "d2/d02/a24536" ],
-    [ "npc_unkor_the_ruthless", "dc/d7b/a24532.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "dc/d7b/a24532.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "go_ancient_skull_pile", "dc/d7b/a24532.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "dc/d7b/a24532.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "dc/d7b/a24532.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

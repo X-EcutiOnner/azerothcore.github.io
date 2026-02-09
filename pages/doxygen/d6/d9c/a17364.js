@@ -1,6 +1,6 @@
 var a17364 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d0/dca/a17368.html", "d0/dca/a17368" ],
-    [ "npc_pos_collapsing_icicle", "d6/d9c/a17364.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d6/d9c/a17364.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_pos_freed_slaveAI", "d6/d9c/a17364.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d6/d9c/a17364.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d6/d9c/a17364.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

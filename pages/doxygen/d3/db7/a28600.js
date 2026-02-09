@@ -1,5 +1,7 @@
 var a28600 =
 [
-    [ "id", "d3/db7/a28600.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d3/db7/a28600.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "Id", "d3/db7/a28600.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d3/db7/a28600.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d3/db7/a28600.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d3/db7/a28600.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

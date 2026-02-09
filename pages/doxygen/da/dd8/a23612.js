@@ -1,8 +1,8 @@
 var a23612 =
 [
-    [ "boss_hungarfen", "da/dd8/a23612.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "da/dd8/a23612.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "da/dd8/a23612.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "da/dd8/a23612.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "da/dd8/a23612.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "boss_the_black_stalker", "da/dd8/a23612.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "da/dd8/a23612.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "da/dd8/a23612.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "da/dd8/a23612.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "da/dd8/a23612.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

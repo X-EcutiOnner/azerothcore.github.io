@@ -1,10 +1,12 @@
 var a19772 =
 [
-    [ "npc_molten_golem", "d9/df3/a19772.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d9/df3/a19772.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d9/df3/a19772.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d9/df3/a19772.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d9/df3/a19772.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d9/df3/a19772.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d9/df3/a19772.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "boss_krystallusAI", "d9/df3/a19772.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d9/df3/a19772.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d9/df3/a19772.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d9/df3/a19772.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d9/df3/a19772.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d9/df3/a19772.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d9/df3/a19772.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d9/df3/a19772.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d9/df3/a19772.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

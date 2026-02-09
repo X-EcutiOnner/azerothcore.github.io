@@ -1,6 +1,8 @@
 var a22520 =
 [
-    [ "CheckCast", "d1/d1a/a22520.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d1/d1a/a22520.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d1/d1a/a22520.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "spell_loosen_grip", "d1/d1a/a22520.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d1/d1a/a22520.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d1/d1a/a22520.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d1/d1a/a22520.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d1/d1a/a22520.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

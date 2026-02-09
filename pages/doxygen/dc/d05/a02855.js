@@ -1,11 +1,11 @@
 var a02855 =
 [
-    [ "boss_svala", "d4/d12/a21388.html", "d4/d12/a21388" ],
-    [ "boss_svala::boss_svalaAI", "dd/daf/a21392.html", "dd/daf/a21392" ],
-    [ "npc_ritual_channeler", "d1/d0e/a21396.html", "d1/d0e/a21396" ],
-    [ "npc_ritual_channeler::npc_ritual_channelerAI", "dd/d7c/a21400.html", "dd/d7c/a21400" ],
-    [ "spell_svala_ritual_strike", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
-    [ "spell_svala_ritual_strike_aura", "d4/d70/a21408.html", "d4/d70/a21408" ],
+    [ "boss_svala", "dd/d0c/a21368.html", "dd/d0c/a21368" ],
+    [ "boss_svala::boss_svalaAI", "dc/dac/a21372.html", "dc/dac/a21372" ],
+    [ "npc_ritual_channeler", "d1/db4/a21376.html", "d1/db4/a21376" ],
+    [ "npc_ritual_channeler::npc_ritual_channelerAI", "d4/dc9/a21380.html", "d4/dc9/a21380" ],
+    [ "spell_svala_ritual_strike", "df/df6/a21384.html", "df/df6/a21384" ],
+    [ "spell_svala_ritual_strike_aura", "d4/d12/a21388.html", "d4/d12/a21388" ],
     [ "Events", "dc/d05/a02855.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d01/a03458.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

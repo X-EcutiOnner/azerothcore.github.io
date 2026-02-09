@@ -1,6 +1,8 @@
 var a22248 =
 [
-    [ "npc_black_knight_graveyardAI", "dd/dbc/a22252.html", "dd/dbc/a22252" ],
-    [ "npc_black_knight_graveyard", "dd/d40/a22248.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "dd/d40/a22248.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_llod_genericAI", "dd/d40/a22248.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "dd/d40/a22248.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "dd/d40/a22248.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "dd/d40/a22248.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "dd/d40/a22248.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

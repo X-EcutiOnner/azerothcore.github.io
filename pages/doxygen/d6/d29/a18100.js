@@ -1,6 +1,6 @@
 var a18100 =
 [
-    [ "PrepareSpellScript", "d6/d29/a18100.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d6/d29/a18100.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d6/d29/a18100.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "boss_professor_putricideAI", "d6/df9/a18104.html", "d6/df9/a18104" ],
+    [ "boss_professor_putricide", "d6/d29/a18100.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d6/d29/a18100.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

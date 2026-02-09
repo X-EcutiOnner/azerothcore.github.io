@@ -1,6 +1,13 @@
 var a17292 =
 [
-    [ "boss_krickAI", "d6/d9b/a17296.html", "d6/d9b/a17296" ],
-    [ "boss_krick", "d5/db3/a17292.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "d5/db3/a17292.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "boss_tyrannusAI", "d5/db3/a17292.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d5/db3/a17292.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d5/db3/a17292.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d5/db3/a17292.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d5/db3/a17292.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d5/db3/a17292.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d5/db3/a17292.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d5/db3/a17292.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d5/db3/a17292.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d5/db3/a17292.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

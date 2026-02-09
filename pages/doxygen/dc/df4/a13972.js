@@ -1,7 +1,5 @@
 var a13972 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
-    [ "npc_lady_sylvanas_windrunner", "dc/df4/a13972.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "dc/df4/a13972.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "dc/df4/a13972.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_king_varian_wrynn", "dc/df4/a13972.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "dc/df4/a13972.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

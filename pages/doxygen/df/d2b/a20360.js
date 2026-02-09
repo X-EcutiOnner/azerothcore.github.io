@@ -1,7 +1,6 @@
 var a20360 =
 [
-    [ "HandleAfterHit", "df/d2b/a20360.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "df/d2b/a20360.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "df/d2b/a20360.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "df/d2b/a20360.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "boss_hodirAI", "d6/d26/a20364.html", "d6/d26/a20364" ],
+    [ "boss_hodir", "df/d2b/a20360.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "df/d2b/a20360.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

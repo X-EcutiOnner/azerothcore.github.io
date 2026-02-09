@@ -1,6 +1,6 @@
 var a20220 =
 [
-    [ "CheckCast", "d8/d56/a20220.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d8/d56/a20220.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d8/d56/a20220.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "boss_freyaAI", "d9/d42/a20224.html", "d9/d42/a20224" ],
+    [ "boss_freya", "d8/d56/a20220.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d8/d56/a20220.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

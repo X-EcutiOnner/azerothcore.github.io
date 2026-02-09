@@ -1,15 +1,6 @@
 var a14192 =
 [
-    [ "npc_amanishi_tempest", "d8/d11/a14192.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "d8/d11/a14192.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "d8/d11/a14192.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "d8/d11/a14192.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "d8/d11/a14192.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "d8/d11/a14192.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "d8/d11/a14192.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "d8/d11/a14192.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "d8/d11/a14192.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "d8/d11/a14192.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "d8/d11/a14192.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "d8/d11/a14192.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d8/d11/a14192.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d8/d11/a14192.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d8/d11/a14192.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

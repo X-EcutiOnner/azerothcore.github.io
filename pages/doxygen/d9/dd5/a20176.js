@@ -1,8 +1,7 @@
 var a20176 =
 [
-    [ "OnApply", "d9/dd5/a20176.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d9/dd5/a20176.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d9/dd5/a20176.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d9/dd5/a20176.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d9/dd5/a20176.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "HandleScript", "d9/dd5/a20176.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d9/dd5/a20176.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d9/dd5/a20176.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d9/dd5/a20176.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

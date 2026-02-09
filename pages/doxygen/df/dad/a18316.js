@@ -1,25 +1,6 @@
 var a18316 =
 [
-    [ "boss_sindragosaAI", "df/dad/a18316.html#ab02e42a863496b27a8f2b745085e30ea", null ],
-    [ "CanAIAttack", "df/dad/a18316.html#aea65b981e8b9461750a53fca3919c27f", null ],
-    [ "DamageTaken", "df/dad/a18316.html#ab4bc9869ad6074a1671b0b18f681a913", null ],
-    [ "DoAction", "df/dad/a18316.html#a93859d74931e5b810e3c48e492103919", null ],
-    [ "EnterEvadeMode", "df/dad/a18316.html#acb1e677b2347e0464df832e1d86cd3b5", null ],
-    [ "GetData", "df/dad/a18316.html#abbdaf0b2fe76e6f79126d15a1cecca2a", null ],
-    [ "JustDied", "df/dad/a18316.html#a0a41a38ba0577f9b4f10bd1143a1e615", null ],
-    [ "JustEngagedWith", "df/dad/a18316.html#af0151f1cb6776a3a180b4e24332c8489", null ],
-    [ "JustSummoned", "df/dad/a18316.html#ac3d9b66097202719781ede743fabc1ea", null ],
-    [ "KilledUnit", "df/dad/a18316.html#a27f5953a9cf68ec10a63622cf0f33d9b", null ],
-    [ "MoveInLineOfSight", "df/dad/a18316.html#a17d93e98d5c8f91e8009674a4117bd39", null ],
-    [ "MovementInform", "df/dad/a18316.html#abff1b505e9d2d6c826f814b2d43409af", null ],
-    [ "Reset", "df/dad/a18316.html#a5350ca3791fb777959de068933d121ba", null ],
-    [ "SpellHitTarget", "df/dad/a18316.html#ad2d10d5aeebea48809a61eee293ff9da", null ],
-    [ "SummonedCreatureDespawn", "df/dad/a18316.html#a5245dbb8a3065f2da4815be744dce357", null ],
-    [ "UpdateAI", "df/dad/a18316.html#a0e92f831d702eda65309787c651f221b", null ],
-    [ "_bombCount", "df/dad/a18316.html#a8ef89884c8d1b272d28dd7a6d2048964", null ],
-    [ "_isBelow20Pct", "df/dad/a18316.html#a87663e3f6d1c87c9def8eb1852adc029", null ],
-    [ "_isInAirPhase", "df/dad/a18316.html#addc25d8f87dd9fd627c0bde5944c037a", null ],
-    [ "_isLanding", "df/dad/a18316.html#a3de52bd0571eab9df13809ff5a4b891c", null ],
-    [ "_isThirdPhase", "df/dad/a18316.html#a741a811fd9832fb4275c51d2272d98f0", null ],
-    [ "_mysticBuffetStack", "df/dad/a18316.html#a9cfaa3b61da9a7aad88c2d2a537f0821", null ]
+    [ "FilterTargets", "df/dad/a18316.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "df/dad/a18316.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "df/dad/a18316.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

@@ -1,5 +1,7 @@
 var a21836 =
 [
-    [ "npc_leryssaAI", "d4/d24/a21836.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d4/d24/a21836.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "HandleEffectHit", "d4/d24/a21836.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d4/d24/a21836.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d4/d24/a21836.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d4/d24/a21836.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

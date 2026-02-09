@@ -1,11 +1,6 @@
 var a17924 =
 [
-    [ "CountTargets", "de/d21/a17924.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "de/d21/a17924.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "de/d21/a17924.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "de/d21/a17924.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "de/d21/a17924.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "de/d21/a17924.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "de/d21/a17924.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "de/d21/a17924.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "IgbTeleportOnVictoryCheck", "de/d21/a17924.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "de/d21/a17924.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "de/d21/a17924.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

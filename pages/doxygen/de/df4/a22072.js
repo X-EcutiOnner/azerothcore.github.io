@@ -1,6 +1,8 @@
 var a22072 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d0/d68/a22076.html", "d0/d68/a22076" ],
-    [ "npc_commander_eligor_dawnbringer", "de/df4/a22072.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "de/df4/a22072.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "AfterApply", "de/df4/a22072.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "de/df4/a22072.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "de/df4/a22072.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "de/df4/a22072.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "de/df4/a22072.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

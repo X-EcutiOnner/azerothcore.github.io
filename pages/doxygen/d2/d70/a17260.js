@@ -1,7 +1,9 @@
 var a17260 =
 [
-    [ "UtherBatteredHiltEvent", "d2/d70/a17260.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d2/d70/a17260.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d2/d70/a17260.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d2/d70/a17260.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "FilterTargets", "d2/d70/a17260.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d2/d70/a17260.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d2/d70/a17260.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d2/d70/a17260.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d2/d70/a17260.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d2/d70/a17260.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

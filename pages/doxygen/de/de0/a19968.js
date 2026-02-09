@@ -1,6 +1,6 @@
 var a19968 =
 [
-    [ "boss_steelbreakerAI", "d3/d79/a19972.html", "d3/d79/a19972" ],
-    [ "boss_steelbreaker", "de/de0/a19968.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "de/de0/a19968.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "npc_assembly_lightningAI", "d3/d79/a19972.html", "d3/d79/a19972" ],
+    [ "npc_assembly_lightning", "de/de0/a19968.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
+    [ "GetAI", "de/de0/a19968.html#a4054ea8bb68b2742847b359e19b477df", null ]
 ];

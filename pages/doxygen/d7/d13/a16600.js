@@ -1,6 +1,6 @@
 var a16600 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "da/dfa/a16604.html", "da/dfa/a16604" ],
-    [ "instance_trial_of_the_champion", "d7/d13/a16600.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d7/d13/a16600.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "boss_anubarak_trialAI", "da/dfa/a16604.html", "da/dfa/a16604" ],
+    [ "boss_anubarak_trial", "d7/d13/a16600.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d7/d13/a16600.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

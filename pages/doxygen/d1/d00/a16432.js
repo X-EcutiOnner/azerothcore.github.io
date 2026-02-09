@@ -1,7 +1,6 @@
 var a16432 =
 [
-    [ "OnApply", "d1/d00/a16432.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d1/d00/a16432.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d1/d00/a16432.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d1/d00/a16432.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "OnSummon", "d1/d00/a16432.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "d1/d00/a16432.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "d1/d00/a16432.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

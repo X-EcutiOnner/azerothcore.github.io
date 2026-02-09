@@ -1,5 +1,6 @@
 var a20056 =
 [
-    [ "achievement_auriaya_nine_lives", "d4/d29/a20056.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d4/d29/a20056.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "da/d14/a20060.html", "da/d14/a20060" ],
+    [ "boss_flame_leviathan_defense_turret", "d4/d29/a20056.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d4/d29/a20056.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

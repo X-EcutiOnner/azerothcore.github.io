@@ -1,6 +1,6 @@
 var a21140 =
 [
-    [ "FilterTargets", "d6/d25/a21140.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d6/d25/a21140.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d6/d25/a21140.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "FilterTargets", "d6/d25/a21140.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d6/d25/a21140.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d6/d25/a21140.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

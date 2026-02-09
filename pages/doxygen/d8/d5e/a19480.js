@@ -1,6 +1,5 @@
 var a19480 =
 [
-    [ "DespawnTime", "d8/d5e/a19480.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d8/d5e/a19480.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d8/d5e/a19480.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "at_naxxramas_hub_portal", "d8/d5e/a19480.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d8/d5e/a19480.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

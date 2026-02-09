@@ -1,6 +1,10 @@
 var a16544 =
 [
-    [ "boss_black_knightAI", "d9/dc2/a16548.html", "d9/dc2/a16548" ],
-    [ "boss_black_knight", "dd/d0e/a16544.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "dd/d0e/a16544.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_black_knight_ghoulAI", "dd/d0e/a16544.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "dd/d0e/a16544.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "dd/d0e/a16544.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "dd/d0e/a16544.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "dd/d0e/a16544.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "dd/d0e/a16544.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "dd/d0e/a16544.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

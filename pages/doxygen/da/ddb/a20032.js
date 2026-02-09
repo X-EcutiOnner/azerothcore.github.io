@@ -1,6 +1,5 @@
 var a20032 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d0/d8f/a20036.html", "d0/d8f/a20036" ],
-    [ "npc_auriaya_sanctum_sentry", "da/ddb/a20032.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
-    [ "GetAI", "da/ddb/a20032.html#a6a8843d3f24378a2fd334e773618ab72", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "da/ddb/a20032.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "da/ddb/a20032.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

@@ -1,10 +1,10 @@
 var a01868 =
 [
-    [ "QuestLocale", "df/d69/a10268.html", "df/d69/a10268" ],
-    [ "QuestRequestItemsLocale", "df/d2d/a10272.html", "df/d2d/a10272" ],
-    [ "QuestOfferRewardLocale", "d1/dc5/a10276.html", "d1/dc5/a10276" ],
-    [ "Quest", "dc/d3a/a10280.html", "dc/d3a/a10280" ],
-    [ "QuestStatusData", "db/dcb/a10284.html", "db/dcb/a10284" ],
+    [ "QuestLocale", "df/d2d/a10272.html", "df/d2d/a10272" ],
+    [ "QuestRequestItemsLocale", "d1/dc5/a10276.html", "d1/dc5/a10276" ],
+    [ "QuestOfferRewardLocale", "dc/d3a/a10280.html", "dc/d3a/a10280" ],
+    [ "Quest", "db/dcb/a10284.html", "db/dcb/a10284" ],
+    [ "QuestStatusData", "de/dbf/a10288.html", "de/dbf/a10288" ],
     [ "MAX_QUEST_LOG_SIZE", "dd/de7/a01868.html#a95d52fc66ae096a6bcac03b3cdccf3b8", null ],
     [ "QUEST_DEPLINK_COUNT", "dd/de7/a01868.html#a1ad18081efbed90eca30ddba880ef519", null ],
     [ "QUEST_EMOTE_COUNT", "dd/de7/a01868.html#a63297dd973bbf1f493882c44e7b32d75", null ],

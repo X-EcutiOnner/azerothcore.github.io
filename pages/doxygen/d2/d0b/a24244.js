@@ -1,9 +1,6 @@
 var a24244 =
 [
-    [ "npc_wounded_blood_elfAI", "d2/d0b/a24244.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d2/d0b/a24244.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d2/d0b/a24244.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d2/d0b/a24244.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d2/d0b/a24244.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d2/d0b/a24244.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "go_beaconAI", "d2/d0b/a24244.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d2/d0b/a24244.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "d2/d0b/a24244.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

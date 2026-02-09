@@ -1,9 +1,9 @@
 var a03584 =
 [
-    [ "PlayerAbilityStruct", "d4/df9/a14096.html", "d4/df9/a14096" ],
-    [ "boss_hexlord_malacrass", "d6/d4d/a14100.html", "d6/d4d/a14100" ],
-    [ "boss_alyson_antille", "da/d31/a14104.html", "da/d31/a14104" ],
-    [ "spell_hexlord_unstable_affliction", "d6/d59/a14108.html", "d6/d59/a14108" ],
+    [ "PlayerAbilityStruct", "d6/d4d/a14100.html", "d6/d4d/a14100" ],
+    [ "boss_hexlord_malacrass", "da/d31/a14104.html", "da/d31/a14104" ],
+    [ "boss_alyson_antille", "d6/d59/a14108.html", "d6/d59/a14108" ],
+    [ "spell_hexlord_unstable_affliction", "dd/d3b/a14112.html", "dd/d3b/a14112" ],
     [ "AbilityTarget", "dd/dda/a03584.html#adfb3b9eec5ef9b543982c5266b78f0c4", [
       [ "ABILITY_TARGET_SELF", "dd/dda/a03584.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68", null ],
       [ "ABILITY_TARGET_VICTIM", "dd/dda/a03584.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901", null ],

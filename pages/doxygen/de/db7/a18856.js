@@ -1,7 +1,6 @@
 var a18856 =
 [
-    [ "FrostwingVrykulSearcher", "de/db7/a18856.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "de/db7/a18856.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "de/db7/a18856.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "de/db7/a18856.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "npc_rotting_frost_giantAI", "d0/db9/a18860.html", "d0/db9/a18860" ],
+    [ "npc_rotting_frost_giant", "de/db7/a18856.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "de/db7/a18856.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

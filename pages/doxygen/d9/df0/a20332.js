@@ -1,7 +1,6 @@
 var a20332 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d9/df0/a20332.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d9/df0/a20332.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d9/df0/a20332.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d9/df0/a20332.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "FilterTargets", "d9/df0/a20332.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "d9/df0/a20332.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "d9/df0/a20332.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

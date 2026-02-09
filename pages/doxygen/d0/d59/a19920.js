@@ -1,6 +1,7 @@
 var a19920 =
 [
-    [ "go_celestial_planetarium_accessAI", "d4/d90/a19924.html", "d4/d90/a19924" ],
-    [ "go_celestial_planetarium_access", "d0/d59/a19920.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d0/d59/a19920.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "HandleDummyEffect", "d0/d59/a19920.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d0/d59/a19920.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d0/d59/a19920.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d0/d59/a19920.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

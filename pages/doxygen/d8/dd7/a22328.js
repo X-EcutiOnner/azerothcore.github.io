@@ -1,7 +1,6 @@
 var a22328 =
 [
-    [ "HandleScriptEffect", "d8/dd7/a22328.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d8/dd7/a22328.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d8/dd7/a22328.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d8/dd7/a22328.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_blessed_bannerAI", "d7/dbd/a22332.html", "d7/dbd/a22332" ],
+    [ "npc_blessed_banner", "d8/dd7/a22328.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d8/dd7/a22328.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

@@ -1,12 +1,22 @@
 var a19748 =
 [
-    [ "boss_ionar", "d3/dd7/a19748.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "d3/dd7/a19748.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "d3/dd7/a19748.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "d3/dd7/a19748.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "d3/dd7/a19748.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "d3/dd7/a19748.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "d3/dd7/a19748.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "d3/dd7/a19748.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "d3/dd7/a19748.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "boss_volkhan", "d3/dd7/a19748.html#aed5ec3ddb0fcff2a96d8ef8c0135b728", null ],
+    [ "DoAction", "d3/dd7/a19748.html#a51f1c6cf70be4f7c534b04c8663b3b46", null ],
+    [ "GetNextPos", "d3/dd7/a19748.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6", null ],
+    [ "GoToAnvil", "d3/dd7/a19748.html#a7c4550a151110cd0a1224629726f846e", null ],
+    [ "HasActiveGolem", "d3/dd7/a19748.html#a31f94b488a7c659af73fd68f58d0a8ed", null ],
+    [ "JustDied", "d3/dd7/a19748.html#acc8230a2351ae0fb2309071a03a32ded", null ],
+    [ "JustEngagedWith", "d3/dd7/a19748.html#a455d3fa27b8923dc74a676e10ff3ec46", null ],
+    [ "JustSummoned", "d3/dd7/a19748.html#a4028f7914da8580382348e444c0107c0", null ],
+    [ "KilledUnit", "d3/dd7/a19748.html#aac8893e2caa527ad4949a88121d38075", null ],
+    [ "MovementInform", "d3/dd7/a19748.html#ab17e425121949c9229b689676bd106c2", null ],
+    [ "Reset", "d3/dd7/a19748.html#a3f12d464fa4d471f905962ed9fc4237e", null ],
+    [ "SpellHitTarget", "d3/dd7/a19748.html#a87e14a0076a263b160d00d917e5fde2e", null ],
+    [ "UpdateAI", "d3/dd7/a19748.html#a6ab1851c270e58d0157949fd323aa693", null ],
+    [ "PointID", "d3/dd7/a19748.html#adfc8f7e938fdb89e3961bb8e5346ad49", null ],
+    [ "ShatteredCount", "d3/dd7/a19748.html#ab309004bce968bb858722b6bb1936b97", null ],
+    [ "shatteredStompCast", "d3/dd7/a19748.html#aa31c9cab5a6d0b053dcbb59eed250cff", null ],
+    [ "x", "d3/dd7/a19748.html#a3c8fcf00e363b3c195ce29c49fbb12c8", null ],
+    [ "y", "d3/dd7/a19748.html#aa61700b296b51c758e34753251f9c626", null ],
+    [ "z", "d3/dd7/a19748.html#a78e5238c287a005f79764c221a38ee41", null ]
 ];

@@ -1,6 +1,6 @@
 var a18380 =
 [
-    [ "FilterTargets", "d5/dd6/a18380.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d5/dd6/a18380.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d5/dd6/a18380.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "npc_rimefangAI", "d1/d25/a18384.html", "d1/d25/a18384" ],
+    [ "npc_rimefang", "d5/dd6/a18380.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d5/dd6/a18380.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

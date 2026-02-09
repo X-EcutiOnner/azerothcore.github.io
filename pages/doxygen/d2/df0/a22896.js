@@ -1,11 +1,9 @@
 var a22896 =
 [
-    [ "boss_murmur", "d2/df0/a22896.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "d2/df0/a22896.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "d2/df0/a22896.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d2/df0/a22896.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d2/df0/a22896.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d2/df0/a22896.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d2/df0/a22896.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "d2/df0/a22896.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d2/df0/a22896.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d2/df0/a22896.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d2/df0/a22896.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d2/df0/a22896.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d2/df0/a22896.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d2/df0/a22896.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

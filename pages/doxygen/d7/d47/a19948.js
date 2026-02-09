@@ -1,9 +1,6 @@
 var a19948 =
 [
-    [ "CheckTargets", "d7/d47/a19948.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d7/d47/a19948.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d7/d47/a19948.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d7/d47/a19948.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d7/d47/a19948.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d7/d47/a19948.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "boss_steelbreakerAI", "da/d4d/a19952.html", "da/d4d/a19952" ],
+    [ "boss_steelbreaker", "d7/d47/a19948.html#af6e4c3729874e59959b35ca67a46aa44", null ],
+    [ "GetAI", "d7/d47/a19948.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
 ];

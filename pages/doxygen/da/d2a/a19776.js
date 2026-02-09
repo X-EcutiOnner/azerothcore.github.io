@@ -1,6 +1,7 @@
 var a19776 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "de/d70/a19780.html", "de/d70/a19780" ],
-    [ "instance_halls_of_lightning", "da/d2a/a19776.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "da/d2a/a19776.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "HandleScript", "da/d2a/a19776.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "da/d2a/a19776.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "da/d2a/a19776.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "da/d2a/a19776.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

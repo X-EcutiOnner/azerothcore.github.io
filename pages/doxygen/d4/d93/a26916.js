@@ -1,9 +1,9 @@
 var a26916 =
 [
-    [ "Absorb", "d4/d93/a26916.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "d4/d93/a26916.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "d4/d93/a26916.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "d4/d93/a26916.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "d4/d93/a26916.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "d4/d93/a26916.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "HandleHeal", "d4/d93/a26916.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d4/d93/a26916.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d4/d93/a26916.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d4/d93/a26916.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d4/d93/a26916.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d4/d93/a26916.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

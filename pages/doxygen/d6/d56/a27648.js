@@ -1,6 +1,5 @@
 var a27648 =
 [
-    [ "guard_shattrath_aldorAI", "da/da9/a27652.html", "da/da9/a27652" ],
-    [ "guard_shattrath_aldor", "d6/d56/a27648.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d6/d56/a27648.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "item_only_for_flight", "d6/d56/a27648.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d6/d56/a27648.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

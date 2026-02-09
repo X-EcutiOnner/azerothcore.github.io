@@ -1,4 +1,5 @@
 var a22748 =
 [
-    [ "idPatrol", "d6/df9/a22748.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "OutdoorPvP_terokkar_forest", "d6/df9/a22748.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d6/df9/a22748.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

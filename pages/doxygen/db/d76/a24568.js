@@ -1,5 +1,6 @@
 var a24568 =
 [
-    [ "npc_pet_dk_risen_ally", "db/d76/a24568.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "db/d76/a24568.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "achievement", "db/d76/a24568.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "db/d76/a24568.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "db/d76/a24568.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

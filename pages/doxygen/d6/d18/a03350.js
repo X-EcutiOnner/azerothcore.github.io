@@ -1,6 +1,6 @@
 var a03350 =
 [
-    [ "ban_commandscript", "d5/d16/a11864.html", "d5/d16/a11864" ],
+    [ "ban_commandscript", "d5/dc5/a11868.html", "d5/dc5/a11868" ],
     [ "BanMode", "d6/d18/a03350.html#aee9acfaac97a86a40bad738a75eb5264", [
       [ "BAN_ACCOUNT", "d6/d18/a03350.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
       [ "BAN_CHARACTER", "d6/d18/a03350.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],

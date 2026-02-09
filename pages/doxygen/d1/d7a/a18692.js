@@ -1,8 +1,5 @@
 var a18692 =
 [
-    [ "npc_lk_spirit_bombAI", "d1/d7a/a18692.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d1/d7a/a18692.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d1/d7a/a18692.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d1/d7a/a18692.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d1/d7a/a18692.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "achievement_neck_deep_in_vile", "d1/d7a/a18692.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d1/d7a/a18692.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

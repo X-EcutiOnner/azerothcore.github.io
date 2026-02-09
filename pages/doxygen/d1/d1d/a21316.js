@@ -1,10 +1,14 @@
 var a21316 =
 [
-    [ "npc_enslaved_proto_drake", "d1/d1d/a21316.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "d1/d1d/a21316.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "d1/d1d/a21316.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "d1/d1d/a21316.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "d1/d1d/a21316.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "d1/d1d/a21316.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "d1/d1d/a21316.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "npc_massive_jormungarAI", "d1/d1d/a21316.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d1/d1d/a21316.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d1/d1d/a21316.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d1/d1d/a21316.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d1/d1d/a21316.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d1/d1d/a21316.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d1/d1d/a21316.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d1/d1d/a21316.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d1/d1d/a21316.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d1/d1d/a21316.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d1/d1d/a21316.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

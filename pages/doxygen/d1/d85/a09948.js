@@ -1,7 +1,9 @@
 var a09948 =
 [
-    [ "MapPreloadRequest", "d1/d85/a09948.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d1/d85/a09948.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d1/d85/a09948.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d1/d85/a09948.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "MapUpdateRequest", "d1/d85/a09948.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d1/d85/a09948.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d1/d85/a09948.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d1/d85/a09948.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d1/d85/a09948.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d1/d85/a09948.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

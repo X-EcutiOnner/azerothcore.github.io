@@ -1,8 +1,7 @@
 var a13248 =
 [
-    [ "HandleDummy", "dc/df4/a13248.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "dc/df4/a13248.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "dc/df4/a13248.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "dc/df4/a13248.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "dc/df4/a13248.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "HandleEffectApply", "dc/df4/a13248.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "dc/df4/a13248.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "dc/df4/a13248.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "dc/df4/a13248.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

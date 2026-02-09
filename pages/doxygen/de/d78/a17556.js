@@ -1,6 +1,10 @@
 var a17556 =
 [
-    [ "boss_prince_valanarAI", "d6/d85/a17560.html", "d6/d85/a17560" ],
-    [ "boss_prince_valanar_icc", "de/d78/a17556.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "de/d78/a17556.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "npc_dark_nucleusAI", "de/d78/a17556.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "de/d78/a17556.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "de/d78/a17556.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "de/d78/a17556.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "de/d78/a17556.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "de/d78/a17556.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "de/d78/a17556.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

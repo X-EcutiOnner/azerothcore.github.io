@@ -1,6 +1,7 @@
 var a19676 =
 [
-    [ "npc_oculus_drakeAI", "d9/d76/a19680.html", "d9/d76/a19680" ],
-    [ "npc_oculus_drake", "d2/dc5/a19676.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d2/dc5/a19676.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "HandleProc", "d2/dc5/a19676.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "d2/dc5/a19676.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "d2/dc5/a19676.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "d2/dc5/a19676.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

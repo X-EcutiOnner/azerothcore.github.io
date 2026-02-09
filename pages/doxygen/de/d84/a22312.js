@@ -1,6 +1,6 @@
 var a22312 =
 [
-    [ "HandleDummy", "de/d84/a22312.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "de/d84/a22312.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "de/d84/a22312.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_guardian_pavilionAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
+    [ "npc_guardian_pavilion", "de/d84/a22312.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "de/d84/a22312.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

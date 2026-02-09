@@ -1,6 +1,5 @@
 var a17468 =
 [
-    [ "HandleScriptEffect", "db/dcc/a17468.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "db/dcc/a17468.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "db/dcc/a17468.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "achievement_share_the_love", "db/dcc/a17468.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "db/dcc/a17468.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

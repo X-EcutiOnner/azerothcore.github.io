@@ -1,6 +1,7 @@
 var a22084 =
 [
-    [ "npc_torturer_lecraftAI", "d0/dea/a22088.html", "d0/dea/a22088" ],
-    [ "npc_torturer_lecraft", "da/db8/a22084.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "da/db8/a22084.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "HandleScriptEffect", "da/db8/a22084.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "da/db8/a22084.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "da/db8/a22084.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "da/db8/a22084.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

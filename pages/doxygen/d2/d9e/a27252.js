@@ -1,6 +1,5 @@
 var a27252 =
 [
-    [ "AfterCheckProc", "d2/d9e/a27252.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d2/d9e/a27252.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d2/d9e/a27252.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "achievement_bg_control_all_nodes", "d2/d9e/a27252.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d2/d9e/a27252.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

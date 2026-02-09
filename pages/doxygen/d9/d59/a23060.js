@@ -1,7 +1,7 @@
 var a23060 =
 [
-    [ "PrepareAuraScript", "d9/d59/a23060.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d9/d59/a23060.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d9/d59/a23060.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d9/d59/a23060.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "PrepareAuraScript", "d9/d59/a23060.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d9/d59/a23060.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d9/d59/a23060.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d9/d59/a23060.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

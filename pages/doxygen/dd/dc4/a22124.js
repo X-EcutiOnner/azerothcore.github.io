@@ -1,9 +1,9 @@
 var a22124 =
 [
-    [ "npc_mrfloppyAI", "dd/dc4/a22124.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "dd/dc4/a22124.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "dd/dc4/a22124.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "dd/dc4/a22124.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "dd/dc4/a22124.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "dd/dc4/a22124.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_wounded_skirmisher", "dd/dc4/a22124.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "dd/dc4/a22124.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "dd/dc4/a22124.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "dd/dc4/a22124.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "dd/dc4/a22124.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "dd/dc4/a22124.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

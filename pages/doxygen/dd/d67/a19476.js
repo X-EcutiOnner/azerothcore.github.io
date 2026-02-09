@@ -1,5 +1,7 @@
 var a19476 =
 [
-    [ "at_thaddius_entrance", "dd/d67/a19476.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "dd/d67/a19476.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "npc_naxxramas_trigger", "dd/d67/a19476.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "dd/d67/a19476.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "dd/d67/a19476.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "dd/d67/a19476.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

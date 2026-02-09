@@ -1,7 +1,6 @@
 var a19844 =
 [
-    [ "creature", "dc/dfd/a19844.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "dc/dfd/a19844.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "dc/dfd/a19844.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "dc/dfd/a19844.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "HandleApplyTouch", "dc/dfd/a19844.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "dc/dfd/a19844.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "dc/dfd/a19844.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

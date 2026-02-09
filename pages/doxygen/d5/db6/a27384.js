@@ -1,6 +1,6 @@
 var a27384 =
 [
-    [ "boss_ysondreAI", "dc/da9/a27388.html", "dc/da9/a27388" ],
-    [ "boss_ysondre", "d5/db6/a27384.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d5/db6/a27384.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "boss_lethonAI", "dc/da9/a27388.html", "dc/da9/a27388" ],
+    [ "boss_lethon", "d5/db6/a27384.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d5/db6/a27384.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

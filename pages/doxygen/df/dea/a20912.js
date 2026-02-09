@@ -1,5 +1,6 @@
 var a20912 =
 [
-    [ "achievement_thorim_lose_your_illusion", "df/dea/a20912.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "df/dea/a20912.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "npc_xt002_scrapbotAI", "d4/d85/a20916.html", "d4/d85/a20916" ],
+    [ "npc_xt002_scrapbot", "df/dea/a20912.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "df/dea/a20912.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

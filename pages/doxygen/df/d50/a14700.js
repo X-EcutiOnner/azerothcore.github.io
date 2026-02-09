@@ -1,5 +1,5 @@
 var a14700 =
 [
-    [ "go_pumpkin_shrine", "df/d50/a14700.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "df/d50/a14700.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "go_loosely_turned_soilAI", "df/d50/a14700.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "df/d50/a14700.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

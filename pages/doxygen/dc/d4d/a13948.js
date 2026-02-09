@@ -1,6 +1,13 @@
 var a13948 =
 [
-    [ "npc_marzon_silent_bladeAI", "de/dab/a13952.html", "de/dab/a13952" ],
-    [ "npc_marzon_silent_blade", "dc/d4d/a13948.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "dc/d4d/a13948.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_lord_gregor_lescovarAI", "dc/d4d/a13948.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "dc/d4d/a13948.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "dc/d4d/a13948.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "dc/d4d/a13948.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "dc/d4d/a13948.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "dc/d4d/a13948.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "dc/d4d/a13948.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "MarzonGUID", "dc/d4d/a13948.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "dc/d4d/a13948.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "dc/d4d/a13948.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

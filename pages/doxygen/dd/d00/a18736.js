@@ -1,6 +1,12 @@
 var a18736 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d9/d4f/a18740.html", "d9/d4f/a18740" ],
-    [ "boss_valithria_dreamwalker", "dd/d00/a18736.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "dd/d00/a18736.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_the_lich_king_controllerAI", "dd/d00/a18736.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "dd/d00/a18736.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "dd/d00/a18736.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "dd/d00/a18736.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "dd/d00/a18736.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "dd/d00/a18736.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "dd/d00/a18736.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "dd/d00/a18736.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "dd/d00/a18736.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

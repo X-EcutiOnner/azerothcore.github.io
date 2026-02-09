@@ -1,6 +1,5 @@
 var a17500 =
 [
-    [ "HandlePeriodic", "df/d2e/a17500.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "df/d2e/a17500.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "df/d2e/a17500.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "df/d2e/a17500.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "df/d2e/a17500.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

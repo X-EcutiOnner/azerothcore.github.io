@@ -1,7 +1,7 @@
 var a23020 =
 [
-    [ "VerasEnvenom", "d2/d9f/a23020.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d2/d9f/a23020.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d2/d9f/a23020.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d2/d9f/a23020.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "boss_lady_malande", "d2/d9f/a23020.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d2/d9f/a23020.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d2/d9f/a23020.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d2/d9f/a23020.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

@@ -1,6 +1,7 @@
 var a20336 =
 [
-    [ "npc_ulduar_saronite_animusAI", "dd/d10/a20340.html", "dd/d10/a20340" ],
-    [ "npc_ulduar_saronite_animus", "d4/d90/a20336.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "d4/d90/a20336.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "HandleAfterEffectApply", "d4/d90/a20336.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d4/d90/a20336.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d4/d90/a20336.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d4/d90/a20336.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

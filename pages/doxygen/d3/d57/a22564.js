@@ -1,7 +1,6 @@
 var a22564 =
 [
-    [ "HandleScript", "d3/d57/a22564.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "d3/d57/a22564.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "d3/d57/a22564.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "d3/d57/a22564.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "npc_wg_queueAI", "d3/d57/a22564.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d3/d57/a22564.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d3/d57/a22564.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

@@ -1,5 +1,6 @@
 var a15380 =
 [
-    [ "NotInStomachSelector", "d5/dbd/a15380.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "d5/dbd/a15380.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "FilterTargets", "d5/dbd/a15380.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d5/dbd/a15380.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d5/dbd/a15380.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

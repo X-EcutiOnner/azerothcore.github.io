@@ -1,6 +1,8 @@
 var a22664 =
 [
-    [ "npc_released_offspring_harkoaAI", "d7/df4/a22668.html", "d7/df4/a22668" ],
-    [ "npc_released_offspring_harkoa", "de/dc6/a22664.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "de/dc6/a22664.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "HandleApply", "de/dc6/a22664.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "de/dc6/a22664.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "de/dc6/a22664.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "de/dc6/a22664.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "de/dc6/a22664.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

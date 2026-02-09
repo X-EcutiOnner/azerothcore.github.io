@@ -1,5 +1,7 @@
 var a18136 =
 [
-    [ "npc_volatile_oozeAI", "d9/dd1/a18136.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d9/dd1/a18136.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "HandleTriggerSpell", "d9/dd1/a18136.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d9/dd1/a18136.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d9/dd1/a18136.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d9/dd1/a18136.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

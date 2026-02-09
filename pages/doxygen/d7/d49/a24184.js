@@ -1,6 +1,6 @@
 var a24184 =
 [
-    [ "npc_daranelleAI", "d9/d49/a24188.html", "d9/d49/a24188" ],
-    [ "npc_daranelle", "d7/d49/a24184.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d7/d49/a24184.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "go_apexis_relic", "d7/d49/a24184.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d7/d49/a24184.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d7/d49/a24184.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

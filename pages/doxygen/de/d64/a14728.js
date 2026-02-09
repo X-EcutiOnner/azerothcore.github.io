@@ -1,8 +1,7 @@
 var a14728 =
 [
-    [ "OnApply", "de/d64/a14728.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "de/d64/a14728.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "de/d64/a14728.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "de/d64/a14728.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "de/d64/a14728.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "OnApply", "de/d64/a14728.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "de/d64/a14728.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "de/d64/a14728.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "de/d64/a14728.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

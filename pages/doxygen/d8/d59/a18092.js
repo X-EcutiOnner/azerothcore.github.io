@@ -1,7 +1,6 @@
 var a18092 =
 [
-    [ "HandleSpikes", "d8/d59/a18092.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d8/d59/a18092.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d8/d59/a18092.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d8/d59/a18092.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "UnboundPlagueTargetSelector", "d8/d59/a18092.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d8/d59/a18092.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d8/d59/a18092.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

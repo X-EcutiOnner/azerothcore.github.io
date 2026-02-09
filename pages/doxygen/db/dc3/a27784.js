@@ -1,6 +1,6 @@
 var a27784 =
 [
-    [ "npc_training_dummyAI", "d5/d19/a27788.html", "d5/d19/a27788" ],
-    [ "npc_training_dummy", "db/dc3/a27784.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "db/dc3/a27784.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_target_dummyAI", "d5/d19/a27788.html", "d5/d19/a27788" ],
+    [ "npc_target_dummy", "db/dc3/a27784.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "db/dc3/a27784.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

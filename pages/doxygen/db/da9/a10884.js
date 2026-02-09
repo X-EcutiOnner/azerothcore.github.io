@@ -1,9 +1,7 @@
 var a10884 =
 [
-    [ "SwapItem", "db/da9/a10884.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "db/da9/a10884.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "db/da9/a10884.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "db/da9/a10884.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "db/da9/a10884.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "db/da9/a10884.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "AutoEquipItemSlot", "db/da9/a10884.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "db/da9/a10884.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "db/da9/a10884.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "db/da9/a10884.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

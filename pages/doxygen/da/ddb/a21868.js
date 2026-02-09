@@ -1,6 +1,13 @@
 var a21868 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d9/dbd/a21872.html", "d9/dbd/a21872" ],
-    [ "npc_steam_powered_auctioneer", "da/ddb/a21868.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "da/ddb/a21868.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_shandy_dalaranAI", "da/ddb/a21868.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "da/ddb/a21868.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "da/ddb/a21868.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "da/ddb/a21868.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "da/ddb/a21868.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "da/ddb/a21868.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "da/ddb/a21868.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "da/ddb/a21868.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "da/ddb/a21868.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "da/ddb/a21868.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

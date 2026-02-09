@@ -1,6 +1,7 @@
 var a08876 =
 [
-    [ "Reset", "db/d89/a08876.html#acccf504073283011dc32b05a5a87b85a", null ],
-    [ "Guid", "db/d89/a08876.html#a738a014abc8cb5df525642acc218576b", null ],
-    [ "IsUnselectable", "db/d89/a08876.html#a037411c58c414d0c5a39915b7acd578d", null ]
+    [ "VehicleDespawnEvent", "db/d89/a08876.html#a53c96e023186cfb36084814b69e62d15", null ],
+    [ "Execute", "db/d89/a08876.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "db/d89/a08876.html#a9ac4ab83b785691285fb20364925b7ca", null ],
+    [ "_self", "db/d89/a08876.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

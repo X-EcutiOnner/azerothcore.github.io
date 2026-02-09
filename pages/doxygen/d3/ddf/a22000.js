@@ -1,6 +1,5 @@
 var a22000 =
 [
-    [ "HandleSendEvent", "d3/ddf/a22000.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d3/ddf/a22000.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d3/ddf/a22000.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "at_q24545_frostmourne_cavern", "d3/ddf/a22000.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d3/ddf/a22000.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

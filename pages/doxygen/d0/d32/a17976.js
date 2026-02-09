@@ -1,7 +1,9 @@
 var a17976 =
 [
-    [ "HandleDummy", "d0/d32/a17976.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d0/d32/a17976.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d0/d32/a17976.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d0/d32/a17976.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "CheckAreaTarget", "d0/d32/a17976.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "d0/d32/a17976.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "d0/d32/a17976.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "d0/d32/a17976.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "d0/d32/a17976.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "d0/d32/a17976.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

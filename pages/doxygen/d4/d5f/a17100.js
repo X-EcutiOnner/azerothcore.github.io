@@ -1,6 +1,6 @@
 var a17100 =
 [
-    [ "entry", "d4/d5f/a17100.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d4/d5f/a17100.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d4/d5f/a17100.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "boss_marwynAI", "d2/d3b/a17104.html", "d2/d3b/a17104" ],
+    [ "boss_marwyn", "d4/d5f/a17100.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "d4/d5f/a17100.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

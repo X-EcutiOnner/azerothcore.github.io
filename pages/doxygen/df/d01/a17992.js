@@ -1,7 +1,6 @@
 var a17992 =
 [
-    [ "PrepareSpellScript", "df/d01/a17992.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "df/d01/a17992.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "df/d01/a17992.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "df/d01/a17992.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "boss_lady_deathwhisperAI", "d7/d91/a17996.html", "d7/d91/a17996" ],
+    [ "boss_lady_deathwhisper", "df/d01/a17992.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "df/d01/a17992.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

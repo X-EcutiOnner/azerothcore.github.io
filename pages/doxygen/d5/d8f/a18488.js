@@ -1,6 +1,7 @@
 var a18488 =
 [
-    [ "boss_the_lich_kingAI", "d6/d50/a18492.html", "d6/d50/a18492" ],
-    [ "boss_the_lich_king", "d5/d8f/a18488.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d5/d8f/a18488.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "HandleScript", "d5/d8f/a18488.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d5/d8f/a18488.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d5/d8f/a18488.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d5/d8f/a18488.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

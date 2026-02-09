@@ -119,14 +119,14 @@ $(document).ready(function(){initNavTree('da/d99/a07132.html','../../'); initRes
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aa49ab82006c390e7110013b44c018c0f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/a07132.html#aa49ab82006c390e7110013b44c018c0f">ObjectGuidVector</a> (<a class="el" href="../../d3/d5e/a00275.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const &amp;objectVector)</td></tr>
 <tr class="separator:aa49ab82006c390e7110013b44c018c0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94ee201dcf0750edb84cedb151e9ff22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d5e/a00275.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/a07132.html#a94ee201dcf0750edb84cedb151e9ff22">GetObjectVector</a> (<a class="el" href="../../d0/d69/a08488.html">WorldObject</a> const &amp;ref) const</td></tr>
+<tr class="memitem:a94ee201dcf0750edb84cedb151e9ff22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d5e/a00275.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/a07132.html#a94ee201dcf0750edb84cedb151e9ff22">GetObjectVector</a> (<a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> const &amp;ref) const</td></tr>
 <tr class="separator:a94ee201dcf0750edb84cedb151e9ff22"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07fe3304a0edffa1f17a0ce5f97d01e6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/a07132.html#a07fe3304a0edffa1f17a0ce5f97d01e6">~ObjectGuidVector</a> ()</td></tr>
 <tr class="separator:a07fe3304a0edffa1f17a0ce5f97d01e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a8b6dad1739f51bba936257410a968c6e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/a07132.html#a8b6dad1739f51bba936257410a968c6e">UpdateObjects</a> (<a class="el" href="../../d0/d69/a08488.html">WorldObject</a> const &amp;ref) const</td></tr>
+<tr class="memitem:a8b6dad1739f51bba936257410a968c6e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/a07132.html#a8b6dad1739f51bba936257410a968c6e">UpdateObjects</a> (<a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> const &amp;ref) const</td></tr>
 <tr class="separator:a8b6dad1739f51bba936257410a968c6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
@@ -161,17 +161,17 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2016</span>                                                                : <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>(objectVector)</div>
-<div class="line"><span class="lineno"> 2017</span>    {</div>
-<div class="line"><span class="lineno"> 2018</span>        <a class="code hl_variable" href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>.reserve(<a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.size());</div>
-<div class="line"><span class="lineno"> 2019</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d69/a08488.html">WorldObject</a>* obj : <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>)</div>
-<div class="line"><span class="lineno"> 2020</span>            <a class="code hl_variable" href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>.push_back(obj-&gt;GetGUID());</div>
-<div class="line"><span class="lineno"> 2021</span>    }</div>
-<div class="ttc" id="aa07132_html_a78137cb1ae9930c11f87a4a8ed5e7e26"><div class="ttname"><a href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">ObjectGuidVector::_objectVector</a></div><div class="ttdeci">ObjectVector _objectVector</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2032</div></div>
-<div class="ttc" id="aa07132_html_aefce0edc7881ca01ba8c8c98067e165d"><div class="ttname"><a href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">ObjectGuidVector::_guidVector</a></div><div class="ttdeci">GuidVector _guidVector</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2034</div></div>
-<div class="ttc" id="aa08488_html"><div class="ttname"><a href="../../d0/d69/a08488.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:471</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2017</span>                                                                : <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>(objectVector)</div>
+<div class="line"><span class="lineno"> 2018</span>    {</div>
+<div class="line"><span class="lineno"> 2019</span>        <a class="code hl_variable" href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>.reserve(<a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.size());</div>
+<div class="line"><span class="lineno"> 2020</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dc4/a08492.html">WorldObject</a>* obj : <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>)</div>
+<div class="line"><span class="lineno"> 2021</span>            <a class="code hl_variable" href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>.push_back(obj-&gt;GetGUID());</div>
+<div class="line"><span class="lineno"> 2022</span>    }</div>
+<div class="ttc" id="aa07132_html_a78137cb1ae9930c11f87a4a8ed5e7e26"><div class="ttname"><a href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">ObjectGuidVector::_objectVector</a></div><div class="ttdeci">ObjectVector _objectVector</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2033</div></div>
+<div class="ttc" id="aa07132_html_aefce0edc7881ca01ba8c8c98067e165d"><div class="ttname"><a href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">ObjectGuidVector::_guidVector</a></div><div class="ttdeci">GuidVector _guidVector</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2035</div></div>
+<div class="ttc" id="aa08492_html"><div class="ttname"><a href="../../d8/dc4/a08492.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:471</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02034">_guidVector</a>, and <a class="el" href="../../#l02032">_objectVector</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02035">_guidVector</a>, and <a class="el" href="../../#l02033">_objectVector</a>.</p>
 
 </div>
 </div>
@@ -197,7 +197,7 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2029</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2030</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -214,7 +214,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname"><a class="el" href="../../d3/d5e/a00275.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const  * ObjectGuidVector::GetObjectVector </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d69/a08488.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> const &amp;&#160;</td>
           <td class="paramname"><em>ref</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -225,13 +225,13 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2024</span>    {</div>
-<div class="line"><span class="lineno"> 2025</span>        <a class="code hl_function" href="../../da/d99/a07132.html#a8b6dad1739f51bba936257410a968c6e">UpdateObjects</a>(ref);</div>
-<div class="line"><span class="lineno"> 2026</span>        <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>;</div>
-<div class="line"><span class="lineno"> 2027</span>    }</div>
-<div class="ttc" id="aa07132_html_a8b6dad1739f51bba936257410a968c6e"><div class="ttname"><a href="../../da/d99/a07132.html#a8b6dad1739f51bba936257410a968c6e">ObjectGuidVector::UpdateObjects</a></div><div class="ttdeci">void UpdateObjects(WorldObject const &amp;ref) const</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2037</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2025</span>    {</div>
+<div class="line"><span class="lineno"> 2026</span>        <a class="code hl_function" href="../../da/d99/a07132.html#a8b6dad1739f51bba936257410a968c6e">UpdateObjects</a>(ref);</div>
+<div class="line"><span class="lineno"> 2027</span>        <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>;</div>
+<div class="line"><span class="lineno"> 2028</span>    }</div>
+<div class="ttc" id="aa07132_html_a8b6dad1739f51bba936257410a968c6e"><div class="ttname"><a href="../../da/d99/a07132.html#a8b6dad1739f51bba936257410a968c6e">ObjectGuidVector::UpdateObjects</a></div><div class="ttdeci">void UpdateObjects(WorldObject const &amp;ref) const</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2038</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02032">_objectVector</a>, and <a class="el" href="../../#l02037">UpdateObjects()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02033">_objectVector</a>, and <a class="el" href="../../#l02038">UpdateObjects()</a>.</p>
 
 </div>
 </div>
@@ -247,7 +247,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void ObjectGuidVector::UpdateObjects </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d69/a08488.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> const &amp;&#160;</td>
           <td class="paramname"><em>ref</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -258,19 +258,19 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2038</span>    {</div>
-<div class="line"><span class="lineno"> 2039</span>        <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.clear();</div>
-<div class="line"><span class="lineno"> 2040</span> </div>
-<div class="line"><span class="lineno"> 2041</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d3/d22/a08504.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>)</div>
-<div class="line"><span class="lineno"> 2042</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d69/a08488.html">WorldObject</a>* obj = <a class="code hl_function" href="../../dc/d32/a04884.html#a970c7277a8e1bb7b65f78fdee825b2cc">ObjectAccessor::GetWorldObject</a>(ref, guid))</div>
-<div class="line"><span class="lineno"> 2043</span>                <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.push_back(obj);</div>
-<div class="line"><span class="lineno"> 2044</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2039</span>    {</div>
+<div class="line"><span class="lineno"> 2040</span>        <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.clear();</div>
+<div class="line"><span class="lineno"> 2041</span> </div>
+<div class="line"><span class="lineno"> 2042</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/d8e/a08508.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../da/d99/a07132.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>)</div>
+<div class="line"><span class="lineno"> 2043</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/dc4/a08492.html">WorldObject</a>* obj = <a class="code hl_function" href="../../dc/d32/a04884.html#a970c7277a8e1bb7b65f78fdee825b2cc">ObjectAccessor::GetWorldObject</a>(ref, guid))</div>
+<div class="line"><span class="lineno"> 2044</span>                <a class="code hl_variable" href="../../da/d99/a07132.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.push_back(obj);</div>
+<div class="line"><span class="lineno"> 2045</span>    }</div>
 <div class="ttc" id="aa04884_html_a970c7277a8e1bb7b65f78fdee825b2cc"><div class="ttname"><a href="../../dc/d32/a04884.html#a970c7277a8e1bb7b65f78fdee825b2cc">ObjectAccessor::GetWorldObject</a></div><div class="ttdeci">WorldObject * GetWorldObject(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:115</div></div>
-<div class="ttc" id="aa08504_html"><div class="ttname"><a href="../../d3/d22/a08504.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="aa08508_html"><div class="ttname"><a href="../../db/d8e/a08508.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02034">_guidVector</a>, <a class="el" href="../../#l02032">_objectVector</a>, and <a class="el" href="../../#l00115">ObjectAccessor::GetWorldObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02035">_guidVector</a>, <a class="el" href="../../#l02033">_objectVector</a>, and <a class="el" href="../../#l00115">ObjectAccessor::GetWorldObject()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02023">GetObjectVector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02024">GetObjectVector()</a>.</p>
 
 </div>
 </div>
@@ -295,7 +295,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02016">ObjectGuidVector()</a>, and <a class="el" href="../../#l02037">UpdateObjects()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02017">ObjectGuidVector()</a>, and <a class="el" href="../../#l02038">UpdateObjects()</a>.</p>
 
 </div>
 </div>
@@ -319,7 +319,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02023">GetObjectVector()</a>, <a class="el" href="../../#l02016">ObjectGuidVector()</a>, and <a class="el" href="../../#l02037">UpdateObjects()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02024">GetObjectVector()</a>, <a class="el" href="../../#l02017">ObjectGuidVector()</a>, and <a class="el" href="../../#l02038">UpdateObjects()</a>.</p>
 
 </div>
 </div>
@@ -329,7 +329,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d99/a07132.html">ObjectGuidVector</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:15:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 9 2026 21:11:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var a19012 =
 [
-    [ "at_icc_shutdown_traps", "d5/d06/a19012.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d5/d06/a19012.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "HandleScript", "d5/d06/a19012.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "d5/d06/a19012.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "d5/d06/a19012.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

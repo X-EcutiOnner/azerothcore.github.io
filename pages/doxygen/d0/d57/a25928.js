@@ -1,8 +1,6 @@
 var a25928 =
 [
-    [ "HandleProc", "d0/d57/a25928.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d0/d57/a25928.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d0/d57/a25928.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d0/d57/a25928.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d0/d57/a25928.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "FilterTargets", "d0/d57/a25928.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d0/d57/a25928.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d0/d57/a25928.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

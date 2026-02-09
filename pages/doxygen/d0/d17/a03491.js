@@ -1,13 +1,13 @@
 var a03491 =
 [
-    [ "npc_lord_gregor_lescovar", "de/dc3/a13940.html", "de/dc3/a13940" ],
-    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "dd/d84/a13944.html", "dd/d84/a13944" ],
-    [ "npc_marzon_silent_blade", "dc/d4d/a13948.html", "dc/d4d/a13948" ],
-    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "de/dab/a13952.html", "de/dab/a13952" ],
-    [ "npc_tyrion_spybot", "d8/dc9/a13956.html", "d8/dc9/a13956" ],
-    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "d4/d8c/a13960.html", "d4/d8c/a13960" ],
-    [ "npc_tyrion", "d7/dd0/a13964.html", "d7/dd0/a13964" ],
-    [ "npc_king_varian_wrynn", "df/d00/a13968.html", "df/d00/a13968" ],
+    [ "npc_lord_gregor_lescovar", "dd/d84/a13944.html", "dd/d84/a13944" ],
+    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "dc/d4d/a13948.html", "dc/d4d/a13948" ],
+    [ "npc_marzon_silent_blade", "de/dab/a13952.html", "de/dab/a13952" ],
+    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "d8/dc9/a13956.html", "d8/dc9/a13956" ],
+    [ "npc_tyrion_spybot", "d4/d8c/a13960.html", "d4/d8c/a13960" ],
+    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "d7/dd0/a13964.html", "d7/dd0/a13964" ],
+    [ "npc_tyrion", "df/d00/a13968.html", "df/d00/a13968" ],
+    [ "npc_king_varian_wrynn", "dc/df4/a13972.html", "dc/df4/a13972" ],
     [ "KingVarianWrynn", "d0/d17/a03491.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
       [ "QUEST_WHERE_KINGS_WALK", "d0/d17/a03491.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
     ] ],

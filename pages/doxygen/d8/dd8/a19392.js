@@ -1,8 +1,10 @@
 var a19392 =
 [
-    [ "boss_maexxna_webwrapAI", "d8/dd8/a19392.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d8/dd8/a19392.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d8/dd8/a19392.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d8/dd8/a19392.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d8/dd8/a19392.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "boss_patchwerkAI", "d8/dd8/a19392.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d8/dd8/a19392.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d8/dd8/a19392.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d8/dd8/a19392.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d8/dd8/a19392.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d8/dd8/a19392.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d8/dd8/a19392.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

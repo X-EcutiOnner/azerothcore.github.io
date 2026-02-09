@@ -1,6 +1,6 @@
 var a24396 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d1/df1/a24396.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d1/df1/a24396.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d1/df1/a24396.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_torloth_the_magnificentAI", "db/dc1/a24400.html", "db/dc1/a24400" ],
+    [ "npc_torloth_the_magnificent", "d1/df1/a24396.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d1/df1/a24396.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

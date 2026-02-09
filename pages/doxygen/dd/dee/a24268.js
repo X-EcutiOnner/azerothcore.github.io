@@ -1,6 +1,7 @@
 var a24268 =
 [
-    [ "go_magtheridons_head", "dd/dee/a24268.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "dd/dee/a24268.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "dd/dee/a24268.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_kurenai_captiveAI", "d7/d7b/a24272.html", "d7/d7b/a24272" ],
+    [ "npc_kurenai_captive", "dd/dee/a24268.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "dd/dee/a24268.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "dd/dee/a24268.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

@@ -1,6 +1,6 @@
 var a19108 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "npc_icc_vengeful_fleshreaper", "d6/de1/a19108.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "d6/de1/a19108.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
+    [ "npc_icc_gauntlet_controller", "d6/de1/a19108.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d6/de1/a19108.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

@@ -1,7 +1,6 @@
 var a21820 =
 [
-    [ "npc_thassarianAI", "de/dcc/a21820.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "de/dcc/a21820.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "de/dcc/a21820.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "de/dcc/a21820.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_counselor_talbotAI", "d4/d00/a21824.html", "d4/d00/a21824" ],
+    [ "npc_counselor_talbot", "de/dcc/a21820.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "de/dcc/a21820.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

@@ -1,12 +1,15 @@
 var a19296 =
 [
-    [ "npc_boss_gothik_minionAI", "d3/d05/a19296.html#aa719d87c65294fc483b424b125619a10", null ],
-    [ "IsOnSameSide", "d3/d05/a19296.html#a7d305be5e3d66c1317fa91e588223da0", null ],
-    [ "JustDied", "d3/d05/a19296.html#a752b6eab9cf1b016962c6f535586b59d", null ],
-    [ "JustEngagedWith", "d3/d05/a19296.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
-    [ "KilledUnit", "d3/d05/a19296.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
-    [ "Reset", "d3/d05/a19296.html#a309401236c254cd850759a0cbb4004e0", null ],
-    [ "UpdateAI", "d3/d05/a19296.html#a43744e96be00d8bc0afc34a570e79947", null ],
-    [ "events", "d3/d05/a19296.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
-    [ "livingSide", "d3/d05/a19296.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
+    [ "boss_grobbulusAI", "d3/d05/a19296.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "d3/d05/a19296.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "d3/d05/a19296.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d3/d05/a19296.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d3/d05/a19296.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d3/d05/a19296.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "Reset", "d3/d05/a19296.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SummonedCreatureDespawn", "d3/d05/a19296.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "d3/d05/a19296.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d3/d05/a19296.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "d3/d05/a19296.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "d3/d05/a19296.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

@@ -1,12 +1,6 @@
 var a18292 =
 [
-    [ "npc_precious_iccAI", "d0/d77/a18292.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "d0/d77/a18292.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "d0/d77/a18292.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "d0/d77/a18292.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "d0/d77/a18292.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "d0/d77/a18292.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "d0/d77/a18292.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "d0/d77/a18292.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "d0/d77/a18292.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "boss_sindragosaAI", "d0/d0a/a18296.html", "d0/d0a/a18296" ],
+    [ "boss_sindragosa", "d0/d77/a18292.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d0/d77/a18292.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

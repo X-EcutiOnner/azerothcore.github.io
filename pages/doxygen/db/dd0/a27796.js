@@ -1,9 +1,6 @@
 var a27796 =
 [
-    [ "npc_target_dummyAI", "db/dd0/a27796.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "db/dd0/a27796.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "db/dd0/a27796.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "db/dd0/a27796.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "db/dd0/a27796.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "db/dd0/a27796.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_air_force_botsAI", "de/d96/a27800.html", "de/d96/a27800" ],
+    [ "npc_air_force_bots", "db/dd0/a27796.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "db/dd0/a27796.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

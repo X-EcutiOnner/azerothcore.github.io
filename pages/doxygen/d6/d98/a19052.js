@@ -1,6 +1,9 @@
 var a19052 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "dd/d42/a19056.html", "dd/d42/a19056" ],
-    [ "npc_icc_skybreaker_hierophant", "d6/d98/a19052.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d6/d98/a19052.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d6/d98/a19052.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d6/d98/a19052.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d6/d98/a19052.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d6/d98/a19052.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d6/d98/a19052.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d6/d98/a19052.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

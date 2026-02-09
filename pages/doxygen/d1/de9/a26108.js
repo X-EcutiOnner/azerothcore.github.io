@@ -1,7 +1,6 @@
 var a26108 =
 [
-    [ "HandleEnergize", "d1/de9/a26108.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "d1/de9/a26108.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "d1/de9/a26108.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "d1/de9/a26108.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "HandleDummy", "d1/de9/a26108.html#aeda7eba9ab0b80b549976a4db6e9712c", null ],
+    [ "PrepareSpellScript", "d1/de9/a26108.html#a251e93768ff684d1586286ce040a611b", null ],
+    [ "Register", "d1/de9/a26108.html#ad1d4fa3d7bda8f4354325cc4df623b65", null ]
 ];

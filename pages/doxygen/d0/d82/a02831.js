@@ -1,8 +1,8 @@
 var a02831 =
 [
-    [ "npc_dragonflayer_forge_master", "d4/dce/a21312.html", "d4/dce/a21312" ],
-    [ "npc_enslaved_proto_drake", "d1/d1d/a21316.html", "d1/d1d/a21316" ],
-    [ "spell_ticking_time_bomb_aura", "df/d72/a21320.html", "df/d72/a21320" ],
+    [ "npc_dragonflayer_forge_master", "d0/d64/a21292.html", "d0/d64/a21292" ],
+    [ "npc_enslaved_proto_drake", "db/d26/a21296.html", "db/d26/a21296" ],
+    [ "spell_ticking_time_bomb_aura", "df/dec/a21300.html", "df/dec/a21300" ],
     [ "EnslavedProtoDrake", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278", [
       [ "SPELL_REND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
       [ "SPELL_FLAME_BREATH", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],

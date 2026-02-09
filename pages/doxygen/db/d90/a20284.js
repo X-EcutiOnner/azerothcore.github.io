@@ -1,7 +1,6 @@
 var a20284 =
 [
-    [ "boss_freya_lifebinderAI", "db/d90/a20284.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "db/d90/a20284.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "db/d90/a20284.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "db/d90/a20284.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_freya_nature_bombAI", "d3/d6f/a20288.html", "d3/d6f/a20288" ],
+    [ "boss_freya_nature_bomb", "db/d90/a20284.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "db/d90/a20284.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

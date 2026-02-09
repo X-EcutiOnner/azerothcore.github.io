@@ -1,6 +1,7 @@
 var a22548 =
 [
-    [ "HandleDamage", "d4/dc8/a22548.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d4/dc8/a22548.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d4/dc8/a22548.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "npc_wg_demolisher_engineer", "d4/dc8/a22548.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d4/dc8/a22548.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d4/dc8/a22548.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d4/dc8/a22548.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,7 +1,7 @@
 var a22544 =
 [
-    [ "HandleScript", "d6/d2e/a22544.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d6/d2e/a22544.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d6/d2e/a22544.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d6/d2e/a22544.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "HandleScript", "d6/d2e/a22544.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "d6/d2e/a22544.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "d6/d2e/a22544.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "d6/d2e/a22544.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

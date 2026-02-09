@@ -1,8 +1,6 @@
 var a27632 =
 [
-    [ "go_bellsAI", "d6/d8b/a27632.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d6/d8b/a27632.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d6/d8b/a27632.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d6/d8b/a27632.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d6/d8b/a27632.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "guard_shattrath_scryerAI", "d7/da6/a27636.html", "d7/da6/a27636" ],
+    [ "guard_shattrath_scryer", "d6/d8b/a27632.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d6/d8b/a27632.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

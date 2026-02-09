@@ -1,8 +1,6 @@
 var a17084 =
 [
-    [ "npc_fos_leaderAI", "dc/dd2/a17084.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "dc/dd2/a17084.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "dc/dd2/a17084.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "dc/dd2/a17084.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "dc/dd2/a17084.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "instance_forge_of_souls_InstanceScript", "db/dbd/a17088.html", "db/dbd/a17088" ],
+    [ "instance_forge_of_souls", "dc/dd2/a17084.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "dc/dd2/a17084.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

@@ -1,10 +1,11 @@
 var a22864 =
 [
-    [ "boss_talon_king_ikiss", "da/dce/a22864.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "da/dce/a22864.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "da/dce/a22864.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "da/dce/a22864.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "da/dce/a22864.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "da/dce/a22864.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "da/dce/a22864.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "boss_blackheart_the_inciter", "da/dce/a22864.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "da/dce/a22864.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "da/dce/a22864.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "da/dce/a22864.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "da/dce/a22864.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "da/dce/a22864.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "da/dce/a22864.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "da/dce/a22864.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

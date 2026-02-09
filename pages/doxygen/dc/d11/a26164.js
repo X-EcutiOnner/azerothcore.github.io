@@ -1,6 +1,6 @@
 var a26164 =
 [
-    [ "HandleOpenObject", "dc/d11/a26164.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "dc/d11/a26164.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "dc/d11/a26164.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "PrepareSpellScript", "dc/d11/a26164.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "dc/d11/a26164.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "dc/d11/a26164.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

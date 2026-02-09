@@ -1,6 +1,8 @@
 var a16724 =
 [
-    [ "npc_toc_mageAI", "d0/d19/a16728.html", "d0/d19/a16728" ],
-    [ "npc_toc_mage", "da/d86/a16724.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "da/d86/a16724.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_boomkinAI", "da/d86/a16724.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "da/d86/a16724.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "da/d86/a16724.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "da/d86/a16724.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "da/d86/a16724.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

@@ -1,9 +1,8 @@
 var a17800 =
 [
-    [ "npc_stinky_iccAI", "da/d0b/a17800.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "da/d0b/a17800.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "da/d0b/a17800.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "da/d0b/a17800.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "da/d0b/a17800.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "da/d0b/a17800.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "ResetEncounterEvent", "da/d0b/a17800.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "da/d0b/a17800.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "da/d0b/a17800.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "da/d0b/a17800.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "da/d0b/a17800.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

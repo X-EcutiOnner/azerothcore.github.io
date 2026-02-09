@@ -1,6 +1,6 @@
 var a21944 =
 [
-    [ "npc_hourglass_of_eternityAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
-    [ "npc_hourglass_of_eternity", "d9/dcf/a21944.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d9/dcf/a21944.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_mindless_ghoulAI", "d9/dcf/a21944.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d9/dcf/a21944.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d9/dcf/a21944.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

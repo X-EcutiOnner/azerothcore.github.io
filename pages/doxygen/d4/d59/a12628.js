@@ -1,6 +1,7 @@
 var a12628 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "de/d29/a12632.html", "de/d29/a12632" ],
-    [ "instance_blackwing_lair", "d4/d59/a12628.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "d4/d59/a12628.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "HandleRemove", "d4/d59/a12628.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "d4/d59/a12628.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "d4/d59/a12628.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "d4/d59/a12628.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

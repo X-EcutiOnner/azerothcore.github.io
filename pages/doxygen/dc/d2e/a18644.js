@@ -1,6 +1,9 @@
 var a18644 =
 [
-    [ "npc_terenas_menethilAI", "dc/d01/a18648.html", "dc/d01/a18648" ],
-    [ "npc_terenas_menethil", "dc/d2e/a18644.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "dc/d2e/a18644.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "npc_spirit_wardenAI", "dc/d2e/a18644.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "dc/d2e/a18644.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "dc/d2e/a18644.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "dc/d2e/a18644.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "dc/d2e/a18644.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "dc/d2e/a18644.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

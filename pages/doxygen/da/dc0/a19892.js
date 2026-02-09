@@ -1,9 +1,6 @@
 var a19892 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "da/dc0/a19892.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "da/dc0/a19892.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "da/dc0/a19892.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "da/dc0/a19892.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "da/dc0/a19892.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "da/dc0/a19892.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "npc_algalon_worm_holeAI", "d2/d15/a19896.html", "d2/d15/a19896" ],
+    [ "npc_algalon_worm_hole", "da/dc0/a19892.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "da/dc0/a19892.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

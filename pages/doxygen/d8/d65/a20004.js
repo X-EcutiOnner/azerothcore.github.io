@@ -1,7 +1,6 @@
 var a20004 =
 [
-    [ "OnRemove", "d8/d65/a20004.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d8/d65/a20004.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d8/d65/a20004.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d8/d65/a20004.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_auriayaAI", "d2/d21/a20008.html", "d2/d21/a20008" ],
+    [ "boss_auriaya", "d8/d65/a20004.html#a8acecf02a63e846d1a46633a6ade6083", null ],
+    [ "GetAI", "d8/d65/a20004.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
 ];

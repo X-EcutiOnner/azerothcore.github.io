@@ -1,9 +1,6 @@
 var a17748 =
 [
-    [ "FilterTargetsInitial", "d0/d6e/a17748.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d0/d6e/a17748.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d0/d6e/a17748.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d0/d6e/a17748.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d0/d6e/a17748.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d0/d6e/a17748.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "boss_festergutAI", "dd/d2b/a17752.html", "dd/d2b/a17752" ],
+    [ "boss_festergut", "d0/d6e/a17748.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d0/d6e/a17748.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

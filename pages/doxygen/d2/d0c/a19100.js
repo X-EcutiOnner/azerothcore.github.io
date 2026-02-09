@@ -1,9 +1,6 @@
 var a19100 =
 [
-    [ "npc_icc_severed_essenceAI", "d2/d0c/a19100.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d2/d0c/a19100.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d2/d0c/a19100.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d2/d0c/a19100.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d2/d0c/a19100.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d2/d0c/a19100.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "de/d15/a19104.html", "de/d15/a19104" ],
+    [ "npc_icc_nerubar_broodkeeper", "d2/d0c/a19100.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d2/d0c/a19100.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

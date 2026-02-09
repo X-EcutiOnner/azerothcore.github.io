@@ -1,5 +1,7 @@
 var a15496 =
 [
-    [ "npc_toxic_slime", "da/d45/a15496.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "da/d45/a15496.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "boss_glob_of_viscidus", "da/d45/a15496.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "da/d45/a15496.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "da/d45/a15496.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "da/d45/a15496.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

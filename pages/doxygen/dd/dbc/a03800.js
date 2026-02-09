@@ -1,9 +1,9 @@
 var a03800 =
 [
-    [ "boss_ragnaros", "da/d78/a12752.html", "da/d78/a12752" ],
-    [ "boss_ragnaros::boss_ragnarosAI", "d6/df4/a12756.html", "d6/df4/a12756" ],
-    [ "spell_ragnaros_lava_burst_randomizer", "d7/dc9/a12760.html", "d7/dc9/a12760" ],
-    [ "spell_ragnaros_summon_sons_of_flame", "d7/dd7/a12764.html", "d7/dd7/a12764" ],
+    [ "boss_ragnaros", "d6/df4/a12756.html", "d6/df4/a12756" ],
+    [ "boss_ragnaros::boss_ragnarosAI", "d7/dc9/a12760.html", "d7/dc9/a12760" ],
+    [ "spell_ragnaros_lava_burst_randomizer", "d7/dd7/a12764.html", "d7/dd7/a12764" ],
+    [ "spell_ragnaros_summon_sons_of_flame", "df/d0f/a12768.html", "df/d0f/a12768" ],
     [ "Creatures", "dd/dbc/a03800.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/d01/a03458.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/d01/a03458.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

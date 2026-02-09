@@ -1,8 +1,6 @@
 var a18880 =
 [
-    [ "npc_rotting_frost_giantAI", "d3/dec/a18880.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d3/dec/a18880.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d3/dec/a18880.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d3/dec/a18880.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d3/dec/a18880.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "boss_sister_svalnaAI", "d4/d0c/a18884.html", "d4/d0c/a18884" ],
+    [ "boss_sister_svalna", "d3/dec/a18880.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d3/dec/a18880.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

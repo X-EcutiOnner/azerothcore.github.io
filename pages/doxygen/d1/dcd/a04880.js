@@ -1,6 +1,6 @@
 var a04880 =
 [
-    [ "hash< ObjectGuid >", "df/d79/a08520.html", "df/d79/a08520" ],
-    [ "hash< SpellGroup >", "d8/d59/a11464.html", "d8/d59/a11464" ],
-    [ "hash< std::pair< uint32_t, uint32_t > >", "d7/d0c/a29024.html", "d7/d0c/a29024" ]
+    [ "hash< ObjectGuid >", "d1/d28/a08524.html", "d1/d28/a08524" ],
+    [ "hash< SpellGroup >", "dd/d2c/a11468.html", "dd/d2c/a11468" ],
+    [ "hash< std::pair< uint32_t, uint32_t > >", "d3/dd2/a29016.html", "d3/dd2/a29016" ]
 ];

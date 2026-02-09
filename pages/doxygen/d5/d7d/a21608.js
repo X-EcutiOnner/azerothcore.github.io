@@ -1,5 +1,6 @@
 var a21608 =
 [
-    [ "go_vh_activation_crystal", "d5/d7d/a21608.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "d5/d7d/a21608.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "npc_azure_invaderAI", "d8/d5b/a21612.html", "d8/d5b/a21612" ],
+    [ "npc_azure_invader", "d5/d7d/a21608.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
+    [ "GetAI", "d5/d7d/a21608.html#a19c000084ea74a401ece81ee0e20b65c", null ]
 ];

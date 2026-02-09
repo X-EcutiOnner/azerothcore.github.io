@@ -1,6 +1,6 @@
 var a20984 =
 [
-    [ "PrepareSpellScript", "d1/d1b/a20984.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d1/d1b/a20984.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d1/d1b/a20984.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "boss_yoggsaron_saraAI", "d8/deb/a20988.html", "d8/deb/a20988" ],
+    [ "boss_yoggsaron_sara", "d1/d1b/a20984.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "d1/d1b/a20984.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

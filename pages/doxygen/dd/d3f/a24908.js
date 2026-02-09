@@ -1,6 +1,8 @@
 var a24908 =
 [
-    [ "CalculateAmount", "dd/d3f/a24908.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
-    [ "PrepareAuraScript", "dd/d3f/a24908.html#a4090baaee0e4330d3776b5774c5c923a", null ],
-    [ "Register", "dd/d3f/a24908.html#a4db48f3a549a04caf746a9459b1c5640", null ]
+    [ "AfterRemove", "dd/d3f/a24908.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "dd/d3f/a24908.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "dd/d3f/a24908.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "dd/d3f/a24908.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "dd/d3f/a24908.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

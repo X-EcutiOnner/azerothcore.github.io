@@ -1,6 +1,6 @@
 var a16288 =
 [
-    [ "HandleLeapBack", "de/dfa/a16288.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "de/dfa/a16288.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "de/dfa/a16288.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "boss_baltharus_the_warbornAI", "d5/d30/a16292.html", "d5/d30/a16292" ],
+    [ "boss_baltharus_the_warborn", "de/dfa/a16288.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "de/dfa/a16288.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

@@ -1,12 +1,6 @@
 var a15208 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d6/db3/a15208.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d6/db3/a15208.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d6/db3/a15208.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d6/db3/a15208.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d6/db3/a15208.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d6/db3/a15208.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d6/db3/a15208.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d6/db3/a15208.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d6/db3/a15208.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "dd/dc4/a15212.html", "dd/dc4/a15212" ],
+    [ "instance_razorfen_downs", "d6/db3/a15208.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d6/db3/a15208.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

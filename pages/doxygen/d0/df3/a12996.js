@@ -1,6 +1,5 @@
 var a12996 =
 [
-    [ "go_blood_drenched_doorAI", "d4/d6f/a13000.html", "d4/d6f/a13000" ],
-    [ "go_blood_drenched_door", "d0/df3/a12996.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d0/df3/a12996.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "at_karazhan_mirkblood_entrance", "d0/df3/a12996.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d0/df3/a12996.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

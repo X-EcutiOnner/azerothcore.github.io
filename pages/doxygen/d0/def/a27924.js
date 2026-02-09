@@ -1,6 +1,7 @@
 var a27924 =
 [
-    [ "npc_venomhide_hatchlingAI", "d0/def/a27924.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d0/def/a27924.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d0/def/a27924.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_crashin_thrashin_robot", "d0/def/a27924.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d0/def/a27924.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d0/def/a27924.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d0/def/a27924.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

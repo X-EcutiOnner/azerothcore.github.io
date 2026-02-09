@@ -1,6 +1,7 @@
 var a14012 =
 [
-    [ "boss_blight_wormAI", "db/dea/a14016.html", "db/dea/a14016" ],
-    [ "boss_blight_worm", "da/d46/a14012.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "da/d46/a14012.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "da/d46/a14012.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "da/d46/a14012.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "da/d46/a14012.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "da/d46/a14012.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

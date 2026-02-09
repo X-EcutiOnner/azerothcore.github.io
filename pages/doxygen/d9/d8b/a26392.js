@@ -1,6 +1,6 @@
 var a26392 =
 [
-    [ "CheckTarget", "d9/d8b/a26392.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "d9/d8b/a26392.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "d9/d8b/a26392.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleDummy", "d9/d8b/a26392.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
+    [ "PrepareSpellScript", "d9/d8b/a26392.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
+    [ "Register", "d9/d8b/a26392.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
 ];

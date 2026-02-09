@@ -1,12 +1,12 @@
 var a28852 =
 [
-    [ "TestVisibilityScript", "de/dbf/a28852.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "de/dbf/a28852.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "de/dbf/a28852.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "de/dbf/a28852.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "de/dbf/a28852.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "de/dbf/a28852.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "de/dbf/a28852.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "de/dbf/a28852.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "de/dbf/a28852.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "ApplyGmVisibleState", "de/dbf/a28852.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "de/dbf/a28852.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "de/dbf/a28852.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "de/dbf/a28852.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "de/dbf/a28852.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "de/dbf/a28852.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "de/dbf/a28852.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "de/dbf/a28852.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "de/dbf/a28852.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

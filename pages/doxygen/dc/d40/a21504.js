@@ -1,6 +1,6 @@
 var a21504 =
 [
-    [ "npc_frozen_orb_stalkerAI", "dc/d40/a21504.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "dc/d40/a21504.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "dc/d40/a21504.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_erekemAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
+    [ "boss_erekem", "dc/d40/a21504.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "dc/d40/a21504.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

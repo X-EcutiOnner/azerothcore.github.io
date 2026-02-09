@@ -1,6 +1,15 @@
 var a18376 =
 [
-    [ "MysticBuffetTargetFilter", "dd/de2/a18376.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "dd/de2/a18376.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "dd/de2/a18376.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "npc_spinestalkerAI", "dd/de2/a18376.html#ad758068ccfc12cead2e3a6b646bea374", null ],
+    [ "DoAction", "dd/de2/a18376.html#a263d897b4c94c71fe6597c0753722ce8", null ],
+    [ "InitializeAI", "dd/de2/a18376.html#ab87abc1a65e48325c31a52517477297b", null ],
+    [ "JustDied", "dd/de2/a18376.html#ada5ab1c21b13acc0aee4e7a4907d76d9", null ],
+    [ "JustReachedHome", "dd/de2/a18376.html#a56e9b760fd28219bee8a3aa604010d07", null ],
+    [ "JustRespawned", "dd/de2/a18376.html#a6ae99a71f8517055acc6e637b54c78d0", null ],
+    [ "MovementInform", "dd/de2/a18376.html#aebb6606d219bd6ee59c01718374576e9", null ],
+    [ "Reset", "dd/de2/a18376.html#a892d973ca4e04138eda70b09e16c9b2a", null ],
+    [ "UpdateAI", "dd/de2/a18376.html#a94ad98a558ed8df7c17f75a0a6c0ec26", null ],
+    [ "_events", "dd/de2/a18376.html#a45d8828fc3324d91387a26c560cf725b", null ],
+    [ "_instance", "dd/de2/a18376.html#a73dfcbf2ea0162cfb69f1ec169f659d4", null ],
+    [ "_summoned", "dd/de2/a18376.html#a324cd480e056750c61318446c97df48d", null ]
 ];

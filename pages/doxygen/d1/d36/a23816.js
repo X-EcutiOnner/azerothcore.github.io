@@ -1,6 +1,5 @@
 var a23816 =
 [
-    [ "HandleHit", "d1/d36/a23816.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d1/d36/a23816.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d1/d36/a23816.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "spellId", "d1/d36/a23816.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d1/d36/a23816.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

@@ -1,6 +1,11 @@
 var a13988 =
 [
-    [ "npc_parqual_fintallas", "db/d48/a13988.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "db/d48/a13988.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "db/d48/a13988.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_highborne_lamenterAI", "db/d48/a13988.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
+    [ "JustEngagedWith", "db/d48/a13988.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
+    [ "Reset", "db/d48/a13988.html#a7cf9338767e8edf0a87a5552703de87a", null ],
+    [ "UpdateAI", "db/d48/a13988.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
+    [ "EventCast", "db/d48/a13988.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
+    [ "EventCastTimer", "db/d48/a13988.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
+    [ "EventMove", "db/d48/a13988.html#aca22c73db989f0393926067506794e43", null ],
+    [ "EventMoveTimer", "db/d48/a13988.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
 ];

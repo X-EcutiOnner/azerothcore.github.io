@@ -1,6 +1,6 @@
 var a20108 =
 [
-    [ "npc_mimirons_infernoAI", "da/d80/a20112.html", "da/d80/a20112" ],
-    [ "npc_mimirons_inferno", "df/d5c/a20108.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "df/d5c/a20108.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "npc_pool_of_tarAI", "df/d5c/a20108.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "df/d5c/a20108.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "df/d5c/a20108.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

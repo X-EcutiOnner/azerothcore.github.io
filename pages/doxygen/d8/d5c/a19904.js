@@ -1,6 +1,8 @@
 var a19904 =
 [
-    [ "npc_living_constellationAI", "d3/d9b/a19908.html", "d3/d9b/a19908" ],
-    [ "npc_living_constellation", "d8/d5c/a19904.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d8/d5c/a19904.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "go_celestial_planetarium_accessAI", "d8/d5c/a19904.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d8/d5c/a19904.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d8/d5c/a19904.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d8/d5c/a19904.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d8/d5c/a19904.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

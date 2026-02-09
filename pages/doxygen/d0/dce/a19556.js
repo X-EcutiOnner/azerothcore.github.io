@@ -1,18 +1,14 @@
 var a19556 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d0/dce/a19556.html#a5d98695d6090d3805de4c26db0fb2d23", null ],
-    [ "CheckAchievementCriteriaMeet", "d0/dce/a19556.html#a91fd1a35177ce6f29167ec20701e5ea6", null ],
-    [ "GetGuidData", "d0/dce/a19556.html#a06adfadbd168118756fa457cfa814cf1", null ],
-    [ "Initialize", "d0/dce/a19556.html#a9febece0b333f19b00ed3672bc24acf9", null ],
-    [ "OnCreatureCreate", "d0/dce/a19556.html#abe14c696da1e452c2d79f20e4a729c12", null ],
-    [ "OnGameObjectCreate", "d0/dce/a19556.html#accc79892118cce948568d7810ce64e23", null ],
-    [ "OnPlayerEnter", "d0/dce/a19556.html#a650605613671c1eeef4c36b24a5c4cf4", null ],
-    [ "ProcessEvent", "d0/dce/a19556.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
-    [ "SetBossState", "d0/dce/a19556.html#adbb345933f265dfc75af777a4a754241", null ],
-    [ "SetData", "d0/dce/a19556.html#af937d2eee8e53a04305a9a7a6ce4ffda", null ],
-    [ "bPokeAchiev", "d0/dce/a19556.html#ae9ac88ac934fa86e28f5d4905b8defba", null ],
-    [ "GO_ExitPortalGUID", "d0/dce/a19556.html#a0ecf94e919fe425ea283a7929f33e96f", null ],
-    [ "GO_IrisGUID", "d0/dce/a19556.html#a34fe2223ca6b0572357cc0c9f0a7ef52", null ],
-    [ "GO_PlatformGUID", "d0/dce/a19556.html#a26cac92965b6eb53d5ceb0bb1a92773d", null ],
-    [ "NPC_MalygosGUID", "d0/dce/a19556.html#a90666367e40a567c1adea7d444004db8", null ]
+    [ "boss_keristrasza", "d0/dce/a19556.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "d0/dce/a19556.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "d0/dce/a19556.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "d0/dce/a19556.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "d0/dce/a19556.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "d0/dce/a19556.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "d0/dce/a19556.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "d0/dce/a19556.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "d0/dce/a19556.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "d0/dce/a19556.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "d0/dce/a19556.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

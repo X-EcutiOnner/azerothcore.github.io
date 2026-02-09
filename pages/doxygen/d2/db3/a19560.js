@@ -1,6 +1,5 @@
 var a19560 =
 [
-    [ "ChargeRifts", "d2/db3/a19560.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d2/db3/a19560.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d2/db3/a19560.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "achievement_intense_cold", "d2/db3/a19560.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d2/db3/a19560.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

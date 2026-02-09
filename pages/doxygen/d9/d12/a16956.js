@@ -1,5 +1,5 @@
 var a16956 =
 [
-    [ "achievement_better_off_dred", "d9/d12/a16956.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d9/d12/a16956.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "achievement_oh_novos", "d9/d12/a16956.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "d9/d12/a16956.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

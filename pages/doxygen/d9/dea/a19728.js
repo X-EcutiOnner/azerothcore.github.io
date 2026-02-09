@@ -1,8 +1,12 @@
 var a19728 =
 [
-    [ "HandleEffectPeriodic", "d9/dea/a19728.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d9/dea/a19728.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d9/dea/a19728.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d9/dea/a19728.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d9/dea/a19728.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "boss_ionar", "d9/dea/a19728.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "d9/dea/a19728.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "d9/dea/a19728.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "d9/dea/a19728.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "d9/dea/a19728.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "d9/dea/a19728.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "d9/dea/a19728.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "d9/dea/a19728.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "d9/dea/a19728.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

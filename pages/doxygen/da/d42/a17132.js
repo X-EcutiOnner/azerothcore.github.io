@@ -1,8 +1,12 @@
 var a17132 =
 [
-    [ "npc_hor_leaderAI", "dc/dfe/a17136.html", "dc/dfe/a17136" ],
-    [ "npc_hor_leader", "da/d42/a17132.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "da/d42/a17132.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "da/d42/a17132.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "da/d42/a17132.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_phantom_mageAI", "da/d42/a17132.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "da/d42/a17132.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "da/d42/a17132.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "da/d42/a17132.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "da/d42/a17132.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "da/d42/a17132.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "da/d42/a17132.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "da/d42/a17132.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "da/d42/a17132.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

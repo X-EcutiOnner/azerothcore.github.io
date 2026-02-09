@@ -1,6 +1,5 @@
 var a25732 =
 [
-    [ "HandleFinish", "d4/d74/a25732.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d4/d74/a25732.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d4/d74/a25732.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "PrepareSpellScript", "d4/d74/a25732.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
+    [ "Register", "d4/d74/a25732.html#afd92511fb578c1df33248dba5055315e", null ]
 ];

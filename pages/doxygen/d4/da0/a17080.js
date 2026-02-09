@@ -1,8 +1,6 @@
 var a17080 =
 [
-    [ "npc_fos_leaderAI", "dc/dd2/a17084.html", "dc/dd2/a17084" ],
-    [ "npc_fos_leader", "d4/da0/a17080.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d4/da0/a17080.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d4/da0/a17080.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d4/da0/a17080.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "entry", "d4/da0/a17080.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d4/da0/a17080.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d4/da0/a17080.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

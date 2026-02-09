@@ -1,6 +1,7 @@
 var a10664 =
 [
-    [ "GuildCreate", "de/dbc/a10664.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "de/dbc/a10664.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "de/dbc/a10664.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "QueryGuildInfoResponse", "de/dbc/a10664.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "de/dbc/a10664.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "de/dbc/a10664.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "de/dbc/a10664.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

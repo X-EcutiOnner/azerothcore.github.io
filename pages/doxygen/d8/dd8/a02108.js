@@ -428,9 +428,10 @@ var a02108 =
       [ "DATA_PATHALEON_THE_CALCULATOR", "d8/d1e/a02210.html#afb6eb4f28419b652027fad41104a6d22a9c9004add3c23b6c6ec35743282a18f6", null ],
       [ "MAX_ENCOUNTER", "d8/d1e/a02210.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d", null ]
     ] ],
-    [ "KeeperCount", "d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8", [
-      [ "MIN_KEEPER_COUNT", "d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ac15a78133e7a95aaebef902bdadd6ae2", null ],
-      [ "MAX_KEEPER_COUNT", "d8/dd8/a02108.html#ac0a3f585fae3e717f00ce9b54aff49a8ab2be1115bf8ea85de1946ab5a785abb5", null ]
+    [ "SSNPCCount", "d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15a", [
+      [ "MIN_KEEPER_COUNT", "d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aac15a78133e7a95aaebef902bdadd6ae2", null ],
+      [ "MAX_KEEPER_COUNT", "d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aab2be1115bf8ea85de1946ab5a785abb5", null ],
+      [ "MAX_FRENZY_COUNT", "d8/dd8/a02108.html#a678efa7fc70de1d43dbf9ac74ce1f15aae8632976de77fa1efce974be72017e61", null ]
     ] ],
     [ "SSNPCs", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669", [
       [ "NPC_HYDROSS_THE_UNSTABLE", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a5d39a01a3bb26014888771c126b939b4", null ],
@@ -450,6 +451,7 @@ var a02108 =
       [ "NPC_COILFANG_STRIDER", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69", null ],
       [ "NPC_TAINTED_ELEMENTAL", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e", null ],
       [ "NPC_TOXIC_SPOREBAT", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a68d72ef566b1e8df14db1b89ba7078e8", null ],
+      [ "NPC_COILFANG_FRENZY", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afcba60a42768950cfa46b5e82f3dff99", null ],
       [ "GO_LADY_VASHJ_BRIDGE_CONSOLE", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118", null ],
       [ "GO_COILFANG_BRIDGE1", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3", null ],
       [ "GO_COILFANG_BRIDGE2", "d8/dd8/a02108.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c", null ],
@@ -464,7 +466,8 @@ var a02108 =
       [ "SPELL_SUMMON_SERPENTSHRINE_PARASITE", "d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a7351563ba34dc578c78fa734aab4eb75", null ],
       [ "SPELL_RAMPART_INFECTION", "d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a219b13c78b9dd52b371219a42503439a", null ],
       [ "SPELL_SCALDING_WATER", "d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a78f1361e25d19dd29fe0579483053006", null ],
-      [ "SPELL_FRENZY_WATER", "d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58af2c07db17dc7086b47d94284b8438e66", null ]
+      [ "SPELL_SERVERSIDE_SUMMON_FRENZY", "d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58a08357ba6ef1cc9a99f176a052ee800c5", null ],
+      [ "SPELL_SERVERSIDE_FRENZY_WATER_PERIODIC", "d8/dd8/a02108.html#ad7602f6f7909a67411e5ab9d687a4e58aca530798aa896e4a9b5b97cf9aee737b", null ]
     ] ],
     [ "GetSerpentShrineAI", "d8/dd8/a02108.html#a33754ea6f3ba797f68725b8d3a4fb578", null ]
 ];

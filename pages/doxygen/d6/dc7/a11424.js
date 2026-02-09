@@ -1,7 +1,4 @@
 var a11424 =
 [
-    [ "SpellImmune", "d6/dc7/a11424.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d6/dc7/a11424.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d6/dc7/a11424.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d6/dc7/a11424.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "AddSpellMod", "d6/dc7/a11424.html#a1c14e27dd094be2fccff3d74a1414a80", null ]
 ];

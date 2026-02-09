@@ -1,5 +1,6 @@
 var a20896 =
 [
-    [ "go_thorim_lever", "d8/d69/a20896.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d8/d69/a20896.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_xt002AI", "de/dd3/a20900.html", "de/dd3/a20900" ],
+    [ "boss_xt002", "d8/d69/a20896.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "d8/d69/a20896.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

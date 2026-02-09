@@ -1,6 +1,6 @@
 var a01169 =
 [
-    [ "WorldConfig", "de/dd5/a11824.html", "de/dd5/a11824" ],
+    [ "WorldConfig", "df/dd5/a11828.html", "df/dd5/a11828" ],
     [ "ServerConfigs", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0", [
       [ "CONFIG_DURABILITY_LOSS_IN_PVP", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0a9bd963cd4dbd7aa4f601fc5a69f582c7", null ],
       [ "CONFIG_ADDON_CHANNEL", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0a57f0703f8632960432f25f4969896d27", null ],
@@ -451,6 +451,8 @@ var a01169 =
       [ "RATE_AUCTION_CUT", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24", null ],
       [ "RATE_HONOR", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0acb74542a711233b8c0ac367b74b306f6", null ],
       [ "RATE_ARENA_POINTS", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0a2cfd22081757c2c36a3f4d5cfbab4809", null ],
+      [ "RATE_ARENA_POINTS_2V2", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0ab1df85ff47ddb2d101906ef7744629c8", null ],
+      [ "RATE_ARENA_POINTS_3V3", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0a99197db422e3cc1be6aa510a4f16cca4", null ],
       [ "RATE_TALENT", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0a53eacef205b81ea8a0727fd228897d12", null ],
       [ "RATE_TALENT_PET", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0ae7370ac3d73883d0effbc3ff62c4c7d7", null ],
       [ "RATE_CORPSE_DECAY_LOOTED", "d7/daf/a01169.html#a468ad15992691eb97dd20680046832e0ad924c86659fa7e252d7fe13edc385a00", null ],

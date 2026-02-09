@@ -1,6 +1,6 @@
 var a25156 =
 [
-    [ "ModDest", "d6/d11/a25156.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d6/d11/a25156.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d6/d11/a25156.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleOnEffectHit", "d6/d11/a25156.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "d6/d11/a25156.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "d6/d11/a25156.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

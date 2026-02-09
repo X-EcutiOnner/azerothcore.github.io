@@ -1,6 +1,7 @@
 var a20512 =
 [
-    [ "npc_ulduar_iron_constructAI", "d7/ddf/a20516.html", "d7/ddf/a20516" ],
-    [ "npc_ulduar_iron_construct", "da/d6e/a20512.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "da/d6e/a20512.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "HandleScript", "da/d6e/a20512.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "da/d6e/a20512.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "da/d6e/a20512.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "da/d6e/a20512.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

@@ -1,6 +1,7 @@
 var a17968 =
 [
-    [ "BurningPitchFilterCheck", "de/d77/a17968.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "de/d77/a17968.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "de/d77/a17968.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "DamageGunship", "de/d77/a17968.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "de/d77/a17968.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "de/d77/a17968.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "de/d77/a17968.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

@@ -1,6 +1,5 @@
 var a17000 =
 [
-    [ "boss_trollgoreAI", "de/d22/a17004.html", "de/d22/a17004" ],
-    [ "boss_trollgore", "da/d39/a17000.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "da/d39/a17000.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "achievement_consumption_junction", "da/d39/a17000.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "da/d39/a17000.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

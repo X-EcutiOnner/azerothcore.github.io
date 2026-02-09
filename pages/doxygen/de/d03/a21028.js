@@ -1,6 +1,6 @@
 var a21028 =
 [
-    [ "boss_yoggsaronAI", "d9/dd4/a21032.html", "d9/dd4/a21032" ],
-    [ "boss_yoggsaron", "de/d03/a21028.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
-    [ "GetAI", "de/d03/a21028.html#a113eb034acc46a2edd4a84598413a63e", null ]
+    [ "boss_yoggsaron_death_orbAI", "de/d03/a21028.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "de/d03/a21028.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "de/d03/a21028.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

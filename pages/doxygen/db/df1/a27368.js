@@ -1,6 +1,6 @@
 var a27368 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "db/df1/a27368.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "db/df1/a27368.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "db/df1/a27368.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "npc_dream_fogAI", "d9/d7b/a27372.html", "d9/d7b/a27372" ],
+    [ "npc_dream_fog", "db/df1/a27368.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "db/df1/a27368.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

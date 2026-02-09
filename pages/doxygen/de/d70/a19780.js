@@ -1,8 +1,6 @@
 var a19780 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "de/d70/a19780.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "de/d70/a19780.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "de/d70/a19780.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "de/d70/a19780.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "de/d70/a19780.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "CalculateDamage", "de/d70/a19780.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "de/d70/a19780.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "de/d70/a19780.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

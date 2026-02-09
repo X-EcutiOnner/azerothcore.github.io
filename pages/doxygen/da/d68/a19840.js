@@ -1,9 +1,7 @@
 var a19840 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "da/d68/a19840.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "da/d68/a19840.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "da/d68/a19840.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "da/d68/a19840.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "da/d68/a19840.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "da/d68/a19840.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "HandleEffectRemove", "da/d68/a19840.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "da/d68/a19840.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "da/d68/a19840.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "da/d68/a19840.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

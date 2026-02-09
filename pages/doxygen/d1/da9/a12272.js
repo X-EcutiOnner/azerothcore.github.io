@@ -1,7 +1,6 @@
 var a12272 =
 [
-    [ "boss_okthorAI", "d1/da9/a12272.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "d1/da9/a12272.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "d1/da9/a12272.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "d1/da9/a12272.html#a21446d2cfc51a05de6cee3ba4301eae9", null ]
+    [ "boss_okthorAI", "d4/d14/a12276.html", "d4/d14/a12276" ],
+    [ "boss_okthor", "d1/da9/a12272.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
+    [ "GetAI", "d1/da9/a12272.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
 ];

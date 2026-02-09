@@ -1,10 +1,6 @@
 var a20564 =
 [
-    [ "boss_kologarn_eyebeamAI", "df/d1c/a20564.html#add083b2a9067753458de1eeb6bdca4c0", null ],
-    [ "DamageDealt", "df/d1c/a20564.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
-    [ "IsSummonedBy", "df/d1c/a20564.html#affd177dc20c800777142208fa97207fa", null ],
-    [ "UpdateAI", "df/d1c/a20564.html#add60a709a1edf1684bd21358769590b4", null ],
-    [ "_damaged", "df/d1c/a20564.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
-    [ "_timer", "df/d1c/a20564.html#a766ad3e10016d97235499d1512c4da27", null ],
-    [ "m_pInstance", "df/d1c/a20564.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
+    [ "OnRemoveStun", "df/d1c/a20564.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "df/d1c/a20564.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "df/d1c/a20564.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

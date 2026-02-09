@@ -1,6 +1,11 @@
 var a18152 =
 [
-    [ "PrepareSpellScript", "df/dab/a18152.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "df/dab/a18152.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "df/dab/a18152.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "Load", "df/dab/a18152.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "df/dab/a18152.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "df/dab/a18152.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "df/dab/a18152.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "df/dab/a18152.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "df/dab/a18152.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "df/dab/a18152.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "df/dab/a18152.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

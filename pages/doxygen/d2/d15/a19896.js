@@ -1,6 +1,8 @@
 var a19896 =
 [
-    [ "npc_collapsing_starAI", "d4/dfa/a19900.html", "d4/dfa/a19900" ],
-    [ "npc_collapsing_star", "d2/d15/a19896.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d2/d15/a19896.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "npc_algalon_worm_holeAI", "d2/d15/a19896.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "d2/d15/a19896.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "d2/d15/a19896.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "d2/d15/a19896.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "d2/d15/a19896.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

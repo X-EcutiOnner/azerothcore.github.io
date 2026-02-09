@@ -1,5 +1,5 @@
 var a12264 =
 [
-    [ "boss_high_priestess_thaurissan", "da/d4f/a12264.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "da/d4f/a12264.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "boss_moira_bronzebeard", "da/d4f/a12264.html#abb9a87023b8afa242e60f9694dea1c39", null ],
+    [ "GetAI", "da/d4f/a12264.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
 ];

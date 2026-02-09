@@ -1,5 +1,7 @@
 var a13416 =
 [
-    [ "npc_apothecary_frye", "dc/df1/a13416.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "dc/df1/a13416.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "npc_apothecary_genericAI", "dc/df1/a13416.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "dc/df1/a13416.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "dc/df1/a13416.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "dc/df1/a13416.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];
