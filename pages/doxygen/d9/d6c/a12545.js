@@ -1,17 +1,9 @@
 var a12545 =
 [
-    [ "boss_attumen", "d9/d6c/a12545.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "d9/d6c/a12545.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "d9/d6c/a12545.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "d9/d6c/a12545.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "d9/d6c/a12545.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "d9/d6c/a12545.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "d9/d6c/a12545.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "d9/d6c/a12545.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "d9/d6c/a12545.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "d9/d6c/a12545.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "d9/d6c/a12545.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "d9/d6c/a12545.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "d9/d6c/a12545.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "d9/d6c/a12545.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "npc_vaelastrasz_the_redAI", "d9/d6c/a12545.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d9/d6c/a12545.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d9/d6c/a12545.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d9/d6c/a12545.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d9/d6c/a12545.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d9/d6c/a12545.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

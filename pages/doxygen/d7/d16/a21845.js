@@ -1,6 +1,5 @@
 var a21845 =
 [
-    [ "CheckRequirement", "d7/d16/a21845.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d7/d16/a21845.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d7/d16/a21845.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_black_knight_graveyardAI", "d7/d16/a21845.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d7/d16/a21845.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

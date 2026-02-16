@@ -1,7 +1,7 @@
 var a25857 =
 [
-    [ "CheckCast", "d1/d9d/a25857.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d1/d9d/a25857.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d1/d9d/a25857.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d1/d9d/a25857.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "OnRemove", "d1/d9d/a25857.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "d1/d9d/a25857.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "d1/d9d/a25857.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "d1/d9d/a25857.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

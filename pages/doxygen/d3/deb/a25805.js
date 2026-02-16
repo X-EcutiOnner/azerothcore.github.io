@@ -1,6 +1,7 @@
 var a25805 =
 [
-    [ "HandleScriptEffect", "d3/deb/a25805.html#a14df2ed73118826254a6ffa923063f6c", null ],
-    [ "PrepareSpellScript", "d3/deb/a25805.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
-    [ "Register", "d3/deb/a25805.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
+    [ "CheckCast", "d3/deb/a25805.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "d3/deb/a25805.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "d3/deb/a25805.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "d3/deb/a25805.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

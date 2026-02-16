@@ -1,6 +1,6 @@
 var a19753 =
 [
-    [ "boss_flame_leviathanAI", "dd/d05/a19757.html", "dd/d05/a19757" ],
-    [ "boss_flame_leviathan", "d1/d11/a19753.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d1/d11/a19753.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "HandleEffectCalcAmount", "d1/d11/a19753.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "d1/d11/a19753.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "d1/d11/a19753.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

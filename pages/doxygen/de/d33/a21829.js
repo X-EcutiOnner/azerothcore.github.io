@@ -1,7 +1,8 @@
 var a21829 =
 [
-    [ "npc_tallhorn_stagAI", "de/d33/a21829.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "de/d33/a21829.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "de/d33/a21829.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "de/d33/a21829.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "AfterApply", "de/d33/a21829.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "de/d33/a21829.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "de/d33/a21829.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "de/d33/a21829.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "de/d33/a21829.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

@@ -1,5 +1,6 @@
 var a12577 =
 [
-    [ "go_blackened_urn", "d9/d69/a12577.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d9/d69/a12577.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "go_chromaggus_leverAI", "d1/d88/a12581.html", "d1/d88/a12581" ],
+    [ "go_chromaggus_lever", "d9/d69/a12577.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d9/d69/a12577.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

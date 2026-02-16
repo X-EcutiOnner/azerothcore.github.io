@@ -1,8 +1,24 @@
 var a11989 =
 [
-    [ "boss_highlordomokkAI", "d5/d0b/a11989.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d5/d0b/a11989.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d5/d0b/a11989.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d5/d0b/a11989.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d5/d0b/a11989.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "go_commandscript", "d5/d0b/a11989.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
+    [ "DoTeleport", "d5/d0b/a11989.html#a7c89031f2df751d1699627c901abd80a", null ],
+    [ "DoTeleportToTransport", "d5/d0b/a11989.html#ae4b8e2e948f1b55c481869fb112eb199", null ],
+    [ "GetCommands", "d5/d0b/a11989.html#a672e84a91c30f7378adce918608a6a94", null ],
+    [ "GetCreatureData", "d5/d0b/a11989.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
+    [ "GetCreatureDataList", "d5/d0b/a11989.html#adbcec5db26748dbb65d0c84d08f2a9b8", null ],
+    [ "GetGameObjectData", "d5/d0b/a11989.html#a4cc325ee1ecbb3dc9997d522fa15ebaa", null ],
+    [ "GetGameObjectDataList", "d5/d0b/a11989.html#af6a6b312a78435ee01a923f91ad9752a", null ],
+    [ "HandleGoCreatureCIdCommand", "d5/d0b/a11989.html#aa02ff2eb7b64dd5f35cf7c7227482234", null ],
+    [ "HandleGoCreatureNameCommand", "d5/d0b/a11989.html#a8ba4cf43263d267e29efa76d6b92149d", null ],
+    [ "HandleGoCreatureSpawnIdCommand", "d5/d0b/a11989.html#ab7fbdfbfdd9b1f94966044f4873e18a7", null ],
+    [ "HandleGoGameObjectGOIdCommand", "d5/d0b/a11989.html#a178f15f26efaafc534e59a25de44ae6e", null ],
+    [ "HandleGoGameObjectSpawnIdCommand", "d5/d0b/a11989.html#ae8ee37da2d5a4cbf5e6ee64a635b804b", null ],
+    [ "HandleGoGraveyardCommand", "d5/d0b/a11989.html#a4138d8299e150a55ae38613cac8e4c8b", null ],
+    [ "HandleGoGridCommand", "d5/d0b/a11989.html#a88a8a00453f822322720476dfe91e866", null ],
+    [ "HandleGoQuestCommand", "d5/d0b/a11989.html#a4d48d4a889033f7eac9a8473fb6cf3aa", null ],
+    [ "HandleGoTaxinodeCommand", "d5/d0b/a11989.html#a7ac0084020d81c574193668aad6e3d95", null ],
+    [ "HandleGoTicketCommand", "d5/d0b/a11989.html#ab74a387cae5095d9ea26bf70158d6a14", null ],
+    [ "HandleGoTriggerCommand", "d5/d0b/a11989.html#a98149f3632dbbce523926229ebd9c15a", null ],
+    [ "HandleGoXYZCommand", "d5/d0b/a11989.html#a9aee7c1cbfe76d988ad28cd64840222b", null ],
+    [ "HandleGoZoneXYCommand", "d5/d0b/a11989.html#ae01287fc270a629b5b81117e71ac4ee8", null ]
 ];

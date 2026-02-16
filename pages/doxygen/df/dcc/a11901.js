@@ -1,6 +1,9 @@
 var a11901 =
 [
-    [ "boss_magmusAI", "d7/da1/a11905.html", "d7/da1/a11905" ],
-    [ "boss_magmus", "df/dcc/a11901.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "df/dcc/a11901.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "map", "df/dcc/a11901.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "df/dcc/a11901.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "df/dcc/a11901.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "df/dcc/a11901.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "df/dcc/a11901.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "df/dcc/a11901.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

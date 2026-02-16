@@ -1,6 +1,6 @@
 var a14517 =
 [
-    [ "HandleHit", "d5/d1b/a14517.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d5/d1b/a14517.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d5/d1b/a14517.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "npc_brewfest_bark_trigger", "d5/d1b/a14517.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d5/d1b/a14517.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d5/d1b/a14517.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

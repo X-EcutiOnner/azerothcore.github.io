@@ -1,7 +1,6 @@
 var a26213 =
 [
-    [ "CheckRequirement", "d1/d9e/a26213.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d1/d9e/a26213.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d1/d9e/a26213.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d1/d9e/a26213.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "CheckProc", "d1/d9e/a26213.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d1/d9e/a26213.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d1/d9e/a26213.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

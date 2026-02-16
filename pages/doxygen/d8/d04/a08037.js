@@ -1,12 +1,10 @@
 var a08037 =
 [
-    [ "TrainerSpell", "d8/d04/a08037.html#a87a098774b32babfcf2000e3330a25b9", null ],
-    [ "IsCastable", "d8/d04/a08037.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
-    [ "learnedSpell", "d8/d04/a08037.html#a2396712a58fa61f340632de48dac9b78", null ],
-    [ "reqLevel", "d8/d04/a08037.html#ac71afa7c180905ae4247011b2f40f929", null ],
-    [ "reqSkill", "d8/d04/a08037.html#ac0a74c104994e36ba95703689ed92964", null ],
-    [ "reqSkillValue", "d8/d04/a08037.html#a1187d182a512ae0f40af6ea36a4911db", null ],
-    [ "reqSpell", "d8/d04/a08037.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
-    [ "spell", "d8/d04/a08037.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
-    [ "spellCost", "d8/d04/a08037.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
+    [ "LfgUpdateData", "d8/d04/a08037.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d8/d04/a08037.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d8/d04/a08037.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d8/d04/a08037.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d8/d04/a08037.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d8/d04/a08037.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d8/d04/a08037.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

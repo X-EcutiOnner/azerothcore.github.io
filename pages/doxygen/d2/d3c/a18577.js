@@ -1,5 +1,7 @@
 var a18577 =
 [
-    [ "npc_alchemist_adrianna", "d2/d3c/a18577.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d2/d3c/a18577.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "OnRemove", "d2/d3c/a18577.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d2/d3c/a18577.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d2/d3c/a18577.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d2/d3c/a18577.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

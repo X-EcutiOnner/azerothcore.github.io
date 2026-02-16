@@ -1,5 +1,5 @@
 var a04817 =
 [
-    [ "WorldMock", "de/d95/a28824.html", "de/d95/a28824" ],
-    [ "AddScripts", "db/da7/a04817.html#abb65cb085124c346fd32ac4b92f0baa9", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "db/da7/a04817.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "db/da7/a04817.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

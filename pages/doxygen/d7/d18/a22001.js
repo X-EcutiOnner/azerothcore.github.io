@@ -1,6 +1,7 @@
 var a22001 =
 [
-    [ "HandleDummy", "d7/d18/a22001.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d7/d18/a22001.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d7/d18/a22001.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_engineer_heliceAI", "d6/d05/a22005.html", "d6/d05/a22005" ],
+    [ "npc_engineer_helice", "d7/d18/a22001.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "d7/d18/a22001.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "d7/d18/a22001.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

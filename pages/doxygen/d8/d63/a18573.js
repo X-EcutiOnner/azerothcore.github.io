@@ -1,7 +1,7 @@
 var a18573 =
 [
-    [ "npc_impaling_spearAI", "d8/d63/a18573.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d8/d63/a18573.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d8/d63/a18573.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d8/d63/a18573.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "OnPeriodic", "d8/d63/a18573.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d8/d63/a18573.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d8/d63/a18573.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d8/d63/a18573.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

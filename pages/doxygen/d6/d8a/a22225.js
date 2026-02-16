@@ -1,9 +1,6 @@
 var a22225 =
 [
-    [ "HandlePeriodic", "d6/d8a/a22225.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d6/d8a/a22225.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d6/d8a/a22225.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d6/d8a/a22225.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d6/d8a/a22225.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d6/d8a/a22225.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "PrepareSpellScript", "d6/d8a/a22225.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d6/d8a/a22225.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d6/d8a/a22225.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

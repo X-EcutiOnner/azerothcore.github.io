@@ -1,10 +1,8 @@
 var a27293 =
 [
-    [ "guard_shattrath_scryerAI", "dd/de2/a27293.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "dd/de2/a27293.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "dd/de2/a27293.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "dd/de2/a27293.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "dd/de2/a27293.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "dd/de2/a27293.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "dd/de2/a27293.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "trigger_periodicAI", "dd/de2/a27293.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "dd/de2/a27293.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "dd/de2/a27293.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "dd/de2/a27293.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "dd/de2/a27293.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

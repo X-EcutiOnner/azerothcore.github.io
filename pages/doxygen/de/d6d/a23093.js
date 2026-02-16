@@ -1,13 +1,13 @@
 var a23093 =
 [
-    [ "npc_inner_demon", "de/d6d/a23093.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "de/d6d/a23093.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "de/d6d/a23093.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "de/d6d/a23093.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "de/d6d/a23093.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "de/d6d/a23093.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "de/d6d/a23093.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "de/d6d/a23093.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "de/d6d/a23093.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "de/d6d/a23093.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "npc_earthen_ring_flamecaller", "de/d6d/a23093.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "de/d6d/a23093.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "de/d6d/a23093.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "de/d6d/a23093.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "de/d6d/a23093.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "de/d6d/a23093.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "de/d6d/a23093.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "de/d6d/a23093.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "de/d6d/a23093.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "de/d6d/a23093.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

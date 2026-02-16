@@ -1,10 +1,14 @@
 var a09881 =
 [
-    [ "ChaseRange", "dd/d8e/a09881.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "dd/d8e/a09881.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "dd/d8e/a09881.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "dd/d8e/a09881.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "dd/d8e/a09881.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "dd/d8e/a09881.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "dd/d8e/a09881.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "ServerMailMgr", "dd/d8e/a09881.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "dd/d8e/a09881.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "dd/d8e/a09881.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "dd/d8e/a09881.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "dd/d8e/a09881.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "dd/d8e/a09881.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "dd/d8e/a09881.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "dd/d8e/a09881.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "dd/d8e/a09881.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "dd/d8e/a09881.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "_serverMailStore", "dd/d8e/a09881.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

@@ -1,6 +1,8 @@
 var a17957 =
 [
-    [ "CheckProc", "df/d04/a17957.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "df/d04/a17957.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "df/d04/a17957.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "HandlePeriodic", "df/d04/a17957.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "df/d04/a17957.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "df/d04/a17957.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "df/d04/a17957.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "df/d04/a17957.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

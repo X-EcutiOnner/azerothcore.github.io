@@ -1,13 +1,10 @@
 var a09137 =
 [
-    [ "VisibleNotifier", "d4/d29/a09137.html#af6b878aad8873a7e34670af7ed84188e", null ],
-    [ "SendToSelf", "d4/d29/a09137.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "d4/d29/a09137.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "d4/d29/a09137.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "i_data", "d4/d29/a09137.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "d4/d29/a09137.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_largeOnly", "d4/d29/a09137.html#a6954721b71a55874c7f708bf822613bd", null ],
-    [ "i_player", "d4/d29/a09137.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "d4/d29/a09137.html#a34d766816baaad7b1b3623360ec9abeb", null ],
-    [ "vis_guids", "d4/d29/a09137.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c", null ]
+    [ "Flags", "d4/d29/a09137.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d4/d29/a09137.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d4/d29/a09137.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d4/d29/a09137.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d4/d29/a09137.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d4/d29/a09137.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d4/d29/a09137.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

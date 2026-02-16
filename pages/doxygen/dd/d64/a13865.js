@@ -1,6 +1,6 @@
 var a13865 =
 [
-    [ "boss_hakkarAI", "dd/dad/a13869.html", "dd/dad/a13869" ],
-    [ "boss_hakkar", "dd/d64/a13865.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "dd/d64/a13865.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "npc_professor_phizzlethorpeAI", "dd/dad/a13869.html", "dd/dad/a13869" ],
+    [ "npc_professor_phizzlethorpe", "dd/d64/a13865.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "dd/d64/a13865.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

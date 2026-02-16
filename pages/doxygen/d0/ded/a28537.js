@@ -1,16 +1,16 @@
 var a28537 =
 [
-    [ "Iterator", "d0/ded/a28537.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "d0/ded/a28537.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "d0/ded/a28537.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "d0/ded/a28537.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "d0/ded/a28537.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "d0/ded/a28537.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "d0/ded/a28537.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "d0/ded/a28537.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "d0/ded/a28537.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "d0/ded/a28537.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "d0/ded/a28537.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "d0/ded/a28537.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "d0/ded/a28537.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "adt_LIQUID", "d9/d8e/a28545.html", "d9/d8e/a28545" ],
+    [ "GetLiquidAttributes", "d0/ded/a28537.html#a343859f1c04059988ca0e4050ffac22f", null ],
+    [ "GetLiquidDepth", "d0/ded/a28537.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
+    [ "GetLiquidExistsBitmap", "d0/ded/a28537.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
+    [ "GetLiquidHeight", "d0/ded/a28537.html#a73ad976bf67c8adba2443190e6db533f", null ],
+    [ "GetLiquidInstance", "d0/ded/a28537.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
+    [ "GetLiquidTextureCoordMap", "d0/ded/a28537.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
+    [ "GetLiquidType", "d0/ded/a28537.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
+    [ "prepareLoadedData", "d0/ded/a28537.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
+    [ "fcc", "d0/ded/a28537.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
+    [ "fcc_txt", "d0/ded/a28537.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
+    [ "liquid", "d0/ded/a28537.html#aaaff4b98a34d81985b552fd671411450", null ],
+    [ "size", "d0/ded/a28537.html#a2110a26debb714695e38e5ec159131f2", null ]
 ];

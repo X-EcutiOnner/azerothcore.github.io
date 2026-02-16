@@ -1,6 +1,7 @@
 var a24093 =
 [
-    [ "npc_drake_dealer_hurlunk", "d3/d92/a24093.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d3/d92/a24093.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d3/d92/a24093.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "HandleEffectRemove", "d3/d92/a24093.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
+    [ "PrepareAuraScript", "d3/d92/a24093.html#a19ce53b5731b0789896612fa55f38849", null ],
+    [ "Register", "d3/d92/a24093.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
+    [ "Validate", "d3/d92/a24093.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
 ];

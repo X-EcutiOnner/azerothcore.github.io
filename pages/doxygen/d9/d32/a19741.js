@@ -1,6 +1,7 @@
 var a19741 =
 [
-    [ "FilterTargets", "d9/d32/a19741.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d9/d32/a19741.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d9/d32/a19741.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "CalcDamage", "d9/d32/a19741.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d9/d32/a19741.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d9/d32/a19741.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d9/d32/a19741.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

@@ -1,7 +1,5 @@
 var a14337 =
 [
-    [ "OnApply", "dd/d14/a14337.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "dd/d14/a14337.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "dd/d14/a14337.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "dd/d14/a14337.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "at_zulgurub_temple_speech", "dd/d14/a14337.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "dd/d14/a14337.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

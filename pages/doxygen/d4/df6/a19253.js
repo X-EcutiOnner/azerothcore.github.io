@@ -1,6 +1,7 @@
 var a19253 =
 [
-    [ "instance_nexus_InstanceMapScript", "df/d80/a19257.html", "df/d80/a19257" ],
-    [ "instance_nexus", "d4/df6/a19253.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "d4/df6/a19253.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "npc_ioc_gunship_captainAI", "d4/df6/a19253.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d4/df6/a19253.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d4/df6/a19253.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d4/df6/a19253.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

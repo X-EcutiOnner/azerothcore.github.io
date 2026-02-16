@@ -1,6 +1,5 @@
 var a20105 =
 [
-    [ "npc_ulduar_hodir_priestAI", "db/d46/a20109.html", "db/d46/a20109" ],
-    [ "npc_ulduar_hodir_priest", "db/d06/a20105.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "db/d06/a20105.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "go_ulduar_tower", "db/d06/a20105.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "db/d06/a20105.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

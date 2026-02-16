@@ -1,9 +1,7 @@
 var a23945 =
 [
-    [ "npc_wounded_blood_elfAI", "d7/d58/a23945.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d7/d58/a23945.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d7/d58/a23945.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d7/d58/a23945.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d7/d58/a23945.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d7/d58/a23945.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "HandleEffectApply", "d7/d58/a23945.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d7/d58/a23945.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d7/d58/a23945.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d7/d58/a23945.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

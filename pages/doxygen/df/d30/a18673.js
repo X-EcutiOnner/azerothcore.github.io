@@ -1,9 +1,7 @@
 var a18673 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "df/d30/a18673.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "df/d30/a18673.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "df/d30/a18673.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "df/d30/a18673.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "df/d30/a18673.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "df/d30/a18673.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "CheckTargetCount", "df/d30/a18673.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "df/d30/a18673.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "df/d30/a18673.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "df/d30/a18673.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

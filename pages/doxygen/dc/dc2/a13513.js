@@ -1,6 +1,7 @@
 var a13513 =
 [
-    [ "npc_grand_magister_rommathAI", "d2/de3/a13517.html", "d2/de3/a13517" ],
-    [ "npc_grand_magister_rommath", "dc/dc2/a13513.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "dc/dc2/a13513.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "OnPeriodic", "dc/dc2/a13513.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "dc/dc2/a13513.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "dc/dc2/a13513.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "dc/dc2/a13513.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

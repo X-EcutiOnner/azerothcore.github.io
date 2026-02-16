@@ -1,8 +1,6 @@
 var a16841 =
 [
-    [ "npc_hor_raging_ghoulAI", "da/dc2/a16841.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "da/dc2/a16841.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "da/dc2/a16841.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "da/dc2/a16841.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "da/dc2/a16841.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "npc_toc_pet_hunterAI", "d5/d42/a16845.html", "d5/d42/a16845" ],
+    [ "npc_toc_pet_hunter", "da/dc2/a16841.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "da/dc2/a16841.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

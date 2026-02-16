@@ -1,10 +1,12 @@
 var a06229 =
 [
-    [ "WayPoint", "dc/df0/a06229.html#a3fb66d4e5cb360ce49b42518ed2b5247", null ],
-    [ "delay", "dc/df0/a06229.html#ad766ebb0355b936da137a18b593aa2e4", null ],
-    [ "id", "dc/df0/a06229.html#a42a0da500ce0495968af4d8e8568ea26", null ],
-    [ "o", "dc/df0/a06229.html#a42f341fba1d8d0406e086414bcdb7948", null ],
-    [ "x", "dc/df0/a06229.html#aff5ba831af9f5f01b7ebb5f784d085f7", null ],
-    [ "y", "dc/df0/a06229.html#adfe474d3c93a63fbe78935c1b2873cae", null ],
-    [ "z", "dc/df0/a06229.html#a4b0160c4f8941aa20772baf06c6a7286", null ]
+    [ "TotemAI", "dc/df0/a06229.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
+    [ "AttackStart", "dc/df0/a06229.html#aa5bb81b51ec79a4328016cca34363880", null ],
+    [ "DoAction", "dc/df0/a06229.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
+    [ "EnterEvadeMode", "dc/df0/a06229.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
+    [ "MoveInLineOfSight", "dc/df0/a06229.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
+    [ "Permissible", "dc/df0/a06229.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
+    [ "SpellHit", "dc/df0/a06229.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
+    [ "UpdateAI", "dc/df0/a06229.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
+    [ "i_victimGuid", "dc/df0/a06229.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
 ];

@@ -1,9 +1,9 @@
 var a16957 =
 [
-    [ "npc_pos_after_first_bossAI", "d8/dca/a16957.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d8/dca/a16957.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d8/dca/a16957.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d8/dca/a16957.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d8/dca/a16957.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d8/dca/a16957.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_concentrated_ballAI", "d8/dca/a16957.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d8/dca/a16957.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d8/dca/a16957.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d8/dca/a16957.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d8/dca/a16957.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d8/dca/a16957.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

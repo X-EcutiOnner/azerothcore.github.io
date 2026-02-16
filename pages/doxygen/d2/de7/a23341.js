@@ -1,7 +1,6 @@
 var a23341 =
 [
-    [ "HandleScript", "d2/de7/a23341.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "d2/de7/a23341.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "d2/de7/a23341.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "d2/de7/a23341.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "de/da8/a23345.html", "de/da8/a23345" ],
+    [ "instance_blood_furnace", "d2/de7/a23341.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d2/de7/a23341.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

@@ -1,15 +1,14 @@
 var a23049 =
 [
-    [ "boss_hydross_the_unstable", "dc/d5d/a23049.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "dc/d5d/a23049.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "dc/d5d/a23049.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "dc/d5d/a23049.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "dc/d5d/a23049.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "dc/d5d/a23049.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "dc/d5d/a23049.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "dc/d5d/a23049.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "dc/d5d/a23049.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "dc/d5d/a23049.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "dc/d5d/a23049.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "dc/d5d/a23049.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d5d/a23049.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "dc/d5d/a23049.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "dc/d5d/a23049.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "dc/d5d/a23049.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnCreatureRemove", "dc/d5d/a23049.html#a921442812da891a6651ddd235d4a98f9", null ],
+    [ "OnGameObjectCreate", "dc/d5d/a23049.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "dc/d5d/a23049.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "dc/d5d/a23049.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "dc/d5d/a23049.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
+    [ "_frenzyCount", "dc/d5d/a23049.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
+    [ "_shieldGeneratorGUID", "dc/d5d/a23049.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

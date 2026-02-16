@@ -1,6 +1,8 @@
 var a21653 =
 [
-    [ "npc_mindless_ghoulAI", "d0/d76/a21657.html", "d0/d76/a21657" ],
-    [ "npc_mindless_ghoul", "dc/df9/a21653.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "dc/df9/a21653.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_q24545_vegardAI", "dc/df9/a21653.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "dc/df9/a21653.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "dc/df9/a21653.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "dc/df9/a21653.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "dc/df9/a21653.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

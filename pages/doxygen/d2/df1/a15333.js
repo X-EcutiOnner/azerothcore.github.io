@@ -1,11 +1,9 @@
 var a15333 =
 [
-    [ "npc_tiger_matriarchAI", "d2/df1/a15333.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d2/df1/a15333.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d2/df1/a15333.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d2/df1/a15333.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d2/df1/a15333.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d2/df1/a15333.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d2/df1/a15333.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d2/df1/a15333.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d2/df1/a15333.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d2/df1/a15333.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d2/df1/a15333.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d2/df1/a15333.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d2/df1/a15333.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d2/df1/a15333.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

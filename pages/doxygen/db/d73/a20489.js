@@ -1,5 +1,9 @@
 var a20489 =
 [
-    [ "achievement_quick_shave", "db/d73/a20489.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "db/d73/a20489.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "HandleEffectPeriodic", "db/d73/a20489.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "db/d73/a20489.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "db/d73/a20489.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "db/d73/a20489.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "db/d73/a20489.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "db/d73/a20489.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

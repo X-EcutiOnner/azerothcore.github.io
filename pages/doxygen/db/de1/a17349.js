@@ -1,9 +1,7 @@
 var a17349 =
 [
-    [ "CheckProc", "db/de1/a17349.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "db/de1/a17349.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "db/de1/a17349.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "db/de1/a17349.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "db/de1/a17349.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "db/de1/a17349.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "HandlePeriodicTick", "db/de1/a17349.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "db/de1/a17349.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "db/de1/a17349.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "db/de1/a17349.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

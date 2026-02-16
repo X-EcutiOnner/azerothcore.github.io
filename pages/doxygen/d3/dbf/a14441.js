@@ -1,6 +1,11 @@
 var a14441 =
 [
-    [ "HandleScriptEffect", "d3/dbf/a14441.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d3/dbf/a14441.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d3/dbf/a14441.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "boss_marli", "d3/dbf/a14441.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "d3/dbf/a14441.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "d3/dbf/a14441.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "d3/dbf/a14441.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "d3/dbf/a14441.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "d3/dbf/a14441.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "d3/dbf/a14441.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "d3/dbf/a14441.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

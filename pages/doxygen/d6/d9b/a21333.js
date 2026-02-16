@@ -1,6 +1,8 @@
 var a21333 =
 [
-    [ "npc_azure_mage_slayerAI", "db/de2/a21337.html", "db/de2/a21337" ],
-    [ "npc_azure_mage_slayer", "d6/d9b/a21333.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d6/d9b/a21333.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "HandleEffectRemove", "d6/d9b/a21333.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d6/d9b/a21333.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d6/d9b/a21333.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d6/d9b/a21333.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d6/d9b/a21333.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

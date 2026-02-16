@@ -1,7 +1,5 @@
 var a04559 =
 [
-    [ "Crash", "d1/dce/a04559.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d1/dce/a04559.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d1/dce/a04559.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d1/dce/a04559.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "arena_commandscript", "d7/d55/a11925.html", "d7/d55/a11925" ],
+    [ "AddSC_arena_commandscript", "d1/dce/a04559.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

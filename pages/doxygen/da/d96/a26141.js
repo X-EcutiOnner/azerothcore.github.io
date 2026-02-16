@@ -1,7 +1,6 @@
 var a26141 =
 [
-    [ "HandleHeal", "da/d96/a26141.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "da/d96/a26141.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "da/d96/a26141.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "da/d96/a26141.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "HandleDummyEffect", "da/d96/a26141.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "da/d96/a26141.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "da/d96/a26141.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

@@ -1,14 +1,6 @@
 var a02057 =
 [
-    [ "go_main_chambers_access_panel", "d1/de0/a23572.html", "d1/de0/a23572" ],
-    [ "instance_steam_vault", "db/d9f/a23576.html", "db/d9f/a23576" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d3/d04/a23580.html", "d3/d04/a23580" ],
-    [ "MainChambersAccessPanelSays", "d2/dea/a02057.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "d2/dea/a02057.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "d2/dea/a02057.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "d2/dea/a02057.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "d2/dea/a02057.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "d2/dea/a02057.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "d2/dea/a02057.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "SelectAI", "d2/dea/a02057.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectGameObjectAI", "d2/dea/a02057.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d2/dea/a02057.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

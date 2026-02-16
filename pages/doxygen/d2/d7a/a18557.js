@@ -1,6 +1,6 @@
 var a18557 =
 [
-    [ "npc_captain_rupertAI", "d2/d7a/a18557.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d2/d7a/a18557.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d2/d7a/a18557.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "HandleScript", "d2/d7a/a18557.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "d2/d7a/a18557.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "d2/d7a/a18557.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

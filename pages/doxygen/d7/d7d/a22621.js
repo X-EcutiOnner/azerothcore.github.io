@@ -1,12 +1,13 @@
 var a22621 =
 [
-    [ "boss_gurtogg_bloodboil", "d7/d7d/a22621.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d7/d7d/a22621.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d7/d7d/a22621.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d7/d7d/a22621.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d7/d7d/a22621.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d7/d7d/a22621.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d7/d7d/a22621.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d7/d7d/a22621.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d7/d7d/a22621.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_illidari_council_memberAI", "d7/d7d/a22621.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "d7/d7d/a22621.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "d7/d7d/a22621.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "d7/d7d/a22621.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "d7/d7d/a22621.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "d7/d7d/a22621.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "d7/d7d/a22621.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "d7/d7d/a22621.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "d7/d7d/a22621.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "d7/d7d/a22621.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

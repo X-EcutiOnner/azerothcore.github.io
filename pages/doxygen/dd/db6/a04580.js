@@ -1,4 +1,5 @@
 var a04580 =
 [
-    [ "tcp_endpoint", "dd/db6/a04580.html#a27a44b709519f6caccf33bc420c4698b", null ]
+    [ "learn_commandscript", "db/d31/a12021.html", "db/d31/a12021" ],
+    [ "AddSC_learn_commandscript", "dd/db6/a04580.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

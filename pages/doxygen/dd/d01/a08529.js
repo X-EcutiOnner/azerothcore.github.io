@@ -1,9 +1,5 @@
 var a08529 =
 [
-    [ "areaFlag", "dd/d01/a08529.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "dd/d01/a08529.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "dd/d01/a08529.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "dd/d01/a08529.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "dd/d01/a08529.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "dd/d01/a08529.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PackedGuidReader", "dd/d01/a08529.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
+    [ "Guid", "dd/d01/a08529.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
 ];

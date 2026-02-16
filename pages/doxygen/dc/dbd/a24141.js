@@ -1,5 +1,8 @@
 var a24141 =
 [
-    [ "go_crystal_prison", "dc/dbd/a24141.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "dc/dbd/a24141.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "go_skull_pile", "dc/dbd/a24141.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dc/dbd/a24141.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dc/dbd/a24141.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dc/dbd/a24141.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dc/dbd/a24141.html#af74fcd75404c0886128401d661067394", null ]
 ];

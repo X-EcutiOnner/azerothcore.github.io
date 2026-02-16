@@ -1,8 +1,7 @@
 var a22513 =
 [
-    [ "CalcPeriodic", "d5/d05/a22513.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d5/d05/a22513.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d5/d05/a22513.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d5/d05/a22513.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d5/d05/a22513.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "HandleProc", "d5/d05/a22513.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d5/d05/a22513.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d5/d05/a22513.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d5/d05/a22513.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

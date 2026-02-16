@@ -1,20 +1,13 @@
 var a07661 =
 [
-    [ "value_type", "d2/dd0/a07661.html#a2ffac2f5c4514a1a9c7d3b72ac95ca28", null ],
-    [ "PlayerIdentifier", "d2/dd0/a07661.html#a4a5d0a04c5461c56b8c6028926bda2a0", null ],
-    [ "PlayerIdentifier", "d2/dd0/a07661.html#ac757cca4b11332e5b091639a9a946f88", null ],
-    [ "FromSelf", "d2/dd0/a07661.html#af45d29f7ebca2a8af420fdec344264fc", null ],
-    [ "FromTarget", "d2/dd0/a07661.html#aea33fb49551ebc0f687f3d24dc3dfbea", null ],
-    [ "FromTargetOrSelf", "d2/dd0/a07661.html#a617834cc8474970950b45066f2e86dbd", null ],
-    [ "GetConnectedPlayer", "d2/dd0/a07661.html#ac4d51841e160051dde72827e9bc71318", null ],
-    [ "GetGUID", "d2/dd0/a07661.html#a266269d0f1aa9410cde271c97f09f807", null ],
-    [ "GetName", "d2/dd0/a07661.html#a6baa96394c108ae26c66a790f024ae3a", null ],
-    [ "IsConnected", "d2/dd0/a07661.html#a3eac561c52cfd3a01b596feca5846dc5", null ],
-    [ "operator ObjectGuid", "d2/dd0/a07661.html#a6895aec33b3b5c1a43abd6fa077f1ea8", null ],
-    [ "operator std::string const &", "d2/dd0/a07661.html#a3ac710baa74dbbc2359b1734579c0412", null ],
-    [ "operator std::string_view", "d2/dd0/a07661.html#af37d94f83894f4182211208db19c8678", null ],
-    [ "TryConsume", "d2/dd0/a07661.html#a0ef4ac60e1dcbc03bfe08d78b05de48d", null ],
-    [ "_guid", "d2/dd0/a07661.html#a378564a9a7e2b4a85381cc4e3c371451", null ],
-    [ "_name", "d2/dd0/a07661.html#ad0f2f7c96817c6e0c1c77c21a299cb70", null ],
-    [ "_player", "d2/dd0/a07661.html#a5658078bcce50c453f087b1e3f602f05", null ]
+    [ "InvokerEntry", "d5/d58/a07665.html", "d5/d58/a07665" ],
+    [ "SubCommandEntry", "d2/dd0/a07661.html#a9a01b487be01e84573f7ebe99620541b", null ],
+    [ "ChatCommandBuilder", "d2/dd0/a07661.html#a894f6ae19d715d9d3f395736bf7cdb41", null ],
+    [ "ChatCommandBuilder", "d2/dd0/a07661.html#ad9b8a40b28eb5944512b6f3033b3a933", null ],
+    [ "ChatCommandBuilder", "d2/dd0/a07661.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa", null ],
+    [ "ChatCommandBuilder", "d2/dd0/a07661.html#ac2c8cc88865de637f322b54bf6a47e13", null ],
+    [ "ChatCommandBuilder", "d2/dd0/a07661.html#a9ecbebaa3c839f57a90dcccca1473913", null ],
+    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d2/dd0/a07661.html#a3b9ea3963b82697cbe5d6ca86ff29847", null ],
+    [ "_data", "d2/dd0/a07661.html#aff0a8c833c04f98abf46aaba4fbf9374", null ],
+    [ "_name", "d2/dd0/a07661.html#a4315363c5d25bb157481cbbd3fa0286f", null ]
 ];

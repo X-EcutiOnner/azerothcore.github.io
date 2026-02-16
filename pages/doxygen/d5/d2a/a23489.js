@@ -1,8 +1,5 @@
 var a23489 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d2a/a23489.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d5/d2a/a23489.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d5/d2a/a23489.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d5/d2a/a23489.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d5/d2a/a23489.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "at_shattered_halls_execution", "d5/d2a/a23489.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d5/d2a/a23489.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

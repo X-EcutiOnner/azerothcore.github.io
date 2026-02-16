@@ -1,6 +1,9 @@
 var a11061 =
 [
-    [ "ChannelTargetData", "db/d13/a11061.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "db/d13/a11061.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "db/d13/a11061.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "RandomRoll", "db/d13/a11061.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "db/d13/a11061.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "db/d13/a11061.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "db/d13/a11061.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "db/d13/a11061.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "db/d13/a11061.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

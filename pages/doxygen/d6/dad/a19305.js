@@ -1,6 +1,7 @@
 var a19305 =
 [
-    [ "instance_oculus_InstanceMapScript", "d8/d85/a19309.html", "d8/d85/a19309" ],
-    [ "instance_oculus", "d6/dad/a19305.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d6/dad/a19305.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "OnApply", "d6/dad/a19305.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d6/dad/a19305.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d6/dad/a19305.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d6/dad/a19305.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

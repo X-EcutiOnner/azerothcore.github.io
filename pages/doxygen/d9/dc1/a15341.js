@@ -1,11 +1,9 @@
 var a15341 =
 [
-    [ "npc_troll_volunteerAI", "d9/dc1/a15341.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "d9/dc1/a15341.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "d9/dc1/a15341.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "d9/dc1/a15341.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "d9/dc1/a15341.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "d9/dc1/a15341.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "d9/dc1/a15341.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "d9/dc1/a15341.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_buru_egg", "d9/dc1/a15341.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d9/dc1/a15341.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d9/dc1/a15341.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d9/dc1/a15341.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d9/dc1/a15341.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d9/dc1/a15341.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

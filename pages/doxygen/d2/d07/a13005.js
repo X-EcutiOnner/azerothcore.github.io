@@ -1,7 +1,10 @@
 var a13005 =
 [
-    [ "HandleScript", "d2/d07/a13005.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "d2/d07/a13005.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "d2/d07/a13005.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "d2/d07/a13005.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "npc_netherspite_infernal", "d2/d07/a13005.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d2/d07/a13005.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d2/d07/a13005.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d2/d07/a13005.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d2/d07/a13005.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d2/d07/a13005.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d2/d07/a13005.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

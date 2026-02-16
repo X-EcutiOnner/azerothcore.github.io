@@ -1,6 +1,6 @@
 var a13345 =
 [
-    [ "HandlePull", "d0/d72/a13345.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d0/d72/a13345.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "Register", "d0/d72/a13345.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "npc_acherus_necromancerAI", "dd/d32/a13349.html", "dd/d32/a13349" ],
+    [ "npc_acherus_necromancer", "d0/d72/a13345.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "d0/d72/a13345.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

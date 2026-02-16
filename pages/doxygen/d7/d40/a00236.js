@@ -1,8 +1,12 @@
 var a00236 =
 [
-    [ "PassiveAI", "d0/dca/a06175.html", "d0/dca/a06175" ],
-    [ "PossessedAI", "dd/d16/a06179.html", "dd/d16/a06179" ],
-    [ "NullCreatureAI", "df/d46/a06183.html", "df/d46/a06183" ],
-    [ "CritterAI", "d0/d79/a06187.html", "d0/d79/a06187" ],
-    [ "TriggerAI", "d8/d67/a06191.html", "d8/d67/a06191" ]
+    [ "MMAP::IMMapMgr", "db/d29/a05025.html", "db/d29/a05025" ],
+    [ "MMAP_LOAD_RESULT", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d7/d40/a00236.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

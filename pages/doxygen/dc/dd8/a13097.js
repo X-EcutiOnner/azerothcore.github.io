@@ -1,11 +1,14 @@
 var a13097 =
 [
-    [ "boss_baroness_anastariAI", "dc/dd8/a13097.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "dc/dd8/a13097.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "dc/dd8/a13097.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "dc/dd8/a13097.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "dc/dd8/a13097.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "dc/dd8/a13097.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "dc/dd8/a13097.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "dc/dd8/a13097.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "boss_strawman", "dc/dd8/a13097.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "dc/dd8/a13097.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "dc/dd8/a13097.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "dc/dd8/a13097.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "dc/dd8/a13097.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "dc/dd8/a13097.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "dc/dd8/a13097.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "dc/dd8/a13097.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "dc/dd8/a13097.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "dc/dd8/a13097.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "dc/dd8/a13097.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

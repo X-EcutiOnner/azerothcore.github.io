@@ -1,13 +1,9 @@
 var a05737 =
 [
-    [ "TransactionTask", "d0/d2b/a05737.html#a13573f827891ad172847dc0e466b0b9e", null ],
-    [ "~TransactionTask", "d0/d2b/a05737.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
-    [ "CleanupOnFailure", "d0/d2b/a05737.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
-    [ "Execute", "d0/d2b/a05737.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
-    [ "TryExecute", "d0/d2b/a05737.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
-    [ "DatabaseWorker", "d0/d2b/a05737.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
-    [ "DatabaseWorkerPool", "d0/d2b/a05737.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "TransactionCallback", "d0/d2b/a05737.html#ac3345f3314b133d53268f53e222cdc74", null ],
-    [ "_deadlockLock", "d0/d2b/a05737.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
-    [ "m_trans", "d0/d2b/a05737.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
+    [ "A", "d0/d2b/a05737.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "d0/d2b/a05737.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "d0/d2b/a05737.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "d0/d2b/a05737.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "d0/d2b/a05737.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "d0/d2b/a05737.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

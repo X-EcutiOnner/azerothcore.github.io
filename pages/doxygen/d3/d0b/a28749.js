@@ -1,5 +1,8 @@
 var a28749 =
 [
-    [ "achievement_tilted", "d3/d0b/a28749.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d3/d0b/a28749.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "Color", "d3/d0b/a28749.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d3/d0b/a28749.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d3/d0b/a28749.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d3/d0b/a28749.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d3/d0b/a28749.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

@@ -1,5 +1,8 @@
 var a27585 =
 [
-    [ "npc_controller", "d9/d49/a27585.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d9/d49/a27585.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_cultist_engineer", "d9/d49/a27585.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d9/d49/a27585.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d9/d49/a27585.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d9/d49/a27585.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d9/d49/a27585.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

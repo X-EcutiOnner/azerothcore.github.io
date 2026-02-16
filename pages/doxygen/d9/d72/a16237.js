@@ -1,12 +1,9 @@
 var a16237 =
 [
-    [ "npc_swarm_scarabAI", "d9/d72/a16237.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d9/d72/a16237.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d9/d72/a16237.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d9/d72/a16237.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d9/d72/a16237.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d9/d72/a16237.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d9/d72/a16237.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d9/d72/a16237.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d9/d72/a16237.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "npc_anub_ar_crusher", "d9/d72/a16237.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "d9/d72/a16237.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "d9/d72/a16237.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "d9/d72/a16237.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "d9/d72/a16237.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "d9/d72/a16237.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

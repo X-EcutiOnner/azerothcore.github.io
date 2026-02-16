@@ -1,5 +1,6 @@
 var a20301 =
 [
-    [ "achievement_kologarn_with_open_arms", "d0/d8a/a20301.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "d0/d8a/a20301.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "DestroyWinterCache", "d0/d8a/a20301.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d0/d8a/a20301.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d0/d8a/a20301.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

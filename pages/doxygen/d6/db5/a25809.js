@@ -1,6 +1,6 @@
 var a25809 =
 [
-    [ "CheckCast", "d6/db5/a25809.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d6/db5/a25809.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d6/db5/a25809.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "CalculateAmount", "d6/db5/a25809.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d6/db5/a25809.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d6/db5/a25809.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

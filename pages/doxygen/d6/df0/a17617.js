@@ -1,5 +1,6 @@
 var a17617 =
 [
-    [ "achievement_im_on_a_boat", "d6/df0/a17617.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d6/df0/a17617.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "npc_dark_nucleusAI", "d8/de0/a17621.html", "d8/de0/a17621" ],
+    [ "npc_dark_nucleus", "d6/df0/a17617.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d6/df0/a17617.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

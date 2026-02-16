@@ -1,6 +1,7 @@
 var a14617 =
 [
-    [ "boss_mal_ganisAI", "d8/d3a/a14621.html", "d8/d3a/a14621" ],
-    [ "boss_mal_ganis", "d7/d65/a14617.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d7/d65/a14617.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "PeriodicTick", "d7/d65/a14617.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "d7/d65/a14617.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "d7/d65/a14617.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "d7/d65/a14617.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

@@ -1,10 +1,15 @@
 var a07621 =
 [
-    [ "LfgUpdateData", "d0/dca/a07621.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d0/dca/a07621.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d0/dca/a07621.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d0/dca/a07621.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d0/dca/a07621.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d0/dca/a07621.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d0/dca/a07621.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "Print", "d0/dca/a07621.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
+    [ "CliHandler", "d0/dca/a07621.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
+    [ "GetAcoreString", "d0/dca/a07621.html#ab12ec41c55bc5f92461abff538a76b66", null ],
+    [ "GetNameLink", "d0/dca/a07621.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
+    [ "GetSessionDbcLocale", "d0/dca/a07621.html#a610f7431dc7b064c964e0d446160d19f", null ],
+    [ "GetSessionDbLocaleIndex", "d0/dca/a07621.html#a5a2118d9227aa53818d736e387d77dea", null ],
+    [ "HasSession", "d0/dca/a07621.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
+    [ "needReportToTarget", "d0/dca/a07621.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
+    [ "ParseCommands", "d0/dca/a07621.html#abbd02247d6094bf39b2791ba45e9942e", null ],
+    [ "SendSysMessage", "d0/dca/a07621.html#a636be10a282a8d100b807dac119b3ff6", null ],
+    [ "m_callbackArg", "d0/dca/a07621.html#aa1fafd68fca180506cc15680b695db9e", null ],
+    [ "m_print", "d0/dca/a07621.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
 ];

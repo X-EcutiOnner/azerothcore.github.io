@@ -1,6 +1,6 @@
 var a15681 =
 [
-    [ "npc_shadowpriest_sezzizAI", "de/dab/a15685.html", "de/dab/a15685" ],
-    [ "npc_shadowpriest_sezziz", "d9/da7/a15681.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d9/da7/a15681.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "npc_death_ravagerAI", "de/dab/a15685.html", "de/dab/a15685" ],
+    [ "npc_death_ravager", "d9/da7/a15681.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d9/da7/a15681.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

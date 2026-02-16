@@ -1,6 +1,6 @@
 var a16221 =
 [
-    [ "HideNpcEvent", "d9/dbc/a16221.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d9/dbc/a16221.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d9/dbc/a16221.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "HandleApplyAura", "d9/dbc/a16221.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d9/dbc/a16221.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d9/dbc/a16221.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

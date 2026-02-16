@@ -1,11 +1,10 @@
 var a11709 =
 [
-    [ "spectator_commandscript", "d1/dec/a11709.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "d1/dec/a11709.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "d1/dec/a11709.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "d1/dec/a11709.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "d1/dec/a11709.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "d1/dec/a11709.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "d1/dec/a11709.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "d1/dec/a11709.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "AcoreStringChatBuilder", "d1/dec/a11709.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d1/dec/a11709.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d1/dec/a11709.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d1/dec/a11709.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d1/dec/a11709.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d1/dec/a11709.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d1/dec/a11709.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

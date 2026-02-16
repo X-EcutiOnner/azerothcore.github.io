@@ -1,10 +1,9 @@
 var a13649 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d5/dea/a13649.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d5/dea/a13649.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d5/dea/a13649.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d5/dea/a13649.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d5/dea/a13649.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d5/dea/a13649.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d5/dea/a13649.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_demonic_vapor_trail", "d5/dea/a13649.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d5/dea/a13649.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d5/dea/a13649.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d5/dea/a13649.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d5/dea/a13649.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d5/dea/a13649.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

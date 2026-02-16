@@ -1,6 +1,6 @@
 var a21857 =
 [
-    [ "npc_lake_frogAI", "d4/d59/a21861.html", "d4/d59/a21861" ],
-    [ "npc_lake_frog", "d1/d55/a21857.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d1/d55/a21857.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "npc_llod_genericAI", "d4/d59/a21861.html", "d4/d59/a21861" ],
+    [ "npc_llod_generic", "d1/d55/a21857.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d1/d55/a21857.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

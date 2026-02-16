@@ -1,12 +1,10 @@
 var a10041 =
 [
-    [ "FacingInfo", "d6/d80/a10041.html#a1ac825c359704924c66e46eada64e34e", null ],
-    [ "FacingInfo", "d6/d80/a10041.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
-    [ "FacingInfo", "d6/d80/a10041.html#add6411db27c1d313d2f133adf0c35755", null ],
-    [ "angle", "d6/d80/a10041.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
-    [ "f", "d6/d80/a10041.html#a39ca5030b1ff932ae3606a07a9fe4377", null ],
-    [ "target", "d6/d80/a10041.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
-    [ "x", "d6/d80/a10041.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
-    [ "y", "d6/d80/a10041.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
-    [ "z", "d6/d80/a10041.html#a5ff017b732d47684f675041e44227754", null ]
+    [ "CreateWorldPacket", "d6/d80/a10041.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "d6/d80/a10041.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "d6/d80/a10041.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "d6/d80/a10041.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "d6/d80/a10041.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "d6/d80/a10041.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "d6/d80/a10041.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

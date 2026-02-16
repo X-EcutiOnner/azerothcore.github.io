@@ -1,6 +1,11 @@
 var a26445 =
 [
-    [ "PrepareAuraScript", "dd/d63/a26445.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "dd/d63/a26445.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "dd/d63/a26445.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "AddTarget", "dd/d63/a26445.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "dd/d63/a26445.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "dd/d63/a26445.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "dd/d63/a26445.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "dd/d63/a26445.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "dd/d63/a26445.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "dd/d63/a26445.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "dd/d63/a26445.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

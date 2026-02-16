@@ -1,5 +1,6 @@
 var a21565 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d80/a21565.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "df/d80/a21565.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_injured_7th_legion_soldierAI", "df/d80/a21565.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "df/d80/a21565.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "df/d80/a21565.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

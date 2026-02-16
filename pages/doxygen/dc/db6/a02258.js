@@ -1,26 +1,23 @@
 var a02258 =
 [
-    [ "boss_supremus", "d6/d20/a23168.html", "d6/d20/a23168" ],
-    [ "npc_supremus_punch_invisible_stalker", "d2/d7a/a23172.html", "d2/d7a/a23172" ],
-    [ "Supremus", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1ab", [
-      [ "EMOTE_NEW_TARGET", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
-      [ "EMOTE_PUNCH_GROUND", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
-      [ "EMOTE_GROUND_CRACK", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
-      [ "EMOTE_BERSERK", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
-      [ "SPELL_SNARE_SELF", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
-      [ "SPELL_MOLTEN_PUNCH", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
-      [ "SPELL_MOLTEN_FLAME", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
-      [ "SPELL_HATEFUL_STRIKE", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
-      [ "SPELL_VOLCANIC_ERUPTION", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
-      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
-      [ "SPELL_VOLCANIC_GEYSER", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
-      [ "SPELL_BERSERK", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
-      [ "SPELL_CHARGE", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
-      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
-      [ "NPC_SUPREMUS_VOLCANO", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
-      [ "GROUP_ABILITIES", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
-      [ "GROUP_MOLTEN_PUNCH", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
-      [ "GROUP_PHASE_CHANGE", "dc/db6/a02258.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
+    [ "BattlegroundNA", "d2/d42/a07533.html", "d2/d42/a07533" ],
+    [ "BattlegroundNAGameObjects", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9", [
+      [ "BG_NA_OBJECT_TYPE_DOOR_1", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_2", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_3", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_4", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db", null ],
+      [ "BG_NA_OBJECT_TYPE_BUFF_1", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96", null ],
+      [ "BG_NA_OBJECT_TYPE_BUFF_2", "dc/db6/a02258.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c", null ]
     ] ],
-    [ "AddSC_boss_supremus", "dc/db6/a02258.html#aca4140213fae739c682d7d7e241294e0", null ]
+    [ "BattlegroundNAObjectTypes", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffc", [
+      [ "BG_NA_OBJECT_DOOR_1", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9", null ],
+      [ "BG_NA_OBJECT_DOOR_2", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f", null ],
+      [ "BG_NA_OBJECT_DOOR_3", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370", null ],
+      [ "BG_NA_OBJECT_DOOR_4", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299", null ],
+      [ "BG_NA_OBJECT_BUFF_1", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340", null ],
+      [ "BG_NA_OBJECT_BUFF_2", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de", null ],
+      [ "BG_NA_OBJECT_READY_MARKER_1", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362", null ],
+      [ "BG_NA_OBJECT_READY_MARKER_2", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c", null ],
+      [ "BG_NA_OBJECT_MAX", "dc/db6/a02258.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b", null ]
+    ] ]
 ];

@@ -1,4 +1,4 @@
 var a01304 =
 [
-    [ "AllCreatureScript", "d3/ddb/a10324.html", "d3/ddb/a10324" ]
+    [ "GroupRefMgr", "df/d1d/a09649.html", "df/d1d/a09649" ]
 ];

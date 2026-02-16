@@ -1,7 +1,8 @@
 var a28681 =
 [
-    [ "Paths", "df/d6a/a28681.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "df/d6a/a28681.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "df/d6a/a28681.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "df/d6a/a28681.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "TileInfo", "df/d6a/a28681.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "df/d6a/a28681.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "df/d6a/a28681.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "df/d6a/a28681.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "df/d6a/a28681.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

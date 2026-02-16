@@ -1,7 +1,6 @@
 var a19381 =
 [
-    [ "HandleOnEffectApply", "d1/d36/a19381.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "d1/d36/a19381.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "d1/d36/a19381.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "d1/d36/a19381.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "HandleHit", "d1/d36/a19381.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "d1/d36/a19381.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "d1/d36/a19381.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

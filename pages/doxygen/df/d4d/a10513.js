@@ -1,5 +1,10 @@
 var a10513 =
 [
-    [ "GuildGetInfo", "df/d4d/a10513.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "df/d4d/a10513.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "ArgsType", "df/d4d/a10513.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "df/d4d/a10513.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "df/d4d/a10513.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "df/d4d/a10513.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "df/d4d/a10513.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "df/d4d/a10513.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "df/d4d/a10513.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

@@ -1,7 +1,6 @@
 var a16617 =
 [
-    [ "HandleScriptEffect", "db/d75/a16617.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "db/d75/a16617.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "db/d75/a16617.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "db/d75/a16617.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "HandleSpellHit", "db/d75/a16617.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "db/d75/a16617.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "db/d75/a16617.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

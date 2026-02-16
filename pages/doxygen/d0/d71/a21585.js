@@ -1,6 +1,6 @@
 var a21585 =
 [
-    [ "npc_archmage_landalockAI", "d5/df1/a21589.html", "d5/df1/a21589" ],
-    [ "npc_archmage_landalock", "d0/d71/a21585.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d0/d71/a21585.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_heated_battleAI", "d5/df1/a21589.html", "d5/df1/a21589" ],
+    [ "npc_heated_battle", "d0/d71/a21585.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "d0/d71/a21585.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

@@ -1,8 +1,11 @@
 var a08857 =
 [
-    [ "CreatureWorker", "d1/df1/a08857.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "d1/df1/a08857.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "d1/df1/a08857.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "d1/df1/a08857.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "d1/df1/a08857.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "SpellPeriodicAuraLogInfo", "d1/df1/a08857.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d1/df1/a08857.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d1/df1/a08857.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d1/df1/a08857.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d1/df1/a08857.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d1/df1/a08857.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d1/df1/a08857.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d1/df1/a08857.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

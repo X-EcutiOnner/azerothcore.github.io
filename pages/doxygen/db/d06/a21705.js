@@ -1,6 +1,7 @@
 var a21705 =
 [
-    [ "npc_q24545_lich_kingAI", "de/d01/a21709.html", "de/d01/a21709" ],
-    [ "npc_q24545_lich_king", "db/d06/a21705.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "db/d06/a21705.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_emilyAI", "de/d01/a21709.html", "de/d01/a21709" ],
+    [ "npc_emily", "db/d06/a21705.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "db/d06/a21705.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "db/d06/a21705.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

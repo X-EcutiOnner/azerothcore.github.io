@@ -1,9 +1,11 @@
 var a12309 =
 [
-    [ "HandleAfterApply", "d7/d18/a12309.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d7/d18/a12309.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d7/d18/a12309.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d7/d18/a12309.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d7/d18/a12309.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d7/d18/a12309.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d7/d18/a12309.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "d7/d18/a12309.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "d7/d18/a12309.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "d7/d18/a12309.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "d7/d18/a12309.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "d7/d18/a12309.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "d7/d18/a12309.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "d7/d18/a12309.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

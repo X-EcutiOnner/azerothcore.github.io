@@ -1,7 +1,6 @@
 var a13289 =
 [
-    [ "HandleSchoolDamage", "d0/d05/a13289.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d0/d05/a13289.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d0/d05/a13289.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d0/d05/a13289.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "npc_unworthy_initiateAI", "dd/d87/a13293.html", "dd/d87/a13293" ],
+    [ "npc_unworthy_initiate", "d0/d05/a13289.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "d0/d05/a13289.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

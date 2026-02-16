@@ -1,6 +1,7 @@
 var a17457 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "dc/dfd/a17461.html", "dc/dfd/a17461" ],
-    [ "npc_muradin_bronzebeard_igb", "d8/d30/a17457.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d8/d30/a17457.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "HandleEffectPeriodic", "d8/d30/a17457.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d8/d30/a17457.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d8/d30/a17457.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d8/d30/a17457.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

@@ -1,6 +1,7 @@
 var a21365 =
 [
-    [ "npc_azure_captainAI", "da/d76/a21369.html", "da/d76/a21369" ],
-    [ "npc_azure_captain", "d2/dd3/a21365.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d2/dd3/a21365.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_lurgglbrAI", "da/d76/a21369.html", "da/d76/a21369" ],
+    [ "npc_lurgglbr", "d2/dd3/a21365.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d2/dd3/a21365.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d2/dd3/a21365.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

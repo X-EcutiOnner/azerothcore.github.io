@@ -1,6 +1,9 @@
 var a20481 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "df/de4/a20485.html", "df/de4/a20485" ],
-    [ "npc_ulduar_dark_rune_sentinel", "df/d91/a20481.html#ac59aa042fd188eaf1eb6a04eb7d545a9", null ],
-    [ "GetAI", "df/d91/a20481.html#a3884f50f894770ff94ad6977f62c45f3", null ]
+    [ "npc_ulduar_bot_summon_trigger", "df/d91/a20481.html#a0d489ab4f401fc44fbc712fb84f87ec7", null ],
+    [ "DoAction", "df/d91/a20481.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "df/d91/a20481.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "df/d91/a20481.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "option", "df/d91/a20481.html#ac44b792e3b86372bbdc7033b14f1aefc", null ],
+    [ "timer", "df/d91/a20481.html#a05dc6f7034c1b83869d2498e51e3a928", null ]
 ];

@@ -1,6 +1,6 @@
 var a13397 =
 [
-    [ "HandleSendEvent", "dc/d3c/a13397.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "dc/d3c/a13397.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "dc/d3c/a13397.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "npc_valkyr_battle_maidenAI", "dd/ddd/a13401.html", "dd/ddd/a13401" ],
+    [ "npc_valkyr_battle_maiden", "dc/d3c/a13397.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "dc/d3c/a13397.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

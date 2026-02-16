@@ -1,13 +1,11 @@
 var a14637 =
 [
-    [ "boss_salrammAI", "d6/d90/a14637.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d6/d90/a14637.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d6/d90/a14637.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d6/d90/a14637.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d6/d90/a14637.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d6/d90/a14637.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d6/d90/a14637.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d6/d90/a14637.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d6/d90/a14637.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d6/d90/a14637.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "npc_the_biggest_tree", "d6/d90/a14637.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "d6/d90/a14637.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "d6/d90/a14637.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "d6/d90/a14637.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "d6/d90/a14637.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "d6/d90/a14637.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "d6/d90/a14637.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "d6/d90/a14637.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

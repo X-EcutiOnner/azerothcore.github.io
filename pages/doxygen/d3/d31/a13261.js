@@ -1,18 +1,14 @@
 var a13261 =
 [
-    [ "boss_kiljaeden", "d3/d31/a13261.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "d3/d31/a13261.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "d3/d31/a13261.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "d3/d31/a13261.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "d3/d31/a13261.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "d3/d31/a13261.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "d3/d31/a13261.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "d3/d31/a13261.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "d3/d31/a13261.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "d3/d31/a13261.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "d3/d31/a13261.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "d3/d31/a13261.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "d3/d31/a13261.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "d3/d31/a13261.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "d3/d31/a13261.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "npc_death_knight_initiateAI", "d3/d31/a13261.html#aa03a128068072b85bf0926cdececaaf2", null ],
+    [ "DamageTaken", "d3/d31/a13261.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
+    [ "GetData", "d3/d31/a13261.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
+    [ "Reset", "d3/d31/a13261.html#ad152856d614c8f4c900f77749ac55dd9", null ],
+    [ "SpellHit", "d3/d31/a13261.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
+    [ "UpdateAI", "d3/d31/a13261.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
+    [ "_duelGUID", "d3/d31/a13261.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
+    [ "_duelInProgress", "d3/d31/a13261.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
+    [ "events", "d3/d31/a13261.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
+    [ "playerGUIDs", "d3/d31/a13261.html#ac12adec2cb751e2e41008954bbe20248", null ],
+    [ "timer", "d3/d31/a13261.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
 ];

@@ -1,6 +1,6 @@
 var a21301 =
 [
-    [ "npc_vh_sinclari", "d0/d84/a21301.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d0/d84/a21301.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d0/d84/a21301.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "npc_azure_captainAI", "dc/dd7/a21305.html", "dc/dd7/a21305" ],
+    [ "npc_azure_captain", "d0/d84/a21301.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
+    [ "GetAI", "d0/d84/a21301.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
 ];

@@ -1,5 +1,7 @@
 var a20377 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d7/da8/a20377.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d7/da8/a20377.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "HandleEffectPeriodic", "d7/da8/a20377.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d7/da8/a20377.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d7/da8/a20377.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d7/da8/a20377.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

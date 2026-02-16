@@ -1,7 +1,8 @@
 var a16317 =
 [
-    [ "npc_toc_shadow_priestAI", "d3/d3f/a16317.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "d3/d3f/a16317.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "d3/d3f/a16317.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "d3/d3f/a16317.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "boss_sartharion_vesperon", "d3/d3f/a16317.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "d3/d3f/a16317.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "d3/d3f/a16317.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "d3/d3f/a16317.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "d3/d3f/a16317.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

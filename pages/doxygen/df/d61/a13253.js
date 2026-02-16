@@ -1,6 +1,7 @@
 var a13253 =
 [
-    [ "CastArmageddon", "df/d61/a13253.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "df/d61/a13253.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "df/d61/a13253.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "HandleScriptEffect", "df/d61/a13253.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "df/d61/a13253.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "df/d61/a13253.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "df/d61/a13253.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

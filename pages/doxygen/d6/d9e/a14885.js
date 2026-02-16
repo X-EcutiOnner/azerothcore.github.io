@@ -1,7 +1,7 @@
 var a14885 =
 [
-    [ "boss_kurinnaxx", "d6/d9e/a14885.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d6/d9e/a14885.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d6/d9e/a14885.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d6/d9e/a14885.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "GetVisualThrow", "d6/d9e/a14885.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d6/d9e/a14885.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d6/d9e/a14885.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d6/d9e/a14885.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

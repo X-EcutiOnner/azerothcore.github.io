@@ -1,6 +1,7 @@
 var a22801 =
 [
-    [ "boss_reliquary_of_soulsAI", "df/da1/a22805.html", "df/da1/a22805" ],
-    [ "boss_reliquary_of_souls", "d3/d0f/a22801.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d3/d0f/a22801.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "Absorb", "d3/d0f/a22801.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "d3/d0f/a22801.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "d3/d0f/a22801.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "d3/d0f/a22801.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

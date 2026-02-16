@@ -1,7 +1,5 @@
 var a15565 =
 [
-    [ "npc_lakota_windsongAI", "d4/dbb/a15565.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d4/dbb/a15565.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d4/dbb/a15565.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d4/dbb/a15565.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_toxic_slime", "d4/dbb/a15565.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "d4/dbb/a15565.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

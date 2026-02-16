@@ -1,9 +1,9 @@
 var a09725 =
 [
-    [ "RectangleBoundary", "d5/d29/a09725.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d5/d29/a09725.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d5/d29/a09725.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d5/d29/a09725.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d5/d29/a09725.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d5/d29/a09725.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "BroadcastTextID", "d5/d29/a09725.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d5/d29/a09725.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d5/d29/a09725.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d5/d29/a09725.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d5/d29/a09725.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d5/d29/a09725.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

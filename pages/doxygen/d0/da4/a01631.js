@@ -1,7 +1,5 @@
 var a01631 =
 [
-    [ "UpdateTime", "df/d9a/a11684.html", "df/d9a/a11684" ],
-    [ "WorldUpdateTime", "d7/d6e/a11688.html", "d7/d6e/a11688" ],
-    [ "AVG_DIFF_COUNT", "d0/da4/a01631.html#ac09527fd6979f77130f2ef6be46850eb", null ],
-    [ "sWorldUpdateTime", "d0/da4/a01631.html#a911ff49ac052e337a0927c080aec20b2", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d0/da4/a01631.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d0/da4/a01631.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

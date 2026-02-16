@@ -1,9 +1,11 @@
 var a08913 =
 [
-    [ "NearestGameObjectTypeInObjectRangeCheck", "dc/dc9/a08913.html#a46cde63433cf803205006ad775fe73b5", null ],
-    [ "NearestGameObjectTypeInObjectRangeCheck", "dc/dc9/a08913.html#a4bf0dee77fb4979a02eebdc610995640", null ],
-    [ "operator()", "dc/dc9/a08913.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
-    [ "i_obj", "dc/dc9/a08913.html#aca71a09421fdf412489f7f54cf4bc379", null ],
-    [ "i_range", "dc/dc9/a08913.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
-    [ "i_type", "dc/dc9/a08913.html#a68965425169b93053eadad91403855e0", null ]
+    [ "VehicleSeatAddon", "dc/dc9/a08913.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "dc/dc9/a08913.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "dc/dc9/a08913.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "dc/dc9/a08913.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "dc/dc9/a08913.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "dc/dc9/a08913.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "dc/dc9/a08913.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "dc/dc9/a08913.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

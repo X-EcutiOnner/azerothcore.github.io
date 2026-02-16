@@ -1,6 +1,9 @@
 var a14253 =
 [
-    [ "HandleScript", "d6/daa/a14253.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
-    [ "PrepareSpellScript", "d6/daa/a14253.html#a26b296c1c4d9f5193dc3773509267284", null ],
-    [ "Register", "d6/daa/a14253.html#aad66e4079ea9404b9057546d8959a395", null ]
+    [ "npc_amanishi_lookout", "d6/daa/a14253.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d6/daa/a14253.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d6/daa/a14253.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d6/daa/a14253.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d6/daa/a14253.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d6/daa/a14253.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

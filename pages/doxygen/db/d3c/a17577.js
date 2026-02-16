@@ -1,9 +1,6 @@
 var a17577 =
 [
-    [ "CalculatePower", "db/d3c/a17577.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "db/d3c/a17577.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "db/d3c/a17577.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "db/d3c/a17577.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "db/d3c/a17577.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "db/d3c/a17577.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "StandUpEvent", "db/d3c/a17577.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "db/d3c/a17577.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "db/d3c/a17577.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

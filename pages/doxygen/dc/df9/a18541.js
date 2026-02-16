@@ -1,6 +1,6 @@
 var a18541 =
 [
-    [ "npc_captain_brandonAI", "dc/df9/a18541.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "dc/df9/a18541.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "dc/df9/a18541.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_tirion_fordringAI", "d9/d48/a18545.html", "d9/d48/a18545" ],
+    [ "npc_tirion_fordring_tft", "dc/df9/a18541.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "dc/df9/a18541.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

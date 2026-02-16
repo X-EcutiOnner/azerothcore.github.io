@@ -1,7 +1,6 @@
 var a12313 =
 [
-    [ "HandleAfterApply", "dc/df3/a12313.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "dc/df3/a12313.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "dc/df3/a12313.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "dc/df3/a12313.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "boss_magmusAI", "d2/df5/a12317.html", "d2/df5/a12317" ],
+    [ "boss_magmus", "dc/df3/a12313.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "dc/df3/a12313.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

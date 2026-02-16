@@ -1,5 +1,10 @@
 var a23729 =
 [
-    [ "npc_lord_sanguinar", "df/d0b/a23729.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "df/d0b/a23729.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "npc_raging_flames", "df/d0b/a23729.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "df/d0b/a23729.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "df/d0b/a23729.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "df/d0b/a23729.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "df/d0b/a23729.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "df/d0b/a23729.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "df/d0b/a23729.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

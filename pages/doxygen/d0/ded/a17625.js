@@ -1,6 +1,6 @@
 var a17625 =
 [
-    [ "DaranavanMoveEvent", "d0/ded/a17625.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d0/ded/a17625.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d0/ded/a17625.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "npc_ball_of_flameAI", "d6/dcb/a17629.html", "d6/dcb/a17629" ],
+    [ "npc_ball_of_flame", "d0/ded/a17625.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d0/ded/a17625.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

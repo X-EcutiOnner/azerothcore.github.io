@@ -1,11 +1,7 @@
 var a07309 =
 [
-    [ "BattlegroundABScore", "d9/da6/a07309.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "d9/da6/a07309.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "d9/da6/a07309.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "d9/da6/a07309.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "d9/da6/a07309.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "d9/da6/a07309.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "d9/da6/a07309.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "d9/da6/a07309.html#a450504481d335230b3e035d4337694be", null ]
+    [ "attackText", "d9/da6/a07309.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "d9/da6/a07309.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "d9/da6/a07309.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d9/da6/a07309.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

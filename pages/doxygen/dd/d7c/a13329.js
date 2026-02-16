@@ -1,7 +1,6 @@
 var a13329 =
 [
-    [ "npc_singularity", "dd/d7c/a13329.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "dd/d7c/a13329.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "dd/d7c/a13329.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "dd/d7c/a13329.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "npc_scarlet_courierAI", "d3/db1/a13333.html", "d3/db1/a13333" ],
+    [ "npc_scarlet_courier", "dd/d7c/a13329.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "dd/d7c/a13329.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

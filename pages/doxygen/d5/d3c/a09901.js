@@ -1,5 +1,8 @@
 var a09901 =
 [
-    [ "MovementGeneratorFactory", "d5/d3c/a09901.html#a8b473ae9fa2af60a7fa92727ce163305", null ],
-    [ "Create", "d5/d3c/a09901.html#af3a494507c8d910bd98bb0989d42ba6f", null ]
+    [ "EllipseBoundary", "d5/d3c/a09901.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d5/d3c/a09901.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d5/d3c/a09901.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d5/d3c/a09901.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d5/d3c/a09901.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

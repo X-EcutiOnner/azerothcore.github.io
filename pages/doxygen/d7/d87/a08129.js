@@ -1,7 +1,10 @@
 var a08129 =
 [
-    [ "UsedPos", "d7/d87/a08129.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "d7/d87/a08129.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "d7/d87/a08129.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "d7/d87/a08129.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "CreatureModel", "d7/d87/a08129.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "d7/d87/a08129.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "d7/d87/a08129.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "d7/d87/a08129.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "d7/d87/a08129.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "d7/d87/a08129.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "d7/d87/a08129.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

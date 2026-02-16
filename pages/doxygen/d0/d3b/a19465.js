@@ -1,12 +1,19 @@
 var a19465 =
 [
-    [ "boss_krystallusAI", "d0/d3b/a19465.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "d0/d3b/a19465.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "d0/d3b/a19465.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "d0/d3b/a19465.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "d0/d3b/a19465.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "d0/d3b/a19465.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "d0/d3b/a19465.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "d0/d3b/a19465.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "d0/d3b/a19465.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "boss_razuviousAI", "d0/d3b/a19465.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
+    [ "DamageTaken", "d0/d3b/a19465.html#a4d20aa2066110c45ea06024dda04bb32", null ],
+    [ "JustDied", "d0/d3b/a19465.html#addd5c34675473b78e1785a8122a6ccd2", null ],
+    [ "JustEngagedWith", "d0/d3b/a19465.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
+    [ "JustSummoned", "d0/d3b/a19465.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
+    [ "KilledUnit", "d0/d3b/a19465.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
+    [ "MovementInform", "d0/d3b/a19465.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
+    [ "Reset", "d0/d3b/a19465.html#ae5b2e00b170a57b194b21445484c10bc", null ],
+    [ "ScheduleInteractWithDeathKnight", "d0/d3b/a19465.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
+    [ "ScheduleRP", "d0/d3b/a19465.html#a298fca0637eb5191e39f6010adc78c43", null ],
+    [ "SpawnHelpers", "d0/d3b/a19465.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
+    [ "SpellHit", "d0/d3b/a19465.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
+    [ "UpdateAI", "d0/d3b/a19465.html#a4ea0982f190aa21077b6237cac4e4368", null ],
+    [ "_rpBuddyGUID", "d0/d3b/a19465.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
+    [ "events", "d0/d3b/a19465.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
+    [ "summons", "d0/d3b/a19465.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

@@ -1,7 +1,6 @@
 var a26889 =
 [
-    [ "CheckProc", "d5/d24/a26889.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "HandleEffectProc", "d5/d24/a26889.html#a54810a897e535558d060119e3de6537b", null ],
-    [ "PrepareAuraScript", "d5/d24/a26889.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "d5/d24/a26889.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "achievement_arena_by_type", "d5/d24/a26889.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d5/d24/a26889.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d5/d24/a26889.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

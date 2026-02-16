@@ -1,7 +1,12 @@
 var a17229 =
 [
-    [ "HandleScript", "d1/d9c/a17229.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d1/d9c/a17229.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d1/d9c/a17229.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d1/d9c/a17229.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "npc_tortured_riflemanAI", "d1/d9c/a17229.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d1/d9c/a17229.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d1/d9c/a17229.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d1/d9c/a17229.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d1/d9c/a17229.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d1/d9c/a17229.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d1/d9c/a17229.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d1/d9c/a17229.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d1/d9c/a17229.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

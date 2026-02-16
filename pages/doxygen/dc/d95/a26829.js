@@ -1,7 +1,10 @@
 var a26829 =
 [
-    [ "HandleDummy", "dc/d95/a26829.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "dc/d95/a26829.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "dc/d95/a26829.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "dc/d95/a26829.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "CheckProc", "dc/d95/a26829.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "dc/d95/a26829.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "dc/d95/a26829.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "dc/d95/a26829.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "dc/d95/a26829.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "dc/d95/a26829.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTarget", "dc/d95/a26829.html#ad48f21d3a45e97857265e6047f253910", null ]
 ];

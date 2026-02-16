@@ -1,7 +1,7 @@
 var a23921 =
 [
-    [ "HandleDummy", "d0/d84/a23921.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d0/d84/a23921.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d0/d84/a23921.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d0/d84/a23921.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_maxx_a_million_escortAI", "db/dca/a23925.html", "db/dca/a23925" ],
+    [ "npc_maxx_a_million_escort", "d0/d84/a23921.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d0/d84/a23921.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d0/d84/a23921.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

@@ -1,9 +1,22 @@
 var a09809 =
 [
-    [ "MapUpdateRequest", "db/d2c/a09809.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "db/d2c/a09809.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "db/d2c/a09809.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "db/d2c/a09809.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "db/d2c/a09809.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "db/d2c/a09809.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "LootGroup", "db/d2c/a09809.html#a66528563891f68cc71cf2e82c0c55f78", null ],
+    [ "~LootGroup", "db/d2c/a09809.html#a8e99105a3db65b4f8afcf032ce3bb33f", null ],
+    [ "LootGroup", "db/d2c/a09809.html#a0bf71d71cb78e1e8864feac535adf100", null ],
+    [ "AddEntry", "db/d2c/a09809.html#a6724f160613257f2d48c0e675a372c48", null ],
+    [ "CheckLootRefs", "db/d2c/a09809.html#ac7690d157243edebe340baf2e274546f", null ],
+    [ "CollectLootIds", "db/d2c/a09809.html#a41a24435f67bcf4fa8bf8447b5d4d9ba", null ],
+    [ "CopyConditions", "db/d2c/a09809.html#a55a98102081eca760af46fe2158ad6e4", null ],
+    [ "GetEqualChancedItemList", "db/d2c/a09809.html#a273b39ba11c62186f6b49f9eadf512c6", null ],
+    [ "GetExplicitlyChancedItemList", "db/d2c/a09809.html#a5654d18106376d9fb168dfd8e27f1355", null ],
+    [ "HasQuestDrop", "db/d2c/a09809.html#adee692736847d987093655aac3f23be8", null ],
+    [ "HasQuestDropForPlayer", "db/d2c/a09809.html#a0cc5c4a880c400b432d2ac0c482430ed", null ],
+    [ "operator=", "db/d2c/a09809.html#a7ca1a5e58a5e78430209e1207b732265", null ],
+    [ "Process", "db/d2c/a09809.html#a0f9d7b304045ed812b6203376dc442db", null ],
+    [ "RawTotalChance", "db/d2c/a09809.html#a5a4dfbbfaf6c6f87217c124f387d7951", null ],
+    [ "Roll", "db/d2c/a09809.html#a77483c54ae8cb9747726bfa0e7d7225f", null ],
+    [ "TotalChance", "db/d2c/a09809.html#ab306f81dc00d214e0ec8ac3903eff42e", null ],
+    [ "Verify", "db/d2c/a09809.html#a5486b1c43c6af31681d5c442957d5cf1", null ],
+    [ "EqualChanced", "db/d2c/a09809.html#a517a0800528f49cdb3202ff5bcf5280d", null ],
+    [ "ExplicitlyChanced", "db/d2c/a09809.html#a18c4cf84cf4c6f02a66ba45fa2978f49", null ]
 ];

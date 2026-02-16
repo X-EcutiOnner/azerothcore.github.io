@@ -1,9 +1,6 @@
 var a17989 =
 [
-    [ "AfterApply", "d6/dce/a17989.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d6/dce/a17989.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d6/dce/a17989.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d6/dce/a17989.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d6/dce/a17989.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d6/dce/a17989.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "IgbTeleportOnVictoryCheck", "d6/dce/a17989.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d6/dce/a17989.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d6/dce/a17989.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

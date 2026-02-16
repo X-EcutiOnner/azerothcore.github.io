@@ -1,6 +1,6 @@
 var a20429 =
 [
-    [ "boss_razorscaleAI", "d8/dc6/a20433.html", "d8/dc6/a20433" ],
-    [ "boss_razorscale", "d9/d9e/a20429.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "d9/d9e/a20429.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "FilterTargets", "d9/d9e/a20429.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "d9/d9e/a20429.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "d9/d9e/a20429.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

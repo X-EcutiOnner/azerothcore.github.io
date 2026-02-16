@@ -1,7 +1,6 @@
 var a11929 =
 [
-    [ "boss_okthorAI", "de/da2/a11929.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "de/da2/a11929.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "de/da2/a11929.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "de/da2/a11929.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "bg_commandscript", "de/da2/a11929.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "de/da2/a11929.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "de/da2/a11929.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

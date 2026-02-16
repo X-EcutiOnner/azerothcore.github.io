@@ -1,9 +1,11 @@
 var a07317 =
 [
-    [ "CapturePointInfo", "dd/d44/a07317.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "dd/d44/a07317.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "dd/d44/a07317.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "dd/d44/a07317.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "dd/d44/a07317.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "dd/d44/a07317.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "WGWorkshop", "dd/d44/a07317.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "dd/d44/a07317.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "dd/d44/a07317.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "dd/d44/a07317.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "dd/d44/a07317.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "dd/d44/a07317.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "dd/d44/a07317.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "dd/d44/a07317.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

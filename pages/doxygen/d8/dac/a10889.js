@@ -1,8 +1,7 @@
 var a10889 =
 [
-    [ "EffectHandler", "d8/dac/a10889.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d8/dac/a10889.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d8/dac/a10889.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d8/dac/a10889.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d8/dac/a10889.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "GuildBankSetTabText", "d8/dac/a10889.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "d8/dac/a10889.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "d8/dac/a10889.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "d8/dac/a10889.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

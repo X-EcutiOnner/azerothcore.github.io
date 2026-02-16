@@ -1,10 +1,11 @@
 var a14629 =
 [
-    [ "boss_meathookAI", "d1/db7/a14629.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d1/db7/a14629.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d1/db7/a14629.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d1/db7/a14629.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d1/db7/a14629.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d1/db7/a14629.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d1/db7/a14629.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "npc_winterfin_playmate", "d1/db7/a14629.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "d1/db7/a14629.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "d1/db7/a14629.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "d1/db7/a14629.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "d1/db7/a14629.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "d1/db7/a14629.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "d1/db7/a14629.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "d1/db7/a14629.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

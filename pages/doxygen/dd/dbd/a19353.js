@@ -1,6 +1,7 @@
 var a19353 =
 [
-    [ "HandleDamageCalc", "dd/dbd/a19353.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "dd/dbd/a19353.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "dd/dbd/a19353.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "FilterTargets", "dd/dbd/a19353.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "dd/dbd/a19353.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "dd/dbd/a19353.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "dd/dbd/a19353.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

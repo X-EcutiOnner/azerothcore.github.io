@@ -1,6 +1,7 @@
 var a15325 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d2/d24/a15325.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d2/d24/a15325.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d2/d24/a15325.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "HandleScript", "d2/d24/a15325.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d2/d24/a15325.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d2/d24/a15325.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d2/d24/a15325.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

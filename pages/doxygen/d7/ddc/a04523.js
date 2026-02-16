@@ -1,10 +1,6 @@
 var a04523 =
 [
-    [ "BoundsTrait< VMAP::GroupModel >", "d9/d4c/a05132.html", "d9/d4c/a05132" ],
-    [ "VMAP::TriBoundFunc", "db/d5a/a05136.html", "db/d5a/a05136" ],
-    [ "VMAP::GModelRayCallback", "d3/dc0/a05140.html", "d3/dc0/a05140" ],
-    [ "VMAP::WModelRayCallBack", "dc/ddb/a05144.html", "dc/ddb/a05144" ],
-    [ "VMAP::WModelAreaCallback", "d4/dc5/a05148.html", "d4/dc5/a05148" ],
-    [ "IntersectTriangle", "d7/ddc/a04523.html#a4fa75e5ca5211394c63abc7ff28eb741", null ],
-    [ "IsInsideOrAboveBound", "d7/ddc/a04523.html#a830eb7f04e05a094cc7cefbc43fa6f91", null ]
+    [ "lfg_commandscript", "d5/d48/a12025.html", "d5/d48/a12025" ],
+    [ "AddSC_lfg_commandscript", "d7/ddc/a04523.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "d7/ddc/a04523.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

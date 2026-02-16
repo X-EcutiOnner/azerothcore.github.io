@@ -1,6 +1,8 @@
 var a15545 =
 [
-    [ "npc_twiggy_flatheadAI", "dc/d02/a15549.html", "dc/d02/a15549" ],
-    [ "npc_twiggy_flathead", "d0/d05/a15545.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "d0/d05/a15545.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "boss_veklor", "d0/d05/a15545.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d0/d05/a15545.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d0/d05/a15545.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d0/d05/a15545.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d0/d05/a15545.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

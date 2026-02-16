@@ -1,4 +1,4 @@
 var a01586 =
 [
-    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d1/dd5/a09239.html", "d1/dd5/a09239" ]
+    [ "MapRefMgr", "d0/d0a/a09969.html", "d0/d0a/a09969" ]
 ];

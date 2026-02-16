@@ -1,13 +1,6 @@
 var a03719 =
 [
-    [ "boss_grizzle", "df/d24/a12224.html", "df/d24/a12224" ],
-    [ "boss_grizzle::boss_grizzleAI", "d9/df7/a12228.html", "d9/df7/a12228" ],
-    [ "Grizzle", "d7/da7/a03719.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
-      [ "SPELL_GROUNDTREMOR", "d7/da7/a03719.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
-      [ "SPELL_FRENZY", "d7/da7/a03719.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
-      [ "EMOTE_FRENZY_KILL", "d7/da7/a03719.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
-    ] ],
-    [ "AddSC_boss_grizzle", "d7/da7/a03719.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
-    [ "TIMER_FRENZY", "d7/da7/a03719.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
-    [ "TIMER_GROUNDTREMOR", "d7/da7/a03719.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
+    [ "instance_the_stockade", "d3/d0d/a13837.html", "d3/d0d/a13837" ],
+    [ "instance_the_stockade::instance_the_stockade_InstanceMapScript", "d7/d07/a13841.html", "d7/d07/a13841" ],
+    [ "AddSC_instance_the_stockade", "d7/da7/a03719.html#a185a86af6f910845f0f833704f0101af", null ]
 ];

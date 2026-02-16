@@ -1,6 +1,6 @@
 var a17253 =
 [
-    [ "PrepareSpellScript", "de/db1/a17253.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "de/db1/a17253.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "de/db1/a17253.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "npc_hor_lich_kingAI", "d2/dc3/a17257.html", "d2/dc3/a17257" ],
+    [ "npc_hor_lich_king", "de/db1/a17253.html#aab2562a7a204699735a89e7a15b3b472", null ],
+    [ "GetAI", "de/db1/a17253.html#ad670ae69daa742c19c06267399445a11", null ]
 ];

@@ -1,8 +1,5 @@
 var a01316 =
 [
-    [ "MailScript", "d9/dc8/a10448.html", "d9/dc8/a10448" ],
-    [ "MailHook", "d4/d49/a01316.html#a7a2fb0cc0937712e8aff65574e1068d6", [
-      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d4/d49/a01316.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
-      [ "MAILHOOK_END", "d4/d49/a01316.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
-    ] ]
+    [ "GroupMgr", "d9/d50/a09641.html", "d9/d50/a09641" ],
+    [ "sGroupMgr", "d4/d49/a01316.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

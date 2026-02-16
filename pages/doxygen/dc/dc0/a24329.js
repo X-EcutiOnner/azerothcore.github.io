@@ -1,10 +1,7 @@
 var a24329 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "dc/dc0/a24329.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "dc/dc0/a24329.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "dc/dc0/a24329.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "dc/dc0/a24329.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "dc/dc0/a24329.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "dc/dc0/a24329.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "dc/dc0/a24329.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "CheckProc", "dc/dc0/a24329.html#a6b62e970a78ae8187989f566e6d47317", null ],
+    [ "HandleProc", "dc/dc0/a24329.html#a21000167be45c4a5503813e5a508b8fd", null ],
+    [ "PrepareAuraScript", "dc/dc0/a24329.html#a7f8fea0f52ed4c98120195f205d6c0d7", null ],
+    [ "Register", "dc/dc0/a24329.html#a8d97a7638c682b99e466155bd819df53", null ]
 ];

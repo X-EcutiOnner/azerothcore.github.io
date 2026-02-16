@@ -1,6 +1,6 @@
 var a16081 =
 [
-    [ "npc_living_infernoAI", "dc/d96/a16081.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "dc/d96/a16081.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "dc/d96/a16081.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "creatureID", "dc/d96/a16081.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "dc/d96/a16081.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "dc/d96/a16081.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

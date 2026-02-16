@@ -1,6 +1,8 @@
 var a21693 =
 [
-    [ "HandleSendEvent", "da/df7/a21693.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "da/df7/a21693.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "da/df7/a21693.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "OnRemove", "da/df7/a21693.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "da/df7/a21693.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "da/df7/a21693.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "da/df7/a21693.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "da/df7/a21693.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

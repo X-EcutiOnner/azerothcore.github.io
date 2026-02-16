@@ -1,6 +1,5 @@
 var a22233 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d5/d09/a22237.html", "d5/d09/a22237" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d9/d7b/a22233.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d9/d7b/a22233.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d9/d7b/a22233.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d9/d7b/a22233.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

@@ -1,7 +1,6 @@
 var a04829 =
 [
-    [ "asio", "d2/d2e/a04831.html", "d2/d2e/a04831" ],
-    [ "filesystem", "dd/d2f/a04865.html", null ],
-    [ "posix_time", "d2/da7/a04830.html", null ],
-    [ "system", "d1/d58/a04916.html", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d4/d9a/a04829.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "d4/d9a/a04829.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "d4/d9a/a04829.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

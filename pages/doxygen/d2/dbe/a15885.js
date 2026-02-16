@@ -1,6 +1,6 @@
 var a15885 =
 [
-    [ "npc_twilight_summonAI", "df/da9/a15889.html", "df/da9/a15889" ],
-    [ "npc_twilight_summon", "d2/dbe/a15885.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "d2/dbe/a15885.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "SpellId", "d2/dbe/a15885.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d2/dbe/a15885.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d2/dbe/a15885.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

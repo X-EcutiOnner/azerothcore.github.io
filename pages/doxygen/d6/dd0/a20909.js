@@ -1,5 +1,8 @@
 var a20909 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d6/dd0/a20909.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d6/dd0/a20909.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_keleseth", "d6/dd0/a20909.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d6/dd0/a20909.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d6/dd0/a20909.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d6/dd0/a20909.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d6/dd0/a20909.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

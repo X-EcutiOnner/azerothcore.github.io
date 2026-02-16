@@ -1,14 +1,6 @@
 var a24077 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d5/de8/a24077.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "d5/de8/a24077.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "d5/de8/a24077.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "d5/de8/a24077.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "d5/de8/a24077.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "d5/de8/a24077.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "d5/de8/a24077.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "d5/de8/a24077.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "d5/de8/a24077.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "d5/de8/a24077.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "d5/de8/a24077.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "npc_kservantAI", "d7/d1a/a24081.html", "d7/d1a/a24081" ],
+    [ "npc_kservant", "d5/de8/a24077.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d5/de8/a24077.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

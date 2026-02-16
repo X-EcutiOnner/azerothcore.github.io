@@ -1,6 +1,6 @@
 var a18789 =
 [
-    [ "RespawnEvent", "dc/d9c/a18789.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "dc/d9c/a18789.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "dc/d9c/a18789.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d9/d98/a18793.html", "d9/d98/a18793" ],
+    [ "npc_green_dragon_combat_trigger", "dc/d9c/a18789.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "dc/d9c/a18789.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

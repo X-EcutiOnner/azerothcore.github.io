@@ -1,6 +1,9 @@
 var a22005 =
 [
-    [ "npc_infra_green_bomber_genericAI", "da/da7/a22009.html", "da/da7/a22009" ],
-    [ "npc_infra_green_bomber_generic", "d6/d05/a22005.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d6/d05/a22005.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_engineer_heliceAI", "d6/d05/a22005.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d6/d05/a22005.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d6/d05/a22005.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d6/d05/a22005.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d6/d05/a22005.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d6/d05/a22005.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

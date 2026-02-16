@@ -1,8 +1,9 @@
 var a18709 =
 [
-    [ "Class", "d7/d36/a18709.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d7/d36/a18709.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "d7/d36/a18709.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d7/d36/a18709.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d7/d36/a18709.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_spirit_wardenAI", "d7/d36/a18709.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d7/d36/a18709.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d7/d36/a18709.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d7/d36/a18709.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d7/d36/a18709.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d7/d36/a18709.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

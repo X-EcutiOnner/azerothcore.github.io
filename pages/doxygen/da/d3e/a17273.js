@@ -1,7 +1,8 @@
 var a17273 =
 [
-    [ "PeriodicTick", "da/d3e/a17273.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "da/d3e/a17273.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "da/d3e/a17273.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "da/d3e/a17273.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "npc_hor_raging_ghoulAI", "da/d3e/a17273.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "da/d3e/a17273.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "da/d3e/a17273.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "da/d3e/a17273.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "da/d3e/a17273.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

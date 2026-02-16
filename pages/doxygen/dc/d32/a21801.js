@@ -1,6 +1,9 @@
 var a21801 =
 [
-    [ "npc_mrfloppyAI", "d7/d7f/a21805.html", "d7/d7f/a21805" ],
-    [ "npc_mrfloppy", "dc/d32/a21801.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "dc/d32/a21801.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_Apothecary_HanesAI", "dc/d32/a21801.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "dc/d32/a21801.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "dc/d32/a21801.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "dc/d32/a21801.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "dc/d32/a21801.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "dc/d32/a21801.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

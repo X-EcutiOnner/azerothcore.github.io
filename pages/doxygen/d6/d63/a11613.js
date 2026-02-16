@@ -1,8 +1,10 @@
 var a11613 =
 [
-    [ "honor_commandscript", "d6/d63/a11613.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d6/d63/a11613.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d6/d63/a11613.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d6/d63/a11613.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d6/d63/a11613.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "TargetHook", "d6/d63/a11613.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "d6/d63/a11613.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "d6/d63/a11613.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "d6/d63/a11613.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "d6/d63/a11613.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "d6/d63/a11613.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "d6/d63/a11613.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

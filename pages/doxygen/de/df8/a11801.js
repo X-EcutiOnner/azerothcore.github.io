@@ -1,6 +1,7 @@
 var a11801 =
 [
-    [ "npc_phalanxAI", "de/dc1/a11805.html", "de/dc1/a11805" ],
-    [ "npc_phalanx", "de/df8/a11801.html#a947ee4659fe2a46d775119ddcefeb939", null ],
-    [ "GetAI", "de/df8/a11801.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
+    [ "Command", "de/df8/a11801.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "de/df8/a11801.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "de/df8/a11801.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "de/df8/a11801.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

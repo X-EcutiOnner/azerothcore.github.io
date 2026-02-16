@@ -1,6 +1,7 @@
 var a17017 =
 [
-    [ "HandleDummy", "d5/d12/a17017.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d5/d12/a17017.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d5/d12/a17017.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "HandleScript", "d5/d12/a17017.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "d5/d12/a17017.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "d5/d12/a17017.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "d5/d12/a17017.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

@@ -1,8 +1,7 @@
 var a16049 =
 [
-    [ "OnApply", "d1/d01/a16049.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "d1/d01/a16049.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "d1/d01/a16049.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "d1/d01/a16049.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "d1/d01/a16049.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "npc_ringoAI", "da/d19/a16053.html", "da/d19/a16053" ],
+    [ "npc_ringo", "d1/d01/a16049.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "d1/d01/a16049.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "d1/d01/a16049.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

@@ -1,7 +1,6 @@
 var a19877 =
 [
-    [ "FilterTargets", "d9/d3e/a19877.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "d9/d3e/a19877.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "d9/d3e/a19877.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "d9/d3e/a19877.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "da/dd9/a19881.html", "da/dd9/a19881" ],
+    [ "boss_sjonnir_malformed_ooze", "d9/d3e/a19877.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d9/d3e/a19877.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

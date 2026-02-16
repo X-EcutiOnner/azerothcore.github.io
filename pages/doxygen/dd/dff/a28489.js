@@ -1,6 +1,8 @@
 var a28489 =
 [
-    [ "CheckCast", "dd/dff/a28489.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "dd/dff/a28489.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "dd/dff/a28489.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "prepareLoadedData", "dd/dff/a28489.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "dd/dff/a28489.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "dd/dff/a28489.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "dd/dff/a28489.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "dd/dff/a28489.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

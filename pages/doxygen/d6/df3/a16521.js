@@ -1,7 +1,11 @@
 var a16521 =
 [
-    [ "HandleAfterEffectAbsorb", "d6/df3/a16521.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d6/df3/a16521.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d6/df3/a16521.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d6/df3/a16521.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_saviana_ragefireAI", "d6/df3/a16521.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d6/df3/a16521.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d6/df3/a16521.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d6/df3/a16521.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d6/df3/a16521.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d6/df3/a16521.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d6/df3/a16521.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d6/df3/a16521.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

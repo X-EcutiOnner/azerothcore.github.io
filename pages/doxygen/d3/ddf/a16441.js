@@ -1,7 +1,8 @@
 var a16441 =
 [
-    [ "FilterTargets", "d3/ddf/a16441.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d3/ddf/a16441.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d3/ddf/a16441.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d3/ddf/a16441.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "OnApply", "d3/ddf/a16441.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d3/ddf/a16441.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d3/ddf/a16441.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d3/ddf/a16441.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d3/ddf/a16441.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

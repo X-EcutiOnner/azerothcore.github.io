@@ -1,6 +1,14 @@
 var a19625 =
 [
-    [ "HandlePeriodic", "dd/d4a/a19625.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "dd/d4a/a19625.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "dd/d4a/a19625.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "boss_magus_telestra", "dd/d4a/a19625.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "dd/d4a/a19625.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "dd/d4a/a19625.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "dd/d4a/a19625.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "dd/d4a/a19625.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "dd/d4a/a19625.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "dd/d4a/a19625.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "dd/d4a/a19625.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "dd/d4a/a19625.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "dd/d4a/a19625.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "dd/d4a/a19625.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

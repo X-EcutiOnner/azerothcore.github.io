@@ -1,14 +1,10 @@
 var a13713 =
 [
-    [ "boss_hexlord_malacrass", "de/d4b/a13713.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "de/d4b/a13713.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "de/d4b/a13713.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "de/d4b/a13713.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "de/d4b/a13713.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "de/d4b/a13713.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "de/d4b/a13713.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "de/d4b/a13713.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "de/d4b/a13713.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "de/d4b/a13713.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "de/d4b/a13713.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "MoveDelayed", "de/d4b/a13713.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "de/d4b/a13713.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "de/d4b/a13713.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "de/d4b/a13713.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "de/d4b/a13713.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "de/d4b/a13713.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "de/d4b/a13713.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

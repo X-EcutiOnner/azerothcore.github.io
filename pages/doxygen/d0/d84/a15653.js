@@ -1,6 +1,6 @@
 var a15653 =
 [
-    [ "HandleOpenLock", "d0/d84/a15653.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d0/d84/a15653.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d0/d84/a15653.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_draenei_survivorAI", "d6/d68/a15657.html", "d6/d68/a15657" ],
+    [ "npc_draenei_survivor", "d0/d84/a15653.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "d0/d84/a15653.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

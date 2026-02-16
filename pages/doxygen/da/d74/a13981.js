@@ -1,6 +1,6 @@
 var a13981 =
 [
-    [ "LaunchHit", "da/d74/a13981.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "da/d74/a13981.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "da/d74/a13981.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "npc_corporal_keeshanAI", "d3/d62/a13985.html", "d3/d62/a13985" ],
+    [ "npc_corporal_keeshan", "da/d74/a13981.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "da/d74/a13981.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

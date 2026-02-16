@@ -1,7 +1,7 @@
 var a12597 =
 [
-    [ "npc_malchezaar_axe", "d3/d17/a12597.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d3/d17/a12597.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d3/d17/a12597.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d3/d17/a12597.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_ebonrocAI", "d3/d17/a12597.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d3/d17/a12597.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d3/d17/a12597.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d3/d17/a12597.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

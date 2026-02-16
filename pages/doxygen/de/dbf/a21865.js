@@ -1,7 +1,6 @@
 var a21865 =
 [
-    [ "HandleScript", "de/dbf/a21865.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "de/dbf/a21865.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "de/dbf/a21865.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "de/dbf/a21865.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_lord_areteAI", "d9/d02/a21869.html", "d9/d02/a21869" ],
+    [ "npc_lord_arete", "de/dbf/a21865.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "de/dbf/a21865.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

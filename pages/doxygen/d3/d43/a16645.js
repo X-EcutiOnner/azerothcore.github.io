@@ -1,7 +1,6 @@
 var a16645 =
 [
-    [ "HandleScriptEffect", "d3/d43/a16645.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d3/d43/a16645.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d3/d43/a16645.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d3/d43/a16645.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d4/d7b/a16649.html", "d4/d7b/a16649" ],
+    [ "instance_trial_of_the_champion", "d3/d43/a16645.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d3/d43/a16645.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

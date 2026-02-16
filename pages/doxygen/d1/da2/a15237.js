@@ -1,8 +1,6 @@
 var a15237 =
 [
-    [ "npc_death_ravagerAI", "d1/da2/a15237.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d1/da2/a15237.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d1/da2/a15237.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d1/da2/a15237.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d1/da2/a15237.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "instance_maraudon_InstanceMapScript", "d7/da5/a15241.html", "d7/da5/a15241" ],
+    [ "instance_maraudon", "d1/da2/a15237.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d1/da2/a15237.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

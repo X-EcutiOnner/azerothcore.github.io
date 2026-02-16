@@ -1,6 +1,6 @@
 var a13405 =
 [
-    [ "HandleSendEvent", "d1/d4d/a13405.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d1/d4d/a13405.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d1/d4d/a13405.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d9/d1a/a13409.html", "d9/d1a/a13409" ],
+    [ "instance_scarlet_monastery", "d1/d4d/a13405.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "d1/d4d/a13405.html#a1c66031217457809fbe56303085715a0", null ]
 ];

@@ -1,16 +1,9 @@
 var a09533 =
 [
-    [ "BankMoveItemData", "da/d38/a09533.html#a9edb987f4866e8bc473fe853597bebae", null ],
-    [ "_ReserveSpace", "da/d38/a09533.html#a109e8d55108b005426110626815ba866", null ],
-    [ "_StoreItem", "da/d38/a09533.html#aa11267f5d6202753310da567c0be0e57", null ],
-    [ "CanStore", "da/d38/a09533.html#ade47c73460329ca1af752921173ca75e", null ],
-    [ "CanStoreItemInTab", "da/d38/a09533.html#a5ca7975887e5583466d066c86b3a205f", null ],
-    [ "HasStoreRights", "da/d38/a09533.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
-    [ "HasWithdrawRights", "da/d38/a09533.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
-    [ "InitItem", "da/d38/a09533.html#a69d6b28ccdda7790f821f5181da0db96", null ],
-    [ "IsBank", "da/d38/a09533.html#a6f1787e15918092ba000ee8bd0852b09", null ],
-    [ "LogAction", "da/d38/a09533.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
-    [ "LogBankEvent", "da/d38/a09533.html#a054ca0f7eecfd404651c11b886d106bf", null ],
-    [ "RemoveItem", "da/d38/a09533.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
-    [ "StoreItem", "da/d38/a09533.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
+    [ "NearestAssistCreatureInCreatureRangeCheck", "da/d38/a09533.html#ac9e380add6c9df4afc707007528c7434", null ],
+    [ "NearestAssistCreatureInCreatureRangeCheck", "da/d38/a09533.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
+    [ "operator()", "da/d38/a09533.html#a9a085d16b30849537441f809052ac196", null ],
+    [ "i_enemy", "da/d38/a09533.html#a0ba09da942c48e523c278cff0e0a4139", null ],
+    [ "i_obj", "da/d38/a09533.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
+    [ "i_range", "da/d38/a09533.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
 ];

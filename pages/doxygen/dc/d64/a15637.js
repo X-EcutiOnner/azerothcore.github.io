@@ -1,6 +1,6 @@
 var a15637 =
 [
-    [ "creatureID", "dc/d64/a15637.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "dc/d64/a15637.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "dc/d64/a15637.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "de/df0/a15641.html", "de/df0/a15641" ],
+    [ "instance_wailing_caverns", "dc/d64/a15637.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "dc/d64/a15637.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

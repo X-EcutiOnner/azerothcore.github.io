@@ -1,8 +1,7 @@
 var a09589 =
 [
-    [ "InstResetEvent", "d1/db2/a09589.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "d1/db2/a09589.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "d1/db2/a09589.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "d1/db2/a09589.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "d1/db2/a09589.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "AllWorldObjectsInRange", "d1/db2/a09589.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d1/db2/a09589.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d1/db2/a09589.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d1/db2/a09589.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

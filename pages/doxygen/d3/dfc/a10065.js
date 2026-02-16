@@ -1,10 +1,14 @@
 var a10065 =
 [
-    [ "WaypointMgr", "d3/dfc/a10065.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "d3/dfc/a10065.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "d3/dfc/a10065.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "d3/dfc/a10065.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "d3/dfc/a10065.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "d3/dfc/a10065.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "d3/dfc/a10065.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "~MovementGenerator", "d3/dfc/a10065.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "d3/dfc/a10065.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "d3/dfc/a10065.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "d3/dfc/a10065.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "d3/dfc/a10065.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "d3/dfc/a10065.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "d3/dfc/a10065.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "d3/dfc/a10065.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "d3/dfc/a10065.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "d3/dfc/a10065.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "d3/dfc/a10065.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

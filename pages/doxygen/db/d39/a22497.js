@@ -1,18 +1,7 @@
 var a22497 =
 [
-    [ "OutdoorPvPZM", "db/d39/a22497.html#a8351867658985b66dd97f39e68c16b94", null ],
-    [ "FillInitialWorldStates", "db/d39/a22497.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
-    [ "GetAllianceTowersControlled", "db/d39/a22497.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
-    [ "GetHordeTowersControlled", "db/d39/a22497.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
-    [ "HandleKillImpl", "db/d39/a22497.html#a6cd61b99305a2838261e36652fda42b1", null ],
-    [ "HandlePlayerEnterZone", "db/d39/a22497.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
-    [ "HandlePlayerLeaveZone", "db/d39/a22497.html#a93105e3229db7798ad882fc7e538b250", null ],
-    [ "SendRemoveWorldStates", "db/d39/a22497.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
-    [ "SetAllianceTowersControlled", "db/d39/a22497.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
-    [ "SetHordeTowersControlled", "db/d39/a22497.html#a27239875476bbce8ff18b30cdfe6815b", null ],
-    [ "SetupOutdoorPvP", "db/d39/a22497.html#a7e71d2c2480da1a2d155981999201b99", null ],
-    [ "Update", "db/d39/a22497.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
-    [ "m_AllianceTowersControlled", "db/d39/a22497.html#aff4124f54572e0812c39562fbc6390c3", null ],
-    [ "m_Graveyard", "db/d39/a22497.html#a9842f1c5de04af4db3e0397839de7765", null ],
-    [ "m_HordeTowersControlled", "db/d39/a22497.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
+    [ "HandleOnHit", "db/d39/a22497.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "db/d39/a22497.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "db/d39/a22497.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "db/d39/a22497.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

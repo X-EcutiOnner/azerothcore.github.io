@@ -1,29 +1,37 @@
 var a02831 =
 [
-    [ "npc_dragonflayer_forge_master", "d0/d64/a21292.html", "d0/d64/a21292" ],
-    [ "npc_enslaved_proto_drake", "db/d26/a21296.html", "db/d26/a21296" ],
-    [ "spell_ticking_time_bomb_aura", "df/dec/a21300.html", "df/dec/a21300" ],
-    [ "EnslavedProtoDrake", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278", [
-      [ "SPELL_REND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_FLAME_BREATH", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
-      [ "SPELL_KNOCK_AWAY", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "EVENT_REND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
-      [ "EVENT_FLAME_BREATH", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
-      [ "EVENT_KNOCKAWAY", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
-      [ "EVENT_PRE_LAND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
-      [ "EVENT_LAND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
-      [ "TYPE_PROTODRAKE_AT", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
-      [ "DATA_PROTODRAKE_MOVE", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
-      [ "POINT_TAKE_OFF", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
-      [ "POINT_PRE_LAND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
-      [ "POINT_LAND", "d0/d82/a02831.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
+    [ "npc_ame", "d6/dc3/a16041.html", "d6/dc3/a16041" ],
+    [ "npc_ame::npc_ameAI", "d6/db0/a16045.html", "d6/db0/a16045" ],
+    [ "npc_ringo", "d1/d01/a16049.html", "d1/d01/a16049" ],
+    [ "npc_ringo::npc_ringoAI", "da/d19/a16053.html", "da/d19/a16053" ],
+    [ "AmeData", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
+      [ "SAY_READY", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
+      [ "SAY_AGGRO1", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
+      [ "SAY_SEARCH", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
+      [ "SAY_AGGRO2", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
+      [ "SAY_AGGRO3", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
+      [ "SAY_FINISH", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
+      [ "SPELL_DEMORALIZINGSHOUT", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
+      [ "QUEST_CHASING_AME", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
+      [ "ENTRY_TARLORD", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
+      [ "ENTRY_TARLORD1", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
+      [ "ENTRY_STOMPER", "d0/d82/a02831.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
     ] ],
-    [ "TickingTimeBomb", "d0/d82/a02831.html#a9126ee26be77d9dcf83d14c8abae1cca", [
-      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "d0/d82/a02831.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
+    [ "Ringo", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
+      [ "SAY_RIN_START", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
+      [ "SAY_FAINT", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
+      [ "SAY_WAKE", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
+      [ "SAY_RIN_END_1", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
+      [ "SAY_SPR_END_2", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
+      [ "SAY_RIN_END_3", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
+      [ "EMOTE_RIN_END_4", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
+      [ "EMOTE_RIN_END_5", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
+      [ "SAY_RIN_END_6", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
+      [ "SAY_SPR_END_7", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
+      [ "EMOTE_RIN_END_8", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
+      [ "SPELL_REVIVE_RINGO", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
+      [ "QUEST_A_LITTLE_HELP", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
+      [ "NPC_SPRAGGLE", "d0/d82/a02831.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
     ] ],
-    [ "AddSC_utgarde_keep", "d0/d82/a02831.html#a3252f1bf2be160c6d8960f41e595db47", null ],
-    [ "protodrakeCheckPos", "d0/d82/a02831.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
-    [ "protodrakeLandPos", "d0/d82/a02831.html#a1a48021562fd573e8e0e970124788afd", null ],
-    [ "protodrakePreLandPos", "d0/d82/a02831.html#aa19590ca509e049e2c92b727b48b6649", null ],
-    [ "protodrakeTakeOffPos", "d0/d82/a02831.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
+    [ "AddSC_ungoro_crater", "d0/d82/a02831.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
 ];

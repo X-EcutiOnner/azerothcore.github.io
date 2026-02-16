@@ -1,7 +1,6 @@
 var a16033 =
 [
-    [ "HandleScriptEffect", "da/d67/a16033.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "da/d67/a16033.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "da/d67/a16033.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "da/d67/a16033.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_cairne_bloodhoofAI", "d2/d64/a16037.html", "d2/d64/a16037" ],
+    [ "npc_cairne_bloodhoof", "da/d67/a16033.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "da/d67/a16033.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

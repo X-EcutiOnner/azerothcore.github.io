@@ -1,5 +1,6 @@
 var a00668 =
 [
-    [ "AddonHandler", "dd/d31/a09655.html", "dd/d31/a09655" ],
-    [ "sAddOnHandler", "d0/d5c/a00668.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "ConcatenateDungeons", "d0/d5c/a00668.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
+    [ "GetRolesString", "d0/d5c/a00668.html#adc336ffd636b51b0052448739671d46b", null ],
+    [ "GetStateString", "d0/d5c/a00668.html#a9d097d73fe8f096de2098ac74022b643", null ]
 ];

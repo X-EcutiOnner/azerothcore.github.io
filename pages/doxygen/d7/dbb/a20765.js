@@ -1,9 +1,10 @@
 var a20765 =
 [
-    [ "boss_yoggsaron_keeper", "d7/dbb/a20765.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d7/dbb/a20765.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d7/dbb/a20765.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d7/dbb/a20765.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d7/dbb/a20765.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d7/dbb/a20765.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_voice", "d7/dbb/a20765.html#aeb0654fe32fc4233fa129652091f84c8", null ],
+    [ "Reset", "d7/dbb/a20765.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d7/dbb/a20765.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d7/dbb/a20765.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d7/dbb/a20765.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d7/dbb/a20765.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d7/dbb/a20765.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

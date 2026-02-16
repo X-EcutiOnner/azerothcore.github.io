@@ -1,7 +1,9 @@
 var a24221 =
 [
-    [ "HandlePeriodic", "de/d91/a24221.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "de/d91/a24221.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "de/d91/a24221.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "de/d91/a24221.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_pet_gen_fetch_ball", "de/d91/a24221.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "de/d91/a24221.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "de/d91/a24221.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "de/d91/a24221.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "de/d91/a24221.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "de/d91/a24221.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

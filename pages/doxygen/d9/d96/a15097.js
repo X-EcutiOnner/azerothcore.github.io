@@ -1,7 +1,6 @@
 var a15097 =
 [
-    [ "boss_glob_of_viscidus", "d9/d96/a15097.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d9/d96/a15097.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d9/d96/a15097.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d9/d96/a15097.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "boss_salrammAI", "d8/dc7/a15101.html", "d8/dc7/a15101" ],
+    [ "boss_salramm", "d9/d96/a15097.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d9/d96/a15097.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

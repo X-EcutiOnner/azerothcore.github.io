@@ -1,11 +1,19 @@
 var a11849 =
 [
-    [ "boss_draganthaurissanAI", "d6/d47/a11849.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "d6/d47/a11849.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "d6/d47/a11849.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "d6/d47/a11849.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "d6/d47/a11849.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "d6/d47/a11849.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "d6/d47/a11849.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "d6/d47/a11849.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "WardenPayloadMgr", "d6/d47/a11849.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
+    [ "ClearQueuedPayloads", "d6/d47/a11849.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
+    [ "DequeuePayload", "d6/d47/a11849.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
+    [ "GetFreePayloadId", "d6/d47/a11849.html#a698b2ab4709a495f299be18b053e4014", null ],
+    [ "GetPayloadById", "d6/d47/a11849.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
+    [ "GetPayloadCountInQueue", "d6/d47/a11849.html#ae3878c7264337d646f7a5d503907d7aa", null ],
+    [ "GetPayloadsInQueue", "d6/d47/a11849.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
+    [ "QueuePayload", "d6/d47/a11849.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
+    [ "RegisterPayload", "d6/d47/a11849.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
+    [ "RegisterPayload", "d6/d47/a11849.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
+    [ "UnregisterPayload", "d6/d47/a11849.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
+    [ "CachedChecks", "d6/d47/a11849.html#a65c6878274bc49b921714278d77eed56", null ],
+    [ "QueuedPayloads", "d6/d47/a11849.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
+    [ "WardenPayloadCheckType", "d6/d47/a11849.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
+    [ "WardenPayloadOffsetMax", "d6/d47/a11849.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
+    [ "WardenPayloadOffsetMin", "d6/d47/a11849.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
 ];

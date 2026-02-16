@@ -1,7 +1,6 @@
 var a12601 =
 [
-    [ "FilterTargets", "d7/d5b/a12601.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d7/d5b/a12601.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d7/d5b/a12601.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d7/d5b/a12601.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "boss_firemawAI", "d5/df9/a12605.html", "d5/df9/a12605" ],
+    [ "boss_firemaw", "d7/d5b/a12601.html#a71174eb128356802be0029fd9e24fe1f", null ],
+    [ "GetAI", "d7/d5b/a12601.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
 ];

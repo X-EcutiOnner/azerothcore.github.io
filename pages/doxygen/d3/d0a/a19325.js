@@ -1,12 +1,6 @@
 var a19325 =
 [
-    [ "npc_oculus_drakeAI", "d3/d0a/a19325.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d3/d0a/a19325.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d3/d0a/a19325.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d3/d0a/a19325.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d3/d0a/a19325.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d3/d0a/a19325.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d3/d0a/a19325.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d3/d0a/a19325.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d3/d0a/a19325.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "NotOnSameSide", "d3/d0a/a19325.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "d3/d0a/a19325.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "d3/d0a/a19325.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

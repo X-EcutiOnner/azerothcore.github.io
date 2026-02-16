@@ -1,6 +1,8 @@
 var a22165 =
 [
-    [ "npc_time_lost_proto_drakeAI", "de/d3b/a22169.html", "de/d3b/a22169" ],
-    [ "npc_time_lost_proto_drake", "d6/d54/a22165.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d6/d54/a22165.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_wg_spirit_guideAI", "de/d3b/a22169.html", "de/d3b/a22169" ],
+    [ "npc_wg_spirit_guide", "d6/d54/a22165.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d6/d54/a22165.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d6/d54/a22165.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d6/d54/a22165.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

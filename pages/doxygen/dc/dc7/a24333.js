@@ -1,8 +1,6 @@
 var a24333 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "dc/dc7/a24333.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "dc/dc7/a24333.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "dc/dc7/a24333.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "dc/dc7/a24333.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "dc/dc7/a24333.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "HandleEffectApply", "dc/dc7/a24333.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "dc/dc7/a24333.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "dc/dc7/a24333.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];

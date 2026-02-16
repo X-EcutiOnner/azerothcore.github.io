@@ -1,5 +1,10 @@
 var a23533 =
 [
-    [ "spellId", "d8/d7f/a23533.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d8/d7f/a23533.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d8/d7f/a23533.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d8/d7f/a23533.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d8/d7f/a23533.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d8/d7f/a23533.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d8/d7f/a23533.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d8/d7f/a23533.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d8/d7f/a23533.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

@@ -1,11 +1,14 @@
 var a12961 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d9/dc7/a12961.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "d9/dc7/a12961.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "d9/dc7/a12961.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "d9/dc7/a12961.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "d9/dc7/a12961.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "d9/dc7/a12961.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "d9/dc7/a12961.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "d9/dc7/a12961.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "boss_midnight", "d9/dc7/a12961.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d9/dc7/a12961.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d9/dc7/a12961.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d9/dc7/a12961.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d9/dc7/a12961.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d9/dc7/a12961.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d9/dc7/a12961.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d9/dc7/a12961.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d9/dc7/a12961.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d9/dc7/a12961.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d9/dc7/a12961.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

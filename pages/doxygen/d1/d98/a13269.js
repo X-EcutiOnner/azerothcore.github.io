@@ -1,6 +1,7 @@
 var a13269 =
 [
-    [ "FixOrientation", "d1/d98/a13269.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d1/d98/a13269.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d1/d98/a13269.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "HandleScriptEffect", "d1/d98/a13269.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d1/d98/a13269.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d1/d98/a13269.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d1/d98/a13269.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

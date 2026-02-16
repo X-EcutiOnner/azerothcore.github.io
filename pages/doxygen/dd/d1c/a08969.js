@@ -1,6 +1,5 @@
 var a08969 =
 [
-    [ "faction", "dd/d1c/a08969.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
-    [ "faction_rank", "dd/d1c/a08969.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
-    [ "faction_rate", "dd/d1c/a08969.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
+    [ "NextPage", "dd/d1c/a08969.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
+    [ "Text", "dd/d1c/a08969.html#a9c13498341adce66590cb198b720f96f", null ]
 ];

@@ -1,7 +1,6 @@
 var a15597 =
 [
-    [ "npc_ameAI", "d1/db0/a15601.html", "d1/db0/a15601" ],
-    [ "npc_ame", "de/d79/a15597.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "de/d79/a15597.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "de/d79/a15597.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "HandleDummy", "de/d79/a15597.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "de/d79/a15597.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "de/d79/a15597.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

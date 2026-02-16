@@ -1,5 +1,5 @@
 var a10465 =
 [
-    [ "PlayerLogout", "d9/db1/a10465.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
-    [ "Read", "d9/db1/a10465.html#accbe1ced6a10ea2fa699df5e74575795", null ]
+    [ "GenericInstanceMapScript", "d9/db1/a10465.html#a39aef4c434d791f18fc04ea692bf2255", null ],
+    [ "GetInstanceScript", "d9/db1/a10465.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
 ];

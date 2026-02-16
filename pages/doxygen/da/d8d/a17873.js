@@ -1,10 +1,14 @@
 var a17873 =
 [
-    [ "FilterTargets", "da/d8d/a17873.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "da/d8d/a17873.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "da/d8d/a17873.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "da/d8d/a17873.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "da/d8d/a17873.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "da/d8d/a17873.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "da/d8d/a17873.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "npc_gunshipAI", "da/d8d/a17873.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "da/d8d/a17873.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "da/d8d/a17873.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "da/d8d/a17873.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "da/d8d/a17873.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "da/d8d/a17873.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "da/d8d/a17873.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "da/d8d/a17873.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "da/d8d/a17873.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "da/d8d/a17873.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "da/d8d/a17873.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

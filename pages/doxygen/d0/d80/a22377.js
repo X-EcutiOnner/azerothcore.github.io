@@ -1,6 +1,5 @@
 var a22377 =
 [
-    [ "npc_storm_cloudAI", "dc/d15/a22381.html", "dc/d15/a22381" ],
-    [ "npc_storm_cloud", "d0/d80/a22377.html#a8403185cdf54b2924024ba1d1d44a06a", null ],
-    [ "GetAI", "d0/d80/a22377.html#a952bd1cf5406b989182d8560d8b9e665", null ]
+    [ "OutdoorPvP_zangarmarsh", "d0/d80/a22377.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "d0/d80/a22377.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

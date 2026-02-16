@@ -1,7 +1,7 @@
 var a18389 =
 [
-    [ "npc_valithria_portalAI", "da/d1b/a18389.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "da/d1b/a18389.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "da/d1b/a18389.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "da/d1b/a18389.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "OnRemove", "da/d1b/a18389.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "da/d1b/a18389.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "da/d1b/a18389.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "da/d1b/a18389.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

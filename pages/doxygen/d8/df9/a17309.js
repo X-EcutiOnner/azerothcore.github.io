@@ -1,6 +1,6 @@
 var a17309 =
 [
-    [ "HandleScript", "d8/df9/a17309.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "d8/df9/a17309.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "d8/df9/a17309.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "instance_halls_of_reflection_InstanceMapScript", "d8/dfc/a17313.html", "d8/dfc/a17313" ],
+    [ "instance_halls_of_reflection", "d8/df9/a17309.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
+    [ "GetInstanceScript", "d8/df9/a17309.html#aca27a4f654f41fe6f238c905b48285b7", null ]
 ];

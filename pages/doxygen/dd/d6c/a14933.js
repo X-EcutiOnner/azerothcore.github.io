@@ -1,6 +1,6 @@
 var a14933 =
 [
-    [ "HandleDamageCalc", "dd/d6c/a14933.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "dd/d6c/a14933.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "dd/d6c/a14933.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "HandleScriptEffect", "dd/d6c/a14933.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "dd/d6c/a14933.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "dd/d6c/a14933.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

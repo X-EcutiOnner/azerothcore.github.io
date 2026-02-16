@@ -1,6 +1,7 @@
 var a12497 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "dc/de0/a12501.html", "dc/de0/a12501" ],
-    [ "instance_gnomeregan", "db/d77/a12497.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "db/d77/a12497.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "boss_urok_doomhowlAI", "db/d77/a12497.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "db/d77/a12497.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "db/d77/a12497.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "db/d77/a12497.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

@@ -1,8 +1,5 @@
 var a26893 =
 [
-    [ "CheckProc", "d7/ddf/a26893.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "d7/ddf/a26893.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "d7/ddf/a26893.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "d7/ddf/a26893.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "d7/ddf/a26893.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "achievement_sickly_gazelle", "d7/ddf/a26893.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d7/ddf/a26893.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

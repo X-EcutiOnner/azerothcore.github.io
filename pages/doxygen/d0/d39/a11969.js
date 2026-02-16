@@ -1,11 +1,14 @@
 var a11969 =
 [
-    [ "boss_gythAI", "d0/d39/a11969.html#aeec049af24b3a6f94051f1008ce107e6", null ],
-    [ "EnterEvadeMode", "d0/d39/a11969.html#a20296c618ad366d7ac956f16671cc408", null ],
-    [ "IsSummonedBy", "d0/d39/a11969.html#a6800421a2e9e889e649e792ee642d8ac", null ],
-    [ "JustDied", "d0/d39/a11969.html#a979da1f3922d9575b6c237b85952fb6c", null ],
-    [ "JustEngagedWith", "d0/d39/a11969.html#a6c0ca15d87851c205d94679ea65e5193", null ],
-    [ "JustSummoned", "d0/d39/a11969.html#ab9024ce261129c82d4304d2a13834a5f", null ],
-    [ "Reset", "d0/d39/a11969.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
-    [ "UpdateAI", "d0/d39/a11969.html#a66f27f6d49b40dcc2894f177b281570f", null ]
+    [ "deserter_commandscript", "d0/d39/a11969.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "d0/d39/a11969.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "d0/d39/a11969.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "d0/d39/a11969.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "d0/d39/a11969.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "d0/d39/a11969.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "d0/d39/a11969.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "d0/d39/a11969.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "d0/d39/a11969.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "d0/d39/a11969.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "d0/d39/a11969.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

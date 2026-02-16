@@ -1,6 +1,6 @@
 var a14405 =
 [
-    [ "HandleDummy", "db/def/a14405.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "db/def/a14405.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "db/def/a14405.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "boss_mandokirAI", "d3/dc2/a14409.html", "d3/dc2/a14409" ],
+    [ "boss_mandokir", "db/def/a14405.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "db/def/a14405.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

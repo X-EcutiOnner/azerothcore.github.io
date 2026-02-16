@@ -1,14 +1,12 @@
 var a12001 =
 [
-    [ "boss_mor_grayhoof", "d9/da0/a12001.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d9/da0/a12001.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d9/da0/a12001.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d9/da0/a12001.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d9/da0/a12001.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d9/da0/a12001.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d9/da0/a12001.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d9/da0/a12001.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d9/da0/a12001.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d9/da0/a12001.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d9/da0/a12001.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "guild_commandscript", "d9/da0/a12001.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "d9/da0/a12001.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "d9/da0/a12001.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "d9/da0/a12001.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "d9/da0/a12001.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "d9/da0/a12001.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "d9/da0/a12001.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "d9/da0/a12001.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "d9/da0/a12001.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

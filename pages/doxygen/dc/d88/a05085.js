@@ -1,4 +1,5 @@
 var a05085 =
 [
-    [ "makeNode", "dc/d88/a05085.html#a2104b0d323513c4bc2b69d78dc73f4f4", null ]
+    [ "hitModel", "dc/d88/a05085.html#a4802cb0c38ad72e7671cb77e1f3e6174", null ],
+    [ "rootId", "dc/d88/a05085.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

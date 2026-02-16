@@ -1,6 +1,10 @@
 var a09769 =
 [
-    [ "AllowMount", "d5/ddf/a09769.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "d5/ddf/a09769.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "d5/ddf/a09769.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "const_iterator", "d5/ddf/a09769.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
+    [ "StorageType", "d5/ddf/a09769.html#a6825a379d1af4254b920c14ab0068e7b", null ],
+    [ "BossBoundaryData", "d5/ddf/a09769.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
+    [ "~BossBoundaryData", "d5/ddf/a09769.html#a446a3ec16cdce76058761fce972f1e57", null ],
+    [ "begin", "d5/ddf/a09769.html#a326930360d22d5fdf9a895991f2c4e49", null ],
+    [ "end", "d5/ddf/a09769.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
+    [ "_data", "d5/ddf/a09769.html#af60e90664c434a8d36115ca5dec889b5", null ]
 ];

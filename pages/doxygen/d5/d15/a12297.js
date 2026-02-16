@@ -1,5 +1,6 @@
 var a12297 =
 [
-    [ "at_orb_of_command", "d5/d15/a12297.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "d5/d15/a12297.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "boss_hedrumAI", "d3/d99/a12301.html", "d3/d99/a12301" ],
+    [ "boss_hedrum", "d5/d15/a12297.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "d5/d15/a12297.html#a7033d315852aa4905784e957679ee261", null ]
 ];

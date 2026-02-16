@@ -1,6 +1,6 @@
 var a16097 =
 [
-    [ "HandleScript", "d8/dcb/a16097.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d8/dcb/a16097.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d8/dcb/a16097.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "HandleOpenLock", "d8/dcb/a16097.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d8/dcb/a16097.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d8/dcb/a16097.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

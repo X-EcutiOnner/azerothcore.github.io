@@ -1,6 +1,8 @@
 var a15221 =
 [
-    [ "npc_magwinAI", "d2/d66/a15225.html", "d2/d66/a15225" ],
-    [ "npc_magwin", "d6/dd6/a15221.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d6/dd6/a15221.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "Load", "d6/dd6/a15221.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d6/dd6/a15221.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d6/dd6/a15221.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d6/dd6/a15221.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d6/dd6/a15221.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

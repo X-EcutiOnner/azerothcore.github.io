@@ -1,6 +1,6 @@
 var a19425 =
 [
-    [ "CalculateDamage", "dc/dbf/a19425.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "dc/dbf/a19425.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "dc/dbf/a19425.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_maexxnaAI", "d2/d8c/a19429.html", "d2/d8c/a19429" ],
+    [ "boss_maexxna", "dc/dbf/a19425.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "dc/dbf/a19425.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

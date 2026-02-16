@@ -1,8 +1,7 @@
 var a15917 =
 [
-    [ "RestoreFight", "df/d6a/a15917.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "df/d6a/a15917.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "df/d6a/a15917.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "df/d6a/a15917.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "df/d6a/a15917.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "DelayedWindstoneSummonEvent", "df/d6a/a15917.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "df/d6a/a15917.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "df/d6a/a15917.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "df/d6a/a15917.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

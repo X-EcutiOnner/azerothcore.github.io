@@ -1,8 +1,9 @@
 var a19369 =
 [
-    [ "HandleOnEffectApply", "da/da4/a19369.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "da/da4/a19369.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "da/da4/a19369.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "da/da4/a19369.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "da/da4/a19369.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "boss_grobbulus_poison_cloudAI", "da/da4/a19369.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "da/da4/a19369.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "da/da4/a19369.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "da/da4/a19369.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "da/da4/a19369.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "da/da4/a19369.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

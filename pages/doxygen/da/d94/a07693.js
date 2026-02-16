@@ -1,5 +1,4 @@
 var a07693 =
 [
-    [ "IsColorValid", "da/d94/a07693.html#a816b3afba97af88a04cd5a724e9b663c", null ],
-    [ "IsTextValid", "da/d94/a07693.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
+    [ "TryConsume", "da/d94/a07693.html#a3868b3d4e55cdcd1c1591d8bd09bae5d", null ]
 ];

@@ -1,6 +1,7 @@
 var a20329 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d6/db8/a20333.html", "d6/db8/a20333" ],
-    [ "npc_ulduar_aerial_command_unit", "de/d8d/a20329.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "de/d8d/a20329.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "HandleAfterEffectApply", "de/d8d/a20329.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "de/d8d/a20329.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "de/d8d/a20329.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "de/d8d/a20329.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

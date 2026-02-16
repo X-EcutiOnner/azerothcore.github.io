@@ -1,5 +1,6 @@
 var a21089 =
 [
-    [ "npc_ritual_channelerAI", "d5/d3b/a21089.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d5/d3b/a21089.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "boss_koralonAI", "d4/d2c/a21093.html", "d4/d2c/a21093" ],
+    [ "boss_koralon", "d5/d3b/a21089.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d5/d3b/a21089.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

@@ -1,7 +1,6 @@
 var a14489 =
 [
-    [ "HandleOnHit", "d4/d31/a14489.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d4/d31/a14489.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d4/d31/a14489.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d4/d31/a14489.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "boss_wushoolayAI", "d4/d31/a14489.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d4/d31/a14489.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d4/d31/a14489.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

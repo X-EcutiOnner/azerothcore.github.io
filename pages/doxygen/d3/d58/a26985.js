@@ -1,5 +1,11 @@
 var a26985 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d3/d58/a26985.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d3/d58/a26985.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "npc_dream_fogAI", "d3/d58/a26985.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d3/d58/a26985.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d3/d58/a26985.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d3/d58/a26985.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d3/d58/a26985.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "d3/d58/a26985.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d3/d58/a26985.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d3/d58/a26985.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

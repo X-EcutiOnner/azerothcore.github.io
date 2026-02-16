@@ -1,8 +1,7 @@
 var a13141 =
 [
-    [ "npc_madrigosa", "db/d21/a13141.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "db/d21/a13141.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "db/d21/a13141.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "db/d21/a13141.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "db/d21/a13141.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "PeriodicTick", "db/d21/a13141.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "db/d21/a13141.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "db/d21/a13141.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "db/d21/a13141.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

@@ -1,9 +1,26 @@
 var a08489 =
 [
-    [ "ActionButton", "d7/d3c/a08489.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "d7/d3c/a08489.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "d7/d3c/a08489.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "d7/d3c/a08489.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "d7/d3c/a08489.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "d7/d3c/a08489.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "JumpInfo", "dd/d3d/a08497.html", "dd/d3d/a08497" ],
+    [ "TransportInfo", "db/dd6/a08493.html", "db/dd6/a08493" ],
+    [ "MovementInfo", "d7/d3c/a08489.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
+    [ "AddExtraMovementFlag", "d7/d3c/a08489.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
+    [ "AddMovementFlag", "d7/d3c/a08489.html#ae02908de40bf25e5d07d3bb248448a68", null ],
+    [ "GetExtraMovementFlags", "d7/d3c/a08489.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
+    [ "GetMovementFlags", "d7/d3c/a08489.html#ade08354701baa32b9ff232d6b07e6097", null ],
+    [ "HasExtraMovementFlag", "d7/d3c/a08489.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
+    [ "HasMovementFlag", "d7/d3c/a08489.html#ad9571cb899d58cc60fbe2412be79116e", null ],
+    [ "OutDebug", "d7/d3c/a08489.html#af8c4c6db42364ec712398b317238c90b", null ],
+    [ "RemoveMovementFlag", "d7/d3c/a08489.html#ab38114c14a8848a082b4f265eab11c72", null ],
+    [ "SetFallTime", "d7/d3c/a08489.html#a683565ad0865709083e81d07a8ce1395", null ],
+    [ "SetMovementFlags", "d7/d3c/a08489.html#ace324e7171c3520efdce76d2bbc75c67", null ],
+    [ "fallTime", "d7/d3c/a08489.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
+    [ "flags", "d7/d3c/a08489.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
+    [ "flags2", "d7/d3c/a08489.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
+    [ "guid", "d7/d3c/a08489.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
+    [ "jump", "d7/d3c/a08489.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
+    [ "pitch", "d7/d3c/a08489.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
+    [ "pos", "d7/d3c/a08489.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
+    [ "splineElevation", "d7/d3c/a08489.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
+    [ "time", "d7/d3c/a08489.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
+    [ "transport", "d7/d3c/a08489.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
 ];

@@ -1,7 +1,6 @@
 var a12177 =
 [
-    [ "HandleScript", "d5/d34/a12177.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d5/d34/a12177.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d5/d34/a12177.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d5/d34/a12177.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_vanndarAI", "d3/d37/a12181.html", "d3/d37/a12181" ],
+    [ "boss_vanndar", "d5/d34/a12177.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d5/d34/a12177.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

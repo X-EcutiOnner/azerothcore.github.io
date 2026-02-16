@@ -1,6 +1,14 @@
 var a20289 =
 [
-    [ "OnPeriodic", "db/d2b/a20289.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "db/d2b/a20289.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "db/d2b/a20289.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "npc_ulduar_hodir_druid", "db/d2b/a20289.html#afab822c1363aaf51a94bb002a531b4a8", null ],
+    [ "AttackStart", "db/d2b/a20289.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "db/d2b/a20289.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "EnterEvadeMode", "db/d2b/a20289.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "db/d2b/a20289.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "db/d2b/a20289.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "db/d2b/a20289.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "db/d2b/a20289.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "db/d2b/a20289.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "events", "db/d2b/a20289.html#a323184c52fcbc3e18eb74c96db716327", null ],
+    [ "pInstance", "db/d2b/a20289.html#a2c5e8b14d1feedc6ff6f4634653e9b47", null ]
 ];

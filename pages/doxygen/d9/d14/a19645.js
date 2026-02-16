@@ -1,7 +1,8 @@
 var a19645 =
 [
-    [ "HandlePeriodic", "d9/d14/a19645.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d9/d14/a19645.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d9/d14/a19645.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d9/d14/a19645.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "npc_crystal_spike", "d9/d14/a19645.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d9/d14/a19645.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d9/d14/a19645.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d9/d14/a19645.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d9/d14/a19645.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

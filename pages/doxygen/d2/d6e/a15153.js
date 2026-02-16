@@ -1,8 +1,7 @@
 var a15153 =
 [
-    [ "npc_obsidian_nullifier", "d2/d6e/a15153.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "d2/d6e/a15153.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "d2/d6e/a15153.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "d2/d6e/a15153.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "d2/d6e/a15153.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "boss_epoch_hunter", "d2/d6e/a15153.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d2/d6e/a15153.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d2/d6e/a15153.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d2/d6e/a15153.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

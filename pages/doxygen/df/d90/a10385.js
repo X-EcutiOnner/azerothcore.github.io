@@ -1,13 +1,10 @@
 var a10385 =
 [
-    [ "ScriptObject", "df/d90/a10385.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "df/d90/a10385.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "df/d90/a10385.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "df/d90/a10385.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "df/d90/a10385.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "df/d90/a10385.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "df/d90/a10385.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "df/d90/a10385.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "df/d90/a10385.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "df/d90/a10385.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "ArenaTeamScript", "df/d90/a10385.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "df/d90/a10385.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "df/d90/a10385.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "df/d90/a10385.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "df/d90/a10385.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "df/d90/a10385.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "df/d90/a10385.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

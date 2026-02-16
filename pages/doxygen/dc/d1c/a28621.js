@@ -1,13 +1,15 @@
 var a28621 =
 [
-    [ "liquidTris", "dc/d1c/a28621.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "dc/d1c/a28621.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "dc/d1c/a28621.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "dc/d1c/a28621.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "dc/d1c/a28621.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "dc/d1c/a28621.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "dc/d1c/a28621.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "dc/d1c/a28621.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "dc/d1c/a28621.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "dc/d1c/a28621.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "prepareLoadedData", "dc/d1c/a28621.html#ace847b2eee40844bb3fa880e3c1d1aa5", null ],
+    [ "data1", "dc/d1c/a28621.html#a9e2886eb133eb0e0bc8fa21a5b166d20", null ],
+    [ "data2", "dc/d1c/a28621.html#a53f0a49fd2de7f29032556fe3a4e9110", null ],
+    [ "data3", "dc/d1c/a28621.html#a2092bb81ccdea07c4752a2df49cba4c2", null ],
+    [ "data4", "dc/d1c/a28621.html#a2bfc7b7268caaa684c6fece0d0769b9e", null ],
+    [ "data5", "dc/d1c/a28621.html#a9536fcb98293d1c09a1975b753f02ae8", null ],
+    [ "data6", "dc/d1c/a28621.html#ad43914a6df430c32a0c2f56bb8f1f4d7", null ],
+    [ "data7", "dc/d1c/a28621.html#a7508e9fa38ab965ecf8e21b1f859a918", null ],
+    [ "data8", "dc/d1c/a28621.html#ae926543e029695e268ed950edf625bdb", null ],
+    [ "fcc", "dc/d1c/a28621.html#aa0ccc34e7e7a2de4e9866819dbe0c72a", null ],
+    [ "fcc_txt", "dc/d1c/a28621.html#aaa61a13b39e23a3efba960645e3e14a9", null ],
+    [ "size", "dc/d1c/a28621.html#a1af89d5193eff2f32cf37d131f9ef7b8", null ]
 ];

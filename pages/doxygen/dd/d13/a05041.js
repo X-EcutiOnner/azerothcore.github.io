@@ -1,14 +1,22 @@
 var a05041 =
 [
-    [ "ModelInstance", "dd/d13/a05041.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "dd/d13/a05041.html#a1d29459f4f79da938ae969509246fcf1", null ],
-    [ "GetLiquidLevel", "dd/d13/a05041.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "dd/d13/a05041.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "dd/d13/a05041.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectPoint", "dd/d13/a05041.html#a991622da72fe08d812f49f20f0a2df17", null ],
-    [ "intersectRay", "dd/d13/a05041.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "setUnloaded", "dd/d13/a05041.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
-    [ "iInvRot", "dd/d13/a05041.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "dd/d13/a05041.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "dd/d13/a05041.html#ac0b95c6fde838667e007781bde2f2917", null ]
+    [ "IVMapMgr", "dd/d13/a05041.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
+    [ "~IVMapMgr", "dd/d13/a05041.html#adbc38672af6f30bc4887d2737e6097e5", null ],
+    [ "existsMap", "dd/d13/a05041.html#a5eaf056f98ad00308f22cad73ee80f15", null ],
+    [ "GetAreaAndLiquidData", "dd/d13/a05041.html#ac17b229d946f2c21426c0c7de5af3c3b", null ],
+    [ "getDirFileName", "dd/d13/a05041.html#a6fb9bd31760b72279499e5e884d12a04", null ],
+    [ "getHeight", "dd/d13/a05041.html#a583f740a47a711a78b54a0258eaf8397", null ],
+    [ "GetObjectHitPos", "dd/d13/a05041.html#a8912f3e1bcd483135b1b1142a600b292", null ],
+    [ "isHeightCalcEnabled", "dd/d13/a05041.html#a0a3b250f0674709fac851c6e63bedd51", null ],
+    [ "isInLineOfSight", "dd/d13/a05041.html#acd3df65694d3e3056e22bd18df1d0180", null ],
+    [ "isLineOfSightCalcEnabled", "dd/d13/a05041.html#a9b88973ec447dee3a990e11f1fa74873", null ],
+    [ "isMapLoadingEnabled", "dd/d13/a05041.html#ae327405db5140e3a27fe767be8ca8a66", null ],
+    [ "loadMap", "dd/d13/a05041.html#a9461e8842f22b0c427d06ddf8722516a", null ],
+    [ "processCommand", "dd/d13/a05041.html#a8697455fead0cfed30ba955c9abf934f", null ],
+    [ "setEnableHeightCalc", "dd/d13/a05041.html#a5642a08f1cbd688985314fb821525c95", null ],
+    [ "setEnableLineOfSightCalc", "dd/d13/a05041.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
+    [ "unloadMap", "dd/d13/a05041.html#a8535bdfe4ecab2a8eda481d1d4aebc6b", null ],
+    [ "unloadMap", "dd/d13/a05041.html#a6504f0b576862fa86271bf19a9d20332", null ],
+    [ "iEnableHeightCalc", "dd/d13/a05041.html#a3ce407c232386fbe00958660457474e4", null ],
+    [ "iEnableLineOfSightCalc", "dd/d13/a05041.html#a83c2317151591bf2c72d33e19007125a", null ]
 ];

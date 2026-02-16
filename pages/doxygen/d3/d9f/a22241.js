@@ -1,7 +1,9 @@
 var a22241 =
 [
-    [ "npc_wg_demolisher_engineer", "d3/d9f/a22241.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d3/d9f/a22241.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d3/d9f/a22241.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d3/d9f/a22241.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_finklesteinAI", "d1/d58/a22245.html", "d1/d58/a22245" ],
+    [ "npc_finklestein", "d3/d9f/a22241.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d3/d9f/a22241.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d3/d9f/a22241.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d3/d9f/a22241.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d3/d9f/a22241.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

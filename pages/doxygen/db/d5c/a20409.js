@@ -1,5 +1,7 @@
 var a20409 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "db/d5c/a20409.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "db/d5c/a20409.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "boss_kologarn_pit_kill_bunny", "db/d5c/a20409.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "db/d5c/a20409.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "db/d5c/a20409.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "db/d5c/a20409.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

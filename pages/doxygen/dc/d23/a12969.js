@@ -1,16 +1,18 @@
 var a12969 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "dc/d23/a12969.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "dc/d23/a12969.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "dc/d23/a12969.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "dc/d23/a12969.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "dc/d23/a12969.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "dc/d23/a12969.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "dc/d23/a12969.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "dc/d23/a12969.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "dc/d23/a12969.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "dc/d23/a12969.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "dc/d23/a12969.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "dc/d23/a12969.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "dc/d23/a12969.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "boss_moroes", "dc/d23/a12969.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "dc/d23/a12969.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "dc/d23/a12969.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeAI", "dc/d23/a12969.html#a1bba38840a7e6f09720ce33c51802a77", null ],
+    [ "InitializeGuests", "dc/d23/a12969.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "dc/d23/a12969.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "dc/d23/a12969.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "JustReachedHome", "dc/d23/a12969.html#ad67598edc4034dd87ba5260d5f19fd3d", null ],
+    [ "KilledUnit", "dc/d23/a12969.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "dc/d23/a12969.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "dc/d23/a12969.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "dc/d23/a12969.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "dc/d23/a12969.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_recentlySpoken", "dc/d23/a12969.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
+    [ "_vanished", "dc/d23/a12969.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

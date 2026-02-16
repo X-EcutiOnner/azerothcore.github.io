@@ -1,6 +1,8 @@
 var a12193 =
 [
-    [ "boss_firemawAI", "d8/d18/a12193.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d8/d18/a12193.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d8/d18/a12193.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "ironhand_guardianAI", "d8/d18/a12193.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "d8/d18/a12193.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "d8/d18/a12193.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "d8/d18/a12193.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "d8/d18/a12193.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

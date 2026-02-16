@@ -1,13 +1,7 @@
 var a24365 =
 [
-    [ "npc_pet_mage_mirror_image", "dd/dd7/a24365.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "dd/dd7/a24365.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "dd/dd7/a24365.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "dd/dd7/a24365.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "dd/dd7/a24365.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "dd/dd7/a24365.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "dd/dd7/a24365.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "dd/dd7/a24365.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "dd/dd7/a24365.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "dd/dd7/a24365.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "CorpseExplosionCheck", "dd/dd7/a24365.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "dd/dd7/a24365.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "dd/dd7/a24365.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "dd/dd7/a24365.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

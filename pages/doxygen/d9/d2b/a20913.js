@@ -1,6 +1,9 @@
 var a20913 =
 [
-    [ "instance_ulduar_InstanceMapScript", "dc/d7e/a20917.html", "dc/d7e/a20917" ],
-    [ "instance_ulduar", "d9/d2b/a20913.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d9/d2b/a20913.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "npc_vrykul_skeleton", "d9/d2b/a20913.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d9/d2b/a20913.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d9/d2b/a20913.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d9/d2b/a20913.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d9/d2b/a20913.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d9/d2b/a20913.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

@@ -1,5 +1,5 @@
 var a12329 =
 [
-    [ "npc_garr_fireswornAI", "d4/dfc/a12329.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "d4/dfc/a12329.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "boss_moira_bronzebeard", "d4/dfc/a12329.html#abb9a87023b8afa242e60f9694dea1c39", null ],
+    [ "GetAI", "d4/dfc/a12329.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
 ];

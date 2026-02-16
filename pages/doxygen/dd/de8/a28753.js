@@ -1,5 +1,7 @@
 var a28753 =
 [
-    [ "achievement_not_even_a_scratch", "dd/de8/a28753.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "dd/de8/a28753.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "Paths", "dd/de8/a28753.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "dd/de8/a28753.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "dd/de8/a28753.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "dd/de8/a28753.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

@@ -1,6 +1,7 @@
 var a16821 =
 [
-    [ "npc_hor_lich_kingAI", "d0/d60/a16825.html", "d0/d60/a16825" ],
-    [ "npc_hor_lich_king", "dd/d22/a16821.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "dd/d22/a16821.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "npc_toc_enh_shamanAI", "dd/d22/a16821.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "dd/d22/a16821.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "dd/d22/a16821.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "dd/d22/a16821.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

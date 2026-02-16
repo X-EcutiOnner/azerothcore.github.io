@@ -1,8 +1,7 @@
 var a19541 =
 [
-    [ "dark_rune_stormcallerAI", "d2/dc8/a19541.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "d2/dc8/a19541.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "d2/dc8/a19541.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "d2/dc8/a19541.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "d2/dc8/a19541.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "npc_naxxramas_trigger", "d2/dc8/a19541.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d2/dc8/a19541.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d2/dc8/a19541.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d2/dc8/a19541.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

@@ -1,7 +1,6 @@
 var a19977 =
 [
-    [ "boss_freya_lifebinderAI", "d0/d19/a19977.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "d0/d19/a19977.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "d0/d19/a19977.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "d0/d19/a19977.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "PrepareSpellScript", "d0/d19/a19977.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/d19/a19977.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/d19/a19977.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

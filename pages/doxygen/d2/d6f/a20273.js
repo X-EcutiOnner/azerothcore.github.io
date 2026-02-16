@@ -1,7 +1,7 @@
 var a20273 =
 [
-    [ "FilterTargetsInitial", "d2/d6f/a20273.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d2/d6f/a20273.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d2/d6f/a20273.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d2/d6f/a20273.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_icicle", "d2/d6f/a20273.html#af52ccbf93e54673f8a91dcea682d9e9b", null ],
+    [ "UpdateAI", "d2/d6f/a20273.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d2/d6f/a20273.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d2/d6f/a20273.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

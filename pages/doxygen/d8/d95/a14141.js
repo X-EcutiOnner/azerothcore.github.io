@@ -1,6 +1,5 @@
 var a14141 =
 [
-    [ "go_direbrew_mole_machineAI", "d9/d29/a14145.html", "d9/d29/a14145" ],
-    [ "go_direbrew_mole_machine", "d8/d95/a14141.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d8/d95/a14141.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "npc_mikhail", "d8/d95/a14141.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d8/d95/a14141.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

@@ -1,6 +1,7 @@
 var a23261 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d3/d6d/a23265.html", "d3/d6d/a23265" ],
-    [ "instance_the_slave_pens", "d4/de2/a23261.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d4/de2/a23261.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "CalcPeriodic", "d4/de2/a23261.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d4/de2/a23261.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d4/de2/a23261.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d4/de2/a23261.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

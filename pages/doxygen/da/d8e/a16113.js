@@ -1,6 +1,7 @@
 var a16113 =
 [
-    [ "boss_eadricAI", "d2/ddb/a16117.html", "d2/ddb/a16117" ],
-    [ "boss_eadric", "da/d8e/a16113.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "da/d8e/a16113.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "go_troll_cageAI", "da/d8e/a16113.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "da/d8e/a16113.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "da/d8e/a16113.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "da/d8e/a16113.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

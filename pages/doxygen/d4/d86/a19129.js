@@ -1,6 +1,6 @@
 var a19129 =
 [
-    [ "npc_vortex_rideAI", "d9/dba/a19133.html", "d9/dba/a19133" ],
-    [ "npc_vortex_ride", "d4/d86/a19129.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "d4/d86/a19129.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "npc_icc_valkyr_heraldAI", "d9/dba/a19133.html", "d9/dba/a19133" ],
+    [ "npc_icc_valkyr_herald", "d4/d86/a19129.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d4/d86/a19129.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

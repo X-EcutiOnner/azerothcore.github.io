@@ -1,5 +1,6 @@
 var a22465 =
 [
-    [ "OutdoorPvP_terokkar_forest", "dc/de7/a22465.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "dc/de7/a22465.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "db/d3a/a22469.html", "db/d3a/a22469" ],
+    [ "instance_sethekk_halls", "dc/de7/a22465.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "dc/de7/a22465.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

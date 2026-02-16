@@ -1,10 +1,11 @@
 var a13469 =
 [
-    [ "npc_partygoer_pather", "d9/dc2/a13469.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d9/dc2/a13469.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d9/dc2/a13469.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d9/dc2/a13469.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d9/dc2/a13469.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d9/dc2/a13469.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d9/dc2/a13469.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "npc_scholomance_occultistAI", "d9/dc2/a13469.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "d9/dc2/a13469.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "d9/dc2/a13469.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "d9/dc2/a13469.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "d9/dc2/a13469.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "d9/dc2/a13469.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "d9/dc2/a13469.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "d9/dc2/a13469.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

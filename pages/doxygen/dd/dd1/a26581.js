@@ -1,8 +1,8 @@
 var a26581 =
 [
-    [ "Apply", "dd/dd1/a26581.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "dd/dd1/a26581.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "dd/dd1/a26581.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "dd/dd1/a26581.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "dd/dd1/a26581.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "CheckProc", "dd/dd1/a26581.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "dd/dd1/a26581.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "dd/dd1/a26581.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "dd/dd1/a26581.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "dd/dd1/a26581.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

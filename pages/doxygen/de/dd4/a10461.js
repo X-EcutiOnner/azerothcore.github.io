@@ -1,5 +1,7 @@
 var a10461 =
 [
-    [ "LogoutCancelAck", "de/dd4/a10461.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
-    [ "Write", "de/dd4/a10461.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
+    [ "InstanceMapScript", "de/dd4/a10461.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "de/dd4/a10461.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "de/dd4/a10461.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "de/dd4/a10461.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

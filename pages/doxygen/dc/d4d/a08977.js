@@ -1,6 +1,10 @@
 var a08977 =
 [
-    [ "EmoteDelay", "dc/d4d/a08977.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "dc/d4d/a08977.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "dc/d4d/a08977.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "mapId", "dc/d4d/a08977.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "dc/d4d/a08977.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "dc/d4d/a08977.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "dc/d4d/a08977.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "dc/d4d/a08977.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "dc/d4d/a08977.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "dc/d4d/a08977.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

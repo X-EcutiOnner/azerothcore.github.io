@@ -1,6 +1,11 @@
 var a21065 =
 [
-    [ "boss_skadi_graufAI", "db/d4c/a21069.html", "db/d4c/a21069" ],
-    [ "boss_skadi_grauf", "d1/de2/a21065.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "d1/de2/a21065.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "boss_archavonAI", "d1/de2/a21065.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d1/de2/a21065.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d1/de2/a21065.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d1/de2/a21065.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d1/de2/a21065.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d1/de2/a21065.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d1/de2/a21065.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d1/de2/a21065.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

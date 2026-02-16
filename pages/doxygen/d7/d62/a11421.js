@@ -1,9 +1,9 @@
 var a11421 =
 [
-    [ "bytes", "d7/d62/a11421.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d7/d62/a11421.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d7/d62/a11421.html#ad0213e5de805b0decb4730efa2d412e0", null ],
-    [ "ints", "d7/d62/a11421.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d7/d62/a11421.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d7/d62/a11421.html#a36edc530bfb803c2f122e6758d20193a", null ]
+    [ "SpellEvent", "d7/d62/a11421.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d7/d62/a11421.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d7/d62/a11421.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d7/d62/a11421.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d7/d62/a11421.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d7/d62/a11421.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

@@ -1,7 +1,7 @@
 var a08033 =
 [
-    [ "VendorItemCount", "da/df5/a08033.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "da/df5/a08033.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "da/df5/a08033.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "da/df5/a08033.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "LfgJoinResultData", "da/df5/a08033.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "da/df5/a08033.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "da/df5/a08033.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "da/df5/a08033.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

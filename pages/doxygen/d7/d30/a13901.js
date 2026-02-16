@@ -1,6 +1,6 @@
 var a13901 =
 [
-    [ "HandleOnHit", "d7/d30/a13901.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d7/d30/a13901.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d7/d30/a13901.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d3/d9e/a13905.html", "d3/d9e/a13905" ],
+    [ "npc_balance_of_light_and_shadow", "d7/d30/a13901.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d7/d30/a13901.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

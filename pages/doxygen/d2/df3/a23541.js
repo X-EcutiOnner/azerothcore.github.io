@@ -1,6 +1,7 @@
 var a23541 =
 [
-    [ "PrepareSpellScript", "d2/df3/a23541.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d2/df3/a23541.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d2/df3/a23541.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "AfterApply", "d2/df3/a23541.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d2/df3/a23541.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d2/df3/a23541.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d2/df3/a23541.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

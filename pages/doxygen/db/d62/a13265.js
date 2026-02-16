@@ -1,10 +1,6 @@
 var a13265 =
 [
-    [ "MoveDelayed", "db/d62/a13265.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "db/d62/a13265.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "db/d62/a13265.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "db/d62/a13265.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "db/d62/a13265.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "db/d62/a13265.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "db/d62/a13265.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "CheckRequirement", "db/d62/a13265.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "db/d62/a13265.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "db/d62/a13265.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

@@ -1,9 +1,8 @@
 var a14869 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d9/d4e/a14869.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d9/d4e/a14869.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d9/d4e/a14869.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d9/d4e/a14869.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d9/d4e/a14869.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d9/d4e/a14869.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "CheckCast", "d9/d4e/a14869.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d9/d4e/a14869.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d9/d4e/a14869.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d9/d4e/a14869.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d9/d4e/a14869.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

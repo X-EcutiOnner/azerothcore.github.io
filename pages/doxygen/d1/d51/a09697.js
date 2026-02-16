@@ -1,26 +1,10 @@
 var a09697 =
 [
-    [ "AddItem", "d1/d51/a09697.html#ab39b529b190bafe093a7931311c24626", null ],
-    [ "HasItems", "d1/d51/a09697.html#a0997971db668abca530f1869d71828dc", null ],
-    [ "IsCODPayment", "d1/d51/a09697.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
-    [ "IsReturnedMail", "d1/d51/a09697.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
-    [ "IsSentByGM", "d1/d51/a09697.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
-    [ "IsSentByPlayer", "d1/d51/a09697.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
-    [ "RemoveItem", "d1/d51/a09697.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
-    [ "body", "d1/d51/a09697.html#aaa91a94ee92b2712218a9cae389554f7", null ],
-    [ "checked", "d1/d51/a09697.html#ae3198d4379f7f783aa40b180311ca970", null ],
-    [ "COD", "d1/d51/a09697.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
-    [ "deliver_time", "d1/d51/a09697.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
-    [ "expire_time", "d1/d51/a09697.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
-    [ "items", "d1/d51/a09697.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
-    [ "mailTemplateId", "d1/d51/a09697.html#afefffec74369d920ce395f1a04d8838c", null ],
-    [ "messageID", "d1/d51/a09697.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
-    [ "messageType", "d1/d51/a09697.html#a240dfdc4b89b7cb806330460d5256a44", null ],
-    [ "money", "d1/d51/a09697.html#af326068e66a3091aa731186e5e3295ed", null ],
-    [ "receiver", "d1/d51/a09697.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
-    [ "removedItems", "d1/d51/a09697.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
-    [ "sender", "d1/d51/a09697.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
-    [ "state", "d1/d51/a09697.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
-    [ "stationery", "d1/d51/a09697.html#a88588149be95899c2fc30b144c4425a6", null ],
-    [ "subject", "d1/d51/a09697.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
+    [ "PlayerMoveItemData", "d1/d51/a09697.html#a2f707719b409975ddd3023d2239403d6", null ],
+    [ "CanStore", "d1/d51/a09697.html#a00680db86d45ad8e8652218fce05139d", null ],
+    [ "InitItem", "d1/d51/a09697.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
+    [ "IsBank", "d1/d51/a09697.html#ae4d45104dccf78581b4228a31fe192ad", null ],
+    [ "LogBankEvent", "d1/d51/a09697.html#a36516c5ca1aaa13afa9e61831a175068", null ],
+    [ "RemoveItem", "d1/d51/a09697.html#a482460f04b20349e909bac36f893a35a", null ],
+    [ "StoreItem", "d1/d51/a09697.html#a017e3bd414548e66f980587e81e598e5", null ]
 ];

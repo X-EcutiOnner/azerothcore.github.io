@@ -1,7 +1,6 @@
 var a21985 =
 [
-    [ "GetSeatNumber", "dd/d80/a21985.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "dd/d80/a21985.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "dd/d80/a21985.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "dd/d80/a21985.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_vekjik", "dd/d80/a21985.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "dd/d80/a21985.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "dd/d80/a21985.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

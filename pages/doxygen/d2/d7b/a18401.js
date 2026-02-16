@@ -1,6 +1,7 @@
 var a18401 =
 [
-    [ "npc_blazing_skeletonAI", "d9/df6/a18405.html", "d9/df6/a18405" ],
-    [ "npc_blazing_skeleton", "d2/d7b/a18401.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d2/d7b/a18401.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "PeriodicTick", "d2/d7b/a18401.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d2/d7b/a18401.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d2/d7b/a18401.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d2/d7b/a18401.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

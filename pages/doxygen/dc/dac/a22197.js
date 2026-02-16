@@ -1,9 +1,8 @@
 var a22197 =
 [
-    [ "npc_brunnhildar_prisonerAI", "dc/dac/a22197.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "dc/dac/a22197.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "dc/dac/a22197.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "dc/dac/a22197.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "dc/dac/a22197.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "dc/dac/a22197.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "go_wg_vehicle_teleporterAI", "dc/dac/a22197.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "dc/dac/a22197.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "dc/dac/a22197.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "dc/dac/a22197.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "dc/dac/a22197.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

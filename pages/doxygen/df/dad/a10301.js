@@ -1,6 +1,12 @@
 var a10301 =
 [
-    [ "LootScript", "df/dad/a10301.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "df/dad/a10301.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "df/dad/a10301.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "QuestLocale", "df/dad/a10301.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "df/dad/a10301.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "df/dad/a10301.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "df/dad/a10301.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "df/dad/a10301.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "df/dad/a10301.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "df/dad/a10301.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "df/dad/a10301.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "df/dad/a10301.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

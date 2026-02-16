@@ -1,7 +1,9 @@
 var a22125 =
 [
-    [ "HandleSendEvent", "d1/d49/a22125.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d1/d49/a22125.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d1/d49/a22125.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d1/d49/a22125.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "HandlePeriodic", "d1/d49/a22125.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d1/d49/a22125.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d1/d49/a22125.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d1/d49/a22125.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d1/d49/a22125.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d1/d49/a22125.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

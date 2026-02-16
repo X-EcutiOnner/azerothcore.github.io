@@ -1,7 +1,8 @@
 var a13365 =
 [
-    [ "HandleAfterCast", "dd/dd0/a13365.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "dd/dd0/a13365.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "dd/dd0/a13365.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "dd/dd0/a13365.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "CheckCast", "dd/dd0/a13365.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "dd/dd0/a13365.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "dd/dd0/a13365.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "dd/dd0/a13365.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "dd/dd0/a13365.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

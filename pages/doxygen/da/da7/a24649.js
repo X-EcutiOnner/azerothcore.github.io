@@ -1,9 +1,9 @@
 var a24649 =
 [
-    [ "Absorb", "da/da7/a24649.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "da/da7/a24649.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "da/da7/a24649.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "da/da7/a24649.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "da/da7/a24649.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "da/da7/a24649.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "PrepareAuraScript", "da/da7/a24649.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "da/da7/a24649.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "da/da7/a24649.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "da/da7/a24649.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "da/da7/a24649.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "da/da7/a24649.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

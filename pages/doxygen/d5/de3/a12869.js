@@ -1,6 +1,6 @@
 var a12869 =
 [
-    [ "npc_scarlet_minerAI", "d8/d9e/a12873.html", "d8/d9e/a12873" ],
-    [ "npc_scarlet_miner", "d5/de3/a12869.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
-    [ "GetAI", "d5/de3/a12869.html#abd2973972788ce9b39572aaa819d0690", null ]
+    [ "instance_molten_core_InstanceMapScript", "d8/d9e/a12873.html", "d8/d9e/a12873" ],
+    [ "instance_molten_core", "d5/de3/a12869.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "d5/de3/a12869.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

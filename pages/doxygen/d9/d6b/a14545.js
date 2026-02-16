@@ -1,7 +1,7 @@
 var a14545 =
 [
-    [ "OnPeriodic", "d9/d6b/a14545.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d9/d6b/a14545.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d9/d6b/a14545.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d9/d6b/a14545.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "FilterTargets", "d9/d6b/a14545.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d9/d6b/a14545.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d9/d6b/a14545.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d9/d6b/a14545.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

@@ -1,7 +1,6 @@
 var a16057 =
 [
-    [ "TwilightCutterSelector", "d5/d05/a16057.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d5/d05/a16057.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d5/d05/a16057.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d5/d05/a16057.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "npc_rivern_frostwind", "d5/d05/a16057.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "d5/d05/a16057.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "d5/d05/a16057.html#a067ff91179f551633594d488eda269ed", null ]
 ];

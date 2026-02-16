@@ -1,8 +1,8 @@
 var a24885 =
 [
-    [ "HandleEffectCalcPeriodic", "de/d4f/a24885.html#a78c46695cab8da2280686ea49d88f036", null ],
-    [ "HandleEffectPeriodic", "de/d4f/a24885.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
-    [ "HandleOnEffectRemove", "de/d4f/a24885.html#af722cf30e478802784178a9346bd1bdd", null ],
-    [ "PrepareAuraScript", "de/d4f/a24885.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
-    [ "Register", "de/d4f/a24885.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
+    [ "AchievementCredit", "de/d4f/a24885.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "de/d4f/a24885.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "de/d4f/a24885.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "de/d4f/a24885.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "de/d4f/a24885.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

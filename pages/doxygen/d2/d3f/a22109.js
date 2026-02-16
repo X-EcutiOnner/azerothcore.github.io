@@ -1,6 +1,6 @@
 var a22109 =
 [
-    [ "npc_jungle_punch_targetAI", "d1/d6f/a22113.html", "d1/d6f/a22113" ],
-    [ "npc_jungle_punch_target", "d2/d3f/a22109.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d2/d3f/a22109.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d2/d3f/a22109.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d2/d3f/a22109.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d2/d3f/a22109.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

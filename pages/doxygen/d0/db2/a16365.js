@@ -1,7 +1,7 @@
 var a16365 =
 [
-    [ "npc_toc_dkAI", "d0/db2/a16365.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d0/db2/a16365.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d0/db2/a16365.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d0/db2/a16365.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d0/db2/a16365.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d0/db2/a16365.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d0/db2/a16365.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d0/db2/a16365.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

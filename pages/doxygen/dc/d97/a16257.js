@@ -1,6 +1,7 @@
 var a16257 =
 [
-    [ "npc_anubarak_spikeAI", "d5/d79/a16261.html", "d5/d79/a16261" ],
-    [ "npc_anubarak_spike", "dc/d97/a16257.html#a4e96de1910c23311ad4644960ccd5022", null ],
-    [ "GetAI", "dc/d97/a16257.html#a7d55b321eb7e595fe5886dc382134947", null ]
+    [ "HandleEffectRemove", "dc/d97/a16257.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "dc/d97/a16257.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "dc/d97/a16257.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "dc/d97/a16257.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

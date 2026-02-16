@@ -1,7 +1,8 @@
 var a11041 =
 [
-    [ "DynObjAura", "db/d3b/a11041.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "db/d3b/a11041.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "db/d3b/a11041.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "db/d3b/a11041.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "PlayObjectSound", "db/d3b/a11041.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "db/d3b/a11041.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "db/d3b/a11041.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "db/d3b/a11041.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "db/d3b/a11041.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

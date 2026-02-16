@@ -1,10 +1,6 @@
 var a23137 =
 [
-    [ "boss_morogrim_tidewalker", "db/d86/a23137.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "db/d86/a23137.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "db/d86/a23137.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "db/d86/a23137.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "db/d86/a23137.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "db/d86/a23137.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "db/d86/a23137.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "HandleScript", "db/d86/a23137.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "db/d86/a23137.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "db/d86/a23137.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

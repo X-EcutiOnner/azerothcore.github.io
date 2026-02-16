@@ -1,6 +1,7 @@
 var a19573 =
 [
-    [ "boss_algalon_the_observerAI", "dc/d30/a19577.html", "dc/d30/a19577" ],
-    [ "boss_algalon_the_observer", "de/db1/a19573.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "de/db1/a19573.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "npc_alexstrasza", "de/db1/a19573.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "de/db1/a19573.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "de/db1/a19573.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "de/db1/a19573.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

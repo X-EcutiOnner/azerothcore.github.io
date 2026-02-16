@@ -1,6 +1,7 @@
 var a24841 =
 [
-    [ "OnPeriodic", "da/de0/a24841.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
-    [ "PrepareAuraScript", "da/de0/a24841.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
-    [ "Register", "da/de0/a24841.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
+    [ "HandleEffectApply", "da/de0/a24841.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "da/de0/a24841.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "da/de0/a24841.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "da/de0/a24841.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

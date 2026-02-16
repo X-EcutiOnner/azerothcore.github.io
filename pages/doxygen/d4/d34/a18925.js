@@ -1,7 +1,8 @@
 var a18925 =
 [
-    [ "FilterTargets", "d4/d34/a18925.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d4/d34/a18925.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d4/d34/a18925.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d4/d34/a18925.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "npc_rotting_frost_giantAI", "d4/d34/a18925.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d4/d34/a18925.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d4/d34/a18925.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d4/d34/a18925.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d4/d34/a18925.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

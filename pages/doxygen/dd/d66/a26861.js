@@ -1,6 +1,5 @@
 var a26861 =
 [
-    [ "FilterTargets", "dd/d66/a26861.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "dd/d66/a26861.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "dd/d66/a26861.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "achievement_resilient_victory", "dd/d66/a26861.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "dd/d66/a26861.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

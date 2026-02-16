@@ -1,6 +1,6 @@
 var a21261 =
 [
-    [ "HandleEffectPeriodic", "df/de7/a21261.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "df/de7/a21261.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "df/de7/a21261.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_azure_binderAI", "d6/db6/a21265.html", "d6/db6/a21265" ],
+    [ "npc_azure_binder", "df/de7/a21261.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "df/de7/a21261.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

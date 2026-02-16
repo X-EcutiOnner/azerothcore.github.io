@@ -1,7 +1,6 @@
 var a23645 =
 [
-    [ "AfterApply", "d6/db7/a23645.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d6/db7/a23645.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d6/db7/a23645.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d6/db7/a23645.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "HandleScriptEffect", "d6/db7/a23645.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
+    [ "PrepareSpellScript", "d6/db7/a23645.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
+    [ "Register", "d6/db7/a23645.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
 ];

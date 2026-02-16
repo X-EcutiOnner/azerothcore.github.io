@@ -1,7 +1,8 @@
 var a12797 =
 [
-    [ "HandleScriptEffect", "d9/d27/a12797.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "d9/d27/a12797.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "d9/d27/a12797.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "d9/d27/a12797.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "MajordomoAddData", "d9/d27/a12797.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d9/d27/a12797.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d9/d27/a12797.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d9/d27/a12797.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d9/d27/a12797.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

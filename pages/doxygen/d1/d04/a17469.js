@@ -1,5 +1,5 @@
 var a17469 =
 [
-    [ "npc_zafod_boomboxAI", "d1/d04/a17469.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d1/d04/a17469.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "endPosition", "d1/d04/a17469.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d1/d04/a17469.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

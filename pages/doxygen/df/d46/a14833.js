@@ -1,6 +1,7 @@
 var a14833 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "db/d7e/a14837.html", "db/d7e/a14837" ],
-    [ "instance_razorfen_kraul", "df/d46/a14833.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "df/d46/a14833.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "HandleEffectApply", "df/d46/a14833.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "df/d46/a14833.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "df/d46/a14833.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "df/d46/a14833.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

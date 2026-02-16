@@ -1,6 +1,6 @@
 var a11229 =
 [
-    [ "BeforeHitHandler", "de/db7/a11229.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "de/db7/a11229.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "de/db7/a11229.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "CorpseMapPositionQuery", "de/db7/a11229.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "de/db7/a11229.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "de/db7/a11229.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

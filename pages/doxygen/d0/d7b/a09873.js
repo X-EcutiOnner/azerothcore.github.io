@@ -1,6 +1,6 @@
 var a09873 =
 [
-    [ "sourceObjectDestroyLink", "d0/d7b/a09873.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
-    [ "targetObjectBuildLink", "d0/d7b/a09873.html#abf8c86604c3ef4349567c736090402f6", null ],
-    [ "targetObjectDestroyLink", "d0/d7b/a09873.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
+    [ "ServerMailItems", "d0/d7b/a09873.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "d0/d7b/a09873.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "d0/d7b/a09873.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

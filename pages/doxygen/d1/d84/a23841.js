@@ -1,6 +1,6 @@
 var a23841 =
 [
-    [ "HandlePeriodic", "d1/d84/a23841.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d1/d84/a23841.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d1/d84/a23841.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "npc_fel_guard_houndAI", "df/d6d/a23845.html", "df/d6d/a23845" ],
+    [ "npc_fel_guard_hound", "d1/d84/a23841.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d1/d84/a23841.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

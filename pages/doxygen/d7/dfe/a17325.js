@@ -1,8 +1,9 @@
 var a17325 =
 [
-    [ "npc_high_overlord_saurfangAI", "d0/d2b/a17329.html", "d0/d2b/a17329" ],
-    [ "npc_high_overlord_saurfang_icc", "d7/dfe/a17325.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d7/dfe/a17325.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d7/dfe/a17325.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d7/dfe/a17325.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "FilterTargets", "d7/dfe/a17325.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d7/dfe/a17325.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d7/dfe/a17325.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d7/dfe/a17325.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d7/dfe/a17325.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d7/dfe/a17325.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

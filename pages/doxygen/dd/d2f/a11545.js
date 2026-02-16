@@ -1,10 +1,13 @@
 var a11545 =
 [
-    [ "bf_commandscript", "dd/d2f/a11545.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "dd/d2f/a11545.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "dd/d2f/a11545.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "dd/d2f/a11545.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "dd/d2f/a11545.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "dd/d2f/a11545.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "dd/d2f/a11545.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "PetAuraMap", "dd/d2f/a11545.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "dd/d2f/a11545.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "dd/d2f/a11545.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "dd/d2f/a11545.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "dd/d2f/a11545.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "dd/d2f/a11545.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "dd/d2f/a11545.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "dd/d2f/a11545.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "dd/d2f/a11545.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "dd/d2f/a11545.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

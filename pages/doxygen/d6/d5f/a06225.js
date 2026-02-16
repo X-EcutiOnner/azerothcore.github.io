@@ -1,10 +1,7 @@
 var a06225 =
 [
-    [ "bvar", "d6/d5f/a06225.html#aa6e8fda81f0f4b6d8f6e984616b5952d", null ],
-    [ "gob", "d6/d5f/a06225.html#ad654cef8dd1ab99af027ff31c160a36d", null ],
-    [ "holder", "d6/d5f/a06225.html#a46e408867f98388ecf66692438d48000", null ],
-    [ "spell", "d6/d5f/a06225.html#a6678b172ab306d90b04341dcb17a132e", null ],
-    [ "unit", "d6/d5f/a06225.html#a210df2cde720f8eb4c956444fb536150", null ],
-    [ "var0", "d6/d5f/a06225.html#a4d90bbe920dca0d5a5be8e2a93a0af99", null ],
-    [ "var1", "d6/d5f/a06225.html#a6aafd8266267ea053a538a813acccb78", null ]
+    [ "ReactorAI", "d6/d5f/a06225.html#aaea292c46945399cf7c855e642941c2d", null ],
+    [ "MoveInLineOfSight", "d6/d5f/a06225.html#a224608a62a15d679863d68d7d0e32dde", null ],
+    [ "Permissible", "d6/d5f/a06225.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
+    [ "UpdateAI", "d6/d5f/a06225.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
 ];

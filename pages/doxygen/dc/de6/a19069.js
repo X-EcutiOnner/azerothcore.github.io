@@ -1,6 +1,7 @@
 var a19069 =
 [
-    [ "boss_thaddius_summonAI", "d7/dc0/a19073.html", "d7/dc0/a19073" ],
-    [ "boss_thaddius_summon", "dc/de6/a19069.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "dc/de6/a19069.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "OnRemove", "dc/de6/a19069.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "dc/de6/a19069.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "dc/de6/a19069.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "dc/de6/a19069.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

@@ -1,10 +1,6 @@
 var a17069 =
 [
-    [ "npc_living_mojoAI", "dc/dff/a17069.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "dc/dff/a17069.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "dc/dff/a17069.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "dc/dff/a17069.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "dc/dff/a17069.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "dc/dff/a17069.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "dc/dff/a17069.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "instance_drak_tharon_keep", "dc/dff/a17069.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "dc/dff/a17069.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "dc/dff/a17069.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

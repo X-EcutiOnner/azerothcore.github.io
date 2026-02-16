@@ -1,6 +1,5 @@
 var a17465 =
 [
-    [ "npc_zafod_boomboxAI", "d1/d04/a17469.html", "d1/d04/a17469" ],
-    [ "npc_zafod_boombox", "d3/d73/a17465.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d3/d73/a17465.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "at_tyrannus_event_starter", "d3/d73/a17465.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d3/d73/a17465.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
 ];

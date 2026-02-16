@@ -1,8 +1,7 @@
 var a09313 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d6/dc2/a09313.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "d6/dc2/a09313.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "d6/dc2/a09313.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "d6/dc2/a09313.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "d6/dc2/a09313.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "CreatureRelocationNotifier", "d6/dc2/a09313.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d6/dc2/a09313.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d6/dc2/a09313.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d6/dc2/a09313.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

@@ -1,5 +1,5 @@
 var a15633 =
 [
-    [ "go_elune_fire", "d8/d44/a15633.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d8/d44/a15633.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "at_battleguard_sartura", "d8/d44/a15633.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "d8/d44/a15633.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

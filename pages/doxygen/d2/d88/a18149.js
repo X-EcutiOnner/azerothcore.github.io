@@ -1,7 +1,9 @@
 var a18149 =
 [
-    [ "OnRemove", "d2/d88/a18149.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d2/d88/a18149.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d2/d88/a18149.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d2/d88/a18149.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "CountTargets", "d2/d88/a18149.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "d2/d88/a18149.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "d2/d88/a18149.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "d2/d88/a18149.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "d2/d88/a18149.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "d2/d88/a18149.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

@@ -1,10 +1,9 @@
 var a16025 =
 [
-    [ "spell_halion_marks_aura", "df/d86/a16025.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "df/d86/a16025.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "df/d86/a16025.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "df/d86/a16025.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "df/d86/a16025.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "df/d86/a16025.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "df/d86/a16025.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_pluckyAI", "df/d86/a16025.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "df/d86/a16025.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "df/d86/a16025.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "df/d86/a16025.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "df/d86/a16025.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "df/d86/a16025.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

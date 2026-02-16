@@ -1,6 +1,6 @@
 var a18969 =
 [
-    [ "boss_kelthuzad_minionAI", "d3/de6/a18973.html", "d3/de6/a18973" ],
-    [ "boss_kelthuzad_minion", "d0/d36/a18969.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d0/d36/a18969.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "npc_captain_brandonAI", "d0/d36/a18969.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d0/d36/a18969.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d0/d36/a18969.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

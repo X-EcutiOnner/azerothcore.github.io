@@ -1,18 +1,14 @@
 var a12277 =
 [
-    [ "boss_vaelAI", "d3/d60/a12277.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
-    [ "BeginSpeech", "d3/d60/a12277.html#a448dcc64099fff57b4c18841f8715dbe", null ],
-    [ "Initialize", "d3/d60/a12277.html#a4364710f3634b6caeea3b739efe7dc56", null ],
-    [ "JustEngagedWith", "d3/d60/a12277.html#a860aa0077f235f652bd6f9a247a40e30", null ],
-    [ "JustSummoned", "d3/d60/a12277.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
-    [ "KilledUnit", "d3/d60/a12277.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
-    [ "Reset", "d3/d60/a12277.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
-    [ "sGossipSelect", "d3/d60/a12277.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
-    [ "UpdateAI", "d3/d60/a12277.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
-    [ "_burningAdrenalineCast", "d3/d60/a12277.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
-    [ "_eventsIntro", "d3/d60/a12277.html#aed37566236cb2872b3a85de9f994f0cb", null ],
-    [ "_introDone", "d3/d60/a12277.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
-    [ "HasYelled", "d3/d60/a12277.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
-    [ "m_nefariusGuid", "d3/d60/a12277.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
-    [ "PlayerGUID", "d3/d60/a12277.html#a1a86b7b15e0a435284afab6ac724968c", null ]
+    [ "boss_general_angerforgeAI", "d3/d60/a12277.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "d3/d60/a12277.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "d3/d60/a12277.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "d3/d60/a12277.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "d3/d60/a12277.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "d3/d60/a12277.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "d3/d60/a12277.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "d3/d60/a12277.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "d3/d60/a12277.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "d3/d60/a12277.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "d3/d60/a12277.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

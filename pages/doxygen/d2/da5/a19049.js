@@ -1,6 +1,6 @@
 var a19049 =
 [
-    [ "boss_sapphironAI", "db/dfa/a19053.html", "db/dfa/a19053" ],
-    [ "boss_sapphiron", "d2/da5/a19049.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "d2/da5/a19049.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "PrepareSpellScript", "d2/da5/a19049.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d2/da5/a19049.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d2/da5/a19049.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

@@ -1,7 +1,7 @@
 var a04977 =
 [
-    [ "AreaInfoCallback", "d7/d01/a04977.html#a80988ffb9cda6f41e269ba896332e6a1", null ],
-    [ "operator()", "d7/d01/a04977.html#ac53fe7cf79b790f501c8a3dd94cc89ff", null ],
-    [ "aInfo", "d7/d01/a04977.html#a7c38a60631dc273abcfe930847864315", null ],
-    [ "prims", "d7/d01/a04977.html#adb24cb7deeafd42035efb29ad2529b14", null ]
+    [ "indices", "d7/d01/a04977.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "d7/d01/a04977.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "d7/d01/a04977.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "d7/d01/a04977.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

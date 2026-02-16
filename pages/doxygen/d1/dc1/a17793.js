@@ -1,7 +1,9 @@
 var a17793 =
 [
-    [ "HandleDummy", "d1/dc1/a17793.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d1/dc1/a17793.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d1/dc1/a17793.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d1/dc1/a17793.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "FilterTargetsInitial", "d1/dc1/a17793.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d1/dc1/a17793.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d1/dc1/a17793.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d1/dc1/a17793.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d1/dc1/a17793.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d1/dc1/a17793.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

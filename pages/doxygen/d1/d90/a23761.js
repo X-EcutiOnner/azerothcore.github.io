@@ -1,7 +1,6 @@
 var a23761 =
 [
-    [ "Load", "d1/d90/a23761.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d1/d90/a23761.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d1/d90/a23761.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d1/d90/a23761.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "npc_deaths_fel_cannonAI", "d1/d90/a23761.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d1/d90/a23761.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d1/d90/a23761.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

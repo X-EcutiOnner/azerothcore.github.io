@@ -1,12 +1,9 @@
 var a20385 =
 [
-    [ "npc_ulduar_flames_initialAI", "de/dc1/a20385.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "de/dc1/a20385.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "de/dc1/a20385.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "de/dc1/a20385.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "de/dc1/a20385.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "de/dc1/a20385.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "de/dc1/a20385.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "de/dc1/a20385.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "de/dc1/a20385.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "HandleEffectPeriodic", "de/dc1/a20385.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "de/dc1/a20385.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "de/dc1/a20385.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "de/dc1/a20385.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "de/dc1/a20385.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "de/dc1/a20385.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

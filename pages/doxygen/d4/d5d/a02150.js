@@ -1,36 +1,12 @@
 var a02150 =
 [
-    [ "boss_high_king_maulgar", "d8/da2/a23680.html", "d8/da2/a23680" ],
-    [ "boss_olm_the_summoner", "d0/da7/a23684.html", "d0/da7/a23684" ],
-    [ "boss_kiggler_the_crazed", "dc/d7c/a23688.html", "dc/d7c/a23688" ],
-    [ "boss_blindeye_the_seer", "d5/dad/a23692.html", "d5/dad/a23692" ],
-    [ "boss_krosh_firehand", "d7/d77/a23696.html", "d7/d77/a23696" ],
-    [ "HighKingMaulgar", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00", [
-      [ "SAY_AGGRO", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_ENRAGE", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54", null ],
-      [ "SAY_OGRE_DEATH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327", null ],
-      [ "SAY_SLAY", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SPELL_ARCING_SMASH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e", null ],
-      [ "SPELL_MIGHTY_BLOW", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00ae9c68ac99f2257b412925e1b55e98716", null ],
-      [ "SPELL_WHIRLWIND", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801", null ],
-      [ "SPELL_BERSERKER_C", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4", null ],
-      [ "SPELL_ROAR", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f", null ],
-      [ "SPELL_FLURRY", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58", null ],
-      [ "SPELL_DARK_DECAY", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c", null ],
-      [ "SPELL_DEATH_COIL", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163", null ],
-      [ "SPELL_SUMMON_WFH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112", null ],
-      [ "SPELL_GREATER_POLYMORPH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df", null ],
-      [ "SPELL_LIGHTNING_BOLT", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526", null ],
-      [ "SPELL_ARCANE_SHOCK", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a70217cff0adeb1a0499b1651a82f03ef", null ],
-      [ "SPELL_ARCANE_EXPLOSION", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a6cef4c5e88133771f6b27aec8b8cfdce", null ],
-      [ "SPELL_GREATER_PW_SHIELD", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a55ae8f41cbf9520dcf85fbec5a89d7d0", null ],
-      [ "SPELL_HEAL", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a69fcca2d13e03c684fa0459f960ef9a7", null ],
-      [ "SPELL_PRAYER_OH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a60e7f4938fc88cf1649f00a81e4ea95b", null ],
-      [ "SPELL_GREATER_FIREBALL", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7", null ],
-      [ "SPELL_SPELLSHIELD", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a37fcb71489a9591a31c6f74520ed175e", null ],
-      [ "SPELL_BLAST_WAVE", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88", null ],
-      [ "ACTION_ADD_DEATH", "d4/d5d/a02150.html#a79b8e9b872a1c2b80ceefb2d55901a00a37c2463b1e6a48c0812bd3a0df718ffd", null ]
-    ] ],
-    [ "AddSC_boss_high_king_maulgar", "d4/d5d/a02150.html#a834deb3700299f1a26f70d1db3e7c804", null ]
+    [ "TargetedMovementGeneratorBase", "d5/d93/a10141.html", "d5/d93/a10141" ],
+    [ "ChaseMovementGenerator< T >", "da/d2d/a10145.html", "da/d2d/a10145" ],
+    [ "FollowMovementGenerator< T >", "d9/db6/a10149.html", "d9/db6/a10149" ],
+    [ "ChaseMovementMode", "d4/d5d/a02150.html#af39517224af91107d618ec9d8131101d", [
+      [ "CHASE_MODE_NORMAL", "d4/d5d/a02150.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3", null ],
+      [ "CHASE_MODE_BACKPEDAL", "d4/d5d/a02150.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd", null ],
+      [ "CHASE_MODE_DISTANCING", "d4/d5d/a02150.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337", null ],
+      [ "CHASE_MODE_FANNING", "d4/d5d/a02150.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618", null ]
+    ] ]
 ];

@@ -1,6 +1,6 @@
 var a16421 =
 [
-    [ "npc_fel_infernalAI", "d9/dbf/a16425.html", "d9/dbf/a16425" ],
-    [ "npc_fel_infernal", "d5/d80/a16421.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d5/d80/a16421.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_halion_controllerAI", "d9/dbf/a16425.html", "d9/dbf/a16425" ],
+    [ "npc_halion_controller", "d5/d80/a16421.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d5/d80/a16421.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

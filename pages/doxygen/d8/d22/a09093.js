@@ -1,8 +1,8 @@
 var a09093 =
 [
-    [ "V8Type", "d8/d22/a09093.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d8/d22/a09093.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d8/d22/a09093.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d8/d22/a09093.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d8/d22/a09093.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "target_mapId", "d8/d22/a09093.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "d8/d22/a09093.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "d8/d22/a09093.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "d8/d22/a09093.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "d8/d22/a09093.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

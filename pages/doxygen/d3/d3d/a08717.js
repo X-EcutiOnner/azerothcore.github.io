@@ -1,8 +1,9 @@
 var a08717 =
 [
-    [ "PowerPctOrderPred", "d3/d3d/a08717.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "d3/d3d/a08717.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "d3/d3d/a08717.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "d3/d3d/a08717.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "d3/d3d/a08717.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "achievements", "d3/d3d/a08717.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d3/d3d/a08717.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d3/d3d/a08717.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d3/d3d/a08717.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d3/d3d/a08717.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d3/d3d/a08717.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

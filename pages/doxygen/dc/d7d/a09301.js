@@ -1,8 +1,12 @@
 var a09301 =
 [
-    [ "FriendlyMissingBuffInRange", "dc/d7d/a09301.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "dc/d7d/a09301.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "dc/d7d/a09301.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "dc/d7d/a09301.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "dc/d7d/a09301.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "VisibleNotifier", "dc/d7d/a09301.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "dc/d7d/a09301.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "dc/d7d/a09301.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "dc/d7d/a09301.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "dc/d7d/a09301.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "dc/d7d/a09301.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "dc/d7d/a09301.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "dc/d7d/a09301.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "dc/d7d/a09301.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

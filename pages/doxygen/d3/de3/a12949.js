@@ -1,7 +1,9 @@
 var a12949 =
 [
-    [ "OnApply", "d3/de3/a12949.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d3/de3/a12949.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d3/de3/a12949.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d3/de3/a12949.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "boss_curator", "d3/de3/a12949.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d3/de3/a12949.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d3/de3/a12949.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d3/de3/a12949.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d3/de3/a12949.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d3/de3/a12949.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

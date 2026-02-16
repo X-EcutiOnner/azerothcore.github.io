@@ -1,6 +1,6 @@
 var a12013 =
 [
-    [ "boss_pyroguard_emberseerAI", "dc/dc6/a12017.html", "dc/dc6/a12017" ],
-    [ "boss_pyroguard_emberseer", "df/d89/a12013.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "df/d89/a12013.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "inventory_commandscript", "df/d89/a12013.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "df/d89/a12013.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "df/d89/a12013.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

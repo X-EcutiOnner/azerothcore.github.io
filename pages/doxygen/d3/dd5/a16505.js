@@ -1,5 +1,6 @@
 var a16505 =
 [
-    [ "boss_fjolaAI", "d3/dd5/a16505.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d3/dd5/a16505.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "HandleHealPct", "d3/dd5/a16505.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d3/dd5/a16505.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d3/dd5/a16505.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

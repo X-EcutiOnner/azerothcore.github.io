@@ -1,13 +1,11 @@
 var a21177 =
 [
-    [ "boss_toravonAI", "d0/d40/a21177.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "d0/d40/a21177.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "d0/d40/a21177.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "d0/d40/a21177.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "d0/d40/a21177.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "d0/d40/a21177.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "d0/d40/a21177.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "d0/d40/a21177.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "d0/d40/a21177.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "d0/d40/a21177.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "npc_ichor_globuleAI", "d0/d40/a21177.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "d0/d40/a21177.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "d0/d40/a21177.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "d0/d40/a21177.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "d0/d40/a21177.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "d0/d40/a21177.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "d0/d40/a21177.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "d0/d40/a21177.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

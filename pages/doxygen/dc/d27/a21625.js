@@ -1,6 +1,6 @@
 var a21625 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "dc/def/a21629.html", "dc/def/a21629" ],
-    [ "npc_conversing_with_the_depths_trigger", "dc/d27/a21625.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "dc/d27/a21625.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_q24545_wretched_ghoulAI", "dc/def/a21629.html", "dc/def/a21629" ],
+    [ "npc_q24545_wretched_ghoul", "dc/d27/a21625.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "dc/d27/a21625.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

@@ -1,8 +1,7 @@
 var a09309 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d0/db1/a09309.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "d0/db1/a09309.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "d0/db1/a09309.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "d0/db1/a09309.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "d0/db1/a09309.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "PlayerRelocationNotifier", "d0/db1/a09309.html#afa316348fb6151cc992b0da7aab39ec3", null ],
+    [ "Visit", "d0/db1/a09309.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
+    [ "Visit", "d0/db1/a09309.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ],
+    [ "Visit", "d0/db1/a09309.html#aa92ab4dcd81b669f41f6ab1029b791df", null ]
 ];

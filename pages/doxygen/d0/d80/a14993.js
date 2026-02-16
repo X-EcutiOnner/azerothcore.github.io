@@ -1,13 +1,6 @@
 var a14993 =
 [
-    [ "boss_cthun", "d0/d80/a14993.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d0/d80/a14993.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d0/d80/a14993.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d0/d80/a14993.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d0/d80/a14993.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d0/d80/a14993.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d0/d80/a14993.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d0/d80/a14993.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d0/d80/a14993.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d0/d80/a14993.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "FilterTargets", "d0/d80/a14993.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d0/d80/a14993.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d0/d80/a14993.html#a164b8b946dc801db878603488c978adb", null ]
 ];

@@ -1,7 +1,12 @@
 var a01898 =
 [
-    [ "ACSoapThread", "dd/d8e/a01898.html#a69e574c9a3cecf7c395cd036bb672ed3", null ],
-    [ "ns1__executeCommand", "dd/d8e/a01898.html#af9d30c869db1c560fead6671ff96ad82", null ],
-    [ "process_message", "dd/d8e/a01898.html#abf914e30c869f88f2fafb9f656320c6a", null ],
-    [ "namespaces", "dd/d8e/a01898.html#aabfac0a3b8d38498bc5e1e3bc465ead6", null ]
+    [ "WorldPackets::Instance::InstanceReset", "d1/d23/a10905.html", "d1/d23/a10905" ],
+    [ "WorldPackets::Instance::InstanceResetFailed", "d9/da7/a10909.html", "d9/da7/a10909" ],
+    [ "WorldPackets::Instance::SetDungeonDifficulty", "d4/df5/a10913.html", "d4/df5/a10913" ],
+    [ "WorldPackets::Instance::SetDungeonDifficultyClient", "d8/daf/a10917.html", "d8/daf/a10917" ],
+    [ "WorldPackets::Instance::ResetFailedNotify", "d1/dba/a10921.html", "d1/dba/a10921" ],
+    [ "WorldPackets::Instance::SetRaidDifficulty", "d5/d93/a10925.html", "d5/d93/a10925" ],
+    [ "WorldPackets::Instance::SetRaidDifficultyClient", "d8/d94/a10929.html", "d8/d94/a10929" ],
+    [ "WorldPackets::Instance::ResetInstances", "d7/da1/a10933.html", "d7/da1/a10933" ],
+    [ "WorldPackets::Instance::InstanceLockResponse", "d2/df8/a10937.html", "d2/df8/a10937" ]
 ];

@@ -1,6 +1,8 @@
 var a15665 =
 [
-    [ "go_troll_cageAI", "d3/d8f/a15669.html", "d3/d8f/a15669" ],
-    [ "go_troll_cage", "dc/dc5/a15665.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "dc/dc5/a15665.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_injured_draeneiAI", "dc/dc5/a15665.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "dc/dc5/a15665.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "dc/dc5/a15665.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "dc/dc5/a15665.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "dc/dc5/a15665.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

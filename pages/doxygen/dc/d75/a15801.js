@@ -1,6 +1,8 @@
 var a15801 =
 [
-    [ "npc_anub_ar_crusherAI", "d8/d88/a15805.html", "d8/d88/a15805" ],
-    [ "npc_anub_ar_crusher", "dc/d75/a15801.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
-    [ "GetAI", "dc/d75/a15801.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
+    [ "CheckRequirement", "dc/d75/a15801.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "dc/d75/a15801.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "dc/d75/a15801.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "dc/d75/a15801.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "dc/d75/a15801.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

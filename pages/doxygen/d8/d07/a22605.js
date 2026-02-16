@@ -1,6 +1,8 @@
 var a22605 =
 [
-    [ "PrepareSpellScript", "d8/d07/a22605.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d8/d07/a22605.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d8/d07/a22605.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "HandleScriptEffect", "d8/d07/a22605.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "d8/d07/a22605.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "d8/d07/a22605.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "d8/d07/a22605.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "d8/d07/a22605.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

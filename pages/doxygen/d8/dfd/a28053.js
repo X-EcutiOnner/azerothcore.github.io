@@ -1,4 +1,6 @@
 var a28053 =
 [
-    [ "base", "d8/dfd/a28053.html#aecccbaadaaf541b2bbdb85d8ea08d0bd", null ]
+    [ "color", "d8/dfd/a28053.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d8/dfd/a28053.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d8/dfd/a28053.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

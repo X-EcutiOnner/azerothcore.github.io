@@ -1,5 +1,7 @@
 var a16585 =
 [
-    [ "achievement_oh_novos", "d1/dcb/a16585.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d1/dcb/a16585.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "HandleAfterEffectAbsorb", "d1/dcb/a16585.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d1/dcb/a16585.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d1/dcb/a16585.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d1/dcb/a16585.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

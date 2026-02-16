@@ -1,6 +1,6 @@
 var a16413 =
 [
-    [ "boss_jaraxxusAI", "dd/d55/a16417.html", "dd/d55/a16417" ],
-    [ "boss_jaraxxus", "d2/dbd/a16413.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d2/dbd/a16413.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "boss_twilight_halionAI", "dd/d55/a16417.html", "dd/d55/a16417" ],
+    [ "boss_twilight_halion", "d2/dbd/a16413.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d2/dbd/a16413.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

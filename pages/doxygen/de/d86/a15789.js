@@ -1,6 +1,7 @@
 var a15789 =
 [
-    [ "PrepareSpellScript", "de/d86/a15789.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "de/d86/a15789.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "de/d86/a15789.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "HandleEffectPeriodic", "de/d86/a15789.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "de/d86/a15789.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "de/d86/a15789.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "de/d86/a15789.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

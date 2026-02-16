@@ -1,5 +1,6 @@
 var a27205 =
 [
-    [ "go_jump_a_tron", "d2/d78/a27205.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d2/d78/a27205.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_soulwellAI", "db/d34/a27209.html", "db/d34/a27209" ],
+    [ "go_soulwell", "d2/d78/a27205.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d2/d78/a27205.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

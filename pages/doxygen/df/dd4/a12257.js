@@ -1,6 +1,6 @@
 var a12257 =
 [
-    [ "boss_razorgoreAI", "d5/d72/a12261.html", "d5/d72/a12261" ],
-    [ "boss_razorgore", "df/dd4/a12257.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "df/dd4/a12257.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "boss_draganthaurissanAI", "d5/d72/a12261.html", "d5/d72/a12261" ],
+    [ "boss_emperor_dagran_thaurissan", "df/dd4/a12257.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "df/dd4/a12257.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

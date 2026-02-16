@@ -1,15 +1,7 @@
 var a19001 =
 [
-    [ "boss_maexxnaAI", "db/d43/a19001.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "db/d43/a19001.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "db/d43/a19001.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "db/d43/a19001.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "db/d43/a19001.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "db/d43/a19001.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "db/d43/a19001.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "db/d43/a19001.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "db/d43/a19001.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "db/d43/a19001.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "db/d43/a19001.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "db/d43/a19001.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "npc_impaling_spearAI", "db/d43/a19001.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "db/d43/a19001.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "db/d43/a19001.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "db/d43/a19001.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

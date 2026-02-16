@@ -1,4 +1,4 @@
 var a05101 =
 [
-    [ "collisionLocationForMovingPointFixedAABox", "db/dfb/a05101.html#afe38618ab1de028db0657601f1e51d21", null ]
+    [ "GetBounds", "db/dfb/a05101.html#aa539d8da20d440e595ceec02dcd2e4f3", null ]
 ];

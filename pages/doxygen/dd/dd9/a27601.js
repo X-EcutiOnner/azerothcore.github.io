@@ -1,5 +1,7 @@
 var a27601 =
 [
-    [ "npc_sunwell_gate", "dd/dd9/a27601.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "dd/dd9/a27601.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "HandleDummy", "dd/dd9/a27601.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "dd/dd9/a27601.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "dd/dd9/a27601.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "dd/dd9/a27601.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

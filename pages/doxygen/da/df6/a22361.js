@@ -1,6 +1,5 @@
 var a22361 =
 [
-    [ "npc_released_offspring_harkoaAI", "da/df6/a22361.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "da/df6/a22361.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "da/df6/a22361.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "OutdoorPvP_terokkar_forest", "da/df6/a22361.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "da/df6/a22361.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

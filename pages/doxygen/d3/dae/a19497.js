@@ -1,5 +1,6 @@
 var a19497 =
 [
-    [ "boss_sjonnir_dwarfAI", "d3/dae/a19497.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "d3/dae/a19497.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "boss_thaddius_summonAI", "df/d24/a19501.html", "df/d24/a19501" ],
+    [ "boss_thaddius_summon", "d3/dae/a19497.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d3/dae/a19497.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

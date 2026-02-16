@@ -1,10 +1,23 @@
 var a07245 =
 [
-    [ "BattlegroundChatBuilder", "d0/d1f/a07245.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "d0/d1f/a07245.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "d0/d1f/a07245.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "d0/d1f/a07245.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "d0/d1f/a07245.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "d0/d1f/a07245.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "d0/d1f/a07245.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "AuctionHouseWorkerThread", "d0/d1f/a07245.html#ac008f885bf78e4bfe1e847bcb9b39f04", null ],
+    [ "AddAuctionSearchUpdateToQueue", "d0/d1f/a07245.html#afeef919ad04cfedbca376668997a69f4", null ],
+    [ "BuildListAuctionItems", "d0/d1f/a07245.html#a4f645c52213b513d3869c3934fec56df", null ],
+    [ "GetSearchableAuctionMap", "d0/d1f/a07245.html#a8f0ed06055dd0c50bb65017289c6104c", null ],
+    [ "ProcessSearchRequests", "d0/d1f/a07245.html#a3cc7697e74c9acd6dd902a75044d64d3", null ],
+    [ "ProcessSearchUpdates", "d0/d1f/a07245.html#a8901d50705c3e4a4977a547aef241d1d", null ],
+    [ "Run", "d0/d1f/a07245.html#a78eb3d86cdb1f7590af5a5f54ac97b6a", null ],
+    [ "SearchBidderListRequest", "d0/d1f/a07245.html#af23c367773406ed52439f21d4b288264", null ],
+    [ "SearchListRequest", "d0/d1f/a07245.html#a2b455c5d62c280c97d30d3b02ce7601d", null ],
+    [ "SearchOwnerListRequest", "d0/d1f/a07245.html#a99371b6ef770b00d4c32227392234732", null ],
+    [ "SearchUpdateAdd", "d0/d1f/a07245.html#a64414f54c6a84546bee85eb4e46ae04f", null ],
+    [ "SearchUpdateBid", "d0/d1f/a07245.html#ac42f800d004e90bc728df43d3c9c7244", null ],
+    [ "SearchUpdateRemove", "d0/d1f/a07245.html#a31f1510cd146eac4718c6577caf72cc4", null ],
+    [ "Stop", "d0/d1f/a07245.html#ae5e76c712f46e8801c2b63e335a246ff", null ],
+    [ "_auctionUpdatesQueue", "d0/d1f/a07245.html#aecd36ccabd34131c42ec1d7964b8840a", null ],
+    [ "_requestQueue", "d0/d1f/a07245.html#a8b92df23eb97b8f3b11c495dbdb15696", null ],
+    [ "_responseQueue", "d0/d1f/a07245.html#a68a0b0ea5c3292989471f00346ca1318", null ],
+    [ "_searchableAuctionMap", "d0/d1f/a07245.html#a68f698401f671fb75901daea75575ce0", null ],
+    [ "_stopped", "d0/d1f/a07245.html#af4d4c4672e67953c7c909174652b99d1", null ],
+    [ "_workerThread", "d0/d1f/a07245.html#a9a386c2dc09b128fd427d5a2b44653c5", null ]
 ];

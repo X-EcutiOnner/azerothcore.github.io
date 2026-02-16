@@ -1,7 +1,6 @@
 var a20265 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d7/d1f/a20265.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d7/d1f/a20265.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d7/d1f/a20265.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "d7/d1f/a20265.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "id", "d7/d1f/a20265.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d7/d1f/a20265.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d7/d1f/a20265.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

@@ -1,6 +1,5 @@
 var a19005 =
 [
-    [ "boss_maexxna_webwrapAI", "d7/dcc/a19009.html", "d7/dcc/a19009" ],
-    [ "boss_maexxna_webwrap", "d1/d4a/a19005.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "d1/d4a/a19005.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "npc_alchemist_adrianna", "d1/d4a/a19005.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d1/d4a/a19005.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

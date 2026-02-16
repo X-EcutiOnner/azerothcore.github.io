@@ -1,9 +1,7 @@
 var a04163 =
 [
-    [ "SecretInfo", "d3/da4/a28804.html", "d3/da4/a28804" ],
-    [ "SECRET_FLAG", "d1/d56/a04163.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
-    [ "SECRET_FLAG_FOR", "d1/d56/a04163.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
-    [ "SecretFlags", "d1/d56/a04163.html#a03463ea440a7f843bdf8415f362a49f5", null ],
-    [ "GetHexFromConfig", "d1/d56/a04163.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
-    [ "secret_info", "d1/d56/a04163.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
+    [ "instance_trial_of_the_crusader", "da/de0/a16973.html", "da/de0/a16973" ],
+    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
+    [ "AddSC_instance_trial_of_the_crusader", "d1/d56/a04163.html#af823cabf441f9e6a5443da42df4fda4f", null ],
+    [ "validDedicatedInsanityItems", "d1/d56/a04163.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
 ];

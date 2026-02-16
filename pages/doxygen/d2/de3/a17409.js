@@ -1,5 +1,6 @@
 var a17409 =
 [
-    [ "achievement_flu_shot_shortage", "d2/de3/a17409.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d2/de3/a17409.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "npc_pos_collapsing_icicleAI", "dc/d10/a17413.html", "dc/d10/a17413" ],
+    [ "npc_pos_collapsing_icicle", "d2/de3/a17409.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d2/de3/a17409.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

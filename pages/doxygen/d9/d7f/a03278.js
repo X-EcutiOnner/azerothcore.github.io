@@ -1,14 +1,7 @@
 var a03278 =
 [
-    [ "NpcFlagText", "df/d0e/a11992.html", "df/d0e/a11992" ],
-    [ "MechanicImmune", "d7/d7c/a11996.html", "d7/d7c/a11996" ],
-    [ "SpellSchoolImmune", "df/d27/a12000.html", "df/d27/a12000" ],
-    [ "npc_commandscript", "d3/d80/a12004.html", "d3/d80/a12004" ],
-    [ "NPCFLAG_COUNT", "d9/d7f/a03278.html#afc1ed6083684621f30fbabb23d2986c0", null ],
-    [ "CreatureEntry", "d9/d7f/a03278.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
-    [ "CreatureSpawnId", "d9/d7f/a03278.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
-    [ "AddSC_npc_commandscript", "d9/d7f/a03278.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
-    [ "mechanicImmunes", "d9/d7f/a03278.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
-    [ "npcFlagTexts", "d9/d7f/a03278.html#a048bdd249b6deeed66fba6bad126b30b", null ],
-    [ "spellSchoolImmunes", "d9/d7f/a03278.html#a8708a11856730666b04e749bc0952c8f", null ]
+    [ "instance_mechanar", "d3/d37/a23741.html", "d3/d37/a23741" ],
+    [ "instance_mechanar::instance_mechanar_InstanceMapScript", "d0/d93/a23745.html", "d0/d93/a23745" ],
+    [ "AddSC_instance_mechanar", "d9/d7f/a03278.html#a23f3274fbd28e19fae6647987fcdf0b9", null ],
+    [ "doorData", "d9/d7f/a03278.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

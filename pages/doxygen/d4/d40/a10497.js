@@ -1,6 +1,11 @@
 var a10497 =
 [
-    [ "QueryGuildInfo", "d4/d40/a10497.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "d4/d40/a10497.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "d4/d40/a10497.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "PetScript", "d4/d40/a10497.html#acccf0b5fa2e346c800925142ed52c917", null ],
+    [ "CanResetTalents", "d4/d40/a10497.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d4/d40/a10497.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d4/d40/a10497.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d4/d40/a10497.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d4/d40/a10497.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d4/d40/a10497.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d4/d40/a10497.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

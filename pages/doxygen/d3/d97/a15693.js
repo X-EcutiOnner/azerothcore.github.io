@@ -1,11 +1,11 @@
 var a15693 =
 [
-    [ "npc_amanitar_mushrooms", "d3/d97/a15693.html#ad5603426c71c107ff439cea2efeea3f9", null ],
-    [ "AttackStart", "d3/d97/a15693.html#a0cc90c924a12a8be32c78e76ca798943", null ],
-    [ "DamageTaken", "d3/d97/a15693.html#a4c21a448535e1fc0f0116257194b9732", null ],
-    [ "EnterEvadeMode", "d3/d97/a15693.html#ae17ee367c9d206868c7dfc64d438806a", null ],
-    [ "JustEngagedWith", "d3/d97/a15693.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
-    [ "Reset", "d3/d97/a15693.html#ae597d5a64765f5304773f9a38e9c719a", null ],
-    [ "UpdateAI", "d3/d97/a15693.html#ae71058353be43935aa45eb28eb41170f", null ],
-    [ "events", "d3/d97/a15693.html#a0be93d15582a5511963721510652e76d", null ]
+    [ "npc_stillpine_capitiveAI", "d3/d97/a15693.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "d3/d97/a15693.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "d3/d97/a15693.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "d3/d97/a15693.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "d3/d97/a15693.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "d3/d97/a15693.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "d3/d97/a15693.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "d3/d97/a15693.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

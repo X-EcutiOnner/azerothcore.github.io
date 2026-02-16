@@ -1,8 +1,5 @@
 var a18045 =
 [
-    [ "FilterTargets", "db/d77/a18045.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "db/d77/a18045.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "db/d77/a18045.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "db/d77/a18045.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "db/d77/a18045.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "achievement_im_on_a_boat", "db/d77/a18045.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "db/d77/a18045.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

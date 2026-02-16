@@ -1,6 +1,7 @@
 var a18561 =
 [
-    [ "npc_frostwing_vrykulAI", "d6/daf/a18565.html", "d6/daf/a18565" ],
-    [ "npc_frostwing_vrykul", "d9/d9d/a18561.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d9/d9d/a18561.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "HandleScript", "d9/d9d/a18561.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "d9/d9d/a18561.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "d9/d9d/a18561.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "d9/d9d/a18561.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

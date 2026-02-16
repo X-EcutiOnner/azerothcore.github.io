@@ -1,19 +1,13 @@
 var a14013 =
 [
-    [ "boss_thekal", "d4/d45/a14013.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
-    [ "CheckPhaseTransition", "d4/d45/a14013.html#a95aeb81565f5863eec67106ae1118ac4", null ],
-    [ "DamageTaken", "d4/d45/a14013.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
-    [ "DoAction", "d4/d45/a14013.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
-    [ "Initialize", "d4/d45/a14013.html#aec365f330eed69513e988f895ec780e7", null ],
-    [ "JustDied", "d4/d45/a14013.html#a79bc19df134cbeb17f0941865461bd0d", null ],
-    [ "JustEngagedWith", "d4/d45/a14013.html#af5e2b2b5665270f29243921e51280190", null ],
-    [ "Reset", "d4/d45/a14013.html#a684bf1fc087970a41cf79959ba57b31b", null ],
-    [ "ReviveZealot", "d4/d45/a14013.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
-    [ "SetData", "d4/d45/a14013.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
-    [ "UpdateAI", "d4/d45/a14013.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
-    [ "UpdateZealotStatus", "d4/d45/a14013.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
-    [ "_enraged", "d4/d45/a14013.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
-    [ "_lorkhanDied", "d4/d45/a14013.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
-    [ "_wasDead", "d4/d45/a14013.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
-    [ "_zathDied", "d4/d45/a14013.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
+    [ "npc_lord_gregor_lescovarAI", "d4/d45/a14013.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "d4/d45/a14013.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "d4/d45/a14013.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "d4/d45/a14013.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "d4/d45/a14013.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "d4/d45/a14013.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "d4/d45/a14013.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "MarzonGUID", "d4/d45/a14013.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "d4/d45/a14013.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "d4/d45/a14013.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

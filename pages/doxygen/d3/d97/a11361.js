@@ -1,9 +1,14 @@
 var a11361 =
 [
-    [ "CreatureTextLocalizer", "d3/d97/a11361.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d3/d97/a11361.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d3/d97/a11361.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d3/d97/a11361.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d3/d97/a11361.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d3/d97/a11361.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "Account", "d3/d97/a11361.html#acb9382abe66dd43176fb7af1f3020388", null ],
+    [ "AddonInfo", "d3/d97/a11361.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
+    [ "BattlegroupID", "d3/d97/a11361.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
+    [ "Build", "d3/d97/a11361.html#ae4a83f8e8c81c1d797512245392fd582", null ],
+    [ "Digest", "d3/d97/a11361.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
+    [ "DosResponse", "d3/d97/a11361.html#afe2b4146ef592a7067ddaeac449b0644", null ],
+    [ "LocalChallenge", "d3/d97/a11361.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
+    [ "LoginServerID", "d3/d97/a11361.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
+    [ "LoginServerType", "d3/d97/a11361.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
+    [ "RealmID", "d3/d97/a11361.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
+    [ "RegionID", "d3/d97/a11361.html#a4052be051b41e931747b1956dc145d64", null ]
 ];

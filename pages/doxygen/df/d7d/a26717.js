@@ -1,10 +1,7 @@
 var a26717 =
 [
-    [ "CalculateAmount", "df/d7d/a26717.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "df/d7d/a26717.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "df/d7d/a26717.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "df/d7d/a26717.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "df/d7d/a26717.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "df/d7d/a26717.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "df/d7d/a26717.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "HandleDispel", "df/d7d/a26717.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "df/d7d/a26717.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "df/d7d/a26717.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "df/d7d/a26717.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

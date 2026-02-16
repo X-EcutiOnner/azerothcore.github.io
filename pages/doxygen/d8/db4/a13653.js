@@ -1,6 +1,7 @@
 var a13653 =
 [
-    [ "npc_the_scourge_cauldronAI", "dd/df7/a13657.html", "dd/df7/a13657" ],
-    [ "npc_the_scourge_cauldron", "d8/db4/a13653.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d8/db4/a13653.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "HandleScriptEffect", "d8/db4/a13653.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d8/db4/a13653.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d8/db4/a13653.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d8/db4/a13653.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

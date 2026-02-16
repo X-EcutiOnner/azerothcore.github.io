@@ -1,9 +1,9 @@
 var a12133 =
 [
-    [ "npc_vaelastrasz_the_redAI", "dd/d08/a12133.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "dd/d08/a12133.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "dd/d08/a12133.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "dd/d08/a12133.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "dd/d08/a12133.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "dd/d08/a12133.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "titles_commandscript", "dd/d08/a12133.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "dd/d08/a12133.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "dd/d08/a12133.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "dd/d08/a12133.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "dd/d08/a12133.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "dd/d08/a12133.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

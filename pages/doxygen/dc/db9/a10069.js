@@ -1,13 +1,7 @@
 var a10069 =
 [
-    [ "entry", "dc/db9/a10069.html#a300fb240386044aab139e777d6244d19", null ],
-    [ "map", "dc/db9/a10069.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
-    [ "o", "dc/db9/a10069.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
-    [ "rot0", "dc/db9/a10069.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
-    [ "rot1", "dc/db9/a10069.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
-    [ "rot2", "dc/db9/a10069.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
-    [ "rot3", "dc/db9/a10069.html#a60460fc3030b24eef0246dae28af2282", null ],
-    [ "x", "dc/db9/a10069.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
-    [ "y", "dc/db9/a10069.html#ab42ebe981ba589e3d67110487bd88255", null ],
-    [ "z", "dc/db9/a10069.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
+    [ "Finalize", "dc/db9/a10069.html#a90c8b42ef67968bf58acae5678dc7496", null ],
+    [ "Initialize", "dc/db9/a10069.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
+    [ "Reset", "dc/db9/a10069.html#a6db99ea9863dc60d032bacda37afa078", null ],
+    [ "Update", "dc/db9/a10069.html#af044c8725ef11e8a152987225521ef8b", null ]
 ];

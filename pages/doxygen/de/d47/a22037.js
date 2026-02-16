@@ -1,6 +1,6 @@
 var a22037 =
 [
-    [ "npc_blessed_bannerAI", "d5/d01/a22041.html", "d5/d01/a22041" ],
-    [ "npc_blessed_banner", "de/d47/a22037.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "de/d47/a22037.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandleScriptEffect", "de/d47/a22037.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "de/d47/a22037.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "de/d47/a22037.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

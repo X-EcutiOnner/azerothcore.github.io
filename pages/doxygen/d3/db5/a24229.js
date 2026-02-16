@@ -1,6 +1,8 @@
 var a24229 =
 [
-    [ "PrepareSpellScript", "d3/db5/a24229.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d3/db5/a24229.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d3/db5/a24229.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "npc_pet_darting_hatchling", "d3/db5/a24229.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d3/db5/a24229.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d3/db5/a24229.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d3/db5/a24229.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d3/db5/a24229.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

@@ -1,6 +1,9 @@
 var a12881 =
 [
-    [ "HandleScriptEffect", "dc/d49/a12881.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "dc/d49/a12881.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "dc/d49/a12881.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_mc_core_houndAI", "dc/d49/a12881.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "dc/d49/a12881.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "dc/d49/a12881.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "dc/d49/a12881.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "dc/d49/a12881.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "dc/d49/a12881.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

@@ -1,7 +1,6 @@
 var a15813 =
 [
-    [ "HandleEffectRemove", "d1/dc7/a15813.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "d1/dc7/a15813.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "d1/dc7/a15813.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "d1/dc7/a15813.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "npcs_riverbreeze_and_silversky", "d1/dc7/a15813.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d1/dc7/a15813.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d1/dc7/a15813.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

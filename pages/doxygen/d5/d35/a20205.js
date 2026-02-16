@@ -1,6 +1,7 @@
 var a20205 =
 [
-    [ "npc_ulduar_iron_constructAI", "d1/d6d/a20209.html", "d1/d6d/a20209" ],
-    [ "npc_ulduar_iron_construct", "d5/d35/a20205.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d5/d35/a20205.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "boss_freya_healthy_spore", "d5/d35/a20205.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d5/d35/a20205.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d5/d35/a20205.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d5/d35/a20205.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

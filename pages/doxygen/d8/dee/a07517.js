@@ -1,13 +1,8 @@
 var a07517 =
 [
-    [ "InvokerEntry", "d7/dc5/a07521.html", "d7/dc5/a07521" ],
-    [ "SubCommandEntry", "d8/dee/a07517.html#a9a01b487be01e84573f7ebe99620541b", null ],
-    [ "ChatCommandBuilder", "d8/dee/a07517.html#a894f6ae19d715d9d3f395736bf7cdb41", null ],
-    [ "ChatCommandBuilder", "d8/dee/a07517.html#ad9b8a40b28eb5944512b6f3033b3a933", null ],
-    [ "ChatCommandBuilder", "d8/dee/a07517.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa", null ],
-    [ "ChatCommandBuilder", "d8/dee/a07517.html#ac2c8cc88865de637f322b54bf6a47e13", null ],
-    [ "ChatCommandBuilder", "d8/dee/a07517.html#a9ecbebaa3c839f57a90dcccca1473913", null ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d8/dee/a07517.html#a3b9ea3963b82697cbe5d6ca86ff29847", null ],
-    [ "_data", "d8/dee/a07517.html#aff0a8c833c04f98abf46aaba4fbf9374", null ],
-    [ "_name", "d8/dee/a07517.html#a4315363c5d25bb157481cbbd3fa0286f", null ]
+    [ "NodeId", "d8/dee/a07517.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
+    [ "TextAllianceTaken", "d8/dee/a07517.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
+    [ "TextAssaulted", "d8/dee/a07517.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
+    [ "TextDefended", "d8/dee/a07517.html#a27ee2d5be23a110943438a8888b14202", null ],
+    [ "TextHordeTaken", "d8/dee/a07517.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
 ];

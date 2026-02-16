@@ -1,6 +1,5 @@
 var a27541 =
 [
-    [ "npc_experience", "df/d2f/a27541.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "df/d2f/a27541.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "df/d2f/a27541.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_controller", "df/d2f/a27541.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "df/d2f/a27541.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

@@ -1,6 +1,5 @@
 var a14037 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "dc/da3/a14041.html", "dc/da3/a14041" ],
-    [ "instance_zulgurub", "d8/dc2/a14037.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "d8/dc2/a14037.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "npc_king_varian_wrynn", "d8/dc2/a14037.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "d8/dc2/a14037.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

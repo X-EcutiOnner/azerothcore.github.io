@@ -1,5 +1,6 @@
 var a24277 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d0/d64/a24277.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
-    [ "OnCharmed", "d0/d64/a24277.html#ada01d7ab11b7bf240cad932c96978a06", null ]
+    [ "PrepareSpellScript", "d0/d64/a24277.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
+    [ "RecalculateDamage", "d0/d64/a24277.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
+    [ "Register", "d0/d64/a24277.html#a834484683d2d782b4f4c027091108172", null ]
 ];

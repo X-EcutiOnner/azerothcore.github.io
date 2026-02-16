@@ -1,6 +1,6 @@
 var a17537 =
 [
-    [ "PrepareSpellScript", "dc/d29/a17537.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "dc/d29/a17537.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "dc/d29/a17537.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "boss_moorabiAI", "d3/dbc/a17541.html", "d3/dbc/a17541" ],
+    [ "boss_moorabi", "dc/d29/a17537.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "dc/d29/a17537.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

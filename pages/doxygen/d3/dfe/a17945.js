@@ -1,10 +1,10 @@
 var a17945 =
 [
-    [ "CountTargets", "d3/dfe/a17945.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "d3/dfe/a17945.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "d3/dfe/a17945.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "d3/dfe/a17945.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "d3/dfe/a17945.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "d3/dfe/a17945.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "d3/dfe/a17945.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "npc_gunship_gunnerAI", "d3/dfe/a17945.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "d3/dfe/a17945.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "d3/dfe/a17945.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "d3/dfe/a17945.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "d3/dfe/a17945.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "d3/dfe/a17945.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "d3/dfe/a17945.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

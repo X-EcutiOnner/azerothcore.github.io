@@ -1,6 +1,6 @@
 var a15121 =
 [
-    [ "aqsentinelAI", "df/da9/a15125.html", "df/da9/a15125" ],
-    [ "npc_anubisath_sentinel", "d2/d94/a15121.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d2/d94/a15121.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "npc_crate_helperAI", "d2/d94/a15121.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d2/d94/a15121.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d2/d94/a15121.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

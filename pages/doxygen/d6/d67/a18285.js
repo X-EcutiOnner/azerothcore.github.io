@@ -1,7 +1,6 @@
 var a18285 =
 [
-    [ "HandleProc", "d6/d67/a18285.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d6/d67/a18285.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d6/d67/a18285.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d6/d67/a18285.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_little_oozeAI", "d7/dac/a18289.html", "d7/dac/a18289" ],
+    [ "npc_little_ooze", "d6/d67/a18285.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d6/d67/a18285.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

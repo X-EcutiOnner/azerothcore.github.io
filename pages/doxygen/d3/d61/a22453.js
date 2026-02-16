@@ -1,14 +1,8 @@
 var a22453 =
 [
-    [ "OutdoorPvPNA", "d3/d61/a22453.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "d3/d61/a22453.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "d3/d61/a22453.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "d3/d61/a22453.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "d3/d61/a22453.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "d3/d61/a22453.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "d3/d61/a22453.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "d3/d61/a22453.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "d3/d61/a22453.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "d3/d61/a22453.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "d3/d61/a22453.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "boss_darkweaver_syth", "d3/d61/a22453.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d3/d61/a22453.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d3/d61/a22453.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d3/d61/a22453.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d3/d61/a22453.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

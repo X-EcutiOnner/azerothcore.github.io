@@ -1,6 +1,11 @@
 var a23849 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d7/d19/a23853.html", "d7/d19/a23853" ],
-    [ "instance_mechanar", "de/d29/a23849.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "de/d29/a23849.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "npc_magister_aledis", "de/d29/a23849.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "de/d29/a23849.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "de/d29/a23849.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "de/d29/a23849.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "de/d29/a23849.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "de/d29/a23849.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "de/d29/a23849.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "de/d29/a23849.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

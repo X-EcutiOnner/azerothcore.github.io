@@ -1,9 +1,13 @@
 var a22289 =
 [
-    [ "HandleFinish", "de/dc1/a22289.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "de/dc1/a22289.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "de/dc1/a22289.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "de/dc1/a22289.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "de/dc1/a22289.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "de/dc1/a22289.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "OPvPCapturePointEP_EWT", "de/dc1/a22289.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "de/dc1/a22289.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "de/dc1/a22289.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "de/dc1/a22289.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "de/dc1/a22289.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "de/dc1/a22289.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "de/dc1/a22289.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "de/dc1/a22289.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "de/dc1/a22289.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "de/dc1/a22289.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

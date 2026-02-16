@@ -1,15 +1,10 @@
 var a14477 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d4/d53/a14477.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
-    [ "Initialize", "d4/d53/a14477.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
-    [ "IsFireEventDone", "d4/d53/a14477.html#aadba63a6fa6025858e78712892e4a343", null ],
-    [ "OnCreatureCreate", "d4/d53/a14477.html#ab5e452958bc474e60fd3f637595629c1", null ],
-    [ "OnGameObjectCreate", "d4/d53/a14477.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
-    [ "OnUnitDeath", "d4/d53/a14477.html#a163178ce8e79aa0bc082172465527173", null ],
-    [ "ReadSaveDataMore", "d4/d53/a14477.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
-    [ "SetData", "d4/d53/a14477.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
-    [ "WriteSaveDataMore", "d4/d53/a14477.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
-    [ "_akumaiPortalGUID", "d4/d53/a14477.html#a37b3647e927798d77a17f99976910b4b", null ],
-    [ "_encounters", "d4/d53/a14477.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
-    [ "_requiredDeaths", "d4/d53/a14477.html#a3aade6e7fb756b84180876b4ba086376", null ]
+    [ "npc_zealot_zath", "d4/d53/a14477.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d4/d53/a14477.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d4/d53/a14477.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d4/d53/a14477.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d4/d53/a14477.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d4/d53/a14477.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d4/d53/a14477.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

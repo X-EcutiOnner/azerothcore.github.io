@@ -1,6 +1,5 @@
 var a16077 =
 [
-    [ "npc_living_infernoAI", "dc/d96/a16081.html", "dc/d96/a16081" ],
-    [ "npc_living_inferno", "d6/dbc/a16077.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d6/dbc/a16077.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "go_elune_fire", "d6/dbc/a16077.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "d6/dbc/a16077.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

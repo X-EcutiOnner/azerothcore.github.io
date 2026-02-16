@@ -1,6 +1,6 @@
 var a18049 =
 [
-    [ "HandleScript", "d9/d1f/a18049.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d9/d1f/a18049.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d9/d1f/a18049.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "CheckProc", "d9/d1f/a18049.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d9/d1f/a18049.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d9/d1f/a18049.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

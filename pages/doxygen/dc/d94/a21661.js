@@ -1,6 +1,6 @@
 var a21661 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "da/d83/a21665.html", "da/d83/a21665" ],
-    [ "npc_injured_7th_legion_soldier", "dc/d94/a21661.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "dc/d94/a21661.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_spiritual_insightAI", "dc/d94/a21661.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "dc/d94/a21661.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "dc/d94/a21661.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

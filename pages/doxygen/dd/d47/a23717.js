@@ -1,7 +1,6 @@
 var a23717 =
 [
-    [ "OnApply", "dd/d47/a23717.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "dd/d47/a23717.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "dd/d47/a23717.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "dd/d47/a23717.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "HandleAfterRemove", "dd/d47/a23717.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "dd/d47/a23717.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "dd/d47/a23717.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

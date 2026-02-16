@@ -1,57 +1,43 @@
 var a03884 =
 [
-    [ "OPvPCapturePointEP_EWT", "de/d72/a22676.html", "de/d72/a22676" ],
-    [ "OPvPCapturePointEP_NPT", "d2/d0e/a22680.html", "d2/d0e/a22680" ],
-    [ "OPvPCapturePointEP_CGT", "d2/df0/a22684.html", "d2/df0/a22684" ],
-    [ "OPvPCapturePointEP_PWT", "d3/db4/a22688.html", "d3/db4/a22688" ],
-    [ "OutdoorPvPEP", "da/ddc/a22692.html", "da/ddc/a22692" ],
-    [ "EP_GoSummons", "d6/db7/a03884.html#a0b5226d66242870e9f2bd6067ac871da", [
-      [ "EP_NPT_BUFF", "d6/db7/a03884.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0", null ],
-      [ "EP_NPT_FLAGS", "d6/db7/a03884.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9", null ],
-      [ "EP_EWT_FLAGS", "d6/db7/a03884.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0", null ],
-      [ "EP_CGT_FLAGS", "d6/db7/a03884.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc", null ],
-      [ "EP_PWT_FLAGS", "d6/db7/a03884.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d", null ]
+    [ "DataHeader", "d6/db7/a03884.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d6/db7/a03884.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterMagistersTerraceCreatureAI", "d6/db7/a03884.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
+    [ "CreatureTexts", "d6/db7/a03884.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
+      [ "SAY_KALECGOS_SPAWN", "d6/db7/a03884.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
     ] ],
-    [ "EP_Summons", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847", [
-      [ "EP_EWT_COMMANDER", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c", null ],
-      [ "EP_EWT_SOLDIER1", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3", null ],
-      [ "EP_EWT_SOLDIER2", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7", null ],
-      [ "EP_EWT_SOLDIER3", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc", null ],
-      [ "EP_EWT_SOLDIER4", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d", null ],
-      [ "EP_PWT_FLIGHTMASTER", "d6/db7/a03884.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89", null ]
+    [ "InstanceEventIds", "d6/db7/a03884.html#ab51342a4a8f5976e51b0074f9a5746f8", [
+      [ "EVENT_SPAWN_KALECGOS", "d6/db7/a03884.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
     ] ],
-    [ "EP_Towers", "d6/db7/a03884.html#acb017cec20a6986c80544c74f4755313", [
-      [ "EP_EWT", "d6/db7/a03884.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535", null ],
-      [ "EP_NPT", "d6/db7/a03884.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869", null ],
-      [ "EP_PWT", "d6/db7/a03884.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e", null ],
-      [ "EP_CGT", "d6/db7/a03884.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda", null ],
-      [ "EP_TOWER_NUM", "d6/db7/a03884.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73", null ]
+    [ "MovementData", "d6/db7/a03884.html#aed5999eedcf185b65654ded53dc601d3", [
+      [ "PATH_KALECGOS_FLIGHT", "d6/db7/a03884.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
     ] ],
-    [ "EP_TowerStates", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2c", [
-      [ "EP_TS_N", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c", null ],
-      [ "EP_TS_N_A", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589", null ],
-      [ "EP_TS_N_H", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7", null ],
-      [ "EP_TS_A_P", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf", null ],
-      [ "EP_TS_H_P", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866", null ],
-      [ "EP_TS_A", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0", null ],
-      [ "EP_TS_H", "d6/db7/a03884.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b", null ]
+    [ "MTCreatures", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18b", [
+      [ "NPC_DELRISSA", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
+      [ "NPC_FEL_CRYSTAL", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
+      [ "NPC_KAEL_THAS", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
+      [ "NPC_PHOENIX", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
+      [ "NPC_PHOENIX_EGG", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
+      [ "NPC_KALECGOS", "d6/db7/a03884.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
     ] ],
-    [ "EP_AllianceBuffs", "d6/db7/a03884.html#a39190e48b2170e2d0d0628b06d6da8f1", null ],
-    [ "EP_CGT_CM", "d6/db7/a03884.html#a4eb66c50d410c58b22546406eda37e5f", null ],
-    [ "EP_EWT_CM", "d6/db7/a03884.html#a9bf83dc59a4ca7a56297e572ee782e9e", null ],
-    [ "EP_EWT_NUM_CREATURES", "d6/db7/a03884.html#aa62021ba8da0171188d5327cade2d79c", null ],
-    [ "EP_EWT_Summons_A", "d6/db7/a03884.html#a13c9b3f39108790585875365648e6a51", null ],
-    [ "EP_EWT_Summons_H", "d6/db7/a03884.html#adae054ab5e44ffc0c7a528c417aff670", null ],
-    [ "EP_GraveyardId", "d6/db7/a03884.html#a1751b41516eaecd46b28e8a1f80c6f07", null ],
-    [ "EP_GraveyardZone", "d6/db7/a03884.html#a3b7f1cd13477df42bd29e674cb329ad4", null ],
-    [ "EP_HordeBuffs", "d6/db7/a03884.html#a870abed831404a02d171e9cf1bd741cb", null ],
-    [ "EP_NPT_CM", "d6/db7/a03884.html#aad6c6d1e803fa77420b7d8bc5450975a", null ],
-    [ "EP_NPT_LordaeronShrine", "d6/db7/a03884.html#ab95dc19577389e3d84821796921e3cc1", null ],
-    [ "EP_NUM_CREATURES", "d6/db7/a03884.html#a60340c7ab3a1dd51078336de7759f588", null ],
-    [ "EP_PWT_CM", "d6/db7/a03884.html#a25cbe7281f91d6a29b183f97340385ef", null ],
-    [ "EP_PWT_FlightMaster", "d6/db7/a03884.html#ab9af729b1e6ed3b993d963037395a531", null ],
-    [ "EPBuffZones", "d6/db7/a03884.html#a2acf7be696695ceaa968a2eac356e562", null ],
-    [ "EPBuffZonesNum", "d6/db7/a03884.html#a8e411865d0acd6cd6c6f10172adf4ad4", null ],
-    [ "EPCapturePoints", "d6/db7/a03884.html#a45924b22012276ef73ca0a50fa786e52", null ],
-    [ "EPTowerFlags", "d6/db7/a03884.html#af18f636f66cc238611a1f2dd03b2ddcb", null ]
+    [ "MTData", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059", [
+      [ "DATA_SELIN_FIREHEART", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
+      [ "DATA_VEXALLUS", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
+      [ "DATA_DELRISSA", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
+      [ "DATA_KAELTHAS", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
+      [ "MAX_ENCOUNTER", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_KALECGOS", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
+      [ "DATA_ESCAPE_ORB", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
+      [ "DATA_KAEL_INTRO", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
+      [ "MAX_PERSISTENT_DATA", "d6/db7/a03884.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "MTGameObjects", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867d", [
+      [ "GO_VEXALLUS_DOOR", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
+      [ "GO_SELIN_DOOR", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
+      [ "GO_SELIN_ENCOUNTER_DOOR", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
+      [ "GO_DELRISSA_DOOR", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
+      [ "GO_KAEL_DOOR", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
+      [ "GO_ESCAPE_ORB", "d6/db7/a03884.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
+    ] ],
+    [ "GetMagistersTerraceAI", "d6/db7/a03884.html#ace003ea34649a460da4afbd65b38c987", null ]
 ];

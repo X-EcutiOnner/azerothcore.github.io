@@ -1,6 +1,6 @@
 var a17681 =
 [
-    [ "BoneStormMoveTargetSelector", "d1/ddc/a17681.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "d1/ddc/a17681.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "d1/ddc/a17681.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "PrepareSpellScript", "d1/ddc/a17681.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d1/ddc/a17681.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d1/ddc/a17681.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

@@ -1,8 +1,17 @@
 var a20713 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "db/d97/a20713.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "db/d97/a20713.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "db/d97/a20713.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "db/d97/a20713.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "db/d97/a20713.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "boss_yoggsaron", "db/d97/a20713.html#a8259945dfb8a3762945281df6047f9fc", null ],
+    [ "AttackStart", "db/d97/a20713.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DoAction", "db/d97/a20713.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "db/d97/a20713.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "db/d97/a20713.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "db/d97/a20713.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SpellHit", "db/d97/a20713.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "db/d97/a20713.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "db/d97/a20713.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_thirdPhase", "db/d97/a20713.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "db/d97/a20713.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "db/d97/a20713.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "m_pInstance", "db/d97/a20713.html#a5200293f483d4e15ca903a1eba8b59d9", null ],
+    [ "summons", "db/d97/a20713.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

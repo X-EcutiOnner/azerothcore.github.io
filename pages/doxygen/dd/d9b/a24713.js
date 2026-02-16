@@ -1,9 +1,7 @@
 var a24713 =
 [
-    [ "FilterTargets", "dd/d9b/a24713.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "dd/d9b/a24713.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "dd/d9b/a24713.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "dd/d9b/a24713.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "dd/d9b/a24713.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "dd/d9b/a24713.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "HandleEffectRemove", "dd/d9b/a24713.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "dd/d9b/a24713.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "dd/d9b/a24713.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "dd/d9b/a24713.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

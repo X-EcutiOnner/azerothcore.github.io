@@ -1,9 +1,8 @@
 var a14725 =
 [
-    [ "boss_chrono_lord_deja", "dc/d92/a14725.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "dc/d92/a14725.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "dc/d92/a14725.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "dc/d92/a14725.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "dc/d92/a14725.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "dc/d92/a14725.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "HandleDummy", "dc/d92/a14725.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "dc/d92/a14725.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "dc/d92/a14725.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "dc/d92/a14725.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "dc/d92/a14725.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

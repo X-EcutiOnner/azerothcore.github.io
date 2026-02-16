@@ -1,8 +1,5 @@
 var a20841 =
 [
-    [ "FilterTargets", "d9/d50/a20841.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d9/d50/a20841.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d9/d50/a20841.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d9/d50/a20841.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d9/d50/a20841.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d9/d50/a20841.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d9/d50/a20841.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

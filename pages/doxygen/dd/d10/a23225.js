@@ -1,7 +1,8 @@
 var a23225 =
 [
-    [ "PeriodicTick", "dd/d10/a23225.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "dd/d10/a23225.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "dd/d10/a23225.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "dd/d10/a23225.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "boss_the_black_stalker", "dd/d10/a23225.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "dd/d10/a23225.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "dd/d10/a23225.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "dd/d10/a23225.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "dd/d10/a23225.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

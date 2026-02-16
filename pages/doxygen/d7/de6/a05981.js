@@ -1,7 +1,7 @@
 var a05981 =
 [
-    [ "ReactorAI", "d7/de6/a05981.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "d7/de6/a05981.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "d7/de6/a05981.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "d7/de6/a05981.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "TransactionWithResultTask", "d7/de6/a05981.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d7/de6/a05981.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d7/de6/a05981.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d7/de6/a05981.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

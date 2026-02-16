@@ -1,8 +1,15 @@
 var a08233 =
 [
-    [ "PlayerCreateInfoAction", "dd/d71/a08233.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "dd/d71/a08233.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "dd/d71/a08233.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "dd/d71/a08233.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "dd/d71/a08233.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "Minion", "dd/d71/a08233.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "dd/d71/a08233.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "dd/d71/a08233.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "dd/d71/a08233.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "dd/d71/a08233.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "dd/d71/a08233.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "dd/d71/a08233.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "dd/d71/a08233.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "dd/d71/a08233.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "dd/d71/a08233.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "dd/d71/a08233.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "dd/d71/a08233.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

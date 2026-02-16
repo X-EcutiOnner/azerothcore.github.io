@@ -1,6 +1,7 @@
 var a19409 =
 [
-    [ "npc_spark_of_ionarAI", "d6/de3/a19413.html", "d6/de3/a19413" ],
-    [ "npc_spark_of_ionar", "de/d17/a19409.html#a63578a0d77331849b7a48272870af04d", null ],
-    [ "GetAI", "de/d17/a19409.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
+    [ "HandleScript", "de/d17/a19409.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "de/d17/a19409.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "de/d17/a19409.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "de/d17/a19409.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

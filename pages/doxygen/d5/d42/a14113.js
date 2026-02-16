@@ -1,9 +1,8 @@
 var a14113 =
 [
-    [ "npc_brew_bubble", "d5/d42/a14113.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d5/d42/a14113.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d5/d42/a14113.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d5/d42/a14113.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d5/d42/a14113.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d5/d42/a14113.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_the_scourge_cauldronAI", "d5/d42/a14113.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d5/d42/a14113.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d5/d42/a14113.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d5/d42/a14113.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d5/d42/a14113.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

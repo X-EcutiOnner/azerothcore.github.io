@@ -1,6 +1,7 @@
 var a20537 =
 [
-    [ "boss_thorim_pillarAI", "df/d7c/a20541.html", "df/d7c/a20541" ],
-    [ "boss_thorim_pillar", "db/ddb/a20537.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "db/ddb/a20537.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/ddb/a20537.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "db/ddb/a20537.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "db/ddb/a20537.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "db/ddb/a20537.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

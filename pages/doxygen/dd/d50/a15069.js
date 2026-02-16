@@ -1,6 +1,12 @@
 var a15069 =
 [
-    [ "FilterTargets", "dd/d50/a15069.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "dd/d50/a15069.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "dd/d50/a15069.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "boss_epochAI", "dd/d50/a15069.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "dd/d50/a15069.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "dd/d50/a15069.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "dd/d50/a15069.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "dd/d50/a15069.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "dd/d50/a15069.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "dd/d50/a15069.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "dd/d50/a15069.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "dd/d50/a15069.html#a478113af1ce565c729604c6039f55551", null ]
 ];

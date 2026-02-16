@@ -1,25 +1,86 @@
 var a04148 =
 [
-    [ "Socket< T >", "d3/d0e/a28760.html", "d3/d0e/a28760" ],
-    [ "READ_BLOCK_SIZE", "dc/d9e/a04148.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
-    [ "IoContextTcpSocket", "dc/d9e/a04148.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
-    [ "ProxyHeaderAddressFamilyAndProtocol", "dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1", [
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "dc/d9e/a04148.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    [ "HideNpcEvent", "d0/d46/a16661.html", "d0/d46/a16661" ],
+    [ "boss_anubarak_trial", "d2/dc1/a16665.html", "d2/dc1/a16665" ],
+    [ "boss_anubarak_trial::boss_anubarak_trialAI", "dd/da7/a16669.html", "dd/da7/a16669" ],
+    [ "npc_swarm_scarab", "da/d18/a16673.html", "da/d18/a16673" ],
+    [ "npc_swarm_scarab::npc_swarm_scarabAI", "d3/d6d/a16677.html", "d3/d6d/a16677" ],
+    [ "npc_frost_sphere", "db/d55/a16681.html", "db/d55/a16681" ],
+    [ "npc_frost_sphere::npc_frost_sphereAI", "dc/de2/a16685.html", "dc/de2/a16685" ],
+    [ "npc_nerubian_burrower", "d3/d56/a16689.html", "d3/d56/a16689" ],
+    [ "npc_nerubian_burrower::npc_nerubian_burrowerAI", "de/d47/a16693.html", "de/d47/a16693" ],
+    [ "npc_anubarak_spike", "d8/d72/a16697.html", "d8/d72/a16697" ],
+    [ "npc_anubarak_spike::npc_anubarak_spikeAI", "d2/dd7/a16701.html", "d2/dd7/a16701" ],
+    [ "spell_pursuing_spikes_aura", "dd/d9a/a16705.html", "dd/d9a/a16705" ],
+    [ "spell_gen_leeching_swarm_aura", "db/dfc/a16709.html", "db/dfc/a16709" ],
+    [ "spell_gen_leeching_swarm_dmg", "d2/dca/a16713.html", "d2/dca/a16713" ],
+    [ "AnubEvents", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7", [
+      [ "EVENT_RESPAWN_SPHERE", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a0597adc13f5dd2eb4fe687ddbae1deee", null ],
+      [ "EVENT_ENRAGE", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a470d03afa22c989a62d65ba1ce60863b", null ],
+      [ "EVENT_SPELL_FREEZING_SLASH", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a74fa33308b389332375eba76d7b39ffd", null ],
+      [ "EVENT_SPELL_PENETRATING_COLD", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a3844ddb61226ceb7e963708ccbacf851", null ],
+      [ "EVENT_SUMMON_NERUBIAN", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a517677eb09071c6ad604b3d695aeedb5", null ],
+      [ "EVENT_SUBMERGE", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7ac03b7f1947bf9753f19061f508b61a73", null ],
+      [ "EVENT_EMERGE", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_EMERGE_2", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a153792d957579f6b5e9942939f9992cb", null ],
+      [ "EVENT_SPELL_SUMMON_SPIKE", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a986aa1943c71247df01ee0a3120362b3", null ],
+      [ "EVENT_SPELL_SHADOW_STRIKE", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7af9cc8caa8e5f67aa9c74749e244dde2c", null ],
+      [ "EVENT_SUMMON_SCARAB", "dc/d9e/a04148.html#a4c54b6a6293526d9aa3a5e9736e490f7a7a702862eae47fe3ce32723b1560bc23", null ]
     ] ],
-    [ "ProxyHeaderReadingState", "dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272", [
-      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
-      [ "PROXY_HEADER_READING_STATE_STARTED", "dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
-      [ "PROXY_HEADER_READING_STATE_FINISHED", "dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
-      [ "PROXY_HEADER_READING_STATE_FAILED", "dc/d9e/a04148.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
+    [ "AnubNPCs", "dc/d9e/a04148.html#a950017bc99bfb958b7c8617784f4db25", [
+      [ "NPC_FROST_SPHERE", "dc/d9e/a04148.html#a950017bc99bfb958b7c8617784f4db25a168177bf6448a582c61896b0103da6b3", null ],
+      [ "NPC_BURROW", "dc/d9e/a04148.html#a950017bc99bfb958b7c8617784f4db25a6e683e595a9beb2400cde6a0a786c3a6", null ],
+      [ "NPC_BURROWER", "dc/d9e/a04148.html#a950017bc99bfb958b7c8617784f4db25ad02c36aa55c6c4cda027f344749b80e1", null ],
+      [ "NPC_SCARAB", "dc/d9e/a04148.html#a950017bc99bfb958b7c8617784f4db25aa821a34ce4ede17b251360c5a4bfe10a", null ],
+      [ "NPC_SPIKE", "dc/d9e/a04148.html#a950017bc99bfb958b7c8617784f4db25a70d6aea9018674ae57e2b827e96ff93b", null ]
     ] ],
-    [ "SocketReadCallbackResult", "dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3", [
-      [ "KeepReading", "dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
-      [ "Stop", "dc/d9e/a04148.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
+    [ "AnubSpells", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0", [
+      [ "SPELL_SUBMERGE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0ae718d7606fc2054f360525e4d0a79d28", null ],
+      [ "SPELL_EMERGE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
+      [ "SPELL_BERSERK", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CLEAR_ALL_DEBUFFS", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a0b01bb6d3fb8443b07a687c16d86009d", null ],
+      [ "SPELL_FREEZING_SLASH", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9f20ed0dd0f8ce69aa2f4c5b771cef0f", null ],
+      [ "SPELL_PENETRATING_COLD", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac4438d8b4cf07d9e5eadf88b04b7cb99", null ],
+      [ "SPELL_SUMMON_SCARAB", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac66c09471de9a8c7308d5d36e4a64791", null ],
+      [ "SPELL_SUMMON_BURROWER", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a2562b025f710f01506300d90550a5eda", null ],
+      [ "SPELL_LEECHING_SWARM", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a179e7766f313d1186b34946a356a5b2f", null ],
+      [ "SPELL_MARK", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a6c52e58c00f243bdb7a03fb464161104", null ],
+      [ "SPELL_SUMMON_SPIKE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0acbf26a5fda006e38db761950d3d90b1f", null ],
+      [ "SPELL_SPIKE_SPEED1", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0af285f71f445522bbaa034ae592fc4f67", null ],
+      [ "SPELL_SPIKE_TRAIL", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a4b2a559100f0ad8e20d5af2e27543a65", null ],
+      [ "SPELL_SPIKE_SPEED2", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a6f1ffe4a18491a0a49639a12be76260f", null ],
+      [ "SPELL_SPIKE_SPEED3", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0add584493de7a7bb9628363b2093fddd7", null ],
+      [ "SPELL_SPIKE_FAIL", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9de5053a209b6640e69d2f9414d88943", null ],
+      [ "SPELL_SPIKE_TELE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7fadae1406ee8ef3cd6aee468fd37530", null ],
+      [ "SPELL_IMPALE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0aed97c932510c91b6057175b2df166f63", null ],
+      [ "SPELL_DETERMINATION", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a336f40798ac55a5c014a786f7d34f10f", null ],
+      [ "SPELL_ACID_MANDIBLE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0afdc5a48b99870385905c544e99e1ca69", null ],
+      [ "SPELL_CHURNING_GROUND", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a42625835db53ddb481cd4b1aab6aedfe", null ],
+      [ "SPELL_FROST_SPHERE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a1b32cb53e97f68d033481222982b9fe6", null ],
+      [ "SPELL_PERMAFROST", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0acfbb84c268887505646fb54930d478cd", null ],
+      [ "SPELL_PERMAFROST_VISUAL", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0aca28d8d315450412141c2b131f46b9ca", null ],
+      [ "SPELL_SPIDER_FRENZY", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9c900e89338020fc265152560a0b45e9", null ],
+      [ "SPELL_EXPOSE_WEAKNESS", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a24b49f700d2923412938f4e6d148ce82", null ],
+      [ "SPELL_SHADOW_STRIKE", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7a15a2c5e800c390b1c073f0e768c0ff", null ],
+      [ "SPELL_SUBMERGE_EFFECT", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a8402ad1984647d8e20727fb14899568b", null ],
+      [ "SPELL_EMERGE_EFFECT", "dc/d9e/a04148.html#a23c29bdbaa746dce4769b8fce9a7a0c0a65257ac8ad276a30e852a8b8e80de2a4", null ]
     ] ],
-    [ "SocketState", "dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7", [
-      [ "Open", "dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
-      [ "Closing", "dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
-      [ "Closed", "dc/d9e/a04148.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
-    ] ]
+    [ "AnubTexts", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9", [
+      [ "SAY_INTRO", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9af5bc3db04213b3bf118af6ce85b5a637", null ],
+      [ "SAY_AGGRO", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "EMOTE_SUBMERGE", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9a2de75a94c63b35b7198bd89cf36a943e", null ],
+      [ "EMOTE_BURROWER", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9a220f065098e50495185136876d724396", null ],
+      [ "SAY_EMERGE", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9a045d09c010190c9e3f98dfe0541309a4", null ],
+      [ "SAY_LEECHING_SWARM", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9afce2f4e0a9aa542ac0a56af8d223b86e", null ],
+      [ "EMOTE_LEECHING_SWARM", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9aa16633ab77a4b7768c191bde880ca194", null ],
+      [ "SAY_KILL_PLAYER", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9ad8ce3f4de5ecaa5762ee8b55570503a4", null ],
+      [ "SAY_DEATH", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "EMOTE_SPIKE", "dc/d9e/a04148.html#aaa815423de25318c68dccd5d793b42d9af530b7fc089ed8a5a0d47fdebb0c85de", null ]
+    ] ],
+    [ "eLeechingSwarmSpells", "dc/d9e/a04148.html#ae803377c36f65ae72bcce727fd91f691", [
+      [ "SPELL_LEECHING_SWARM_DMG", "dc/d9e/a04148.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f", null ],
+      [ "SPELL_LEECHING_SWARM_HEAL", "dc/d9e/a04148.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4", null ]
+    ] ],
+    [ "AddSC_boss_anubarak_trial", "dc/d9e/a04148.html#a58e9222dd2a3eacee9779116fd46ab48", null ],
+    [ "AnubLocs", "dc/d9e/a04148.html#a3101a2bec64ee0361d6e1e30f3dead1f", null ]
 ];

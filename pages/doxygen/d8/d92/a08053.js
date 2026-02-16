@@ -1,10 +1,7 @@
 var a08053 =
 [
-    [ "FormationMgr", "d8/d92/a08053.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "d8/d92/a08053.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "d8/d92/a08053.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "d8/d92/a08053.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "d8/d92/a08053.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "d8/d92/a08053.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "d8/d92/a08053.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "LfgProposalPlayer", "d8/d92/a08053.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "d8/d92/a08053.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "d8/d92/a08053.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "d8/d92/a08053.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

@@ -1,6 +1,6 @@
 var a11685 =
 [
-    [ "player_settings_commandscript", "d8/d1e/a11685.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d8/d1e/a11685.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d8/d1e/a11685.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "AfterCheckProcHandler", "d8/d1e/a11685.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
+    [ "Call", "d8/d1e/a11685.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
+    [ "_HandlerScript", "d8/d1e/a11685.html#af5a393efc729e8588c0fc425fdfead99", null ]
 ];

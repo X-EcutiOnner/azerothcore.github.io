@@ -1,8 +1,11 @@
 var a13341 =
 [
-    [ "HandleApply", "d1/dc4/a13341.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d1/dc4/a13341.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d1/dc4/a13341.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d1/dc4/a13341.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d1/dc4/a13341.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "npc_a_special_surpriseAI", "d1/dc4/a13341.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "d1/dc4/a13341.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "d1/dc4/a13341.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "d1/dc4/a13341.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "d1/dc4/a13341.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "d1/dc4/a13341.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "d1/dc4/a13341.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "d1/dc4/a13341.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

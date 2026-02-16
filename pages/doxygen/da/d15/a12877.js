@@ -1,5 +1,6 @@
 var a12877 =
 [
-    [ "go_inconspicuous_mine_car", "da/d15/a12877.html#a34e941a813079b55f66bea15cffe8f42", null ],
-    [ "OnGossipHello", "da/d15/a12877.html#a256a8f766dd045613c0c7159db9f74e0", null ]
+    [ "npc_mc_core_houndAI", "dc/d49/a12881.html", "dc/d49/a12881" ],
+    [ "npc_mc_core_hound", "da/d15/a12877.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "da/d15/a12877.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

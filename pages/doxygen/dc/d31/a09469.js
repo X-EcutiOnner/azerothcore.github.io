@@ -1,8 +1,8 @@
 var a09469 =
 [
-    [ "flags", "dc/d31/a09469.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "dc/d31/a09469.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "dc/d31/a09469.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "dc/d31/a09469.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "dc/d31/a09469.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "dc/d31/a09469.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "dc/d31/a09469.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "dc/d31/a09469.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "dc/d31/a09469.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "dc/d31/a09469.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

@@ -1,8 +1,7 @@
 var a11225 =
 [
-    [ "EffectHandler", "d1/ddc/a11225.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d1/ddc/a11225.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d1/ddc/a11225.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d1/ddc/a11225.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d1/ddc/a11225.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "TimeQueryResponse", "d1/ddc/a11225.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "d1/ddc/a11225.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "d1/ddc/a11225.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "d1/ddc/a11225.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

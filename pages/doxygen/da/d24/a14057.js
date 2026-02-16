@@ -1,6 +1,6 @@
 var a14057 =
 [
-    [ "npc_brewfest_keg_reciver", "da/d24/a14057.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "da/d24/a14057.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "da/d24/a14057.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "npc_parqual_fintallas", "da/d24/a14057.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "da/d24/a14057.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "da/d24/a14057.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

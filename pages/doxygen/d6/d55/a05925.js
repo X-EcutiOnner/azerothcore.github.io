@@ -1,12 +1,17 @@
 var a05925 =
 [
-    [ "CombatAI", "d6/d55/a05925.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
-    [ "InitializeAI", "d6/d55/a05925.html#a70caf22165251220365d03873b3d3f17", null ],
-    [ "JustDied", "d6/d55/a05925.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
-    [ "JustEngagedWith", "d6/d55/a05925.html#ab157082819d821cf0b0093f084111e16", null ],
-    [ "Permissible", "d6/d55/a05925.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
-    [ "Reset", "d6/d55/a05925.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
-    [ "UpdateAI", "d6/d55/a05925.html#af12583d15ccd183f6236c1889d539b9b", null ],
-    [ "events", "d6/d55/a05925.html#af59650830fa1abdf8eec179a12e328e7", null ],
-    [ "spells", "d6/d55/a05925.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
+    [ "QueryCallbackData", "d6/d55/a05925.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "d6/d55/a05925.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "d6/d55/a05925.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "d6/d55/a05925.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "d6/d55/a05925.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "d6/d55/a05925.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "d6/d55/a05925.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "d6/d55/a05925.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d6/d55/a05925.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d6/d55/a05925.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "d6/d55/a05925.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "d6/d55/a05925.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "d6/d55/a05925.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "d6/d55/a05925.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

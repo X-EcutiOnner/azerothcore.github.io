@@ -1,7 +1,6 @@
 var a25069 =
 [
-    [ "HandleScriptEffect", "d6/d9b/a25069.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
-    [ "PrepareSpellScript", "d6/d9b/a25069.html#af4320dd6567d8c9cb2a1492095a98459", null ],
-    [ "Register", "d6/d9b/a25069.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
-    [ "Validate", "d6/d9b/a25069.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
+    [ "CheckRequirement", "d6/d9b/a25069.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d6/d9b/a25069.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d6/d9b/a25069.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

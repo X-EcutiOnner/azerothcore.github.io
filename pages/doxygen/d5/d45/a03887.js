@@ -1,11 +1,12 @@
 var a03887 =
 [
-    [ "AddOutdoorPvPScripts", "d5/d45/a03887.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
-    [ "AddSC_outdoorpvp_ep", "d5/d45/a03887.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
-    [ "AddSC_outdoorpvp_gh", "d5/d45/a03887.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
-    [ "AddSC_outdoorpvp_hp", "d5/d45/a03887.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "AddSC_outdoorpvp_na", "d5/d45/a03887.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "AddSC_outdoorpvp_si", "d5/d45/a03887.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
-    [ "AddSC_outdoorpvp_tf", "d5/d45/a03887.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
-    [ "AddSC_outdoorpvp_zm", "d5/d45/a03887.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "instance_magisters_terrace", "d3/da0/a13241.html", "d3/da0/a13241" ],
+    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "db/df1/a13245.html", "db/df1/a13245" ],
+    [ "AddSC_instance_magisters_terrace", "d5/d45/a03887.html#a39e3bff767d59081afebb72eeb3a1646", null ],
+    [ "boundaries", "d5/d45/a03887.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d5/d45/a03887.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d5/d45/a03887.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d5/d45/a03887.html#a845a92716bd40c99a93eb0715cd737b0", null ],
+    [ "KalecgosSpawnPos", "d5/d45/a03887.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
+    [ "summonerData", "d5/d45/a03887.html#acefca1a118e299acbb631fc6166a1526", null ]
 ];

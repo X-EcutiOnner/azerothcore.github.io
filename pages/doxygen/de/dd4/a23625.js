@@ -1,13 +1,5 @@
 var a23625 =
 [
-    [ "boss_wrath_scryer_soccothrates", "de/dd4/a23625.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "de/dd4/a23625.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "de/dd4/a23625.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "de/dd4/a23625.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "de/dd4/a23625.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "de/dd4/a23625.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "de/dd4/a23625.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "de/dd4/a23625.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "de/dd4/a23625.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "de/dd4/a23625.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "npc_lord_sanguinar", "de/dd4/a23625.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "de/dd4/a23625.html#af9231da98547875527a519c5884cbec0", null ]
 ];

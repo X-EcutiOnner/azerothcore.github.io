@@ -1,18 +1,16 @@
 var a22041 =
 [
-    [ "npc_blessed_bannerAI", "d5/d01/a22041.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "d5/d01/a22041.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "d5/d01/a22041.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "d5/d01/a22041.html#a354921ca9a3603c48885a38a507347c4", null ],
-    [ "MoveInLineOfSight", "d5/d01/a22041.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "d5/d01/a22041.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "d5/d01/a22041.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "d5/d01/a22041.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "d5/d01/a22041.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "d5/d01/a22041.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "d5/d01/a22041.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "d5/d01/a22041.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "d5/d01/a22041.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "d5/d01/a22041.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "d5/d01/a22041.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "npc_frosthound", "d5/d01/a22041.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "d5/d01/a22041.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "d5/d01/a22041.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "d5/d01/a22041.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "d5/d01/a22041.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "d5/d01/a22041.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "d5/d01/a22041.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "d5/d01/a22041.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "d5/d01/a22041.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "d5/d01/a22041.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "d5/d01/a22041.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "_completionWaypoint", "d5/d01/a22041.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "d5/d01/a22041.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

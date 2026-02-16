@@ -1,8 +1,7 @@
 var a09289 =
 [
-    [ "MostHPMissingInRange", "d7/d36/a09289.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d7/d36/a09289.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d7/d36/a09289.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d7/d36/a09289.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d7/d36/a09289.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "GridTerrainUnloader", "d7/d36/a09289.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
+    [ "UnloadTerrain", "d7/d36/a09289.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
+    [ "_grid", "d7/d36/a09289.html#a94d346bc8d44f285d8cdb97736859201", null ],
+    [ "_map", "d7/d36/a09289.html#aac1ea80c5210b25ad26f52558336c20d", null ]
 ];

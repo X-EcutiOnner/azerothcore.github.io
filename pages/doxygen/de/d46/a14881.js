@@ -1,6 +1,5 @@
 var a14881 =
 [
-    [ "HandleDummyHitTarget", "de/d46/a14881.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "de/d46/a14881.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "de/d46/a14881.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "npc_pilgrims_bounty_plate", "de/d46/a14881.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "de/d46/a14881.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

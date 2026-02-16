@@ -1,12 +1,10 @@
 var a24237 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d2/db9/a24237.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d2/db9/a24237.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "d2/db9/a24237.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "d2/db9/a24237.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d2/db9/a24237.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "d2/db9/a24237.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "d2/db9/a24237.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "d2/db9/a24237.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "d2/db9/a24237.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "npc_pet_hunter_snake_trap", "d2/db9/a24237.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d2/db9/a24237.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d2/db9/a24237.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d2/db9/a24237.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d2/db9/a24237.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d2/db9/a24237.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d2/db9/a24237.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

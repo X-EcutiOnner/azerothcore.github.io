@@ -1,7 +1,7 @@
 var a14153 =
 [
-    [ "FilterTargets", "d8/d2d/a14153.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d8/d2d/a14153.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d8/d2d/a14153.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d8/d2d/a14153.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "Load", "d8/d2d/a14153.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d8/d2d/a14153.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d8/d2d/a14153.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d8/d2d/a14153.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

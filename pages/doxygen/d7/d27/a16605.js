@@ -1,6 +1,6 @@
 var a16605 =
 [
-    [ "HandleScript", "d7/d27/a16605.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d7/d27/a16605.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d7/d27/a16605.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "npc_black_knight_ghoulAI", "dd/d90/a16609.html", "dd/d90/a16609" ],
+    [ "npc_black_knight_ghoul", "d7/d27/a16605.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d7/d27/a16605.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

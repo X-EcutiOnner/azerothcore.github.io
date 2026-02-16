@@ -1,6 +1,7 @@
 var a22817 =
 [
-    [ "boss_essence_of_desireAI", "db/db1/a22821.html", "db/db1/a22821" ],
-    [ "boss_essence_of_desire", "d1/dac/a22817.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d1/dac/a22817.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "HandleOnHit", "d1/dac/a22817.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "d1/dac/a22817.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "d1/dac/a22817.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "d1/dac/a22817.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

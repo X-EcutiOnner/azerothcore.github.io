@@ -1,17 +1,8 @@
 var a16161 =
 [
-    [ "boss_black_knightAI", "de/d41/a16161.html#a46c906dfeb367134885dc5248b50dbd0", null ],
-    [ "DamageTaken", "de/d41/a16161.html#a8a9b3f248f3d889b1804c387396d3054", null ],
-    [ "DoAction", "de/d41/a16161.html#a1b16dda892b2e6c94352cf13e6b961f4", null ],
-    [ "EnterEvadeMode", "de/d41/a16161.html#a77d1dc632828691fa07a543544bd266c", null ],
-    [ "JustDied", "de/d41/a16161.html#a3bb0698d0d66e4a26e25569f97ea720d", null ],
-    [ "JustSummoned", "de/d41/a16161.html#a58c32a4802a93755d7c8129c01901cdf", null ],
-    [ "KilledUnit", "de/d41/a16161.html#a01121270bc30a75630e5da96c9f61519", null ],
-    [ "Reset", "de/d41/a16161.html#ae67498247b9d631c4ca6af0acb1c76af", null ],
-    [ "SpellHitTarget", "de/d41/a16161.html#a718a51ec39cb9a10225a7bc76a069a3b", null ],
-    [ "UpdateAI", "de/d41/a16161.html#af8600ff24856d079df7e9c59f49850b2", null ],
-    [ "events", "de/d41/a16161.html#a189de3b3ef51c7870399a7a31503ae24", null ],
-    [ "Phase", "de/d41/a16161.html#ac25e3299bc9787d5bbad22263ebab235", null ],
-    [ "pInstance", "de/d41/a16161.html#acde711225a78e54d4bc1e0fde41e951d", null ],
-    [ "summons", "de/d41/a16161.html#a73e1c3688a853b70527e862efe05bc11", null ]
+    [ "HandleAfterCast", "de/d41/a16161.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "de/d41/a16161.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "de/d41/a16161.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "de/d41/a16161.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "de/d41/a16161.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

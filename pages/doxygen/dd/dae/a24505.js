@@ -1,7 +1,9 @@
 var a24505 =
 [
-    [ "CheckCast", "dd/dae/a24505.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "dd/dae/a24505.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "dd/dae/a24505.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "dd/dae/a24505.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleApply", "dd/dae/a24505.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "dd/dae/a24505.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "dd/dae/a24505.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "dd/dae/a24505.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "dd/dae/a24505.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "dd/dae/a24505.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

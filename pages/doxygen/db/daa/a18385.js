@@ -1,6 +1,6 @@
 var a18385 =
 [
-    [ "npc_valithria_portalAI", "da/d1b/a18389.html", "da/d1b/a18389" ],
-    [ "npc_valithria_portal", "db/daa/a18385.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "db/daa/a18385.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "CheckProc", "db/daa/a18385.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "db/daa/a18385.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "db/daa/a18385.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

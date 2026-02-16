@@ -1,7 +1,6 @@
 var a25929 =
 [
-    [ "CalculateAmount", "d0/dd0/a25929.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d0/dd0/a25929.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d0/dd0/a25929.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d0/dd0/a25929.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleRemove", "d0/dd0/a25929.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d0/dd0/a25929.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d0/dd0/a25929.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

@@ -1,8 +1,13 @@
 var a28609 =
 [
-    [ "TileInfo", "d5/d82/a28609.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "d5/d82/a28609.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "d5/d82/a28609.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "d5/d82/a28609.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "d5/d82/a28609.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "MPQArchive", "d5/d82/a28609.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d5/d82/a28609.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "d5/d82/a28609.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d5/d82/a28609.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "d5/d82/a28609.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "d5/d82/a28609.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "d5/d82/a28609.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "d5/d82/a28609.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "d5/d82/a28609.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "d5/d82/a28609.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

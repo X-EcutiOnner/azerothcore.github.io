@@ -1,10 +1,13 @@
 var a08885 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "d6/dbe/a08885.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "d6/dbe/a08885.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "d6/dbe/a08885.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "d6/dbe/a08885.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "d6/dbe/a08885.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "d6/dbe/a08885.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "d6/dbe/a08885.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "MMapTargetData", "d6/dbe/a08885.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
+    [ "MMapTargetData", "d6/dbe/a08885.html#a8312ea3187617e78b28aab842a8284cc", null ],
+    [ "MMapTargetData", "d6/dbe/a08885.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
+    [ "MMapTargetData", "d6/dbe/a08885.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
+    [ "operator=", "d6/dbe/a08885.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
+    [ "operator=", "d6/dbe/a08885.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
+    [ "PosChanged", "d6/dbe/a08885.html#ade55876b7781b47a72dac9fea1f2e420", null ],
+    [ "_endTime", "d6/dbe/a08885.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
+    [ "_posOwner", "d6/dbe/a08885.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
+    [ "_posTarget", "d6/dbe/a08885.html#a7f089d873690e8ea549f6345b6598fc4", null ]
 ];

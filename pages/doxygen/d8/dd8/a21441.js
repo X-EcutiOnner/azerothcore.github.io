@@ -1,6 +1,6 @@
 var a21441 =
 [
-    [ "npc_beryl_sorcererAI", "d0/d5c/a21445.html", "d0/d5c/a21445" ],
-    [ "npc_beryl_sorcerer", "d8/dd8/a21441.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
-    [ "GetAI", "d8/dd8/a21441.html#a963646eed9f121f87efe480312957286", null ]
+    [ "PrepareSpellScript", "d8/dd8/a21441.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d8/dd8/a21441.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d8/dd8/a21441.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

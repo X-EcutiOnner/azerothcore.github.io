@@ -1,14 +1,15 @@
 var a07337 =
 [
-    [ "BattlegroundDS", "d9/da9/a07337.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
-    [ "FillInitialWorldStates", "d9/da9/a07337.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
-    [ "HandleAreaTrigger", "d9/da9/a07337.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
-    [ "HandlePlayerUnderMap", "d9/da9/a07337.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
-    [ "PostUpdateImpl", "d9/da9/a07337.html#a57cfca32a361d43f19163dc6e7408e96", null ],
-    [ "SetupBattleground", "d9/da9/a07337.html#ae008bf979e6984856237938dfe743ec7", null ],
-    [ "StartingEventCloseDoors", "d9/da9/a07337.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
-    [ "StartingEventOpenDoors", "d9/da9/a07337.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
-    [ "_events", "d9/da9/a07337.html#a79112a1631ec6541cf19ecef712bb66f", null ],
-    [ "_pipeKnockBackCount", "d9/da9/a07337.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
-    [ "_pipeKnockBackTimer", "d9/da9/a07337.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
+    [ "ArenaSeasonRewardGroup", "d9/da9/a07337.html#a128e78db84f099d91e21da77b2147e82", null ],
+    [ "operator==", "d9/da9/a07337.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
+    [ "achievementRewards", "d9/da9/a07337.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
+    [ "criteriaType", "d9/da9/a07337.html#a16261356df6f5aed35bc3ec06ab49560", null ],
+    [ "goldReward", "d9/da9/a07337.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
+    [ "itemRewards", "d9/da9/a07337.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
+    [ "maxCriteria", "d9/da9/a07337.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
+    [ "minCriteria", "d9/da9/a07337.html#a07507bd59265508a463aa328f343afa0", null ],
+    [ "rewardMailBody", "d9/da9/a07337.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
+    [ "rewardMailSubject", "d9/da9/a07337.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
+    [ "rewardMailTemplateID", "d9/da9/a07337.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
+    [ "season", "d9/da9/a07337.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
 ];

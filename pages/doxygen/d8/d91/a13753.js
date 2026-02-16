@@ -1,7 +1,6 @@
 var a13753 =
 [
-    [ "npc_zuljin_vortex", "d8/d91/a13753.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "d8/d91/a13753.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "d8/d91/a13753.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "d8/d91/a13753.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "HandlePeriodic", "d8/d91/a13753.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d8/d91/a13753.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d8/d91/a13753.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

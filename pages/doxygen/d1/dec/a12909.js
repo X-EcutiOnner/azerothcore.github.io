@@ -1,6 +1,6 @@
 var a12909 =
 [
-    [ "npc_scarlet_courierAI", "de/dca/a12913.html", "de/dca/a12913" ],
-    [ "npc_scarlet_courier", "d1/dec/a12909.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "d1/dec/a12909.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "de/dca/a12913.html", "de/dca/a12913" ],
+    [ "instance_gnomeregan", "d1/dec/a12909.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "d1/dec/a12909.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

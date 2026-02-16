@@ -1,9 +1,6 @@
 var a27085 =
 [
-    [ "ChatLogScript", "df/d3a/a27085.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerChat", "df/d3a/a27085.html#a9dc39835aac01da34c57c420fc82790e", null ],
-    [ "OnPlayerChat", "df/d3a/a27085.html#a64e047261c3d3de22614950c6b6f6f79", null ],
-    [ "OnPlayerChat", "df/d3a/a27085.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
-    [ "OnPlayerChat", "df/d3a/a27085.html#af6e61405ba6642fa451465e27c4b47d8", null ],
-    [ "OnPlayerChat", "df/d3a/a27085.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
+    [ "go_flamesAI", "dc/d71/a27089.html", "dc/d71/a27089" ],
+    [ "go_flames", "df/d3a/a27085.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "df/d3a/a27085.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

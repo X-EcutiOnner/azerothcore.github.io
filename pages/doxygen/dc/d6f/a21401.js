@@ -1,6 +1,9 @@
 var a21401 =
 [
-    [ "npc_sinkhole_kill_creditAI", "da/de1/a21405.html", "da/de1/a21405" ],
-    [ "npc_sinkhole_kill_credit", "dc/d6f/a21401.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "dc/d6f/a21401.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_bonker_togglevoltAI", "dc/d6f/a21401.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "dc/d6f/a21401.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "dc/d6f/a21401.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "dc/d6f/a21401.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "dc/d6f/a21401.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "dc/d6f/a21401.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

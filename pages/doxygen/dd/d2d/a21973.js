@@ -1,6 +1,6 @@
 var a21973 =
 [
-    [ "npc_boneguard_footmanAI", "dd/d2d/a21973.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "dd/d2d/a21973.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "dd/d2d/a21973.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_mcmanus", "dd/d2d/a21973.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "dd/d2d/a21973.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "dd/d2d/a21973.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

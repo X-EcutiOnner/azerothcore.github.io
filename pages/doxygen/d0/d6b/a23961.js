@@ -1,6 +1,10 @@
 var a23961 =
 [
-    [ "go_beaconAI", "d6/d44/a23965.html", "d6/d44/a23965" ],
-    [ "go_beacon", "d0/d6b/a23961.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d0/d6b/a23961.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_infernal_attackerAI", "d0/d6b/a23961.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d0/d6b/a23961.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d0/d6b/a23961.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d0/d6b/a23961.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d0/d6b/a23961.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d0/d6b/a23961.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d0/d6b/a23961.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

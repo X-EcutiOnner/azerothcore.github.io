@@ -1,6 +1,6 @@
 var a16241 =
 [
-    [ "npc_frost_sphereAI", "d8/d42/a16245.html", "d8/d42/a16245" ],
-    [ "npc_frost_sphere", "d7/dbd/a16241.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d7/dbd/a16241.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_anub_ar_crusher_champion", "d7/dbd/a16241.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d7/dbd/a16241.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d7/dbd/a16241.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

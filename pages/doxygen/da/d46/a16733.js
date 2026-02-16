@@ -1,6 +1,7 @@
 var a16733 =
 [
-    [ "boss_marwynAI", "d6/d8f/a16737.html", "d6/d8f/a16737" ],
-    [ "boss_marwyn", "da/d46/a16733.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "da/d46/a16733.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_toc_shamanAI", "da/d46/a16733.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "da/d46/a16733.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "da/d46/a16733.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "da/d46/a16733.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

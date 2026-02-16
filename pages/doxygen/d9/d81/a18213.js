@@ -1,6 +1,7 @@
 var a18213 =
 [
-    [ "ModDestHeight", "d9/d81/a18213.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d9/d81/a18213.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d9/d81/a18213.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "HandleExtraEffect", "d9/d81/a18213.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d9/d81/a18213.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d9/d81/a18213.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d9/d81/a18213.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

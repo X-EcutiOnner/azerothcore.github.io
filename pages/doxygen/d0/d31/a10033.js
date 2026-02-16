@@ -1,6 +1,6 @@
 var a10033 =
 [
-    [ "HoverMovementTransform", "d0/d31/a10033.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
-    [ "operator()", "d0/d31/a10033.html#a7b4c22c7ba3332c0829832756b734809", null ],
-    [ "_offset", "d0/d31/a10033.html#a7fe74e38dbefb11af541a8750465861c", null ]
+    [ "IsNeutralOrFriendlyToTeam", "d0/d31/a10033.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "d0/d31/a10033.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "d0/d31/a10033.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

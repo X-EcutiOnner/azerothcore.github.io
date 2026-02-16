@@ -1,6 +1,6 @@
 var a21933 =
 [
-    [ "npc_razael_and_lyana", "de/de8/a21933.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "de/de8/a21933.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "de/de8/a21933.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_tournament_training_dummyAI", "dc/de9/a21937.html", "dc/de9/a21937" ],
+    [ "npc_tournament_training_dummy", "de/de8/a21933.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "de/de8/a21933.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

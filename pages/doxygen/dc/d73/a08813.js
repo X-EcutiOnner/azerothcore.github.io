@@ -1,10 +1,9 @@
 var a08813 =
 [
-    [ "mapId", "dc/d73/a08813.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "dc/d73/a08813.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "dc/d73/a08813.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "dc/d73/a08813.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "dc/d73/a08813.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "dc/d73/a08813.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "dc/d73/a08813.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "ProcTriggeredData", "dc/d73/a08813.html#a37c5cbfd0b916b950a0e638223394de4", null ],
+    [ "operator==", "dc/d73/a08813.html#a787760cbd8a6ee5192975bc514886159", null ],
+    [ "aura", "dc/d73/a08813.html#a5138144d49900690bb15a5f66b763eac", null ],
+    [ "effMask", "dc/d73/a08813.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
+    [ "spellProcEvent", "dc/d73/a08813.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
+    [ "triggerSpelId", "dc/d73/a08813.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
 ];

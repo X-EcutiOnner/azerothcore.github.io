@@ -1,6 +1,6 @@
 var a17661 =
 [
-    [ "npc_darnavanAI", "d5/d3c/a17665.html", "d5/d3c/a17665" ],
-    [ "npc_darnavan", "d6/d9a/a17661.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d6/d9a/a17661.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "ChangeSummonPos", "d6/d9a/a17661.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d6/d9a/a17661.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d6/d9a/a17661.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

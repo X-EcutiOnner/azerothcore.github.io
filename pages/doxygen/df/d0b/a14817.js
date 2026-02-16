@@ -1,6 +1,6 @@
 var a14817 =
 [
-    [ "npc_belnistraszAI", "d0/dc0/a14821.html", "d0/dc0/a14821" ],
-    [ "npc_belnistrasz", "df/d0b/a14817.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "df/d0b/a14817.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "OnApply", "df/d0b/a14817.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "df/d0b/a14817.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "df/d0b/a14817.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

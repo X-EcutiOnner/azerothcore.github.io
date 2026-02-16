@@ -1,9 +1,8 @@
 var a14729 =
 [
-    [ "boss_temporus", "de/d9f/a14729.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "de/d9f/a14729.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "de/d9f/a14729.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "de/d9f/a14729.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "de/d9f/a14729.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "de/d9f/a14729.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "CalcPeriodic", "de/d9f/a14729.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "de/d9f/a14729.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "de/d9f/a14729.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "de/d9f/a14729.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "de/d9f/a14729.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

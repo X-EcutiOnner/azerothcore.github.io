@@ -1,6 +1,7 @@
 var a18961 =
 [
-    [ "boss_kelthuzadAI", "dd/d91/a18965.html", "dd/d91/a18965" ],
-    [ "boss_kelthuzad", "d9/dbb/a18961.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d9/dbb/a18961.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "npc_captain_arnathAI", "d9/dbb/a18961.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d9/dbb/a18961.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d9/dbb/a18961.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d9/dbb/a18961.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

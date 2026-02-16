@@ -1,8 +1,7 @@
 var a12553 =
 [
-    [ "HandleEffectRemove", "d7/df0/a12553.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "d7/df0/a12553.html#a8596fc98402bf952484c9567f61c7820", null ],
-    [ "PrepareAuraScript", "d7/df0/a12553.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "d7/df0/a12553.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "d7/df0/a12553.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "boss_broodlordAI", "d7/df0/a12553.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "d7/df0/a12553.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "d7/df0/a12553.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "d7/df0/a12553.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

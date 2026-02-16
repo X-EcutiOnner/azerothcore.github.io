@@ -1,7 +1,9 @@
 var a14949 =
 [
-    [ "npc_hivezara_stinger", "db/d6b/a14949.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "db/d6b/a14949.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "db/d6b/a14949.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "db/d6b/a14949.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "boss_azuregosAI", "db/d6b/a14949.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "db/d6b/a14949.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "db/d6b/a14949.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "db/d6b/a14949.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "db/d6b/a14949.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "db/d6b/a14949.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

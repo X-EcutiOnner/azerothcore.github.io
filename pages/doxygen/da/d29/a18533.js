@@ -1,7 +1,6 @@
 var a18533 =
 [
-    [ "npc_captain_arnathAI", "da/d29/a18533.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "da/d29/a18533.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "da/d29/a18533.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "da/d29/a18533.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "boss_the_lich_kingAI", "dd/d00/a18537.html", "dd/d00/a18537" ],
+    [ "boss_the_lich_king", "da/d29/a18533.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "da/d29/a18533.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

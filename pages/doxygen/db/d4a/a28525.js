@@ -1,10 +1,7 @@
 var a28525 =
 [
-    [ "Exception", "db/d4a/a28525.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "db/d4a/a28525.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "db/d4a/a28525.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "db/d4a/a28525.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "db/d4a/a28525.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "db/d4a/a28525.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "db/d4a/a28525.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "asyncId", "db/d4a/a28525.html#afd18849875b4562e4a532903676ce25d", null ],
+    [ "flags", "db/d4a/a28525.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
+    [ "offsMCNK", "db/d4a/a28525.html#a063c5dc62c44038e882340221bf8228a", null ],
+    [ "size", "db/d4a/a28525.html#a47a5eeb595d53de009651ae02d2b416d", null ]
 ];

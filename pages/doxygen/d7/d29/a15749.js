@@ -1,19 +1,13 @@
 var a15749 =
 [
-    [ "boss_taldaram", "d7/d29/a15749.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
-    [ "DamageTaken", "d7/d29/a15749.html#a44d94f39e23720810acb40550f1c178a", null ],
-    [ "DoAction", "d7/d29/a15749.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
-    [ "InitializeAI", "d7/d29/a15749.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
-    [ "JustDied", "d7/d29/a15749.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
-    [ "JustEngagedWith", "d7/d29/a15749.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
-    [ "JustSummoned", "d7/d29/a15749.html#a5ae9201a71fa665908f924647b262825", null ],
-    [ "KilledUnit", "d7/d29/a15749.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
-    [ "MovementInform", "d7/d29/a15749.html#a17ca98f742a06b1496b2216e984811d8", null ],
-    [ "Reset", "d7/d29/a15749.html#ae26fec572206d2f1f9acc229ee797496", null ],
-    [ "ScheduleCombatEvents", "d7/d29/a15749.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
-    [ "SpellHitTarget", "d7/d29/a15749.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
-    [ "UpdateAI", "d7/d29/a15749.html#a8ae18c5fd1c5df67edaf1921b5504ce1", null ],
-    [ "vanishDamage", "d7/d29/a15749.html#a85d8c95320e6f1f486a39043218f0350", null ],
-    [ "vanishTarget_GUID", "d7/d29/a15749.html#a211707b3e9476a22be011567882f018a", null ],
-    [ "victimSperePos", "d7/d29/a15749.html#a06efb376b0d08207a0efce74770f21dc", null ]
+    [ "npc_tharnarianAI", "d7/d29/a15749.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d7/d29/a15749.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d7/d29/a15749.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d7/d29/a15749.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "d7/d29/a15749.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d7/d29/a15749.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d7/d29/a15749.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d7/d29/a15749.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d7/d29/a15749.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d7/d29/a15749.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

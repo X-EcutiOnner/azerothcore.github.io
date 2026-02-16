@@ -1,12 +1,12 @@
 var a17909 =
 [
-    [ "npc_precious_iccAI", "d1/d24/a17909.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "d1/d24/a17909.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "d1/d24/a17909.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "d1/d24/a17909.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "d1/d24/a17909.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "d1/d24/a17909.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "d1/d24/a17909.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "d1/d24/a17909.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "d1/d24/a17909.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "gunship_npc_AI", "d1/d24/a17909.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d1/d24/a17909.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d1/d24/a17909.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d1/d24/a17909.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d1/d24/a17909.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d1/d24/a17909.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d1/d24/a17909.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d1/d24/a17909.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d1/d24/a17909.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

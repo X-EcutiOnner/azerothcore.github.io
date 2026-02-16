@@ -1,9 +1,7 @@
 var a11045 =
 [
-    [ "SpellEvent", "d4/dcb/a11045.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d4/dcb/a11045.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d4/dcb/a11045.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d4/dcb/a11045.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d4/dcb/a11045.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d4/dcb/a11045.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "Playsound", "d4/dcb/a11045.html#a955f91d0d65c64f154f99b3b9472e273", null ],
+    [ "Playsound", "d4/dcb/a11045.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
+    [ "Write", "d4/dcb/a11045.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
+    [ "SoundKitID", "d4/dcb/a11045.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
 ];

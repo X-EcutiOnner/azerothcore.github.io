@@ -1,9 +1,14 @@
 var a22421 =
 [
-    [ "OPvPCapturePointGH", "d8/d5d/a22421.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d8/d5d/a22421.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d8/d5d/a22421.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d8/d5d/a22421.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d8/d5d/a22421.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d8/d5d/a22421.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "boss_nexusprince_shaffar", "d8/d5d/a22421.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d8/d5d/a22421.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d8/d5d/a22421.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d8/d5d/a22421.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d8/d5d/a22421.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d8/d5d/a22421.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d8/d5d/a22421.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d8/d5d/a22421.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d8/d5d/a22421.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d8/d5d/a22421.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d8/d5d/a22421.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

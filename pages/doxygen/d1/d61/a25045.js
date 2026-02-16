@@ -1,6 +1,6 @@
 var a25045 =
 [
-    [ "HandleEffectPeriodic", "d1/d61/a25045.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "d1/d61/a25045.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "d1/d61/a25045.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "PrepareSpellScript", "d1/d61/a25045.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d1/d61/a25045.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d1/d61/a25045.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

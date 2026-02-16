@@ -1,6 +1,5 @@
 var a27561 =
 [
-    [ "npc_stable_masterAI", "db/d7d/a27565.html", "db/d7d/a27565" ],
-    [ "npc_stable_master", "d9/d44/a27561.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d9/d44/a27561.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_necropolis", "d9/d44/a27561.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d9/d44/a27561.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

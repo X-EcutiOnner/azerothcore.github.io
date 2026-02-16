@@ -1,17 +1,6 @@
 var a23493 =
 [
-    [ "boss_magtheridon", "db/d53/a23493.html#a3d718a101047cd90448577ee520adf5e", null ],
-    [ "DoAction", "db/d53/a23493.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
-    [ "JustDied", "db/d53/a23493.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
-    [ "JustEngagedWith", "db/d53/a23493.html#a93fb4d888ebd6273bca0a128c8303996", null ],
-    [ "KilledUnit", "db/d53/a23493.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
-    [ "Reset", "db/d53/a23493.html#a0999e13f434699bb14c2ef6d2467a043", null ],
-    [ "ScheduleCombatEvents", "db/d53/a23493.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
-    [ "UpdateAI", "db/d53/a23493.html#a656e9595b30d014c54cc456d7f81f657", null ],
-    [ "_castingQuake", "db/d53/a23493.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
-    [ "_channelersKilled", "db/d53/a23493.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
-    [ "_currentPhase", "db/d53/a23493.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
-    [ "_interruptScheduler", "db/d53/a23493.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
-    [ "_magReleased", "db/d53/a23493.html#a6dd4891771771acf5456a129113e864e", null ],
-    [ "_recentlySpoken", "db/d53/a23493.html#af860281db4d20e3d3b9589657c921a50", null ]
+    [ "npc_millhouse_manastormAI", "d8/d2c/a23497.html", "d8/d2c/a23497" ],
+    [ "npc_millhouse_manastorm", "db/d53/a23493.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "db/d53/a23493.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

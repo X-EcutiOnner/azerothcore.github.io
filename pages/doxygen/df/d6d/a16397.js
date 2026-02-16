@@ -1,8 +1,14 @@
 var a16397 =
 [
-    [ "npc_toc_pet_warlockAI", "df/d6d/a16397.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
-    [ "EnterEvadeMode", "df/d6d/a16397.html#a62219f63e82fc67f63db2cbd713647a0", null ],
-    [ "myCanCast", "df/d6d/a16397.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
-    [ "UpdateAI", "df/d6d/a16397.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
-    [ "events", "df/d6d/a16397.html#a8edadebd7e6660041233a24fb07173bf", null ]
+    [ "npc_onyx_flamecallerAI", "df/d6d/a16397.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "df/d6d/a16397.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "df/d6d/a16397.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "df/d6d/a16397.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "df/d6d/a16397.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "df/d6d/a16397.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "df/d6d/a16397.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "df/d6d/a16397.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "_events", "df/d6d/a16397.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "df/d6d/a16397.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "df/d6d/a16397.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

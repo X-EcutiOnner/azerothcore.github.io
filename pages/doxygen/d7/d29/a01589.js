@@ -1,5 +1,7 @@
 var a01589 =
 [
-    [ "CellArea", "d5/d0b/a09156.html", "d5/d0b/a09156" ],
-    [ "Cell", "d5/d43/a09160.html", "d5/d43/a09160" ]
+    [ "UpdateRequest", "d0/d4b/a09973.html", "d0/d4b/a09973" ],
+    [ "MapUpdateRequest", "d0/d7a/a09977.html", "d0/d7a/a09977" ],
+    [ "MapPreloadRequest", "da/d25/a09981.html", "da/d25/a09981" ],
+    [ "LFGUpdateRequest", "db/d9e/a09985.html", "db/d9e/a09985" ]
 ];

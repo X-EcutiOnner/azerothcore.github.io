@@ -1,6 +1,8 @@
 var a16845 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d8/dbc/a16849.html", "d8/dbc/a16849" ],
-    [ "npc_hor_risen_witch_doctor", "d5/d42/a16845.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "d5/d42/a16845.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "npc_toc_pet_hunterAI", "d5/d42/a16845.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d5/d42/a16845.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d5/d42/a16845.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d5/d42/a16845.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d5/d42/a16845.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

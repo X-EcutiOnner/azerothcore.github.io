@@ -1,10 +1,6 @@
 var a23685 =
 [
-    [ "CheckProc", "d0/de1/a23685.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d0/de1/a23685.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d0/de1/a23685.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d0/de1/a23685.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d0/de1/a23685.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d0/de1/a23685.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d0/de1/a23685.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "HandleScriptEffect", "d0/de1/a23685.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d0/de1/a23685.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d0/de1/a23685.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

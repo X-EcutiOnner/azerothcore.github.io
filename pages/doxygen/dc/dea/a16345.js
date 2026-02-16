@@ -1,6 +1,7 @@
 var a16345 =
 [
-    [ "npc_toc_boomkinAI", "d5/de3/a16349.html", "d5/de3/a16349" ],
-    [ "npc_toc_boomkin", "dc/dea/a16345.html#a17274ff748cd364592a551ad2c547eac", null ],
-    [ "GetAI", "dc/dea/a16345.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
+    [ "DelayedTalk", "dc/dea/a16345.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "dc/dea/a16345.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "dc/dea/a16345.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "dc/dea/a16345.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

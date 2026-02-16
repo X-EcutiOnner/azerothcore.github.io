@@ -1,7 +1,6 @@
 var a22705 =
 [
-    [ "HandleDummy", "df/dd7/a22705.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "df/dd7/a22705.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "df/dd7/a22705.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "df/dd7/a22705.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "boss_essence_of_sufferingAI", "d9/d27/a22709.html", "d9/d27/a22709" ],
+    [ "boss_essence_of_suffering", "df/dd7/a22705.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "df/dd7/a22705.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

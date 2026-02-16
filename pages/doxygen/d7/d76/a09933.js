@@ -1,8 +1,8 @@
 var a09933 =
 [
-    [ "Finalize", "d7/d76/a09933.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "d7/d76/a09933.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "d7/d76/a09933.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "d7/d76/a09933.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "d7/d76/a09933.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "PositionFullTerrainStatus", "d7/d76/a09933.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d7/d76/a09933.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d7/d76/a09933.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d7/d76/a09933.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d7/d76/a09933.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

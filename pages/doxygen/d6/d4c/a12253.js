@@ -1,7 +1,6 @@
 var a12253 =
 [
-    [ "HandleDummy", "d6/d4c/a12253.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d6/d4c/a12253.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d6/d4c/a12253.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d6/d4c/a12253.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_anubshiahAI", "d6/d4c/a12253.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
+    [ "JustEngagedWith", "d6/d4c/a12253.html#ae83c1def323828814b5db6b032002438", null ],
+    [ "UpdateAI", "d6/d4c/a12253.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
 ];

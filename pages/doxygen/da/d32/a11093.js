@@ -1,7 +1,6 @@
 var a11093 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "da/d32/a11093.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "da/d32/a11093.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "da/d32/a11093.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "da/d32/a11093.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "ComplainResult", "da/d32/a11093.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "da/d32/a11093.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "da/d32/a11093.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

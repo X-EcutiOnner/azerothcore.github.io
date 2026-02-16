@@ -1,10 +1,10 @@
 var a02540 =
 [
-    [ "npc_webbed_creature", "d4/d9b/a15640.html", "d4/d9b/a15640" ],
-    [ "npc_webbed_creature::npc_webbed_creatureAI", "da/db5/a15644.html", "da/db5/a15644" ],
-    [ "WebbedCreature", "d4/db0/a02540.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
-      [ "NPC_EXPEDITION_RESEARCHER", "d4/db0/a02540.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
-    ] ],
-    [ "AddSC_bloodmyst_isle", "d4/db0/a02540.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
-    [ "possibleSpawns", "d4/db0/a02540.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
+    [ "UpdateException", "d7/d00/a05993.html", "d7/d00/a05993" ],
+    [ "DBUpdaterUtil", "d8/dc4/a05997.html", "d8/dc4/a05997" ],
+    [ "DBUpdater< T >", "df/dd2/a06001.html", "df/dd2/a06001" ],
+    [ "BaseLocation", "d4/db0/a02540.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
+      [ "LOCATION_REPOSITORY", "d4/db0/a02540.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
+      [ "LOCATION_DOWNLOAD", "d4/db0/a02540.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
+    ] ]
 ];

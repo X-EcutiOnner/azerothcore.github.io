@@ -1,6 +1,6 @@
 var a24165 =
 [
-    [ "PrepareSpellScript", "d4/df5/a24165.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d4/df5/a24165.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d4/df5/a24165.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d4/df5/a24165.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "d4/df5/a24165.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "d4/df5/a24165.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

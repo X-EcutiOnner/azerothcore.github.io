@@ -1,6 +1,8 @@
 var a20785 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "dc/de2/a20789.html", "dc/de2/a20789" ],
-    [ "boss_yoggsaron_immortal_guardian", "d3/dee/a20785.html#a4009759d284b54cb958ee0bb80c45f14", null ],
-    [ "GetAI", "d3/dee/a20785.html#ac532ca090d93ce6d11a0332329111f2b", null ]
+    [ "FilterTargets", "d3/dee/a20785.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d3/dee/a20785.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d3/dee/a20785.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d3/dee/a20785.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d3/dee/a20785.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

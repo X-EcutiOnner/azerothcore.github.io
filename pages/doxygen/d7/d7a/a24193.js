@@ -1,5 +1,8 @@
 var a24193 =
 [
-    [ "npc_shattrath_daily_quest", "d7/d7a/a24193.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d7/d7a/a24193.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d7/d7a/a24193.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d7/d7a/a24193.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d7/d7a/a24193.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d7/d7a/a24193.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d7/d7a/a24193.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

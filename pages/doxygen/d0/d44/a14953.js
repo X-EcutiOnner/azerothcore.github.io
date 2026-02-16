@@ -1,8 +1,7 @@
 var a14953 =
 [
-    [ "npc_obsidian_destroyer", "d0/d44/a14953.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d0/d44/a14953.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d0/d44/a14953.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d0/d44/a14953.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d0/d44/a14953.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "HandleOnHit", "d0/d44/a14953.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d0/d44/a14953.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d0/d44/a14953.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d0/d44/a14953.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

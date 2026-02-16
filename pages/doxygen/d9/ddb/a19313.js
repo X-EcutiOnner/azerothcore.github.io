@@ -1,11 +1,15 @@
 var a19313 =
 [
-    [ "npc_oculus_drakegiverAI", "dc/dea/a19317.html", "dc/dea/a19317" ],
-    [ "npc_oculus_drakegiver", "d9/ddb/a19313.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d9/ddb/a19313.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d9/ddb/a19313.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d9/ddb/a19313.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d9/ddb/a19313.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d9/ddb/a19313.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d9/ddb/a19313.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "boss_gluthAI", "d9/ddb/a19313.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "d9/ddb/a19313.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "d9/ddb/a19313.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "d9/ddb/a19313.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "d9/ddb/a19313.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "d9/ddb/a19313.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "d9/ddb/a19313.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "d9/ddb/a19313.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "d9/ddb/a19313.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "d9/ddb/a19313.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "d9/ddb/a19313.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "summons", "d9/ddb/a19313.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

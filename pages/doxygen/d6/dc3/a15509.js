@@ -1,9 +1,8 @@
 var a15509 =
 [
-    [ "npc_custodian_of_timeAI", "d6/dc3/a15509.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "d6/dc3/a15509.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "d6/dc3/a15509.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "d6/dc3/a15509.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "d6/dc3/a15509.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d6/dc3/a15509.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "npc_ouro_spawner", "d6/dc3/a15509.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d6/dc3/a15509.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d6/dc3/a15509.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d6/dc3/a15509.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d6/dc3/a15509.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

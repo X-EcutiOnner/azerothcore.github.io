@@ -1,6 +1,7 @@
 var a24837 =
 [
-    [ "CheckLevel", "d8/d32/a24837.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d8/d32/a24837.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d8/d32/a24837.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "HandleEffectApply", "d8/d32/a24837.html#a65ad32ded4246c3469f15b6ab167830e", null ],
+    [ "HandleEffectRemove", "d8/d32/a24837.html#a8aab4a5dab173bd0296843a0c2991142", null ],
+    [ "PrepareAuraScript", "d8/d32/a24837.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
+    [ "Register", "d8/d32/a24837.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
 ];

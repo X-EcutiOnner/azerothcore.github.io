@@ -1,13 +1,12 @@
 var a11065 =
 [
-    [ "alive", "db/d7f/a11065.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "db/d7f/a11065.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "db/d7f/a11065.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "db/d7f/a11065.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "db/d7f/a11065.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "db/d7f/a11065.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "db/d7f/a11065.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "db/d7f/a11065.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "db/d7f/a11065.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "db/d7f/a11065.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "StartMirrorTimer", "db/d7f/a11065.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "db/d7f/a11065.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "db/d7f/a11065.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "db/d7f/a11065.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "db/d7f/a11065.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "db/d7f/a11065.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "db/d7f/a11065.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "db/d7f/a11065.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "db/d7f/a11065.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

@@ -1,9 +1,16 @@
 var a18281 =
 [
-    [ "npc_spirit_wardenAI", "d6/d03/a18281.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "d6/d03/a18281.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "d6/d03/a18281.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "d6/d03/a18281.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "d6/d03/a18281.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "d6/d03/a18281.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "boss_rotfaceAI", "d6/d03/a18281.html#abe4c4df1732127814a507b0f99203ebb", null ],
+    [ "EnterEvadeMode", "d6/d03/a18281.html#a8b166241350c7437c0baab2bc783dc93", null ],
+    [ "JustDied", "d6/d03/a18281.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
+    [ "JustEngagedWith", "d6/d03/a18281.html#aa34831a7c2986451ff518a76547edecc", null ],
+    [ "JustReachedHome", "d6/d03/a18281.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
+    [ "JustSummoned", "d6/d03/a18281.html#aaa273c65b0545931797057ca4cdab1eb", null ],
+    [ "KilledUnit", "d6/d03/a18281.html#a9356f21962b312eccfba1b3e75afaba0", null ],
+    [ "Reset", "d6/d03/a18281.html#aed06635aabcb47fd700ab1a894bad13c", null ],
+    [ "SpellHitTarget", "d6/d03/a18281.html#a99d88373a20464fac3ebf035430c2e75", null ],
+    [ "UpdateAI", "d6/d03/a18281.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
+    [ "_oozeFloodDummyGUIDs", "d6/d03/a18281.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
+    [ "_oozeFloodStage", "d6/d03/a18281.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
+    [ "infectionCooldown", "d6/d03/a18281.html#a3b9c9223da7cd6163ea6369fee6439f5", null ]
 ];

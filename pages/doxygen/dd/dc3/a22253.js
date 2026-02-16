@@ -1,8 +1,19 @@
 var a22253 =
 [
-    [ "npc_wg_queueAI", "d9/d60/a22257.html", "d9/d60/a22257" ],
-    [ "npc_wg_queue", "dd/dc3/a22253.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "dd/dc3/a22253.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "dd/dc3/a22253.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "dd/dc3/a22253.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_overlord_drakuru_betrayal", "dd/dc3/a22253.html#ab15331d6fd3a2783a4c95d49e4dbe7b2", null ],
+    [ "DamageTaken", "dd/dc3/a22253.html#a7425750b8bd904de4bdf90a70f17ba52", null ],
+    [ "DoAction", "dd/dc3/a22253.html#aece047445959751d8bff83ed3555a382", null ],
+    [ "EnterEvadeMode", "dd/dc3/a22253.html#ae7927006050c6eab309671b2d39ac74e", null ],
+    [ "IsPlayerOnQuest", "dd/dc3/a22253.html#a95f42c51b10eeeb8f238572f4190b777", null ],
+    [ "JustEngagedWith", "dd/dc3/a22253.html#a3781dde3a7fb066620ada4bda214d9d7", null ],
+    [ "JustSummoned", "dd/dc3/a22253.html#a7a28c8050615a13148092b1d6f0f8bea", null ],
+    [ "MoveInLineOfSight", "dd/dc3/a22253.html#a27173bdb8e63f52563cbf15f10bfeb8a", null ],
+    [ "Reset", "dd/dc3/a22253.html#aafcf7f832f3c5412bc1c71fc59dec003", null ],
+    [ "SpellHit", "dd/dc3/a22253.html#a92cd659095e45c414a2c05672a70aaeb", null ],
+    [ "SpellHitTarget", "dd/dc3/a22253.html#abd7728d7ac2a59b436385069ffc62c9d", null ],
+    [ "UpdateAI", "dd/dc3/a22253.html#a25d0591a131f2e49b9d5c97ed2f2586e", null ],
+    [ "_lichGUID", "dd/dc3/a22253.html#ae921b29ac3e5d5f7b39cd660848242f0", null ],
+    [ "_playerGUID", "dd/dc3/a22253.html#a3f4a61d141c51a29eaefc8118b5311e0", null ],
+    [ "_state", "dd/dc3/a22253.html#ac99fa024d5c71c37e94d0ff17808e2d4", null ],
+    [ "_summons", "dd/dc3/a22253.html#a2fbda53115c9b69d2d01a77b3b60710d", null ]
 ];

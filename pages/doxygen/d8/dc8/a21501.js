@@ -1,6 +1,9 @@
 var a21501 =
 [
-    [ "npc_hidden_cultistAI", "d5/d71/a21505.html", "d5/d71/a21505" ],
-    [ "npc_hidden_cultist", "d8/dc8/a21501.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d8/dc8/a21501.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_minigob_manabonk", "d8/dc8/a21501.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "d8/dc8/a21501.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "d8/dc8/a21501.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "d8/dc8/a21501.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "d8/dc8/a21501.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "d8/dc8/a21501.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

@@ -1,6 +1,10 @@
 var a18649 =
 [
-    [ "HandleScript", "d4/db3/a18649.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d4/db3/a18649.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d4/db3/a18649.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "HandleScript", "d4/db3/a18649.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d4/db3/a18649.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d4/db3/a18649.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d4/db3/a18649.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d4/db3/a18649.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d4/db3/a18649.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d4/db3/a18649.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

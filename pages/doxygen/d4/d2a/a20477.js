@@ -1,9 +1,8 @@
 var a20477 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "d4/d2a/a20477.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
-    [ "CanAIAttack", "d4/d2a/a20477.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
-    [ "Reset", "d4/d2a/a20477.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
-    [ "UpdateAI", "d4/d2a/a20477.html#a58c5f53f74055b89c11ed27ffe908732", null ],
-    [ "timer1", "d4/d2a/a20477.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
-    [ "timer2", "d4/d2a/a20477.html#a7b4eb188939c15f11a6b2532853ad798", null ]
+    [ "npc_ulduar_magnetic_core", "d4/d2a/a20477.html#a47ea345b2d95ed8498de27223a58298f", null ],
+    [ "SetData", "d4/d2a/a20477.html#a19e1f13897e39667b4bd27c50973f008", null ],
+    [ "UpdateAI", "d4/d2a/a20477.html#a73982851a7d5b6acfd187119f5a2b7fa", null ],
+    [ "despawnTimer", "d4/d2a/a20477.html#a9be3f2a9cd0ed46ca298d69457aa8fd1", null ],
+    [ "instance", "d4/d2a/a20477.html#a39c06e09431565d6ce03db0970c51dac", null ]
 ];

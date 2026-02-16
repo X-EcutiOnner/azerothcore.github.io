@@ -1,22 +1,9 @@
 var a19201 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d9/db4/a19201.html#a5d98695d6090d3805de4c26db0fb2d23", null ],
-    [ "CheckAchievementCriteriaMeet", "d9/db4/a19201.html#a91fd1a35177ce6f29167ec20701e5ea6", null ],
-    [ "GetGuidData", "d9/db4/a19201.html#a06adfadbd168118756fa457cfa814cf1", null ],
-    [ "Initialize", "d9/db4/a19201.html#a9febece0b333f19b00ed3672bc24acf9", null ],
-    [ "IsEncounterInProgress", "d9/db4/a19201.html#aa7a833aa22e9f99c10bc3f9c6b06fc9b", null ],
-    [ "OnCreatureCreate", "d9/db4/a19201.html#abe14c696da1e452c2d79f20e4a729c12", null ],
-    [ "OnGameObjectCreate", "d9/db4/a19201.html#accc79892118cce948568d7810ce64e23", null ],
-    [ "OnPlayerEnter", "d9/db4/a19201.html#ae196d774c296cd8230946418832d158a", null ],
-    [ "ProcessEvent", "d9/db4/a19201.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
-    [ "ReadSaveDataMore", "d9/db4/a19201.html#a424b9a865e3d4f7953990b072599e98c", null ],
-    [ "SetData", "d9/db4/a19201.html#a7795b115419ed6f74735535c2c9f3b74", null ],
-    [ "WriteSaveDataMore", "d9/db4/a19201.html#ab03a08d80116947107b0279fa27d92f6", null ],
-    [ "bPokeAchiev", "d9/db4/a19201.html#ae9ac88ac934fa86e28f5d4905b8defba", null ],
-    [ "EncounterStatus", "d9/db4/a19201.html#acb95c03060aac2c7b022ffe9c09da7b2", null ],
-    [ "GO_ExitPortalGUID", "d9/db4/a19201.html#a0ecf94e919fe425ea283a7929f33e96f", null ],
-    [ "GO_IrisGUID", "d9/db4/a19201.html#a34fe2223ca6b0572357cc0c9f0a7ef52", null ],
-    [ "GO_PlatformGUID", "d9/db4/a19201.html#a26cac92965b6eb53d5ceb0bb1a92773d", null ],
-    [ "NPC_MalygosGUID", "d9/db4/a19201.html#a90666367e40a567c1adea7d444004db8", null ],
-    [ "str_data", "d9/db4/a19201.html#a00839e8d0b4bc3673f576990dfc932cc", null ]
+    [ "spell_trigger_spell_from_caster", "d9/db4/a19201.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d9/db4/a19201.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d9/db4/a19201.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d9/db4/a19201.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d9/db4/a19201.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d9/db4/a19201.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

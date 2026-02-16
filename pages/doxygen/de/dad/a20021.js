@@ -1,6 +1,6 @@
 var a20021 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "df/d24/a20025.html", "df/d24/a20025" ],
-    [ "npc_ulduar_saronite_vapors", "de/dad/a20021.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "de/dad/a20021.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "achievement_assembly_of_iron", "de/dad/a20021.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "de/dad/a20021.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "de/dad/a20021.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

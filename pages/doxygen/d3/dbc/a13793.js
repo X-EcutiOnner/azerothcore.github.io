@@ -1,6 +1,8 @@
 var a13793 =
 [
-    [ "OnEffect", "d3/dbc/a13793.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "d3/dbc/a13793.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "d3/dbc/a13793.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "HandleApply", "d3/dbc/a13793.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "d3/dbc/a13793.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "d3/dbc/a13793.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "d3/dbc/a13793.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "d3/dbc/a13793.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

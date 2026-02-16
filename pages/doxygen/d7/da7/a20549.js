@@ -1,12 +1,5 @@
 var a20549 =
 [
-    [ "boss_thorim_start_npcsAI", "d7/da7/a20549.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "d7/da7/a20549.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "d7/da7/a20549.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "d7/da7/a20549.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "d7/da7/a20549.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "d7/da7/a20549.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "d7/da7/a20549.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "d7/da7/a20549.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "d7/da7/a20549.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "go_ulduar_working_harpoon", "d7/da7/a20549.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "d7/da7/a20549.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

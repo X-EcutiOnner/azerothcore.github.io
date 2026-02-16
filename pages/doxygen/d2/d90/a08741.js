@@ -1,6 +1,10 @@
 var a08741 =
 [
-    [ "BuildValuesCachedBuffer", "d2/d90/a08741.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "d2/d90/a08741.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "d2/d90/a08741.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "Index", "d2/d90/a08741.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "d2/d90/a08741.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "d2/d90/a08741.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "d2/d90/a08741.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "d2/d90/a08741.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "d2/d90/a08741.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

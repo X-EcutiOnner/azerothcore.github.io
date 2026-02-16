@@ -1,5 +1,5 @@
 var a26945 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d6/d9f/a26945.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d6/d9f/a26945.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "AreaTrigger_at_legion_teleporter", "d6/d9f/a26945.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "d6/d9f/a26945.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

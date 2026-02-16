@@ -1,10 +1,10 @@
 var a12913 =
 [
-    [ "npc_scarlet_courierAI", "de/dca/a12913.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "de/dca/a12913.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "de/dca/a12913.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "de/dca/a12913.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "de/dca/a12913.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "de/dca/a12913.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "de/dca/a12913.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "de/dca/a12913.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "de/dca/a12913.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "de/dca/a12913.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "de/dca/a12913.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "de/dca/a12913.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "de/dca/a12913.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "de/dca/a12913.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

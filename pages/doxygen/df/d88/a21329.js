@@ -1,10 +1,6 @@
 var a21329 =
 [
-    [ "npc_azure_binderAI", "df/d88/a21329.html#ad532d350493a35804660f90a9f00f3cf", null ],
-    [ "Reset", "df/d88/a21329.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
-    [ "UpdateAI", "df/d88/a21329.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
-    [ "uiArcainBarrageTimer", "df/d88/a21329.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
-    [ "uiArcaneExplosionTimer", "df/d88/a21329.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
-    [ "uiFrostboltTimer", "df/d88/a21329.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
-    [ "uiFrostNovaTimer", "df/d88/a21329.html#a0f6396376e14711f87f1a046728ce386", null ]
+    [ "npc_violet_hold_defense_system", "df/d88/a21329.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "df/d88/a21329.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "df/d88/a21329.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

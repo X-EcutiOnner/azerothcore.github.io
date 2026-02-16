@@ -1,17 +1,19 @@
 var a00263 =
 [
-    [ "SmartAI", "dc/d49/a06319.html", "dc/d49/a06319" ],
-    [ "SmartGameObjectAI", "dd/d54/a06323.html", "dd/d54/a06323" ],
-    [ "DISTANCING_CONSTANT", "df/da9/a00263.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
-    [ "SmartEscortState", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "df/da9/a00263.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "df/da9/a00263.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "df/da9/a00263.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "df/da9/a00263.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "df/da9/a00263.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "Find", "df/da9/a00263.html#a516e9fe262b5a1c4dcd65da7ccf71b5a", null ],
+    [ "Find", "df/da9/a00263.html#a6823f2f647f14752459f26981d4c26b7", null ],
+    [ "Find", "df/da9/a00263.html#a4bfb4bddc798432f29bd818e89944edf", null ],
+    [ "Find", "df/da9/a00263.html#a19feef3708a949a3dcdf70f3fe86ff0e", null ],
+    [ "Find", "df/da9/a00263.html#ae166e7e76c33c81464ce6c03126a9851", null ],
+    [ "Find", "df/da9/a00263.html#a6c9d620966c3418af1971dc8326ccb4a", null ],
+    [ "Find", "df/da9/a00263.html#a5ebe906ee0f2f706bcc950236459a7f8", null ],
+    [ "Find", "df/da9/a00263.html#a63a0d0d14ac1e3ecbed175c4206b87f2", null ],
+    [ "Insert", "df/da9/a00263.html#ae7e83af9675f10ea565b725be25b8c5e", null ],
+    [ "Insert", "df/da9/a00263.html#a2cb738cb02deb5f4d7d30a7d860a45ff", null ],
+    [ "Insert", "df/da9/a00263.html#a9113786a11594dfcecc6d3bb4e1aadb2", null ],
+    [ "Insert", "df/da9/a00263.html#a3bc394692e5fd3b096a149b1208e3675", null ],
+    [ "Remove", "df/da9/a00263.html#a3714737e66e682a43beb71292ccd564e", null ],
+    [ "Remove", "df/da9/a00263.html#ac344e92ea8d73f94dc08c6a52001ec3e", null ],
+    [ "Remove", "df/da9/a00263.html#aecc909b333bb7f55f438bfcf1ea3085f", null ],
+    [ "Remove", "df/da9/a00263.html#a36e61ba9bc4e287e215444ea9314a656", null ]
 ];

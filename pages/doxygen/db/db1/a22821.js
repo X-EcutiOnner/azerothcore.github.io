@@ -1,12 +1,9 @@
 var a22821 =
 [
-    [ "boss_essence_of_desireAI", "db/db1/a22821.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "db/db1/a22821.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "db/db1/a22821.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "db/db1/a22821.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "db/db1/a22821.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "db/db1/a22821.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "db/db1/a22821.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "db/db1/a22821.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "db/db1/a22821.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "boss_najentus", "db/db1/a22821.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "db/db1/a22821.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "db/db1/a22821.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "db/db1/a22821.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "db/db1/a22821.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "db/db1/a22821.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

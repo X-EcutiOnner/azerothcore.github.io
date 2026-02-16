@@ -1,6 +1,8 @@
 var a17057 =
 [
-    [ "boss_drakkari_elementalAI", "df/dc3/a17061.html", "df/dc3/a17061" ],
-    [ "boss_drakkari_elemental", "d3/d27/a17057.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d3/d27/a17057.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "HandleRemove", "d3/d27/a17057.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d3/d27/a17057.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d3/d27/a17057.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d3/d27/a17057.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d3/d27/a17057.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

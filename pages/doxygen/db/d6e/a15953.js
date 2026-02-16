@@ -1,6 +1,9 @@
 var a15953 =
 [
-    [ "boss_general_zarithrianAI", "d2/dcb/a15957.html", "d2/dcb/a15957" ],
-    [ "boss_general_zarithrian", "db/d6e/a15953.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "db/d6e/a15953.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "npc_custodian_of_timeAI", "db/d6e/a15953.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "db/d6e/a15953.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "db/d6e/a15953.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "db/d6e/a15953.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "db/d6e/a15953.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "db/d6e/a15953.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

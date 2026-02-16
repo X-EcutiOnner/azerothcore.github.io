@@ -1,9 +1,7 @@
 var a13637 =
 [
-    [ "npc_thrall_bfuAI", "d7/dcd/a13641.html", "d7/dcd/a13641" ],
-    [ "npc_thrall_bfu", "d4/d2a/a13637.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d4/d2a/a13637.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d4/d2a/a13637.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d4/d2a/a13637.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d4/d2a/a13637.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "CorruptTriggers", "d4/d2a/a13637.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d4/d2a/a13637.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d4/d2a/a13637.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d4/d2a/a13637.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

@@ -1,6 +1,6 @@
 var a18509 =
 [
-    [ "npc_crok_scourgebaneAI", "d6/d02/a18513.html", "d6/d02/a18513" ],
-    [ "npc_crok_scourgebane", "d5/d99/a18509.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d5/d99/a18509.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "VileSpiritActivateEvent", "d5/d99/a18509.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d5/d99/a18509.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d5/d99/a18509.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

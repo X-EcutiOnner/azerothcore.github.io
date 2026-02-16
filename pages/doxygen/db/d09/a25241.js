@@ -1,7 +1,10 @@
 var a25241 =
 [
-    [ "OnApply", "db/d09/a25241.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "db/d09/a25241.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "db/d09/a25241.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "db/d09/a25241.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "CheckProc", "db/d09/a25241.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "db/d09/a25241.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "db/d09/a25241.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "db/d09/a25241.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "db/d09/a25241.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "db/d09/a25241.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "db/d09/a25241.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

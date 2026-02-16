@@ -1,7 +1,6 @@
 var a20085 =
 [
-    [ "npc_ulduar_icicleAI", "d6/dca/a20085.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
-    [ "UpdateAI", "d6/dca/a20085.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
-    [ "timer1", "d6/dca/a20085.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
-    [ "timer2", "d6/dca/a20085.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
+    [ "npc_pool_of_tar", "d6/dca/a20085.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "d6/dca/a20085.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "d6/dca/a20085.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

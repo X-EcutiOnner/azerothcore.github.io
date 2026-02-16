@@ -1,6 +1,6 @@
 var a24897 =
 [
-    [ "CheckAreaTarget", "d2/da0/a24897.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d2/da0/a24897.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d2/da0/a24897.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "CheckRequirement", "d2/da0/a24897.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "d2/da0/a24897.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "d2/da0/a24897.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

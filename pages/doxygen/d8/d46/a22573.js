@@ -1,5 +1,7 @@
 var a22573 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d8/d46/a22573.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "d8/d46/a22573.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "HandleDummy", "d8/d46/a22573.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "d8/d46/a22573.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "d8/d46/a22573.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "d8/d46/a22573.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

@@ -1,8 +1,10 @@
 var a08541 =
 [
-    [ "EnchantDuration", "da/da0/a08541.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "da/da0/a08541.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "da/da0/a08541.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "da/da0/a08541.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "da/da0/a08541.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "ObjectGuidGeneratorBase", "da/da0/a08541.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "da/da0/a08541.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "da/da0/a08541.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "da/da0/a08541.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "da/da0/a08541.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "da/da0/a08541.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "da/da0/a08541.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

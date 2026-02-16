@@ -1,6 +1,7 @@
 var a23133 =
 [
-    [ "FilterTargets", "de/d9a/a23133.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "de/d9a/a23133.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "de/d9a/a23133.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "HandleProc", "de/d9a/a23133.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "de/d9a/a23133.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "de/d9a/a23133.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "de/d9a/a23133.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

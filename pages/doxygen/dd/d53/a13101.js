@@ -1,14 +1,15 @@
 var a13101 =
 [
-    [ "boss_jarien", "dd/d53/a13101.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
-    [ "DoAction", "dd/d53/a13101.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
-    [ "IsSummonedBy", "dd/d53/a13101.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
-    [ "JustDied", "dd/d53/a13101.html#a418380b56f3432b5aec84737012f4693", null ],
-    [ "JustEngagedWith", "dd/d53/a13101.html#ab6590cf6626a12e804520b2cde84a93e", null ],
-    [ "Reset", "dd/d53/a13101.html#ac85ca96b42aa5115500bd24454f84209", null ],
-    [ "UpdateAI", "dd/d53/a13101.html#acf7157ec7af7356beddc8a2429177b95", null ],
-    [ "_phase", "dd/d53/a13101.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
-    [ "_scheduler", "dd/d53/a13101.html#abce9540798dbae1026d1c74bfeb111a6", null ],
-    [ "_sothosDied", "dd/d53/a13101.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
-    [ "_talked", "dd/d53/a13101.html#ae0c943c970990b055ebc8c31d81a7198", null ]
+    [ "boss_tinhead", "dd/d53/a13101.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "dd/d53/a13101.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "dd/d53/a13101.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "dd/d53/a13101.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "dd/d53/a13101.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "dd/d53/a13101.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "dd/d53/a13101.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "dd/d53/a13101.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "dd/d53/a13101.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "dd/d53/a13101.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "dd/d53/a13101.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "dd/d53/a13101.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

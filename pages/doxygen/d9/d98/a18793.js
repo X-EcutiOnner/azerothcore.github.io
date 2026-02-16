@@ -1,7 +1,14 @@
 var a18793 =
 [
-    [ "DelayedCastMincharEvent", "d9/d98/a18793.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d9/d98/a18793.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d9/d98/a18793.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d9/d98/a18793.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d9/d98/a18793.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "AttackStart", "d9/d98/a18793.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
+    [ "CanAIAttack", "d9/d98/a18793.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
+    [ "DoAction", "d9/d98/a18793.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "EnterEvadeMode", "d9/d98/a18793.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
+    [ "JustEngagedWith", "d9/d98/a18793.html#ad7385306f8058699ee004b7bc5f1b538", null ],
+    [ "JustReachedHome", "d9/d98/a18793.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
+    [ "MoveInLineOfSight", "d9/d98/a18793.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d9/d98/a18793.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
+    [ "UpdateAI", "d9/d98/a18793.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
+    [ "checkTimer", "d9/d98/a18793.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
 ];

@@ -1,10 +1,8 @@
 var a20533 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d8/de4/a20533.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "d8/de4/a20533.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "d8/de4/a20533.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "d8/de4/a20533.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "d8/de4/a20533.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "d8/de4/a20533.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "d8/de4/a20533.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/ddb/a20537.html", "db/ddb/a20537" ],
+    [ "npc_ulduar_expedition_commander", "d8/de4/a20533.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
+    [ "GetAI", "d8/de4/a20533.html#aa888a3634a643a103075d44c8f52d28a", null ],
+    [ "OnGossipHello", "d8/de4/a20533.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
+    [ "OnGossipSelect", "d8/de4/a20533.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
 ];

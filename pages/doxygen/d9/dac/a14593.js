@@ -1,6 +1,6 @@
 var a14593 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d4/dde/a14597.html", "d4/dde/a14597" ],
-    [ "instance_hyjal", "d9/dac/a14593.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "d9/dac/a14593.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "npc_direbrew_antagonist", "d9/dac/a14593.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d9/dac/a14593.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d9/dac/a14593.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

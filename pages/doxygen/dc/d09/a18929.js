@@ -1,6 +1,6 @@
 var a18929 =
 [
-    [ "boss_grobbulusAI", "de/d85/a18933.html", "de/d85/a18933" ],
-    [ "boss_grobbulus", "dc/d09/a18929.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "dc/d09/a18929.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "npc_frost_freeze_trapAI", "de/d85/a18933.html", "de/d85/a18933" ],
+    [ "npc_frost_freeze_trap", "dc/d09/a18929.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "dc/d09/a18929.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

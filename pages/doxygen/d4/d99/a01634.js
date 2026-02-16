@@ -1,10 +1,9 @@
 var a01634 =
 [
-    [ "GetGameTime", "d4/d99/a01634.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "d4/d99/a01634.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "d4/d99/a01634.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "d4/d99/a01634.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "d4/d99/a01634.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "d4/d99/a01634.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "d4/d99/a01634.html#a45712735241c9563a12fc3da54fb144d", null ]
+    [ "GetCheckPacketBaseSize", "d4/d99/a01634.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
+    [ "GetCheckPacketSize", "d4/d99/a01634.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
+    [ "GetMaxWardenChecksForType", "d4/d99/a01634.html#aedb0d8dcf11f0df50080f361dcd78fed", null ],
+    [ "_luaEvalMidfix", "d4/d99/a01634.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
+    [ "_luaEvalPostfix", "d4/d99/a01634.html#ad14853510c2482e64bd81633e5074206", null ],
+    [ "_luaEvalPrefix", "d4/d99/a01634.html#a259abc7d98e16cefc14404b5886cbc09", null ]
 ];

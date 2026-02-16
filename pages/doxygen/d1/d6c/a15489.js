@@ -1,7 +1,5 @@
 var a15489 =
 [
-    [ "npc_kaya_flathoofAI", "d2/dbe/a15493.html", "d2/dbe/a15493" ],
-    [ "npc_kaya_flathoof", "d1/d6c/a15489.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d1/d6c/a15489.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d1/d6c/a15489.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "at_cthun_center", "d1/d6c/a15489.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "d1/d6c/a15489.html#af744df9577e84ab64749076324e574c9", null ]
 ];

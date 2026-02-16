@@ -1,6 +1,7 @@
 var a20661 =
 [
-    [ "PrepareSpellScript", "d4/dbd/a20661.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d4/dbd/a20661.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d4/dbd/a20661.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_xt002_life_spark", "d4/dbd/a20661.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "d4/dbd/a20661.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "d4/dbd/a20661.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "d4/dbd/a20661.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

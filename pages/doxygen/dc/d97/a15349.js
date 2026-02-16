@@ -1,7 +1,7 @@
 var a15349 =
 [
-    [ "HandleDummy", "dc/d97/a15349.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "dc/d97/a15349.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "dc/d97/a15349.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "dc/d97/a15349.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "boss_kurinnaxx", "dc/d97/a15349.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "dc/d97/a15349.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "dc/d97/a15349.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "dc/d97/a15349.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

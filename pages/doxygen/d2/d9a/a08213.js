@@ -1,9 +1,12 @@
 var a08213 =
 [
-    [ "ActionButton", "d2/d9a/a08213.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "d2/d9a/a08213.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "d2/d9a/a08213.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "d2/d9a/a08213.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "d2/d9a/a08213.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "d2/d9a/a08213.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "QuestMenu", "d2/d9a/a08213.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "d2/d9a/a08213.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "d2/d9a/a08213.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "d2/d9a/a08213.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "d2/d9a/a08213.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "d2/d9a/a08213.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "d2/d9a/a08213.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "d2/d9a/a08213.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "d2/d9a/a08213.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

@@ -1,8 +1,14 @@
 var a22245 =
 [
-    [ "npc_wg_spirit_guideAI", "d4/de4/a22249.html", "d4/de4/a22249" ],
-    [ "npc_wg_spirit_guide", "d1/d58/a22245.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d1/d58/a22245.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d1/d58/a22245.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d1/d58/a22245.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_finklesteinAI", "d1/d58/a22245.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d1/d58/a22245.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d1/d58/a22245.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d1/d58/a22245.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d1/d58/a22245.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d1/d58/a22245.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d1/d58/a22245.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d1/d58/a22245.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d1/d58/a22245.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d1/d58/a22245.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d1/d58/a22245.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

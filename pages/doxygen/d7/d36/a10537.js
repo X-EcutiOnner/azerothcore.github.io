@@ -1,6 +1,6 @@
 var a10537 =
 [
-    [ "GuildUpdateMotdText", "d7/d36/a10537.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d7/d36/a10537.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d7/d36/a10537.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "WorldMapScript", "d7/d36/a10537.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d7/d36/a10537.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d7/d36/a10537.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

@@ -1,4 +1,5 @@
 var a28505 =
 [
-    [ "coords", "dd/d25/a28505.html#a6de1e0be070d552f8002bff7675bb9cf", null ]
+    [ "height", "dd/d25/a28505.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "dd/d25/a28505.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

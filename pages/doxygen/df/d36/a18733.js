@@ -1,5 +1,6 @@
 var a18733 =
 [
-    [ "npc_icc_buff_switcher", "df/d36/a18733.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "df/d36/a18733.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_lk_spirit_bombAI", "d0/d7b/a18737.html", "d0/d7b/a18737" ],
+    [ "npc_lk_spirit_bomb", "df/d36/a18733.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "df/d36/a18733.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

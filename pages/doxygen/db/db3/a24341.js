@@ -1,9 +1,11 @@
 var a24341 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "db/db3/a24341.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "db/db3/a24341.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "db/db3/a24341.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "db/db3/a24341.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "db/db3/a24341.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "db/db3/a24341.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "CalcPeriodic", "db/db3/a24341.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "db/db3/a24341.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "db/db3/a24341.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "db/db3/a24341.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "db/db3/a24341.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "db/db3/a24341.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "db/db3/a24341.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "db/db3/a24341.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

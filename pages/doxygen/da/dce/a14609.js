@@ -1,6 +1,7 @@
 var a14609 =
 [
-    [ "boss_infinite_corruptorAI", "db/dae/a14613.html", "db/dae/a14613" ],
-    [ "boss_infinite_corruptor", "da/dce/a14609.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "da/dce/a14609.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "FilterTargets", "da/dce/a14609.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "da/dce/a14609.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "da/dce/a14609.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "da/dce/a14609.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

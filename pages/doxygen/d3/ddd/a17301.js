@@ -1,9 +1,5 @@
 var a17301 =
 [
-    [ "CheckTarget", "d3/ddd/a17301.html#a43fc6a16aca217ef043fa34a58391357", null ],
-    [ "HandlePresence", "d3/ddd/a17301.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
-    [ "OnCast", "d3/ddd/a17301.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
-    [ "PrepareSpellScript", "d3/ddd/a17301.html#abe559b32aa82f19abb0a6d664b75c748", null ],
-    [ "Register", "d3/ddd/a17301.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
-    [ "Validate", "d3/ddd/a17301.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
+    [ "at_hor_battered_hilt_throw", "d3/ddd/a17301.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d3/ddd/a17301.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

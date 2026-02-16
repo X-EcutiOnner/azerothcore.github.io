@@ -1,6 +1,6 @@
 var a12841 =
 [
-    [ "npc_unworthy_initiateAI", "db/d61/a12845.html", "db/d61/a12845" ],
-    [ "npc_unworthy_initiate", "db/ddc/a12841.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "db/ddc/a12841.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "boss_shazzrahAI", "db/ddc/a12841.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "db/ddc/a12841.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "db/ddc/a12841.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

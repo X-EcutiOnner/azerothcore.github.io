@@ -1,5 +1,5 @@
 var a07841 =
 [
-    [ "flags", "d6/de3/a07841.html#ac55cea8114883b0000fb9fd195910f65", null ],
-    [ "params", "d6/de3/a07841.html#a5426d7accbe5734016fed99e632ea313", null ]
+    [ "IsColorValid", "d6/de3/a07841.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
+    [ "IsTextValid", "d6/de3/a07841.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
 ];

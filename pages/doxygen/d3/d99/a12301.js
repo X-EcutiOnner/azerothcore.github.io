@@ -1,6 +1,6 @@
 var a12301 =
 [
-    [ "boss_baron_geddonAI", "dd/ded/a12305.html", "dd/ded/a12305" ],
-    [ "boss_baron_geddon", "d3/d99/a12301.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d3/d99/a12301.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "boss_hedrumAI", "d3/d99/a12301.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "d3/d99/a12301.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "d3/d99/a12301.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

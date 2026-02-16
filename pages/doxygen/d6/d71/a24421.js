@@ -1,6 +1,10 @@
 var a24421 =
 [
-    [ "PrepareSpellScript", "d6/d71/a24421.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "d6/d71/a24421.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "d6/d71/a24421.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "HandleEffectRemove", "d6/d71/a24421.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d6/d71/a24421.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d6/d71/a24421.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d6/d71/a24421.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d6/d71/a24421.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d6/d71/a24421.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d6/d71/a24421.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

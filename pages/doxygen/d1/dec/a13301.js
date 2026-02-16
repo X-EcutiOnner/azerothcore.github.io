@@ -1,8 +1,7 @@
 var a13301 =
 [
-    [ "HandleApply", "d1/dec/a13301.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d1/dec/a13301.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d1/dec/a13301.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d1/dec/a13301.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d1/dec/a13301.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d1/dec/a13301.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d1/dec/a13301.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d1/dec/a13301.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
+    [ "prisonerGUID", "d1/dec/a13301.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

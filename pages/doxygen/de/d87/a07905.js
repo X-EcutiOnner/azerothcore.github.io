@@ -1,7 +1,6 @@
 var a07905 =
 [
-    [ "LfgReward", "de/d87/a07905.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
-    [ "firstQuest", "de/d87/a07905.html#a28162b1e43a5309ab01ca99b45d29799", null ],
-    [ "maxLevel", "de/d87/a07905.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
-    [ "otherQuest", "de/d87/a07905.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
+    [ "value_type", "de/d87/a07905.html#ac481731c1965ea0420cd7820e1e89881", null ],
+    [ "StoreTo", "de/d87/a07905.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
+    [ "tag", "de/d87/a07905.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
 ];

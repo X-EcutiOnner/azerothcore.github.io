@@ -1,8 +1,7 @@
 var a18309 =
 [
-    [ "npc_lk_spirit_bombAI", "d3/d8e/a18309.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d3/d8e/a18309.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d3/d8e/a18309.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d3/d8e/a18309.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d3/d8e/a18309.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "HandleScript", "d3/d8e/a18309.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "d3/d8e/a18309.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "d3/d8e/a18309.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "d3/d8e/a18309.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

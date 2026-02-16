@@ -1,6 +1,6 @@
 var a21781 =
 [
-    [ "npc_torturer_lecraftAI", "da/dd2/a21785.html", "da/dd2/a21785" ],
-    [ "npc_torturer_lecraft", "d3/d1e/a21781.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d3/d1e/a21781.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "HandleOnEffectRemove", "d3/d1e/a21781.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d3/d1e/a21781.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d3/d1e/a21781.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

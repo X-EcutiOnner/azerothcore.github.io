@@ -1,6 +1,6 @@
 var a24717 =
 [
-    [ "HandleAfterCast", "d5/dbe/a24717.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "d5/dbe/a24717.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "d5/dbe/a24717.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "HandleScriptEffect", "d5/dbe/a24717.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "d5/dbe/a24717.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "d5/dbe/a24717.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

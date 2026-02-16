@@ -1,6 +1,6 @@
 var a17949 =
 [
-    [ "UnchainedMagicTargetSelector", "db/df6/a17949.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "db/df6/a17949.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "db/df6/a17949.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_gunship_rocketeerAI", "db/dc0/a17953.html", "db/dc0/a17953" ],
+    [ "npc_gunship_rocketeer", "db/df6/a17949.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "db/df6/a17949.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

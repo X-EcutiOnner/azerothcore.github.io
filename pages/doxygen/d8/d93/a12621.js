@@ -1,5 +1,6 @@
 var a12621 =
 [
-    [ "at_karazhan_atiesh_aran", "d8/d93/a12621.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "d8/d93/a12621.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "boss_victor_nefariusAI", "d1/d02/a12625.html", "d1/d02/a12625" ],
+    [ "boss_victor_nefarius", "d8/d93/a12621.html#a85c529c49a0373a553bc59818fb18f49", null ],
+    [ "GetAI", "d8/d93/a12621.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
 ];

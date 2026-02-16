@@ -1,7 +1,9 @@
 var a17773 =
 [
-    [ "HandleTriggerSpell", "df/d74/a17773.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "df/d74/a17773.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "df/d74/a17773.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "df/d74/a17773.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "CheckProc", "df/d74/a17773.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "df/d74/a17773.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "df/d74/a17773.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "df/d74/a17773.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "df/d74/a17773.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "df/d74/a17773.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

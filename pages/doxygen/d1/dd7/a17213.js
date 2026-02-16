@@ -1,13 +1,12 @@
 var a17213 =
 [
-    [ "npc_kinetic_bombAI", "d1/dd7/a17213.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "d1/dd7/a17213.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "d1/dd7/a17213.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "d1/dd7/a17213.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "d1/dd7/a17213.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "d1/dd7/a17213.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "d1/dd7/a17213.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "d1/dd7/a17213.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "d1/dd7/a17213.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "d1/dd7/a17213.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "npc_shadowy_mercenaryAI", "d1/dd7/a17213.html#ac631624615653a4f82ecfae2aa418455", null ],
+    [ "AttackStart", "d1/dd7/a17213.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
+    [ "DoAction", "d1/dd7/a17213.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
+    [ "EnterEvadeMode", "d1/dd7/a17213.html#a31a9ddf038046534fad1d41afcf76548", null ],
+    [ "JustDied", "d1/dd7/a17213.html#a33e576c92d1b10492cb6e65000ca8198", null ],
+    [ "JustEngagedWith", "d1/dd7/a17213.html#ae12ade5e863a0022ea99620f354ca51b", null ],
+    [ "Reset", "d1/dd7/a17213.html#afad174f812e2aadf6db86703a46f61d2", null ],
+    [ "UpdateAI", "d1/dd7/a17213.html#a7a0238f32aa0d608b9d883db5f170052", null ],
+    [ "events", "d1/dd7/a17213.html#a4c6e5a49dc4364477187a0189a166578", null ]
 ];

@@ -1,7 +1,6 @@
 var a07889 =
 [
-    [ "LfgJoinResultData", "d6/d34/a07889.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "d6/d34/a07889.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "d6/d34/a07889.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "d6/d34/a07889.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "value_type", "d6/d34/a07889.html#abd675e353289166cc5c92524915d46af", null ],
+    [ "StoreTo", "d6/d34/a07889.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
+    [ "tag", "d6/d34/a07889.html#a102ade7c095fcac914b95708958352f1", null ]
 ];

@@ -1,9 +1,8 @@
 var a26569 =
 [
-    [ "HandleHeal", "d5/dcb/a26569.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d5/dcb/a26569.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d5/dcb/a26569.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d5/dcb/a26569.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d5/dcb/a26569.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d5/dcb/a26569.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "ApplyDebuff", "d5/dcb/a26569.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "d5/dcb/a26569.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "d5/dcb/a26569.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "d5/dcb/a26569.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "d5/dcb/a26569.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

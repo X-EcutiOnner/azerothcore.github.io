@@ -1,9 +1,11 @@
 var a23953 =
 [
-    [ "npc_fel_guard_houndAI", "dd/dfd/a23953.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "dd/dfd/a23953.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "dd/dfd/a23953.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "dd/dfd/a23953.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "dd/dfd/a23953.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "dd/dfd/a23953.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_invis_infernal_casterAI", "dd/dfd/a23953.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "dd/dfd/a23953.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "dd/dfd/a23953.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "dd/dfd/a23953.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "dd/dfd/a23953.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "dd/dfd/a23953.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "dd/dfd/a23953.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "dd/dfd/a23953.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

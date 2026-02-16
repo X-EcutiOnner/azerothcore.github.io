@@ -1,6 +1,6 @@
 var a13833 =
 [
-    [ "npc_zulian_prowlerAI", "d3/d0d/a13837.html", "d3/d0d/a13837" ],
-    [ "npc_zulian_prowler", "d2/d41/a13833.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "d2/d41/a13833.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "OnApply", "d2/d41/a13833.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "d2/d41/a13833.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "d2/d41/a13833.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

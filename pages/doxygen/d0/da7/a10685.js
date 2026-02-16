@@ -1,10 +1,6 @@
 var a10685 =
 [
-    [ "Count", "d0/da7/a10685.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "d0/da7/a10685.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "d0/da7/a10685.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "d0/da7/a10685.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "d0/da7/a10685.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "d0/da7/a10685.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "d0/da7/a10685.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "QueryGuildInfo", "d0/da7/a10685.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "d0/da7/a10685.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "d0/da7/a10685.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

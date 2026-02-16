@@ -1,23 +1,11 @@
 var a01733 =
 [
-    [ "WorldPackets::Item::SplitItem", "d4/dc3/a10876.html", "d4/dc3/a10876" ],
-    [ "WorldPackets::Item::SwapInventoryItem", "d7/db8/a10880.html", "d7/db8/a10880" ],
-    [ "WorldPackets::Item::AutoEquipItemSlot", "db/da9/a10884.html", "db/da9/a10884" ],
-    [ "WorldPackets::Item::SwapItem", "d1/d65/a10888.html", "d1/d65/a10888" ],
-    [ "WorldPackets::Item::AutoEquipItem", "d4/d40/a10892.html", "d4/d40/a10892" ],
-    [ "WorldPackets::Item::DestroyItem", "df/da4/a10896.html", "df/da4/a10896" ],
-    [ "WorldPackets::Item::ReadItem", "df/dc5/a10900.html", "df/dc5/a10900" ],
-    [ "WorldPackets::Item::SellItem", "d8/d3e/a10904.html", "d8/d3e/a10904" ],
-    [ "WorldPackets::Item::BuybackItem", "db/d56/a10908.html", "db/d56/a10908" ],
-    [ "WorldPackets::Item::BuyItemInSlot", "d0/d00/a10912.html", "d0/d00/a10912" ],
-    [ "WorldPackets::Item::BuyItem", "d0/dce/a10916.html", "d0/dce/a10916" ],
-    [ "WorldPackets::Item::ListInventory", "d5/d95/a10920.html", "d5/d95/a10920" ],
-    [ "WorldPackets::Item::AutoStoreBagItem", "d3/de7/a10924.html", "d3/de7/a10924" ],
-    [ "WorldPackets::Item::EnchantmentLog", "d6/d70/a10928.html", "d6/d70/a10928" ],
-    [ "WorldPackets::Item::ItemEnchantTimeUpdate", "db/da9/a10932.html", "db/da9/a10932" ],
-    [ "WorldPackets::Item::WrapItem", "d1/d37/a10936.html", "d1/d37/a10936" ],
-    [ "WorldPackets::Item::SocketGems", "d5/d78/a10940.html", "d5/d78/a10940" ],
-    [ "WorldPackets::Item::CancelTempEnchantment", "dd/d3a/a10944.html", "dd/d3a/a10944" ],
-    [ "WorldPackets::Item::ItemRefundInfo", "d9/d74/a10948.html", "d9/d74/a10948" ],
-    [ "WorldPackets::Item::ItemRefund", "d0/def/a10952.html", "d0/def/a10952" ]
+    [ "BanMgr", "d7/d5b/a10017.html", "d7/d5b/a10017" ],
+    [ "sBan", "d8/d9c/a01733.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "d8/d9c/a01733.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "d8/d9c/a01733.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "d8/d9c/a01733.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "d8/d9c/a01733.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "d8/d9c/a01733.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

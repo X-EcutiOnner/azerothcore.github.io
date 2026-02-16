@@ -1,7 +1,7 @@
 var a15561 =
 [
-    [ "npc_lakota_windsongAI", "d4/dbb/a15565.html", "d4/dbb/a15565" ],
-    [ "npc_lakota_windsong", "d4/d9a/a15561.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d4/d9a/a15561.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d4/d9a/a15561.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "boss_glob_of_viscidus", "d4/d9a/a15561.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d4/d9a/a15561.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d4/d9a/a15561.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d4/d9a/a15561.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

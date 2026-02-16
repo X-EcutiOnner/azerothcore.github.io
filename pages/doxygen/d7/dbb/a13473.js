@@ -1,9 +1,7 @@
 var a13473 =
 [
-    [ "npc_partygoer", "d7/dbb/a13473.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d7/dbb/a13473.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d7/dbb/a13473.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d7/dbb/a13473.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d7/dbb/a13473.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d7/dbb/a13473.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "boss_apothecary_hummelAI", "dc/dfe/a13477.html", "dc/dfe/a13477" ],
+    [ "boss_apothecary_hummel", "d7/dbb/a13473.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d7/dbb/a13473.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d7/dbb/a13473.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

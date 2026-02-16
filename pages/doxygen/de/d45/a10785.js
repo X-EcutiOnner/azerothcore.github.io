@@ -1,4 +1,5 @@
 var a10785 =
 [
-    [ "InvalidHyperlinkException", "de/d45/a10785.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
+    [ "GuildDeleteRank", "de/d45/a10785.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "de/d45/a10785.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

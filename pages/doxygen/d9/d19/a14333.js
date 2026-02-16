@@ -1,7 +1,5 @@
 var a14333 =
 [
-    [ "HandleScript", "d9/d19/a14333.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "d9/d19/a14333.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "d9/d19/a14333.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "d9/d19/a14333.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "at_zulgurub_bridge_speech", "d9/d19/a14333.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d9/d19/a14333.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

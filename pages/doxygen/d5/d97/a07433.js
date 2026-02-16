@@ -1,13 +1,12 @@
 var a07433 =
 [
-    [ "WhoListCacheMgr", "d5/d97/a07433.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d5/d97/a07433.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d5/d97/a07433.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d5/d97/a07433.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d5/d97/a07433.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d5/d97/a07433.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d5/d97/a07433.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d5/d97/a07433.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d5/d97/a07433.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d5/d97/a07433.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "BGQueueInviteEvent", "d5/d97/a07433.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d5/d97/a07433.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d5/d97/a07433.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d5/d97/a07433.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d5/d97/a07433.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d5/d97/a07433.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d5/d97/a07433.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d5/d97/a07433.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d5/d97/a07433.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

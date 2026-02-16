@@ -1,7 +1,6 @@
 var a25057 =
 [
-    [ "HandleChargeEffect", "da/d41/a25057.html#ad8d2871e6277dd982653fa864010d084", null ],
-    [ "HandleScriptEffect", "da/d41/a25057.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
-    [ "PrepareSpellScript", "da/d41/a25057.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
-    [ "Register", "da/d41/a25057.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
+    [ "OnApply", "da/d41/a25057.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "da/d41/a25057.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "da/d41/a25057.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

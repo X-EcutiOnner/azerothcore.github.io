@@ -1,8 +1,7 @@
 var a27385 =
 [
-    [ "npc_simoneAI", "d6/d1b/a27389.html", "d6/d1b/a27389" ],
-    [ "npc_simone", "de/d06/a27385.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "de/d06/a27385.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "de/d06/a27385.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "de/d06/a27385.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "npc_riggle_bassbaitAI", "de/d06/a27385.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "de/d06/a27385.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "de/d06/a27385.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "de/d06/a27385.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

@@ -1,10 +1,9 @@
 var a11237 =
 [
-    [ "TargetHook", "d3/daf/a11237.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d3/daf/a11237.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d3/daf/a11237.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d3/daf/a11237.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d3/daf/a11237.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d3/daf/a11237.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d3/daf/a11237.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "TotemCreated", "d3/daf/a11237.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d3/daf/a11237.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d3/daf/a11237.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d3/daf/a11237.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d3/daf/a11237.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d3/daf/a11237.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

@@ -1,5 +1,6 @@
 var a18329 =
 [
-    [ "achievement_neck_deep_in_vile", "d3/dea/a18329.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d3/dea/a18329.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "DespawnSelf", "d3/dea/a18329.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d3/dea/a18329.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d3/dea/a18329.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

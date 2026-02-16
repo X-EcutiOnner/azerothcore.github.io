@@ -1,6 +1,7 @@
 var a20097 =
 [
-    [ "npc_ulduar_toasty_fireAI", "df/d89/a20101.html", "df/d89/a20101" ],
-    [ "npc_ulduar_toasty_fire", "df/d54/a20097.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "df/d54/a20097.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "boss_flame_leviathan_safety_container", "df/d54/a20097.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "df/d54/a20097.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "df/d54/a20097.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "df/d54/a20097.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

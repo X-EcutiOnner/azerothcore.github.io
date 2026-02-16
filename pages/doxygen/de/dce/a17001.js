@@ -1,6 +1,5 @@
 var a17001 =
 [
-    [ "npc_pos_leader_secondAI", "de/d5b/a17005.html", "de/d5b/a17005" ],
-    [ "npc_pos_leader_second", "de/dce/a17001.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "de/dce/a17001.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "achievement_better_off_dred", "de/dce/a17001.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "de/dce/a17001.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

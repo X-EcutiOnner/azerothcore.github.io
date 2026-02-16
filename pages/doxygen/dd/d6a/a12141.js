@@ -1,7 +1,12 @@
 var a12141 =
 [
-    [ "boss_broodlordAI", "dd/d6a/a12141.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "dd/d6a/a12141.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "dd/d6a/a12141.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "dd/d6a/a12141.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "wp_commandscript", "dd/d6a/a12141.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "dd/d6a/a12141.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "dd/d6a/a12141.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "dd/d6a/a12141.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "dd/d6a/a12141.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "dd/d6a/a12141.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "dd/d6a/a12141.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "dd/d6a/a12141.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "dd/d6a/a12141.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

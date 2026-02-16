@@ -1,8 +1,9 @@
 var a08793 =
 [
-    [ "Entry", "d7/d17/a08793.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d7/d17/a08793.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d7/d17/a08793.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d7/d17/a08793.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d7/d17/a08793.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "GlobalCooldownMgr", "d7/d17/a08793.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d7/d17/a08793.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d7/d17/a08793.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d7/d17/a08793.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d7/d17/a08793.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d7/d17/a08793.html#a80d03691d36758733f326b65992f266e", null ]
 ];

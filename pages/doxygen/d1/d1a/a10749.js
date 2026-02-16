@@ -1,9 +1,8 @@
 var a10749 =
 [
-    [ "RandomRoll", "d1/d1a/a10749.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d1/d1a/a10749.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d1/d1a/a10749.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d1/d1a/a10749.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d1/d1a/a10749.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d1/d1a/a10749.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "GuildEvent", "d1/d1a/a10749.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d1/d1a/a10749.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d1/d1a/a10749.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d1/d1a/a10749.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d1/d1a/a10749.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

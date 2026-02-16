@@ -1,10 +1,5 @@
 var a04520 =
 [
-    [ "VMAP::ModelSpawn", "df/d84/a05115.html", "df/d84/a05115" ],
-    [ "VMAP::ModelInstance", "d3/d91/a05119.html", "d3/d91/a05119" ],
-    [ "ModelFlags", "d3/d83/a04520.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "d3/d83/a04520.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "d3/d83/a04520.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "d3/d83/a04520.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
-    ] ]
+    [ "instance_commandscript", "da/d65/a12009.html", "da/d65/a12009" ],
+    [ "AddSC_instance_commandscript", "d3/d83/a04520.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

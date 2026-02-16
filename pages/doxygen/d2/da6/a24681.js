@@ -1,6 +1,6 @@
 var a24681 =
 [
-    [ "FilterTargets", "d2/da6/a24681.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d2/da6/a24681.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d2/da6/a24681.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "CheckAreaTarget", "d2/da6/a24681.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "d2/da6/a24681.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "d2/da6/a24681.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

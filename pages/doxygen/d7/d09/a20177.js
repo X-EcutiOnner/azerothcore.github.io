@@ -1,6 +1,5 @@
 var a20177 =
 [
-    [ "HandleAfterEffectApply", "d7/d09/a20177.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d7/d09/a20177.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d7/d09/a20177.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "achievement_flame_leviathan_unbroken", "d7/d09/a20177.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d7/d09/a20177.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

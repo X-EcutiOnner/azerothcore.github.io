@@ -1,7 +1,7 @@
 var a18589 =
 [
-    [ "OnApply", "da/db1/a18589.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "da/db1/a18589.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "da/db1/a18589.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "da/db1/a18589.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "OnRemove", "da/db1/a18589.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "da/db1/a18589.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "da/db1/a18589.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "da/db1/a18589.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

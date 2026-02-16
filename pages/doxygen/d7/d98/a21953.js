@@ -1,6 +1,9 @@
 var a21953 =
 [
-    [ "npc_llod_genericAI", "d7/d8d/a21957.html", "d7/d8d/a21957" ],
-    [ "npc_llod_generic", "d7/d98/a21953.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d7/d98/a21953.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_frostbrood_skytalonAI", "d7/d98/a21953.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d7/d98/a21953.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d7/d98/a21953.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d7/d98/a21953.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d7/d98/a21953.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d7/d98/a21953.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

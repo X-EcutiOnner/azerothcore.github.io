@@ -1,6 +1,7 @@
 var a13145 =
 [
-    [ "HandleActivateObject", "d8/d6a/a13145.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d8/d6a/a13145.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d8/d6a/a13145.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "HandleDummy", "d8/d6a/a13145.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d8/d6a/a13145.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d8/d6a/a13145.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d8/d6a/a13145.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

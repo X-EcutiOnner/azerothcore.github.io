@@ -1,7 +1,8 @@
 var a05025 =
 [
-    [ "GameobjectModelData", "db/d29/a05025.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "db/d29/a05025.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "db/d29/a05025.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "db/d29/a05025.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "IMMapMgr", "db/d29/a05025.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
+    [ "~IMMapMgr", "db/d29/a05025.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
+    [ "isEnablePathFinding", "db/d29/a05025.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
+    [ "setEnablePathFinding", "db/d29/a05025.html#afdc7e829a374c20b4d072290363c7c62", null ],
+    [ "iEnablePathFinding", "db/d29/a05025.html#a25f8900f4546990562fb048e956bb1e0", null ]
 ];

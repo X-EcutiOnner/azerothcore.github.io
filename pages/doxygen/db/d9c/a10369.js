@@ -1,10 +1,19 @@
 var a10369 =
 [
-    [ "WorldObjectScript", "db/d9c/a10369.html#af044c3699a591c137abc5e03c772890b", null ],
-    [ "IsDatabaseBound", "db/d9c/a10369.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "db/d9c/a10369.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "db/d9c/a10369.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "db/d9c/a10369.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "db/d9c/a10369.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "db/d9c/a10369.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "AllSpellScript", "db/d9c/a10369.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
+    [ "CanPrepare", "db/d9c/a10369.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "db/d9c/a10369.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "db/d9c/a10369.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "db/d9c/a10369.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "db/d9c/a10369.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "db/d9c/a10369.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "db/d9c/a10369.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "db/d9c/a10369.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "db/d9c/a10369.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnRemoveAuraScaleTargets", "db/d9c/a10369.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "db/d9c/a10369.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "db/d9c/a10369.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "db/d9c/a10369.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "db/d9c/a10369.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "db/d9c/a10369.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

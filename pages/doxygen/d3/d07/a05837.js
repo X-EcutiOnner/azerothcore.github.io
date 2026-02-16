@@ -1,11 +1,10 @@
 var a05837 =
 [
-    [ "SQLOperation", "d3/d07/a05837.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d3/d07/a05837.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d3/d07/a05837.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d3/d07/a05837.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d3/d07/a05837.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d3/d07/a05837.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d3/d07/a05837.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d3/d07/a05837.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "MySQLConnectionInfo", "d3/d07/a05837.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "d3/d07/a05837.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "d3/d07/a05837.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "d3/d07/a05837.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "d3/d07/a05837.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "d3/d07/a05837.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "d3/d07/a05837.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

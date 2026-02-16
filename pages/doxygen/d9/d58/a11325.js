@@ -1,12 +1,6 @@
 var a11325 =
 [
-    [ "BroadcastTextBuilder", "d9/d58/a11325.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d9/d58/a11325.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d9/d58/a11325.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d9/d58/a11325.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d9/d58/a11325.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d9/d58/a11325.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d9/d58/a11325.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d9/d58/a11325.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d9/d58/a11325.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "WorldSessionFilter", "d9/d58/a11325.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "d9/d58/a11325.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "d9/d58/a11325.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

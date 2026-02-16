@@ -1,9 +1,6 @@
 var a17369 =
 [
-    [ "FilterTargetsInitial", "d9/d90/a17369.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d9/d90/a17369.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d9/d90/a17369.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d9/d90/a17369.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d9/d90/a17369.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d9/d90/a17369.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "npc_pos_leaderAI", "dd/dc9/a17373.html", "dd/dc9/a17373" ],
+    [ "npc_pos_leader", "d9/d90/a17369.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "d9/d90/a17369.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

@@ -1,8 +1,8 @@
 var a04796 =
 [
-    [ "CleanStringForMysqlQuery", "d8/dc6/a04796.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "d8/dc6/a04796.html#a8051d28826d995169bd4ce60310d5d65", null ],
-    [ "GetNameByLocaleConstant", "d8/dc6/a04796.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
-    [ "IsLocaleValid", "d8/dc6/a04796.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
-    [ "localeNames", "d8/dc6/a04796.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
+    [ "fixname2", "d8/dc6/a04796.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "d8/dc6/a04796.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "d8/dc6/a04796.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "d8/dc6/a04796.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "d8/dc6/a04796.html#a939d4568b4058bf826a517f55cb963af", null ]
 ];

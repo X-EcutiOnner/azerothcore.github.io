@@ -1,7 +1,7 @@
 var a17921 =
 [
-    [ "IceTombSummonEvent", "da/da4/a17921.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "da/da4/a17921.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "da/da4/a17921.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "da/da4/a17921.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "npc_gunship_boarding_leaderAI", "da/da4/a17921.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "da/da4/a17921.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "da/da4/a17921.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "da/da4/a17921.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

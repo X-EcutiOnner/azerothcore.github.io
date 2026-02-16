@@ -1,7 +1,7 @@
 var a17009 =
 [
-    [ "HandleEffectPeriodic", "df/d33/a17009.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "df/d33/a17009.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "df/d33/a17009.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "df/d33/a17009.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "HandleScriptEffect", "df/d33/a17009.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "df/d33/a17009.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "df/d33/a17009.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "df/d33/a17009.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

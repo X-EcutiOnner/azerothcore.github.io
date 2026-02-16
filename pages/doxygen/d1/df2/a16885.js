@@ -1,6 +1,6 @@
 var a16885 =
 [
-    [ "boss_garfrostAI", "df/dd0/a16889.html", "df/dd0/a16889" ],
-    [ "boss_garfrost", "d1/df2/a16885.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d1/df2/a16885.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "npc_snobold_vassalAI", "df/dd0/a16889.html", "df/dd0/a16889" ],
+    [ "npc_snobold_vassal", "d1/df2/a16885.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d1/df2/a16885.html#a77976a59f600591454fac197ded613ef", null ]
 ];

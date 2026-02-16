@@ -1,6 +1,9 @@
 var a24177 =
 [
-    [ "npc_shattrathflaskvendors", "d7/dfa/a24177.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d7/dfa/a24177.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d7/dfa/a24177.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d7/dfa/a24177.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d7/dfa/a24177.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d7/dfa/a24177.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d7/dfa/a24177.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d7/dfa/a24177.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d7/dfa/a24177.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

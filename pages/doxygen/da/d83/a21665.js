@@ -1,6 +1,6 @@
 var a21665 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "da/d83/a21665.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "da/d83/a21665.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "da/d83/a21665.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d5/df7/a21669.html", "d5/df7/a21669" ],
+    [ "npc_commander_eligor_dawnbringer", "da/d83/a21665.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "da/d83/a21665.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

@@ -1,6 +1,7 @@
 var a20873 =
 [
-    [ "OnEffect", "d2/d21/a20873.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d2/d21/a20873.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d2/d21/a20873.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "HandleEffectPeriodic", "d2/d21/a20873.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d2/d21/a20873.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d2/d21/a20873.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d2/d21/a20873.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

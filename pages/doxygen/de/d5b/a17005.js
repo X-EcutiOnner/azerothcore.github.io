@@ -1,11 +1,21 @@
 var a17005 =
 [
-    [ "npc_pos_leader_secondAI", "de/d5b/a17005.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "de/d5b/a17005.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "de/d5b/a17005.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "de/d5b/a17005.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "de/d5b/a17005.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "de/d5b/a17005.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "de/d5b/a17005.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "de/d5b/a17005.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "boss_novos", "de/d5b/a17005.html#ae05afda7873a26a7a812813628e970fc", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d5b/a17005.html#a0f5bde7e5d7fd31887d22a6151e99c48", null ],
+    [ "GetData", "de/d5b/a17005.html#ad037870744002e44a48e056875bd7ec1", null ],
+    [ "JustDied", "de/d5b/a17005.html#a47ae86a8b48aeebebfca23ee44d4563e", null ],
+    [ "JustEngagedWith", "de/d5b/a17005.html#accd720c3cb74905ef5ecf793089681eb", null ],
+    [ "JustSummoned", "de/d5b/a17005.html#a93c6c9c3a8e94f1d051047ddf24fbe14", null ],
+    [ "KilledUnit", "de/d5b/a17005.html#ac06fea8658bedcbf0ede8ddace6b9c3c", null ],
+    [ "MoveInLineOfSight", "de/d5b/a17005.html#a7567db25d51851888a35c70a4d7c833c", null ],
+    [ "Reset", "de/d5b/a17005.html#a95732678db7d6b103a6523100b27544b", null ],
+    [ "SetData", "de/d5b/a17005.html#aa383cb44a4eddcf73b00da9925060dde", null ],
+    [ "SummonedCreatureDies", "de/d5b/a17005.html#a1cbe1a2536171688e78da2cfda04effa", null ],
+    [ "SummonMovementInform", "de/d5b/a17005.html#af37e7d05ad672d443f7f2f89c7fd24a5", null ],
+    [ "UpdateAI", "de/d5b/a17005.html#a2488d1b0be72b76e2ea125dad3986217", null ],
+    [ "_achievement", "de/d5b/a17005.html#a0601276c570ee0912e3014ad60774f9a", null ],
+    [ "_crystalCounter", "de/d5b/a17005.html#a5a6651d0e08c0557d53174d40da0fac3", null ],
+    [ "_stage", "de/d5b/a17005.html#ae6c7721cfc95e8a524ea3d2fc4e20a88", null ],
+    [ "_summonTargetLeftGUID", "de/d5b/a17005.html#a05511ce949e0dc1a8e64832625b1bc64", null ],
+    [ "_summonTargetRightGUID", "de/d5b/a17005.html#a0aecc4467b0a29a8e8eb7df9a8e68d71", null ]
 ];

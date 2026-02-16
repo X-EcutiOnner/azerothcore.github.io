@@ -1,7 +1,6 @@
 var a22785 =
 [
-    [ "CheckProc", "d7/da8/a22785.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d7/da8/a22785.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d7/da8/a22785.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d7/da8/a22785.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d7/da8/a22785.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d7/da8/a22785.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d7/da8/a22785.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

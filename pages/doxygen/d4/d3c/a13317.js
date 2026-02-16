@@ -1,9 +1,8 @@
 var a13317 =
 [
-    [ "boss_muru", "d4/d3c/a13317.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d4/d3c/a13317.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d4/d3c/a13317.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d4/d3c/a13317.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d4/d3c/a13317.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d4/d3c/a13317.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleDummy", "d4/d3c/a13317.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d4/d3c/a13317.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d4/d3c/a13317.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d4/d3c/a13317.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d4/d3c/a13317.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

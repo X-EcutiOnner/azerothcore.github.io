@@ -1,11 +1,12 @@
 var a17189 =
 [
-    [ "npc_blood_queen_lana_thelAI", "de/df3/a17189.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "de/df3/a17189.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "de/df3/a17189.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "de/df3/a17189.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "de/df3/a17189.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "de/df3/a17189.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "de/df3/a17189.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "de/df3/a17189.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "npc_ghostly_priestAI", "de/df3/a17189.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "de/df3/a17189.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "de/df3/a17189.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "de/df3/a17189.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "de/df3/a17189.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "de/df3/a17189.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "de/df3/a17189.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "de/df3/a17189.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "de/df3/a17189.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

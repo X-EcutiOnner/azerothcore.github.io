@@ -1,9 +1,7 @@
 var a20485 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "df/de4/a20485.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "df/de4/a20485.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "df/de4/a20485.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "df/de4/a20485.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "df/de4/a20485.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "df/de4/a20485.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "HandleEffectPeriodic", "df/de4/a20485.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "df/de4/a20485.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "df/de4/a20485.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "df/de4/a20485.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

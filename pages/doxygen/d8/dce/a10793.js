@@ -1,4 +1,7 @@
 var a10793 =
 [
-    [ "Validate", "d8/dce/a10793.html#a25f2d2033711c905ed702d844416c250", null ]
+    [ "GuildSetMemberNote", "d8/dce/a10793.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d8/dce/a10793.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d8/dce/a10793.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d8/dce/a10793.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

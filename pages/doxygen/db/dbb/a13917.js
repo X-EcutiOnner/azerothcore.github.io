@@ -1,10 +1,11 @@
 var a13917 =
 [
-    [ "npc_batrider", "db/dbb/a13917.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "db/dbb/a13917.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "db/dbb/a13917.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "db/dbb/a13917.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "db/dbb/a13917.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "db/dbb/a13917.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "db/dbb/a13917.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_supervisor_raelen", "db/dbb/a13917.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "db/dbb/a13917.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "db/dbb/a13917.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "db/dbb/a13917.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "db/dbb/a13917.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "db/dbb/a13917.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "db/dbb/a13917.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "db/dbb/a13917.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

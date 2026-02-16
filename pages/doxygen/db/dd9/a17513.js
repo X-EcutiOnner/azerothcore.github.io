@@ -1,6 +1,6 @@
 var a17513 =
 [
-    [ "npc_gunship_gunnerAI", "d1/dfd/a17517.html", "d1/dfd/a17517" ],
-    [ "npc_gunship_gunner", "db/dd9/a17513.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "db/dd9/a17513.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "HandleScriptEffect", "db/dd9/a17513.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "db/dd9/a17513.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "db/dd9/a17513.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

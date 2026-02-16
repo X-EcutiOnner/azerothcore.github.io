@@ -1,9 +1,5 @@
 var a09773 =
 [
-    [ "ZoneDynamicInfo", "d0/d91/a09773.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "LightFadeInTime", "d0/d91/a09773.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d0/d91/a09773.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d0/d91/a09773.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d0/d91/a09773.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d0/d91/a09773.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "bossId", "d0/d91/a09773.html#ac7be12fc714b2760399185e96b01efe0", null ],
+    [ "entry", "d0/d91/a09773.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
 ];

@@ -1,8 +1,8 @@
 var a08829 =
 [
-    [ "GameObjectWorker", "d0/d6b/a08829.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
-    [ "Visit", "d0/d6b/a08829.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
-    [ "Visit", "d0/d6b/a08829.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
-    [ "_func", "d0/d6b/a08829.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
-    [ "_phaseMask", "d0/d6b/a08829.html#accfe66385f5bbfb461d0493c22fde20e", null ]
+    [ "CleanDamage", "d0/d6b/a08829.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d0/d6b/a08829.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d0/d6b/a08829.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d0/d6b/a08829.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d0/d6b/a08829.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

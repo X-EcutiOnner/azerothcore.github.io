@@ -1,6 +1,6 @@
 var a25829 =
 [
-    [ "PrepareSpellScript", "d6/dee/a25829.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d6/dee/a25829.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d6/dee/a25829.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CheckProc", "d6/dee/a25829.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "d6/dee/a25829.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "d6/dee/a25829.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

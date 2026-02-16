@@ -1,6 +1,6 @@
 var a20313 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "d0/d83/a20317.html", "d0/d83/a20317" ],
-    [ "npc_ulduar_leviathan_mkii", "d8/dbf/a20313.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "d8/dbf/a20313.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "FilterTargets", "d8/dbf/a20313.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d8/dbf/a20313.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d8/dbf/a20313.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

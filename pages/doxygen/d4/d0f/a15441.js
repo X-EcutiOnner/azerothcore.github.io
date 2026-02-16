@@ -1,6 +1,6 @@
 var a15441 =
 [
-    [ "SpellId", "d4/d0f/a15441.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d4/d0f/a15441.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d4/d0f/a15441.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "HandleScriptEffect", "d4/d0f/a15441.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d4/d0f/a15441.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d4/d0f/a15441.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

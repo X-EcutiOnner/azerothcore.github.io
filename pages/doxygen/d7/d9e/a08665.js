@@ -1,8 +1,5 @@
 var a08665 =
 [
-    [ "DiminishingReturn", "d7/d9e/a08665.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d7/d9e/a08665.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d7/d9e/a08665.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d7/d9e/a08665.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d7/d9e/a08665.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "Rank", "d7/d9e/a08665.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "d7/d9e/a08665.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

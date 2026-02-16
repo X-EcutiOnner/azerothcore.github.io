@@ -1,9 +1,7 @@
 var a15009 =
 [
-    [ "npc_giant_eye_tentacle", "dd/d3b/a15009.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "dd/d3b/a15009.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "dd/d3b/a15009.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "dd/d3b/a15009.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "dd/d3b/a15009.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "dd/d3b/a15009.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "OnPeriodic", "dd/d3b/a15009.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "dd/d3b/a15009.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "dd/d3b/a15009.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "dd/d3b/a15009.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

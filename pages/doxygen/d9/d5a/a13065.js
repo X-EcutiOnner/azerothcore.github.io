@@ -1,7 +1,6 @@
 var a13065 =
 [
-    [ "HandleScript", "d9/d5a/a13065.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d9/d5a/a13065.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d9/d5a/a13065.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d9/d5a/a13065.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "go_blood_drenched_doorAI", "db/d18/a13069.html", "db/d18/a13069" ],
+    [ "go_blood_drenched_door", "d9/d5a/a13065.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "d9/d5a/a13065.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

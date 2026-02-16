@@ -1,7 +1,10 @@
 var a09541 =
 [
-    [ "AddonHandler", "d7/d77/a09541.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d7/d77/a09541.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d7/d77/a09541.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d7/d77/a09541.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "AnyPlayerInObjectRangeCheck", "d7/d77/a09541.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "d7/d77/a09541.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "d7/d77/a09541.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "d7/d77/a09541.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "d7/d77/a09541.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "d7/d77/a09541.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "d7/d77/a09541.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

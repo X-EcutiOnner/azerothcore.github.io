@@ -1,6 +1,12 @@
 var a11821 =
 [
-    [ "boss_ambassador_flamelashAI", "d2/d61/a11825.html", "d2/d61/a11825" ],
-    [ "boss_ambassador_flamelash", "da/d36/a11821.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "da/d36/a11821.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "Action", "da/d36/a11821.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "da/d36/a11821.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "da/d36/a11821.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "da/d36/a11821.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "da/d36/a11821.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "da/d36/a11821.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "da/d36/a11821.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "da/d36/a11821.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "da/d36/a11821.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

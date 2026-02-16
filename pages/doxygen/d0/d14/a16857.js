@@ -1,9 +1,16 @@
 var a16857 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d0/d14/a16857.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d0/d14/a16857.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d0/d14/a16857.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d0/d14/a16857.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d0/d14/a16857.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d0/d14/a16857.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "boss_jaraxxusAI", "d0/d14/a16857.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
+    [ "EnterEvadeMode", "d0/d14/a16857.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
+    [ "JustDied", "d0/d14/a16857.html#a5fce156ec839c4799e3585e9674636c1", null ],
+    [ "JustEngagedWith", "d0/d14/a16857.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
+    [ "JustReachedHome", "d0/d14/a16857.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
+    [ "JustSummoned", "d0/d14/a16857.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
+    [ "MoveInLineOfSight", "d0/d14/a16857.html#aee8b894518e9091f4e52c4048562d08a", null ],
+    [ "Reset", "d0/d14/a16857.html#ad4a2bce95988f030387d74b5cf90f223", null ],
+    [ "SpellHit", "d0/d14/a16857.html#a5103f7808134a67f06af4be1d848aa91", null ],
+    [ "UpdateAI", "d0/d14/a16857.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
+    [ "events", "d0/d14/a16857.html#a6aff4c78989d99d49d697e9900375e28", null ],
+    [ "pInstance", "d0/d14/a16857.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
+    [ "summons", "d0/d14/a16857.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
 ];

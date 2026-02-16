@@ -1,7 +1,7 @@
 var a15413 =
 [
-    [ "npc_giant_spotlightAI", "d7/dc0/a15413.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d7/dc0/a15413.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d7/dc0/a15413.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d7/dc0/a15413.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_hivezara_stinger", "d7/dc0/a15413.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d7/dc0/a15413.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d7/dc0/a15413.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d7/dc0/a15413.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

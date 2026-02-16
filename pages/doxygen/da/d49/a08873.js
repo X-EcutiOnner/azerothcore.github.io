@@ -1,9 +1,8 @@
 var a08873 =
 [
-    [ "PlayerLastSearcher", "da/d49/a08873.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
-    [ "Visit", "da/d49/a08873.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
-    [ "Visit", "da/d49/a08873.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
-    [ "i_check", "da/d49/a08873.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
-    [ "i_object", "da/d49/a08873.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
-    [ "i_phaseMask", "da/d49/a08873.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
+    [ "PowerPctOrderPred", "da/d49/a08873.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "da/d49/a08873.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "da/d49/a08873.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "da/d49/a08873.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "da/d49/a08873.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

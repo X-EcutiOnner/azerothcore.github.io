@@ -1,6 +1,7 @@
 var a15613 =
 [
-    [ "npc_rivern_frostwind", "d8/d04/a15613.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d8/d04/a15613.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d8/d04/a15613.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_anubisath_warder", "d8/d04/a15613.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d8/d04/a15613.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d8/d04/a15613.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d8/d04/a15613.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

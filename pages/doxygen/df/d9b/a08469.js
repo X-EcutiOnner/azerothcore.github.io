@@ -1,5 +1,5 @@
 var a08469 =
 [
-    [ "MageSpellModPred", "df/d9b/a08469.html#af97aacdd47bd4427bb7dc1093ea1f63c", null ],
-    [ "operator()", "df/d9b/a08469.html#a09ba840692b7fd50f7f6a537de1b240e", null ]
+    [ "Description", "df/d9b/a08469.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "df/d9b/a08469.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

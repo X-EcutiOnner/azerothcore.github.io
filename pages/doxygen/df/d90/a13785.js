@@ -1,9 +1,8 @@
 var a13785 =
 [
-    [ "npc_zulaman_hostageAI", "df/d90/a13785.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "df/d90/a13785.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "df/d90/a13785.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "df/d90/a13785.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "df/d90/a13785.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "df/d90/a13785.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "HandleApply", "df/d90/a13785.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "df/d90/a13785.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "df/d90/a13785.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "df/d90/a13785.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "df/d90/a13785.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

@@ -1,6 +1,8 @@
 var a17937 =
 [
-    [ "npc_ice_tombAI", "de/dee/a17941.html", "de/dee/a17941" ],
-    [ "npc_ice_tomb", "df/da7/a17937.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "df/da7/a17937.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "npc_gunship_mageAI", "df/da7/a17937.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "df/da7/a17937.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "df/da7/a17937.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "df/da7/a17937.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "df/da7/a17937.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

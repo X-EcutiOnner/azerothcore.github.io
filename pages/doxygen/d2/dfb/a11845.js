@@ -1,6 +1,12 @@
 var a11845 =
 [
-    [ "boss_draganthaurissanAI", "d6/d47/a11849.html", "d6/d47/a11849" ],
-    [ "boss_emperor_dagran_thaurissan", "d2/dfb/a11845.html#a8332d74b5aa1528d5687084932419ad1", null ],
-    [ "GetAI", "d2/dfb/a11845.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
+    [ "WardenMac", "d2/dfb/a11845.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d2/dfb/a11845.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d2/dfb/a11845.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d2/dfb/a11845.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d2/dfb/a11845.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d2/dfb/a11845.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d2/dfb/a11845.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d2/dfb/a11845.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d2/dfb/a11845.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

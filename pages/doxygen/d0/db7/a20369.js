@@ -1,7 +1,12 @@
 var a20369 =
 [
-    [ "HandleEffectPeriodic", "d0/db7/a20369.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "d0/db7/a20369.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "d0/db7/a20369.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "d0/db7/a20369.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_iron_construct", "d0/db7/a20369.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
+    [ "DamageTaken", "d0/db7/a20369.html#a61989df09f881c1c8c8c6fc9f706533b", null ],
+    [ "JustDied", "d0/db7/a20369.html#ae102f4c7b9bc4246e0720287739e419a", null ],
+    [ "JustReachedHome", "d0/db7/a20369.html#a77609f7939725001d7a31c4d92f00358", null ],
+    [ "MoveInLineOfSight", "d0/db7/a20369.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
+    [ "Reset", "d0/db7/a20369.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
+    [ "SpellHit", "d0/db7/a20369.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
+    [ "UpdateAI", "d0/db7/a20369.html#afc56384db98a225a223c9214414508ea", null ],
+    [ "timer", "d0/db7/a20369.html#a397277972454f710d7236ba36a67c977", null ]
 ];

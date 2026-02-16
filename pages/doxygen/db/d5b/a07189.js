@@ -1,7 +1,16 @@
 var a07189 =
 [
-    [ "ArenaSeasonReward", "db/d5b/a07189.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "db/d5b/a07189.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "db/d5b/a07189.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "db/d5b/a07189.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "BuildAuctionInfo", "db/d5b/a07189.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "db/d5b/a07189.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "db/d5b/a07189.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "db/d5b/a07189.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "db/d5b/a07189.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "db/d5b/a07189.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "db/d5b/a07189.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "db/d5b/a07189.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "db/d5b/a07189.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "db/d5b/a07189.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "db/d5b/a07189.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "db/d5b/a07189.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "db/d5b/a07189.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

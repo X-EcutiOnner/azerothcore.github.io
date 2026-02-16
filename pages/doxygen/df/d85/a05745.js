@@ -1,10 +1,7 @@
 var a05745 =
 [
-    [ "TransactionCallback", "df/d85/a05745.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "df/d85/a05745.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "df/d85/a05745.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "df/d85/a05745.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "df/d85/a05745.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "df/d85/a05745.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "df/d85/a05745.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "cmd", "df/d85/a05745.html#a91e8e56c304147b88db250259ff0a87c", null ],
+    [ "error", "df/d85/a05745.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
+    [ "M2", "df/d85/a05745.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
+    [ "unk2", "df/d85/a05745.html#a47d83719b502236fdad41e2d07b535a0", null ]
 ];

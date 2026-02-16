@@ -1,5 +1,6 @@
 var a15829 =
 [
-    [ "achievement_watch_him_die", "d2/d22/a15829.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d2/d22/a15829.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "npc_great_bear_spirit", "d2/d22/a15829.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "d2/d22/a15829.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "d2/d22/a15829.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

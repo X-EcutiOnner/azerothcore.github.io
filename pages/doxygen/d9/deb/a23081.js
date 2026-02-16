@@ -1,6 +1,11 @@
 var a23081 =
 [
-    [ "HandleScriptEffect", "d9/deb/a23081.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "d9/deb/a23081.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "d9/deb/a23081.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "boss_ahune", "d9/deb/a23081.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d9/deb/a23081.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d9/deb/a23081.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d9/deb/a23081.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d9/deb/a23081.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d9/deb/a23081.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d9/deb/a23081.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d9/deb/a23081.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

@@ -1,9 +1,7 @@
 var a16849 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d8/dbc/a16849.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d8/dbc/a16849.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d8/dbc/a16849.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d8/dbc/a16849.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d8/dbc/a16849.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d8/dbc/a16849.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "HandleDispel", "d8/dbc/a16849.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "d8/dbc/a16849.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "d8/dbc/a16849.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "d8/dbc/a16849.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

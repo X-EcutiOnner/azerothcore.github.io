@@ -1,6 +1,6 @@
 var a25817 =
 [
-    [ "CheckProc", "d1/d08/a25817.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
-    [ "PrepareAuraScript", "d1/d08/a25817.html#a3fa05a39b003805f405d814214f4366e", null ],
-    [ "Register", "d1/d08/a25817.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
+    [ "OnRemove", "d1/d08/a25817.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d1/d08/a25817.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d1/d08/a25817.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

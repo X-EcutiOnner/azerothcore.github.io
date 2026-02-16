@@ -1,9 +1,6 @@
 var a18177 =
 [
-    [ "npc_icc_ice_sphereAI", "dd/d80/a18177.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "dd/d80/a18177.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "dd/d80/a18177.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "dd/d80/a18177.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "dd/d80/a18177.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "dd/d80/a18177.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "npc_volatile_oozeAI", "df/d40/a18181.html", "df/d40/a18181" ],
+    [ "npc_volatile_ooze", "dd/d80/a18177.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "dd/d80/a18177.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

@@ -1,5 +1,8 @@
 var a11389 =
 [
-    [ "Name", "d2/dbf/a11389.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
-    [ "Type", "d2/dbf/a11389.html#aeacac864bd23dcb7b24efc484810f592", null ]
+    [ "SkillPerfectItemEntry", "d2/dbf/a11389.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "d2/dbf/a11389.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "d2/dbf/a11389.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "d2/dbf/a11389.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "d2/dbf/a11389.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

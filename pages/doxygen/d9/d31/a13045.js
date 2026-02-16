@@ -1,5 +1,6 @@
 var a13045 =
 [
-    [ "npc_apothecary_frye", "d9/d31/a13045.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d9/d31/a13045.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "HandleHit", "d9/d31/a13045.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "d9/d31/a13045.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "d9/d31/a13045.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

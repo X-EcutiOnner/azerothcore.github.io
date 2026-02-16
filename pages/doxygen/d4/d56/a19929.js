@@ -1,5 +1,6 @@
 var a19929 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d4/d56/a19929.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d4/d56/a19929.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "npc_collapsing_star", "d4/d56/a19929.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "d4/d56/a19929.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "d4/d56/a19929.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

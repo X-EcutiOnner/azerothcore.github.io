@@ -1,6 +1,7 @@
 var a20381 =
 [
-    [ "npc_ulduar_flames_initialAI", "de/dc1/a20385.html", "de/dc1/a20385" ],
-    [ "npc_ulduar_flames_initial", "d4/d5e/a20381.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d4/d5e/a20381.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "HandleScript", "d4/d5e/a20381.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d4/d5e/a20381.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d4/d5e/a20381.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d4/d5e/a20381.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

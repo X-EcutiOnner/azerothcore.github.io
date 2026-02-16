@@ -1,6 +1,6 @@
 var a16597 =
 [
-    [ "OnPeriodic", "d6/d6b/a16597.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d6/d6b/a16597.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d6/d6b/a16597.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d9/d1e/a16601.html", "d9/d1e/a16601" ],
+    [ "npc_black_knight_skeletal_gryphon", "d6/d6b/a16597.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d6/d6b/a16597.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

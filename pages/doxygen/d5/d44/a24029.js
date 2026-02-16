@@ -1,7 +1,13 @@
 var a24029 =
 [
-    [ "npc_maxx_a_million_escortAI", "d1/d9b/a24033.html", "d1/d9b/a24033" ],
-    [ "npc_maxx_a_million_escort", "d5/d44/a24029.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d5/d44/a24029.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d5/d44/a24029.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_illidari_spawnAI", "d5/d44/a24029.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "d5/d44/a24029.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "d5/d44/a24029.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "d5/d44/a24029.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "d5/d44/a24029.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "d5/d44/a24029.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "d5/d44/a24029.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "d5/d44/a24029.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "d5/d44/a24029.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "d5/d44/a24029.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

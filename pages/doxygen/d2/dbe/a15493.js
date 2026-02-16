@@ -1,7 +1,9 @@
 var a15493 =
 [
-    [ "npc_kaya_flathoofAI", "d2/dbe/a15493.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d2/dbe/a15493.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d2/dbe/a15493.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d2/dbe/a15493.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "boss_fankriss", "d2/dbe/a15493.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "d2/dbe/a15493.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "d2/dbe/a15493.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "d2/dbe/a15493.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "d2/dbe/a15493.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "d2/dbe/a15493.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

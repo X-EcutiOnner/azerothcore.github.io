@@ -1,9 +1,11 @@
 var a14525 =
 [
-    [ "boss_azgalor", "d7/d0c/a14525.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d7/d0c/a14525.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d7/d0c/a14525.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d7/d0c/a14525.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d7/d0c/a14525.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d7/d0c/a14525.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d7/d0c/a14525.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d7/d0c/a14525.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d7/d0c/a14525.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d7/d0c/a14525.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d7/d0c/a14525.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d7/d0c/a14525.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d7/d0c/a14525.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d7/d0c/a14525.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

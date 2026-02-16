@@ -1,8 +1,12 @@
 var a21185 =
 [
-    [ "npc_frozen_orbAI", "d9/d76/a21185.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d9/d76/a21185.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d9/d76/a21185.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d9/d76/a21185.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d9/d76/a21185.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "boss_lavanthorAI", "d9/d76/a21185.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "d9/d76/a21185.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "d9/d76/a21185.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "d9/d76/a21185.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "d9/d76/a21185.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "d9/d76/a21185.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "d9/d76/a21185.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "d9/d76/a21185.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "d9/d76/a21185.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

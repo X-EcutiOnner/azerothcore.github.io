@@ -1,6 +1,7 @@
 var a18313 =
 [
-    [ "ActivateSpirit", "d8/d7f/a18313.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d8/d7f/a18313.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d8/d7f/a18313.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "HandleScript", "d8/d7f/a18313.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d8/d7f/a18313.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d8/d7f/a18313.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d8/d7f/a18313.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

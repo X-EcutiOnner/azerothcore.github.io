@@ -1,7 +1,6 @@
 var a13337 =
 [
-    [ "OnPeriodic", "d2/d8e/a13337.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "d2/d8e/a13337.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "d2/d8e/a13337.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "d2/d8e/a13337.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "npc_a_special_surpriseAI", "d1/dc4/a13341.html", "d1/dc4/a13341" ],
+    [ "npc_a_special_surprise", "d2/d8e/a13337.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d2/d8e/a13337.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

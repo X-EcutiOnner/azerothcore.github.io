@@ -1,6 +1,14 @@
 var a17169 =
 [
-    [ "boss_prince_taldaramAI", "d2/d0a/a17173.html", "d2/d0a/a17173" ],
-    [ "boss_prince_taldaram_icc", "d3/df9/a17169.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d3/df9/a17169.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "boss_marwynAI", "d3/df9/a17169.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "d3/df9/a17169.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "d3/df9/a17169.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "d3/df9/a17169.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "d3/df9/a17169.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "d3/df9/a17169.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "d3/df9/a17169.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "d3/df9/a17169.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "d3/df9/a17169.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "d3/df9/a17169.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "d3/df9/a17169.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

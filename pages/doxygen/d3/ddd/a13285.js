@@ -1,6 +1,8 @@
 var a13285 =
 [
-    [ "FilterTargets", "d3/ddd/a13285.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d3/ddd/a13285.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d3/ddd/a13285.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "npc_dkc1_gothikAI", "d3/ddd/a13285.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "d3/ddd/a13285.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "d3/ddd/a13285.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "d3/ddd/a13285.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "d3/ddd/a13285.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

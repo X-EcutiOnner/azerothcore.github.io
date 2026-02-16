@@ -1,6 +1,6 @@
 var a18813 =
 [
-    [ "npc_four_car_garageAI", "d5/df8/a18817.html", "d5/df8/a18817" ],
-    [ "npc_four_car_garage", "d0/d28/a18813.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d0/d28/a18813.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "npc_valithria_portalAI", "d5/df8/a18817.html", "d5/df8/a18817" ],
+    [ "npc_valithria_portal", "d0/d28/a18813.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d0/d28/a18813.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

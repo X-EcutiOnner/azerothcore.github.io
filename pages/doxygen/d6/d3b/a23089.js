@@ -1,12 +1,13 @@
 var a23089 =
 [
-    [ "boss_leotheras_the_blind", "d6/d3b/a23089.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "d6/d3b/a23089.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "d6/d3b/a23089.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "d6/d3b/a23089.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "d6/d3b/a23089.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "d6/d3b/a23089.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "d6/d3b/a23089.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "d6/d3b/a23089.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "d6/d3b/a23089.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "npc_ahune_bunny", "d6/d3b/a23089.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "d6/d3b/a23089.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "d6/d3b/a23089.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "d6/d3b/a23089.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "d6/d3b/a23089.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "d6/d3b/a23089.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "d6/d3b/a23089.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "d6/d3b/a23089.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "d6/d3b/a23089.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "d6/d3b/a23089.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

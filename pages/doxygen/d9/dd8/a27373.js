@@ -1,11 +1,8 @@
 var a27373 =
 [
-    [ "npc_artoriusAI", "d9/dd8/a27373.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d9/dd8/a27373.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d9/dd8/a27373.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d9/dd8/a27373.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d9/dd8/a27373.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d9/dd8/a27373.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d9/dd8/a27373.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d9/dd8/a27373.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "npc_elder_clearwaterAI", "d2/d62/a27377.html", "d2/d62/a27377" ],
+    [ "npc_elder_clearwater", "d9/dd8/a27373.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d9/dd8/a27373.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d9/dd8/a27373.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d9/dd8/a27373.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

@@ -1,6 +1,5 @@
 var a15697 =
 [
-    [ "HandleApply", "df/d44/a15697.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "df/d44/a15697.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "df/d44/a15697.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "go_bristlelimb_cage", "df/d44/a15697.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "df/d44/a15697.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

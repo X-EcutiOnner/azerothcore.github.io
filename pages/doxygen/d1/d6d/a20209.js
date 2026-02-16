@@ -1,12 +1,13 @@
 var a20209 =
 [
-    [ "npc_ulduar_iron_constructAI", "d1/d6d/a20209.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "d1/d6d/a20209.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "d1/d6d/a20209.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "d1/d6d/a20209.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "d1/d6d/a20209.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "d1/d6d/a20209.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "d1/d6d/a20209.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "d1/d6d/a20209.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "d1/d6d/a20209.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "boss_freya_summons", "d1/d6d/a20209.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "DoAction", "d1/d6d/a20209.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
+    [ "JustDied", "d1/d6d/a20209.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "d1/d6d/a20209.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "d1/d6d/a20209.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "UpdateAI", "d1/d6d/a20209.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "d1/d6d/a20209.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "d1/d6d/a20209.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_stackCount", "d1/d6d/a20209.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
+    [ "events", "d1/d6d/a20209.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

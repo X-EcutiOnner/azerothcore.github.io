@@ -1,8 +1,6 @@
 var a24677 =
 [
-    [ "AfterApply", "df/dd6/a24677.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "df/dd6/a24677.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "df/dd6/a24677.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "df/dd6/a24677.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "df/dd6/a24677.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "CheckAreaTarget", "df/dd6/a24677.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "df/dd6/a24677.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "df/dd6/a24677.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

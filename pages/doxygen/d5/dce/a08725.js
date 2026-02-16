@@ -1,8 +1,9 @@
 var a08725 =
 [
-    [ "RedirectSpellEvent", "d5/dce/a08725.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "d5/dce/a08725.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "d5/dce/a08725.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "d5/dce/a08725.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "d5/dce/a08725.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "EntryPointData", "d5/dce/a08725.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d5/dce/a08725.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d5/dce/a08725.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d5/dce/a08725.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d5/dce/a08725.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d5/dce/a08725.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

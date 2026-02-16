@@ -1,15 +1,10 @@
 var a12905 =
 [
-    [ "npc_koltira_deathweaverAI", "d7/d33/a12905.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "AttackStart", "d7/d33/a12905.html#aa219afbaedb108e7384479de3bbb4135", null ],
-    [ "EnterEvadeMode", "d7/d33/a12905.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
-    [ "JustSummoned", "d7/d33/a12905.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
-    [ "Reset", "d7/d33/a12905.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "SummonAcolyte", "d7/d33/a12905.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
-    [ "UpdateAI", "d7/d33/a12905.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
-    [ "WaypointReached", "d7/d33/a12905.html#a5714e781a73cf2774aa21a083cd8301a", null ],
-    [ "m_uiValrothGUID", "d7/d33/a12905.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
-    [ "m_uiWave", "d7/d33/a12905.html#a35ec3a0a78240966a0e06753873e5956", null ],
-    [ "m_uiWave_Timer", "d7/d33/a12905.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
-    [ "summons", "d7/d33/a12905.html#a38fc03a63df38b02eab07f3bffd969da", null ]
+    [ "instance_deadmines_InstanceMapScript", "d7/d33/a12905.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "d7/d33/a12905.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "d7/d33/a12905.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "d7/d33/a12905.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "d7/d33/a12905.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "d7/d33/a12905.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "d7/d33/a12905.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

@@ -1,6 +1,7 @@
 var a12317 =
 [
-    [ "boss_garrAI", "da/d32/a12321.html", "da/d32/a12321" ],
-    [ "boss_garr", "d2/df5/a12317.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "d2/df5/a12317.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "boss_magmusAI", "d2/df5/a12317.html#a8a3e5361bda492007013af9228899b8f", null ],
+    [ "JustEngagedWith", "d2/df5/a12317.html#a11e4868628564078997694373315a9d6", null ],
+    [ "Reset", "d2/df5/a12317.html#a5fe304cec86831b7e64f83caee1392d0", null ],
+    [ "UpdateAI", "d2/df5/a12317.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
 ];

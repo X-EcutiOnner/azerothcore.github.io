@@ -1,14 +1,7 @@
 var a23465 =
 [
-    [ "boss_vazruden", "de/de8/a23465.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "de/de8/a23465.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "de/de8/a23465.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "de/de8/a23465.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "de/de8/a23465.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "de/de8/a23465.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "de/de8/a23465.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "de/de8/a23465.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "de/de8/a23465.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "de/de8/a23465.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "de/de8/a23465.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "HandleOnApply", "de/de8/a23465.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "de/de8/a23465.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "de/de8/a23465.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "de/de8/a23465.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

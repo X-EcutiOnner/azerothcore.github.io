@@ -1,6 +1,7 @@
 var a26769 =
 [
-    [ "CalculateAmount", "de/d0a/a26769.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "de/d0a/a26769.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "de/d0a/a26769.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "FilterTargets", "de/d0a/a26769.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "de/d0a/a26769.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "de/d0a/a26769.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "de/d0a/a26769.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

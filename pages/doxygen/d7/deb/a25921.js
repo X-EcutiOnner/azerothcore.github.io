@@ -1,8 +1,7 @@
 var a25921 =
 [
-    [ "Absorb", "d7/deb/a25921.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "d7/deb/a25921.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "d7/deb/a25921.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "d7/deb/a25921.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "d7/deb/a25921.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "CheckProc", "d7/deb/a25921.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "d7/deb/a25921.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "d7/deb/a25921.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "d7/deb/a25921.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

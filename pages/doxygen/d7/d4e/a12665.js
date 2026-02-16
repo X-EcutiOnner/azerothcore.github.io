@@ -1,6 +1,7 @@
 var a12665 =
 [
-    [ "npc_grandmother", "d7/d4e/a12665.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d7/d4e/a12665.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d7/d4e/a12665.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "HandleDummy", "d7/d4e/a12665.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d7/d4e/a12665.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d7/d4e/a12665.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d7/d4e/a12665.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

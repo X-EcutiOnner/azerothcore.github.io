@@ -1,20 +1,8 @@
 var a14065 =
 [
-    [ "npc_dark_iron_attack_generator", "d1/d19/a14065.html#aef208e008b00af62710c8479bf7b6618", null ],
-    [ "AllowStart", "d1/d19/a14065.html#a4c0bdf682ced38cd1555ac6c6dd82361", null ],
-    [ "FinishAttackDueToWin", "d1/d19/a14065.html#abe15db24f6cd2c0c4c7fb5572635f09a", null ],
-    [ "FinishEventDueToLoss", "d1/d19/a14065.html#ab2dc568f820e3b0b7c863f83e6ca45fc", null ],
-    [ "GetRandomBartender", "d1/d19/a14065.html#aefe0e7e40ca5aad089aa27c5151e01fa", null ],
-    [ "JustEngagedWith", "d1/d19/a14065.html#a7588ef6382ae081d76423f8233667c5b", null ],
-    [ "MoveInLineOfSight", "d1/d19/a14065.html#ae21b69752a1e45eeef318ccf1e5a3b24", null ],
-    [ "PrepareEvent", "d1/d19/a14065.html#a4371fcc13d221b843275d1d0e7f896fb", null ],
-    [ "Reset", "d1/d19/a14065.html#ab9b3a7d524b8764ef9d00dac3ea75418", null ],
-    [ "SpellHit", "d1/d19/a14065.html#a829946c679b3eff97b1eb3ede6cd91d8", null ],
-    [ "UpdateAI", "d1/d19/a14065.html#a1038fdc5453c78ebaef26b305be23963", null ],
-    [ "events", "d1/d19/a14065.html#a6692f1a74acae5ddebbe8dc8790db07a", null ],
-    [ "guzzlerCounter", "d1/d19/a14065.html#a1a5cc21ee54e3d8d7acb1e3235d4e427", null ],
-    [ "kegCounter", "d1/d19/a14065.html#a3282d8a556e6e3b84a9597c317722d8e", null ],
-    [ "revelerGUIDs", "d1/d19/a14065.html#a873ec2bf87b3d616e60d26aa561258bf", null ],
-    [ "summons", "d1/d19/a14065.html#a5ac0502b880031c937f915a7dbca2262", null ],
-    [ "thrown", "d1/d19/a14065.html#ac372ce0664ec10b7f60026fa808a74d0", null ]
+    [ "npc_varian_wrynnAI", "dd/d99/a14069.html", "dd/d99/a14069" ],
+    [ "npc_varian_wrynn", "d1/d19/a14065.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d1/d19/a14065.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d1/d19/a14065.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d1/d19/a14065.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

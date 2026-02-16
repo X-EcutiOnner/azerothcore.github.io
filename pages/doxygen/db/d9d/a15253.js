@@ -1,7 +1,7 @@
 var a15253 =
 [
-    [ "HandleEffectRemove", "db/d9d/a15253.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "db/d9d/a15253.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "db/d9d/a15253.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "db/d9d/a15253.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_onyxian_lair_guard", "db/d9d/a15253.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "db/d9d/a15253.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "db/d9d/a15253.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "db/d9d/a15253.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

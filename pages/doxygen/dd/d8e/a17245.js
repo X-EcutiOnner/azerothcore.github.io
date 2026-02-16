@@ -1,6 +1,10 @@
 var a17245 =
 [
-    [ "OnAbsorb", "dd/d8e/a17245.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "dd/d8e/a17245.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "dd/d8e/a17245.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "npc_hor_spiritual_reflectionAI", "dd/d8e/a17245.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "dd/d8e/a17245.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "dd/d8e/a17245.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "dd/d8e/a17245.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "dd/d8e/a17245.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "dd/d8e/a17245.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "dd/d8e/a17245.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

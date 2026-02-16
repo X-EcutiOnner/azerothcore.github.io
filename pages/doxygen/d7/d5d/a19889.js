@@ -1,7 +1,8 @@
 var a19889 =
 [
-    [ "HandleScript", "d7/d5d/a19889.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d7/d5d/a19889.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d7/d5d/a19889.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d7/d5d/a19889.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "brann_bronzebeardAI", "db/dd0/a19893.html", "db/dd0/a19893" ],
+    [ "brann_bronzebeard", "d7/d5d/a19889.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d7/d5d/a19889.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d7/d5d/a19889.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d7/d5d/a19889.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

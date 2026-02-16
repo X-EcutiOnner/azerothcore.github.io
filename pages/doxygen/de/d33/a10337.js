@@ -1,7 +1,10 @@
 var a10337 =
 [
-    [ "SpellScriptLoader", "de/d33/a10337.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "de/d33/a10337.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "de/d33/a10337.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "de/d33/a10337.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "AchievementScript", "de/d33/a10337.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "de/d33/a10337.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "de/d33/a10337.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "de/d33/a10337.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "de/d33/a10337.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "de/d33/a10337.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "de/d33/a10337.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

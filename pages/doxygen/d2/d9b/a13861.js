@@ -1,8 +1,6 @@
 var a13861 =
 [
-    [ "boss_grilekAI", "d2/d9b/a13861.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d2/d9b/a13861.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d2/d9b/a13861.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d2/d9b/a13861.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d2/d9b/a13861.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "HandleSendEvent", "d2/d9b/a13861.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "d2/d9b/a13861.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "d2/d9b/a13861.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

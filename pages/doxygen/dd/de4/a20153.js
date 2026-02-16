@@ -1,5 +1,8 @@
 var a20153 =
 [
-    [ "FlashFreezeCheck", "dd/de4/a20153.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "dd/de4/a20153.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "HandleOnEffectApply", "dd/de4/a20153.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "dd/de4/a20153.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "dd/de4/a20153.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "dd/de4/a20153.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "dd/de4/a20153.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

@@ -1,7 +1,6 @@
 var a26633 =
 [
-    [ "HandleDummy", "dc/da6/a26633.html#a6990bc24605167d38772f391aa2a5376", null ],
-    [ "PrepareSpellScript", "dc/da6/a26633.html#af85da0790eb36b91266ffa45888068d6", null ],
-    [ "Register", "dc/da6/a26633.html#a619dab878b3d6e332a15d772dd148e26", null ],
-    [ "Validate", "dc/da6/a26633.html#a5a39713deabac73334442e1bdeb00aad", null ]
+    [ "CheckCast", "dc/da6/a26633.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "dc/da6/a26633.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "dc/da6/a26633.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

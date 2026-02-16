@@ -1,6 +1,6 @@
 var a17849 =
 [
-    [ "boss_rotfaceAI", "df/dc5/a17853.html", "df/dc5/a17853" ],
-    [ "boss_rotface", "de/db2/a17849.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "de/db2/a17849.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "Cooldown", "de/db2/a17849.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "de/db2/a17849.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "de/db2/a17849.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

@@ -1,5 +1,7 @@
 var a11665 =
 [
-    [ "flag", "d4/dc3/a11665.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
-    [ "text", "d4/dc3/a11665.html#a492e5e3c2373adba005034514b0a5a1e", null ]
+    [ "EffectApplyHandler", "d4/dc3/a11665.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d4/dc3/a11665.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d4/dc3/a11665.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d4/dc3/a11665.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

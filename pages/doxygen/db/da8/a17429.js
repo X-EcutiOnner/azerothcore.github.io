@@ -1,13 +1,6 @@
 var a17429 =
 [
-    [ "PassengerController", "db/da8/a17429.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "db/da8/a17429.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "db/da8/a17429.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "db/da8/a17429.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "db/da8/a17429.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "db/da8/a17429.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "db/da8/a17429.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "db/da8/a17429.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "db/da8/a17429.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "db/da8/a17429.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "npc_pos_freed_slaveAI", "db/da8/a17429.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "db/da8/a17429.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "db/da8/a17429.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

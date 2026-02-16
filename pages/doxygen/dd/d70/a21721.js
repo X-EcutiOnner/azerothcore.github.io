@@ -1,6 +1,6 @@
 var a21721 =
 [
-    [ "SACDeactivateEvent", "dd/d70/a21721.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "dd/d70/a21721.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "dd/d70/a21721.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_ravenous_worgAI", "dc/de3/a21725.html", "dc/de3/a21725" ],
+    [ "npc_ravenous_worg", "dd/d70/a21721.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "dd/d70/a21721.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

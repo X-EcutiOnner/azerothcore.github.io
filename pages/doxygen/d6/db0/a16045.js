@@ -1,7 +1,10 @@
 var a16045 =
 [
-    [ "OnApply", "d6/db0/a16045.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d6/db0/a16045.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d6/db0/a16045.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d6/db0/a16045.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "npc_ameAI", "d6/db0/a16045.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d6/db0/a16045.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d6/db0/a16045.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d6/db0/a16045.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d6/db0/a16045.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d6/db0/a16045.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d6/db0/a16045.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

@@ -1,5 +1,6 @@
 var a20685 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "dd/dc8/a20685.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "dd/dc8/a20685.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "OnRemove", "dd/dc8/a20685.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "dd/dc8/a20685.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "dd/dc8/a20685.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

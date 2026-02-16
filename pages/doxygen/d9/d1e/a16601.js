@@ -1,8 +1,8 @@
 var a16601 =
 [
-    [ "HandleEffectApply", "d9/d1e/a16601.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d9/d1e/a16601.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d9/d1e/a16601.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d9/d1e/a16601.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d9/d1e/a16601.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d9/d1e/a16601.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d9/d1e/a16601.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d9/d1e/a16601.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d9/d1e/a16601.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d9/d1e/a16601.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

@@ -1,17 +1,19 @@
 var a05317 =
 [
-    [ "AppenderFile", "d9/d96/a05317.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
-    [ "~AppenderFile", "d9/d96/a05317.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
-    [ "_write", "d9/d96/a05317.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
-    [ "CloseFile", "d9/d96/a05317.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
-    [ "getType", "d9/d96/a05317.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
-    [ "OpenFile", "d9/d96/a05317.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
-    [ "_backup", "d9/d96/a05317.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
-    [ "_dynamicName", "d9/d96/a05317.html#a13cffedf98f8554f5a947dcc065caf65", null ],
-    [ "_fileName", "d9/d96/a05317.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
-    [ "_fileSize", "d9/d96/a05317.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
-    [ "_logDir", "d9/d96/a05317.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
-    [ "_maxFileSize", "d9/d96/a05317.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
-    [ "logfile", "d9/d96/a05317.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
-    [ "type", "d9/d96/a05317.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
+    [ "Iterator", "d8/d16/a05321.html", "d8/d16/a05321" ],
+    [ "iterator", "d9/d96/a05317.html#a57ec2565e503df8ef86e1df2889c8ee3", null ],
+    [ "LinkedListHead", "d9/d96/a05317.html#ab9a10897505b9315f7abef37ca53ae3d", null ],
+    [ "decSize", "d9/d96/a05317.html#ada0bbfaadb9944b904fd023291d7454e", null ],
+    [ "getFirst", "d9/d96/a05317.html#a3bdb6df345043767ce9b319593102371", null ],
+    [ "getFirst", "d9/d96/a05317.html#a2b67ea8030683685e442b534f6ac14ae", null ],
+    [ "getLast", "d9/d96/a05317.html#a523c918451eb358014e821b11f000b9b", null ],
+    [ "getLast", "d9/d96/a05317.html#a4f858b06a17f5bc17db10aebd3493142", null ],
+    [ "getSize", "d9/d96/a05317.html#aa9c03e05aa61c1fc9fad84efd8f82db7", null ],
+    [ "incSize", "d9/d96/a05317.html#a46d97d5710de2958555d37687df58fcb", null ],
+    [ "insertFirst", "d9/d96/a05317.html#af28714c2195a3609871f42fa7a9dc74b", null ],
+    [ "insertLast", "d9/d96/a05317.html#a20c91c0ace1d4404b55802fbc7704bb5", null ],
+    [ "IsEmpty", "d9/d96/a05317.html#a5f450b83a615d010bedc7b0c6aa18d70", null ],
+    [ "iFirst", "d9/d96/a05317.html#aee68918c2ddc42306a60a6858a2994f1", null ],
+    [ "iLast", "d9/d96/a05317.html#a6b9e8b60fdabf4780567265f5e1ba9fa", null ],
+    [ "iSize", "d9/d96/a05317.html#a7ebab224bc9412426c18fa3a8a9ea345", null ]
 ];

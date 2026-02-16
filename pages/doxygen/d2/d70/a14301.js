@@ -1,10 +1,6 @@
 var a14301 =
 [
-    [ "boss_headless_horseman_pumpkin", "d2/d70/a14301.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d2/d70/a14301.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d2/d70/a14301.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d2/d70/a14301.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d2/d70/a14301.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d2/d70/a14301.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d2/d70/a14301.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "boss_gahzranka", "d2/d70/a14301.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d2/d70/a14301.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d2/d70/a14301.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

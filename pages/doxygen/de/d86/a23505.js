@@ -1,8 +1,14 @@
 var a23505 =
 [
-    [ "HandleDummyApply", "de/d86/a23505.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "de/d86/a23505.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "de/d86/a23505.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "de/d86/a23505.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "de/d86/a23505.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "npc_warden_mellicharAI", "de/d86/a23505.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "de/d86/a23505.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "de/d86/a23505.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "de/d86/a23505.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "de/d86/a23505.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "de/d86/a23505.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "de/d86/a23505.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "de/d86/a23505.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "de/d86/a23505.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "de/d86/a23505.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "de/d86/a23505.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

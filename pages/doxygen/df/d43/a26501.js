@@ -1,7 +1,7 @@
 var a26501 =
 [
-    [ "HandleEffectPeriodic", "df/d43/a26501.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "df/d43/a26501.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "df/d43/a26501.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "df/d43/a26501.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "CheckProc", "df/d43/a26501.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "df/d43/a26501.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "df/d43/a26501.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "df/d43/a26501.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

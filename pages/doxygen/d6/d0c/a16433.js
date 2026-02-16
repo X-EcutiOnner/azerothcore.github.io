@@ -1,10 +1,7 @@
 var a16433 =
 [
-    [ "npc_mistress_of_painAI", "d6/d0c/a16433.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d6/d0c/a16433.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d6/d0c/a16433.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d6/d0c/a16433.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d6/d0c/a16433.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d6/d0c/a16433.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d6/d0c/a16433.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_orb_carrierAI", "d6/d0c/a16433.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d6/d0c/a16433.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d6/d0c/a16433.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d6/d0c/a16433.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

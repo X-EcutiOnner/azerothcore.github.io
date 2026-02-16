@@ -1,6 +1,9 @@
 var a26661 =
 [
-    [ "HandleSchoolDMG", "da/d9a/a26661.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "da/d9a/a26661.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "da/d9a/a26661.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "CheckCast", "da/d9a/a26661.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "da/d9a/a26661.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "da/d9a/a26661.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "da/d9a/a26661.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "da/d9a/a26661.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "da/d9a/a26661.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

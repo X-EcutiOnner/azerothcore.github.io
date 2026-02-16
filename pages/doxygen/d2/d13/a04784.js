@@ -1,9 +1,7 @@
 var a04784 =
 [
-    [ "getAngle", "d2/d13/a04784.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "d2/d13/a04784.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "d2/d13/a04784.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "d2/d13/a04784.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "d2/d13/a04784.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "d2/d13/a04784.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "Model", "db/d0c/a28717.html", "db/d0c/a28717" ],
+    [ "Extract", "d2/d13/a04784.html#aaece844099afc9d83362feb37427d5ae", null ],
+    [ "ExtractSet", "d2/d13/a04784.html#afd641f15b5ca6e58b68f26ef17a02912", null ],
+    [ "fixCoordSystem", "d2/d13/a04784.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
 ];

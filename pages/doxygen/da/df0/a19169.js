@@ -1,6 +1,12 @@
 var a19169 =
 [
-    [ "npc_alexstraszaAI", "d3/d0c/a19173.html", "d3/d0c/a19173" ],
-    [ "npc_alexstrasza", "da/df0/a19169.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "da/df0/a19169.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "da/df0/a19169.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "da/df0/a19169.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "da/df0/a19169.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "da/df0/a19169.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "da/df0/a19169.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "da/df0/a19169.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "da/df0/a19169.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "da/df0/a19169.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "da/df0/a19169.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

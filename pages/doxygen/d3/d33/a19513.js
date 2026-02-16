@@ -1,9 +1,6 @@
 var a19513 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d3/d33/a19513.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d3/d33/a19513.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d3/d33/a19513.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d3/d33/a19513.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d3/d33/a19513.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d3/d33/a19513.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "npc_teslaAI", "dd/dbb/a19517.html", "dd/dbb/a19517" ],
+    [ "npc_tesla", "d3/d33/a19513.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d3/d33/a19513.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

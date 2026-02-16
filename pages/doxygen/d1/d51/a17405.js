@@ -1,7 +1,7 @@
 var a17405 =
 [
-    [ "HandleScript", "d1/d51/a17405.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d1/d51/a17405.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d1/d51/a17405.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d1/d51/a17405.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "npc_pos_icicle_triggerAI", "d1/d51/a17405.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d1/d51/a17405.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d1/d51/a17405.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d1/d51/a17405.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

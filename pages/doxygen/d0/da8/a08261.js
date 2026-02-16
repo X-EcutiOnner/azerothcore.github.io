@@ -1,7 +1,12 @@
 var a08261 =
 [
-    [ "SetRuneState", "d0/da8/a08261.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d0/da8/a08261.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d0/da8/a08261.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d0/da8/a08261.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "GameObjectModelOwnerImpl", "d0/da8/a08261.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "d0/da8/a08261.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "d0/da8/a08261.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "d0/da8/a08261.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "d0/da8/a08261.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "d0/da8/a08261.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "d0/da8/a08261.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "d0/da8/a08261.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "d0/da8/a08261.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

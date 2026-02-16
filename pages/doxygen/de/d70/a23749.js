@@ -1,6 +1,6 @@
 var a23749 =
 [
-    [ "HandleScriptEffect", "de/d70/a23749.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "de/d70/a23749.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "de/d70/a23749.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/d9d/a23753.html", "d5/d9d/a23753" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "de/d70/a23749.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "de/d70/a23749.html#a250707096229da28024960beeb7725bf", null ]
 ];

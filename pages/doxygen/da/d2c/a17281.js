@@ -1,6 +1,9 @@
 var a17281 =
 [
-    [ "FilterTargets", "da/d2c/a17281.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "da/d2c/a17281.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "da/d2c/a17281.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/d2c/a17281.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "da/d2c/a17281.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "da/d2c/a17281.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "da/d2c/a17281.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "da/d2c/a17281.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "da/d2c/a17281.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

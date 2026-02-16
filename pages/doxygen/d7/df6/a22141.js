@@ -1,6 +1,6 @@
 var a22141 =
 [
-    [ "HandleScript", "d7/df6/a22141.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d7/df6/a22141.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d7/df6/a22141.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "HandleDamage", "d7/df6/a22141.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d7/df6/a22141.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d7/df6/a22141.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

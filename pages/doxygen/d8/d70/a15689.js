@@ -1,14 +1,6 @@
 var a15689 =
 [
-    [ "boss_amanitar", "d8/d70/a15689.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d8/d70/a15689.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "ExecuteEvent", "d8/d70/a15689.html#a540fb447d261ccfcc77ac15888e8bb50", null ],
-    [ "JustDied", "d8/d70/a15689.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d8/d70/a15689.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "JustSummoned", "d8/d70/a15689.html#a1199430b8ec2a27b136838c112a63c07", null ],
-    [ "Reset", "d8/d70/a15689.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDies", "d8/d70/a15689.html#a2f897b4d32b8c67ff644675f08ac6353", null ],
-    [ "SummonMushroom", "d8/d70/a15689.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d8/d70/a15689.html#a4ba2415d6134cdc435114cd3af235b6d", null ],
-    [ "mushroomsSummoned", "d8/d70/a15689.html#a57b207eaa8a4347bfb5cb51d46eead27", null ]
+    [ "npc_stillpine_capitiveAI", "d3/d97/a15693.html", "d3/d97/a15693" ],
+    [ "npc_stillpine_capitive", "d8/d70/a15689.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d8/d70/a15689.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

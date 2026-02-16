@@ -1,9 +1,13 @@
 var a21453 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d4/d36/a21453.html#a3c3f47022aee418f228803a2504470a3", null ],
-    [ "Initialize", "d4/d36/a21453.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
-    [ "MoveInLineOfSight", "d4/d36/a21453.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
-    [ "Reset", "d4/d36/a21453.html#ac96af1fd018e88950d1c58562dffdb83", null ],
-    [ "UpdateAI", "d4/d36/a21453.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
-    [ "_events", "d4/d36/a21453.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
+    [ "npc_preparations_for_war_vehicle", "d4/d36/a21453.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "d4/d36/a21453.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "d4/d36/a21453.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "d4/d36/a21453.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "d4/d36/a21453.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "d4/d36/a21453.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "d4/d36/a21453.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "d4/d36/a21453.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "d4/d36/a21453.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d4/d36/a21453.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

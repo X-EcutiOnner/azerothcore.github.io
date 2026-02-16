@@ -1,13 +1,18 @@
 var a22393 =
 [
-    [ "OPvPCapturePointEP_EWT", "d3/d55/a22393.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d3/d55/a22393.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d3/d55/a22393.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d3/d55/a22393.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d3/d55/a22393.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d3/d55/a22393.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d3/d55/a22393.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d3/d55/a22393.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d3/d55/a22393.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d3/d55/a22393.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "OutdoorPvPZM", "d3/d55/a22393.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "d3/d55/a22393.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "d3/d55/a22393.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "d3/d55/a22393.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "d3/d55/a22393.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "d3/d55/a22393.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "d3/d55/a22393.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "d3/d55/a22393.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "d3/d55/a22393.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "d3/d55/a22393.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "d3/d55/a22393.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "d3/d55/a22393.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "d3/d55/a22393.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "d3/d55/a22393.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "d3/d55/a22393.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

@@ -1,6 +1,6 @@
 var a13765 =
 [
-    [ "go", "d7/daa/a13765.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d7/daa/a13765.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d7/daa/a13765.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "HandleEffectApply", "d7/daa/a13765.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "d7/daa/a13765.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "d7/daa/a13765.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

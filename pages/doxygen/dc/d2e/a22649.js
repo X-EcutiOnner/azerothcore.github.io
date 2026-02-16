@@ -1,8 +1,9 @@
 var a22649 =
 [
-    [ "npc_parasitic_shadowfiend", "dc/d2e/a22649.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "dc/d2e/a22649.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "dc/d2e/a22649.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "dc/d2e/a22649.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "dc/d2e/a22649.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleAfterCast", "dc/d2e/a22649.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "dc/d2e/a22649.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "dc/d2e/a22649.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "dc/d2e/a22649.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "dc/d2e/a22649.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "dc/d2e/a22649.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

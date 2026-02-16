@@ -1,6 +1,6 @@
 var a17733 =
 [
-    [ "MalleableGooSelector", "db/d61/a17733.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "db/d61/a17733.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "db/d61/a17733.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "HandleScript", "db/d61/a17733.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "db/d61/a17733.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "db/d61/a17733.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

@@ -1,4 +1,7 @@
 var a18193 =
 [
-    [ "operator()", "de/d5a/a18193.html#a96cb69a084bcdb638942c14fe31adef0", null ]
+    [ "HandleScript", "de/d5a/a18193.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "de/d5a/a18193.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "de/d5a/a18193.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "de/d5a/a18193.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

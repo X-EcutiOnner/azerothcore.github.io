@@ -1,12 +1,15 @@
 var a15557 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d4/dab/a15557.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d4/dab/a15557.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d4/dab/a15557.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d4/dab/a15557.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d4/dab/a15557.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d4/dab/a15557.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d4/dab/a15557.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d4/dab/a15557.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d4/dab/a15557.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "boss_viscidus", "d4/dab/a15557.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d4/dab/a15557.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d4/dab/a15557.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d4/dab/a15557.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d4/dab/a15557.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d4/dab/a15557.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d4/dab/a15557.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d4/dab/a15557.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d4/dab/a15557.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d4/dab/a15557.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d4/dab/a15557.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d4/dab/a15557.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

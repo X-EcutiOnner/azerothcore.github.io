@@ -1,19 +1,10 @@
 var a09537 =
 [
-    [ "GuildContainer", "d3/df3/a09537.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d3/df3/a09537.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d3/df3/a09537.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d3/df3/a09537.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d3/df3/a09537.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d3/df3/a09537.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d3/df3/a09537.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d3/df3/a09537.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d3/df3/a09537.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d3/df3/a09537.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d3/df3/a09537.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d3/df3/a09537.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d3/df3/a09537.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d3/df3/a09537.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d3/df3/a09537.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d3/df3/a09537.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d3/df3/a09537.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d3/df3/a09537.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "d3/df3/a09537.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "d3/df3/a09537.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "d3/df3/a09537.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "d3/df3/a09537.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "d3/df3/a09537.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

@@ -1,8 +1,9 @@
 var a13609 =
 [
-    [ "npc_varian_wrynnAI", "d1/d10/a13613.html", "d1/d10/a13613" ],
-    [ "npc_varian_wrynn", "df/dd7/a13609.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "df/dd7/a13609.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "df/dd7/a13609.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "df/dd7/a13609.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "spell_eredar_twins_apply_touch", "df/dd7/a13609.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "df/dd7/a13609.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "df/dd7/a13609.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "df/dd7/a13609.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "df/dd7/a13609.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "df/dd7/a13609.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

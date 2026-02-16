@@ -1,6 +1,12 @@
 var a10853 =
 [
-    [ "PetUnlearnedSpell", "db/dcd/a10853.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "db/dcd/a10853.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "db/dcd/a10853.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "Charges", "db/dcd/a10853.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "db/dcd/a10853.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "db/dcd/a10853.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "db/dcd/a10853.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "db/dcd/a10853.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "db/dcd/a10853.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "db/dcd/a10853.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "db/dcd/a10853.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "db/dcd/a10853.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

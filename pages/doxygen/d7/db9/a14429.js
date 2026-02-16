@@ -1,6 +1,6 @@
 var a14429 =
 [
-    [ "HandleScriptEffect", "d7/db9/a14429.html#a074f54a4b022adc6ea34b3716dec745f", null ],
-    [ "PrepareSpellScript", "d7/db9/a14429.html#a725d5bc1f76614778b140f3061aa2e03", null ],
-    [ "Register", "d7/db9/a14429.html#a339df7ae9553fbae68ce791baef1df5e", null ]
+    [ "OnRemove", "d7/db9/a14429.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d7/db9/a14429.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d7/db9/a14429.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

@@ -1,6 +1,7 @@
 var a13593 =
 [
-    [ "npc_highborne_lamenterAI", "d6/deb/a13597.html", "d6/deb/a13597" ],
-    [ "npc_highborne_lamenter", "da/d6a/a13593.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "da/d6a/a13593.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "HandleScriptEffect", "da/d6a/a13593.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "da/d6a/a13593.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "da/d6a/a13593.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "da/d6a/a13593.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

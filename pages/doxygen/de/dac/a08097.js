@@ -1,15 +1,9 @@
 var a08097 =
 [
-    [ "Guardian", "de/dac/a08097.html#a731dfcf7d834a97ba253ad36e4006745", null ],
-    [ "GetDebugInfo", "de/dac/a08097.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
-    [ "InitStats", "de/dac/a08097.html#a698ac009e39a2e8461b40135b75609ef", null ],
-    [ "InitStatsForLevel", "de/dac/a08097.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
-    [ "InitSummon", "de/dac/a08097.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
-    [ "UpdateAllStats", "de/dac/a08097.html#ae2f3d68429afb154f790d65dae6406b3", null ],
-    [ "UpdateArmor", "de/dac/a08097.html#adc8ed8497f8450ccad92f79322d9f452", null ],
-    [ "UpdateAttackPowerAndDamage", "de/dac/a08097.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
-    [ "UpdateDamagePhysical", "de/dac/a08097.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
-    [ "UpdateMaxHealth", "de/dac/a08097.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
-    [ "UpdateMaxPower", "de/dac/a08097.html#a620010832de5fc7d6d1a8545321f9dea", null ],
-    [ "UpdateStats", "de/dac/a08097.html#a6b615ed2f01623991fa45907a09cc642", null ]
+    [ "LFGGroupScript", "de/dac/a08097.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "de/dac/a08097.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "de/dac/a08097.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "de/dac/a08097.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "de/dac/a08097.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "de/dac/a08097.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

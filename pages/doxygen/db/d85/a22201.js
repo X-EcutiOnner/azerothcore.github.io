@@ -1,6 +1,7 @@
 var a22201 =
 [
-    [ "npc_freed_protodrakeAI", "de/ddf/a22205.html", "de/ddf/a22205" ],
-    [ "npc_freed_protodrake", "db/d85/a22201.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "db/d85/a22201.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "HandleScript", "db/d85/a22201.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "db/d85/a22201.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "db/d85/a22201.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "db/d85/a22201.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

@@ -1,6 +1,5 @@
 var a12201 =
 [
-    [ "boss_flamegorAI", "d2/df3/a12201.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "d2/df3/a12201.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "d2/df3/a12201.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "at_ring_of_law", "d2/df3/a12201.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d2/df3/a12201.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

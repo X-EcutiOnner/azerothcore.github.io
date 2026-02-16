@@ -1,5 +1,8 @@
 var a28169 =
 [
-    [ "Id", "d9/dd8/a28169.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d9/dd8/a28169.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "areaTriggerText", "d9/dd8/a28169.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d9/dd8/a28169.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d9/dd8/a28169.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d9/dd8/a28169.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d9/dd8/a28169.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

@@ -1,5 +1,6 @@
 var a05257 =
 [
-    [ "_elements", "dd/dde/a05257.html#a40b7d4b51ba0849a77a41abc76407e39", null ],
-    [ "_TailElements", "dd/dde/a05257.html#a8762b1028a8b81762e9b08fd45d13269", null ]
+    [ "AppendToBack", "dd/dde/a05257.html#a631dbb5771929cb72bd090e3ced49523", null ],
+    [ "GenerateRandomIV", "dd/dde/a05257.html#afd4b9dd6223e8bd48810b88adc24a4b7", null ],
+    [ "SplitFromBack", "dd/dde/a05257.html#ac27f3335f0fadf98dbd0bedebbfd8390", null ]
 ];

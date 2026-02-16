@@ -1,7 +1,6 @@
 var a22281 =
 [
-    [ "HandleScript", "d4/dde/a22281.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d4/dde/a22281.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d4/dde/a22281.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d4/dde/a22281.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "FilterTargets", "d4/dde/a22281.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d4/dde/a22281.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d4/dde/a22281.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

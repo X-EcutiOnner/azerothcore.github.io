@@ -1,8 +1,12 @@
 var a10017 =
 [
-    [ "Location", "d7/d5b/a10017.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
-    [ "Location", "d7/d5b/a10017.html#ae013ab2bf44bb250644573625bf93265", null ],
-    [ "Location", "d7/d5b/a10017.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
-    [ "Location", "d7/d5b/a10017.html#a1270aec177f47a607cb5a1472819c738", null ],
-    [ "orientation", "d7/d5b/a10017.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
+    [ "BanAccount", "d7/d5b/a10017.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "d7/d5b/a10017.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "d7/d5b/a10017.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "d7/d5b/a10017.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "d7/d5b/a10017.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "d7/d5b/a10017.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "d7/d5b/a10017.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "d7/d5b/a10017.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "d7/d5b/a10017.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

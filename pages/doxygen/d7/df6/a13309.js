@@ -1,6 +1,6 @@
 var a13309 =
 [
-    [ "PrepareSpellScript", "d7/df6/a13309.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "d7/df6/a13309.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "d7/df6/a13309.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "HandleScriptEffect", "d7/df6/a13309.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "d7/df6/a13309.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "d7/df6/a13309.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

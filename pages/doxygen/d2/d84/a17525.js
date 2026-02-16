@@ -1,7 +1,7 @@
 var a17525 =
 [
-    [ "npc_gunship_rocketeerAI", "d2/d84/a17525.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d2/d84/a17525.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d2/d84/a17525.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d2/d84/a17525.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "HandleApplyAura", "d2/d84/a17525.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "d2/d84/a17525.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "d2/d84/a17525.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "d2/d84/a17525.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

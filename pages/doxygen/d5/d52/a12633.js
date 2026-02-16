@@ -1,11 +1,10 @@
 var a12633 =
 [
-    [ "boss_terestian_illhoof", "d5/d52/a12633.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d5/d52/a12633.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d5/d52/a12633.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d5/d52/a12633.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d5/d52/a12633.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d5/d52/a12633.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d5/d52/a12633.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d5/d52/a12633.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_corrupted_totem", "d5/d52/a12633.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d5/d52/a12633.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d5/d52/a12633.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d5/d52/a12633.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d5/d52/a12633.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d5/d52/a12633.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d5/d52/a12633.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

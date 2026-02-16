@@ -1,6 +1,6 @@
 var a12405 =
 [
-    [ "HandleHit", "d5/d77/a12405.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d5/d77/a12405.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d5/d77/a12405.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "boss_lord_valthalakAI", "d7/d32/a12409.html", "d7/d32/a12409" ],
+    [ "boss_lord_valthalak", "d5/d77/a12405.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "d5/d77/a12405.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

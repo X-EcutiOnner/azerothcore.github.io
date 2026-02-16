@@ -1,8 +1,20 @@
 var a19333 =
 [
-    [ "npc_centrifuge_constructAI", "de/d7e/a19333.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "de/d7e/a19333.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "de/d7e/a19333.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "de/d7e/a19333.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "de/d7e/a19333.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_gothikAI", "de/d7e/a19333.html#a18ae481969ed0885122058b0ebf98cc8", null ],
+    [ "CheckGroupSplitted", "de/d7e/a19333.html#a1efec7ad0793812f83e808b961059875", null ],
+    [ "DamageTaken", "de/d7e/a19333.html#a40e40340002d05d97aa944c14af4030c", null ],
+    [ "IsInRoom", "de/d7e/a19333.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
+    [ "JustDied", "de/d7e/a19333.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
+    [ "JustEngagedWith", "de/d7e/a19333.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
+    [ "JustSummoned", "de/d7e/a19333.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
+    [ "KilledUnit", "de/d7e/a19333.html#adde94c95fcfe2cacee16b06f73528651", null ],
+    [ "Reset", "de/d7e/a19333.html#a31f3993b01755f45f3fe997d599a52d4", null ],
+    [ "SummonedCreatureDespawn", "de/d7e/a19333.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
+    [ "SummonHelpers", "de/d7e/a19333.html#aaa751f216763deba29fde2d0aba09567", null ],
+    [ "UpdateAI", "de/d7e/a19333.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
+    [ "events", "de/d7e/a19333.html#a756a5816615e02be0fc8308cc5088e49", null ],
+    [ "gateOpened", "de/d7e/a19333.html#ad2de325f3fde87679503664de81a911e", null ],
+    [ "secondPhase", "de/d7e/a19333.html#a1e4526d104670d4899ef6dd5760c2437", null ],
+    [ "summons", "de/d7e/a19333.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
+    [ "waveCount", "de/d7e/a19333.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
 ];

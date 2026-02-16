@@ -1,6 +1,6 @@
 var a17233 =
 [
-    [ "ModAuraStack", "d0/d01/a17233.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d0/d01/a17233.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d0/d01/a17233.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "boss_frostsworn_generalAI", "d8/d12/a17237.html", "d8/d12/a17237" ],
+    [ "boss_frostsworn_general", "d0/d01/a17233.html#a33023712cf056eedfed1cb38e18af5dd", null ],
+    [ "GetAI", "d0/d01/a17233.html#a8e958e13999f23a81a7230fa9ece276b", null ]
 ];

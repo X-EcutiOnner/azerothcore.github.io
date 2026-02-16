@@ -1,6 +1,6 @@
 var a16393 =
 [
-    [ "npc_toc_pet_warlockAI", "df/d6d/a16397.html", "df/d6d/a16397" ],
-    [ "npc_toc_pet_warlock", "d4/d9e/a16393.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d4/d9e/a16393.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_onyx_flamecallerAI", "df/d6d/a16397.html", "df/d6d/a16397" ],
+    [ "npc_onyx_flamecaller", "d4/d9e/a16393.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "d4/d9e/a16393.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

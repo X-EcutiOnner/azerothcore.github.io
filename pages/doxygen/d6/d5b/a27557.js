@@ -1,13 +1,9 @@
 var a27557 =
 [
-    [ "npc_spring_rabbitAI", "d6/d5b/a27557.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "d6/d5b/a27557.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "d6/d5b/a27557.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "d6/d5b/a27557.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "d6/d5b/a27557.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "d6/d5b/a27557.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "d6/d5b/a27557.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "d6/d5b/a27557.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "d6/d5b/a27557.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "d6/d5b/a27557.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "npc_herald_of_the_lich_king", "d6/d5b/a27557.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d6/d5b/a27557.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d6/d5b/a27557.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d6/d5b/a27557.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d6/d5b/a27557.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d6/d5b/a27557.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

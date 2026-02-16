@@ -1,6 +1,7 @@
 var a10509 =
 [
-    [ "GuildCreate", "d6/d1c/a10509.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d6/d1c/a10509.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d6/d1c/a10509.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "SpellScriptLoader", "d6/d1c/a10509.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
+    [ "GetAuraScript", "d6/d1c/a10509.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d6/d1c/a10509.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d6/d1c/a10509.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

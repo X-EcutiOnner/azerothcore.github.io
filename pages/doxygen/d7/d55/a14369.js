@@ -1,8 +1,10 @@
 var a14369 =
 [
-    [ "OnApply", "d7/d55/a14369.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d7/d55/a14369.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d7/d55/a14369.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d7/d55/a14369.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d7/d55/a14369.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "boss_jeklik", "d7/d55/a14369.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "d7/d55/a14369.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "d7/d55/a14369.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "d7/d55/a14369.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "d7/d55/a14369.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "d7/d55/a14369.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "d7/d55/a14369.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

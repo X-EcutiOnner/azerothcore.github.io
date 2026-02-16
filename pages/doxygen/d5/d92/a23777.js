@@ -1,6 +1,6 @@
 var a23777 =
 [
-    [ "HandleScriptEffect", "d5/d92/a23777.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d5/d92/a23777.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d5/d92/a23777.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "npc_daranelleAI", "d0/db8/a23781.html", "d0/db8/a23781" ],
+    [ "npc_daranelle", "d5/d92/a23777.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d5/d92/a23777.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

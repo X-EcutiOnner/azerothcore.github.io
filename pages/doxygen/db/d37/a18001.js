@@ -1,7 +1,9 @@
 var a18001 =
 [
-    [ "PeriodicTick", "db/d37/a18001.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "db/d37/a18001.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "db/d37/a18001.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "db/d37/a18001.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "HandleApply", "db/d37/a18001.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "db/d37/a18001.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "db/d37/a18001.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "db/d37/a18001.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "db/d37/a18001.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "db/d37/a18001.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

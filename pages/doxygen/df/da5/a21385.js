@@ -1,14 +1,10 @@
 var a21385 =
 [
-    [ "npc_azure_saboteurAI", "df/da5/a21385.html#a09fc1e8f171209471c5403af33b05a58", null ],
-    [ "FinishPointReached", "df/da5/a21385.html#a322380edef5dbefe5ac4ab0040183010", null ],
-    [ "MoveInLineOfSight", "df/da5/a21385.html#a21868549892cdd0e67d6403dece9efce", null ],
-    [ "UpdateAI", "df/da5/a21385.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
-    [ "WaypointReached", "df/da5/a21385.html#ac17dc46bfe75582a789a2056978218fb", null ],
-    [ "bAddedWPs", "df/da5/a21385.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
-    [ "bOpening", "df/da5/a21385.html#a924ceb13552f0f01d55375af0324bf5a", null ],
-    [ "count", "df/da5/a21385.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
-    [ "pInstance", "df/da5/a21385.html#a1375420fe4bf16f122aa93f5c847a464", null ],
-    [ "timer", "df/da5/a21385.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
-    [ "uiBoss", "df/da5/a21385.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "df/da5/a21385.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "df/da5/a21385.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "df/da5/a21385.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "df/da5/a21385.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "df/da5/a21385.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "df/da5/a21385.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "df/da5/a21385.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

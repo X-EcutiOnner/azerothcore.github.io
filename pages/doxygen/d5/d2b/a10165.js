@@ -1,10 +1,25 @@
 var a10165 =
 [
-    [ "AchievementScript", "d5/d2b/a10165.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "d5/d2b/a10165.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "d5/d2b/a10165.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "d5/d2b/a10165.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "d5/d2b/a10165.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "d5/d2b/a10165.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "d5/d2b/a10165.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "TaxiNodeChangeInfo", "d7/d9a/a10169.html", "d7/d9a/a10169" ],
+    [ "FlightPathMovementGenerator", "d5/d2b/a10165.html#a2f30b03536f0f88a4b9b541f08019af0", null ],
+    [ "DoEventIfAny", "d5/d2b/a10165.html#af7f2a72e9cf20bf105204b8de08400de", null ],
+    [ "DoFinalize", "d5/d2b/a10165.html#af4017ff6e47601f667587fb7dd6a721c", null ],
+    [ "DoInitialize", "d5/d2b/a10165.html#a4b0ab8a2be27b3640ff2155d734b467c", null ],
+    [ "DoReset", "d5/d2b/a10165.html#abd78eb2841908da8c3c18936d80f18e9", null ],
+    [ "DoUpdate", "d5/d2b/a10165.html#a1e4b3d248c0021a3e2a1c1446f6b7073", null ],
+    [ "GetMovementGeneratorType", "d5/d2b/a10165.html#a8ef0966524b238a617487bde185de6f7", null ],
+    [ "GetPath", "d5/d2b/a10165.html#a931a91b2e689d58098898f7b9533d632", null ],
+    [ "GetPathAtMapEnd", "d5/d2b/a10165.html#a0493824ba23608abcf98a156cf89bb5a", null ],
+    [ "GetResetPos", "d5/d2b/a10165.html#ae2cc924b7dd5252c1cb8fcf8679b7786", null ],
+    [ "HasArrived", "d5/d2b/a10165.html#ad4a14cf3b7497cf30e6305d52d94ecdb", null ],
+    [ "InitEndGridInfo", "d5/d2b/a10165.html#a6cf74faed9b8609fa74932148b6b4948", null ],
+    [ "LoadPath", "d5/d2b/a10165.html#ae21613bcea0003b186b08761aaf525aa", null ],
+    [ "PreloadEndGrid", "d5/d2b/a10165.html#ac7bb92b99dc57a2b53b0a55e0a797678", null ],
+    [ "SetCurrentNodeAfterTeleport", "d5/d2b/a10165.html#a7ed3028aa5d9d71cf0d889d4063fae2a", null ],
+    [ "SkipCurrentNode", "d5/d2b/a10165.html#a080a68e435698a14288f62ea6576a730", null ],
+    [ "_endGridX", "d5/d2b/a10165.html#a8dd2719a015fca9fe46c8b3586b0434c", null ],
+    [ "_endGridY", "d5/d2b/a10165.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6", null ],
+    [ "_endMapId", "d5/d2b/a10165.html#aa83bc85f1b6cd6d5367d745ae31cc6fc", null ],
+    [ "_pointsForPathSwitch", "d5/d2b/a10165.html#a975eddf086fbd811fdebae405a62f2ea", null ],
+    [ "_preloadTargetNode", "d5/d2b/a10165.html#a3192e87bc06fa21ea01f99ba23fe6eb1", null ]
 ];

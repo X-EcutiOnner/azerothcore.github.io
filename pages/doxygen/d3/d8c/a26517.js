@@ -1,6 +1,8 @@
 var a26517 =
 [
-    [ "HandleRemove", "d3/d8c/a26517.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d3/d8c/a26517.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d3/d8c/a26517.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "FilterTargets", "d3/d8c/a26517.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "d3/d8c/a26517.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "d3/d8c/a26517.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "d3/d8c/a26517.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "d3/d8c/a26517.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

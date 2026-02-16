@@ -1,6 +1,9 @@
 var a08493 =
 [
-    [ "PlayerCreateInfoItem", "db/dd6/a08493.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "db/dd6/a08493.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "db/dd6/a08493.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "Reset", "db/dd6/a08493.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "db/dd6/a08493.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "db/dd6/a08493.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "db/dd6/a08493.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "db/dd6/a08493.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "db/dd6/a08493.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

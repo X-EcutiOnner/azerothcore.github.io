@@ -1,7 +1,7 @@
 var a18345 =
 [
-    [ "AuraRemoveEvent", "db/d9c/a18345.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "db/d9c/a18345.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "db/d9c/a18345.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "db/d9c/a18345.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "FrostBombExplosion", "db/d9c/a18345.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "db/d9c/a18345.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "db/d9c/a18345.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "db/d9c/a18345.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

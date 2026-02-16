@@ -1,20 +1,12 @@
 var a00233 =
 [
-    [ "PetAI", "d6/d4c/a06195.html", "d6/d4c/a06195" ],
-    [ "SpecialPets", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cff", [
-      [ "ENTRY_IMP", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
-      [ "ENTRY_WATER_ELEMENTAL", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
-      [ "ENTRY_WATER_ELEMENTAL_PERM", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
-      [ "IMP_FIREBOLT_RANK_1", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
-      [ "IMP_FIREBOLT_RANK_2", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
-      [ "IMP_FIREBOLT_RANK_3", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
-      [ "IMP_FIREBOLT_RANK_4", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
-      [ "IMP_FIREBOLT_RANK_5", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
-      [ "IMP_FIREBOLT_RANK_6", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
-      [ "IMP_FIREBOLT_RANK_7", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
-      [ "IMP_FIREBOLT_RANK_8", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
-      [ "IMP_FIREBOLT_RANK_9", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
-      [ "WATER_ELEMENTAL_WATERBOLT_1", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
-      [ "WATER_ELEMENTAL_WATERBOLT_2", "d6/de1/a00233.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
-    ] ]
+    [ "MMAP::MMapData", "db/daa/a05049.html", "db/daa/a05049" ],
+    [ "MMAP::MMapMgr", "d7/d1a/a05053.html", "d7/d1a/a05053" ],
+    [ "MMapDataSet", "d6/de1/a00233.html#a7c987e5b93af6a44b28948b66804ad88", null ],
+    [ "MMapTileSet", "d6/de1/a00233.html#a1e41f7222e3ee601b787809808325f2c", null ],
+    [ "NavMeshQuerySet", "d6/de1/a00233.html#a89710e07eb1c881e22b1b2bb7c8f671c", null ],
+    [ "dtCustomAlloc", "d6/de1/a00233.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "d6/de1/a00233.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d6/de1/a00233.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d6/de1/a00233.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

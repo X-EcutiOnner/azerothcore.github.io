@@ -1,7 +1,6 @@
 var a15569 =
 [
-    [ "npc_paoka_swiftmountainAI", "da/d24/a15573.html", "da/d24/a15573" ],
-    [ "npc_paoka_swiftmountain", "dc/d2e/a15569.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "dc/d2e/a15569.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "dc/d2e/a15569.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "HandleOnHit", "dc/d2e/a15569.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "dc/d2e/a15569.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "dc/d2e/a15569.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

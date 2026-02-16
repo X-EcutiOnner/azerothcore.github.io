@@ -1,7 +1,8 @@
 var a18849 =
 [
-    [ "HandleTriggerSpell", "db/de2/a18849.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "db/de2/a18849.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "db/de2/a18849.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "db/de2/a18849.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_blistering_zombieAI", "db/de2/a18849.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "db/de2/a18849.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "db/de2/a18849.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "db/de2/a18849.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "db/de2/a18849.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

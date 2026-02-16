@@ -1,12 +1,8 @@
 var a16781 =
 [
-    [ "npc_shadowy_mercenaryAI", "d0/d9e/a16781.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d0/d9e/a16781.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d0/d9e/a16781.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d0/d9e/a16781.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d0/d9e/a16781.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d0/d9e/a16781.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d0/d9e/a16781.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d0/d9e/a16781.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d0/d9e/a16781.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "npc_toc_hunterAI", "d0/d9e/a16781.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d0/d9e/a16781.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d0/d9e/a16781.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d0/d9e/a16781.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d0/d9e/a16781.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

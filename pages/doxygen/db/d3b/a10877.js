@@ -1,7 +1,7 @@
 var a10877 =
 [
-    [ "UpdateWorldState", "db/d3b/a10877.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "db/d3b/a10877.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "db/d3b/a10877.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "db/d3b/a10877.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "GuildBankLogQueryResults", "db/d3b/a10877.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "db/d3b/a10877.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "db/d3b/a10877.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "db/d3b/a10877.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

@@ -1,7 +1,8 @@
 var a24209 =
 [
-    [ "HandleEffectRemove", "d7/d3c/a24209.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d7/d3c/a24209.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d7/d3c/a24209.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d7/d3c/a24209.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d7/d3c/a24209.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d7/d3c/a24209.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d7/d3c/a24209.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d7/d3c/a24209.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d7/d3c/a24209.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

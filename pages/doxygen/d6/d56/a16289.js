@@ -1,6 +1,6 @@
 var a16289 =
 [
-    [ "npc_toc_shamanAI", "d9/dd4/a16293.html", "d9/dd4/a16293" ],
-    [ "npc_toc_shaman", "d6/d56/a16289.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "d6/d56/a16289.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "HandleScriptEffect", "d6/d56/a16289.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d6/d56/a16289.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d6/d56/a16289.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

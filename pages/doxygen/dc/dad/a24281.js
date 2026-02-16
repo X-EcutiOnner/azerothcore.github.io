@@ -1,6 +1,6 @@
 var a24281 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d4/d1d/a24285.html", "d4/d1d/a24285" ],
-    [ "npc_pet_dk_army_of_the_dead", "dc/dad/a24281.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
-    [ "GetAI", "dc/dad/a24281.html#a1883936b7f2905f67d3750faa8caf635", null ]
+    [ "HandlePeriodic", "dc/dad/a24281.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "dc/dad/a24281.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "dc/dad/a24281.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

@@ -1,6 +1,12 @@
 var a21569 =
 [
-    [ "npc_mei_francis_mountAI", "df/df0/a21573.html", "df/df0/a21573" ],
-    [ "npc_mei_francis_mount", "d5/d66/a21569.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d5/d66/a21569.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_wintergarde_gryphon", "d5/d66/a21569.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "d5/d66/a21569.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "d5/d66/a21569.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "d5/d66/a21569.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "d5/d66/a21569.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "d5/d66/a21569.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "d5/d66/a21569.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "d5/d66/a21569.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "d5/d66/a21569.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

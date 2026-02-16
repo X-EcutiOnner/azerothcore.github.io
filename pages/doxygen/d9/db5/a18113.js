@@ -1,6 +1,18 @@
 var a18113 =
 [
-    [ "npc_tirion_fordringAI", "d0/da4/a18117.html", "d0/da4/a18117" ],
-    [ "npc_tirion_fordring_tft", "d9/db5/a18113.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d9/db5/a18113.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "boss_lord_marrowgar", "d9/db5/a18113.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
+    [ "CanAIAttack", "d9/db5/a18113.html#a019816e930781889f39c561577eaecc0", null ],
+    [ "GetGUID", "d9/db5/a18113.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
+    [ "JustDied", "d9/db5/a18113.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
+    [ "JustEngagedWith", "d9/db5/a18113.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
+    [ "JustReachedHome", "d9/db5/a18113.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
+    [ "KilledUnit", "d9/db5/a18113.html#acfe53ec83fa2056b37269608182fb25b", null ],
+    [ "MoveInLineOfSight", "d9/db5/a18113.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
+    [ "MovementInform", "d9/db5/a18113.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
+    [ "Reset", "d9/db5/a18113.html#a2692d00185ef27f50af01d125e39d549", null ],
+    [ "SpellHitTarget", "d9/db5/a18113.html#adf886210abbd492f897b39145748f78a", null ],
+    [ "UpdateAI", "d9/db5/a18113.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
+    [ "_boneSlice", "d9/db5/a18113.html#a50478639cd1f13732646fcc2349c5474", null ],
+    [ "_introDone", "d9/db5/a18113.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
+    [ "_lastBoneSliceTargets", "d9/db5/a18113.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
 ];

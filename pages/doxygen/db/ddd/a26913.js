@@ -1,5 +1,5 @@
 var a26913 =
 [
-    [ "achievement_bg_ic_resource_glut", "db/ddd/a26913.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "db/ddd/a26913.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "achievement_not_even_a_scratch", "db/ddd/a26913.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "db/ddd/a26913.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

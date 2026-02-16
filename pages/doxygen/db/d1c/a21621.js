@@ -1,7 +1,6 @@
 var a21621 =
 [
-    [ "npc_cosmetic_toy_plane", "db/d1c/a21621.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "db/d1c/a21621.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "db/d1c/a21621.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "db/d1c/a21621.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "SACDeactivateEvent", "db/d1c/a21621.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "db/d1c/a21621.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "db/d1c/a21621.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

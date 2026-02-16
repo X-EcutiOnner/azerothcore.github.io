@@ -1,12 +1,7 @@
 var a21729 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d3/d67/a21729.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
-    [ "Activate", "d3/d67/a21729.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
-    [ "AttackStart", "d3/d67/a21729.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
-    [ "CanAIAttack", "d3/d67/a21729.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
-    [ "Deactivate", "d3/d67/a21729.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
-    [ "DoAction", "d3/d67/a21729.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
-    [ "JustDied", "d3/d67/a21729.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
-    [ "JustRespawned", "d3/d67/a21729.html#ab30068f7082176c279e0667f72d750a3", null ],
-    [ "Reset", "d3/d67/a21729.html#ad94a4789b5ba019d021682f15df13589", null ]
+    [ "HandleScriptEffect", "d3/d67/a21729.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d3/d67/a21729.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d3/d67/a21729.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d3/d67/a21729.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

@@ -1,7 +1,8 @@
 var a23205 =
 [
-    [ "go_ahune_ice_spear", "db/d7d/a23205.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "db/d7d/a23205.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "db/d7d/a23205.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "db/d7d/a23205.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "boss_hungarfen", "db/d7d/a23205.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "db/d7d/a23205.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "db/d7d/a23205.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "db/d7d/a23205.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "db/d7d/a23205.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

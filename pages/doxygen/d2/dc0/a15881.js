@@ -1,9 +1,10 @@
 var a15881 =
 [
-    [ "boss_sartharion_vesperonAI", "d2/dc0/a15881.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "d2/dc0/a15881.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "d2/dc0/a15881.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "d2/dc0/a15881.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "d2/dc0/a15881.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "d2/dc0/a15881.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "CreatureId", "d2/dc0/a15881.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d2/dc0/a15881.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d2/dc0/a15881.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d2/dc0/a15881.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d2/dc0/a15881.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d2/dc0/a15881.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d2/dc0/a15881.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

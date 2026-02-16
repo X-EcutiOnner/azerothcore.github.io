@@ -1,9 +1,9 @@
 var a08637 =
 [
-    [ "GlobalCooldownMgr", "d7/d14/a08637.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d7/d14/a08637.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d7/d14/a08637.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d7/d14/a08637.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d7/d14/a08637.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d7/d14/a08637.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "category", "d7/d14/a08637.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d7/d14/a08637.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d7/d14/a08637.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d7/d14/a08637.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d7/d14/a08637.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d7/d14/a08637.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

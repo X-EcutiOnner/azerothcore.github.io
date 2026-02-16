@@ -1,7 +1,5 @@
 var a12085 =
 [
-    [ "boss_urok_doomhowlAI", "d4/d79/a12085.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "d4/d79/a12085.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "d4/d79/a12085.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "d4/d79/a12085.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "Chance", "d4/d79/a12085.html#a20ae19fc80deceb81adccb91b341fb82", null ],
+    [ "Entry", "d4/d79/a12085.html#ae8b951678ec65907370ffe700cd668c8", null ]
 ];

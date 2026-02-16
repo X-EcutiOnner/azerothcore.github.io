@@ -1,6 +1,10 @@
 var a10321 =
 [
-    [ "OutdoorPvPScript", "d7/d59/a10321.html#ad7882db48419888c7968007e30c2f3f7", null ],
-    [ "GetOutdoorPvP", "d7/d59/a10321.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "d7/d59/a10321.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "Flags", "d7/d59/a10321.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d7/d59/a10321.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d7/d59/a10321.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d7/d59/a10321.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d7/d59/a10321.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d7/d59/a10321.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d7/d59/a10321.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

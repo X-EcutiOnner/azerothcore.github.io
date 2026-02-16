@@ -1,11 +1,13 @@
 var a15865 =
 [
-    [ "boss_sartharion_tenebronAI", "d1/db1/a15865.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "d1/db1/a15865.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "d1/db1/a15865.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "d1/db1/a15865.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "d1/db1/a15865.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "d1/db1/a15865.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "d1/db1/a15865.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "d1/db1/a15865.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "npc_shenthulAI", "d1/db1/a15865.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d1/db1/a15865.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d1/db1/a15865.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d1/db1/a15865.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d1/db1/a15865.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d1/db1/a15865.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d1/db1/a15865.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d1/db1/a15865.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d1/db1/a15865.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d1/db1/a15865.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

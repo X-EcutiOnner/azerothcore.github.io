@@ -1,4 +1,4 @@
 var a07613 =
 [
-    [ "value", "d7/de2/a07613.html#ab8bf92ecae8a3a118570d31adcb08db7", null ]
+    [ "HordeChannelMgr", "d7/de2/a07613.html#a9354a4b4122500bba602254d0c9f3b98", null ]
 ];

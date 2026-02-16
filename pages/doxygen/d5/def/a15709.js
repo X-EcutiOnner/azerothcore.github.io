@@ -1,7 +1,7 @@
 var a15709 =
 [
-    [ "HandleDummy", "d5/def/a15709.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d5/def/a15709.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d5/def/a15709.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d5/def/a15709.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_webbed_creatureAI", "d5/def/a15709.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d5/def/a15709.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d5/def/a15709.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d5/def/a15709.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

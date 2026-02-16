@@ -1,9 +1,7 @@
 var a08025 =
 [
-    [ "VendorItem", "df/d1c/a08025.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "df/d1c/a08025.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "df/d1c/a08025.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "df/d1c/a08025.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "df/d1c/a08025.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "df/d1c/a08025.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "RBEntryInfo", "df/d1c/a08025.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "df/d1c/a08025.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "df/d1c/a08025.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "df/d1c/a08025.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

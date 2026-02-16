@@ -1,16 +1,13 @@
 var a15457 =
 [
-    [ "npc_qiraj_war_spawnAI", "d7/d5a/a15457.html#a1122bc3961300ba39c02613ba0fcd909", null ],
-    [ "JustDied", "d7/d5a/a15457.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
-    [ "JustEngagedWith", "d7/d5a/a15457.html#a628da97f8b8bda848880c53a509ad1f5", null ],
-    [ "Reset", "d7/d5a/a15457.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
-    [ "UpdateAI", "d7/d5a/a15457.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
-    [ "hasTarget", "d7/d5a/a15457.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
-    [ "MobGUID", "d7/d5a/a15457.html#a4148121a56275770ee84744a0288b6c5", null ],
-    [ "PlayerGUID", "d7/d5a/a15457.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
-    [ "SpellTimer1", "d7/d5a/a15457.html#a8979a90473c62aad604857d92574e5f1", null ],
-    [ "SpellTimer2", "d7/d5a/a15457.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
-    [ "SpellTimer3", "d7/d5a/a15457.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
-    [ "SpellTimer4", "d7/d5a/a15457.html#a301971cf821e68e6be3223d4076f8b49", null ],
-    [ "Timers", "d7/d5a/a15457.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
+    [ "boss_cthun", "d7/d5a/a15457.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d7/d5a/a15457.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d7/d5a/a15457.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d7/d5a/a15457.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d7/d5a/a15457.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d7/d5a/a15457.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d7/d5a/a15457.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d7/d5a/a15457.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d7/d5a/a15457.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d7/d5a/a15457.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

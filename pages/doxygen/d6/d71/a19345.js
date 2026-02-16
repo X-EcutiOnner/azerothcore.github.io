@@ -1,7 +1,6 @@
 var a19345 =
 [
-    [ "CalcDamage", "d6/d71/a19345.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d6/d71/a19345.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d6/d71/a19345.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d6/d71/a19345.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "npc_gothik_triggerAI", "d1/d6f/a19349.html", "d1/d6f/a19349" ],
+    [ "npc_gothik_trigger", "d6/d71/a19345.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "d6/d71/a19345.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

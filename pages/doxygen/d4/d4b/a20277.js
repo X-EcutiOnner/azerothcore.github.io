@@ -1,6 +1,8 @@
 var a20277 =
 [
-    [ "OnRemoveStun", "d4/d4b/a20277.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d4/d4b/a20277.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d4/d4b/a20277.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "npc_ulduar_flash_freeze", "d4/d4b/a20277.html#a71c3a5c17af15cc75955d565a5d32b05", null ],
+    [ "DamageTaken", "d4/d4b/a20277.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d4/d4b/a20277.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "pInstance", "d4/d4b/a20277.html#aa763071062842e656c5db9f7ba6bbafe", null ],
+    [ "timer", "d4/d4b/a20277.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

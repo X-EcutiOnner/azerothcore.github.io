@@ -1,6 +1,7 @@
 var a22597 =
 [
-    [ "PrepareSpellScript", "d8/d22/a22597.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d8/d22/a22597.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d8/d22/a22597.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "HandleScriptEffect", "d8/d22/a22597.html#a16f131e42272bc75c99df2a9cf43470e", null ],
+    [ "PrepareSpellScript", "d8/d22/a22597.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
+    [ "Register", "d8/d22/a22597.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
+    [ "Validate", "d8/d22/a22597.html#a58ff628906f3077a354ed486d3c56d23", null ]
 ];

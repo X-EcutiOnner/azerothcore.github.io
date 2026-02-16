@@ -1,4 +1,6 @@
 var a10805 =
 [
-    [ "Validate", "dc/dbb/a10805.html#a33ba7592ac6571144fc3a7385dbc49f0", null ]
+    [ "GuildPromoteMember", "dc/dbb/a10805.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "dc/dbb/a10805.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "dc/dbb/a10805.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

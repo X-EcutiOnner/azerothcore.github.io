@@ -1,7 +1,6 @@
 var a27077 =
 [
-    [ "HandlePeriodic", "d9/dba/a27077.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d9/dba/a27077.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d9/dba/a27077.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d9/dba/a27077.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "go_tadpole_cageAI", "d4/df3/a27081.html", "d4/df3/a27081" ],
+    [ "go_tadpole_cage", "d9/dba/a27077.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d9/dba/a27077.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

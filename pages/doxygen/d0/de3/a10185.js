@@ -1,10 +1,7 @@
 var a10185 =
 [
-    [ "AllItemScript", "d0/de3/a10185.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "d0/de3/a10185.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d0/de3/a10185.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d0/de3/a10185.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d0/de3/a10185.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d0/de3/a10185.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d0/de3/a10185.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "CommonInitializer", "d0/de3/a10185.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "d0/de3/a10185.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "d0/de3/a10185.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "d0/de3/a10185.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

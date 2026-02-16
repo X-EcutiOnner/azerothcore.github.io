@@ -1,8 +1,8 @@
 var a12801 =
 [
-    [ "npc_death_knight_initiateAI", "dd/d14/a12805.html", "dd/d14/a12805" ],
-    [ "npc_death_knight_initiate", "d5/df6/a12801.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "d5/df6/a12801.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "d5/df6/a12801.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "d5/df6/a12801.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "boss_majordomoAI", "dd/d14/a12805.html", "dd/d14/a12805" ],
+    [ "boss_majordomo", "d5/df6/a12801.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "d5/df6/a12801.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "d5/df6/a12801.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "d5/df6/a12801.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

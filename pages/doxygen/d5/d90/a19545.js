@@ -1,6 +1,5 @@
 var a19545 =
 [
-    [ "iron_golem_custodianAI", "d4/dc9/a19549.html", "d4/dc9/a19549" ],
-    [ "iron_golem_custodian", "d5/d90/a19545.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "d5/d90/a19545.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "at_naxxramas_hub_portal", "d5/d90/a19545.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d5/d90/a19545.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

@@ -1,6 +1,8 @@
 var a19769 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "da/d21/a19773.html", "da/d21/a19773" ],
-    [ "boss_flame_leviathan_defense_turret", "d6/dfb/a19769.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "d6/dfb/a19769.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "HandleEffectPeriodic", "d6/dfb/a19769.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d6/dfb/a19769.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d6/dfb/a19769.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d6/dfb/a19769.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d6/dfb/a19769.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

@@ -1,8 +1,8 @@
 var a21121 =
 [
-    [ "CheckProc", "de/d49/a21121.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "de/d49/a21121.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "de/d49/a21121.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "de/d49/a21121.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "de/d49/a21121.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "npc_frozen_orbAI", "de/d49/a21121.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "de/d49/a21121.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "de/d49/a21121.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "de/d49/a21121.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "de/d49/a21121.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

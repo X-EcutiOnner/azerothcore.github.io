@@ -1,14 +1,17 @@
 var a15909 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d6/dad/a15909.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "d6/dad/a15909.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "d6/dad/a15909.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "d6/dad/a15909.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "OnCreatureCreate", "d6/dad/a15909.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
-    [ "m_uiPortalGUID", "d6/dad/a15909.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "m_uiSartharionGUID", "d6/dad/a15909.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
-    [ "m_uiShadronGUID", "d6/dad/a15909.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
-    [ "m_uiTenebronGUID", "d6/dad/a15909.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
-    [ "m_uiVesperonGUID", "d6/dad/a15909.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
-    [ "portalCount", "d6/dad/a15909.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "npc_anachronos_quest_triggerAI", "d6/dad/a15909.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
+    [ "CheckEventFail", "d6/dad/a15909.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
+    [ "LiveCounter", "d6/dad/a15909.html#aa19310d516a578dcd2d13d4298da0f58", null ],
+    [ "Reset", "d6/dad/a15909.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
+    [ "SummonNextWave", "d6/dad/a15909.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
+    [ "UpdateAI", "d6/dad/a15909.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
+    [ "Announced", "d6/dad/a15909.html#a4e516705efff20a62124514ba14c8161", null ],
+    [ "AnnounceTimer", "d6/dad/a15909.html#a7772c5b4f80b75ffe7b0641321029059", null ],
+    [ "EventStarted", "d6/dad/a15909.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
+    [ "Failed", "d6/dad/a15909.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
+    [ "LiveCount", "d6/dad/a15909.html#ae959e46865951c2783fe97e824180050", null ],
+    [ "PlayerGUID", "d6/dad/a15909.html#a2c459e96b3599cda8560582a4fb4253a", null ],
+    [ "WaveCount", "d6/dad/a15909.html#ac3a32a11e5f99d081371c49363509deb", null ],
+    [ "WaveTimer", "d6/dad/a15909.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
 ];

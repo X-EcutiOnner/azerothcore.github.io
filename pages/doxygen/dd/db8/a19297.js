@@ -1,6 +1,6 @@
 var a19297 =
 [
-    [ "boss_varosAI", "de/d7b/a19301.html", "de/d7b/a19301" ],
-    [ "boss_varos", "dd/db8/a19297.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "dd/db8/a19297.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "boss_four_horsemenAI", "de/d7b/a19301.html", "de/d7b/a19301" ],
+    [ "boss_four_horsemen", "dd/db8/a19297.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "dd/db8/a19297.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

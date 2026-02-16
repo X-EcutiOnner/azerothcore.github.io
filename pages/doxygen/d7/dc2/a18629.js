@@ -1,5 +1,7 @@
 var a18629 =
 [
-    [ "at_icc_shutdown_traps", "d7/dc2/a18629.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d7/dc2/a18629.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "OnPeriodic", "d7/dc2/a18629.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d7/dc2/a18629.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d7/dc2/a18629.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d7/dc2/a18629.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

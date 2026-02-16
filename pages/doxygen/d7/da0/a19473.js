@@ -1,6 +1,10 @@
 var a19473 =
 [
-    [ "CalculateDamage", "d7/da0/a19473.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d7/da0/a19473.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d7/da0/a19473.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "boss_razuvious_minionAI", "d7/da0/a19473.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d7/da0/a19473.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d7/da0/a19473.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d7/da0/a19473.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d7/da0/a19473.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d7/da0/a19473.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d7/da0/a19473.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

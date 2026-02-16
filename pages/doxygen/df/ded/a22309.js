@@ -1,5 +1,5 @@
 var a22309 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "df/ded/a22309.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "df/ded/a22309.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "OutdoorPvP_grizzly_hills", "df/ded/a22309.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "df/ded/a22309.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

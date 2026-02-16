@@ -1,6 +1,8 @@
 var a17865 =
 [
-    [ "npc_big_oozeAI", "da/d71/a17869.html", "da/d71/a17869" ],
-    [ "npc_big_ooze", "d6/dc1/a17865.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d6/dc1/a17865.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "ResetEncounterEvent", "d6/dc1/a17865.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d6/dc1/a17865.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d6/dc1/a17865.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d6/dc1/a17865.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d6/dc1/a17865.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

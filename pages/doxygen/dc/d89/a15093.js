@@ -1,15 +1,10 @@
 var a15093 =
 [
-    [ "boss_viscidus", "dc/d89/a15093.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
-    [ "CheckInRoom", "dc/d89/a15093.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
-    [ "DamageTaken", "dc/d89/a15093.html#adb41e6f64c1fe61cf623539353b0c959", null ],
-    [ "InitSpells", "dc/d89/a15093.html#a24357bfc552ecb5205e50241cadb05f4", null ],
-    [ "JustEngagedWith", "dc/d89/a15093.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
-    [ "Reset", "dc/d89/a15093.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
-    [ "SoftReset", "dc/d89/a15093.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
-    [ "SpellHit", "dc/d89/a15093.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
-    [ "SummonedCreatureDies", "dc/d89/a15093.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
-    [ "UpdateAI", "dc/d89/a15093.html#a1a194c161b485d2abbb862506b6c239f", null ],
-    [ "_hitcounter", "dc/d89/a15093.html#a12ee60a91dab2f95aab6e9914351344a", null ],
-    [ "_phase", "dc/d89/a15093.html#a321f1f96af51d3d70de0cca89512d965", null ]
+    [ "boss_meathookAI", "dc/d89/a15093.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "dc/d89/a15093.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "dc/d89/a15093.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "dc/d89/a15093.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "dc/d89/a15093.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "dc/d89/a15093.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "dc/d89/a15093.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

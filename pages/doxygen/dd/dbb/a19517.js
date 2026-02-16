@@ -1,7 +1,8 @@
 var a19517 =
 [
-    [ "creature", "dd/dbb/a19517.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "dd/dbb/a19517.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "dd/dbb/a19517.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "dd/dbb/a19517.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "npc_teslaAI", "dd/dbb/a19517.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "dd/dbb/a19517.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "dd/dbb/a19517.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "dd/dbb/a19517.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "dd/dbb/a19517.html#a962745569b07e368067ee483d2379840", null ]
 ];

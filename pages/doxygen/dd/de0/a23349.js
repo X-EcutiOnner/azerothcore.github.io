@@ -1,6 +1,12 @@
 var a23349 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d6/df7/a23353.html", "d6/df7/a23353" ],
-    [ "instance_the_underbog", "dd/de0/a23349.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "dd/de0/a23349.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_omor_the_unscarred", "dd/de0/a23349.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dd/de0/a23349.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dd/de0/a23349.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dd/de0/a23349.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dd/de0/a23349.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dd/de0/a23349.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dd/de0/a23349.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dd/de0/a23349.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dd/de0/a23349.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

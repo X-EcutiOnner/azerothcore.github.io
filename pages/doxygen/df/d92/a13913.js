@@ -1,10 +1,12 @@
 var a13913 =
 [
-    [ "boss_jeklik", "df/d92/a13913.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "df/d92/a13913.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "df/d92/a13913.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "df/d92/a13913.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "df/d92/a13913.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "df/d92/a13913.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "df/d92/a13913.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "npc_cameron", "df/d92/a13913.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "df/d92/a13913.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "df/d92/a13913.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "df/d92/a13913.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "df/d92/a13913.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "df/d92/a13913.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "df/d92/a13913.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "df/d92/a13913.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "df/d92/a13913.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

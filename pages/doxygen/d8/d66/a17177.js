@@ -1,6 +1,8 @@
 var a17177 =
 [
-    [ "boss_prince_valanarAI", "d3/d59/a17181.html", "d3/d59/a17181" ],
-    [ "boss_prince_valanar_icc", "d8/d66/a17177.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d8/d66/a17177.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "npc_hor_leaderAI", "d3/d59/a17181.html", "d3/d59/a17181" ],
+    [ "npc_hor_leader", "d8/d66/a17177.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "d8/d66/a17177.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "d8/d66/a17177.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "d8/d66/a17177.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

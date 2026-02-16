@@ -1,7 +1,7 @@
 var a25385 =
 [
-    [ "FilterTargets", "d4/d34/a25385.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d4/d34/a25385.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d4/d34/a25385.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d4/d34/a25385.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "HandleJump", "d4/d34/a25385.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "d4/d34/a25385.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "d4/d34/a25385.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "d4/d34/a25385.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

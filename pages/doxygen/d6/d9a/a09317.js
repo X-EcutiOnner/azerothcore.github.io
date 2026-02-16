@@ -1,7 +1,8 @@
 var a09317 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d6/d9a/a09317.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d6/d9a/a09317.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d6/d9a/a09317.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d6/d9a/a09317.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "AIRelocationNotifier", "d6/d9a/a09317.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d6/d9a/a09317.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d6/d9a/a09317.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d6/d9a/a09317.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d6/d9a/a09317.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

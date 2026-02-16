@@ -1,6 +1,7 @@
 var a18885 =
 [
-    [ "boss_gluthAI", "d3/de1/a18889.html", "d3/de1/a18889" ],
-    [ "boss_gluth", "d3/d8d/a18885.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d3/d8d/a18885.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "PeriodicTick", "d3/d8d/a18885.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d3/d8d/a18885.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d3/d8d/a18885.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d3/d8d/a18885.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

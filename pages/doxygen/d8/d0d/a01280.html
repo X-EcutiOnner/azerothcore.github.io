@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllSpellScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/HolidayDateCalculator.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,138 +106,157 @@ $(document).ready(function(){initNavTree('d8/d0d/a01280.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">AllSpellScript.h File Reference</div></div>
+  <div class="headertitle"><div class="title">HolidayDateCalculator.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &lt;cstdint&gt;</code><br />
+<code>#include &lt;ctime&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dac/a10340.html">AllSpellScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d76/a08957.html">HolidayRule</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a743e879dd1df387001a0db3b0bf31d0e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0d/a01280.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> = <a class="el" href="../../d1/dac/a10340.html">AllSpellScript</a></td></tr>
-<tr class="separator:a743e879dd1df387001a0db3b0bf31d0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/da8/a08961.html">HolidayDateCalculator</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:afe0b21412f82a634ffd412b1aca51cbc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>
+<tr class="memitem:a5ecfaf291957bc268c8975a08797a5cb"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cb">HolidayCalculationType</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">NTH_WEEKDAY</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">EASTER_OFFSET</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">LUNAR_NEW_YEAR</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">WEEKDAY_ON_OR_AFTER</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">AUTUMN_EQUINOX</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">WINTER_SOLSTICE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a>
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>
 <br />
  }</td></tr>
-<tr class="separator:afe0b21412f82a634ffd412b1aca51cbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a5ecfaf291957bc268c8975a08797a5cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec3d5ec6653b2c392d449500b8f5cb3a"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">SUNDAY</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">MONDAY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">TUESDAY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">WEDNESDAY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">THURSDAY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">FRIDAY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">SATURDAY</a>
+<br />
+ }</td></tr>
+<tr class="separator:aec3d5ec6653b2c392d449500b8f5cb3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a743e879dd1df387001a0db3b0bf31d0e" name="a743e879dd1df387001a0db3b0bf31d0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a743e879dd1df387001a0db3b0bf31d0e">&#9670;&#160;</a></span>SpellSC</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d8/d0d/a01280.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> =  <a class="el" href="../../d1/dac/a10340.html">AllSpellScript</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="afe0b21412f82a634ffd412b1aca51cbc" name="afe0b21412f82a634ffd412b1aca51cbc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe0b21412f82a634ffd412b1aca51cbc">&#9670;&#160;</a></span>AllSpellHook</h2>
+<a id="a5ecfaf291957bc268c8975a08797a5cb" name="a5ecfaf291957bc268c8975a08797a5cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ecfaf291957bc268c8975a08797a5cb">&#9670;&#160;</a></span>HolidayCalculationType</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a></td>
+          <td class="memname">enum class <a class="el" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cb">HolidayCalculationType</a></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97" name="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"></a>ALLSPELLHOOK_ON_CALC_MAX_DURATION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24" name="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"></a>ALLSPELLHOOK_ON_SPELL_CHECK_CAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354" name="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"></a>ALLSPELLHOOK_CAN_PREPARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a" name="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"></a>ALLSPELLHOOK_CAN_SCALING_EVERYTHING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770" name="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"></a>ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1" name="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"></a>ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c" name="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"></a>ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808" name="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"></a>ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f" name="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034" name="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1" name="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b" name="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"></a>ALLSPELLHOOK_ON_CAST_CANCEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e" name="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"></a>ALLSPELLHOOK_ON_CAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058" name="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"></a>ALLSPELLHOOK_ON_PREPARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f" name="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"></a>ALLSPELLHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387" name="a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"></a>FIXED_DATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1" name="a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1"></a>NTH_WEEKDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e" name="a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e"></a>EASTER_OFFSET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5" name="a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5"></a>LUNAR_NEW_YEAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4" name="a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4"></a>WEEKDAY_ON_OR_AFTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca" name="a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca"></a>AUTUMN_EQUINOX&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06" name="a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06"></a>WINTER_SOLSTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6" name="a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6"></a>DARKMOON_FAIRE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div>
-<div class="line"><span class="lineno">   41</span>};</div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CALC_MAX_DURATION</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:26</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:32</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:35</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SPELL_CHECK_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:27</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div><div class="ttdeci">@ ALLSPELLHOOK_END</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:40</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:39</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:36</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:31</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST_CANCEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:37</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:33</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:28</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:34</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SCALING_EVERYTHING</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:29</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:38</div></div>
-<div class="ttc" id="aa01280_html_afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"><div class="ttname"><a href="../../d8/d0d/a01280.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:30</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>,        <span class="comment">// Same month/day every year (e.g., Dec 25)</span></div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">NTH_WEEKDAY</a>,       <span class="comment">// Nth weekday of month (e.g., 4th Thursday of Nov)</span></div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">EASTER_OFFSET</a>,     <span class="comment">// Days relative to Easter Sunday</span></div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">LUNAR_NEW_YEAR</a>,    <span class="comment">// Chinese New Year (new moon between Jan 21 - Feb 20)</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">WEEKDAY_ON_OR_AFTER</a>, <span class="comment">// First weekday on or after a date (e.g., first Monday on or after Feb 3)</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">AUTUMN_EQUINOX</a>,    <span class="comment">// Days relative to autumn equinox (offset in days)</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">WINTER_SOLSTICE</a>,   <span class="comment">// Days relative to winter solstice (offset in days)</span></div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>     <span class="comment">// First Sunday of months matching (month % 3 == locationOffset)</span></div>
+<div class="line"><span class="lineno">   35</span>};</div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">HolidayCalculationType::AUTUMN_EQUINOX</a></div><div class="ttdeci">@ AUTUMN_EQUINOX</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">HolidayCalculationType::NTH_WEEKDAY</a></div><div class="ttdeci">@ NTH_WEEKDAY</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">HolidayCalculationType::DARKMOON_FAIRE</a></div><div class="ttdeci">@ DARKMOON_FAIRE</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">HolidayCalculationType::WEEKDAY_ON_OR_AFTER</a></div><div class="ttdeci">@ WEEKDAY_ON_OR_AFTER</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">HolidayCalculationType::FIXED_DATE</a></div><div class="ttdeci">@ FIXED_DATE</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">HolidayCalculationType::EASTER_OFFSET</a></div><div class="ttdeci">@ EASTER_OFFSET</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">HolidayCalculationType::WINTER_SOLSTICE</a></div><div class="ttdeci">@ WINTER_SOLSTICE</div></div>
+<div class="ttc" id="aa01280_html_a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5"><div class="ttname"><a href="../../d8/d0d/a01280.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">HolidayCalculationType::LUNAR_NEW_YEAR</a></div><div class="ttdeci">@ LUNAR_NEW_YEAR</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aec3d5ec6653b2c392d449500b8f5cb3a" name="aec3d5ec6653b2c392d449500b8f5cb3a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec3d5ec6653b2c392d449500b8f5cb3a">&#9670;&#160;</a></span>Weekday</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5" name="aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5"></a>SUNDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd" name="aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd"></a>MONDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14" name="aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14"></a>TUESDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825" name="aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825"></a>WEDNESDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755" name="aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755"></a>THURSDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936" name="aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936"></a>FRIDAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7" name="aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7"></a>SATURDAY&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">SUNDAY</a> = 0,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">MONDAY</a>,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">TUESDAY</a>,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">WEDNESDAY</a>,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">THURSDAY</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">FRIDAY</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">SATURDAY</a></div>
+<div class="line"><span class="lineno">   46</span>};</div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">Weekday::TUESDAY</a></div><div class="ttdeci">@ TUESDAY</div></div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">Weekday::THURSDAY</a></div><div class="ttdeci">@ THURSDAY</div></div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">Weekday::FRIDAY</a></div><div class="ttdeci">@ FRIDAY</div></div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">Weekday::SUNDAY</a></div><div class="ttdeci">@ SUNDAY</div></div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">Weekday::MONDAY</a></div><div class="ttdeci">@ MONDAY</div></div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">Weekday::WEDNESDAY</a></div><div class="ttdeci">@ WEDNESDAY</div></div>
+<div class="ttc" id="aa01280_html_aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7"><div class="ttname"><a href="../../d8/d0d/a01280.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">Weekday::SATURDAY</a></div><div class="ttdeci">@ SATURDAY</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -246,8 +265,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d8/d0d/a01280.html">AllSpellScript.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d8/d0d/a01280.html">HolidayDateCalculator.h</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

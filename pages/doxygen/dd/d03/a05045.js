@@ -1,4 +1,7 @@
 var a05045 =
 [
-    [ "GetBounds", "dd/d03/a05045.html#a01ceb11072dfedbd099c2461f817c895", null ]
+    [ "clear", "dd/d03/a05045.html#af2120a6bb6aa223baa117e5699c93012", null ],
+    [ "createOrGetMMapMgr", "dd/d03/a05045.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
+    [ "InitializeDisabledMaps", "dd/d03/a05045.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
+    [ "forbiddenMaps", "dd/d03/a05045.html#a2301f091e1f1e3359dbded7f054eb219", null ]
 ];

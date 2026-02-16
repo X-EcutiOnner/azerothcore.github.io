@@ -1,7 +1,6 @@
 var a20845 =
 [
-    [ "FilterTargets", "dd/da5/a20845.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "dd/da5/a20845.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "dd/da5/a20845.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "dd/da5/a20845.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "achievement_yogg_saron_darkness", "dd/da5/a20845.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "dd/da5/a20845.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "dd/da5/a20845.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

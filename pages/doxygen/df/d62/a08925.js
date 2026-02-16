@@ -1,7 +1,9 @@
 var a08925 =
 [
-    [ "IsFitToRequirements", "df/d62/a08925.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "df/d62/a08925.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "df/d62/a08925.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "df/d62/a08925.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "TransportBase", "df/d62/a08925.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "df/d62/a08925.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "df/d62/a08925.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "df/d62/a08925.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "df/d62/a08925.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "df/d62/a08925.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

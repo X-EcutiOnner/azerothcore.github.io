@@ -1,7 +1,15 @@
 var a17373 =
 [
-    [ "FilterTargets", "dd/dc9/a17373.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "dd/dc9/a17373.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "dd/dc9/a17373.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "dd/dc9/a17373.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "npc_pos_leaderAI", "dd/dc9/a17373.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "dd/dc9/a17373.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "dd/dc9/a17373.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "dd/dc9/a17373.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "dd/dc9/a17373.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "dd/dc9/a17373.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "dd/dc9/a17373.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "dd/dc9/a17373.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "dd/dc9/a17373.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "dd/dc9/a17373.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "dd/dc9/a17373.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "dd/dc9/a17373.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

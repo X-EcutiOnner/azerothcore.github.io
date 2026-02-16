@@ -1,7 +1,7 @@
 var a25093 =
 [
-    [ "HandleDummy", "d9/d3d/a25093.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d9/d3d/a25093.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d9/d3d/a25093.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d9/d3d/a25093.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "HandleDummy", "d9/d3d/a25093.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "d9/d3d/a25093.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "d9/d3d/a25093.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "d9/d3d/a25093.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

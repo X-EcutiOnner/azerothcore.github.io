@@ -1,5 +1,6 @@
 var a10921 =
 [
-    [ "SocketIPBytes", "d1/dba/a10921.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "d1/dba/a10921.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "ResetFailedNotify", "d1/dba/a10921.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d1/dba/a10921.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d1/dba/a10921.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

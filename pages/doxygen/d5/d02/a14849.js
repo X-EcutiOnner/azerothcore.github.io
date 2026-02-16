@@ -1,5 +1,6 @@
 var a14849 =
 [
-    [ "npc_hive_zara_swarmer", "d5/d02/a14849.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d5/d02/a14849.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "HandleAfterEffectRemove", "d5/d02/a14849.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "d5/d02/a14849.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "d5/d02/a14849.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

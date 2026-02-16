@@ -1,11 +1,18 @@
 var a12625 =
 [
-    [ "npc_kilrek", "d1/d02/a12625.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d1/d02/a12625.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d1/d02/a12625.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d1/d02/a12625.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d1/d02/a12625.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d1/d02/a12625.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d1/d02/a12625.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d1/d02/a12625.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "boss_victor_nefariusAI", "d1/d02/a12625.html#a640261332db1736e27d93067fb83c959", null ],
+    [ "BeginEvent", "d1/d02/a12625.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
+    [ "DoAction", "d1/d02/a12625.html#ac30157884fa02dce34051d2f76f94d0a", null ],
+    [ "Initialize", "d1/d02/a12625.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
+    [ "JustDied", "d1/d02/a12625.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
+    [ "JustReachedHome", "d1/d02/a12625.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
+    [ "JustSummoned", "d1/d02/a12625.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
+    [ "Reset", "d1/d02/a12625.html#a4374199f776618afaf00934c93e6e0f4", null ],
+    [ "SetData", "d1/d02/a12625.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
+    [ "sGossipSelect", "d1/d02/a12625.html#ad3d7333e624c70c9c635073a1909c67d", null ],
+    [ "SummonedCreatureDies", "d1/d02/a12625.html#a704489a361ac2034ac65c95e9517772f", null ],
+    [ "UpdateAI", "d1/d02/a12625.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
+    [ "_nefarianLeftTunnel", "d1/d02/a12625.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
+    [ "_nefarianRightTunnel", "d1/d02/a12625.html#ad7e3b70d671080294811e9fb191e880a", null ],
+    [ "KilledAdds", "d1/d02/a12625.html#a88f7040db2bf60fb165a406571471fbb", null ]
 ];

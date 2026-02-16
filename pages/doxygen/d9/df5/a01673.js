@@ -1,5 +1,4 @@
 var a01673 =
 [
-    [ "MapMgr", "dd/d52/a09932.html", "dd/d52/a09932" ],
-    [ "sMapMgr", "d9/df5/a01673.html#a9132749f8376c48b0ca7212eb3293905", null ]
+    [ "GetTargetFlagMask", "d9/df5/a01673.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

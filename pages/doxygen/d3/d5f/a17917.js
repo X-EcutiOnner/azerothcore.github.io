@@ -1,7 +1,6 @@
 var a17917 =
 [
-    [ "FrostBombExplosion", "d3/d5f/a17917.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d3/d5f/a17917.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d3/d5f/a17917.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d3/d5f/a17917.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_gunship_boarding_leaderAI", "da/da4/a17921.html", "da/da4/a17921" ],
+    [ "npc_gunship_boarding_leader", "d3/d5f/a17917.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "d3/d5f/a17917.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

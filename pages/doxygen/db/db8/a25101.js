@@ -1,7 +1,7 @@
 var a25101 =
 [
-    [ "HandleStun", "db/db8/a25101.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "db/db8/a25101.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "db/db8/a25101.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "db/db8/a25101.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "OnPeriodic", "db/db8/a25101.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "db/db8/a25101.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "db/db8/a25101.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "db/db8/a25101.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

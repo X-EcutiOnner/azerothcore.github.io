@@ -1,9 +1,7 @@
 var a10637 =
 [
-    [ "GuildBankUpdateTab", "d6/d99/a10637.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "d6/d99/a10637.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "d6/d99/a10637.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "d6/d99/a10637.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "d6/d99/a10637.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "d6/d99/a10637.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "LogoutResponse", "d6/d99/a10637.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "d6/d99/a10637.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "d6/d99/a10637.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "d6/d99/a10637.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

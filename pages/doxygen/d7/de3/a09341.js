@@ -1,10 +1,13 @@
 var a09341 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "d7/de3/a09341.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "d7/de3/a09341.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "d7/de3/a09341.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "d7/de3/a09341.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "d7/de3/a09341.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "d7/de3/a09341.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "d7/de3/a09341.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "WorldObjectListSearcher", "d7/de3/a09341.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
+    [ "Visit", "d7/de3/a09341.html#a154998e616ba17d66cf4899debc92ca1", null ],
+    [ "Visit", "d7/de3/a09341.html#a64e8d7854baa93e4390703fe986f6777", null ],
+    [ "Visit", "d7/de3/a09341.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
+    [ "Visit", "d7/de3/a09341.html#a18572bc1f4cfde19476ac9df393296b2", null ],
+    [ "Visit", "d7/de3/a09341.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
+    [ "Visit", "d7/de3/a09341.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
+    [ "i_check", "d7/de3/a09341.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
+    [ "i_mapTypeMask", "d7/de3/a09341.html#a1d6dc64937ae790d7414456e4644c13b", null ],
+    [ "i_phaseMask", "d7/de3/a09341.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
 ];

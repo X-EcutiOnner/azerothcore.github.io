@@ -1,6 +1,6 @@
 var a14901 =
 [
-    [ "HandleScript", "d0/da1/a14901.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d0/da1/a14901.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d0/da1/a14901.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "PrepareAuraScript", "d0/da1/a14901.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d0/da1/a14901.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d0/da1/a14901.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

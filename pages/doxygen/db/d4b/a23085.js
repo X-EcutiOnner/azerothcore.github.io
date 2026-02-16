@@ -1,14 +1,10 @@
 var a23085 =
 [
-    [ "SpellIds", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
-      [ "SPELL_SUMMON_WAVE_A_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
-      [ "SPELL_SUMMON_WAVE_B_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
-      [ "SPELL_SUMMON_WAVE_C_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
-      [ "SPELL_SUMMON_WAVE_D_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
-    ] ],
-    [ "FilterTargets", "db/d4b/a23085.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
-    [ "HandleHit", "db/d4b/a23085.html#aa670812f42c3082f42e0f232ee6bee16", null ],
-    [ "PrepareSpellScript", "db/d4b/a23085.html#a7fe65229c64c27909868f02439c1ef66", null ],
-    [ "Register", "db/d4b/a23085.html#a0a8f29b524391ff257aba5cbdc355115", null ],
-    [ "Validate", "db/d4b/a23085.html#ab8bcdcfcad2a9998d95567006817711e", null ]
+    [ "npc_frozen_core", "db/d4b/a23085.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "db/d4b/a23085.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "db/d4b/a23085.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "db/d4b/a23085.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "db/d4b/a23085.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "db/d4b/a23085.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "db/d4b/a23085.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

@@ -1,8 +1,6 @@
 var a24321 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d0/d3e/a24321.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d0/d3e/a24321.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d0/d3e/a24321.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d0/d3e/a24321.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d0/d3e/a24321.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "HandleProc", "d0/d3e/a24321.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
+    [ "PrepareAuraScript", "d0/d3e/a24321.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "d0/d3e/a24321.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

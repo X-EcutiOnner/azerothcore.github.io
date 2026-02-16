@@ -1,6 +1,9 @@
 var a24253 =
 [
-    [ "npc_slim", "d2/db5/a24253.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d2/db5/a24253.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d2/db5/a24253.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "npc_pet_shaman_earth_elemental", "d2/db5/a24253.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d2/db5/a24253.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d2/db5/a24253.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d2/db5/a24253.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d2/db5/a24253.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d2/db5/a24253.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

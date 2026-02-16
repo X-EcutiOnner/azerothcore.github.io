@@ -1,8 +1,7 @@
 var a22181 =
 [
-    [ "AfterRemove", "dd/d33/a22181.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "dd/d33/a22181.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "dd/d33/a22181.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "dd/d33/a22181.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "dd/d33/a22181.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_wg_quest_giver", "dd/d33/a22181.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "dd/d33/a22181.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "dd/d33/a22181.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "dd/d33/a22181.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

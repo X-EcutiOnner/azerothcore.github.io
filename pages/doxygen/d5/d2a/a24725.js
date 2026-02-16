@@ -1,6 +1,6 @@
 var a24725 =
 [
-    [ "HandleScript", "d5/d2a/a24725.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d5/d2a/a24725.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d5/d2a/a24725.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "CheckLevel", "d5/d2a/a24725.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d5/d2a/a24725.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d5/d2a/a24725.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

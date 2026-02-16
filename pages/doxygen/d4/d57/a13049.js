@@ -1,8 +1,6 @@
 var a13049 =
 [
-    [ "npc_apothecary_baxter", "d4/d57/a13049.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d4/d57/a13049.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d4/d57/a13049.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d4/d57/a13049.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d4/d57/a13049.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "HandleCast", "d4/d57/a13049.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "d4/d57/a13049.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "d4/d57/a13049.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

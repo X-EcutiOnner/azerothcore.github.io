@@ -1,7 +1,12 @@
 var a22917 =
 [
-    [ "HandleEffectApply", "df/dfb/a22917.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "df/dfb/a22917.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "df/dfb/a22917.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "df/dfb/a22917.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "boss_fathomlord_karathress", "df/dfb/a22917.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "df/dfb/a22917.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "df/dfb/a22917.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "df/dfb/a22917.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "df/dfb/a22917.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "df/dfb/a22917.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "df/dfb/a22917.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "df/dfb/a22917.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "df/dfb/a22917.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

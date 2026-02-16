@@ -1,6 +1,6 @@
 var a21357 =
 [
-    [ "npc_azure_spellbreakerAI", "d1/d1a/a21361.html", "d1/d1a/a21361" ],
-    [ "npc_azure_spellbreaker", "db/d67/a21357.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "db/d67/a21357.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_nerubar_victimAI", "d1/d1a/a21361.html", "d1/d1a/a21361" ],
+    [ "npc_nerubar_victim", "db/d67/a21357.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "db/d67/a21357.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

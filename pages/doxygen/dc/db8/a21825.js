@@ -1,6 +1,8 @@
 var a21825 =
 [
-    [ "npc_tallhorn_stagAI", "de/d33/a21829.html", "de/d33/a21829" ],
-    [ "npc_tallhorn_stag", "dc/db8/a21825.html#aff7f23376c27312894c9a042f6a0f848", null ],
-    [ "GetAI", "dc/db8/a21825.html#a3d993542271c80982adcee9a9d60e46b", null ]
+    [ "CheckCast", "dc/db8/a21825.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "dc/db8/a21825.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "dc/db8/a21825.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "dc/db8/a21825.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "dc/db8/a21825.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

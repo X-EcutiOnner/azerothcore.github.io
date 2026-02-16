@@ -1,15 +1,14 @@
 var a13545 =
 [
-    [ "npc_deathstalker_fearleia", "d8/d26/a13545.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "d8/d26/a13545.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "d8/d26/a13545.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "d8/d26/a13545.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "d8/d26/a13545.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "d8/d26/a13545.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "d8/d26/a13545.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "d8/d26/a13545.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "d8/d26/a13545.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "d8/d26/a13545.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "d8/d26/a13545.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "d8/d26/a13545.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "boss_sothos", "d8/d26/a13545.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
+    [ "DoAction", "d8/d26/a13545.html#a1433dddccb71896016bc014bdf92b453", null ],
+    [ "IsSummonedBy", "d8/d26/a13545.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
+    [ "JustDied", "d8/d26/a13545.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
+    [ "JustEngagedWith", "d8/d26/a13545.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
+    [ "Reset", "d8/d26/a13545.html#a042578148cae9a0b9befb7c5747a8e99", null ],
+    [ "UpdateAI", "d8/d26/a13545.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
+    [ "_jarienDied", "d8/d26/a13545.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
+    [ "_phase", "d8/d26/a13545.html#a5719cd4a85527c256fb7f048be6489f7", null ],
+    [ "_scheduler", "d8/d26/a13545.html#a5e18256858cd594b45628508500e5f1a", null ],
+    [ "_talked", "d8/d26/a13545.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
 ];

@@ -1,6 +1,7 @@
 var a23713 =
 [
-    [ "AfterRemove", "d7/df9/a23713.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d7/df9/a23713.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d7/df9/a23713.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandleDamage", "d7/df9/a23713.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "d7/df9/a23713.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "d7/df9/a23713.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "d7/df9/a23713.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

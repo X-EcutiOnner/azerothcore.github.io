@@ -1,7 +1,8 @@
 var a09757 =
 [
-    [ "resetNotify", "d4/d3b/a09757.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d4/d3b/a09757.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d4/d3b/a09757.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d4/d3b/a09757.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "InstResetEvent", "d4/d3b/a09757.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d4/d3b/a09757.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d4/d3b/a09757.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d4/d3b/a09757.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d4/d3b/a09757.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

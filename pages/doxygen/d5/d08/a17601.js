@@ -1,7 +1,6 @@
 var a17601 =
 [
-    [ "HandleScript", "d5/d08/a17601.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d5/d08/a17601.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d5/d08/a17601.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d5/d08/a17601.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "boss_prince_valanarAI", "d7/df3/a17605.html", "d7/df3/a17605" ],
+    [ "boss_prince_valanar_icc", "d5/d08/a17601.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d5/d08/a17601.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

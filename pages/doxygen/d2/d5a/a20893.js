@@ -1,7 +1,5 @@
 var a20893 =
 [
-    [ "HandleProc", "d2/d5a/a20893.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d2/d5a/a20893.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d2/d5a/a20893.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d2/d5a/a20893.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d2/d5a/a20893.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d2/d5a/a20893.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

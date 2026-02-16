@@ -1,6 +1,6 @@
 var a13853 =
 [
-    [ "OnEffect", "d7/d2c/a13853.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d7/d2c/a13853.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d7/d2c/a13853.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "HandleSendEvent", "d7/d2c/a13853.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d7/d2c/a13853.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d7/d2c/a13853.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

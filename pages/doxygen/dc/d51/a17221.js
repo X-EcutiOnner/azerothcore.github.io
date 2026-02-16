@@ -1,6 +1,12 @@
 var a17221 =
 [
-    [ "AddExtraDamage", "dc/d51/a17221.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "dc/d51/a17221.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "dc/d51/a17221.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "npc_spectral_footmanAI", "dc/d51/a17221.html#a746b1d15b70be293f61669ce4a945732", null ],
+    [ "AttackStart", "dc/d51/a17221.html#ac6f9dadff44c805adfac855778b1c9d2", null ],
+    [ "DoAction", "dc/d51/a17221.html#a466b878e60c1bf89603c261110d88b25", null ],
+    [ "EnterEvadeMode", "dc/d51/a17221.html#a66c9cceae4c2ae5574369744486e3e57", null ],
+    [ "JustDied", "dc/d51/a17221.html#afbab6772ff97ca9355ca5f4ac194ce0d", null ],
+    [ "JustEngagedWith", "dc/d51/a17221.html#a3d3eff22cb453e2ea0164e7f45bb6e5b", null ],
+    [ "Reset", "dc/d51/a17221.html#a3a8151da7ec1d63966ffc5e5b7e9e931", null ],
+    [ "UpdateAI", "dc/d51/a17221.html#ad1da2bc8fdc3a3fce51b9a633fd56574", null ],
+    [ "events", "dc/d51/a17221.html#aa5420d5e57447c7f89c0560ae07b3503", null ]
 ];

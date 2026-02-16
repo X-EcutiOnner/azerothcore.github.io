@@ -1,7 +1,6 @@
 var a20161 =
 [
-    [ "HandleEffectPeriodic", "d8/d4d/a20161.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "d8/d4d/a20161.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "d8/d4d/a20161.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "d8/d4d/a20161.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "CheckCast", "d8/d4d/a20161.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d8/d4d/a20161.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d8/d4d/a20161.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

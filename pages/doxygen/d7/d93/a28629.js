@@ -1,9 +1,9 @@
 var a28629 =
 [
-    [ "Flags", "d7/d93/a28629.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "d7/d93/a28629.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "d7/d93/a28629.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "d7/d93/a28629.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "d7/d93/a28629.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "d7/d93/a28629.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "adtData", "db/d51/a28637.html", "db/d51/a28637" ],
+    [ "prepareLoadedData", "d7/d93/a28629.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "d7/d93/a28629.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "d7/d93/a28629.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "d7/d93/a28629.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "d7/d93/a28629.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

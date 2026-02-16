@@ -1,8 +1,5 @@
 var a10737 =
 [
-    [ "PlayObjectSound", "d8/d5d/a10737.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d8/d5d/a10737.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d8/d5d/a10737.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d8/d5d/a10737.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d8/d5d/a10737.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "GuildDeclineInvitation", "d8/d5d/a10737.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "d8/d5d/a10737.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

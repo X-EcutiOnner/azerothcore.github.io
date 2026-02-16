@@ -1,8 +1,6 @@
 var a11009 =
 [
-    [ "SkillDiscoveryEntry", "d2/d1c/a11009.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d2/d1c/a11009.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d2/d1c/a11009.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d2/d1c/a11009.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d2/d1c/a11009.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "CancelTempEnchantment", "d2/d1c/a11009.html#aa70516ab1b16789cb7b705751162b70b", null ],
+    [ "Read", "d2/d1c/a11009.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
+    [ "EquipmentSlot", "d2/d1c/a11009.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
 ];

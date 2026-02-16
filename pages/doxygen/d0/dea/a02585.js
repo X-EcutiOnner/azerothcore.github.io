@@ -1,6 +1,5 @@
 var a02585 =
 [
-    [ "fireworkShowGameobjectStormwind", "d0/dea/a02585.html#ae843a13f6116ce380e3890397d825ae6", null ],
-    [ "fireworkShowScheduleStormwind", "d0/dea/a02585.html#af98c86c5b3725a8753fc620996c94b7f", null ],
-    [ "fireworkShowStormwind", "d0/dea/a02585.html#a378278257abadcd4369abd66f412d8e6", null ]
+    [ "AuthSocketMgr", "d4/d48/a05765.html", "d4/d48/a05765" ],
+    [ "sAuthSocketMgr", "d0/dea/a02585.html#abd297ee25e8d77bf56f22d43561d9451", null ]
 ];

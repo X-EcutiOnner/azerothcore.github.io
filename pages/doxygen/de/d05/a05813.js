@@ -1,9 +1,10 @@
 var a05813 =
 [
-    [ "SQLQueryHolderTask", "de/d05/a05813.html#a017ab0275ea42132bb1e4ece7111572e", null ],
-    [ "~SQLQueryHolderTask", "de/d05/a05813.html#a0d1122160565c8f20f9a48390352c770", null ],
-    [ "Execute", "de/d05/a05813.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
-    [ "GetFuture", "de/d05/a05813.html#a73199c4e5805933c9f79091797dedc5d", null ],
-    [ "m_holder", "de/d05/a05813.html#a64b624b8e77c819f5b47d592edc0979d", null ],
-    [ "m_result", "de/d05/a05813.html#ab27ce22bdb505509662d862e92fe7e77", null ]
+    [ "Alias", "de/d05/a05813.html#ac885c365760ade7b0c74e5fead82a210", null ],
+    [ "Index", "de/d05/a05813.html#ad841e71a9394fc114a35f0234ef581b6", null ],
+    [ "Name", "de/d05/a05813.html#af8b9f87733157401cff6b0846a545fa4", null ],
+    [ "TableAlias", "de/d05/a05813.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
+    [ "TableName", "de/d05/a05813.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
+    [ "Type", "de/d05/a05813.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
+    [ "TypeName", "de/d05/a05813.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
 ];

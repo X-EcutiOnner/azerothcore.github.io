@@ -1,9 +1,10 @@
 var a14105 =
 [
-    [ "CheckCast", "d7/d04/a14105.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d7/d04/a14105.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d7/d04/a14105.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d7/d04/a14105.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d7/d04/a14105.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d7/d04/a14105.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d7/d04/a14105.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d7/d04/a14105.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d7/d04/a14105.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d7/d04/a14105.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d7/d04/a14105.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d7/d04/a14105.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d7/d04/a14105.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

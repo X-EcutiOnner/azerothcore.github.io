@@ -1,12 +1,8 @@
 var a14797 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d5/d12/a14797.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d5/d12/a14797.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d5/d12/a14797.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d5/d12/a14797.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d5/d12/a14797.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d5/d12/a14797.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d5/d12/a14797.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d5/d12/a14797.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d5/d12/a14797.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "OnApply", "d5/d12/a14797.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "d5/d12/a14797.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "d5/d12/a14797.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "d5/d12/a14797.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "d5/d12/a14797.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

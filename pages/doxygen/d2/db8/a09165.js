@@ -1,9 +1,8 @@
 var a09165 =
 [
-    [ "ObjectUpdater", "d2/db8/a09165.html#ad907a266bcf4c059a49195eae4758541", null ],
-    [ "Visit", "d2/db8/a09165.html#a7dc639f90a38e6156a436ef6ff1204ec", null ],
-    [ "Visit", "d2/db8/a09165.html#a2ca08c1a3f3f23111bffbd423ca47b1c", null ],
-    [ "Visit", "d2/db8/a09165.html#a283b656ac784e64b98929eca83326027", null ],
-    [ "i_largeOnly", "d2/db8/a09165.html#a8f3e4ed206f6793edf9bf358d1bdf2c2", null ],
-    [ "i_timeDiff", "d2/db8/a09165.html#a4f1acae57c44d33449a8f040b02fa5e4", null ]
+    [ "DungeonEncounter", "d2/db8/a09165.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d2/db8/a09165.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d2/db8/a09165.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d2/db8/a09165.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d2/db8/a09165.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

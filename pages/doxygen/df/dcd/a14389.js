@@ -1,8 +1,9 @@
 var a14389 =
 [
-    [ "HandleEffectApply", "df/dcd/a14389.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
-    [ "HandleEffectRemove", "df/dcd/a14389.html#af8661463589640c9550bc62e8f74afcd", null ],
-    [ "PrepareAuraScript", "df/dcd/a14389.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
-    [ "Register", "df/dcd/a14389.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
-    [ "torchGUID", "df/dcd/a14389.html#a8ccf51241d3792c8c36d983bf471167e", null ]
+    [ "npc_shade_of_jindo", "df/dcd/a14389.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "df/dcd/a14389.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "df/dcd/a14389.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "df/dcd/a14389.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "df/dcd/a14389.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "df/dcd/a14389.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

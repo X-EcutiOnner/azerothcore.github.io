@@ -1,6 +1,8 @@
 var a19137 =
 [
-    [ "npc_power_sparkAI", "d9/d6d/a19141.html", "d9/d6d/a19141" ],
-    [ "npc_power_spark", "df/d50/a19137.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
-    [ "GetAI", "df/d50/a19137.html#a573198b86697d222c693581bf430453f", null ]
+    [ "Class", "df/d50/a19137.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "df/d50/a19137.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "df/d50/a19137.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "df/d50/a19137.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "df/d50/a19137.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

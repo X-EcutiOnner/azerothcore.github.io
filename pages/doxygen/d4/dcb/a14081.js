@@ -1,9 +1,6 @@
 var a14081 =
 [
-    [ "HandleEffectPeriodic", "d4/dcb/a14081.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d4/dcb/a14081.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d4/dcb/a14081.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d4/dcb/a14081.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d4/dcb/a14081.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d4/dcb/a14081.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "boss_blight_wormAI", "d1/d66/a14085.html", "d1/d66/a14085" ],
+    [ "boss_blight_worm", "d4/dcb/a14081.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "d4/dcb/a14081.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

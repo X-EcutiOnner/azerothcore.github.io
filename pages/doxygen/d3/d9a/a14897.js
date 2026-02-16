@@ -1,7 +1,6 @@
 var a14897 =
 [
-    [ "FilterTargets", "d3/d9a/a14897.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d3/d9a/a14897.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d3/d9a/a14897.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d3/d9a/a14897.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "OnAuraRemove", "d3/d9a/a14897.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d3/d9a/a14897.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d3/d9a/a14897.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

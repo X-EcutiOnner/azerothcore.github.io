@@ -1,6 +1,10 @@
 var a01736 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d8/dd9/a11110.html", "d8/dd9/a11110" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "de/d2b/a11114.html", "de/d2b/a11114" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "da/d5f/a11118.html", "da/d5f/a11118" ]
+    [ "GraveyardStruct", "d4/dac/a10029.html", "d4/dac/a10029" ],
+    [ "GraveyardData", "d0/d31/a10033.html", "d0/d31/a10033" ],
+    [ "Graveyard", "da/dbb/a10037.html", "da/dbb/a10037" ],
+    [ "sGraveyard", "de/daf/a01736.html#ac68c2a63982a6142e1931450d7b6115c", null ],
+    [ "GraveyardMapBounds", "de/daf/a01736.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
+    [ "GraveyardMapBoundsNonConst", "de/daf/a01736.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
+    [ "WGGraveyardContainer", "de/daf/a01736.html#a484cb47c00fe9b952853e3b04212437c", null ]
 ];

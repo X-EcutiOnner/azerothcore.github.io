@@ -1,6 +1,11 @@
 var a13277 =
 [
-    [ "HandlePeriodic", "d8/d20/a13277.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d8/d20/a13277.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d8/d20/a13277.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "npc_scarlet_ghoulAI", "d8/d20/a13277.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d8/d20/a13277.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d8/d20/a13277.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d8/d20/a13277.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d8/d20/a13277.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
+    [ "UpdateAI", "d8/d20/a13277.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d8/d20/a13277.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d8/d20/a13277.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

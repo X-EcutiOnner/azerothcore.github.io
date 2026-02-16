@@ -1,7 +1,6 @@
 var a14553 =
 [
-    [ "hyjalJainaAI", "df/d64/a14557.html", "df/d64/a14557" ],
-    [ "npc_hyjal_jaina", "d5/d4b/a14553.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d5/d4b/a14553.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d5/d4b/a14553.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "HandleAfterHit", "d5/d4b/a14553.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d5/d4b/a14553.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d5/d4b/a14553.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

@@ -1,7 +1,6 @@
 var a12837 =
 [
-    [ "npc_scarlet_cannonAI", "d8/dc1/a12837.html#a26720b34088b8063544f8c5db3b8d67c", null ],
-    [ "PassengerBoarded", "d8/dc1/a12837.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
-    [ "UpdateAI", "d8/dc1/a12837.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
-    [ "summonAttackers", "d8/dc1/a12837.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
+    [ "boss_shazzrahAI", "db/ddc/a12841.html", "db/ddc/a12841" ],
+    [ "boss_shazzrah", "d8/dc1/a12837.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "d8/dc1/a12837.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

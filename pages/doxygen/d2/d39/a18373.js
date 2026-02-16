@@ -1,12 +1,10 @@
 var a18373 =
 [
-    [ "npc_the_lich_king_controllerAI", "d2/d39/a18373.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "d2/d39/a18373.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "d2/d39/a18373.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "d2/d39/a18373.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "d2/d39/a18373.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "d2/d39/a18373.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "d2/d39/a18373.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "d2/d39/a18373.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "d2/d39/a18373.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "CountTargets", "d2/d39/a18373.html#a042c3f2ee73533b397a2d697d1da6563", null ],
+    [ "HandleDummy", "d2/d39/a18373.html#ab314680d5349c0c3e449694b92ab7311", null ],
+    [ "Load", "d2/d39/a18373.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
+    [ "PrepareSpellScript", "d2/d39/a18373.html#a8b831c01cd9fd997279f6a81170786de", null ],
+    [ "Register", "d2/d39/a18373.html#ab0d87ba23eb252075cb0779b06813a31", null ],
+    [ "SelectDest", "d2/d39/a18373.html#a6061486d0067af51c8ef079224ea63f1", null ],
+    [ "_targetCount", "d2/d39/a18373.html#a58f839370a885c450e6742cbb3116784", null ]
 ];

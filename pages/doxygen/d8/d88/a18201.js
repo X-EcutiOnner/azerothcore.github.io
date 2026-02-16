@@ -1,7 +1,7 @@
 var a18201 =
 [
-    [ "OnPeriodic", "d8/d88/a18201.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d8/d88/a18201.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d8/d88/a18201.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d8/d88/a18201.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "HandleTriggerSpell", "d8/d88/a18201.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d8/d88/a18201.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d8/d88/a18201.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d8/d88/a18201.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

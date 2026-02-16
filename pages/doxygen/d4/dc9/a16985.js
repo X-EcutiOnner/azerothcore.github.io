@@ -1,6 +1,6 @@
 var a16985 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d0/d76/a16989.html", "d0/d76/a16989" ],
-    [ "npc_pos_martin_or_gorkun_second", "d4/dc9/a16985.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d4/dc9/a16985.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "boss_dredAI", "d0/d76/a16989.html", "d0/d76/a16989" ],
+    [ "boss_dred", "d4/dc9/a16985.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d4/dc9/a16985.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

@@ -1,8 +1,6 @@
 var a14509 =
 [
-    [ "npc_doomfire_spirit", "d5/d87/a14509.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d5/d87/a14509.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d5/d87/a14509.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d5/d87/a14509.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d5/d87/a14509.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "npc_brewfest_keg_thrower", "d5/d87/a14509.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "d5/d87/a14509.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "d5/d87/a14509.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

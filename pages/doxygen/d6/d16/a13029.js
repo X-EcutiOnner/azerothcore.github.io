@@ -1,11 +1,7 @@
 var a13029 =
 [
-    [ "npc_scholomance_occultistAI", "d6/d16/a13029.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d6/d16/a13029.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d6/d16/a13029.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d6/d16/a13029.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d6/d16/a13029.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d6/d16/a13029.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d6/d16/a13029.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d6/d16/a13029.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "OnRemove", "d6/d16/a13029.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d6/d16/a13029.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d6/d16/a13029.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d6/d16/a13029.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

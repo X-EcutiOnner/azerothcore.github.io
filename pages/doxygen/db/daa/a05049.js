@@ -1,6 +1,8 @@
 var a05049 =
 [
-    [ "TriBoundFunc", "db/daa/a05049.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "db/daa/a05049.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "db/daa/a05049.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "MMapData", "db/daa/a05049.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
+    [ "~MMapData", "db/daa/a05049.html#a28ad87f05014c49373557369e9177df5", null ],
+    [ "loadedTileRefs", "db/daa/a05049.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
+    [ "navMesh", "db/daa/a05049.html#a786a4b43773e4402451bed82cf221f66", null ],
+    [ "navMeshQueries", "db/daa/a05049.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
 ];

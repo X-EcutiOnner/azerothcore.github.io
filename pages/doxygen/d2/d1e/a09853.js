@@ -1,8 +1,10 @@
 var a09853 =
 [
-    [ "GetAINotifyDelay", "d2/d1e/a09853.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d2/d1e/a09853.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d2/d1e/a09853.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d2/d1e/a09853.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d2/d1e/a09853.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "MailReceiver", "d2/d1e/a09853.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "d2/d1e/a09853.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "d2/d1e/a09853.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "d2/d1e/a09853.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "d2/d1e/a09853.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "d2/d1e/a09853.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "d2/d1e/a09853.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

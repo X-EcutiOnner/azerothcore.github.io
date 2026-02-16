@@ -1,5 +1,8 @@
 var a10661 =
 [
-    [ "SocketEnchantID", "d0/d50/a10661.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "d0/d50/a10661.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "PlayedTime", "d0/d50/a10661.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d0/d50/a10661.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d0/d50/a10661.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d0/d50/a10661.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d0/d50/a10661.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

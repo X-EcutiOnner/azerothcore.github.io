@@ -1,7 +1,5 @@
 var a18457 =
 [
-    [ "PeriodicTick", "d8/def/a18457.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d8/def/a18457.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d8/def/a18457.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d8/def/a18457.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "at_sindragosa_lair", "d8/def/a18457.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d8/def/a18457.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

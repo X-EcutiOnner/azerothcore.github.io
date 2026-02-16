@@ -1,6 +1,7 @@
 var a25085 =
 [
-    [ "HandleScript", "df/d0f/a25085.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
-    [ "PrepareSpellScript", "df/d0f/a25085.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
-    [ "Register", "df/d0f/a25085.html#a54bb0fe145f99ea484724052c8bb1227", null ]
+    [ "ModDest", "df/d0f/a25085.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "df/d0f/a25085.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "df/d0f/a25085.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "df/d0f/a25085.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

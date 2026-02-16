@@ -1,11 +1,12 @@
 var a15225 =
 [
-    [ "npc_magwinAI", "d2/d66/a15225.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "d2/d66/a15225.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "d2/d66/a15225.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "d2/d66/a15225.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "d2/d66/a15225.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "d2/d66/a15225.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "_events", "d2/d66/a15225.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "d2/d66/a15225.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "boss_isalien", "d2/d66/a15225.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "d2/d66/a15225.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "d2/d66/a15225.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "d2/d66/a15225.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "d2/d66/a15225.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "d2/d66/a15225.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "d2/d66/a15225.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "d2/d66/a15225.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "d2/d66/a15225.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

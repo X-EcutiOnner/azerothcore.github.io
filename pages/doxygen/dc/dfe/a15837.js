@@ -1,7 +1,6 @@
 var a15837 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "dc/dfe/a15837.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "dc/dfe/a15837.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "dc/dfe/a15837.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "dc/dfe/a15837.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "npc_clintar_spiritAI", "df/d45/a15841.html", "df/d45/a15841" ],
+    [ "npc_clintar_spirit", "dc/dfe/a15837.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "dc/dfe/a15837.html#a118198504f6f93c86302275a11582d60", null ]
 ];

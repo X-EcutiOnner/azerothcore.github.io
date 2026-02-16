@@ -1,6 +1,8 @@
 var a25381 =
 [
-    [ "CheckCast", "d1/d15/a25381.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "d1/d15/a25381.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "d1/d15/a25381.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "OnApply", "d1/d15/a25381.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "d1/d15/a25381.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "d1/d15/a25381.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "d1/d15/a25381.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d1/d15/a25381.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

@@ -1,6 +1,6 @@
 var a16385 =
 [
-    [ "npc_toc_retro_paladinAI", "d5/dc2/a16389.html", "d5/dc2/a16389" ],
-    [ "npc_toc_retro_paladin", "db/d41/a16385.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "db/d41/a16385.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "boss_general_zarithrianAI", "d5/dc2/a16389.html", "d5/dc2/a16389" ],
+    [ "boss_general_zarithrian", "db/d41/a16385.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "db/d41/a16385.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

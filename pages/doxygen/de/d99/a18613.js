@@ -1,7 +1,6 @@
 var a18613 =
 [
-    [ "Land", "de/d99/a18613.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "de/d99/a18613.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "de/d99/a18613.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "de/d99/a18613.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_raging_spiritAI", "db/d11/a18617.html", "db/d11/a18617" ],
+    [ "npc_raging_spirit", "de/d99/a18613.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "de/d99/a18613.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

@@ -1,15 +1,17 @@
 var a05021 =
 [
-    [ "TileAssembler", "da/d7c/a05021.html#aa5a23f76fd59ba2ffa5e2040058c3744", null ],
-    [ "~TileAssembler", "da/d7c/a05021.html#a4e020e9814223203177a822a052ddfe4", null ],
-    [ "calculateTransformedBound", "da/d7c/a05021.html#ab3ed8e882c59d777d8c5312449b86753", null ],
-    [ "convertRawFile", "da/d7c/a05021.html#a74ecec806ac4e9ff9636376215ac28ab", null ],
-    [ "convertWorld2", "da/d7c/a05021.html#adabcb9cefdd3fcab94c5471948dbe0b0", null ],
-    [ "exportGameobjectModels", "da/d7c/a05021.html#a3ed04f54c64010a0ad702b2da4161e3b", null ],
-    [ "readMapSpawns", "da/d7c/a05021.html#a55392fc72758db7b4ea5fea85d7934ee", null ],
-    [ "iDestDir", "da/d7c/a05021.html#ad444a6005a59975ed0ca78f180dcba7d", null ],
-    [ "iSrcDir", "da/d7c/a05021.html#a8a2bf7e978b49407f3b4b2086c7497c4", null ],
-    [ "iUniqueNameIds", "da/d7c/a05021.html#a15bb91fa77c238c1204f8f3f56e676a7", null ],
-    [ "mapData", "da/d7c/a05021.html#a7190f8b7bf8b00367a113679a94fc5e7", null ],
-    [ "spawnedModelFiles", "da/d7c/a05021.html#ab339dfc2062edfb47e77b042e5cf058f", null ]
+    [ "DynamicMapTree", "da/d7c/a05021.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
+    [ "~DynamicMapTree", "da/d7c/a05021.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
+    [ "balance", "da/d7c/a05021.html#a1af866551a1ea151551ebb856797528d", null ],
+    [ "contains", "da/d7c/a05021.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
+    [ "GetAreaAndLiquidData", "da/d7c/a05021.html#a1229eb7e83b481cb72ffc9ae4a3a28a8", null ],
+    [ "getHeight", "da/d7c/a05021.html#ac10680b14e3849bd17926cef24765d9d", null ],
+    [ "GetIntersectionTime", "da/d7c/a05021.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
+    [ "GetObjectHitPos", "da/d7c/a05021.html#ab664ac39063402dea9f587e9808a358d", null ],
+    [ "insert", "da/d7c/a05021.html#a28ccab96fd4249f15485c89501da597b", null ],
+    [ "isInLineOfSight", "da/d7c/a05021.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
+    [ "remove", "da/d7c/a05021.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
+    [ "size", "da/d7c/a05021.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
+    [ "update", "da/d7c/a05021.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
+    [ "impl", "da/d7c/a05021.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
 ];

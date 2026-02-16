@@ -1,6 +1,7 @@
 var a23545 =
 [
-    [ "HandleEffect", "d4/d8f/a23545.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d4/d8f/a23545.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d4/d8f/a23545.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "HandleCast", "d4/d8f/a23545.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d4/d8f/a23545.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d4/d8f/a23545.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d4/d8f/a23545.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

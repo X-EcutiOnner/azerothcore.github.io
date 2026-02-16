@@ -1,6 +1,6 @@
 var a20817 =
 [
-    [ "boss_yoggsaron_voiceAI", "d9/d9a/a20821.html", "d9/d9a/a20821" ],
-    [ "boss_yoggsaron_voice", "de/d06/a20817.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "de/d06/a20817.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "OnEffect", "de/d06/a20817.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "de/d06/a20817.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "de/d06/a20817.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

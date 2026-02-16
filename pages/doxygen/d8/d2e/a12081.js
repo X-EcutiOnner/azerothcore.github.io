@@ -1,6 +1,6 @@
 var a12081 =
 [
-    [ "boss_urok_doomhowlAI", "d4/d79/a12085.html", "d4/d79/a12085" ],
-    [ "boss_urok_doomhowl", "d8/d2e/a12081.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "d8/d2e/a12081.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "player_settings_commandscript", "d8/d2e/a12081.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d8/d2e/a12081.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d8/d2e/a12081.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

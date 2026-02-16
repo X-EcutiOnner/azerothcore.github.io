@@ -1,8 +1,7 @@
 var a25025 =
 [
-    [ "OnApply", "d6/d09/a25025.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d6/d09/a25025.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d6/d09/a25025.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d6/d09/a25025.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d6/d09/a25025.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "PrepareSpellScript", "d6/d09/a25025.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d6/d09/a25025.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d6/d09/a25025.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d6/d09/a25025.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

@@ -1,7 +1,6 @@
 var a19469 =
 [
-    [ "HandleScript", "d3/dea/a19469.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d3/dea/a19469.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d3/dea/a19469.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d3/dea/a19469.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_razuvious_minionAI", "d7/da0/a19473.html", "d7/da0/a19473" ],
+    [ "boss_razuvious_minion", "d3/dea/a19469.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d3/dea/a19469.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

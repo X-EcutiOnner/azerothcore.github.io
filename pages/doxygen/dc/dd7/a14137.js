@@ -1,6 +1,11 @@
 var a14137 =
 [
-    [ "npc_direbrew_antagonist", "dc/dd7/a14137.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "dc/dd7/a14137.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "dc/dd7/a14137.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/dd7/a14137.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "dc/dd7/a14137.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "dc/dd7/a14137.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "dc/dd7/a14137.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "dc/dd7/a14137.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "dc/dd7/a14137.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "dc/dd7/a14137.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "dc/dd7/a14137.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

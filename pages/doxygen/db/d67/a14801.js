@@ -1,6 +1,5 @@
 var a14801 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d6/d15/a14805.html", "d6/d15/a14805" ],
-    [ "instance_ragefire_chasm", "db/d67/a14801.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "db/d67/a14801.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "MidsummerPlayerScript", "db/d67/a14801.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "db/d67/a14801.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

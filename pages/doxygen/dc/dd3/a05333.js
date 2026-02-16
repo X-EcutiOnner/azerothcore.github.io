@@ -1,8 +1,12 @@
 var a05333 =
 [
-    [ "LogOperation", "dc/dd3/a05333.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "dc/dd3/a05333.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "dc/dd3/a05333.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "dc/dd3/a05333.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "dc/dd3/a05333.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "RegistryMapType", "dc/dd3/a05333.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
+    [ "ObjectRegistry", "dc/dd3/a05333.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
+    [ "~ObjectRegistry", "dc/dd3/a05333.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
+    [ "GetRegisteredItems", "dc/dd3/a05333.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
+    [ "GetRegistryItem", "dc/dd3/a05333.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
+    [ "HasItem", "dc/dd3/a05333.html#a3c95897734a780c1f299d24a058b3595", null ],
+    [ "InsertItem", "dc/dd3/a05333.html#a55416824a5dff4138f5d828e352e3d7c", null ],
+    [ "instance", "dc/dd3/a05333.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
+    [ "_registeredObjects", "dc/dd3/a05333.html#a61e6a6eb75512241e82092abfeba7a65", null ]
 ];

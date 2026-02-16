@@ -1,6 +1,13 @@
 var a15641 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "db/d92/a15645.html", "db/d92/a15645" ],
-    [ "instance_zulfarrak", "de/df0/a15641.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "de/df0/a15641.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "de/df0/a15641.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "de/df0/a15641.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "de/df0/a15641.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "de/df0/a15641.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "de/df0/a15641.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "de/df0/a15641.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "de/df0/a15641.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "de/df0/a15641.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "de/df0/a15641.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "de/df0/a15641.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

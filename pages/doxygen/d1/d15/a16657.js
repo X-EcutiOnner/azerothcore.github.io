@@ -1,6 +1,8 @@
 var a16657 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d0/d46/a16661.html", "d0/d46/a16661" ],
-    [ "npc_fos_corrupted_soul_fragment", "d1/d15/a16657.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "d1/d15/a16657.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "npc_announcer_toc5AI", "d1/d15/a16657.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d1/d15/a16657.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d1/d15/a16657.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d1/d15/a16657.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d1/d15/a16657.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

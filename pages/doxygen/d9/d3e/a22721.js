@@ -1,10 +1,6 @@
 var a22721 =
 [
-    [ "boss_illidari_council", "d9/d3e/a22721.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "d9/d3e/a22721.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "d9/d3e/a22721.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "d9/d3e/a22721.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "d9/d3e/a22721.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "d9/d3e/a22721.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "d9/d3e/a22721.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "boss_essence_of_angerAI", "df/d46/a22725.html", "df/d46/a22725" ],
+    [ "boss_essence_of_anger", "d9/d3e/a22721.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d9/d3e/a22721.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

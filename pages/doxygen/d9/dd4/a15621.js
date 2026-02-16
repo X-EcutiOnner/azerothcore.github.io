@@ -1,12 +1,8 @@
 var a15621 =
 [
-    [ "DialogueHelper", "d9/dd4/a15621.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d9/dd4/a15621.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d9/dd4/a15621.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d9/dd4/a15621.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d9/dd4/a15621.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d9/dd4/a15621.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d9/dd4/a15621.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d9/dd4/a15621.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d9/dd4/a15621.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_ahnqiraji_critter", "d9/dd4/a15621.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d9/dd4/a15621.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d9/dd4/a15621.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d9/dd4/a15621.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d9/dd4/a15621.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

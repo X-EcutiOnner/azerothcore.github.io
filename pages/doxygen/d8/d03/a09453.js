@@ -1,8 +1,10 @@
 var a09453 =
 [
-    [ "LocalizedPacketDo", "d8/d03/a09453.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d8/d03/a09453.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d8/d03/a09453.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d8/d03/a09453.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d8/d03/a09453.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "MostHPPercentMissingInRange", "d8/d03/a09453.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "d8/d03/a09453.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "d8/d03/a09453.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "d8/d03/a09453.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "d8/d03/a09453.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "d8/d03/a09453.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "d8/d03/a09453.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

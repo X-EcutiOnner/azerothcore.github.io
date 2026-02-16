@@ -1,7 +1,6 @@
 var a13173 =
 [
-    [ "CheckCast", "d6/d10/a13173.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "d6/d10/a13173.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "d6/d10/a13173.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "d6/d10/a13173.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "HandleProc", "d6/d10/a13173.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d6/d10/a13173.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d6/d10/a13173.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

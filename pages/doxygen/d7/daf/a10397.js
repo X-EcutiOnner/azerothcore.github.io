@@ -1,9 +1,6 @@
 var a10397 =
 [
-    [ "fX", "d7/daf/a10397.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d7/daf/a10397.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d7/daf/a10397.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d7/daf/a10397.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d7/daf/a10397.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d7/daf/a10397.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "BattlegroundScript", "d7/daf/a10397.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d7/daf/a10397.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d7/daf/a10397.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

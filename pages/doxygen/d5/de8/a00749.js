@@ -1,20 +1,12 @@
 var a00749 =
 [
-    [ "WardenCheck", "da/d7e/a11727.html", "da/d7e/a11727" ],
-    [ "WardenCheckResult", "d9/d53/a11731.html", "d9/d53/a11731" ],
-    [ "WardenCheckMgr", "d2/df9/a11735.html", "d2/df9/a11735" ],
-    [ "sWardenCheckMgr", "d5/de8/a00749.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "d5/de8/a00749.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "d5/de8/a00749.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "d5/de8/a00749.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "d5/de8/a00749.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
-    ] ],
-    [ "WardenCheckTypes", "d5/de8/a00749.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "d5/de8/a00749.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "d5/de8/a00749.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "d5/de8/a00749.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "d5/de8/a00749.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "d5/de8/a00749.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d5/de8/a00749.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "AchievementScript", "de/d33/a10337.html", "de/d33/a10337" ],
+    [ "AchievementHook", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
+      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
+      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
+      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
+      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
+      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
+      [ "ACHIEVEMENTHOOK_END", "d5/de8/a00749.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
+    ] ]
 ];

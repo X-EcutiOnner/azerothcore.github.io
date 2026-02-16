@@ -1,8 +1,10 @@
 var a10541 =
 [
-    [ "GuildCommandResult", "d9/dae/a10541.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d9/dae/a10541.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d9/dae/a10541.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d9/dae/a10541.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d9/dae/a10541.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "WorldObjectScript", "d9/dae/a10541.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "d9/dae/a10541.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "d9/dae/a10541.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "d9/dae/a10541.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "d9/dae/a10541.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "d9/dae/a10541.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "d9/dae/a10541.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

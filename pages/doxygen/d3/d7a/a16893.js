@@ -1,9 +1,6 @@
 var a16893 =
 [
-    [ "FilterTargets", "d3/d7a/a16893.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d3/d7a/a16893.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d3/d7a/a16893.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d3/d7a/a16893.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d3/d7a/a16893.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d3/d7a/a16893.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "boss_gormokAI", "d6/d0e/a16897.html", "d6/d0e/a16897" ],
+    [ "boss_gormok", "d3/d7a/a16893.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d3/d7a/a16893.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

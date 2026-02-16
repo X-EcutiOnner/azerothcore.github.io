@@ -1,5 +1,6 @@
 var a14965 =
 [
-    [ "boss_kri", "d4/d80/a14965.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d4/d80/a14965.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "FilterTargets", "d4/d80/a14965.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "d4/d80/a14965.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "d4/d80/a14965.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

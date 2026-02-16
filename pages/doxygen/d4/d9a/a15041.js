@@ -1,6 +1,6 @@
 var a15041 =
 [
-    [ "FilterTargets", "d4/d9a/a15041.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "d4/d9a/a15041.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "d4/d9a/a15041.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "HandleHeal", "d4/d9a/a15041.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d4/d9a/a15041.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d4/d9a/a15041.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

@@ -1,7 +1,6 @@
 var a28545 =
 [
-    [ "fcc", "d9/d8e/a28545.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "d9/d8e/a28545.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "d9/d8e/a28545.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "d9/d8e/a28545.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "OffsetAttributes", "d9/d8e/a28545.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "d9/d8e/a28545.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "d9/d8e/a28545.html#a20a458e613639ea26255dd772824a642", null ]
 ];

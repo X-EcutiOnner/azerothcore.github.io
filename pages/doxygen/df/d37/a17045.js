@@ -1,6 +1,6 @@
 var a17045 =
 [
-    [ "entry", "df/d37/a17045.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "df/d37/a17045.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "df/d37/a17045.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "boss_trollgoreAI", "d5/d85/a17049.html", "d5/d85/a17049" ],
+    [ "boss_trollgore", "df/d37/a17045.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "df/d37/a17045.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

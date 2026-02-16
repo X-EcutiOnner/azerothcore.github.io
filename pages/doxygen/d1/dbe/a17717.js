@@ -1,6 +1,8 @@
 var a17717 =
 [
-    [ "PrepareSpellScript", "d1/dbe/a17717.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d1/dbe/a17717.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d1/dbe/a17717.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "OnApply", "d1/dbe/a17717.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d1/dbe/a17717.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d1/dbe/a17717.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d1/dbe/a17717.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d1/dbe/a17717.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

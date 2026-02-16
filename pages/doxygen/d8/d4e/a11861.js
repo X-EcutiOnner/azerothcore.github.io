@@ -1,6 +1,6 @@
 var a11861 =
 [
-    [ "boss_general_angerforgeAI", "d3/db0/a11865.html", "d3/db0/a11865" ],
-    [ "boss_general_angerforge", "d8/d4e/a11861.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "d8/d4e/a11861.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "rainChance", "d4/d06/a04843.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "d4/d06/a04843.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "d4/d06/a04843.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

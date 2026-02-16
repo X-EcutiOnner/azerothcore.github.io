@@ -1,6 +1,7 @@
 var a12725 =
 [
-    [ "HandleProc", "d5/d99/a12725.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d5/d99/a12725.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d5/d99/a12725.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "HandleAfterApply", "d5/d99/a12725.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d5/d99/a12725.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d5/d99/a12725.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d5/d99/a12725.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

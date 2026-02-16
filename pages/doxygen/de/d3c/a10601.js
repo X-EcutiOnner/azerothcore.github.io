@@ -1,6 +1,6 @@
 var a10601 =
 [
-    [ "GuildUpdateInfoText", "de/d3c/a10601.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "de/d3c/a10601.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "de/d3c/a10601.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "BuyBankSlotResult", "de/d3c/a10601.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "de/d3c/a10601.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "de/d3c/a10601.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

@@ -1,6 +1,6 @@
 var a21873 =
 [
-    [ "npc_rocket_propelled_warheadAI", "de/d88/a21877.html", "de/d88/a21877" ],
-    [ "npc_rocket_propelled_warhead", "d5/da6/a21873.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
-    [ "GetAI", "d5/da6/a21873.html#a803702c480107d197845a0ef447a5380", null ]
+    [ "npc_boneguard_footmanAI", "de/d88/a21877.html", "de/d88/a21877" ],
+    [ "npc_boneguard_footman", "d5/da6/a21873.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d5/da6/a21873.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

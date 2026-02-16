@@ -1,6 +1,6 @@
 var a17569 =
 [
-    [ "HandlePeriodicTick", "d9/df7/a17569.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d9/df7/a17569.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d9/df7/a17569.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "instance_gundrak_InstanceMapScript", "df/dce/a17573.html", "df/dce/a17573" ],
+    [ "instance_gundrak", "d9/df7/a17569.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d9/df7/a17569.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

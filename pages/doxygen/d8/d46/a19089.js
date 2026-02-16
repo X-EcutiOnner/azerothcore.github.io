@@ -1,8 +1,7 @@
 var a19089 =
 [
-    [ "npc_teslaAI", "d8/d46/a19089.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d8/d46/a19089.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d8/d46/a19089.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d8/d46/a19089.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d8/d46/a19089.html#a962745569b07e368067ee483d2379840", null ]
+    [ "HandleDummyLaunch", "d8/d46/a19089.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "d8/d46/a19089.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "d8/d46/a19089.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "d8/d46/a19089.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

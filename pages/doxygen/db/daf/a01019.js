@@ -1,20 +1,15 @@
 var a01019 =
 [
-    [ "PlayerSetting", "db/d44/a08720.html", "db/d44/a08720" ],
-    [ "PlayerSettingMap", "db/daf/a01019.html#a03676554928fdf5649c8c7f77a128d04", null ],
-    [ "PlayerSettingVector", "db/daf/a01019.html#a5c88535ec12f87cc432b1c594bf05326", null ],
-    [ "AnnouncerFlags", "db/daf/a01019.html#a32dfba2d10d91879403874fc75b928fd", [
-      [ "ANNOUNCER_FLAG_DISABLE_BG_QUEUE", "db/daf/a01019.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828", null ],
-      [ "ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE", "db/daf/a01019.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704", null ],
-      [ "ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST", "db/daf/a01019.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e", null ]
-    ] ],
-    [ "CharacterSettingIndexes", "db/daf/a01019.html#acd2ee27596acf5e6804faaf9e7b6a1f5", [
-      [ "SETTING_ANNOUNCER_FLAGS", "db/daf/a01019.html#acd2ee27596acf5e6804faaf9e7b6a1f5a87ac7ec64e9a96e600fff40b442b4ca4", null ],
-      [ "MAX_CHAR_SETTINGS", "db/daf/a01019.html#acd2ee27596acf5e6804faaf9e7b6a1f5af9d926aa507c306441abf0cd93f9412c", null ]
-    ] ],
-    [ "ParseSettingsData", "db/daf/a01019.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "PrepareReplaceStatement", "db/daf/a01019.html#a0d5c2c2c4a1dede6bfb6e9fb0763b641", null ],
-    [ "SerializeSettingsData", "db/daf/a01019.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "db/daf/a01019.html#ab725e991f09f03e0413ffe44fa807ead", null ],
-    [ "AzerothcorePSSource", "db/daf/a01019.html#a50fa156f5e934ed3fa7108da4c510f28", null ]
+    [ "PoolTemplateData", "da/d5c/a10277.html", "da/d5c/a10277" ],
+    [ "PoolObject", "da/dcb/a10281.html", "da/dcb/a10281" ],
+    [ "Pool", "d0/d60/a10285.html", null ],
+    [ "ActivePoolData", "d7/d0e/a10289.html", "d7/d0e/a10289" ],
+    [ "PoolGroup< T >", "d6/df6/a10293.html", "d6/df6/a10293" ],
+    [ "PoolMgr", "d8/d52/a10297.html", "d8/d52/a10297" ],
+    [ "sPoolMgr", "db/daf/a01019.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
+    [ "ActivePoolObjects", "db/daf/a01019.html#a6fd2b29871e3f63cf9cc493968a0ab74", null ],
+    [ "ActivePoolPools", "db/daf/a01019.html#ad18a3f26065fec260d0281c5354067dd", null ],
+    [ "PooledQuestRelation", "db/daf/a01019.html#ace9e74e256f166b08f2834044ecfba43", null ],
+    [ "PooledQuestRelationBounds", "db/daf/a01019.html#adabd05f382474650e093706cf4ea4e35", null ],
+    [ "PooledQuestRelationBoundsNC", "db/daf/a01019.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ]
 ];

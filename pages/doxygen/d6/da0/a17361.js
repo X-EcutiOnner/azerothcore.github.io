@@ -1,6 +1,6 @@
 var a17361 =
 [
-    [ "ModAuraValue", "d6/da0/a17361.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "d6/da0/a17361.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "d6/da0/a17361.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d9/df7/a17365.html", "d9/df7/a17365" ],
+    [ "instance_pit_of_saron", "d6/da0/a17361.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d6/da0/a17361.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

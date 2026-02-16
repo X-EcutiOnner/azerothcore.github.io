@@ -1,11 +1,7 @@
 var a08049 =
 [
-    [ "FormationInfo", "d4/d18/a08049.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "d4/d18/a08049.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "d4/d18/a08049.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "d4/d18/a08049.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "d4/d18/a08049.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "d4/d18/a08049.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "d4/d18/a08049.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "d4/d18/a08049.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "LfgReward", "d4/d18/a08049.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "d4/d18/a08049.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "d4/d18/a08049.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "d4/d18/a08049.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

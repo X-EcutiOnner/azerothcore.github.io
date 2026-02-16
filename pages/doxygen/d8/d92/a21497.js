@@ -1,9 +1,9 @@
 var a21497 =
 [
-    [ "npc_warmage_coldarraAI", "d8/d92/a21497.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d8/d92/a21497.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d8/d92/a21497.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d8/d92/a21497.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d8/d92/a21497.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d8/d92/a21497.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_mageguard_dalaranAI", "d8/d92/a21497.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d8/d92/a21497.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d8/d92/a21497.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d8/d92/a21497.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d8/d92/a21497.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d8/d92/a21497.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

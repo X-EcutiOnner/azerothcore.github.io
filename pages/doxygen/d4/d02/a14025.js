@@ -1,8 +1,6 @@
 var a14025 =
 [
-    [ "boss_venoxis", "d4/d02/a14025.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d4/d02/a14025.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d4/d02/a14025.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d4/d02/a14025.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d4/d02/a14025.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_tyrion_spybotAI", "d6/d50/a14029.html", "d6/d50/a14029" ],
+    [ "npc_tyrion_spybot", "d4/d02/a14025.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d4/d02/a14025.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

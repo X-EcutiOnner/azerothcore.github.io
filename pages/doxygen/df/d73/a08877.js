@@ -1,8 +1,7 @@
 var a08877 =
 [
-    [ "PlayerWorker", "df/d73/a08877.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "df/d73/a08877.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "df/d73/a08877.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "df/d73/a08877.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "df/d73/a08877.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "HealthPctOrderPred", "df/d73/a08877.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
+    [ "operator()", "df/d73/a08877.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
+    [ "operator()", "df/d73/a08877.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
+    [ "_ascending", "df/d73/a08877.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
 ];

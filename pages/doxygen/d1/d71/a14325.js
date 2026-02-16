@@ -1,8 +1,11 @@
 var a14325 =
 [
-    [ "npc_love_in_air_snivel_real", "d1/d71/a14325.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d1/d71/a14325.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d1/d71/a14325.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d1/d71/a14325.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d1/d71/a14325.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "boss_hakkarAI", "d1/d71/a14325.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d1/d71/a14325.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d1/d71/a14325.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d1/d71/a14325.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d1/d71/a14325.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d1/d71/a14325.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d1/d71/a14325.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d1/d71/a14325.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

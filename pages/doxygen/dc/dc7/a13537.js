@@ -1,7 +1,11 @@
 var a13537 =
 [
-    [ "npc_deathstalker_erlandAI", "d4/d99/a13541.html", "d4/d99/a13541" ],
-    [ "npc_deathstalker_erland", "dc/dc7/a13537.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "dc/dc7/a13537.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "dc/dc7/a13537.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "boss_baroness_anastariAI", "dc/dc7/a13537.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "dc/dc7/a13537.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "dc/dc7/a13537.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "dc/dc7/a13537.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "dc/dc7/a13537.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "dc/dc7/a13537.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "dc/dc7/a13537.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "dc/dc7/a13537.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

@@ -1,6 +1,7 @@
 var a19265 =
 [
-    [ "boss_drakosAI", "d3/d9f/a19269.html", "d3/d9f/a19269" ],
-    [ "boss_drakos", "d7/d2b/a19265.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d7/d2b/a19265.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "OnRemove", "d7/d2b/a19265.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d7/d2b/a19265.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d7/d2b/a19265.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d7/d2b/a19265.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

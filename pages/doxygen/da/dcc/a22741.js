@@ -1,7 +1,10 @@
 var a22741 =
 [
-    [ "boss_veras_darkshadow", "da/dcc/a22741.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "da/dcc/a22741.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "da/dcc/a22741.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "da/dcc/a22741.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "CalculateAmount", "da/dcc/a22741.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "da/dcc/a22741.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "da/dcc/a22741.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "da/dcc/a22741.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "da/dcc/a22741.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "da/dcc/a22741.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "da/dcc/a22741.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

@@ -1,6 +1,7 @@
 var a25065 =
 [
-    [ "HandleScriptEffect", "da/d1a/a25065.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
-    [ "PrepareSpellScript", "da/d1a/a25065.html#a1d7e2beafb55464f928ea5904441d698", null ],
-    [ "Register", "da/d1a/a25065.html#aeaa8321255f377b85884df25a455554f", null ]
+    [ "PrepareAuraScript", "da/d1a/a25065.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "da/d1a/a25065.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "da/d1a/a25065.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "da/d1a/a25065.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

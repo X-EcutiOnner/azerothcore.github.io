@@ -1,15 +1,15 @@
 var a09681 =
 [
-    [ "MailSender", "d0/d46/a09681.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "d0/d46/a09681.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "d0/d46/a09681.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "d0/d46/a09681.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "d0/d46/a09681.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "d0/d46/a09681.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "d0/d46/a09681.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "d0/d46/a09681.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "d0/d46/a09681.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "d0/d46/a09681.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "d0/d46/a09681.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "d0/d46/a09681.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "LogHolder", "d0/d46/a09681.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "d0/d46/a09681.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "d0/d46/a09681.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "d0/d46/a09681.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "d0/d46/a09681.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "d0/d46/a09681.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "d0/d46/a09681.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "d0/d46/a09681.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "d0/d46/a09681.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "d0/d46/a09681.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "d0/d46/a09681.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "d0/d46/a09681.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

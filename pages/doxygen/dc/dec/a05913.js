@@ -1,6 +1,7 @@
 var a05913 =
 [
-    [ "SavedAddon", "dc/dec/a05913.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
-    [ "CRC", "dc/dec/a05913.html#a7d04d21a29aa589429aab0d95172ca95", null ],
-    [ "Name", "dc/dec/a05913.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
+    [ "ToString", "dc/dec/a05913.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "dc/dec/a05913.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "dc/dec/a05913.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "dc/dec/a05913.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

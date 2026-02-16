@@ -1,9 +1,7 @@
 var a25553 =
 [
-    [ "spell_item_trigger_spell", "de/dbc/a25553.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "de/dbc/a25553.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "de/dbc/a25553.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "de/dbc/a25553.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "de/dbc/a25553.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "de/dbc/a25553.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "HandleDummy", "de/dbc/a25553.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "de/dbc/a25553.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "de/dbc/a25553.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "de/dbc/a25553.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

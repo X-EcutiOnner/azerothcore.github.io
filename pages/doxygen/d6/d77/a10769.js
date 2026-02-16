@@ -1,8 +1,11 @@
 var a10769 =
 [
-    [ "CrossedInebriationThreshold", "d6/d77/a10769.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d6/d77/a10769.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d6/d77/a10769.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d6/d77/a10769.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d6/d77/a10769.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "GuildRankTabPermissions", "df/d5f/a10773.html", "df/d5f/a10773" ],
+    [ "GuildPermissionsQueryResults", "d6/d77/a10769.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "d6/d77/a10769.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "d6/d77/a10769.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "d6/d77/a10769.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "d6/d77/a10769.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "d6/d77/a10769.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "d6/d77/a10769.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

@@ -1,13 +1,8 @@
 var a15685 =
 [
-    [ "npc_shadowpriest_sezzizAI", "de/dab/a15685.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "de/dab/a15685.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "de/dab/a15685.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "de/dab/a15685.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "de/dab/a15685.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "de/dab/a15685.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "de/dab/a15685.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "de/dab/a15685.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "de/dab/a15685.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "de/dab/a15685.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "npc_death_ravagerAI", "de/dab/a15685.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "de/dab/a15685.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "de/dab/a15685.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "de/dab/a15685.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "de/dab/a15685.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

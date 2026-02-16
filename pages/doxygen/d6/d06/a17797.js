@@ -1,7 +1,7 @@
 var a17797 =
 [
-    [ "HandleTriggerSpell", "d6/d06/a17797.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d6/d06/a17797.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d6/d06/a17797.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d6/d06/a17797.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "FilterTargets", "d6/d06/a17797.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d6/d06/a17797.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d6/d06/a17797.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d6/d06/a17797.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

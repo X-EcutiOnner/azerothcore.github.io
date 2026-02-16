@@ -1,6 +1,7 @@
 var a16961 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d2/d72/a16965.html", "d2/d72/a16965" ],
-    [ "npc_pos_tyrannus_events", "d7/d08/a16961.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "d7/d08/a16961.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "HandleAfterEffectAbsorb", "d7/d08/a16961.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "d7/d08/a16961.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "d7/d08/a16961.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "d7/d08/a16961.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

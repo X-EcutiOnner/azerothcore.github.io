@@ -1,6 +1,6 @@
 var a19025 =
 [
-    [ "boss_patchwerkAI", "d4/d20/a19029.html", "d4/d20/a19029" ],
-    [ "boss_patchwerk", "dc/db3/a19025.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "dc/db3/a19025.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "HandleEvent", "dc/db3/a19025.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "dc/db3/a19025.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "dc/db3/a19025.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

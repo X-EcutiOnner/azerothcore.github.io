@@ -1,11 +1,17 @@
 var a00014 =
 [
-    [ "ThreatCalcHelper", "dd/ddf/a07912.html", "dd/ddf/a07912" ],
-    [ "HostileReference", "dc/d7c/a07916.html", "dc/d7c/a07916" ],
-    [ "ThreatContainer", "dc/d2e/a07920.html", "dc/d2e/a07920" ],
-    [ "ThreatMgr", "d8/d86/a07924.html", "d8/d86/a07924" ],
-    [ "RedirectThreatInfo", "d7/d97/a07928.html", "d7/d97/a07928" ],
-    [ "Acore::ThreatOrderPred", "d2/d55/a07932.html", "d2/d55/a07932" ],
-    [ "THREAT_UPDATE_INTERVAL", "d2/de7/a00014.html#a7173807ed06286e3a91f0497a3588f6b", null ],
-    [ "ThreatReference", "d2/de7/a00014.html#a62695703be4c945be07f18d2fe6a9a18", null ]
+    [ "GetBranch", "d2/de7/a00014.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
+    [ "GetBuildDirectory", "d2/de7/a00014.html#a51523316de8184739b710e472a8ce843", null ],
+    [ "GetCMakeCommand", "d2/de7/a00014.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
+    [ "GetCMakeVersion", "d2/de7/a00014.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
+    [ "GetCompanyNameStr", "d2/de7/a00014.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
+    [ "GetDate", "d2/de7/a00014.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
+    [ "GetFileVersionStr", "d2/de7/a00014.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
+    [ "GetFullVersion", "d2/de7/a00014.html#ad68b75fc60314941c3cbade8eafcda23", null ],
+    [ "GetHash", "d2/de7/a00014.html#addcf1401768f04ea13a6e868d9580605", null ],
+    [ "GetHostOSVersion", "d2/de7/a00014.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
+    [ "GetLegalCopyrightStr", "d2/de7/a00014.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
+    [ "GetMySQLExecutable", "d2/de7/a00014.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
+    [ "GetProductVersionStr", "d2/de7/a00014.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
+    [ "GetSourceDirectory", "d2/de7/a00014.html#a1062fcec3676f562803f4775d95a9594", null ]
 ];

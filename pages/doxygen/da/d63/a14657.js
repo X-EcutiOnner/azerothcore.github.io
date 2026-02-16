@@ -1,6 +1,5 @@
 var a14657 =
 [
-    [ "npc_crate_helperAI", "da/d63/a14657.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "da/d63/a14657.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "da/d63/a14657.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "at_bring_your_orphan_to", "da/d63/a14657.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "da/d63/a14657.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

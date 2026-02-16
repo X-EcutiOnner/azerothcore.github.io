@@ -1,13 +1,6 @@
 var a27497 =
 [
-    [ "npc_garments_of_questsAI", "da/d93/a27497.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "da/d93/a27497.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "da/d93/a27497.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "da/d93/a27497.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "da/d93/a27497.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "da/d93/a27497.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "da/d93/a27497.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "da/d93/a27497.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "da/d93/a27497.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "da/d93/a27497.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_experience", "da/d93/a27497.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "da/d93/a27497.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "da/d93/a27497.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

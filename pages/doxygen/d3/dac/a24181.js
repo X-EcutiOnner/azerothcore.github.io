@@ -1,6 +1,6 @@
 var a24181 =
 [
-    [ "npc_zephyr", "d3/dac/a24181.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d3/dac/a24181.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d3/dac/a24181.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "achievement", "d3/dac/a24181.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d3/dac/a24181.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d3/dac/a24181.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

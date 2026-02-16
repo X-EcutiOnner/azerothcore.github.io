@@ -1,7 +1,9 @@
 var a27505 =
 [
-    [ "npc_guardianAI", "d5/de5/a27505.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d5/de5/a27505.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d5/de5/a27505.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d5/de5/a27505.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_fireworkAI", "d5/de5/a27505.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d5/de5/a27505.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d5/de5/a27505.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d5/de5/a27505.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d5/de5/a27505.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d5/de5/a27505.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

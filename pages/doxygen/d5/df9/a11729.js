@@ -1,12 +1,8 @@
 var a11729 =
 [
-    [ "wp_commandscript", "d5/df9/a11729.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d5/df9/a11729.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d5/df9/a11729.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d5/df9/a11729.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d5/df9/a11729.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d5/df9/a11729.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d5/df9/a11729.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d5/df9/a11729.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d5/df9/a11729.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "CreatureTextId", "d5/df9/a11729.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d5/df9/a11729.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d5/df9/a11729.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d5/df9/a11729.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d5/df9/a11729.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

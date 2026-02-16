@@ -1,7 +1,6 @@
 var a18125 =
 [
-    [ "HandleScript", "d0/dbf/a18125.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d0/dbf/a18125.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d0/dbf/a18125.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d0/dbf/a18125.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "npc_bone_spikeAI", "d5/d11/a18129.html", "d5/d11/a18129" ],
+    [ "npc_bone_spike", "d0/dbf/a18125.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d0/dbf/a18125.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

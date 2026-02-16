@@ -1,11 +1,13 @@
 var a19149 =
 [
-    [ "npc_nexus_lordAI", "d5/de0/a19149.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
-    [ "AttackStart", "d5/de0/a19149.html#a2f56dcac815431c887b95e9c09aec361", null ],
-    [ "JustDied", "d5/de0/a19149.html#a828007757a618affad71b955681945cf", null ],
-    [ "JustEngagedWith", "d5/de0/a19149.html#acfcf227557b1e212eda385e22ccdb981", null ],
-    [ "UpdateAI", "d5/de0/a19149.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
-    [ "events", "d5/de0/a19149.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
-    [ "pInstance", "d5/de0/a19149.html#a81fae70688bcd8c733ea90b06900503d", null ],
-    [ "timer", "d5/de0/a19149.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
+    [ "npc_icc_spire_frostwyrm", "d5/de0/a19149.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "d5/de0/a19149.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "d5/de0/a19149.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "d5/de0/a19149.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "d5/de0/a19149.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "d5/de0/a19149.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "d5/de0/a19149.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "d5/de0/a19149.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "d5/de0/a19149.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "d5/de0/a19149.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

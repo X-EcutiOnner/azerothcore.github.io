@@ -1,7 +1,6 @@
 var a17025 =
 [
-    [ "HandleEffectPeriodic", "d9/d42/a17025.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d9/d42/a17025.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d9/d42/a17025.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d9/d42/a17025.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "boss_tharon_jaAI", "d2/d7b/a17029.html", "d2/d7b/a17029" ],
+    [ "boss_tharon_ja", "d9/d42/a17025.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "d9/d42/a17025.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

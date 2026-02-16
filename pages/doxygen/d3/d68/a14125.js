@@ -1,17 +1,7 @@
 var a14125 =
 [
-    [ "npc_coren_direbrew", "d3/d68/a14125.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
-    [ "CanBeSeen", "d3/d68/a14125.html#ad4db2a85c92f69e54036f4133396f201", null ],
-    [ "DamageTaken", "d3/d68/a14125.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
-    [ "DoAction", "d3/d68/a14125.html#a2d417a9310b5b75df09879678d967794", null ],
-    [ "JustDied", "d3/d68/a14125.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
-    [ "JustSummoned", "d3/d68/a14125.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
-    [ "MoveInLineOfSight", "d3/d68/a14125.html#a9c48c7e4a97998c2091992f51b734679", null ],
-    [ "Reset", "d3/d68/a14125.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
-    [ "sGossipSelect", "d3/d68/a14125.html#ad8b665606985984ad633f66ad9b73bd2", null ],
-    [ "SummonedCreatureDies", "d3/d68/a14125.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
-    [ "SummonSister", "d3/d68/a14125.html#a358fe5922a85ea3eee6abe9451869b66", null ],
-    [ "UpdateAI", "d3/d68/a14125.html#af6615292fa853883979dc37c6e247289", null ],
-    [ "_events", "d3/d68/a14125.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
-    [ "_summons", "d3/d68/a14125.html#a261d4c4dea56748e66752cb11588086a", null ]
+    [ "npc_daphne_stilwellAI", "d5/df6/a14129.html", "d5/df6/a14129" ],
+    [ "npc_daphne_stilwell", "d3/d68/a14125.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d3/d68/a14125.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d3/d68/a14125.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

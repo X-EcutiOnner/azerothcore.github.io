@@ -1,6 +1,6 @@
 var a22053 =
 [
-    [ "HandleHealPct", "dd/d2e/a22053.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "dd/d2e/a22053.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "dd/d2e/a22053.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_time_lost_proto_drakeAI", "de/da4/a22057.html", "de/da4/a22057" ],
+    [ "npc_time_lost_proto_drake", "dd/d2e/a22053.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "dd/d2e/a22053.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

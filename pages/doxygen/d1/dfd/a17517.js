@@ -1,10 +1,8 @@
 var a17517 =
 [
-    [ "npc_gunship_gunnerAI", "d1/dfd/a17517.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d1/dfd/a17517.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d1/dfd/a17517.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d1/dfd/a17517.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d1/dfd/a17517.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d1/dfd/a17517.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d1/dfd/a17517.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "boss_eck", "d1/dfd/a17517.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "d1/dfd/a17517.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "d1/dfd/a17517.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "d1/dfd/a17517.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "d1/dfd/a17517.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

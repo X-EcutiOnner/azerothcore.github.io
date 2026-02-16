@@ -1,6 +1,7 @@
 var a10693 =
 [
-    [ "GuildBankTextQuery", "d6/ddf/a10693.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d6/ddf/a10693.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d6/ddf/a10693.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "QueryGuildInfoResponse", "d6/ddf/a10693.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d6/ddf/a10693.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d6/ddf/a10693.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d6/ddf/a10693.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

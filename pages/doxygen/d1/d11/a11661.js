@@ -1,5 +1,6 @@
 var a11661 =
 [
-    [ "flag", "d1/d11/a11661.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
-    [ "text", "d1/d11/a11661.html#a87700bc5f863f448b346c2aec2152ba4", null ]
+    [ "EffectCalcSpellModHandler", "d1/d11/a11661.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d1/d11/a11661.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d1/d11/a11661.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

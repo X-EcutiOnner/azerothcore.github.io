@@ -1,11 +1,9 @@
 var a05673 =
 [
-    [ "DatabaseWorker", "d2/d92/a05673.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "d2/d92/a05673.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "d2/d92/a05673.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "d2/d92/a05673.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "d2/d92/a05673.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "d2/d92/a05673.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "d2/d92/a05673.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "d2/d92/a05673.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "TimeTracker", "d2/d92/a05673.html#a2b9f585de223c1051136b10b03a27684", null ],
+    [ "GetExpiry", "d2/d92/a05673.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3", null ],
+    [ "Passed", "d2/d92/a05673.html#a9a13002766153882150b1985a84013ad", null ],
+    [ "Reset", "d2/d92/a05673.html#a798cf19378c4de243fac01d7d51a3572", null ],
+    [ "Update", "d2/d92/a05673.html#a2009e98647f04c20cb3064e1e9e9a611", null ],
+    [ "i_expiryTime", "d2/d92/a05673.html#adf2e301fdefb32008f14ced5f1c37f33", null ]
 ];

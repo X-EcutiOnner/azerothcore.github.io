@@ -1,8 +1,14 @@
 var a13849 =
 [
-    [ "FilterTargets", "d2/de6/a13849.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d2/de6/a13849.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d2/de6/a13849.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d2/de6/a13849.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d2/de6/a13849.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "instance_uldaman_InstanceMapScript", "d2/de6/a13849.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d2/de6/a13849.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d2/de6/a13849.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d2/de6/a13849.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d2/de6/a13849.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d2/de6/a13849.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d2/de6/a13849.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d2/de6/a13849.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d2/de6/a13849.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d2/de6/a13849.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d2/de6/a13849.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

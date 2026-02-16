@@ -1,5 +1,6 @@
 var a21073 =
 [
-    [ "go_harpoon_canon", "d3/dba/a21073.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d3/dba/a21073.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "boss_emalonAI", "d4/d2f/a21077.html", "d4/d2f/a21077" ],
+    [ "boss_emalon", "d3/dba/a21073.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d3/dba/a21073.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

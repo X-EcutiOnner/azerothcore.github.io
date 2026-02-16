@@ -1,6 +1,6 @@
 var a12325 =
 [
-    [ "npc_garr_fireswornAI", "d4/dfc/a12329.html", "d4/dfc/a12329" ],
-    [ "npc_garr_firesworn", "de/da6/a12325.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
-    [ "GetAI", "de/da6/a12325.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
+    [ "boss_high_priestess_thaurissanAI", "de/da6/a12325.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "de/da6/a12325.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "de/da6/a12325.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

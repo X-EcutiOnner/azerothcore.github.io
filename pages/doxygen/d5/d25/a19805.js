@@ -1,15 +1,6 @@
 var a19805 =
 [
-    [ "npc_mimirons_infernoAI", "d5/d25/a19805.html#ae412b49c76e76b322e779665d895080f", null ],
-    [ "AttackStart", "d5/d25/a19805.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
-    [ "DoAction", "d5/d25/a19805.html#a499301a57e57a54aa8f1249c12247be7", null ],
-    [ "JustSummoned", "d5/d25/a19805.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
-    [ "MoveInLineOfSight", "d5/d25/a19805.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
-    [ "Reset", "d5/d25/a19805.html#adf35df754ce212e9937f4b7833b81bf6", null ],
-    [ "SummonedCreatureDespawn", "d5/d25/a19805.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
-    [ "UpdateAI", "d5/d25/a19805.html#a661199c38d5bce921632191132767c32", null ],
-    [ "WaypointReached", "d5/d25/a19805.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
-    [ "_recastTimer", "d5/d25/a19805.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
-    [ "_spellTimer", "d5/d25/a19805.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
-    [ "summons", "d5/d25/a19805.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
+    [ "CalculateDamage", "d5/d25/a19805.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d5/d25/a19805.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d5/d25/a19805.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

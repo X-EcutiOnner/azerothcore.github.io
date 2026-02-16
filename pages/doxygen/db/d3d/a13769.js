@@ -1,6 +1,9 @@
 var a13769 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d0/d50/a13773.html", "d0/d50/a13773" ],
-    [ "instance_zulaman", "db/d3d/a13769.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "db/d3d/a13769.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "boss_muru", "db/d3d/a13769.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "db/d3d/a13769.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "db/d3d/a13769.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "db/d3d/a13769.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "db/d3d/a13769.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "db/d3d/a13769.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

@@ -1,6 +1,6 @@
 var a27573 =
 [
-    [ "npc_venomhide_hatchlingAI", "d3/dc9/a27573.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d3/dc9/a27573.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d3/dc9/a27573.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_necropolis_relay", "d3/dc9/a27573.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d3/dc9/a27573.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d3/dc9/a27573.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

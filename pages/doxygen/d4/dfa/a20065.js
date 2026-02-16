@@ -1,5 +1,5 @@
 var a20065 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "d4/dfa/a20065.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "d4/dfa/a20065.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "boss_flame_leviathan_overload_device", "d4/dfa/a20065.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "d4/dfa/a20065.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

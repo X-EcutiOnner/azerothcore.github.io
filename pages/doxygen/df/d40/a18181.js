@@ -1,6 +1,5 @@
 var a18181 =
 [
-    [ "HandleScript", "df/d40/a18181.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "df/d40/a18181.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "df/d40/a18181.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "npc_volatile_oozeAI", "df/d40/a18181.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "df/d40/a18181.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

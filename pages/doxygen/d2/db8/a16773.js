@@ -1,8 +1,7 @@
 var a16773 =
 [
-    [ "npc_phantom_hallucinationAI", "d2/db8/a16773.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d2/db8/a16773.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d2/db8/a16773.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d2/db8/a16773.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d2/db8/a16773.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_toc_mageAI", "d2/db8/a16773.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "d2/db8/a16773.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "d2/db8/a16773.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "d2/db8/a16773.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

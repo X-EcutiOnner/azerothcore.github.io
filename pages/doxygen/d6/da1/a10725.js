@@ -1,9 +1,6 @@
 var a10725 =
 [
-    [ "Weather", "d6/da1/a10725.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d6/da1/a10725.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d6/da1/a10725.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d6/da1/a10725.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d6/da1/a10725.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d6/da1/a10725.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "GuildUpdateMotdText", "d6/da1/a10725.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d6/da1/a10725.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d6/da1/a10725.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

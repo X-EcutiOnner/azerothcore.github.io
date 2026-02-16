@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/SunkenTemple/instance_sunken_temple.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/zone_redridge_mountains.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,104 +108,113 @@ $(document).ready(function(){initNavTree('d8/d63/a03500.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">instance_sunken_temple.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">zone_redridge_mountains.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">EventMap.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">sunken_temple.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d37/a13492.html">instance_sunken_temple</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d74/a13981.html">npc_corporal_keeshan</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d19/a13496.html">instance_sunken_temple::instance_sunken_temple_InstanceMapScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d23/a13500.html">at_malfurion_stormrage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d40/a13504.html">spell_temple_of_atal_hakkar_hex_of_jammal_an_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/de7/a13508.html">spell_temple_of_atal_hakkar_awaken_the_soulflayer</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d62/a13985.html">npc_corporal_keeshan::npc_corporal_keeshanAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a754fcfafd80b5a6c2ea444f49cfbc7d1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1">MalfurionMisc</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d">QUEST_ERANIKUS_TYRANT_OF_DREAMS</a> = 8733
+<tr class="memitem:aeff5ef215a48fcd7bb6837e1d77e4b45"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45">CorporalKeeshan</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210">QUEST_MISSING_IN_ACTION</a> = 219
 , <br />
-&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526">QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</a> = 8555
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364">SAY_CORPORAL_1</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f">SAY_CORPORAL_2</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445">SAY_CORPORAL_3</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe">SAY_CORPORAL_4</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf">SAY_CORPORAL_5</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e">SPELL_MOCKING_BLOW</a> = 21008
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4">SPELL_SHIELD_BASH</a> = 11972
 <br />
  }</td></tr>
-<tr class="separator:a754fcfafd80b5a6c2ea444f49cfbc7d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:aeff5ef215a48fcd7bb6837e1d77e4b45"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab3f2a91fe096585f54078e8884cb25f7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a03500.html#ab3f2a91fe096585f54078e8884cb25f7">AddSC_instance_sunken_temple</a> ()</td></tr>
-<tr class="separator:ab3f2a91fe096585f54078e8884cb25f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e7af4a9a0f1dcec20ae3d284f9721c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a03500.html#a0e7af4a9a0f1dcec20ae3d284f9721c5">AddSC_redridge_mountains</a> ()</td></tr>
+<tr class="separator:a0e7af4a9a0f1dcec20ae3d284f9721c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a754fcfafd80b5a6c2ea444f49cfbc7d1" name="a754fcfafd80b5a6c2ea444f49cfbc7d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a754fcfafd80b5a6c2ea444f49cfbc7d1">&#9670;&#160;</a></span>MalfurionMisc</h2>
+<a id="aeff5ef215a48fcd7bb6837e1d77e4b45" name="aeff5ef215a48fcd7bb6837e1d77e4b45"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeff5ef215a48fcd7bb6837e1d77e4b45">&#9670;&#160;</a></span>CorporalKeeshan</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1">MalfurionMisc</a></td>
+          <td class="memname">enum <a class="el" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45">CorporalKeeshan</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d" name="a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d"></a>QUEST_ERANIKUS_TYRANT_OF_DREAMS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526" name="a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526"></a>QUEST_THE_CHARGE_OF_DRAGONFLIGHTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210" name="aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210"></a>QUEST_MISSING_IN_ACTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364" name="aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364"></a>SAY_CORPORAL_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f" name="aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f"></a>SAY_CORPORAL_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445" name="aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445"></a>SAY_CORPORAL_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe" name="aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe"></a>SAY_CORPORAL_4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf" name="aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf"></a>SAY_CORPORAL_5&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e" name="aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e"></a>SPELL_MOCKING_BLOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4" name="aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4"></a>SPELL_SHIELD_BASH&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  212</span>{</div>
-<div class="line"><span class="lineno">  213</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d">QUEST_ERANIKUS_TYRANT_OF_DREAMS</a>   = 8733,</div>
-<div class="line"><span class="lineno">  214</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526">QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</a> = 8555,</div>
-<div class="line"><span class="lineno">  215</span>};</div>
-<div class="ttc" id="aa03500_html_a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d"><div class="ttname"><a href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d">QUEST_ERANIKUS_TYRANT_OF_DREAMS</a></div><div class="ttdeci">@ QUEST_ERANIKUS_TYRANT_OF_DREAMS</div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:213</div></div>
-<div class="ttc" id="aa03500_html_a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526"><div class="ttname"><a href="../../d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526">QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</a></div><div class="ttdeci">@ QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:214</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210">QUEST_MISSING_IN_ACTION</a> = 219,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364">SAY_CORPORAL_1</a>          = 0,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f">SAY_CORPORAL_2</a>          = 1,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445">SAY_CORPORAL_3</a>          = 2,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe">SAY_CORPORAL_4</a>          = 3,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf">SAY_CORPORAL_5</a>          = 4,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e">SPELL_MOCKING_BLOW</a>      = 21008,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4">SPELL_SHIELD_BASH</a>       = 11972</div>
+<div class="line"><span class="lineno">   39</span>};</div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4">SPELL_SHIELD_BASH</a></div><div class="ttdeci">@ SPELL_SHIELD_BASH</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:38</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f">SAY_CORPORAL_2</a></div><div class="ttdeci">@ SAY_CORPORAL_2</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:33</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e">SPELL_MOCKING_BLOW</a></div><div class="ttdeci">@ SPELL_MOCKING_BLOW</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:37</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210">QUEST_MISSING_IN_ACTION</a></div><div class="ttdeci">@ QUEST_MISSING_IN_ACTION</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:31</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf">SAY_CORPORAL_5</a></div><div class="ttdeci">@ SAY_CORPORAL_5</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:36</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364">SAY_CORPORAL_1</a></div><div class="ttdeci">@ SAY_CORPORAL_1</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:32</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445">SAY_CORPORAL_3</a></div><div class="ttdeci">@ SAY_CORPORAL_3</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:34</div></div>
+<div class="ttc" id="aa03500_html_aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe"><div class="ttname"><a href="../../d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe">SAY_CORPORAL_4</a></div><div class="ttdeci">@ SAY_CORPORAL_4</div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:35</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="ab3f2a91fe096585f54078e8884cb25f7" name="ab3f2a91fe096585f54078e8884cb25f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab3f2a91fe096585f54078e8884cb25f7">&#9670;&#160;</a></span>AddSC_instance_sunken_temple()</h2>
+<a id="a0e7af4a9a0f1dcec20ae3d284f9721c5" name="a0e7af4a9a0f1dcec20ae3d284f9721c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e7af4a9a0f1dcec20ae3d284f9721c5">&#9670;&#160;</a></span>AddSC_redridge_mountains()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_sunken_temple </td>
+          <td class="memname">void AddSC_redridge_mountains </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  283</span>{</div>
-<div class="line"><span class="lineno">  284</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d37/a13492.html">instance_sunken_temple</a>();</div>
-<div class="line"><span class="lineno">  285</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d23/a13500.html">at_malfurion_stormrage</a>();</div>
-<div class="line"><span class="lineno">  286</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d40/a13504.html">spell_temple_of_atal_hakkar_hex_of_jammal_an_aura</a>);</div>
-<div class="line"><span class="lineno">  287</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/de7/a13508.html">spell_temple_of_atal_hakkar_awaken_the_soulflayer</a>);</div>
-<div class="line"><span class="lineno">  288</span>}</div>
-<div class="ttc" id="aa01460_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa13492_html"><div class="ttname"><a href="../../d4/d37/a13492.html">instance_sunken_temple</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:30</div></div>
-<div class="ttc" id="aa13500_html"><div class="ttname"><a href="../../df/d23/a13500.html">at_malfurion_stormrage</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:218</div></div>
-<div class="ttc" id="aa13504_html"><div class="ttname"><a href="../../dd/d40/a13504.html">spell_temple_of_atal_hakkar_hex_of_jammal_an_aura</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:232</div></div>
-<div class="ttc" id="aa13508_html"><div class="ttname"><a href="../../db/de7/a13508.html">spell_temple_of_atal_hakkar_awaken_the_soulflayer</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:257</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  177</span>{</div>
+<div class="line"><span class="lineno">  178</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/d74/a13981.html">npc_corporal_keeshan</a>();</div>
+<div class="line"><span class="lineno">  179</span>}</div>
+<div class="ttc" id="aa13981_html"><div class="ttname"><a href="../../da/d74/a13981.html">npc_corporal_keeshan</a></div><div class="ttdef"><b>Definition:</b> zone_redridge_mountains.cpp:42</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
 <p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
 
 </div>
@@ -215,8 +224,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_a884ae728646885af0028bc6e5a4566d.html">SunkenTemple</a></li><li class="navelem"><a class="el" href="../../d8/d63/a03500.html">instance_sunken_temple.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../d8/d63/a03500.html">zone_redridge_mountains.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

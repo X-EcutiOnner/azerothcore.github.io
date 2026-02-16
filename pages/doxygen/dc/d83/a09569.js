@@ -1,6 +1,8 @@
 var a09569 =
 [
-    [ "NpcTextLocale", "dc/d83/a09569.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "dc/d83/a09569.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "dc/d83/a09569.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "dc/d83/a09569.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "dc/d83/a09569.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "dc/d83/a09569.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "dc/d83/a09569.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "dc/d83/a09569.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

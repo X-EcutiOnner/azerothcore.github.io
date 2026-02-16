@@ -1,12 +1,8 @@
 var a12921 =
 [
-    [ "npc_high_inquisitor_valrothAI", "d2/dcd/a12921.html#afd15d7c3b64c9c84094234b1c369c6d6", null ],
-    [ "JustDied", "d2/dcd/a12921.html#ac8f4f8594bbd5d984a330d52ef2fde74", null ],
-    [ "JustEngagedWith", "d2/dcd/a12921.html#a9cf989be7062743685b2357309889585", null ],
-    [ "Reset", "d2/dcd/a12921.html#a833adc603d6d0b2eb03ea34b925f88b0", null ],
-    [ "Shout", "d2/dcd/a12921.html#aa80f070da5ad92297a5f5b7b6983085c", null ],
-    [ "UpdateAI", "d2/dcd/a12921.html#abe6becc3a10e0195bd75bf1de2d6bcc6", null ],
-    [ "uiInquisitor_Penance_timer", "d2/dcd/a12921.html#a765ef78cf5c30b1c46da303f4bbeb4d9", null ],
-    [ "uiRenew_timer", "d2/dcd/a12921.html#a1fe70428102a0319031179c97f02cbab", null ],
-    [ "uiValroth_Smite_timer", "d2/dcd/a12921.html#a527628708354414caea85b6bec3d0f1d", null ]
+    [ "npc_kernobeeAI", "d2/dcd/a12921.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d2/dcd/a12921.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "d2/dcd/a12921.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d2/dcd/a12921.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d2/dcd/a12921.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

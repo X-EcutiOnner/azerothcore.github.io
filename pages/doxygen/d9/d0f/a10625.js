@@ -1,5 +1,6 @@
 var a10625 =
 [
-    [ "GuildLeave", "d9/d0f/a10625.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "d9/d0f/a10625.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "ShowingCloak", "d9/d0f/a10625.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "d9/d0f/a10625.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "d9/d0f/a10625.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

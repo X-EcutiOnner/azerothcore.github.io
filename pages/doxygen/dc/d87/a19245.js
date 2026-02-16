@@ -1,11 +1,6 @@
 var a19245 =
 [
-    [ "boss_ormorok", "dc/d87/a19245.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "dc/d87/a19245.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "dc/d87/a19245.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "dc/d87/a19245.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "dc/d87/a19245.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "dc/d87/a19245.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "dc/d87/a19245.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "dc/d87/a19245.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "npc_four_car_garageAI", "dc/d87/a19245.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "dc/d87/a19245.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "dc/d87/a19245.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

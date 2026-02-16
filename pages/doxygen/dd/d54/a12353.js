@@ -1,10 +1,11 @@
 var a12353 =
 [
-    [ "boss_golemaggAI", "dd/d54/a12353.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "dd/d54/a12353.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "dd/d54/a12353.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "dd/d54/a12353.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "dd/d54/a12353.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "dd/d54/a12353.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "dd/d54/a12353.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_doomrelAI", "dd/d54/a12353.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "dd/d54/a12353.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "dd/d54/a12353.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "dd/d54/a12353.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "dd/d54/a12353.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "dd/d54/a12353.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "dd/d54/a12353.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "dd/d54/a12353.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

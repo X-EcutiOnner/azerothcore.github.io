@@ -1,8 +1,6 @@
 var a16697 =
 [
-    [ "npc_fos_leaderAI", "d8/d72/a16697.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d8/d72/a16697.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d8/d72/a16697.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d8/d72/a16697.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d8/d72/a16697.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_anubarak_spikeAI", "d2/dd7/a16701.html", "d2/dd7/a16701" ],
+    [ "npc_anubarak_spike", "d8/d72/a16697.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "d8/d72/a16697.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

@@ -1,8 +1,14 @@
 var a08041 =
 [
-    [ "TrainerSpellData", "db/d5e/a08041.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
-    [ "~TrainerSpellData", "db/d5e/a08041.html#a9bd25177856f54fa2eda882627b21644", null ],
-    [ "Find", "db/d5e/a08041.html#acee027787f06b4186b781bbd0d7db781", null ],
-    [ "spellList", "db/d5e/a08041.html#a0e157dbcebbbea5704270f182d313568", null ],
-    [ "trainerType", "db/d5e/a08041.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
+    [ "LfgQueueStatusData", "db/d5e/a08041.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "db/d5e/a08041.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "db/d5e/a08041.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "db/d5e/a08041.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "db/d5e/a08041.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "db/d5e/a08041.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "db/d5e/a08041.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "db/d5e/a08041.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "db/d5e/a08041.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "db/d5e/a08041.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "db/d5e/a08041.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

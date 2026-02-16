@@ -1,7 +1,7 @@
 var a28441 =
 [
-    [ "HandleEffectProc", "de/dba/a28441.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "de/dba/a28441.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "de/dba/a28441.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "de/dba/a28441.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "EnsureScriptRegistriesInitialized", "de/dba/a28441.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
+    [ "SetUp", "de/dba/a28441.html#a6934840a3250922d4de42044dd35211c", null ],
+    [ "TearDown", "de/dba/a28441.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
+    [ "previousWorld_", "de/dba/a28441.html#adff0b9d4abad7843811c543dfd10572e", null ]
 ];

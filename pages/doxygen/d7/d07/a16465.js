@@ -1,6 +1,7 @@
 var a16465 =
 [
-    [ "boss_acidmawAI", "df/d81/a16469.html", "df/d81/a16469" ],
-    [ "boss_acidmaw", "d7/d07/a16465.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d7/d07/a16465.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "HandleScriptEffect", "d7/d07/a16465.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d7/d07/a16465.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d7/d07/a16465.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d7/d07/a16465.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

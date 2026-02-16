@@ -1,6 +1,5 @@
 var a13305 =
 [
-    [ "HandlePeriodic", "d9/d34/a13305.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d9/d34/a13305.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d9/d34/a13305.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "go_acherus_soul_prison", "d9/d34/a13305.html#a13c858f74080b8f7963fdacc4b554019", null ],
+    [ "OnGossipHello", "d9/d34/a13305.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
 ];

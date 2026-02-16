@@ -1,10 +1,9 @@
 var a14021 =
 [
-    [ "npc_zealot_zath", "d5/dd5/a14021.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d5/dd5/a14021.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d5/dd5/a14021.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d5/dd5/a14021.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d5/dd5/a14021.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d5/dd5/a14021.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d5/dd5/a14021.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "npc_marzon_silent_bladeAI", "d5/dd5/a14021.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d5/dd5/a14021.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d5/dd5/a14021.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d5/dd5/a14021.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d5/dd5/a14021.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d5/dd5/a14021.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

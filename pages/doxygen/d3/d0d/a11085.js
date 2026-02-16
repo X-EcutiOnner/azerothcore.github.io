@@ -1,7 +1,6 @@
 var a11085 =
 [
-    [ "chance", "d3/d0d/a11085.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d3/d0d/a11085.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d3/d0d/a11085.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d3/d0d/a11085.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "UITime", "d3/d0d/a11085.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d3/d0d/a11085.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d3/d0d/a11085.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

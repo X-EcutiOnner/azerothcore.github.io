@@ -1,11 +1,9 @@
 var a05549 =
 [
-    [ "PeriodicTimer", "d1/da9/a05549.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "d1/da9/a05549.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "d1/da9/a05549.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "d1/da9/a05549.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "d1/da9/a05549.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "d1/da9/a05549.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "d1/da9/a05549.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "d1/da9/a05549.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "Base", "dc/d3d/a05553.html", "dc/d3d/a05553" ],
+    [ "Erase", "d1/da9/a05549.html#a2c7b450c8781824135765e5d82b0272e", null ],
+    [ "Get", "d1/da9/a05549.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
+    [ "GetDefault", "d1/da9/a05549.html#ad53ddbe486c994277adbb96e1c644112", null ],
+    [ "Set", "d1/da9/a05549.html#a93bf2535b14236df9703e485ef816b36", null ],
+    [ "Container", "d1/da9/a05549.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
 ];

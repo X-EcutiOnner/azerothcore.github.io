@@ -1,6 +1,9 @@
 var a15869 =
 [
-    [ "boss_sartharion_shadronAI", "dd/db8/a15873.html", "dd/db8/a15873" ],
-    [ "boss_sartharion_shadron", "db/d86/a15869.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "db/d86/a15869.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "npc_thrall_warchiefAI", "dd/db8/a15873.html", "dd/db8/a15873" ],
+    [ "npc_thrall_warchief", "db/d86/a15869.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "db/d86/a15869.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "db/d86/a15869.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "db/d86/a15869.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "db/d86/a15869.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

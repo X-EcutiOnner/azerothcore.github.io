@@ -1,5 +1,5 @@
 var a10269 =
 [
-    [ "GenericGameObjectScript", "db/dba/a10269.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "db/dba/a10269.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "petitionGuid", "db/dba/a10269.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "db/dba/a10269.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

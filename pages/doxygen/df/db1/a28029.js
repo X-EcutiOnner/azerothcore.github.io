@@ -1,11 +1,7 @@
 var a28029 =
 [
-    [ "Displayid", "df/db1/a28029.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "df/db1/a28029.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "df/db1/a28029.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "df/db1/a28029.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "df/db1/a28029.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "df/db1/a28029.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "df/db1/a28029.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "df/db1/a28029.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "EmoteType", "df/db1/a28029.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "df/db1/a28029.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "df/db1/a28029.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "df/db1/a28029.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

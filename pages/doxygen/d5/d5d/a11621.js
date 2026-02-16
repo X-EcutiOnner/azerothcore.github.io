@@ -1,6 +1,6 @@
 var a11621 =
 [
-    [ "inventory_commandscript", "d5/d5d/a11621.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "d5/d5d/a11621.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "d5/d5d/a11621.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "ObjectTargetSelectHandler", "d5/d5d/a11621.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d5/d5d/a11621.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d5/d5d/a11621.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

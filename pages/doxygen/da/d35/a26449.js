@@ -1,6 +1,9 @@
 var a26449 =
 [
-    [ "HandleFinish", "da/d35/a26449.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "da/d35/a26449.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "da/d35/a26449.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "CheckCast", "da/d35/a26449.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "da/d35/a26449.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "da/d35/a26449.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "da/d35/a26449.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "da/d35/a26449.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "da/d35/a26449.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

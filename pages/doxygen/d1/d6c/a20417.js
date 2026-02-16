@@ -1,5 +1,7 @@
 var a20417 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d1/d6c/a20417.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d1/d6c/a20417.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "FilterTargetsInitial", "d1/d6c/a20417.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d1/d6c/a20417.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d1/d6c/a20417.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d1/d6c/a20417.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

@@ -1,11 +1,8 @@
 var a24561 =
 [
-    [ "HandleAfterHit", "da/d78/a24561.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "da/d78/a24561.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "da/d78/a24561.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "da/d78/a24561.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "da/d78/a24561.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "da/d78/a24561.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "da/d78/a24561.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "da/d78/a24561.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "AfterApply", "da/d78/a24561.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "da/d78/a24561.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "da/d78/a24561.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "da/d78/a24561.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "da/d78/a24561.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

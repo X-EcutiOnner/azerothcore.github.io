@@ -1,15 +1,18 @@
 var a05733 =
 [
-    [ "TransactionBase", "d1/dc7/a05733.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "d1/dc7/a05733.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "d1/dc7/a05733.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d1/dc7/a05733.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "d1/dc7/a05733.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "d1/dc7/a05733.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "d1/dc7/a05733.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
-    [ "DatabaseWorkerPool", "d1/dc7/a05733.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "MySQLConnection", "d1/dc7/a05733.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "d1/dc7/a05733.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "d1/dc7/a05733.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "d1/dc7/a05733.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "build", "d1/dc7/a05733.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
+    [ "cmd", "d1/dc7/a05733.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
+    [ "country", "d1/dc7/a05733.html#a5391c693d5aee76e67001f648b108792", null ],
+    [ "error", "d1/dc7/a05733.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
+    [ "gamename", "d1/dc7/a05733.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
+    [ "I", "d1/dc7/a05733.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
+    [ "I_len", "d1/dc7/a05733.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
+    [ "ip", "d1/dc7/a05733.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
+    [ "os", "d1/dc7/a05733.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
+    [ "platform", "d1/dc7/a05733.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
+    [ "size", "d1/dc7/a05733.html#aae293343b590c23405a32d2809887020", null ],
+    [ "timezone_bias", "d1/dc7/a05733.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
+    [ "version1", "d1/dc7/a05733.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
+    [ "version2", "d1/dc7/a05733.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
+    [ "version3", "d1/dc7/a05733.html#a6a9e5088baf8c568916891a55e035db3", null ]
 ];

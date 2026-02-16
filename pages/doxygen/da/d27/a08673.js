@@ -1,8 +1,10 @@
 var a08673 =
 [
-    [ "CleanDamage", "da/d27/a08673.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "da/d27/a08673.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "da/d27/a08673.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "da/d27/a08673.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "da/d27/a08673.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "PvPInfo", "da/d27/a08673.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "da/d27/a08673.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "da/d27/a08673.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "da/d27/a08673.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "da/d27/a08673.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "da/d27/a08673.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "da/d27/a08673.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

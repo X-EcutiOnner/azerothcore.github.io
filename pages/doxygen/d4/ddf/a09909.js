@@ -1,17 +1,13 @@
 var a09909 =
 [
-    [ "ConfusedMovementGenerator", "d4/ddf/a09909.html#a694dd083a1c01378e4877939f78309b8", null ],
-    [ "_InitSpecific", "d4/ddf/a09909.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
-    [ "_InitSpecific", "d4/ddf/a09909.html#a212665e4306ca335181c255573d30a06", null ],
-    [ "_InitSpecific", "d4/ddf/a09909.html#af597e5c544e56c255b179a08290f4ccb", null ],
-    [ "DoFinalize", "d4/ddf/a09909.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
-    [ "DoFinalize", "d4/ddf/a09909.html#a82c2458b43334f06cae1a91224753fd3", null ],
-    [ "DoFinalize", "d4/ddf/a09909.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
-    [ "DoInitialize", "d4/ddf/a09909.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
-    [ "DoReset", "d4/ddf/a09909.html#a734a73ffa4008898a170b913aafce899", null ],
-    [ "DoUpdate", "d4/ddf/a09909.html#a8703ba139d90194a481388a543a14de6", null ],
-    [ "GetMovementGeneratorType", "d4/ddf/a09909.html#a3f0760b38745b9e065e069d6ad984d51", null ],
-    [ "i_nextMove", "d4/ddf/a09909.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
-    [ "i_nextMoveTime", "d4/ddf/a09909.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
-    [ "i_waypoints", "d4/ddf/a09909.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
+    [ "ParallelogramBoundary", "d4/ddf/a09909.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d4/ddf/a09909.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d4/ddf/a09909.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d4/ddf/a09909.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d4/ddf/a09909.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d4/ddf/a09909.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d4/ddf/a09909.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d4/ddf/a09909.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d4/ddf/a09909.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d4/ddf/a09909.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

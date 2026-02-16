@@ -1,7 +1,6 @@
 var a14133 =
 [
-    [ "npc_direbrew_minion", "d6/d38/a14133.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d6/d38/a14133.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d6/d38/a14133.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d6/d38/a14133.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/dd7/a14137.html", "dc/dd7/a14137" ],
+    [ "npc_tapoke_slim_jahn", "d6/d38/a14133.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d6/d38/a14133.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

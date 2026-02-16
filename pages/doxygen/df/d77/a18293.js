@@ -1,6 +1,6 @@
 var a18293 =
 [
-    [ "npc_icc_lk_checktargetAI", "df/da6/a18297.html", "df/da6/a18297" ],
-    [ "npc_icc_lk_checktarget", "df/d77/a18293.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "df/d77/a18293.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_big_oozeAI", "df/da6/a18297.html", "df/da6/a18297" ],
+    [ "npc_big_ooze", "df/d77/a18293.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "df/d77/a18293.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

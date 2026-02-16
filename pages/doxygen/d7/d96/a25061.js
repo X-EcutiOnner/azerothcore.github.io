@@ -1,9 +1,7 @@
 var a25061 =
 [
-    [ "PrepareAuraScript", "d7/d96/a25061.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "d7/d96/a25061.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "d7/d96/a25061.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "d7/d96/a25061.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "d7/d96/a25061.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "d7/d96/a25061.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "OnApply", "d7/d96/a25061.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d7/d96/a25061.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d7/d96/a25061.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d7/d96/a25061.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

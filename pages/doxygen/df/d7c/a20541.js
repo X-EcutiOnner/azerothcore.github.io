@@ -1,8 +1,10 @@
 var a20541 =
 [
-    [ "boss_thorim_pillarAI", "df/d7c/a20541.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "df/d7c/a20541.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "df/d7c/a20541.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "df/d7c/a20541.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "df/d7c/a20541.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "npc_ulduar_harpoonfirestate", "df/d7c/a20541.html#a2456fbee16367a524f26873da99247e8", null ],
+    [ "GetData", "df/d7c/a20541.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
+    [ "GetHarpoonGunIdForThisHFS", "df/d7c/a20541.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
+    [ "Reset", "df/d7c/a20541.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
+    [ "SetData", "df/d7c/a20541.html#a338c6cb2be0e05726f372344fdc2b436", null ],
+    [ "pInstance", "df/d7c/a20541.html#aee0914001b38be87976cd44b6bbaf276", null ],
+    [ "repairPoints", "df/d7c/a20541.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
 ];

@@ -1,6 +1,6 @@
 var a18865 =
 [
-    [ "boss_faerlinaAI", "d9/d29/a18869.html", "d9/d29/a18869" ],
-    [ "boss_faerlina", "d3/d8c/a18865.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d3/d8c/a18865.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "HandleScript", "d3/d8c/a18865.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d3/d8c/a18865.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d3/d8c/a18865.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

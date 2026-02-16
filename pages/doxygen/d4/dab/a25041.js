@@ -1,6 +1,7 @@
 var a25041 =
 [
-    [ "HandleDummy", "d4/dab/a25041.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "d4/dab/a25041.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "d4/dab/a25041.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "HandleEffectPeriodic", "d4/dab/a25041.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d4/dab/a25041.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d4/dab/a25041.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d4/dab/a25041.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

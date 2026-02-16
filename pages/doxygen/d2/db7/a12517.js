@@ -1,12 +1,5 @@
 var a12517 =
 [
-    [ "BoardCell", "d2/db7/a12517.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d2/db7/a12517.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d2/db7/a12517.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d2/db7/a12517.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d2/db7/a12517.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d2/db7/a12517.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d2/db7/a12517.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d2/db7/a12517.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d2/db7/a12517.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "at_dragonspire_hall", "d2/db7/a12517.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d2/db7/a12517.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

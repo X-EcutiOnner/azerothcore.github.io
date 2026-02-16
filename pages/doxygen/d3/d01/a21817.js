@@ -1,7 +1,7 @@
 var a21817 =
 [
-    [ "HandleScriptEffect", "d3/d01/a21817.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d3/d01/a21817.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d3/d01/a21817.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d3/d01/a21817.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_rodin_lightning_enabler", "d3/d01/a21817.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "d3/d01/a21817.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "d3/d01/a21817.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "d3/d01/a21817.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

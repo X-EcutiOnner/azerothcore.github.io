@@ -1,8 +1,8 @@
 var a04929 =
 [
-    [ "AreaInfo", "d0/d93/a04933.html", "d0/d93/a04933" ],
-    [ "LiquidInfo", "dc/da2/a04937.html", "dc/da2/a04937" ],
-    [ "areaInfo", "dd/d0d/a04929.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
-    [ "floorZ", "dd/d0d/a04929.html#af7c8710b5d296c1d792b4fc34302278f", null ],
-    [ "liquidInfo", "dd/d0d/a04929.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "da/d8f/a04930.html", [
+      [ "_weatherData", "da/d8f/a04930.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    ] ],
+    [ "GetWeatherData", "d4/d06/a04843.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d4/d06/a04843.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

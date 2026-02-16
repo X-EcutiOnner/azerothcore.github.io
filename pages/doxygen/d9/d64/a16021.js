@@ -1,10 +1,8 @@
 var a16021 =
 [
-    [ "spell_halion_combustion_consumption_aura", "d9/d64/a16021.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "d9/d64/a16021.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "d9/d64/a16021.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "d9/d64/a16021.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "d9/d64/a16021.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "d9/d64/a16021.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "d9/d64/a16021.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "npc_pluckyAI", "df/d86/a16025.html", "df/d86/a16025" ],
+    [ "npc_plucky", "d9/d64/a16021.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d9/d64/a16021.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d9/d64/a16021.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d9/d64/a16021.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

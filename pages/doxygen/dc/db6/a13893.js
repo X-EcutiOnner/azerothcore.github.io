@@ -1,8 +1,7 @@
 var a13893 =
 [
-    [ "FilterTargets", "dc/db6/a13893.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "dc/db6/a13893.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "dc/db6/a13893.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "dc/db6/a13893.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "dc/db6/a13893.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "npc_eris_hevenfireAI", "d2/d36/a13897.html", "d2/d36/a13897" ],
+    [ "npc_eris_hevenfire", "dc/db6/a13893.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "dc/db6/a13893.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "dc/db6/a13893.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

@@ -1,7 +1,6 @@
 var a21917 =
 [
-    [ "npc_Apothecary_HanesAI", "da/d04/a21921.html", "da/d04/a21921" ],
-    [ "npc_apothecary_hanes", "dd/d0c/a21917.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "dd/d0c/a21917.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "dd/d0c/a21917.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "ChangeSummonPos", "dd/d0c/a21917.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "dd/d0c/a21917.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "dd/d0c/a21917.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

@@ -1,6 +1,6 @@
 var a08649 =
 [
-    [ "SplineHandler", "d2/d39/a08649.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
-    [ "operator()", "d2/d39/a08649.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
-    [ "_unit", "d2/d39/a08649.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
+    [ "PlayerClassLevelInfo", "d2/d39/a08649.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "d2/d39/a08649.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "d2/d39/a08649.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

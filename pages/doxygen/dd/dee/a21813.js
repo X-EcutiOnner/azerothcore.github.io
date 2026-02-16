@@ -1,8 +1,6 @@
 var a21813 =
 [
-    [ "npc_ravenous_worgAI", "dd/dee/a21813.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "dd/dee/a21813.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "dd/dee/a21813.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "dd/dee/a21813.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "dd/dee/a21813.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_razael_and_lyana", "dd/dee/a21813.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "dd/dee/a21813.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "dd/dee/a21813.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

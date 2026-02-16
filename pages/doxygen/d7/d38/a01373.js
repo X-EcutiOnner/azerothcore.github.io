@@ -1,9 +1,6 @@
 var a01373 =
 [
-    [ "DatabaseScript", "df/d30/a10392.html", "df/d30/a10392" ],
-    [ "DatabaseHook", "d7/d38/a01373.html#a5f7dd71299279ad5a845d4d4030e707e", [
-      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d7/d38/a01373.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
-      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d7/d38/a01373.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
-      [ "DATABASEHOOK_END", "d7/d38/a01373.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
-    ] ]
+    [ "clearAcceptTradeMode", "d7/d38/a01373.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d7/d38/a01373.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d7/d38/a01373.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

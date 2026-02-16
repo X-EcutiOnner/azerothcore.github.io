@@ -1,8 +1,20 @@
 var a14409 =
 [
-    [ "CheckCast", "d3/dc2/a14409.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d3/dc2/a14409.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d3/dc2/a14409.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d3/dc2/a14409.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d3/dc2/a14409.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "boss_mandokirAI", "d3/dc2/a14409.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "d3/dc2/a14409.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "d3/dc2/a14409.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "d3/dc2/a14409.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "d3/dc2/a14409.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "d3/dc2/a14409.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "d3/dc2/a14409.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "d3/dc2/a14409.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "d3/dc2/a14409.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "d3/dc2/a14409.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "d3/dc2/a14409.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "d3/dc2/a14409.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
+    [ "UpdateAI", "d3/dc2/a14409.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "d3/dc2/a14409.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "d3/dc2/a14409.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "d3/dc2/a14409.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "d3/dc2/a14409.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

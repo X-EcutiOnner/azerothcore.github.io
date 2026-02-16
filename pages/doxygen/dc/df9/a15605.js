@@ -1,7 +1,7 @@
 var a15605 =
 [
-    [ "npc_ringoAI", "da/dec/a15609.html", "da/dec/a15609" ],
-    [ "npc_ringo", "dc/df9/a15605.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "dc/df9/a15605.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "dc/df9/a15605.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_vekniss_stinger", "dc/df9/a15605.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "dc/df9/a15605.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "dc/df9/a15605.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "dc/df9/a15605.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

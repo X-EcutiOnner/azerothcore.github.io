@@ -1,5 +1,6 @@
 var a12753 =
 [
-    [ "boss_eramas_brightblaze", "da/d97/a12753.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "da/d97/a12753.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "boss_gehennasAI", "d3/d44/a12757.html", "d3/d44/a12757" ],
+    [ "boss_gehennas", "da/d97/a12753.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
+    [ "GetAI", "da/d97/a12753.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
 ];

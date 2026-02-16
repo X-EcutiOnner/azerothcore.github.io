@@ -1,9 +1,19 @@
 var a10865 =
 [
-    [ "TotemCreated", "db/d82/a10865.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "db/d82/a10865.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "db/d82/a10865.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "db/d82/a10865.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "db/d82/a10865.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "db/d82/a10865.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "GuildBankSwapItems", "db/d82/a10865.html#ab335b2ce30db878b41fa3a61953d7d60", null ],
+    [ "Read", "db/d82/a10865.html#a3f64634235beeabb9cee055926e6260a", null ],
+    [ "AutoStore", "db/d82/a10865.html#aa9eba5c523f7318b2c5e1fa09032920f", null ],
+    [ "Banker", "db/d82/a10865.html#a464b37b7cb45a474531662a5032728e6", null ],
+    [ "BankItemCount", "db/d82/a10865.html#af11a90a704181b7ed9d823367daf8dc9", null ],
+    [ "BankOnly", "db/d82/a10865.html#a2078c50c82bb7b889575da516108f16d", null ],
+    [ "BankSlot", "db/d82/a10865.html#a9250ac77819b5ad0be64507d890723c3", null ],
+    [ "BankSlot1", "db/d82/a10865.html#ae1e39a84d20fe752311e839384ffdf47", null ],
+    [ "BankTab", "db/d82/a10865.html#a39134b0defcdea989bf034decf6001e3", null ],
+    [ "BankTab1", "db/d82/a10865.html#a714d47cb3f39425c80094ee9d7f20a12", null ],
+    [ "ContainerItemSlot", "db/d82/a10865.html#a2d4830a216f616646e1119d7282c0f94", null ],
+    [ "ContainerSlot", "db/d82/a10865.html#a0032741b343e3c5a05a8ca30e46126ee", null ],
+    [ "ItemID", "db/d82/a10865.html#a6c231ac64ec02cb360bdd8bf88e134b5", null ],
+    [ "ItemID1", "db/d82/a10865.html#adc987aa11525cb48a9e5e9d789fe47bd", null ],
+    [ "StackCount", "db/d82/a10865.html#af4ce1f211586bd988ec884820038e049", null ],
+    [ "ToSlot", "db/d82/a10865.html#a0294b1260e1b90386b9096e08f9f7838", null ]
 ];

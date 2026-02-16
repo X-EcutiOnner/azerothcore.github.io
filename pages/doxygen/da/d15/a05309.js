@@ -1,4 +1,5 @@
 var a05309 =
 [
-    [ "InvalidAppenderArgsException", "da/d15/a05309.html#a5cfc42ea2456b9c7d60f06a1d469f1ae", null ]
+    [ "~Permissible", "da/d15/a05309.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "da/d15/a05309.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

@@ -1,12 +1,12 @@
 var a01976 =
 [
-    [ "ACScriptName", "d9/da1/a01976.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "d9/da1/a01976.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "d9/da1/a01976.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "d9/da1/a01976.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d9/da1/a01976.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "d9/da1/a01976.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
-    ] ],
-    [ "GetAuchenaiCryptsAI", "d9/da1/a01976.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "d9/da1/a01976.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "Escort_Waypoint", "d1/d40/a06329.html", "d1/d40/a06329" ],
+    [ "npc_escortAI", "d8/d3c/a06333.html", "d8/d3c/a06333" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "d9/da1/a01976.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "d9/da1/a01976.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "d9/da1/a01976.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "d9/da1/a01976.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "d9/da1/a01976.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "d9/da1/a01976.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

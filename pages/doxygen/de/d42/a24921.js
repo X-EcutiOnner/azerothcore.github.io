@@ -1,7 +1,7 @@
 var a24921 =
 [
-    [ "HandleScript", "de/d42/a24921.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
-    [ "PrepareSpellScript", "de/d42/a24921.html#ad511986b26dccd1be8206f01458c2b40", null ],
-    [ "Register", "de/d42/a24921.html#aa8ea297d751913def150dc1e29d37664", null ],
-    [ "Validate", "de/d42/a24921.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
+    [ "HandleDummy", "de/d42/a24921.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
+    [ "Load", "de/d42/a24921.html#a31075533c24011797bd0f99dce5e8330", null ],
+    [ "PrepareSpellScript", "de/d42/a24921.html#abf0acc8765f6e02674b8e93aca575a98", null ],
+    [ "Register", "de/d42/a24921.html#ad1bd05a154b506424954ef879e5b9fba", null ]
 ];

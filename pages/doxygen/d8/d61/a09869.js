@@ -1,10 +1,8 @@
 var a09869 =
 [
-    [ "CreateWorldPacket", "d8/d61/a09869.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d8/d61/a09869.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d8/d61/a09869.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d8/d61/a09869.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d8/d61/a09869.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d8/d61/a09869.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d8/d61/a09869.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "ServerMailCondition", "d8/d61/a09869.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "d8/d61/a09869.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "d8/d61/a09869.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "d8/d61/a09869.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "d8/d61/a09869.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

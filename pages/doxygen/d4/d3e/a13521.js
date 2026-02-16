@@ -1,6 +1,13 @@
 var a13521 =
 [
-    [ "npc_greengill_slaveAI", "dc/d5d/a13525.html", "dc/d5d/a13525" ],
-    [ "npc_greengill_slave", "d4/d3e/a13521.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "d4/d3e/a13521.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d4/d3e/a13521.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "d4/d3e/a13521.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "d4/d3e/a13521.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "d4/d3e/a13521.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "d4/d3e/a13521.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "d4/d3e/a13521.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "d4/d3e/a13521.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "d4/d3e/a13521.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "d4/d3e/a13521.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "d4/d3e/a13521.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

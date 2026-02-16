@@ -1,6 +1,6 @@
 var a19097 =
 [
-    [ "DespawnTime", "db/ddd/a19097.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "db/ddd/a19097.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "db/ddd/a19097.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d1/db2/a19101.html", "d1/db2/a19101" ],
+    [ "npc_icc_skybreaker_hierophant", "db/ddd/a19097.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "db/ddd/a19097.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

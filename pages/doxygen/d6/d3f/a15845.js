@@ -1,7 +1,6 @@
 var a15845 =
 [
-    [ "OnRemove", "d6/d3f/a15845.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d6/d3f/a15845.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d6/d3f/a15845.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d6/d3f/a15845.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "npc_omenAI", "d9/d00/a15849.html", "d9/d00/a15849" ],
+    [ "npc_omen", "d6/d3f/a15845.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d6/d3f/a15845.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

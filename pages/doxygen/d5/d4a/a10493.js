@@ -1,6 +1,6 @@
 var a10493 =
 [
-    [ "SetSheathed", "d5/d4a/a10493.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d5/d4a/a10493.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d5/d4a/a10493.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "OutdoorPvPScript", "d5/d4a/a10493.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "d5/d4a/a10493.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "d5/d4a/a10493.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

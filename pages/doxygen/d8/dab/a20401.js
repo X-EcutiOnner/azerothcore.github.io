@@ -1,9 +1,10 @@
 var a20401 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d8/dab/a20401.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d8/dab/a20401.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d8/dab/a20401.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d8/dab/a20401.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d8/dab/a20401.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d8/dab/a20401.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "boss_kologarn_eyebeam", "d8/dab/a20401.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "d8/dab/a20401.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "d8/dab/a20401.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "d8/dab/a20401.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "d8/dab/a20401.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_timer", "d8/dab/a20401.html#a0d324467d4d02d7bd204f66fcadc52ea", null ],
+    [ "m_pInstance", "d8/dab/a20401.html#a3725453f7a0d7b307cdbb9b63d990e5b", null ]
 ];

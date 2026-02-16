@@ -1,6 +1,6 @@
 var a12345 =
 [
-    [ "boss_gehennasAI", "d2/dee/a12345.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d2/dee/a12345.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d2/dee/a12345.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "boss_gloomrel", "d2/dee/a12345.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d2/dee/a12345.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d2/dee/a12345.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

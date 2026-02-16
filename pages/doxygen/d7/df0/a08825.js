@@ -1,8 +1,11 @@
 var a08825 =
 [
-    [ "GameObjectListSearcher", "d7/df0/a08825.html#a28282af745f658ad38a9492acc22b194", null ],
-    [ "Visit", "d7/df0/a08825.html#a1dea8a4d12e916ae64f4d1129ea6d185", null ],
-    [ "Visit", "d7/df0/a08825.html#a82522912fde5ea92f70fa76bb127504c", null ],
-    [ "i_check", "d7/df0/a08825.html#a85a67a285acadc451978e134d80180e7", null ],
-    [ "i_phaseMask", "d7/df0/a08825.html#aba5302d04dad7dfe3ed8dce1ec87bfbd", null ]
+    [ "DispelInfo", "d7/df0/a08825.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d7/df0/a08825.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d7/df0/a08825.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d7/df0/a08825.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d7/df0/a08825.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d7/df0/a08825.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d7/df0/a08825.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d7/df0/a08825.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

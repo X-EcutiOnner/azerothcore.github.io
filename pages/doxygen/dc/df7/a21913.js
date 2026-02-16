@@ -1,12 +1,10 @@
 var a21913 =
 [
-    [ "npc_your_inner_turmoilAI", "dc/df7/a21913.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
-    [ "DamageTaken", "dc/df7/a21913.html#a0e14a306db46e817e6d8f7a358519f83", null ],
-    [ "JustDied", "dc/df7/a21913.html#a142359bf1661542d044a7d27b764832b", null ],
-    [ "Reset", "dc/df7/a21913.html#a4e17e9642ec11712652f41495974b716", null ],
-    [ "setphase", "dc/df7/a21913.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
-    [ "UpdateAI", "dc/df7/a21913.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
-    [ "health50", "dc/df7/a21913.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
-    [ "phase", "dc/df7/a21913.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
-    [ "timer", "dc/df7/a21913.html#af2c272de51aa15a41af9837f99256a62", null ]
+    [ "npc_infra_green_bomber_genericAI", "dc/df7/a21913.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "dc/df7/a21913.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "dc/df7/a21913.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "dc/df7/a21913.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "dc/df7/a21913.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "dc/df7/a21913.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "dc/df7/a21913.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

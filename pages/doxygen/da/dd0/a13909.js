@@ -1,6 +1,6 @@
 var a13909 =
 [
-    [ "FilterTargets", "da/dd0/a13909.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "da/dd0/a13909.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "da/dd0/a13909.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "npc_augustus_the_touched", "da/dd0/a13909.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "da/dd0/a13909.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "da/dd0/a13909.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

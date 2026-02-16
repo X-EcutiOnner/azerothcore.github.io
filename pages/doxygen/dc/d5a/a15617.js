@@ -1,6 +1,8 @@
 var a15617 =
 [
-    [ "SayerEntry", "dc/d5a/a15617.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "dc/d5a/a15617.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "dc/d5a/a15617.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_obsidian_nullifier", "dc/d5a/a15617.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "dc/d5a/a15617.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "dc/d5a/a15617.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "dc/d5a/a15617.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "dc/d5a/a15617.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

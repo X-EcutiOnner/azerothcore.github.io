@@ -1,7 +1,6 @@
 var a16285 =
 [
-    [ "npc_toc_druidAI", "d7/dd3/a16285.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d7/dd3/a16285.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d7/dd3/a16285.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d7/dd3/a16285.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d7/dd3/a16285.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d7/dd3/a16285.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d7/dd3/a16285.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

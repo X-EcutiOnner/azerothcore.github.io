@@ -1,13 +1,7 @@
 var a09709 =
 [
-    [ "ServerMail", "db/d7b/a09709.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
-    [ "active", "db/d7b/a09709.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
-    [ "body", "db/d7b/a09709.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
-    [ "conditions", "db/d7b/a09709.html#a818b993f72f82a022277e1c8d9160011", null ],
-    [ "id", "db/d7b/a09709.html#a6b47994eff9201a6a75f8c621b64716c", null ],
-    [ "itemsA", "db/d7b/a09709.html#a0992466672427c1d24c686bd8fa39378", null ],
-    [ "itemsH", "db/d7b/a09709.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
-    [ "moneyA", "db/d7b/a09709.html#a6a84ca583beef891422f67bef7919c47", null ],
-    [ "moneyH", "db/d7b/a09709.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
-    [ "subject", "db/d7b/a09709.html#a246e499c69c57a436aac4c039ea37d31", null ]
+    [ "AddonHandler", "db/d7b/a09709.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "db/d7b/a09709.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "db/d7b/a09709.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "db/d7b/a09709.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

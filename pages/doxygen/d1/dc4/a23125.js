@@ -1,5 +1,8 @@
 var a23125 =
 [
-    [ "go_strange_pool", "d1/dc4/a23125.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d1/dc4/a23125.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "FilterTargets", "d1/dc4/a23125.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "d1/dc4/a23125.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "d1/dc4/a23125.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "d1/dc4/a23125.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "d1/dc4/a23125.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

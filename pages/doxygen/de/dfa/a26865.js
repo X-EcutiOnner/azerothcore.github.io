@@ -1,6 +1,5 @@
 var a26865 =
 [
-    [ "CalculateAmount", "de/dfa/a26865.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "de/dfa/a26865.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "de/dfa/a26865.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "achievement_bg_control_all_nodes", "de/dfa/a26865.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "de/dfa/a26865.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

@@ -1,5 +1,8 @@
 var a07201 =
 [
-    [ "~ArenaSeasonTeamRewarder", "d8/d9c/a07201.html#a8f7eb844a39cd5213134ef4f4d4b1fde", null ],
-    [ "RewardTeamWithRewardGroup", "d8/d9c/a07201.html#a2beaf893f95e16c4d388ad048885848b", null ]
+    [ "faction", "d8/d9c/a07201.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "d8/d9c/a07201.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "d8/d9c/a07201.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "d8/d9c/a07201.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "d8/d9c/a07201.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

@@ -1,6 +1,6 @@
 var a27021 =
 [
-    [ "npc_dream_fogAI", "da/dd0/a27025.html", "da/dd0/a27025" ],
-    [ "npc_dream_fog", "d1/dbb/a27021.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d1/dbb/a27021.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "boss_taerarAI", "da/dd0/a27025.html", "da/dd0/a27025" ],
+    [ "boss_taerar", "d1/dbb/a27021.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d1/dbb/a27021.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

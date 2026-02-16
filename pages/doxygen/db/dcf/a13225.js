@@ -1,7 +1,5 @@
 var a13225 =
 [
-    [ "boss_kalec", "db/dcf/a13225.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "db/dcf/a13225.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "db/dcf/a13225.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "db/dcf/a13225.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "boss_apoko", "db/dcf/a13225.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "db/dcf/a13225.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

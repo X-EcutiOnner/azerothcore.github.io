@@ -1,6 +1,7 @@
 var a24397 =
 [
-    [ "PrepareSpellScript", "de/df5/a24397.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "de/df5/a24397.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "de/df5/a24397.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "CalcDamage", "de/df5/a24397.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "de/df5/a24397.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "de/df5/a24397.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "de/df5/a24397.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

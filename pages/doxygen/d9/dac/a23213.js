@@ -1,6 +1,6 @@
 var a23213 =
 [
-    [ "HandleScript", "d9/dac/a23213.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "d9/dac/a23213.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "d9/dac/a23213.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "HandlePeriodic", "d9/dac/a23213.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d9/dac/a23213.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d9/dac/a23213.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

@@ -1,8 +1,10 @@
 var a16693 =
 [
-    [ "npc_fos_leaderAI", "d8/d72/a16697.html", "d8/d72/a16697" ],
-    [ "npc_fos_leader", "de/d47/a16693.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "de/d47/a16693.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "de/d47/a16693.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "de/d47/a16693.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "npc_nerubian_burrowerAI", "de/d47/a16693.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "de/d47/a16693.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "de/d47/a16693.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "de/d47/a16693.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "de/d47/a16693.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "de/d47/a16693.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "de/d47/a16693.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

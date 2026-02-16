@@ -1,11 +1,10 @@
 var a12025 =
 [
-    [ "npc_blackhand_incarceratorAI", "d5/d48/a12025.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "d5/d48/a12025.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "d5/d48/a12025.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "d5/d48/a12025.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "d5/d48/a12025.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "d5/d48/a12025.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "d5/d48/a12025.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "d5/d48/a12025.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "lfg_commandscript", "d5/d48/a12025.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "d5/d48/a12025.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "d5/d48/a12025.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgGroupInfoCommand", "d5/d48/a12025.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "d5/d48/a12025.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "d5/d48/a12025.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "d5/d48/a12025.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

@@ -1,5 +1,5 @@
 var a26961 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d8/dbd/a26961.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d8/dbd/a26961.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "AreaTrigger_at_nats_landing", "d8/dbd/a26961.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d8/dbd/a26961.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

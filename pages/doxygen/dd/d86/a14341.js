@@ -1,8 +1,5 @@
 var a14341 =
 [
-    [ "OnApply", "dd/d86/a14341.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "dd/d86/a14341.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "dd/d86/a14341.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "dd/d86/a14341.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "dd/d86/a14341.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "dd/d86/a14341.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "dd/d86/a14341.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

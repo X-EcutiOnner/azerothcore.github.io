@@ -1,5 +1,6 @@
 var a22901 =
 [
-    [ "npc_vengeful_spirit", "dd/dbb/a22901.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "dd/dbb/a22901.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "boss_doomlordkazzakAI", "d8/d9e/a22905.html", "d8/d9e/a22905" ],
+    [ "boss_doomlord_kazzak", "dd/dbb/a22901.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "dd/dbb/a22901.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

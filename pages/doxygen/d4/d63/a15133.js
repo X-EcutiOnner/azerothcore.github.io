@@ -1,6 +1,6 @@
 var a15133 =
 [
-    [ "HandleDummy", "d4/d63/a15133.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d4/d63/a15133.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d4/d63/a15133.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "npc_cos_stratholme_citizienAI", "d7/db2/a15137.html", "d7/db2/a15137" ],
+    [ "npc_cos_stratholme_citizien", "d4/d63/a15133.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d4/d63/a15133.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

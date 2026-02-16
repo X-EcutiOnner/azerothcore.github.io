@@ -1,9 +1,8 @@
 var a08821 =
 [
-    [ "GameObjectLastSearcher", "d6/db6/a08821.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "d6/db6/a08821.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "d6/db6/a08821.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "d6/db6/a08821.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "d6/db6/a08821.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "d6/db6/a08821.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "DiminishingReturn", "d6/db6/a08821.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d6/db6/a08821.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d6/db6/a08821.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d6/db6/a08821.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d6/db6/a08821.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

@@ -1,6 +1,5 @@
 var a09861 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "dd/d42/a09861.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "dd/d42/a09861.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "dd/d42/a09861.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "item_guid", "dd/d42/a09861.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
+    [ "item_template", "dd/d42/a09861.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
 ];

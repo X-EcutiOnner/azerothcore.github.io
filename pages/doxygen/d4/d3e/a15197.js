@@ -1,6 +1,6 @@
 var a15197 =
 [
-    [ "npc_depth_chargeAI", "d7/d20/a15201.html", "d7/d20/a15201" ],
-    [ "npc_depth_charge", "d4/d3e/a15197.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
-    [ "GetAI", "d4/d3e/a15197.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d7/d20/a15201.html", "d7/d20/a15201" ],
+    [ "instance_the_black_morass", "d4/d3e/a15197.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d4/d3e/a15197.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

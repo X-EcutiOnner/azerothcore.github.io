@@ -1,6 +1,7 @@
 var a17697 =
 [
-    [ "npc_bone_spikeAI", "dc/d0c/a17701.html", "dc/d0c/a17701" ],
-    [ "npc_bone_spike", "db/d9b/a17697.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "db/d9b/a17697.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "PeriodicTick", "db/d9b/a17697.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "db/d9b/a17697.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "db/d9b/a17697.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "db/d9b/a17697.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

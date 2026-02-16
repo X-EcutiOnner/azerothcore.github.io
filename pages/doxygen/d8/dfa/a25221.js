@@ -1,7 +1,6 @@
 var a25221 =
 [
-    [ "HandleScript", "d8/dfa/a25221.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "d8/dfa/a25221.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "d8/dfa/a25221.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "d8/dfa/a25221.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "PrepareAuraScript", "d8/dfa/a25221.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d8/dfa/a25221.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d8/dfa/a25221.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

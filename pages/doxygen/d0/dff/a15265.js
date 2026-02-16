@@ -1,6 +1,6 @@
 var a15265 =
 [
-    [ "npc_murkdeepAI", "db/dd4/a15269.html", "db/dd4/a15269" ],
-    [ "npc_murkdeep", "d0/dff/a15265.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d0/dff/a15265.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "db/dd4/a15269.html", "db/dd4/a15269" ],
+    [ "instance_ragefire_chasm", "d0/dff/a15265.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d0/dff/a15265.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

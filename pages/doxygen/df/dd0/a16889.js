@@ -1,18 +1,14 @@
 var a16889 =
 [
-    [ "boss_garfrostAI", "df/dd0/a16889.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
-    [ "DamageTaken", "df/dd0/a16889.html#a7a033f54f2c994c74b7125fb549af513", null ],
-    [ "EnterEvadeMode", "df/dd0/a16889.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
-    [ "JustDied", "df/dd0/a16889.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
-    [ "JustEngagedWith", "df/dd0/a16889.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
-    [ "KilledUnit", "df/dd0/a16889.html#af3751410e925a20c21b282d1b2de3bf3", null ],
-    [ "MovementInform", "df/dd0/a16889.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
-    [ "Reset", "df/dd0/a16889.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
-    [ "SetData", "df/dd0/a16889.html#a3563e70e731836857837b1d4ac135130", null ],
-    [ "SpellHitTarget", "df/dd0/a16889.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
-    [ "UpdateAI", "df/dd0/a16889.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
-    [ "bCanSayBoulderHit", "df/dd0/a16889.html#a587196314c341334418ea19c7f9ea597", null ],
-    [ "events", "df/dd0/a16889.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
-    [ "phase", "df/dd0/a16889.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
-    [ "pInstance", "df/dd0/a16889.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
+    [ "npc_snobold_vassalAI", "df/dd0/a16889.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "df/dd0/a16889.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "df/dd0/a16889.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "df/dd0/a16889.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "df/dd0/a16889.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "df/dd0/a16889.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "df/dd0/a16889.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "df/dd0/a16889.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "df/dd0/a16889.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "df/dd0/a16889.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "df/dd0/a16889.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

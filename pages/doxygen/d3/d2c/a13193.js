@@ -1,16 +1,14 @@
 var a13193 =
 [
-    [ "boss_felmyst", "d3/d2c/a13193.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "InitializeAI", "d3/d2c/a13193.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
-    [ "JustDied", "d3/d2c/a13193.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
-    [ "JustEngagedWith", "d3/d2c/a13193.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
-    [ "KilledUnit", "d3/d2c/a13193.html#a0233ebbcbb21d100425ac76223e839be", null ],
-    [ "MovementInform", "d3/d2c/a13193.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
-    [ "Reset", "d3/d2c/a13193.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleGroundAbilities", "d3/d2c/a13193.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
-    [ "SpellHitTarget", "d3/d2c/a13193.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
-    [ "StartIntro", "d3/d2c/a13193.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "d3/d2c/a13193.html#a0e429d8cf49946c0232b9c405c340356", null ],
-    [ "_currentLane", "d3/d2c/a13193.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
-    [ "_strafeCount", "d3/d2c/a13193.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
+    [ "boss_priestess_delrissa", "d3/d2c/a13193.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d3/d2c/a13193.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d3/d2c/a13193.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d3/d2c/a13193.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d3/d2c/a13193.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d3/d2c/a13193.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d3/d2c/a13193.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d3/d2c/a13193.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d3/d2c/a13193.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d3/d2c/a13193.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d3/d2c/a13193.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

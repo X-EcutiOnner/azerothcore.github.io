@@ -1,7 +1,9 @@
 var a28449 =
 [
-    [ "HandleDummy", "d9/dee/a28449.html#a6990bc24605167d38772f391aa2a5376", null ],
-    [ "PrepareSpellScript", "d9/dee/a28449.html#af85da0790eb36b91266ffa45888068d6", null ],
-    [ "Register", "d9/dee/a28449.html#a619dab878b3d6e332a15d772dd148e26", null ],
-    [ "Validate", "d9/dee/a28449.html#a5a39713deabac73334442e1bdeb00aad", null ]
+    [ "SetUp", "d9/dee/a28449.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "d9/dee/a28449.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "d9/dee/a28449.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d9/dee/a28449.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "d9/dee/a28449.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "d9/dee/a28449.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

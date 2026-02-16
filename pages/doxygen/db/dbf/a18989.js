@@ -1,15 +1,6 @@
 var a18989 =
 [
-    [ "boss_loathebAI", "db/dbf/a18989.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "db/dbf/a18989.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "db/dbf/a18989.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "db/dbf/a18989.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "db/dbf/a18989.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "db/dbf/a18989.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "db/dbf/a18989.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "db/dbf/a18989.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "db/dbf/a18989.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "db/dbf/a18989.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "db/dbf/a18989.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "db/dbf/a18989.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "npc_frostwing_vrykulAI", "d6/d3f/a18993.html", "d6/d3f/a18993" ],
+    [ "npc_frostwing_vrykul", "db/dbf/a18989.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "db/dbf/a18989.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

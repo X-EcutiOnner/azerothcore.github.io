@@ -1,5 +1,14 @@
 var a20297 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d8/dc2/a20297.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d8/dc2/a20297.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "npc_ulduar_hodir_mage", "d8/dc2/a20297.html#a0d307cd24431bdc2d8e4a20eca3b74e5", null ],
+    [ "AttackStart", "d8/dc2/a20297.html#aa486b501aefeb70beb325feece5ec34c", null ],
+    [ "CanAIAttack", "d8/dc2/a20297.html#afe11d15da8769f50db470460cf759c2d", null ],
+    [ "EnterEvadeMode", "d8/dc2/a20297.html#a7c942a1ad420731a6e57ede7720d164b", null ],
+    [ "JustDied", "d8/dc2/a20297.html#a411b6a3b456fb216f96a9426a13e3369", null ],
+    [ "MoveInLineOfSight", "d8/dc2/a20297.html#aab476b5a585b30d429bdcae64a18424c", null ],
+    [ "ScheduleAbilities", "d8/dc2/a20297.html#add40de5492e4ec9bd19260669b4bbb22", null ],
+    [ "SpellHit", "d8/dc2/a20297.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
+    [ "UpdateAI", "d8/dc2/a20297.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
+    [ "events", "d8/dc2/a20297.html#a8c89348ce80bc9e4ac72dec41855db8a", null ],
+    [ "pInstance", "d8/dc2/a20297.html#af7b337ac852b19ea3d866c5ca2623873", null ]
 ];

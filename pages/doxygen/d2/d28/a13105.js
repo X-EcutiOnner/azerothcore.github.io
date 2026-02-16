@@ -1,14 +1,13 @@
 var a13105 =
 [
-    [ "boss_sothos", "d2/d28/a13105.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
-    [ "DoAction", "d2/d28/a13105.html#a1433dddccb71896016bc014bdf92b453", null ],
-    [ "IsSummonedBy", "d2/d28/a13105.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
-    [ "JustDied", "d2/d28/a13105.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
-    [ "JustEngagedWith", "d2/d28/a13105.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
-    [ "Reset", "d2/d28/a13105.html#a042578148cae9a0b9befb7c5747a8e99", null ],
-    [ "UpdateAI", "d2/d28/a13105.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
-    [ "_jarienDied", "d2/d28/a13105.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
-    [ "_phase", "d2/d28/a13105.html#a5719cd4a85527c256fb7f048be6489f7", null ],
-    [ "_scheduler", "d2/d28/a13105.html#a5e18256858cd594b45628508500e5f1a", null ],
-    [ "_talked", "d2/d28/a13105.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
+    [ "boss_crone", "d2/d28/a13105.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "d2/d28/a13105.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "d2/d28/a13105.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "d2/d28/a13105.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "d2/d28/a13105.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "d2/d28/a13105.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "d2/d28/a13105.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "d2/d28/a13105.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "d2/d28/a13105.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "d2/d28/a13105.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

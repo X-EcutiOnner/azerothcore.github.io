@@ -1,12 +1,8 @@
 var a10925 =
 [
-    [ "PacketLog", "d5/d93/a10925.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "d5/d93/a10925.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "d5/d93/a10925.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "d5/d93/a10925.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "d5/d93/a10925.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "d5/d93/a10925.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "d5/d93/a10925.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "d5/d93/a10925.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "d5/d93/a10925.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "SetRaidDifficulty", "d5/d93/a10925.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d5/d93/a10925.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d5/d93/a10925.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d5/d93/a10925.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d5/d93/a10925.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

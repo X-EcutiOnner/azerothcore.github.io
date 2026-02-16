@@ -1,6 +1,6 @@
 var a27493 =
 [
-    [ "npc_garments_of_questsAI", "da/d93/a27497.html", "da/d93/a27497" ],
-    [ "npc_garments_of_quests", "dd/d05/a27493.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dd/d05/a27493.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_locksmith", "dd/d05/a27493.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "dd/d05/a27493.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "dd/d05/a27493.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

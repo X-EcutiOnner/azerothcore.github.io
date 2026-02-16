@@ -1,6 +1,6 @@
 var a24273 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d0/d64/a24277.html", "d0/d64/a24277" ],
-    [ "npc_pet_dk_risen_ally", "dd/d70/a24273.html#a2f568fd9062b2423edcf0ab4e749efc3", null ],
-    [ "GetAI", "dd/d70/a24273.html#a7aca5d410a1a28241943914a0d1c71df", null ]
+    [ "FilterTargets", "dd/d70/a24273.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "dd/d70/a24273.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "dd/d70/a24273.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

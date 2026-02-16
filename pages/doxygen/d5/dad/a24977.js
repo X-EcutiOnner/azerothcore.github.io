@@ -1,8 +1,7 @@
 var a24977 =
 [
-    [ "HandleScript", "d5/dad/a24977.html#af7330c1b586b809c78e0bc080cb92c65", null ],
-    [ "Load", "d5/dad/a24977.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
-    [ "PrepareSpellScript", "d5/dad/a24977.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
-    [ "Register", "d5/dad/a24977.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
-    [ "Validate", "d5/dad/a24977.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
+    [ "PrepareSpellScript", "d5/dad/a24977.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d5/dad/a24977.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d5/dad/a24977.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d5/dad/a24977.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

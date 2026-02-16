@@ -1,6 +1,6 @@
 var a17645 =
 [
-    [ "npc_cult_adherentAI", "dc/d37/a17649.html", "dc/d37/a17649" ],
-    [ "npc_cult_adherent", "d0/dde/a17645.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "d0/dde/a17645.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "AddExtraDamage", "d0/dde/a17645.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d0/dde/a17645.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d0/dde/a17645.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

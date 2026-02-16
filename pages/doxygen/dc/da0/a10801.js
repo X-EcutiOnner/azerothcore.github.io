@@ -1,4 +1,6 @@
 var a10801 =
 [
-    [ "Validate", "dc/da0/a10801.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
+    [ "GuildDemoteMember", "dc/da0/a10801.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "dc/da0/a10801.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "dc/da0/a10801.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

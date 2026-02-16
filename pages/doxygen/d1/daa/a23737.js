@@ -1,5 +1,11 @@
 var a23737 =
 [
-    [ "npc_telonicus", "d1/daa/a23737.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d1/daa/a23737.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "boss_pathaleon_the_calculator", "d1/daa/a23737.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d1/daa/a23737.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d1/daa/a23737.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d1/daa/a23737.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d1/daa/a23737.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d1/daa/a23737.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d1/daa/a23737.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d1/daa/a23737.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

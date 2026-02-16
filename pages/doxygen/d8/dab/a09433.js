@@ -1,9 +1,8 @@
 var a09433 =
 [
-    [ "UnitAuraCheck", "d8/dab/a09433.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d8/dab/a09433.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d8/dab/a09433.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d8/dab/a09433.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d8/dab/a09433.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d8/dab/a09433.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "NearestGameObjectFishingHole", "d8/dab/a09433.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "d8/dab/a09433.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "d8/dab/a09433.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "d8/dab/a09433.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "d8/dab/a09433.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

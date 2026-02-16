@@ -1,6 +1,6 @@
 var a23733 =
 [
-    [ "npc_capernian", "df/d61/a23733.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "df/d61/a23733.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "df/d61/a23733.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "HandlePeriodic", "df/d61/a23733.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "df/d61/a23733.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "df/d61/a23733.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

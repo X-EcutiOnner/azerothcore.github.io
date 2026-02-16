@@ -1,6 +1,6 @@
 var a15929 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "df/dad/a15933.html", "df/dad/a15933" ],
-    [ "npc_baltharus_the_warborn_clone", "d5/d5c/a15929.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d5/d5c/a15929.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "npc_braug_dimspirit", "d5/d5c/a15929.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d5/d5c/a15929.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d5/d5c/a15929.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

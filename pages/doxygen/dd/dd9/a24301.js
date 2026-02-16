@@ -1,9 +1,6 @@
 var a24301 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "dd/dd9/a24301.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "dd/dd9/a24301.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "dd/dd9/a24301.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "dd/dd9/a24301.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "dd/dd9/a24301.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "dd/dd9/a24301.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "PrepareSpellScript", "dd/dd9/a24301.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "dd/dd9/a24301.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "dd/dd9/a24301.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

@@ -1,6 +1,6 @@
 var a05629 =
 [
-    [ "handler", "d9/d36/a05629.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
-    [ "packetSize", "d9/d36/a05629.html#a952f7f7ff3017efa4c3d127baa848785", null ],
-    [ "status", "d9/d36/a05629.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
+    [ "~AsyncProcessResult", "d9/d36/a05629.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "d9/d36/a05629.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "d9/d36/a05629.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

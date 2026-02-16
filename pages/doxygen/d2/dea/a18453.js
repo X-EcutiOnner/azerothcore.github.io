@@ -1,8 +1,7 @@
 var a18453 =
 [
-    [ "FilterTargets", "d2/dea/a18453.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d2/dea/a18453.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d2/dea/a18453.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d2/dea/a18453.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d2/dea/a18453.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "HandleTriggerMissile", "d2/dea/a18453.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d2/dea/a18453.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d2/dea/a18453.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d2/dea/a18453.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

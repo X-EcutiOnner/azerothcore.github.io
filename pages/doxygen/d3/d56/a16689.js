@@ -1,9 +1,6 @@
 var a16689 =
 [
-    [ "HandlePeriodicTick", "d3/d56/a16689.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d3/d56/a16689.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d3/d56/a16689.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d3/d56/a16689.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d3/d56/a16689.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d3/d56/a16689.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "npc_nerubian_burrowerAI", "de/d47/a16693.html", "de/d47/a16693" ],
+    [ "npc_nerubian_burrower", "d3/d56/a16689.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d3/d56/a16689.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

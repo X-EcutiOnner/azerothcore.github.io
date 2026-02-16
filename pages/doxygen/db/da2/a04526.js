@@ -1,10 +1,6 @@
 var a04526 =
 [
-    [ "VMAP::ModelSpawn", "d0/dbf/a05124.html", "d0/dbf/a05124" ],
-    [ "VMAP::ModelInstance", "d8/d2c/a05128.html", "d8/d2c/a05128" ],
-    [ "ModelFlags", "db/da2/a04526.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "db/da2/a04526.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "db/da2/a04526.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "db/da2/a04526.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
-    ] ]
+    [ "event_commandscript", "d6/d82/a11977.html", "d6/d82/a11977" ],
+    [ "EventEntry", "db/da2/a04526.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
+    [ "AddSC_event_commandscript", "db/da2/a04526.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
 ];

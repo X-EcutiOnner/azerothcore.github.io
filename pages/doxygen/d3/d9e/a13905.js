@@ -1,9 +1,11 @@
 var a13905 =
 [
-    [ "boss_hazzarah", "d3/d9e/a13905.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d3/d9e/a13905.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d3/d9e/a13905.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d3/d9e/a13905.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d3/d9e/a13905.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d3/d9e/a13905.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d3/d9e/a13905.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d3/d9e/a13905.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d3/d9e/a13905.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d3/d9e/a13905.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d3/d9e/a13905.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d3/d9e/a13905.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d3/d9e/a13905.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d3/d9e/a13905.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

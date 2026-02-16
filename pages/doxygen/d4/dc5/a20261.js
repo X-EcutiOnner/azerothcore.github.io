@@ -1,7 +1,5 @@
 var a20261 =
 [
-    [ "FilterTargetsInitial", "d4/dc5/a20261.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d4/dc5/a20261.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d4/dc5/a20261.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d4/dc5/a20261.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "achievement_shadowdodger", "d4/dc5/a20261.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "d4/dc5/a20261.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

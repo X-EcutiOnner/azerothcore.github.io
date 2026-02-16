@@ -1,6 +1,8 @@
 var a22057 =
 [
-    [ "npc_artruis_the_hearthlessAI", "d5/d7a/a22061.html", "d5/d7a/a22061" ],
-    [ "npc_artruis_the_hearthless", "de/da4/a22057.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "de/da4/a22057.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "npc_time_lost_proto_drakeAI", "de/da4/a22057.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "de/da4/a22057.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "de/da4/a22057.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "de/da4/a22057.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "de/da4/a22057.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

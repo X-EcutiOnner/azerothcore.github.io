@@ -1,7 +1,9 @@
 var a24949 =
 [
-    [ "HandleEffectApply", "d2/d86/a24949.html#a65ad32ded4246c3469f15b6ab167830e", null ],
-    [ "HandleEffectRemove", "d2/d86/a24949.html#a8aab4a5dab173bd0296843a0c2991142", null ],
-    [ "PrepareAuraScript", "d2/d86/a24949.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
-    [ "Register", "d2/d86/a24949.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
+    [ "PrepareAuraScript", "d2/d86/a24949.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "d2/d86/a24949.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "d2/d86/a24949.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "d2/d86/a24949.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "d2/d86/a24949.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "d2/d86/a24949.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

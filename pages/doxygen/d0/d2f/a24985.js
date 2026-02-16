@@ -1,6 +1,8 @@
 var a24985 =
 [
-    [ "HandleScriptEffect", "d0/d2f/a24985.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
-    [ "PrepareSpellScript", "d0/d2f/a24985.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
-    [ "Register", "d0/d2f/a24985.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
+    [ "CheckCast", "d0/d2f/a24985.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "d0/d2f/a24985.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "d0/d2f/a24985.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "d0/d2f/a24985.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "d0/d2f/a24985.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

@@ -1,7 +1,6 @@
 var a14929 =
 [
-    [ "boss_rajaxx", "df/dbc/a14929.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "df/dbc/a14929.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "df/dbc/a14929.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "df/dbc/a14929.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "HandleScriptEffect", "df/dbc/a14929.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
+    [ "PrepareSpellScript", "df/dbc/a14929.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
+    [ "Register", "df/dbc/a14929.html#aee5d9189b6df318b57e919511a185a99", null ]
 ];

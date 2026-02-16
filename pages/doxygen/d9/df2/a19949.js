@@ -1,6 +1,8 @@
 var a19949 =
 [
-    [ "boss_freya_elder_brightleafAI", "db/d8c/a19953.html", "db/d8c/a19953" ],
-    [ "boss_freya_elder_brightleaf", "d9/df2/a19949.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "d9/df2/a19949.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "HandlePeriodic", "d9/df2/a19949.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d9/df2/a19949.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d9/df2/a19949.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d9/df2/a19949.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d9/df2/a19949.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

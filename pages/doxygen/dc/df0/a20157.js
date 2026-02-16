@@ -1,6 +1,9 @@
 var a20157 =
 [
-    [ "FilterTargets", "dc/df0/a20157.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "dc/df0/a20157.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "dc/df0/a20157.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "Absorb", "dc/df0/a20157.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "dc/df0/a20157.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "dc/df0/a20157.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "dc/df0/a20157.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "dc/df0/a20157.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "dc/df0/a20157.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

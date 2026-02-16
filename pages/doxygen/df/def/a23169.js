@@ -1,6 +1,7 @@
 var a23169 =
 [
-    [ "HandleEffectRemove", "df/def/a23169.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "df/def/a23169.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "df/def/a23169.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "boss_hydromancer_thespia", "df/def/a23169.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "df/def/a23169.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "df/def/a23169.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "df/def/a23169.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

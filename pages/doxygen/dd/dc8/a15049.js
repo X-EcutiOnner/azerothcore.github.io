@@ -1,18 +1,10 @@
 var a15049 =
 [
-    [ "boss_ouro", "dd/dc8/a15049.html#a624700c5010edda9e7880070bd7495d7", null ],
-    [ "CanAIAttack", "dd/dc8/a15049.html#a7b9682b239a2d436069b9e6be1d90648", null ],
-    [ "CastGroundRupture", "dd/dc8/a15049.html#a2b8d88aeb824890a090f3bec544f5de2", null ],
-    [ "DamageTaken", "dd/dc8/a15049.html#aa571cee2fee8a79917f4c63b94a9a1b6", null ],
-    [ "Emerge", "dd/dc8/a15049.html#ac0b0c890f8cec105e6c284f6c1c5dd78", null ],
-    [ "EnterEvadeMode", "dd/dc8/a15049.html#aee5769af48127617d40fa440d042e434", null ],
-    [ "IsPlayerWithinMeleeRange", "dd/dc8/a15049.html#a9f9b4a53cf5c7e9d4e98d2d57e500172", null ],
-    [ "JustEngagedWith", "dd/dc8/a15049.html#a20b0b4a3770564595f40e1375b2811d7", null ],
-    [ "Reset", "dd/dc8/a15049.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf", null ],
-    [ "SpellHitTarget", "dd/dc8/a15049.html#a53fb0c076ce60d769d21fa740fa73308", null ],
-    [ "Submerge", "dd/dc8/a15049.html#aa39a371112f585da952331c200b8b5aa", null ],
-    [ "UpdateAI", "dd/dc8/a15049.html#ab59237535be7a86cb4c0db4819a4d9d5", null ],
-    [ "_enraged", "dd/dc8/a15049.html#a14a147b2cb47bbc5bd7cdeb49fd22328", null ],
-    [ "_submerged", "dd/dc8/a15049.html#aff594fd1558ac0c150ef7dc44b185863", null ],
-    [ "_submergeMelee", "dd/dc8/a15049.html#a1f9afe42fad602f470456929214f40d3", null ]
+    [ "npc_hyjal_gargoyle", "dd/dc8/a15049.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "dd/dc8/a15049.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "dd/dc8/a15049.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "dd/dc8/a15049.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "dd/dc8/a15049.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "dd/dc8/a15049.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "dd/dc8/a15049.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

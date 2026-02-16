@@ -1,6 +1,6 @@
 var a14433 =
 [
-    [ "OnAuraRemove", "d2/db5/a14433.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d2/db5/a14433.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d2/db5/a14433.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "LaunchHit", "d2/db5/a14433.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "d2/db5/a14433.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "d2/db5/a14433.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

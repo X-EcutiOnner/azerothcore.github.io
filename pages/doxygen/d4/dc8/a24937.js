@@ -1,7 +1,7 @@
 var a24937 =
 [
-    [ "HandleScript", "d4/dc8/a24937.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "d4/dc8/a24937.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "d4/dc8/a24937.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "d4/dc8/a24937.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleScript", "d4/dc8/a24937.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
+    [ "PrepareSpellScript", "d4/dc8/a24937.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
+    [ "Register", "d4/dc8/a24937.html#aa4bc27415893009581b317637599a85a", null ],
+    [ "Validate", "d4/dc8/a24937.html#a77ed10819633ae2bc381023da0feb31b", null ]
 ];

@@ -1,4 +1,6 @@
 var a10789 =
 [
-    [ "IllegalHyperlinkException", "db/d79/a10789.html#a4bcd96d907fb882d147b0e29495f5c1d", null ]
+    [ "GuildUpdateInfoText", "db/d79/a10789.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "db/d79/a10789.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "db/d79/a10789.html#a786802ce427465d66a4cea1365743975", null ]
 ];

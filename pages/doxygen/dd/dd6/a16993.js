@@ -1,6 +1,6 @@
 var a16993 =
 [
-    [ "npc_pos_freed_slaveAI", "d2/d61/a16997.html", "d2/d61/a16997" ],
-    [ "npc_pos_freed_slave", "dd/dd6/a16993.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "dd/dd6/a16993.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "OnPeriodic", "dd/dd6/a16993.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "dd/dd6/a16993.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "dd/dd6/a16993.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

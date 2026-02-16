@@ -1,9 +1,16 @@
 var a14877 =
 [
-    [ "npc_buru_egg", "d8/de2/a14877.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d8/de2/a14877.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d8/de2/a14877.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d8/de2/a14877.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d8/de2/a14877.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d8/de2/a14877.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "npc_pilgrims_bounty_chair", "d8/de2/a14877.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
+    [ "AttackStart", "d8/de2/a14877.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
+    [ "DamageTaken", "d8/de2/a14877.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
+    [ "DoAction", "d8/de2/a14877.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
+    [ "GetPlate", "d8/de2/a14877.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
+    [ "MoveInLineOfSight", "d8/de2/a14877.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
+    [ "PassengerBoarded", "d8/de2/a14877.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
+    [ "SpellHit", "d8/de2/a14877.html#a681323ae3100f46dd0aba595159d7daf", null ],
+    [ "SpellHitTarget", "d8/de2/a14877.html#affd51da83859b962977ed6b51c74d01e", null ],
+    [ "UpdateAI", "d8/de2/a14877.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
+    [ "plateGUID", "d8/de2/a14877.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
+    [ "timerRotateChair", "d8/de2/a14877.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
+    [ "timerSpawnPlate", "d8/de2/a14877.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
 ];

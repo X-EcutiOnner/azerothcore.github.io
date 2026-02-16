@@ -1,9 +1,8 @@
 var a24373 =
 [
-    [ "npc_pet_shaman_earth_elemental", "db/d5a/a24373.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "db/d5a/a24373.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "db/d5a/a24373.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "db/d5a/a24373.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "db/d5a/a24373.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "db/d5a/a24373.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "CheckCast", "db/d5a/a24373.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "db/d5a/a24373.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "db/d5a/a24373.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "db/d5a/a24373.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "db/d5a/a24373.html#a59cca008a97447e257bf24071301b366", null ]
 ];

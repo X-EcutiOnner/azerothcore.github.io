@@ -1,5 +1,5 @@
 var a28233 =
 [
-    [ "ID", "d2/dfb/a28233.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "d2/dfb/a28233.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "ID", "d2/dfb/a28233.html#a142c8a5e22234e6317ff113618559b8b", null ],
+    [ "Value", "d2/dfb/a28233.html#a693631ac3ce915a1c4adf565517eacf9", null ]
 ];

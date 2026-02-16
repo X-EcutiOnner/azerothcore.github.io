@@ -1,7 +1,10 @@
 var a05781 =
 [
-    [ "ToString", "df/dfb/a05781.html#a252569604d54dedfbe28b320911aa7b7", null ],
-    [ "ToString", "df/dfb/a05781.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
-    [ "ToString", "df/dfb/a05781.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
-    [ "data", "df/dfb/a05781.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
+    [ "BasicStatementTask", "df/dfb/a05781.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "df/dfb/a05781.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "df/dfb/a05781.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "df/dfb/a05781.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "df/dfb/a05781.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "df/dfb/a05781.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "df/dfb/a05781.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

@@ -1,6 +1,6 @@
 var a19941 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d9/d1a/a19945.html", "d9/d1a/a19945" ],
-    [ "boss_freya_elder_stonebark", "d6/d83/a19941.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d6/d83/a19941.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "go_celestial_planetarium_accessAI", "d9/d1a/a19945.html", "d9/d1a/a19945" ],
+    [ "go_celestial_planetarium_access", "d6/d83/a19941.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "d6/d83/a19941.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

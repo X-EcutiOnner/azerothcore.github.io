@@ -1,8 +1,6 @@
 var a19373 =
 [
-    [ "HandleEffectPeriodic", "dd/d77/a19373.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "dd/d77/a19373.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "dd/d77/a19373.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "dd/d77/a19373.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "dd/d77/a19373.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "FilterTargets", "dd/d77/a19373.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "dd/d77/a19373.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "dd/d77/a19373.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

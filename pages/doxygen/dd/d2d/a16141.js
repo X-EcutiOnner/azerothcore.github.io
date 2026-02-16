@@ -1,15 +1,18 @@
 var a16141 =
 [
-    [ "npc_argent_soldierAI", "dd/d2d/a16141.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "dd/d2d/a16141.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "dd/d2d/a16141.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "dd/d2d/a16141.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "dd/d2d/a16141.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "dd/d2d/a16141.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "dd/d2d/a16141.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "dd/d2d/a16141.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "dd/d2d/a16141.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "dd/d2d/a16141.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "dd/d2d/a16141.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "dd/d2d/a16141.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "boss_elder_nadox", "dd/d2d/a16141.html#a718d8fffde11b1df5a44650096c474cc", null ],
+    [ "DamageTaken", "dd/d2d/a16141.html#a34dd3a07faeee096b1c8574f63353893", null ],
+    [ "GetData", "dd/d2d/a16141.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
+    [ "JustDied", "dd/d2d/a16141.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
+    [ "JustEngagedWith", "dd/d2d/a16141.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
+    [ "KilledUnit", "dd/d2d/a16141.html#a78310e83e518b64c1373b60a946f9748", null ],
+    [ "Reset", "dd/d2d/a16141.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
+    [ "SummonedCreatureDies", "dd/d2d/a16141.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
+    [ "SummonHelpers", "dd/d2d/a16141.html#ae65044c111e514a3050ea14f1155a7dc", null ],
+    [ "UpdateAI", "dd/d2d/a16141.html#abbb783581208c76fa371f01efd481b66", null ],
+    [ "guardianEggs", "dd/d2d/a16141.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
+    [ "guardianSummoned", "dd/d2d/a16141.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
+    [ "previousSwarmEgg_GUID", "dd/d2d/a16141.html#add5ff92f92b8d01caef0b12a98569535", null ],
+    [ "respectYourElders", "dd/d2d/a16141.html#aac97ef9511e64692a152077b43e83e75", null ],
+    [ "swarmEggs", "dd/d2d/a16141.html#a28c8b6826ed86e30b573883cab83168f", null ]
 ];

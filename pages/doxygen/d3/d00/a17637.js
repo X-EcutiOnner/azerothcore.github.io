@@ -1,6 +1,13 @@
 var a17637 =
 [
-    [ "npc_cult_fanaticAI", "d2/d78/a17641.html", "d2/d78/a17641" ],
-    [ "npc_cult_fanatic", "d3/d00/a17637.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d3/d00/a17637.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "npc_kinetic_bombAI", "d3/d00/a17637.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d3/d00/a17637.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d3/d00/a17637.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d3/d00/a17637.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d3/d00/a17637.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d3/d00/a17637.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d3/d00/a17637.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d3/d00/a17637.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d3/d00/a17637.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d3/d00/a17637.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

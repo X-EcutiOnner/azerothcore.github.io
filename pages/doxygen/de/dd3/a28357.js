@@ -1,16 +1,8 @@
 var a28357 =
 [
-    [ "~SocketMgr", "de/dd3/a28357.html#a8c8b979692599a68d6f9dbe864e58645", null ],
-    [ "SocketMgr", "de/dd3/a28357.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
-    [ "CreateThreads", "de/dd3/a28357.html#ac712a459d409da9e8f21603da8aa0305", null ],
-    [ "GetNetworkThreadCount", "de/dd3/a28357.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
-    [ "GetSocketForAccept", "de/dd3/a28357.html#a6d8519103f85522d3bc0bfac5a0955c9", null ],
-    [ "OnSocketOpen", "de/dd3/a28357.html#a83b2b85da48d4ffb0e1ed7577dde75c4", null ],
-    [ "SelectThreadWithMinConnections", "de/dd3/a28357.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
-    [ "StartNetwork", "de/dd3/a28357.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
-    [ "StopNetwork", "de/dd3/a28357.html#a7966832a9ef2151033ac9eeeadffff34", null ],
-    [ "Wait", "de/dd3/a28357.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
-    [ "_acceptor", "de/dd3/a28357.html#af397e6129662d41adeeef25d27a980ea", null ],
-    [ "_threadCount", "de/dd3/a28357.html#abeae5090b8ea81e39465a20c7b960885", null ],
-    [ "_threads", "de/dd3/a28357.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
+    [ "MapDifficulty", "de/dd3/a28357.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "de/dd3/a28357.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "de/dd3/a28357.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "de/dd3/a28357.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "de/dd3/a28357.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

@@ -1,7 +1,6 @@
 var a25317 =
 [
-    [ "HandleDummy", "df/d79/a25317.html#a84430c269e419acd94a2d0520b9ca639", null ],
-    [ "PrepareSpellScript", "df/d79/a25317.html#a8ec4e9cea213739825126111d038d1a5", null ],
-    [ "Register", "df/d79/a25317.html#a1abee3e5f324875aab8dd666ac417308", null ],
-    [ "Validate", "df/d79/a25317.html#a393043b94f50d9379a987f9b49b8abde", null ]
+    [ "CheckProc", "df/d79/a25317.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "df/d79/a25317.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "df/d79/a25317.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

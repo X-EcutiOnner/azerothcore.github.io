@@ -1,4 +1,5 @@
 var a04595 =
 [
-    [ "address_to_uint", "dd/dec/a04595.html#abb8b9761e1df323f5c258c0a12da7bd4", null ]
+    [ "reload_commandscript", "dd/dad/a12105.html", "dd/dad/a12105" ],
+    [ "AddSC_reload_commandscript", "dd/dec/a04595.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
 ];

@@ -1,6 +1,7 @@
 var a16473 =
 [
-    [ "boss_dreadscaleAI", "d9/d63/a16477.html", "d9/d63/a16477" ],
-    [ "boss_dreadscale", "df/d52/a16473.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "df/d52/a16473.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "OnApply", "df/d52/a16473.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "df/d52/a16473.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "df/d52/a16473.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "df/d52/a16473.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

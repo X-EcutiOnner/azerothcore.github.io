@@ -1,7 +1,7 @@
 var a12693 =
 [
-    [ "PeriodicTick", "db/d58/a12693.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "db/d58/a12693.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "db/d58/a12693.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "db/d58/a12693.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "HandleRemove", "db/d58/a12693.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "db/d58/a12693.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "db/d58/a12693.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "db/d58/a12693.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

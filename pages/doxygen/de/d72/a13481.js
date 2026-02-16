@@ -1,10 +1,7 @@
 var a13481 =
 [
-    [ "npc_sentinel_leader", "de/d72/a13481.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "de/d72/a13481.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "de/d72/a13481.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "de/d72/a13481.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "de/d72/a13481.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "de/d72/a13481.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "de/d72/a13481.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_apothecary_genericAI", "de/d72/a13481.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "de/d72/a13481.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "de/d72/a13481.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "de/d72/a13481.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

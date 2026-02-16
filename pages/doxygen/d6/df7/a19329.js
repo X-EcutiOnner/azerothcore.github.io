@@ -1,6 +1,6 @@
 var a19329 =
 [
-    [ "npc_centrifuge_constructAI", "de/d7e/a19333.html", "de/d7e/a19333" ],
-    [ "npc_centrifuge_construct", "d6/df7/a19329.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "d6/df7/a19329.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "boss_gothikAI", "de/d7e/a19333.html", "de/d7e/a19333" ],
+    [ "boss_gothik", "d6/df7/a19329.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "d6/df7/a19329.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

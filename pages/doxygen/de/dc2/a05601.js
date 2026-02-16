@@ -1,18 +1,7 @@
 var a05601 =
 [
-    [ "build", "de/dc2/a05601.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
-    [ "cmd", "de/dc2/a05601.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
-    [ "country", "de/dc2/a05601.html#a5391c693d5aee76e67001f648b108792", null ],
-    [ "error", "de/dc2/a05601.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
-    [ "gamename", "de/dc2/a05601.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
-    [ "I", "de/dc2/a05601.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
-    [ "I_len", "de/dc2/a05601.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
-    [ "ip", "de/dc2/a05601.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
-    [ "os", "de/dc2/a05601.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
-    [ "platform", "de/dc2/a05601.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
-    [ "size", "de/dc2/a05601.html#aae293343b590c23405a32d2809887020", null ],
-    [ "timezone_bias", "de/dc2/a05601.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
-    [ "version1", "de/dc2/a05601.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
-    [ "version2", "de/dc2/a05601.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
-    [ "version3", "de/dc2/a05601.html#a6a9e5088baf8c568916891a55e035db3", null ]
+    [ "~SignalHandler", "de/dc2/a05601.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "de/dc2/a05601.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "de/dc2/a05601.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "de/dc2/a05601.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

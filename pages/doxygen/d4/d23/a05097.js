@@ -1,7 +1,10 @@
 var a05097 =
 [
-    [ "operator()", "d4/d23/a05097.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "d4/d23/a05097.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "d4/d23/a05097.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "d4/d23/a05097.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "AreaInfo", "d4/d23/a05097.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "d4/d23/a05097.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "d4/d23/a05097.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "d4/d23/a05097.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "d4/d23/a05097.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "d4/d23/a05097.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "d4/d23/a05097.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

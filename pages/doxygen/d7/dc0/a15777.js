@@ -1,14 +1,11 @@
 var a15777 =
 [
-    [ "boss_anub_arakAI", "d7/dc0/a15777.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
-    [ "EnterEvadeMode", "d7/dc0/a15777.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
-    [ "JustDied", "d7/dc0/a15777.html#abc93931e7698ffd717199a598e16c917", null ],
-    [ "JustEngagedWith", "d7/dc0/a15777.html#a589c252516b738a8f38f9d89da11912c", null ],
-    [ "JustSummoned", "d7/dc0/a15777.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
-    [ "KilledUnit", "d7/dc0/a15777.html#a33e26ae3907e84ecc02514e4133e3002", null ],
-    [ "MoveInLineOfSight", "d7/dc0/a15777.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
-    [ "Reset", "d7/dc0/a15777.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
-    [ "SummonHelpers", "d7/dc0/a15777.html#a709ef4602ace41c9b9ccebe8795badec", null ],
-    [ "UpdateAI", "d7/dc0/a15777.html#acf3ddec273ded62c768631be2b3299fa", null ],
-    [ "intro", "d7/dc0/a15777.html#a4916d6a1ed06330e94698a13c404ee52", null ]
+    [ "npc_tiger_matriarchAI", "d7/dc0/a15777.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d7/dc0/a15777.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d7/dc0/a15777.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d7/dc0/a15777.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d7/dc0/a15777.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d7/dc0/a15777.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d7/dc0/a15777.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d7/dc0/a15777.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

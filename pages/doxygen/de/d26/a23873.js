@@ -1,7 +1,6 @@
 var a23873 =
 [
-    [ "OnPeriodic", "de/d26/a23873.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "de/d26/a23873.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "de/d26/a23873.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "de/d26/a23873.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "de/d43/a23877.html", "de/d43/a23877" ],
+    [ "npc_creditmarker_visit_with_ancestors", "de/d26/a23873.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "de/d26/a23873.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

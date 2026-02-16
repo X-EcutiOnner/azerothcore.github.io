@@ -1,6 +1,7 @@
 var a23941 =
 [
-    [ "npc_wounded_blood_elfAI", "d7/d58/a23945.html", "d7/d58/a23945" ],
-    [ "npc_wounded_blood_elf", "de/d43/a23941.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "de/d43/a23941.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleScriptEffect", "de/d43/a23941.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "de/d43/a23941.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "de/d43/a23941.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "de/d43/a23941.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

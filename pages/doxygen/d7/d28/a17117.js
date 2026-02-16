@@ -1,11 +1,18 @@
 var a17117 =
 [
-    [ "boss_moorabiAI", "d7/d28/a17117.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "JustDied", "d7/d28/a17117.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "d7/d28/a17117.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "d7/d28/a17117.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "d7/d28/a17117.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "d7/d28/a17117.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "d7/d28/a17117.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "d7/d28/a17117.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "boss_devourer_of_soulsAI", "d7/d28/a17117.html#aa54d512a3bcf22ba64872bf60ed89ca3", null ],
+    [ "CanAIAttack", "d7/d28/a17117.html#a48b79a3429dec44486d6bd858d5b6edb", null ],
+    [ "EnterEvadeMode", "d7/d28/a17117.html#a0c2c380955e5b24c387b8dd8f00567cc", null ],
+    [ "GetData", "d7/d28/a17117.html#a7d99dba5d3c6725c5f6cbc8a0cc0ec9f", null ],
+    [ "JustDied", "d7/d28/a17117.html#a6e5a944ffbf325aa1bc591ef288c593f", null ],
+    [ "JustEngagedWith", "d7/d28/a17117.html#a1f3b4a9d31a0704807fb9b44237c7b4b", null ],
+    [ "JustSummoned", "d7/d28/a17117.html#ae3c5c0c1d905c424102a6e3a360d61d7", null ],
+    [ "KilledUnit", "d7/d28/a17117.html#aba4ed91e1f61ddd1db29509700a4e0c8", null ],
+    [ "Reset", "d7/d28/a17117.html#aefc761b1142cc6941394a4e3402662d7", null ],
+    [ "SpellHitTarget", "d7/d28/a17117.html#ad503ae8ea66c964bc5997019c9118856", null ],
+    [ "UpdateAI", "d7/d28/a17117.html#ac387b29bcb23f1697bc8b5b1a94e9ee1", null ],
+    [ "bAchiev", "d7/d28/a17117.html#ad57135868c5c631a4add0dea0067feb0", null ],
+    [ "events", "d7/d28/a17117.html#ac0467332ad699f9c60cc9dc257d9e1df", null ],
+    [ "pInstance", "d7/d28/a17117.html#a78204e146c22a80df48d8a6840e70790", null ],
+    [ "summons", "d7/d28/a17117.html#a6602605118c8d64dabec4b96c8e99436", null ]
 ];

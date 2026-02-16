@@ -1,7 +1,7 @@
 var a16437 =
 [
-    [ "HandleEffectPeriodic", "db/d51/a16437.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "db/d51/a16437.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "db/d51/a16437.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "db/d51/a16437.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "HandleDummy", "db/d51/a16437.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "db/d51/a16437.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "db/d51/a16437.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "db/d51/a16437.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

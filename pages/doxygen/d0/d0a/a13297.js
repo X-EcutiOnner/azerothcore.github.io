@@ -1,7 +1,6 @@
 var a13297 =
 [
-    [ "HandleScriptEffect", "d0/d0a/a13297.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d0/d0a/a13297.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d0/d0a/a13297.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d0/d0a/a13297.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d1/dec/a13301.html", "d1/dec/a13301" ],
+    [ "npc_unworthy_initiate_anchor", "d0/d0a/a13297.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "d0/d0a/a13297.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

@@ -1,11 +1,8 @@
 var a14237 =
 [
-    [ "npc_winterfin_playmate", "da/d4a/a14237.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "da/d4a/a14237.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "da/d4a/a14237.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "da/d4a/a14237.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "da/d4a/a14237.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "da/d4a/a14237.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "da/d4a/a14237.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "da/d4a/a14237.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "npc_zulaman_hostageAI", "db/db5/a14241.html", "db/db5/a14241" ],
+    [ "npc_zulaman_hostage", "da/d4a/a14237.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "da/d4a/a14237.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "da/d4a/a14237.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "da/d4a/a14237.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

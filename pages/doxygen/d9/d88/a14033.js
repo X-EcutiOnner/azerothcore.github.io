@@ -1,6 +1,5 @@
 var a14033 =
 [
-    [ "boss_wushoolayAI", "d9/d88/a14033.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d9/d88/a14033.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d9/d88/a14033.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "npc_tyrion", "d9/d88/a14033.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d9/d88/a14033.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

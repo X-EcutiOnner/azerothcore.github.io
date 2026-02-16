@@ -1,17 +1,25 @@
 var a01109 =
 [
-    [ "Acore::Impl::ChatCommands::tag_base< T, typename >", "d6/dfe/a07715.html", "d6/dfe/a07715" ],
-    [ "Acore::Impl::ChatCommands::TokenizeResult", "d2/d6b/a07719.html", "d2/d6b/a07719" ],
-    [ "Acore::Impl::ChatCommands::are_all_assignable< T, Ts >", "d6/da1/a07723.html", "d6/da1/a07723" ],
-    [ "Acore::Impl::ChatCommands::are_all_assignable< void, Ts... >", "d8/d20/a07727.html", "d8/d20/a07727" ],
-    [ "Acore::Impl::ChatCommands::get_nth< index, T1, Ts >", "d3/d50/a07731.html", null ],
-    [ "Acore::Impl::ChatCommands::get_nth< 0, T1, Ts... >", "db/dfa/a07735.html", "db/dfa/a07735" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandResult", "d2/dc4/a07739.html", "d2/dc4/a07739" ],
-    [ "get_nth_t", "d8/dbf/a01109.html#acf7271fa50990dbd40fd90f127b9fb3b", null ],
-    [ "tag_base_t", "d8/dbf/a01109.html#a61f1a636e46a7d78161298ae28844703", null ],
-    [ "FormatAcoreString", "d8/dbf/a01109.html#a496bce28eb0bf0ac4b5e1c54c19193b7", null ],
-    [ "GetAcoreString", "d8/dbf/a01109.html#a1106e69269315156c6019b7812547ce9", null ],
-    [ "SendErrorMessageToHandler", "d8/dbf/a01109.html#aae4c9556d5cc172144fa280ca820226d", null ],
-    [ "tokenize", "d8/dbf/a01109.html#aeca95018e8d551d917cf69e0764ccef7", null ],
-    [ "COMMAND_DELIMITER", "d8/dbf/a01109.html#a068db55731856ca7770e1b09a4225aa2", null ]
+    [ "UpdateData", "db/d69/a08585.html", "db/d69/a08585" ],
+    [ "OBJECT_UPDATE_FLAGS", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
+      [ "UPDATEFLAG_NONE", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
+      [ "UPDATEFLAG_SELF", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
+      [ "UPDATEFLAG_TRANSPORT", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
+      [ "UPDATEFLAG_HAS_TARGET", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
+      [ "UPDATEFLAG_UNKNOWN", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
+      [ "UPDATEFLAG_LOWGUID", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
+      [ "UPDATEFLAG_LIVING", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
+      [ "UPDATEFLAG_STATIONARY_POSITION", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
+      [ "UPDATEFLAG_VEHICLE", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
+      [ "UPDATEFLAG_POSITION", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
+      [ "UPDATEFLAG_ROTATION", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
+    ] ],
+    [ "OBJECT_UPDATE_TYPE", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbad", [
+      [ "UPDATETYPE_VALUES", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
+      [ "UPDATETYPE_MOVEMENT", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
+      [ "UPDATETYPE_CREATE_OBJECT", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
+      [ "UPDATETYPE_CREATE_OBJECT2", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
+      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
+      [ "UPDATETYPE_NEAR_OBJECTS", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
+    ] ]
 ];

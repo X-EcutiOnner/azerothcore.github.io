@@ -1,7 +1,7 @@
 var a11117 =
 [
-    [ "SpellImmune", "da/d0c/a11117.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "da/d0c/a11117.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "da/d0c/a11117.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "da/d0c/a11117.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "TrainerBuySucceeded", "da/d0c/a11117.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "da/d0c/a11117.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "da/d0c/a11117.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "da/d0c/a11117.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

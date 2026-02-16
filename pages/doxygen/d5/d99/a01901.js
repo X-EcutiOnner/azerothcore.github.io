@@ -1,6 +1,5 @@
 var a01901 =
 [
-    [ "SOAPCommand", "da/d85/a05752.html", "da/d85/a05752" ],
-    [ "ACSoapThread", "d5/d99/a01901.html#a69e574c9a3cecf7c395cd036bb672ed3", null ],
-    [ "process_message", "d5/d99/a01901.html#abf914e30c869f88f2fafb9f656320c6a", null ]
+    [ "WorldPackets::LFG::LFGJoin", "df/d3b/a11021.html", "df/d3b/a11021" ],
+    [ "WorldPackets::LFG::LFGLeave", "d0/d60/a11025.html", "d0/d60/a11025" ]
 ];

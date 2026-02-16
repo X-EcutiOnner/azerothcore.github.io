@@ -1,6 +1,6 @@
 var a18481 =
 [
-    [ "CaptainSurviveTalk", "dc/d9d/a18481.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "dc/d9d/a18481.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "dc/d9d/a18481.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "PeriodicTick", "dc/d9d/a18481.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "dc/d9d/a18481.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "dc/d9d/a18481.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

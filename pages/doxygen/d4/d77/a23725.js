@@ -1,13 +1,9 @@
 var a23725 =
 [
-    [ "advisor_baseAI", "d4/d77/a23725.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "d4/d77/a23725.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "d4/d77/a23725.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "d4/d77/a23725.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "Reset", "d4/d77/a23725.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "d4/d77/a23725.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "d4/d77/a23725.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "d4/d77/a23725.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "d4/d77/a23725.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "d4/d77/a23725.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "boss_nethermancer_sepethrea", "d4/d77/a23725.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d4/d77/a23725.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d4/d77/a23725.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d4/d77/a23725.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d4/d77/a23725.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d4/d77/a23725.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

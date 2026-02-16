@@ -1,15 +1,9 @@
 var a08093 =
 [
-    [ "Minion", "d2/d38/a08093.html#a4a560a702e9f655615797ee4dcd7fbb4", null ],
-    [ "GetDebugInfo", "d2/d38/a08093.html#a1f9800abdfa2126e593a6ae169f20024", null ],
-    [ "GetFollowAngle", "d2/d38/a08093.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
-    [ "GetOwner", "d2/d38/a08093.html#a4610f459936e40b530dae8429f139cfe", null ],
-    [ "InitStats", "d2/d38/a08093.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
-    [ "IsGuardianPet", "d2/d38/a08093.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
-    [ "IsPetGhoul", "d2/d38/a08093.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
-    [ "RemoveFromWorld", "d2/d38/a08093.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
-    [ "setDeathState", "d2/d38/a08093.html#ab954627fc409e08616cf080974d30a82", null ],
-    [ "SetFollowAngle", "d2/d38/a08093.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
-    [ "m_followAngle", "d2/d38/a08093.html#a02806f2eae429a33e0d2b0c115892c77", null ],
-    [ "m_owner", "d2/d38/a08093.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
+    [ "LFGPlayerScript", "d2/d38/a08093.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d2/d38/a08093.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d2/d38/a08093.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d2/d38/a08093.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d2/d38/a08093.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d2/d38/a08093.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

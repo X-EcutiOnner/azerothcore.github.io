@@ -1,6 +1,6 @@
 var a19153 =
 [
-    [ "npc_scion_of_eternityAI", "db/ddc/a19157.html", "db/ddc/a19157" ],
-    [ "npc_scion_of_eternity", "d4/df7/a19153.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "d4/df7/a19153.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "db/ddc/a19157.html", "db/ddc/a19157" ],
+    [ "npc_icc_vengeful_fleshreaper", "d4/df7/a19153.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d4/df7/a19153.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

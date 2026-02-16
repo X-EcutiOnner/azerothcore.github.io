@@ -1,6 +1,14 @@
 var a20285 =
 [
-    [ "FilterTargets", "d1/d56/a20285.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d1/d56/a20285.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d1/d56/a20285.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "npc_ulduar_hodir_priest", "d1/d56/a20285.html#a9c0f04c11c9e006b494fe900612ff756", null ],
+    [ "AttackStart", "d1/d56/a20285.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
+    [ "CanAIAttack", "d1/d56/a20285.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
+    [ "EnterEvadeMode", "d1/d56/a20285.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
+    [ "JustDied", "d1/d56/a20285.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
+    [ "MoveInLineOfSight", "d1/d56/a20285.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
+    [ "ScheduleAbilities", "d1/d56/a20285.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
+    [ "SpellHit", "d1/d56/a20285.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
+    [ "UpdateAI", "d1/d56/a20285.html#a450b21ab190ec335d910b38a6a2d9329", null ],
+    [ "events", "d1/d56/a20285.html#a803e3f35c784716170f9fa8c4484b66c", null ],
+    [ "pInstance", "d1/d56/a20285.html#a7990e1a1aac16d498180473becf837b1", null ]
 ];

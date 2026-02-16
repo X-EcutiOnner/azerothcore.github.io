@@ -1,7 +1,7 @@
 var a10745 =
 [
-    [ "RandomRollClient", "dd/df3/a10745.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "dd/df3/a10745.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "dd/df3/a10745.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "dd/df3/a10745.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "GuildInvite", "dd/df3/a10745.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "dd/df3/a10745.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "dd/df3/a10745.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "dd/df3/a10745.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

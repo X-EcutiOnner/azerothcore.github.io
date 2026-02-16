@@ -1,10 +1,7 @@
 var a14589 =
 [
-    [ "npc_hyjal_frost_wyrm", "df/d82/a14589.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "df/d82/a14589.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "df/d82/a14589.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "df/d82/a14589.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "df/d82/a14589.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "df/d82/a14589.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "df/d82/a14589.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "npc_direbrew_minion", "df/d82/a14589.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "df/d82/a14589.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "df/d82/a14589.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "df/d82/a14589.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

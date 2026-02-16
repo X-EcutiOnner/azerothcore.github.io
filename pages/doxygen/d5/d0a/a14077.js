@@ -1,10 +1,7 @@
 var a14077 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d5/d0a/a14077.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d5/d0a/a14077.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d5/d0a/a14077.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d5/d0a/a14077.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d5/d0a/a14077.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d5/d0a/a14077.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d5/d0a/a14077.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d5/d0a/a14077.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d5/d0a/a14077.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d5/d0a/a14077.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d5/d0a/a14077.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

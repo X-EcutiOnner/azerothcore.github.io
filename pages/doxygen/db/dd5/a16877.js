@@ -1,6 +1,7 @@
 var a16877 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d3/d4a/a16881.html", "d3/d4a/a16881" ],
-    [ "instance_halls_of_reflection", "db/dd5/a16877.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "db/dd5/a16877.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "HandleEffectPeriodic", "db/dd5/a16877.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "db/dd5/a16877.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "db/dd5/a16877.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "db/dd5/a16877.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

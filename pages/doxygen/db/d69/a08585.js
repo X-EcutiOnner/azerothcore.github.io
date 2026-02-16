@@ -1,10 +1,13 @@
 var a08585 =
 [
-    [ "Index", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "db/d69/a08585.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "db/d69/a08585.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "UpdateData", "db/d69/a08585.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "db/d69/a08585.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "db/d69/a08585.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "db/d69/a08585.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "db/d69/a08585.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "db/d69/a08585.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "db/d69/a08585.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "db/d69/a08585.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "db/d69/a08585.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "db/d69/a08585.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

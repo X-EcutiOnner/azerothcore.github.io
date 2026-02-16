@@ -1,8 +1,5 @@
 var a13057 =
 [
-    [ "FilterTargets", "d7/dcb/a13057.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d7/dcb/a13057.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d7/dcb/a13057.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d7/dcb/a13057.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d7/dcb/a13057.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "at_karazhan_mirkblood_approach", "d7/dcb/a13057.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "d7/dcb/a13057.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

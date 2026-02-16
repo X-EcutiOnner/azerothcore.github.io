@@ -1,5 +1,7 @@
 var a15025 =
 [
-    [ "at_cthun_center", "d3/de8/a15025.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d3/de8/a15025.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "hyjalThrallAI", "d1/d55/a15029.html", "d1/d55/a15029" ],
+    [ "npc_hyjal_thrall", "d3/de8/a15025.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d3/de8/a15025.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d3/de8/a15025.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

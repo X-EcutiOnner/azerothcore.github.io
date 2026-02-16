@@ -1,6 +1,9 @@
 var a17389 =
 [
-    [ "boss_festergutAI", "d8/d2c/a17393.html", "d8/d2c/a17393" ],
-    [ "boss_festergut", "d7/dd2/a17389.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "d7/dd2/a17389.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "npc_pos_after_first_bossAI", "d7/dd2/a17389.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d7/dd2/a17389.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d7/dd2/a17389.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d7/dd2/a17389.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d7/dd2/a17389.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d7/dd2/a17389.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

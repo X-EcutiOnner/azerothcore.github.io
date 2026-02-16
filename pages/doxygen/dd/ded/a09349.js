@@ -1,8 +1,9 @@
 var a09349 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "dd/ded/a09349.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "dd/ded/a09349.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "dd/ded/a09349.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "dd/ded/a09349.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "dd/ded/a09349.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "GameObjectSearcher", "dd/ded/a09349.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
+    [ "Visit", "dd/ded/a09349.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
+    [ "Visit", "dd/ded/a09349.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
+    [ "i_check", "dd/ded/a09349.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
+    [ "i_object", "dd/ded/a09349.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
+    [ "i_phaseMask", "dd/ded/a09349.html#ac11e036da088f6e62556c42965530040", null ]
 ];

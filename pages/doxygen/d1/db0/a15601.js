@@ -1,10 +1,10 @@
 var a15601 =
 [
-    [ "npc_ameAI", "d1/db0/a15601.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d1/db0/a15601.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d1/db0/a15601.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d1/db0/a15601.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d1/db0/a15601.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d1/db0/a15601.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d1/db0/a15601.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_anubisath_defender", "d1/db0/a15601.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d1/db0/a15601.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d1/db0/a15601.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d1/db0/a15601.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d1/db0/a15601.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d1/db0/a15601.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d1/db0/a15601.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

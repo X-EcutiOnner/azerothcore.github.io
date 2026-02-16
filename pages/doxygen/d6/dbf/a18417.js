@@ -1,6 +1,9 @@
 var a18417 =
 [
-    [ "npc_blistering_zombieAI", "d8/d76/a18421.html", "d8/d76/a18421" ],
-    [ "npc_blistering_zombie", "d6/dbf/a18417.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "d6/dbf/a18417.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "AfterApply", "d6/dbf/a18417.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "d6/dbf/a18417.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "d6/dbf/a18417.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "d6/dbf/a18417.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "d6/dbf/a18417.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "d6/dbf/a18417.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

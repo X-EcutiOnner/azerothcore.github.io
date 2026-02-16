@@ -1,6 +1,5 @@
 var a20689 =
 [
-    [ "x", "d5/d82/a20689.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d5/d82/a20689.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d5/d82/a20689.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "achievement_xt002_nerf_engineering", "d5/d82/a20689.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d5/d82/a20689.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

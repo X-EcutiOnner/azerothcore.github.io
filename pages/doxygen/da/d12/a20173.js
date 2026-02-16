@@ -1,6 +1,7 @@
 var a20173 =
 [
-    [ "HandleAfterEffectApply", "da/d12/a20173.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "da/d12/a20173.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "da/d12/a20173.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "achievement_flame_leviathan_garage", "da/d12/a20173.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "da/d12/a20173.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "da/d12/a20173.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "da/d12/a20173.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

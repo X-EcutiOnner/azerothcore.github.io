@@ -1,5 +1,6 @@
 var a21713 =
 [
-    [ "at_q24545_frostmourne_cavern", "d7/d92/a21713.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d7/d92/a21713.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_mrfloppyAI", "d5/df5/a21717.html", "d5/df5/a21717" ],
+    [ "npc_mrfloppy", "d7/d92/a21713.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d7/d92/a21713.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

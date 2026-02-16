@@ -1,10 +1,10 @@
 var a07389 =
 [
-    [ "BattlegroundNA", "d6/d00/a07389.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d6/d00/a07389.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "d6/d00/a07389.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "d6/d00/a07389.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "d6/d00/a07389.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "d6/d00/a07389.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "d6/d00/a07389.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "BattlegroundChatBuilder", "d6/d00/a07389.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d6/d00/a07389.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d6/d00/a07389.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d6/d00/a07389.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d6/d00/a07389.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d6/d00/a07389.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d6/d00/a07389.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

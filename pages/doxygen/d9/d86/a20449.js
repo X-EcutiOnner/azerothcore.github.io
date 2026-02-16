@@ -1,10 +1,26 @@
 var a20449 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d9/d86/a20449.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "d9/d86/a20449.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "d9/d86/a20449.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "d9/d86/a20449.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "d9/d86/a20449.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "d9/d86/a20449.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "d9/d86/a20449.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "boss_mimiron", "d9/d86/a20449.html#a780bfc5cae4bd1c45671071e4d5f9521", null ],
+    [ "AttackStart", "d9/d86/a20449.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
+    [ "CloseDoorAndButton", "d9/d86/a20449.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
+    [ "EnterEvadeMode", "d9/d86/a20449.html#a9f39f9afa3f561115c4f7e630364f566", null ],
+    [ "GetData", "d9/d86/a20449.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
+    [ "JustEngagedWith", "d9/d86/a20449.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
+    [ "JustReachedHome", "d9/d86/a20449.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
+    [ "MoveInLineOfSight", "d9/d86/a20449.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
+    [ "Reset", "d9/d86/a20449.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
+    [ "ResetGameObjects", "d9/d86/a20449.html#ac3a10be85349fc62ef14ecd937159e61", null ],
+    [ "SetData", "d9/d86/a20449.html#aa9578fe08ab058a64e67935d262224ac", null ],
+    [ "SpellHit", "d9/d86/a20449.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
+    [ "UpdateAI", "d9/d86/a20449.html#adea87e321b4c401109ab4c37e314aca2", null ],
+    [ "allowedFlameSpreadTime", "d9/d86/a20449.html#ad5e66bc6e8226e2bc238e03e615477a7", null ],
+    [ "bAchievBombBot", "d9/d86/a20449.html#ab37a096be0b05a190f0c06d08f4c587f", null ],
+    [ "bAchievProximityMine", "d9/d86/a20449.html#ad578e63b7e73bb808a6eff0f2ea04f72", null ],
+    [ "bAchievRocketStrike", "d9/d86/a20449.html#a815f7874653ef671ead7d3bb7afdc01c", null ],
+    [ "berserk", "d9/d86/a20449.html#af74157021d0711cb8d27f7437a272afc", null ],
+    [ "bIsEvading", "d9/d86/a20449.html#a40085505e82615d06f8182b400a35304", null ],
+    [ "changeAllowedFlameSpreadTime", "d9/d86/a20449.html#ac8369348d301e7b138bdc0c21b0f01f3", null ],
+    [ "hardmode", "d9/d86/a20449.html#aac452bf805a6a882b9dfb7465b1d8e96", null ],
+    [ "minutesTalkNum", "d9/d86/a20449.html#a034688591a493fa6701ffab962cad9c7", null ],
+    [ "outofCombatTimer", "d9/d86/a20449.html#ae6888654d187f2ca62eaf748f27306cf", null ]
 ];

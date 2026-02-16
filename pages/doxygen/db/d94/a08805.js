@@ -1,5 +1,6 @@
 var a08805 =
 [
-    [ "NextPage", "db/d94/a08805.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "db/d94/a08805.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "SplineHandler", "db/d94/a08805.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "db/d94/a08805.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "db/d94/a08805.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

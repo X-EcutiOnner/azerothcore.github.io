@@ -1,9 +1,11 @@
 var a08173 =
 [
-    [ "PetInfo", "de/d9a/a08177.html", "de/d9a/a08177" ],
-    [ "GetUnslottedHunterPet", "d2/d9f/a08173.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d2/d9f/a08173.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d2/d9f/a08173.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d2/d9f/a08173.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d2/d9f/a08173.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "AddItem", "d2/d9f/a08173.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "d2/d9f/a08173.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "d2/d9f/a08173.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "d2/d9f/a08173.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "d2/d9f/a08173.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "d2/d9f/a08173.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "d2/d9f/a08173.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "d2/d9f/a08173.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

@@ -1,7 +1,7 @@
 var a10949 =
 [
-    [ "MapSessionFilter", "d6/d4d/a10949.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d6/d4d/a10949.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d6/d4d/a10949.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d6/d4d/a10949.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "AutoEquipItemSlot", "d6/d4d/a10949.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d6/d4d/a10949.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d6/d4d/a10949.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d6/d4d/a10949.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

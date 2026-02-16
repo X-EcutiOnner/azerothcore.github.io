@@ -1,7 +1,7 @@
 var a11905 =
 [
-    [ "boss_magmusAI", "d7/da1/a11905.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d7/da1/a11905.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d7/da1/a11905.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d7/da1/a11905.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "map", "d7/da1/a11905.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d7/da1/a11905.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d7/da1/a11905.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d7/da1/a11905.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

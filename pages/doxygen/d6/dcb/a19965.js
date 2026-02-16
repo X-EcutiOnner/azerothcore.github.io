@@ -1,6 +1,6 @@
 var a19965 =
 [
-    [ "boss_freya_iron_rootAI", "da/dd3/a19969.html", "da/dd3/a19969" ],
-    [ "boss_freya_iron_root", "d6/dcb/a19965.html#a9478144d6cb72d08698cbfc50893935b", null ],
-    [ "GetAI", "d6/dcb/a19965.html#acdda736e9259d59a30a40d989e70f95c", null ]
+    [ "PrepareSpellScript", "d6/dcb/a19965.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d6/dcb/a19965.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d6/dcb/a19965.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

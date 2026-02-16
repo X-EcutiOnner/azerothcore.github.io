@@ -1,7 +1,6 @@
 var a18645 =
 [
-    [ "OnPeriodic", "d3/d1b/a18645.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d3/d1b/a18645.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d3/d1b/a18645.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d3/d1b/a18645.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "ModDest", "d3/d1b/a18645.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "d3/d1b/a18645.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "d3/d1b/a18645.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

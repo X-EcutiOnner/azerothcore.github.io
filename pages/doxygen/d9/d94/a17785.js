@@ -1,7 +1,6 @@
 var a17785 =
 [
-    [ "HandleExtraEffect", "d9/d94/a17785.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d9/d94/a17785.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d9/d94/a17785.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d9/d94/a17785.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "ModAuraValue", "d9/d94/a17785.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d9/d94/a17785.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d9/d94/a17785.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

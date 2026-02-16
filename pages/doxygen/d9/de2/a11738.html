@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CliCommandHolder Struct Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d9/de2/a11738.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('db/d0c/a11741.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,280 +104,82 @@ $(document).ready(function(){initNavTree('d9/de2/a11738.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="../../d2/df9/a11735.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CliCommandHolder Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GmTicket Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Storage class for commands issued for delayed execution.  
- <a href="../../d9/de2/a11738.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">IWorld.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ab10379cf266b38f4d81e2477b727471e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#ab10379cf266b38f4d81e2477b727471e">Print</a> = void(*)(void *, std::string_view)</td></tr>
-<tr class="separator:ab10379cf266b38f4d81e2477b727471e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7ce6ffac9fa11ce0db6fd10919c4e4a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a> = void(*)(void *, bool success)</td></tr>
-<tr class="separator:af7ce6ffac9fa11ce0db6fd10919c4e4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a5a45e891607114cd070721fd51926cd5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#a5a45e891607114cd070721fd51926cd5">CliCommandHolder</a> (void *callbackArg, char const *command, <a class="el" href="../../d9/de2/a11738.html#ab10379cf266b38f4d81e2477b727471e">Print</a> zprint, <a class="el" href="../../d9/de2/a11738.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a> <a class="el" href="../../dc/d6d/a04802.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a>)</td></tr>
-<tr class="separator:a5a45e891607114cd070721fd51926cd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44ca7e8af5c717b1cff7b143afc077ee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#a44ca7e8af5c717b1cff7b143afc077ee">~CliCommandHolder</a> ()</td></tr>
-<tr class="separator:a44ca7e8af5c717b1cff7b143afc077ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a4579ce86ff43da89524b62eefe308a59"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#a4579ce86ff43da89524b62eefe308a59">m_callbackArg</a></td></tr>
-<tr class="separator:a4579ce86ff43da89524b62eefe308a59"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae333918e09a9de4c9e402c334e076674"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#ae333918e09a9de4c9e402c334e076674">m_command</a></td></tr>
-<tr class="separator:ae333918e09a9de4c9e402c334e076674"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa49897105905b9812fcf962326486d5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/de2/a11738.html#ab10379cf266b38f4d81e2477b727471e">Print</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#aa49897105905b9812fcf962326486d5d">m_print</a></td></tr>
-<tr class="separator:aa49897105905b9812fcf962326486d5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a416a66ac78f1d2cb1ee2d0d93f276f43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/de2/a11738.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#a416a66ac78f1d2cb1ee2d0d93f276f43">m_commandFinished</a></td></tr>
-<tr class="separator:a416a66ac78f1d2cb1ee2d0d93f276f43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ad9c7b2da92d97c464fb14ad1e0b9a4a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9">CliCommandHolder</a> (<a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a> const &amp;right)=delete</td></tr>
-<tr class="separator:ad9c7b2da92d97c464fb14ad1e0b9a4a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaca241ecd81dc25788eaccbdc4aa5f60"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/a11738.html#aaca241ecd81dc25788eaccbdc4aa5f60">operator=</a> (<a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a> const &amp;right)=delete</td></tr>
-<tr class="separator:aaca241ecd81dc25788eaccbdc4aa5f60"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Storage class for commands issued for delayed execution. </p>
-</div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="af7ce6ffac9fa11ce0db6fd10919c4e4a" name="af7ce6ffac9fa11ce0db6fd10919c4e4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7ce6ffac9fa11ce0db6fd10919c4e4a">&#9670;&#160;</a></span>CommandFinished</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d9/de2/a11738.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CliCommandHolder::CommandFinished</a> =  void(*)(void*, bool success)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab10379cf266b38f4d81e2477b727471e" name="ab10379cf266b38f4d81e2477b727471e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab10379cf266b38f4d81e2477b727471e">&#9670;&#160;</a></span>Print</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d9/de2/a11738.html#ab10379cf266b38f4d81e2477b727471e">CliCommandHolder::Print</a> =  void(*)(void*, std::string_view)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a5a45e891607114cd070721fd51926cd5" name="a5a45e891607114cd070721fd51926cd5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a45e891607114cd070721fd51926cd5">&#9670;&#160;</a></span>CliCommandHolder() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">CliCommandHolder::CliCommandHolder </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>callbackArg</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>command</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/de2/a11738.html#ab10379cf266b38f4d81e2477b727471e">Print</a>&#160;</td>
-          <td class="paramname"><em>zprint</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/de2/a11738.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a>&#160;</td>
-          <td class="paramname"><em>commandFinished</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1827</span>    : <a class="code hl_variable" href="../../d9/de2/a11738.html#a4579ce86ff43da89524b62eefe308a59">m_callbackArg</a>(callbackArg), <a class="code hl_variable" href="../../d9/de2/a11738.html#ae333918e09a9de4c9e402c334e076674">m_command</a>(strdup(command)), <a class="code hl_variable" href="../../d9/de2/a11738.html#aa49897105905b9812fcf962326486d5d">m_print</a>(zprint), <a class="code hl_variable" href="../../d9/de2/a11738.html#a416a66ac78f1d2cb1ee2d0d93f276f43">m_commandFinished</a>(<a class="code hl_function" href="../../dc/d6d/a04802.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a>)</div>
-<div class="line"><span class="lineno"> 1828</span>{</div>
-<div class="line"><span class="lineno"> 1829</span>}</div>
-<div class="ttc" id="aa04802_html_gaf86bc63df807e80b7a14688e48340fea"><div class="ttname"><a href="../../dc/d6d/a04802.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a></div><div class="ttdeci">void commandFinished(void *, bool)</div><div class="ttdef"><b>Definition:</b> CliRunnable.cpp:86</div></div>
-<div class="ttc" id="aa11738_html_a416a66ac78f1d2cb1ee2d0d93f276f43"><div class="ttname"><a href="../../d9/de2/a11738.html#a416a66ac78f1d2cb1ee2d0d93f276f43">CliCommandHolder::m_commandFinished</a></div><div class="ttdeci">CommandFinished m_commandFinished</div><div class="ttdef"><b>Definition:</b> IWorld.h:42</div></div>
-<div class="ttc" id="aa11738_html_a4579ce86ff43da89524b62eefe308a59"><div class="ttname"><a href="../../d9/de2/a11738.html#a4579ce86ff43da89524b62eefe308a59">CliCommandHolder::m_callbackArg</a></div><div class="ttdeci">void * m_callbackArg</div><div class="ttdef"><b>Definition:</b> IWorld.h:39</div></div>
-<div class="ttc" id="aa11738_html_aa49897105905b9812fcf962326486d5d"><div class="ttname"><a href="../../d9/de2/a11738.html#aa49897105905b9812fcf962326486d5d">CliCommandHolder::m_print</a></div><div class="ttdeci">Print m_print</div><div class="ttdef"><b>Definition:</b> IWorld.h:41</div></div>
-<div class="ttc" id="aa11738_html_ae333918e09a9de4c9e402c334e076674"><div class="ttname"><a href="../../d9/de2/a11738.html#ae333918e09a9de4c9e402c334e076674">CliCommandHolder::m_command</a></div><div class="ttdeci">char * m_command</div><div class="ttdef"><b>Definition:</b> IWorld.h:40</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a44ca7e8af5c717b1cff7b143afc077ee" name="a44ca7e8af5c717b1cff7b143afc077ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44ca7e8af5c717b1cff7b143afc077ee">&#9670;&#160;</a></span>~CliCommandHolder()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">CliCommandHolder::~CliCommandHolder </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1832</span>{</div>
-<div class="line"><span class="lineno"> 1833</span>    free(<a class="code hl_variable" href="../../d9/de2/a11738.html#ae333918e09a9de4c9e402c334e076674">m_command</a>);</div>
-<div class="line"><span class="lineno"> 1834</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">m_command</a>.</p>
-
-</div>
-</div>
-<a id="ad9c7b2da92d97c464fb14ad1e0b9a4a9" name="ad9c7b2da92d97c464fb14ad1e0b9a4a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9c7b2da92d97c464fb14ad1e0b9a4a9">&#9670;&#160;</a></span>CliCommandHolder() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">CliCommandHolder::CliCommandHolder </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a> const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aaca241ecd81dc25788eaccbdc4aa5f60" name="aaca241ecd81dc25788eaccbdc4aa5f60"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaca241ecd81dc25788eaccbdc4aa5f60">&#9670;&#160;</a></span>operator=()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a> &amp; CliCommandHolder::operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a> const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4579ce86ff43da89524b62eefe308a59" name="a4579ce86ff43da89524b62eefe308a59"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4579ce86ff43da89524b62eefe308a59">&#9670;&#160;</a></span>m_callbackArg</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void* CliCommandHolder::m_callbackArg</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01545">World::ProcessCliCommands()</a>.</p>
-
-</div>
-</div>
-<a id="ae333918e09a9de4c9e402c334e076674" name="ae333918e09a9de4c9e402c334e076674"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae333918e09a9de4c9e402c334e076674">&#9670;&#160;</a></span>m_command</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char* CliCommandHolder::m_command</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01545">World::ProcessCliCommands()</a>, and <a class="el" href="../../#l01831">~CliCommandHolder()</a>.</p>
-
-</div>
-</div>
-<a id="a416a66ac78f1d2cb1ee2d0d93f276f43" name="a416a66ac78f1d2cb1ee2d0d93f276f43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a416a66ac78f1d2cb1ee2d0d93f276f43">&#9670;&#160;</a></span>m_commandFinished</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/de2/a11738.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a> CliCommandHolder::m_commandFinished</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01545">World::ProcessCliCommands()</a>.</p>
-
-</div>
-</div>
-<a id="aa49897105905b9812fcf962326486d5d" name="aa49897105905b9812fcf962326486d5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa49897105905b9812fcf962326486d5d">&#9670;&#160;</a></span>m_print</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/de2/a11738.html#ab10379cf266b38f4d81e2477b727471e">Print</a> CliCommandHolder::m_print</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01545">World::ProcessCliCommands()</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../db/d0c/a11741.html">GmTicket</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a5f459a66c00df104826186e2a02ea8c6">_assignedTo</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a44346f6b655db31332e86e452ada81fa">_chatLog</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a6b378ac66d4958af7198cfeb120239b3">_closedBy</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a8865b11527ec42c392957221366cc745">_comment</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a44446fcfe593186c1a39e0c64a8c6c24">_completed</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ad6d6cebe3c50b8016e5e86db487b6b1f">_createTime</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a536dbee37d1ddfd91d1596f1902ad21e">_escalatedStatus</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ab941a0267d51bd3abad5197c4bde0c99">_id</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#af473638ec7fcf9337e0a4123964f7230">_lastModifiedTime</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#aabb7d436a42e9c7a59614f8d35c3e52d">_mapId</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a5745048c64570357898be1a0d3302f7c">_message</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#aa3bda4b80c802c9fd173005b2997edfb">_needMoreHelp</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a9e2237afc3e5b25d06494f37de3fb303">_needResponse</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a06c17e9335bca996485b0f6b7e408e7f">_playerGuid</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#aae11bbf54c187ff5a6102b6482e2ac9e">_playerName</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ac7cb10066393c0bc17f51a790893a1d9">_posX</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#aa72da869d87fc7d3a467a508f38fbb3e">_posY</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a40633017efb1d1ce9c4f1e4c1c6484f9">_posZ</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a20f0269c25c707cc9cb4ba7f00ab0c28">_resolvedBy</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a7a33e23c307f41af88ee4902a91e4974">_response</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a3c1f0a0632254758cd9a7bfe30f9a8ed">_type</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a0e4b68e1433ce5b639c7e8c2db1505f9">_viewed</a></td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a76ae8c9e6fc7b24ad5e5827832c62d9a">AppendResponse</a>(std::string const &amp;response)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a1e583391ddb0c22d7648c68b0bc501a1">DeleteFromDB</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a88428e6391ded9b91cf8a92c3d17956d">DeleteResponse</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ad46f6e65554bbe4646273e9a3164d817">FormatMessageString</a>(ChatHandler &amp;handler, bool detailed=false) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a838f706c8133b88b0d031d882a27d190">FormatMessageString</a>(ChatHandler &amp;handler, const char *szClosedName, const char *szAssignedToName, const char *szUnassignedName, const char *szDeletedName) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#af9b97c103035b485ddabc9fad4640c29">GetAssignedPlayer</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a01fe170eec6ec9739a0cccb6364e74ce">GetAssignedToGUID</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#aef45def874581550aa1b21081b586efa">GetAssignedToName</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a5e67c27b0fc2b4e41c2beb4aa831c4b3">GetChatLog</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#afbe6f66ca913b9868f8352e50b58ccc7">GetEscalatedStatus</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#abc79eedcdd1db1c55cc8d600e45c854b">GetId</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a7cc9d8b2d0f4aebf8361dcaacc328462">GetLastModifiedTime</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a0a4b7f70573bfed7adf24c0b917e7cb2">GetMessage</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a4478842ef9e8e2eaac160cbe852df0f4">GetPlayer</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a2020b79a2d8624161d9142ce8e7a9208">GetPlayerName</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a3394f036db0b3c4e51a1e8e1ddabb431">GetResponse</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a726b123df35aea0f2853921a5a5ebb5c">GmTicket</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a63e060b0ca21bcaed6414594c95b0dc7">GmTicket</a>(Player *player)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a179d0812c295e2648072f57fa1d4b911">IsAssigned</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ae3006d3450d059b3933b6754113770b8">IsAssignedNotTo</a>(ObjectGuid guid) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a0eb59e7cfcacea0152f76dc23a0c041b">IsAssignedTo</a>(ObjectGuid guid) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a38e5895697bea89970355a9efe1cf336">IsClosed</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a91c41284e7be334b2cd71a81ee68c904">IsCompleted</a>() const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a729aadab6e9d53f26dc28350f36742d8">IsFromPlayer</a>(ObjectGuid guid) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ab55e7e31b4589e47640613e939ec3908">LoadFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a6df8d68ab86b31257d246623d27c924d">SaveToDB</a>(CharacterDatabaseTransaction trans) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#acae258582deceab5ae10399f4979d47c">SendResponse</a>(WorldSession *session) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a7358a709bf3e912180bd3dfe9b55170c">SetAssignedTo</a>(ObjectGuid guid, bool isAdmin)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ae3c6b3988f6da7ab2244c2c1084e9db2">SetChatLog</a>(std::list&lt; uint32 &gt; time, std::string const &amp;log)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a6af8aeccb72ac9fc611b91fd3693d29d">SetClosedBy</a>(ObjectGuid value)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#ab5886cdfb42a4f28c355f7a759fff764">SetComment</a>(std::string const &amp;comment)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#aa47edbc8df9e196b36cf77663a83d46e">SetCompleted</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#afbfdb02ffda93c165327b736342e9c7e">SetEscalatedStatus</a>(GMTicketEscalationStatus escalatedStatus)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a744f163bc352149c1e460fe12392e6c7">SetGmAction</a>(uint32 needResponse, bool needMoreHelp)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a6b8fc57ce6a3c3cf0f7135e0305fada2">SetMessage</a>(std::string const &amp;message)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a5d43c75bcb64544dabd8d47272848750">SetPosition</a>(uint32 mapId, float x, float y, float z)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a67884c5001ecdc5cc22cfe939757edff">SetResolvedBy</a>(ObjectGuid value)</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a37a371d9cef6e7b4dd2214ec362413e2">SetUnassigned</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a251f073e9cf08e276c8ffacfb27b3b64">SetViewed</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a8b1458726184ca00045c7752de90c958">TeleportTo</a>(Player *player) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a6459c45f0d15a7a986529f6040e31a15">WritePacket</a>(WorldPacket &amp;data) const</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d0c/a11741.html#a9a33d5a1c1835395f2a4f2e60ad362f0">~GmTicket</a>()</td><td class="entry"><a class="el" href="../../db/d0c/a11741.html">GmTicket</a></td><td class="entry"></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/de2/a11738.html">CliCommandHolder</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:48:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:01:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var a27225 =
 [
-    [ "go_fel_crystalforge", "d5/d16/a27225.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d5/d16/a27225.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d5/d16/a27225.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_massive_seaforium_charge", "d5/d16/a27225.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d5/d16/a27225.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

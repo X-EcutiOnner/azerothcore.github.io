@@ -1,8 +1,5 @@
 var a19533 =
 [
-    [ "dark_rune_protectorsAI", "d4/d2e/a19533.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "d4/d2e/a19533.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "d4/d2e/a19533.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "d4/d2e/a19533.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "d4/d2e/a19533.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "npc_mr_bigglesworth", "d4/d2e/a19533.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d4/d2e/a19533.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

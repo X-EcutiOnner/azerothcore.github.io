@@ -1,6 +1,8 @@
 var a16481 =
 [
-    [ "boss_icehowlAI", "d5/d39/a16485.html", "d5/d39/a16485" ],
-    [ "boss_icehowl", "dc/d11/a16481.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "dc/d11/a16481.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "OnApply", "dc/d11/a16481.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "dc/d11/a16481.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "dc/d11/a16481.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "dc/d11/a16481.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "dc/d11/a16481.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

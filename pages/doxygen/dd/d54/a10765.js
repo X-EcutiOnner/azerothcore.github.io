@@ -1,5 +1,5 @@
 var a10765 =
 [
-    [ "DurabilityDamageDeath", "dd/d54/a10765.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "dd/d54/a10765.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "GuildPermissionsQuery", "dd/d54/a10765.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
+    [ "Read", "dd/d54/a10765.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
 ];

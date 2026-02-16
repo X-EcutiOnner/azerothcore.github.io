@@ -1,5 +1,6 @@
 var a23289 =
 [
-    [ "go_main_chambers_access_panel", "dd/dbf/a23289.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "dd/dbf/a23289.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "CalculateDamage", "dd/dbf/a23289.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "dd/dbf/a23289.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "dd/dbf/a23289.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

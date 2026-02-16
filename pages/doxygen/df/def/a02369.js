@@ -1,8 +1,10 @@
 var a02369 =
 [
-    [ "instance_temple_of_ahnqiraj", "dd/d2c/a15512.html", "dd/d2c/a15512" ],
-    [ "instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript", "de/d96/a15516.html", "de/d96/a15516" ],
-    [ "AddSC_instance_temple_of_ahnqiraj", "df/def/a02369.html#a60077e2c1e4137c99545119e5eeb1bb3", null ],
-    [ "creatureData", "df/def/a02369.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "df/def/a02369.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "SavedAddonsList", "df/def/a02369.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "df/def/a02369.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "df/def/a02369.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "df/def/a02369.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "df/def/a02369.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "df/def/a02369.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "df/def/a02369.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

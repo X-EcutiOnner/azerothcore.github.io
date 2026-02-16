@@ -1,6 +1,6 @@
 var a26393 =
 [
-    [ "PrepareSpellScript", "db/d8a/a26393.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "db/d8a/a26393.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "db/d8a/a26393.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "HandleScript", "db/d8a/a26393.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "db/d8a/a26393.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "db/d8a/a26393.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

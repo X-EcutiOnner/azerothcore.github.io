@@ -1,6 +1,5 @@
 var a27061 =
 [
-    [ "boss_taerarAI", "d7/da8/a27065.html", "d7/da8/a27065" ],
-    [ "boss_taerar", "d8/d14/a27061.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d8/d14/a27061.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "go_arena_ready_marker", "d8/d14/a27061.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d8/d14/a27061.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

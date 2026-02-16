@@ -1,6 +1,7 @@
 var a21105 =
 [
-    [ "boss_ymironAI", "d1/d62/a21109.html", "d1/d62/a21109" ],
-    [ "boss_ymiron", "dc/d37/a21105.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "dc/d37/a21105.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "PrepareAuraScript", "dc/d37/a21105.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "dc/d37/a21105.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "dc/d37/a21105.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "dc/d37/a21105.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

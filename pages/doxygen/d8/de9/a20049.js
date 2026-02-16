@@ -1,7 +1,5 @@
 var a20049 =
 [
-    [ "HandleAfterEffectApply", "d8/de9/a20049.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d8/de9/a20049.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d8/de9/a20049.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d8/de9/a20049.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "achievement_auriaya_nine_lives", "d8/de9/a20049.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d8/de9/a20049.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

@@ -1,9 +1,7 @@
 var a09981 =
 [
-    [ "PathMovementBase", "da/d25/a09981.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "da/d25/a09981.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "da/d25/a09981.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "da/d25/a09981.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "da/d25/a09981.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "da/d25/a09981.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "MapPreloadRequest", "da/d25/a09981.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "da/d25/a09981.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "da/d25/a09981.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "da/d25/a09981.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

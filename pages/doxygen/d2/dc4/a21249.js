@@ -1,12 +1,18 @@
 var a21249 =
 [
-    [ "boss_lavanthorAI", "d2/dc4/a21249.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "d2/dc4/a21249.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "d2/dc4/a21249.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "d2/dc4/a21249.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "d2/dc4/a21249.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "d2/dc4/a21249.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "d2/dc4/a21249.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "d2/dc4/a21249.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "d2/dc4/a21249.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "violet_hold_trashAI", "d2/dc4/a21249.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d2/dc4/a21249.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d2/dc4/a21249.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d2/dc4/a21249.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d2/dc4/a21249.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "d2/dc4/a21249.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d2/dc4/a21249.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d2/dc4/a21249.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d2/dc4/a21249.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d2/dc4/a21249.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d2/dc4/a21249.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "d2/dc4/a21249.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "d2/dc4/a21249.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "d2/dc4/a21249.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "d2/dc4/a21249.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

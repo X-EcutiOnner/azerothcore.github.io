@@ -1,14 +1,20 @@
 var a15993 =
 [
-    [ "npc_halion_controllerAI", "dd/d72/a15993.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "dd/d72/a15993.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "dd/d72/a15993.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "dd/d72/a15993.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "dd/d72/a15993.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "dd/d72/a15993.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "dd/d72/a15993.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "dd/d72/a15993.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "dd/d72/a15993.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "dd/d72/a15993.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "dd/d72/a15993.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "npc_twiggy_flatheadAI", "dd/d72/a15993.html#a03aee9619eafa0f497390c520cbfaf24", null ],
+    [ "CleanUp", "dd/d72/a15993.html#adfe48ed23633691608b289c4751c788a", null ],
+    [ "EnterEvadeMode", "dd/d72/a15993.html#a9fd1519e6196ba4db30740b16904964b", null ],
+    [ "JustEngagedWith", "dd/d72/a15993.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
+    [ "MoveInLineOfSight", "dd/d72/a15993.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
+    [ "Reset", "dd/d72/a15993.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
+    [ "UpdateAI", "dd/d72/a15993.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
+    [ "AffrayChallenger", "dd/d72/a15993.html#a42354987ab877f7c113ac44b50d4a660", null ],
+    [ "BigWill", "dd/d72/a15993.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
+    [ "ChallengerChecker", "dd/d72/a15993.html#a9908c43715426b75c06c1e2032f4fcca", null ],
+    [ "ChallengerDown", "dd/d72/a15993.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
+    [ "EventBigWill", "dd/d72/a15993.html#a32d931e4aabbabedd05ae243038cca8e", null ],
+    [ "EventGrate", "dd/d72/a15993.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
+    [ "EventInProgress", "dd/d72/a15993.html#a4dd84ae18a7f79238f110659db03b984", null ],
+    [ "PlayerGUID", "dd/d72/a15993.html#aa510117962fc5294113f2f88a1f2a652", null ],
+    [ "Wave", "dd/d72/a15993.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
+    [ "WaveTimer", "dd/d72/a15993.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
 ];

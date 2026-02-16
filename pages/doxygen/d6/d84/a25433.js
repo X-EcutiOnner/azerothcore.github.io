@@ -1,7 +1,6 @@
 var a25433 =
 [
-    [ "CheckProc", "d6/d84/a25433.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d6/d84/a25433.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d6/d84/a25433.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d6/d84/a25433.html#a55557026689613e91aeabce1af442237", null ]
+    [ "OnRemove", "d6/d84/a25433.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d6/d84/a25433.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d6/d84/a25433.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

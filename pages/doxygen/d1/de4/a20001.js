@@ -1,9 +1,12 @@
 var a20001 =
 [
-    [ "boss_freya_nature_bombAI", "d1/de4/a20001.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "d1/de4/a20001.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "d1/de4/a20001.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "d1/de4/a20001.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "d1/de4/a20001.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "d1/de4/a20001.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "npc_assembly_lightning", "d1/de4/a20001.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "d1/de4/a20001.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "d1/de4/a20001.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "d1/de4/a20001.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "d1/de4/a20001.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "d1/de4/a20001.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "d1/de4/a20001.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "d1/de4/a20001.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "d1/de4/a20001.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

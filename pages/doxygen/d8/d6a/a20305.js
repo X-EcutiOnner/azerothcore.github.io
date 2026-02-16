@@ -1,6 +1,7 @@
 var a20305 =
 [
-    [ "boss_mimironAI", "de/dfd/a20309.html", "de/dfd/a20309" ],
-    [ "boss_mimiron", "d8/d6a/a20305.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d8/d6a/a20305.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "HandleEffectPeriodic", "d8/d6a/a20305.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d8/d6a/a20305.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d8/d6a/a20305.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d8/d6a/a20305.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

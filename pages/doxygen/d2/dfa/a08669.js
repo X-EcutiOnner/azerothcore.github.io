@@ -1,11 +1,18 @@
 var a08669 =
 [
-    [ "DispelInfo", "d2/dfa/a08669.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d2/dfa/a08669.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d2/dfa/a08669.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d2/dfa/a08669.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d2/dfa/a08669.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d2/dfa/a08669.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d2/dfa/a08669.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d2/dfa/a08669.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "PlayerInfo", "d2/dfa/a08669.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "d2/dfa/a08669.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "d2/dfa/a08669.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "d2/dfa/a08669.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "d2/dfa/a08669.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "d2/dfa/a08669.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "d2/dfa/a08669.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "d2/dfa/a08669.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "d2/dfa/a08669.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "d2/dfa/a08669.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "d2/dfa/a08669.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "d2/dfa/a08669.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "d2/dfa/a08669.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "d2/dfa/a08669.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "d2/dfa/a08669.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

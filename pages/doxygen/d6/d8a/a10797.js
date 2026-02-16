@@ -1,4 +1,5 @@
 var a10797 =
 [
-    [ "Validate", "d6/d8a/a10797.html#a4512047d5f150789a00428a8431fd55f", null ]
+    [ "GuildDelete", "d6/d8a/a10797.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "d6/d8a/a10797.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

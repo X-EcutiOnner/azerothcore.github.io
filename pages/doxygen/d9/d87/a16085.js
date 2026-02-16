@@ -1,6 +1,6 @@
 var a16085 =
 [
-    [ "boss_saviana_ragefireAI", "d9/db7/a16089.html", "d9/db7/a16089" ],
-    [ "boss_saviana_ragefire", "d9/d87/a16085.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d9/d87/a16085.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d9/db7/a16089.html", "d9/db7/a16089" ],
+    [ "instance_zulfarrak", "d9/d87/a16085.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d9/d87/a16085.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

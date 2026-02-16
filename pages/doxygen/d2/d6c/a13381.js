@@ -1,6 +1,8 @@
 var a13381 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "da/d7c/a13385.html", "da/d7c/a13385" ],
-    [ "instance_the_stockade", "d2/d6c/a13381.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d2/d6c/a13381.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_highlord_darion_mograineAI", "da/d7c/a13385.html", "da/d7c/a13385" ],
+    [ "npc_highlord_darion_mograine", "d2/d6c/a13381.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "d2/d6c/a13381.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "d2/d6c/a13381.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "d2/d6c/a13381.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

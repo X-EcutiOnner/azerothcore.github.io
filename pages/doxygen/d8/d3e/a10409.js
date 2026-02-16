@@ -1,9 +1,15 @@
 var a10409 =
 [
-    [ "ServerPacket", "d8/d3e/a10409.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "d8/d3e/a10409.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "d8/d3e/a10409.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "d8/d3e/a10409.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "d8/d3e/a10409.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "d8/d3e/a10409.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "CreatureScript", "d8/d3e/a10409.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "d8/d3e/a10409.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "d8/d3e/a10409.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "d8/d3e/a10409.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "d8/d3e/a10409.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "d8/d3e/a10409.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "d8/d3e/a10409.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "d8/d3e/a10409.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "d8/d3e/a10409.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "d8/d3e/a10409.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "d8/d3e/a10409.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "d8/d3e/a10409.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

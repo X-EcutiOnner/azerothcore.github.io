@@ -1,12 +1,10 @@
 var a08113 =
 [
-    [ "GameObjectModelOwnerImpl", "d3/d6a/a08113.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "d3/d6a/a08113.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "d3/d6a/a08113.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "d3/d6a/a08113.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "d3/d6a/a08113.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "d3/d6a/a08113.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "d3/d6a/a08113.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "d3/d6a/a08113.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "d3/d6a/a08113.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "AssistDelayEvent", "d3/d6a/a08113.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "d3/d6a/a08113.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "d3/d6a/a08113.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "d3/d6a/a08113.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "d3/d6a/a08113.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "d3/d6a/a08113.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "d3/d6a/a08113.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

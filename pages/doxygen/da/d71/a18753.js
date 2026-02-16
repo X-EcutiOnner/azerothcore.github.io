@@ -1,6 +1,5 @@
 var a18753 =
 [
-    [ "npc_icc_putricades_trapAI", "df/ddc/a18757.html", "df/ddc/a18757" ],
-    [ "npc_icc_putricades_trap", "da/d71/a18753.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "da/d71/a18753.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "achievement_been_waiting_long_time", "da/d71/a18753.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "da/d71/a18753.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

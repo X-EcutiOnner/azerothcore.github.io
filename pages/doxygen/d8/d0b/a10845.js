@@ -1,8 +1,7 @@
 var a10845 =
 [
-    [ "PetSpellAutocast", "d8/d0b/a10845.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d8/d0b/a10845.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d8/d0b/a10845.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d8/d0b/a10845.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d8/d0b/a10845.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "GuildBankWithdrawMoney", "d8/d0b/a10845.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
+    [ "Read", "d8/d0b/a10845.html#a420aac24befdc5ac26171faa15c3c350", null ],
+    [ "Banker", "d8/d0b/a10845.html#a68f9a4191c349702881774bff4069f03", null ],
+    [ "Money", "d8/d0b/a10845.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
 ];

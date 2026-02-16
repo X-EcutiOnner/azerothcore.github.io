@@ -1,7 +1,8 @@
 var a09573 =
 [
-    [ "InstancePlayerBind", "dc/ddc/a09573.html#abc20bba094d04eb724d03b8290102981", null ],
-    [ "extended", "dc/ddc/a09573.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
-    [ "perm", "dc/ddc/a09573.html#ab35249eb791941b484ecc321b1102b24", null ],
-    [ "save", "dc/ddc/a09573.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
+    [ "MostHPMissingGroupInRange", "dc/ddc/a09573.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "dc/ddc/a09573.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "dc/ddc/a09573.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "dc/ddc/a09573.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "dc/ddc/a09573.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

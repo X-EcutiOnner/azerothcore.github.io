@@ -1,6 +1,5 @@
 var a19161 =
 [
-    [ "npc_hover_diskAI", "d3/d1e/a19165.html", "d3/d1e/a19165" ],
-    [ "npc_hover_disk", "d7/d4a/a19161.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d7/d4a/a19161.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_icc_buff_switcher", "d7/d4a/a19161.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d7/d4a/a19161.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

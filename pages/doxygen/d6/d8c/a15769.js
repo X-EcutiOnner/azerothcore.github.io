@@ -1,6 +1,6 @@
 var a15769 =
 [
-    [ "HandlePeriodic", "d6/d8c/a15769.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "d6/d8c/a15769.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "d6/d8c/a15769.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_tiger_matriarch_creditAI", "d6/d8c/a15769.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d6/d8c/a15769.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d6/d8c/a15769.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

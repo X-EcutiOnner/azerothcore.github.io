@@ -1,13 +1,14 @@
 var a15985 =
 [
-    [ "boss_twilight_halionAI", "dc/def/a15985.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "dc/def/a15985.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "dc/def/a15985.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "dc/def/a15985.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "dc/def/a15985.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "dc/def/a15985.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "dc/def/a15985.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "dc/def/a15985.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "dc/def/a15985.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "dc/def/a15985.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "npc_taskmaster_fizzuleAI", "dc/def/a15985.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "dc/def/a15985.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "dc/def/a15985.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "dc/def/a15985.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "dc/def/a15985.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "dc/def/a15985.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "dc/def/a15985.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "dc/def/a15985.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "dc/def/a15985.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "dc/def/a15985.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "dc/def/a15985.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

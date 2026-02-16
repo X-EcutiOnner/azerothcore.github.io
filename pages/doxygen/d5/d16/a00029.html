@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/HolidayDateCalculator.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/MessageBuffer.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,168 +105,28 @@ $(document).ready(function(){initNavTree('d5/d16/a00029.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">HolidayDateCalculator.h File Reference</div></div>
+<a href="#nested-classes">Classes</a>  </div>
+  <div class="headertitle"><div class="title">MessageBuffer.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cstdint&gt;</code><br />
-<code>#include &lt;ctime&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;cstring&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d8e/a08928.html">HolidayRule</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/de1/a05589.html">MessageBuffer</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d6d/a08932.html">HolidayDateCalculator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a5ecfaf291957bc268c8975a08797a5cb"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cb">HolidayCalculationType</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">NTH_WEEKDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">EASTER_OFFSET</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">LUNAR_NEW_YEAR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">WEEKDAY_ON_OR_AFTER</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">AUTUMN_EQUINOX</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">WINTER_SOLSTICE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>
-<br />
- }</td></tr>
-<tr class="separator:a5ecfaf291957bc268c8975a08797a5cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec3d5ec6653b2c392d449500b8f5cb3a"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">SUNDAY</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">MONDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">TUESDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">WEDNESDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">THURSDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">FRIDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">SATURDAY</a>
-<br />
- }</td></tr>
-<tr class="separator:aec3d5ec6653b2c392d449500b8f5cb3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a5ecfaf291957bc268c8975a08797a5cb" name="a5ecfaf291957bc268c8975a08797a5cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ecfaf291957bc268c8975a08797a5cb">&#9670;&#160;</a></span>HolidayCalculationType</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cb">HolidayCalculationType</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387" name="a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"></a>FIXED_DATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1" name="a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1"></a>NTH_WEEKDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e" name="a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e"></a>EASTER_OFFSET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5" name="a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5"></a>LUNAR_NEW_YEAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4" name="a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4"></a>WEEKDAY_ON_OR_AFTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca" name="a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca"></a>AUTUMN_EQUINOX&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06" name="a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06"></a>WINTER_SOLSTICE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6" name="a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6"></a>DARKMOON_FAIRE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>,        <span class="comment">// Same month/day every year (e.g., Dec 25)</span></div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">NTH_WEEKDAY</a>,       <span class="comment">// Nth weekday of month (e.g., 4th Thursday of Nov)</span></div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">EASTER_OFFSET</a>,     <span class="comment">// Days relative to Easter Sunday</span></div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">LUNAR_NEW_YEAR</a>,    <span class="comment">// Chinese New Year (new moon between Jan 21 - Feb 20)</span></div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">WEEKDAY_ON_OR_AFTER</a>, <span class="comment">// First weekday on or after a date (e.g., first Monday on or after Feb 3)</span></div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">AUTUMN_EQUINOX</a>,    <span class="comment">// Days relative to autumn equinox (offset in days)</span></div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">WINTER_SOLSTICE</a>,   <span class="comment">// Days relative to winter solstice (offset in days)</span></div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>     <span class="comment">// First Sunday of months matching (month % 3 == locationOffset)</span></div>
-<div class="line"><span class="lineno">   35</span>};</div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">HolidayCalculationType::AUTUMN_EQUINOX</a></div><div class="ttdeci">@ AUTUMN_EQUINOX</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">HolidayCalculationType::NTH_WEEKDAY</a></div><div class="ttdeci">@ NTH_WEEKDAY</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">HolidayCalculationType::DARKMOON_FAIRE</a></div><div class="ttdeci">@ DARKMOON_FAIRE</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">HolidayCalculationType::WEEKDAY_ON_OR_AFTER</a></div><div class="ttdeci">@ WEEKDAY_ON_OR_AFTER</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">HolidayCalculationType::FIXED_DATE</a></div><div class="ttdeci">@ FIXED_DATE</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">HolidayCalculationType::EASTER_OFFSET</a></div><div class="ttdeci">@ EASTER_OFFSET</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">HolidayCalculationType::WINTER_SOLSTICE</a></div><div class="ttdeci">@ WINTER_SOLSTICE</div></div>
-<div class="ttc" id="aa00029_html_a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5"><div class="ttname"><a href="../../d5/d16/a00029.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">HolidayCalculationType::LUNAR_NEW_YEAR</a></div><div class="ttdeci">@ LUNAR_NEW_YEAR</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aec3d5ec6653b2c392d449500b8f5cb3a" name="aec3d5ec6653b2c392d449500b8f5cb3a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec3d5ec6653b2c392d449500b8f5cb3a">&#9670;&#160;</a></span>Weekday</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5" name="aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5"></a>SUNDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd" name="aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd"></a>MONDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14" name="aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14"></a>TUESDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825" name="aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825"></a>WEDNESDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755" name="aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755"></a>THURSDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936" name="aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936"></a>FRIDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7" name="aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7"></a>SATURDAY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">SUNDAY</a> = 0,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">MONDAY</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">TUESDAY</a>,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">WEDNESDAY</a>,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">THURSDAY</a>,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">FRIDAY</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">SATURDAY</a></div>
-<div class="line"><span class="lineno">   46</span>};</div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">Weekday::TUESDAY</a></div><div class="ttdeci">@ TUESDAY</div></div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">Weekday::THURSDAY</a></div><div class="ttdeci">@ THURSDAY</div></div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">Weekday::FRIDAY</a></div><div class="ttdeci">@ FRIDAY</div></div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">Weekday::SUNDAY</a></div><div class="ttdeci">@ SUNDAY</div></div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">Weekday::MONDAY</a></div><div class="ttdeci">@ MONDAY</div></div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">Weekday::WEDNESDAY</a></div><div class="ttdeci">@ WEDNESDAY</div></div>
-<div class="ttc" id="aa00029_html_aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7"><div class="ttname"><a href="../../d5/d16/a00029.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">Weekday::SATURDAY</a></div><div class="ttdeci">@ SATURDAY</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d5/d16/a00029.html">HolidayDateCalculator.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d5/d16/a00029.html">MessageBuffer.h</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

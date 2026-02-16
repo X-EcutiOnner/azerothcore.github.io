@@ -1,7 +1,8 @@
 var a13525 =
 [
-    [ "npc_greengill_slaveAI", "dc/d5d/a13525.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
-    [ "JustEngagedWith", "dc/d5d/a13525.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
-    [ "SpellHit", "dc/d5d/a13525.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
-    [ "UpdateAI", "dc/d5d/a13525.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
+    [ "CalcPeriodic", "dc/d5d/a13525.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "dc/d5d/a13525.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "dc/d5d/a13525.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "dc/d5d/a13525.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "dc/d5d/a13525.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

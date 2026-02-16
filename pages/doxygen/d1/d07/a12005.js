@@ -1,6 +1,8 @@
 var a12005 =
 [
-    [ "boss_overlordwyrmthalakAI", "da/d65/a12009.html", "da/d65/a12009" ],
-    [ "boss_overlord_wyrmthalak", "d1/d07/a12005.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "d1/d07/a12005.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "honor_commandscript", "d1/d07/a12005.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "d1/d07/a12005.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "d1/d07/a12005.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "d1/d07/a12005.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "d1/d07/a12005.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

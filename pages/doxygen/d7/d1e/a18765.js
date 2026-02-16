@@ -1,5 +1,6 @@
 var a18765 =
 [
-    [ "at_icc_putricide_trap", "d7/d1e/a18765.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d7/d1e/a18765.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "ManaVoidSelector", "d7/d1e/a18765.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d7/d1e/a18765.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d7/d1e/a18765.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

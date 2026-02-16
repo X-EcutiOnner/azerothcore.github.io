@@ -1,7 +1,14 @@
 var a16357 =
 [
-    [ "npc_toc_warriorAI", "da/dcc/a16357.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "da/dcc/a16357.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "da/dcc/a16357.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "da/dcc/a16357.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "boss_baltharus_the_warbornAI", "da/dcc/a16357.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "da/dcc/a16357.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "da/dcc/a16357.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "da/dcc/a16357.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "da/dcc/a16357.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "da/dcc/a16357.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "da/dcc/a16357.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "da/dcc/a16357.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "da/dcc/a16357.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "da/dcc/a16357.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "da/dcc/a16357.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

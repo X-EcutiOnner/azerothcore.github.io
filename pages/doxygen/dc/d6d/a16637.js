@@ -1,6 +1,6 @@
 var a16637 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "dc/d6d/a16637.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
-    [ "OnGameObjectCreate", "dc/d6d/a16637.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
-    [ "OnGameObjectRemove", "dc/d6d/a16637.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
+    [ "boss_grand_championAI", "dd/d58/a16641.html", "dd/d58/a16641" ],
+    [ "boss_grand_champion", "dc/d6d/a16637.html#a9577f8af5e234b3aebd7567841b867e2", null ],
+    [ "GetAI", "dc/d6d/a16637.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
 ];

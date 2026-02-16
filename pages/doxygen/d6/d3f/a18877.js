@@ -1,17 +1,8 @@
 var a18877 =
 [
-    [ "boss_four_horsemenAI", "d6/d3f/a18877.html#a828a858c3337791bd2acb3d6ba730233", null ],
-    [ "AttackStart", "d6/d3f/a18877.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "IsInRoom", "d6/d3f/a18877.html#afaf17721189ab5b202a7dfbcd7f363e3", null ],
-    [ "JustDied", "d6/d3f/a18877.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
-    [ "JustEngagedWith", "d6/d3f/a18877.html#a17b8ca30ceb0efb87be77f970c526444", null ],
-    [ "KilledUnit", "d6/d3f/a18877.html#a87bdde27a69a020a26da31f01286593a", null ],
-    [ "MovementInform", "d6/d3f/a18877.html#aa900c075c04673341b3100488c45f9e7", null ],
-    [ "MoveToCorner", "d6/d3f/a18877.html#a7891dc79980c67d82867f6181685b359", null ],
-    [ "Reset", "d6/d3f/a18877.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
-    [ "UpdateAI", "d6/d3f/a18877.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
-    [ "currentWaypoint", "d6/d3f/a18877.html#ab3c2643e1b3c58452661255979e67e63", null ],
-    [ "events", "d6/d3f/a18877.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
-    [ "horsemanId", "d6/d3f/a18877.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "d6/d3f/a18877.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
+    [ "DecayPeriodicTimer", "d6/d3f/a18877.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d6/d3f/a18877.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d6/d3f/a18877.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d6/d3f/a18877.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d6/d3f/a18877.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

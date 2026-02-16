@@ -1,7 +1,6 @@
 var a16333 =
 [
-    [ "npc_toc_mageAI", "de/dd1/a16333.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "de/dd1/a16333.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "de/dd1/a16333.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "de/dd1/a16333.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "HandleLeapBack", "de/dd1/a16333.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "de/dd1/a16333.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "de/dd1/a16333.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

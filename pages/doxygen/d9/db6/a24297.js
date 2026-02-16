@@ -1,6 +1,6 @@
 var a24297 =
 [
-    [ "HandleDamageCalc", "d9/db6/a24297.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d9/db6/a24297.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d9/db6/a24297.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "HandleSummon", "d9/db6/a24297.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "d9/db6/a24297.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "d9/db6/a24297.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

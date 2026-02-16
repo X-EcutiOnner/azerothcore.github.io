@@ -1,6 +1,7 @@
 var a26149 =
 [
-    [ "HandleDamage", "d9/df3/a26149.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d9/df3/a26149.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d9/df3/a26149.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "if", "d9/df3/a26149.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d9/df3/a26149.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d9/df3/a26149.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d9/df3/a26149.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

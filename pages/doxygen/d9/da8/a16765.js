@@ -1,12 +1,8 @@
 var a16765 =
 [
-    [ "npc_phantom_mageAI", "d9/da8/a16765.html#ac919dc1ba167cc68714320f9351b99d0", null ],
-    [ "AttackStart", "d9/da8/a16765.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
-    [ "DoAction", "d9/da8/a16765.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
-    [ "EnterEvadeMode", "d9/da8/a16765.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
-    [ "JustDied", "d9/da8/a16765.html#a3a522e4c741bc321469ed87c10cf7904", null ],
-    [ "JustEngagedWith", "d9/da8/a16765.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
-    [ "Reset", "d9/da8/a16765.html#a5c29c8d54956a0917df3997118348590", null ],
-    [ "UpdateAI", "d9/da8/a16765.html#a7135acfbc36212306a68fc8b758e2881", null ],
-    [ "events", "d9/da8/a16765.html#afa0f0b5cac0759db324cea7c64463f75", null ]
+    [ "npc_toc_warlockAI", "d9/da8/a16765.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d9/da8/a16765.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d9/da8/a16765.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d9/da8/a16765.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d9/da8/a16765.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

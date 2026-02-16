@@ -1,6 +1,6 @@
 var a18797 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d1/d74/a18801.html", "d1/d74/a18801" ],
-    [ "instance_icecrown_citadel", "d2/d78/a18797.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d2/d78/a18797.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_the_lich_king_controllerAI", "d1/d74/a18801.html", "d1/d74/a18801" ],
+    [ "npc_the_lich_king_controller", "d2/d78/a18797.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d2/d78/a18797.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

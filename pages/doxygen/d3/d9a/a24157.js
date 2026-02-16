@@ -1,11 +1,6 @@
 var a24157 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d3/d9a/a24157.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "d3/d9a/a24157.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "d3/d9a/a24157.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "d3/d9a/a24157.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "d3/d9a/a24157.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "d3/d9a/a24157.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "d3/d9a/a24157.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "d3/d9a/a24157.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_pet_dk_ghoul", "d3/d9a/a24157.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d3/d9a/a24157.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d3/d9a/a24157.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

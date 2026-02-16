@@ -1,7 +1,8 @@
 var a22689 =
 [
-    [ "HandleOnEffectApply", "d1/d13/a22689.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d1/d13/a22689.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d1/d13/a22689.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d1/d13/a22689.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "FilterTargets", "d1/d13/a22689.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d1/d13/a22689.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d1/d13/a22689.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d1/d13/a22689.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d1/d13/a22689.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

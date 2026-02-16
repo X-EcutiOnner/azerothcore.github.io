@@ -1,6 +1,7 @@
 var a19589 =
 [
-    [ "npc_collapsing_starAI", "d8/dc1/a19593.html", "d8/dc1/a19593" ],
-    [ "npc_collapsing_star", "d0/d2a/a19589.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d0/d2a/a19589.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "Load", "d0/d2a/a19589.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d0/d2a/a19589.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d0/d2a/a19589.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d0/d2a/a19589.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

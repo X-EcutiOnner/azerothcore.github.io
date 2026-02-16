@@ -1,9 +1,11 @@
 var a17613 =
 [
-    [ "CheckAreaTarget", "da/d7f/a17613.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "da/d7f/a17613.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "da/d7f/a17613.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "da/d7f/a17613.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "da/d7f/a17613.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "da/d7f/a17613.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d7f/a17613.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "da/d7f/a17613.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "da/d7f/a17613.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "da/d7f/a17613.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "da/d7f/a17613.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "da/d7f/a17613.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "da/d7f/a17613.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "da/d7f/a17613.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

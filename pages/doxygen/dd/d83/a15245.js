@@ -1,11 +1,10 @@
 var a15245 =
 [
-    [ "npc_stillpine_capitiveAI", "dd/d83/a15245.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "dd/d83/a15245.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "dd/d83/a15245.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "dd/d83/a15245.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "dd/d83/a15245.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "dd/d83/a15245.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "dd/d83/a15245.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "dd/d83/a15245.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "CurrId", "dd/d83/a15245.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "dd/d83/a15245.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "dd/d83/a15245.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "dd/d83/a15245.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "dd/d83/a15245.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "dd/d83/a15245.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "dd/d83/a15245.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

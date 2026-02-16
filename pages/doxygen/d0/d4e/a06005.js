@@ -1,5 +1,6 @@
 var a06005 =
 [
-    [ "Subject", "d0/d4e/a06005.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "d0/d4e/a06005.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "DirectoryEntry", "d0/d4e/a06005.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "d0/d4e/a06005.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "d0/d4e/a06005.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

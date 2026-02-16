@@ -1,6 +1,8 @@
 var a11965 =
 [
-    [ "boss_gythAI", "d0/d39/a11969.html", "d0/d39/a11969" ],
-    [ "boss_gyth", "d2/dc6/a11965.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "d2/dc6/a11965.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "CreatureCountWorker", "d2/dc6/a11965.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d2/dc6/a11965.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d2/dc6/a11965.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d2/dc6/a11965.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d2/dc6/a11965.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

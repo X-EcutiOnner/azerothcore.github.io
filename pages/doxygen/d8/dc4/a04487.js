@@ -1,19 +1,20 @@
 var a04487 =
 [
-    [ "VMAP::AreaAndLiquidData", "db/dd9/a05012.html", "db/dd9/a05012" ],
-    [ "VMAP::AreaAndLiquidData::AreaInfo", "d5/d66/a05016.html", "d5/d66/a05016" ],
-    [ "VMAP::AreaAndLiquidData::LiquidInfo", "d4/d79/a05020.html", "d4/d79/a05020" ],
-    [ "VMAP::IVMapMgr", "d7/d17/a05024.html", "d7/d17/a05024" ],
-    [ "VMAP_INVALID_HEIGHT", "d8/dc4/a04487.html#aa3e862468079e7d1ca850fab429fb316", null ],
-    [ "VMAP_INVALID_HEIGHT_VALUE", "d8/dc4/a04487.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
-    [ "LoadResult", "d8/dc4/a04487.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
-      [ "Success", "d8/dc4/a04487.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
-      [ "FileNotFound", "d8/dc4/a04487.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
-      [ "VersionMismatch", "d8/dc4/a04487.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
+    [ "instance_nexus", "d6/dd1/a19649.html", "d6/dd1/a19649" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "d8/d78/a19653.html", "d8/d78/a19653" ],
+    [ "npc_crystalline_frayer", "d6/d80/a19657.html", "d6/d80/a19657" ],
+    [ "eFrayer", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34", [
+      [ "SPELL_SUMMON_SEED_POD", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
+      [ "SPELL_SEED_POD", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
+      [ "SPELL_AURA_OF_REGENERATION", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
+      [ "SPELL_CRYSTAL_BLOOM", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
+      [ "SPELL_ENSNARE", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ],
+      [ "SAY_EMOTE", "d8/dc4/a04487.html#afccbdf6b1fcd1d08834c371ae089cd34acc21792a1861c2f9a3d4d694ee1d9f1d", null ]
     ] ],
-    [ "VMAP_LOAD_RESULT", "d8/dc4/a04487.html#a70f18a0d29fcdc21e145ab8306987b18", [
-      [ "VMAP_LOAD_RESULT_ERROR", "d8/dc4/a04487.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
-      [ "VMAP_LOAD_RESULT_OK", "d8/dc4/a04487.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
-      [ "VMAP_LOAD_RESULT_IGNORED", "d8/dc4/a04487.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
-    ] ]
+    [ "FrayerGroups", "d8/dc4/a04487.html#a29a293d010d15bea50b64ca0a6a16fb5", [
+      [ "GROUP_COMBAT", "d8/dc4/a04487.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44", null ],
+      [ "GROUP_SEED_POD", "d8/dc4/a04487.html#a29a293d010d15bea50b64ca0a6a16fb5acfb7ee2d22c26e537cb22506d7ae0028", null ]
+    ] ],
+    [ "AddSC_instance_nexus", "d8/dc4/a04487.html#a77d0cce0724befee65efa7555f62f8f1", null ],
+    [ "doorData", "d8/dc4/a04487.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

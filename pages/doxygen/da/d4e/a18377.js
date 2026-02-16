@@ -1,6 +1,6 @@
 var a18377 =
 [
-    [ "npc_risen_archmageAI", "d1/d01/a18381.html", "d1/d01/a18381" ],
-    [ "npc_risen_archmage", "da/d4e/a18377.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "da/d4e/a18377.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "UnchainedMagicTargetSelector", "da/d4e/a18377.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "da/d4e/a18377.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "da/d4e/a18377.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

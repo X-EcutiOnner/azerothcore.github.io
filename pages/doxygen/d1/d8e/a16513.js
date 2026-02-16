@@ -1,6 +1,6 @@
 var a16513 =
 [
-    [ "npc_concentrated_ballAI", "d8/d52/a16517.html", "d8/d52/a16517" ],
-    [ "npc_concentrated_ball", "d1/d8e/a16513.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d1/d8e/a16513.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_living_infernoAI", "d1/d8e/a16513.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d1/d8e/a16513.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d1/d8e/a16513.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

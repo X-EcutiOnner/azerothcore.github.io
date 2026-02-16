@@ -1,10 +1,9 @@
 var a14777 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d4/d34/a14777.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d4/d34/a14777.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d4/d34/a14777.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d4/d34/a14777.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d4/d34/a14777.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d4/d34/a14777.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d4/d34/a14777.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "npc_love_in_air_snivel", "d4/d34/a14777.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d4/d34/a14777.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d4/d34/a14777.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d4/d34/a14777.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d4/d34/a14777.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d4/d34/a14777.html#a548db6245ef875ec47279246e437934c", null ]
 ];

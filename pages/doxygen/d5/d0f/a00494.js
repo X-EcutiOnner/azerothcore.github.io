@@ -1,9 +1,14 @@
 var a00494 =
 [
-    [ "PathMovementBase< T, P >", "dd/d50/a10099.html", "dd/d50/a10099" ],
-    [ "WaypointMovementGenerator< Creature >", "d0/d6b/a10107.html", "d0/d6b/a10107" ],
-    [ "FlightPathMovementGenerator", "da/de4/a10111.html", "da/de4/a10111" ],
-    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "d8/dc8/a10115.html", "d8/dc8/a10115" ],
-    [ "FLIGHT_TRAVEL_UPDATE", "d5/d0f/a00494.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
-    [ "TIMEDIFF_NEXT_WP", "d5/d0f/a00494.html#afcff81f45a877feac68bf5bcae913560", null ]
+    [ "Acore::Runnable", "d2/d18/a05501.html", "d2/d18/a05501" ],
+    [ "Acore::Thread", "d1/d13/a05505.html", "d1/d13/a05505" ],
+    [ "Priority", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
+      [ "Priority_Idle", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
+      [ "Priority_Lowest", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],
+      [ "Priority_Low", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8", null ],
+      [ "Priority_Normal", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c", null ],
+      [ "Priority_High", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
+      [ "Priority_Highest", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
+      [ "Priority_Realtime", "d5/d0f/a00494.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
+    ] ]
 ];

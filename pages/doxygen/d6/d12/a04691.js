@@ -1,4 +1,5 @@
 var a04691 =
 [
-    [ "MessageBuffer", "d3/d7c/a05572.html", "d3/d7c/a05572" ]
+    [ "DBCStorageBase", "d0/d1c/a27649.html", "d0/d1c/a27649" ],
+    [ "DBCStorage< T >", "d3/da4/a27653.html", "d3/da4/a27653" ]
 ];

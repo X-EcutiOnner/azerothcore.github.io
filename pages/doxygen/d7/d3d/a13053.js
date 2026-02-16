@@ -1,7 +1,5 @@
 var a13053 =
 [
-    [ "HandleAfterCast", "d7/d3d/a13053.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d7/d3d/a13053.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d7/d3d/a13053.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d7/d3d/a13053.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "PrepareSpellScript", "d7/d3d/a13053.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "d7/d3d/a13053.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

@@ -1,6 +1,8 @@
 var a19509 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d3/d33/a19513.html", "d3/d33/a19513" ],
-    [ "boss_sjonnir_malformed_ooze", "db/d16/a19509.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "db/d16/a19509.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "HandleAfterCast", "db/d16/a19509.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "db/d16/a19509.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "db/d16/a19509.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "db/d16/a19509.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "db/d16/a19509.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

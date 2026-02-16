@@ -1,6 +1,7 @@
 var a02594 =
 [
-    [ "fireworkShowGameobjectShattrath", "db/d8b/a02594.html#a2a4be2c9e5e5d0d215bc1bf7e3ea592c", null ],
-    [ "fireworkShowScheduleShattrath", "db/d8b/a02594.html#ad36558abe06e5db19b60204279c4606e", null ],
-    [ "fireworkShowShattrath", "db/d8b/a02594.html#a5fcd036e2fe28c58f38d59d0ade0e4ed", null ]
+    [ "IsAcceptedClientBuild", "db/d8b/a02594.html#a50a906b5a3fdca3508aee0997881a717", null ],
+    [ "IsPostBCAcceptedClientBuild", "db/d8b/a02594.html#ad4f22daf9d88367d90d92416f470a28c", null ],
+    [ "IsPreBCAcceptedClientBuild", "db/d8b/a02594.html#a96896fc9dad2c304f681a24776f6726b", null ],
+    [ "MAX_PRE_BC_CLIENT_BUILD", "db/d8b/a02594.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
 ];

@@ -1,5 +1,6 @@
 var a15949 =
 [
-    [ "at_baltharus_plateau", "dc/dc8/a15949.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "dc/dc8/a15949.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "npc_custodian_of_timeAI", "db/d6e/a15953.html", "db/d6e/a15953" ],
+    [ "npc_custodian_of_time", "dc/dc8/a15949.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "dc/dc8/a15949.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

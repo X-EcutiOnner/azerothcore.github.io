@@ -1,7 +1,10 @@
 var a23517 =
 [
-    [ "FilterTargets", "d0/d71/a23517.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d0/d71/a23517.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d0/d71/a23517.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d0/d71/a23517.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "boss_harbinger_skyriss", "d0/d71/a23517.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d0/d71/a23517.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d0/d71/a23517.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d0/d71/a23517.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d0/d71/a23517.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d0/d71/a23517.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d0/d71/a23517.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

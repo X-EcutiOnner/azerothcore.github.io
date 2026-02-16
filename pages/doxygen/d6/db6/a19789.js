@@ -1,12 +1,12 @@
 var a19789 =
 [
-    [ "npc_freya_wardAI", "d6/db6/a19789.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "d6/db6/a19789.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "d6/db6/a19789.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "d6/db6/a19789.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "d6/db6/a19789.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "d6/db6/a19789.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "d6/db6/a19789.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "d6/db6/a19789.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "d6/db6/a19789.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "boss_ionar", "d6/db6/a19789.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "d6/db6/a19789.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "d6/db6/a19789.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "d6/db6/a19789.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "d6/db6/a19789.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "d6/db6/a19789.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "d6/db6/a19789.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "d6/db6/a19789.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "d6/db6/a19789.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

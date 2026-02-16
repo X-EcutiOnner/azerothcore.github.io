@@ -1,8 +1,17 @@
 var a18449 =
 [
-    [ "DecayPeriodicTimer", "db/d42/a18449.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "db/d42/a18449.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "db/d42/a18449.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "db/d42/a18449.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "db/d42/a18449.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_rimefangAI", "db/d42/a18449.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "db/d42/a18449.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "db/d42/a18449.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "db/d42/a18449.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "db/d42/a18449.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "db/d42/a18449.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "db/d42/a18449.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "db/d42/a18449.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "db/d42/a18449.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "db/d42/a18449.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "db/d42/a18449.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "db/d42/a18449.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "db/d42/a18449.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "db/d42/a18449.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

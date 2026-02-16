@@ -1,8 +1,6 @@
 var a11677 =
 [
-    [ "pet_commandscript", "d4/d06/a11677.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d4/d06/a11677.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d4/d06/a11677.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d4/d06/a11677.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d4/d06/a11677.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "EffectSplitHandler", "d4/d06/a11677.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
+    [ "Call", "d4/d06/a11677.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
+    [ "pEffectHandlerScript", "d4/d06/a11677.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
 ];

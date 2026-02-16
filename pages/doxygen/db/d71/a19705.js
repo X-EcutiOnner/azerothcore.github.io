@@ -1,8 +1,26 @@
 var a19705 =
 [
-    [ "OnPeriodic", "db/d71/a19705.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "db/d71/a19705.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "db/d71/a19705.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "db/d71/a19705.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "db/d71/a19705.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "instance_oculus_InstanceMapScript", "db/d71/a19705.html#a86c942751aee67ae10e2c77a1ace630e", null ],
+    [ "CheckAchievementCriteriaMeet", "db/d71/a19705.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
+    [ "GetData", "db/d71/a19705.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
+    [ "GetGuidData", "db/d71/a19705.html#ac969f1faf18633ad54354015fb66f4f8", null ],
+    [ "Initialize", "db/d71/a19705.html#a1c035ca450efdd89481715bd09c6c38c", null ],
+    [ "OnCreatureCreate", "db/d71/a19705.html#ac5086f399b9d36769632a983890ed576", null ],
+    [ "OnGameObjectCreate", "db/d71/a19705.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
+    [ "OnPlayerEnter", "db/d71/a19705.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
+    [ "OnUnitDeath", "db/d71/a19705.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
+    [ "ReadSaveDataMore", "db/d71/a19705.html#aa5f838155be454aec552b99c42edfe99", null ],
+    [ "SetData", "db/d71/a19705.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
+    [ "WriteSaveDataMore", "db/d71/a19705.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
+    [ "bAmberVoid", "db/d71/a19705.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
+    [ "bEmeraldVoid", "db/d71/a19705.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
+    [ "bRubyVoid", "db/d71/a19705.html#ad93d6be40d07925d1eb485f864c72ace", null ],
+    [ "CentrifugeCount", "db/d71/a19705.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
+    [ "DragonCageDoorGUID", "db/d71/a19705.html#a402480035dfffd7c4c717229bd55b921", null ],
+    [ "EregosCacheGUID", "db/d71/a19705.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
+    [ "m_auiEncounter", "db/d71/a19705.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
+    [ "uiDrakosGUID", "db/d71/a19705.html#a1bc410826700bdfcefc5f60d0967a091", null ],
+    [ "uiEregosGUID", "db/d71/a19705.html#a559b482989ee8f91f1ba412683856d89", null ],
+    [ "uiUromGUID", "db/d71/a19705.html#accf640519e925eccf0230ca4a5dee3bb", null ],
+    [ "uiVarosGUID", "db/d71/a19705.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
 ];

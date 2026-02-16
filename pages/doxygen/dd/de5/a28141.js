@@ -1,5 +1,9 @@
 var a28141 =
 [
-    [ "content", "dd/de5/a28141.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "dd/de5/a28141.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "itemId", "dd/de5/a28141.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "dd/de5/a28141.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "dd/de5/a28141.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "dd/de5/a28141.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "dd/de5/a28141.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "dd/de5/a28141.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

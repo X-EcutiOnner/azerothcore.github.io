@@ -1,10 +1,11 @@
 var a01940 =
 [
-    [ "instance_sethekk_halls", "dc/df6/a22852.html", "dc/df6/a22852" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "dc/d8c/a22856.html", "dc/d8c/a22856" ],
-    [ "AddSC_instance_sethekk_halls", "d5/dba/a01940.html#a14325c1667938972a51bf364b00fe3c3", null ],
-    [ "anzuSummonEventId", "d5/dba/a01940.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
-    [ "creatureData", "d5/dba/a01940.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/dba/a01940.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d5/dba/a01940.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "BaseGain", "d5/dba/a01940.html#ada8e56c81ab672d85f2ff274d109e477", null ],
+    [ "Gain", "d5/dba/a01940.html#ab923dd9a0df7d75127965b40539d4a10", null ],
+    [ "GetColorCode", "d5/dba/a01940.html#a812c722ab7eb34807d8cad9659d34245", null ],
+    [ "GetGrayLevel", "d5/dba/a01940.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
+    [ "GetZeroDifference", "d5/dba/a01940.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
+    [ "hk_honor_at_level", "d5/dba/a01940.html#ad25519337dcc6370a39a072c53386f55", null ],
+    [ "hk_honor_at_level_f", "d5/dba/a01940.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
+    [ "xp_in_group_rate", "d5/dba/a01940.html#a304088bebc0743c764589112d2ba3b7f", null ]
 ];

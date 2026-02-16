@@ -1,11 +1,10 @@
 var a08701 =
 [
-    [ "SpellPeriodicAuraLogInfo", "dd/d91/a08701.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "dd/d91/a08701.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "dd/d91/a08701.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "dd/d91/a08701.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "dd/d91/a08701.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "dd/d91/a08701.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "dd/d91/a08701.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "dd/d91/a08701.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "EquipmentSet", "dd/d91/a08701.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "dd/d91/a08701.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "dd/d91/a08701.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "dd/d91/a08701.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "dd/d91/a08701.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "dd/d91/a08701.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "dd/d91/a08701.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

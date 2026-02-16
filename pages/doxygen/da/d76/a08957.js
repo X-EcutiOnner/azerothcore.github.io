@@ -1,8 +1,9 @@
 var a08957 =
 [
-    [ "MailLevelReward", "da/d76/a08957.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "da/d76/a08957.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "da/d76/a08957.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "da/d76/a08957.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "da/d76/a08957.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "day", "da/d76/a08957.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "da/d76/a08957.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "da/d76/a08957.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "da/d76/a08957.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "da/d76/a08957.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "da/d76/a08957.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

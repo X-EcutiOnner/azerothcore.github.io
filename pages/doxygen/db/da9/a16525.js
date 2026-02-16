@@ -1,6 +1,7 @@
 var a16525 =
 [
-    [ "HandleEffectPeriodic", "db/da9/a16525.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "db/da9/a16525.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "db/da9/a16525.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "HandleDummy", "db/da9/a16525.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "db/da9/a16525.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "db/da9/a16525.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "db/da9/a16525.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

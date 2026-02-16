@@ -1,7 +1,12 @@
 var a19349 =
 [
-    [ "HandleProc", "d1/d6f/a19349.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d1/d6f/a19349.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d1/d6f/a19349.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d1/d6f/a19349.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "npc_gothik_triggerAI", "d1/d6f/a19349.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d1/d6f/a19349.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d1/d6f/a19349.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d1/d6f/a19349.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d1/d6f/a19349.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d1/d6f/a19349.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d1/d6f/a19349.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d1/d6f/a19349.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d1/d6f/a19349.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

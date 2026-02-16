@@ -1,11 +1,12 @@
 var a12929 =
 [
-    [ "npc_a_special_surpriseAI", "d5/ddf/a12929.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d5/ddf/a12929.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d5/ddf/a12929.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d5/ddf/a12929.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d5/ddf/a12929.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d5/ddf/a12929.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d5/ddf/a12929.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d5/ddf/a12929.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "BoardCell", "d5/ddf/a12929.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d5/ddf/a12929.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d5/ddf/a12929.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d5/ddf/a12929.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d5/ddf/a12929.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d5/ddf/a12929.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d5/ddf/a12929.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d5/ddf/a12929.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d5/ddf/a12929.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

@@ -1,8 +1,7 @@
 var a24113 =
 [
-    [ "CreatureId", "d6/da2/a24113.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d6/da2/a24113.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d6/da2/a24113.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d6/da2/a24113.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d6/da2/a24113.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "HandlePeriodic", "d6/da2/a24113.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d6/da2/a24113.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d6/da2/a24113.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d6/da2/a24113.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

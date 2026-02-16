@@ -1,7 +1,7 @@
 var a25029 =
 [
-    [ "HandleDummy", "de/dcd/a25029.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "de/dcd/a25029.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "de/dcd/a25029.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "de/dcd/a25029.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "CalculateAmount", "de/dcd/a25029.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "de/dcd/a25029.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "de/dcd/a25029.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "de/dcd/a25029.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

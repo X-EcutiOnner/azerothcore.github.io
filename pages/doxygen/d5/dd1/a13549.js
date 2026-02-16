@@ -1,6 +1,6 @@
 var a13549 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d8/d51/a13553.html", "d8/d51/a13553" ],
-    [ "npc_ravenclaw_apparition", "d5/dd1/a13549.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "d5/dd1/a13549.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "instance_stratholme_InstanceMapScript", "d8/d51/a13553.html", "d8/d51/a13553" ],
+    [ "instance_stratholme", "d5/dd1/a13549.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d5/dd1/a13549.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

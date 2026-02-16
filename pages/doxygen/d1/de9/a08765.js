@@ -1,9 +1,14 @@
 var a08765 =
 [
-    [ "VehicleAccessory", "d1/de9/a08765.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "d1/de9/a08765.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "d1/de9/a08765.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "d1/de9/a08765.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "d1/de9/a08765.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "d1/de9/a08765.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "SocialMap", "d1/de9/a08765.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d1/de9/a08765.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d1/de9/a08765.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d1/de9/a08765.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d1/de9/a08765.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d1/de9/a08765.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d1/de9/a08765.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d1/de9/a08765.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d1/de9/a08765.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d1/de9/a08765.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d1/de9/a08765.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

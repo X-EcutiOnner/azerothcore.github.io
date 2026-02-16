@@ -1,11 +1,12 @@
 var a15277 =
 [
-    [ "npc_kerlonianAI", "d1/d4e/a15277.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d1/d4e/a15277.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d1/d4e/a15277.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d1/d4e/a15277.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d1/d4e/a15277.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d1/d4e/a15277.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d1/d4e/a15277.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d1/d4e/a15277.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d1/d4e/a15277.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d1/d4e/a15277.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d1/d4e/a15277.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d1/d4e/a15277.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d1/d4e/a15277.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d1/d4e/a15277.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d1/d4e/a15277.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d1/d4e/a15277.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d1/d4e/a15277.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

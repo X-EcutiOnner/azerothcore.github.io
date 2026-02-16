@@ -1,8 +1,10 @@
 var a28517 =
 [
-    [ "ADT_file", "d2/db7/a28517.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d2/db7/a28517.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d2/db7/a28517.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d2/db7/a28517.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d2/db7/a28517.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "adt_CELLS", "db/d4a/a28525.html", "db/d4a/a28525" ],
+    [ "getMCNK", "d2/db7/a28517.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d2/db7/a28517.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d2/db7/a28517.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d2/db7/a28517.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d2/db7/a28517.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d2/db7/a28517.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

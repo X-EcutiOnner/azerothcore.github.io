@@ -1,7 +1,9 @@
 var a14561 =
 [
-    [ "hyjalThrallAI", "d2/daf/a14565.html", "d2/daf/a14565" ],
-    [ "npc_hyjal_thrall", "d9/dfd/a14561.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d9/dfd/a14561.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d9/dfd/a14561.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "CheckCast", "d9/dfd/a14561.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d9/dfd/a14561.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d9/dfd/a14561.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d9/dfd/a14561.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d9/dfd/a14561.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d9/dfd/a14561.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

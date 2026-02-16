@@ -1,11 +1,17 @@
 var a14581 =
 [
-    [ "npc_hyjal_ground_trash", "d1/d9b/a14581.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "d1/d9b/a14581.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "d1/d9b/a14581.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "d1/d9b/a14581.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "d1/d9b/a14581.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "d1/d9b/a14581.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "d1/d9b/a14581.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "d1/d9b/a14581.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "npc_coren_direbrew", "d1/d9b/a14581.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "d1/d9b/a14581.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "d1/d9b/a14581.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "d1/d9b/a14581.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "d1/d9b/a14581.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "d1/d9b/a14581.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "d1/d9b/a14581.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "d1/d9b/a14581.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "d1/d9b/a14581.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "d1/d9b/a14581.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "d1/d9b/a14581.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "d1/d9b/a14581.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "d1/d9b/a14581.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "d1/d9b/a14581.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

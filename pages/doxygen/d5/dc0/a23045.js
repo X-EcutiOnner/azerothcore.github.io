@@ -1,6 +1,6 @@
 var a23045 =
 [
-    [ "OnPeriodic", "d5/dc0/a23045.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "d5/dc0/a23045.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "d5/dc0/a23045.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d5d/a23049.html", "dc/d5d/a23049" ],
+    [ "instance_serpent_shrine", "d5/dc0/a23045.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d5/dc0/a23045.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

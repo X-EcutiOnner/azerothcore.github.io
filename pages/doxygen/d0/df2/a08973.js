@@ -1,10 +1,8 @@
 var a08973 =
 [
-    [ "Flags", "d0/df2/a08973.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "d0/df2/a08973.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "d0/df2/a08973.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "d0/df2/a08973.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "d0/df2/a08973.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "d0/df2/a08973.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "d0/df2/a08973.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "TempSummonGroupKey", "d0/df2/a08973.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
+    [ "operator<", "d0/df2/a08973.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
+    [ "_summonerEntry", "d0/df2/a08973.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
+    [ "_summonerType", "d0/df2/a08973.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
+    [ "_summonGroup", "d0/df2/a08973.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
 ];

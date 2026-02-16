@@ -1,6 +1,8 @@
 var a26457 =
 [
-    [ "HandleScript", "df/d16/a26457.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "df/d16/a26457.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "df/d16/a26457.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandleDummy", "df/d16/a26457.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "df/d16/a26457.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "df/d16/a26457.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "df/d16/a26457.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "df/d16/a26457.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

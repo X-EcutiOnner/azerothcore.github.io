@@ -1,9 +1,17 @@
 var a17573 =
 [
-    [ "HandleApply", "df/dce/a17573.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "df/dce/a17573.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "df/dce/a17573.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "df/dce/a17573.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "df/dce/a17573.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "df/dce/a17573.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "instance_gundrak_InstanceMapScript", "df/dce/a17573.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
+    [ "Initialize", "df/dce/a17573.html#a680e2b0263e64f4f0b0a71f011199202", null ],
+    [ "OnGameObjectCreate", "df/dce/a17573.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
+    [ "OnGameObjectRemove", "df/dce/a17573.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
+    [ "OnUnitDeath", "df/dce/a17573.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
+    [ "SetBossState", "df/dce/a17573.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
+    [ "SetData", "df/dce/a17573.html#a39611dead845510e26b16e8eb54114a2", null ],
+    [ "Update", "df/dce/a17573.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
+    [ "_activateTimer", "df/dce/a17573.html#a4457a3506a587d7337042eb489b441dc", null ],
+    [ "_bridgeGUIDs", "df/dce/a17573.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
+    [ "_drakkariAltarGUID", "df/dce/a17573.html#a8e34281d52ac3199b90e1971899db6b1", null ],
+    [ "_keysInCount", "df/dce/a17573.html#a9b014cab41720868f61028ef201cadaa", null ],
+    [ "_moorabiAltarGUID", "df/dce/a17573.html#a39875572cef853eb3d3f624366e3f93f", null ],
+    [ "_sladRanAltarGUID", "df/dce/a17573.html#a93b651e93e28c63272a8d06d0c521aef", null ]
 ];

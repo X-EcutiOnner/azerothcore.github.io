@@ -1,15 +1,7 @@
 var a11005 =
 [
-    [ "BaseSocketMgr", "d8/d22/a11005.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "d8/d22/a11005.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "d8/d22/a11005.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "d8/d22/a11005.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "d8/d22/a11005.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "d8/d22/a11005.html#aec088639145bbea3fcb69714ac5b5b67", null ],
-    [ "OnSocketOpen", "d8/d22/a11005.html#a308aacca5450fca4a4b35009ddd6142f", null ],
-    [ "StartWorldNetwork", "d8/d22/a11005.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "d8/d22/a11005.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "d8/d22/a11005.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "d8/d22/a11005.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "d8/d22/a11005.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "SocketGems", "d8/d22/a11005.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
+    [ "Read", "d8/d22/a11005.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
+    [ "GemGuids", "d8/d22/a11005.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
+    [ "ItemGuid", "d8/d22/a11005.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
 ];

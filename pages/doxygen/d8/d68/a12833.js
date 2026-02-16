@@ -1,6 +1,7 @@
 var a12833 =
 [
-    [ "npc_scarlet_cannonAI", "d8/dc1/a12837.html", "d8/dc1/a12837" ],
-    [ "npc_scarlet_cannon", "d8/d68/a12833.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "d8/d68/a12833.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "HandleScript", "d8/d68/a12833.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "d8/d68/a12833.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "d8/d68/a12833.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "d8/d68/a12833.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

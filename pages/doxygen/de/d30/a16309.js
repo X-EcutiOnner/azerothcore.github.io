@@ -1,7 +1,10 @@
 var a16309 =
 [
-    [ "npc_toc_priestAI", "de/d30/a16309.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "de/d30/a16309.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "de/d30/a16309.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "de/d30/a16309.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "boss_sartharion_tenebron", "de/d30/a16309.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "de/d30/a16309.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "de/d30/a16309.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "de/d30/a16309.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "de/d30/a16309.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "de/d30/a16309.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "de/d30/a16309.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

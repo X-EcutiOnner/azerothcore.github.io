@@ -1,6 +1,6 @@
 var a17805 =
 [
-    [ "HandlePeriodic", "d4/df0/a17805.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d4/df0/a17805.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d4/df0/a17805.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "npc_icc_blood_beastAI", "d4/dc4/a17809.html", "d4/dc4/a17809" ],
+    [ "npc_icc_blood_beast", "d4/df0/a17805.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "d4/df0/a17805.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

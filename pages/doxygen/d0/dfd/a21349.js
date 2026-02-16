@@ -1,6 +1,5 @@
 var a21349 =
 [
-    [ "npc_azure_stalkerAI", "d1/d9d/a21353.html", "d1/d9d/a21353" ],
-    [ "npc_azure_stalker", "d0/dfd/a21349.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "d0/dfd/a21349.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "npc_khunok_the_behemothAI", "d0/dfd/a21349.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "d0/dfd/a21349.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

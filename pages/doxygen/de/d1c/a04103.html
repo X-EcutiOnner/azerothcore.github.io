@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/database/Updater/DBUpdater.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/FrozenHalls/PitOfSaron/pit_of_saron.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,68 +106,197 @@ $(document).ready(function(){initNavTree('de/d1c/a04103.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">DBUpdater.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">pit_of_saron.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">pit_of_saron.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PassiveAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SmartAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/a05976.html">UpdateException</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d90/a17369.html">npc_pos_leader</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d4b/a05980.html">DBUpdaterUtil</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc9/a17373.html">npc_pos_leader::npc_pos_leaderAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df6/a05984.html">DBUpdater&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d78/a17377.html">npc_pos_deathwhisper_necrolyte</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d4/d9a/a04829"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9a/a04829.html">boost</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d35/a17381.html">npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/d2f/a04865"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2f/a04865.html">boost::filesystem</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0e/a17385.html">npc_pos_after_first_boss</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd2/a17389.html">npc_pos_after_first_boss::npc_pos_after_first_bossAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2c/a17393.html">npc_pos_tyrannus_events</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d7d/a17397.html">npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dde/a17401.html">npc_pos_icicle_trigger</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d51/a17405.html">npc_pos_icicle_trigger::npc_pos_icicle_triggerAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de3/a17409.html">npc_pos_collapsing_icicle</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d10/a17413.html">npc_pos_collapsing_icicle::npc_pos_collapsing_icicleAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc5/a17417.html">npc_pos_martin_or_gorkun_second</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d3d/a17421.html">npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d44/a17425.html">npc_pos_freed_slave</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da8/a17429.html">npc_pos_freed_slave::npc_pos_freed_slaveAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9a/a17433.html">npc_pos_leader_second</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d04/a17437.html">npc_pos_leader_second::npc_pos_leader_secondAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de0/a17441.html">spell_pos_empowered_blizzard_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d17/a17445.html">SlaveRunEvent</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d38/a17449.html">spell_pos_slave_trigger_closest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d7f/a17453.html">spell_pos_rimefang_frost_nova</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d30/a17457.html">spell_pos_blight_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dfd/a17461.html">spell_pos_glacial_strike_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d73/a17465.html">at_tyrannus_event_starter</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a0c382fe144b0dc101a8b2b9d4ef51010"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010">BaseLocation</a> { <br />
-&#160;&#160;<a class="el" href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550">LOCATION_REPOSITORY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c">LOCATION_DOWNLOAD</a>
-<br />
+<tr class="memitem:a8fcef7a07939b8b584fe27646f0e409b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/a04103.html#a8fcef7a07939b8b584fe27646f0e409b">EmpoweredBlizzard</a> { <a class="el" href="../../de/d1c/a04103.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a> = 70131
  }</td></tr>
-<tr class="separator:a0c382fe144b0dc101a8b2b9d4ef51010"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a8fcef7a07939b8b584fe27646f0e409b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ad9b4c5bfe589f9f6b1ea405752347585"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/a04103.html#ad9b4c5bfe589f9f6b1ea405752347585">AddSC_pit_of_saron</a> ()</td></tr>
+<tr class="separator:ad9b4c5bfe589f9f6b1ea405752347585"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a302aeb8575da3775869e8ba2aa788da0"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/dd8/a08565.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/a04103.html#a302aeb8575da3775869e8ba2aa788da0">slaveFreePos</a> [4]</td></tr>
+<tr class="separator:a302aeb8575da3775869e8ba2aa788da0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0c382fe144b0dc101a8b2b9d4ef51010" name="a0c382fe144b0dc101a8b2b9d4ef51010"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c382fe144b0dc101a8b2b9d4ef51010">&#9670;&#160;</a></span>BaseLocation</h2>
+<a id="a8fcef7a07939b8b584fe27646f0e409b" name="a8fcef7a07939b8b584fe27646f0e409b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fcef7a07939b8b584fe27646f0e409b">&#9670;&#160;</a></span>EmpoweredBlizzard</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010">BaseLocation</a></td>
+          <td class="memname">enum <a class="el" href="../../de/d1c/a04103.html#a8fcef7a07939b8b584fe27646f0e409b">EmpoweredBlizzard</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550" name="a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550"></a>LOCATION_REPOSITORY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c" name="a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c"></a>LOCATION_DOWNLOAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab" name="a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab"></a>SPELL_EMPOWERED_BLIZZARD&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550">LOCATION_REPOSITORY</a>,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c">LOCATION_DOWNLOAD</a></div>
-<div class="line"><span class="lineno">   54</span>};</div>
-<div class="ttc" id="aa04103_html_a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c"><div class="ttname"><a href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c">LOCATION_DOWNLOAD</a></div><div class="ttdeci">@ LOCATION_DOWNLOAD</div><div class="ttdef"><b>Definition:</b> DBUpdater.h:53</div></div>
-<div class="ttc" id="aa04103_html_a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550"><div class="ttname"><a href="../../de/d1c/a04103.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550">LOCATION_REPOSITORY</a></div><div class="ttdeci">@ LOCATION_REPOSITORY</div><div class="ttdef"><b>Definition:</b> DBUpdater.h:52</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1305</span>{</div>
+<div class="line"><span class="lineno"> 1306</span>    <a class="code hl_enumvalue" href="../../de/d1c/a04103.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a> = 70131</div>
+<div class="line"><span class="lineno"> 1307</span>};</div>
+<div class="ttc" id="aa04103_html_a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab"><div class="ttname"><a href="../../de/d1c/a04103.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a></div><div class="ttdeci">@ SPELL_EMPOWERED_BLIZZARD</div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1306</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ad9b4c5bfe589f9f6b1ea405752347585" name="ad9b4c5bfe589f9f6b1ea405752347585"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9b4c5bfe589f9f6b1ea405752347585">&#9670;&#160;</a></span>AddSC_pit_of_saron()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_pit_of_saron </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1489</span>{</div>
+<div class="line"><span class="lineno"> 1490</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d90/a17369.html">npc_pos_leader</a>();</div>
+<div class="line"><span class="lineno"> 1491</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d78/a17377.html">npc_pos_deathwhisper_necrolyte</a>();</div>
+<div class="line"><span class="lineno"> 1492</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d0e/a17385.html">npc_pos_after_first_boss</a>();</div>
+<div class="line"><span class="lineno"> 1493</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d2c/a17393.html">npc_pos_tyrannus_events</a>();</div>
+<div class="line"><span class="lineno"> 1494</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/dde/a17401.html">npc_pos_icicle_trigger</a>();</div>
+<div class="line"><span class="lineno"> 1495</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/de3/a17409.html">npc_pos_collapsing_icicle</a>();</div>
+<div class="line"><span class="lineno"> 1496</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/dc5/a17417.html">npc_pos_martin_or_gorkun_second</a>();</div>
+<div class="line"><span class="lineno"> 1497</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d44/a17425.html">npc_pos_freed_slave</a>();</div>
+<div class="line"><span class="lineno"> 1498</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d9a/a17433.html">npc_pos_leader_second</a>();</div>
+<div class="line"><span class="lineno"> 1499</span> </div>
+<div class="line"><span class="lineno"> 1500</span>    <a class="code hl_define" href="../../dd/d08/a00884.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/de0/a17441.html">spell_pos_empowered_blizzard_aura</a>);</div>
+<div class="line"><span class="lineno"> 1501</span>    <a class="code hl_define" href="../../dd/d08/a00884.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d38/a17449.html">spell_pos_slave_trigger_closest</a>);</div>
+<div class="line"><span class="lineno"> 1502</span>    <a class="code hl_define" href="../../dd/d08/a00884.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d7f/a17453.html">spell_pos_rimefang_frost_nova</a>);</div>
+<div class="line"><span class="lineno"> 1503</span>    <a class="code hl_define" href="../../dd/d08/a00884.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d30/a17457.html">spell_pos_blight_aura</a>);</div>
+<div class="line"><span class="lineno"> 1504</span>    <a class="code hl_define" href="../../dd/d08/a00884.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/dfd/a17461.html">spell_pos_glacial_strike_aura</a>);</div>
+<div class="line"><span class="lineno"> 1505</span> </div>
+<div class="line"><span class="lineno"> 1506</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d73/a17465.html">at_tyrannus_event_starter</a>();</div>
+<div class="line"><span class="lineno"> 1507</span>}</div>
+<div class="ttc" id="aa00884_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../dd/d08/a00884.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa17369_html"><div class="ttname"><a href="../../d9/d90/a17369.html">npc_pos_leader</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:32</div></div>
+<div class="ttc" id="aa17377_html"><div class="ttname"><a href="../../d9/d78/a17377.html">npc_pos_deathwhisper_necrolyte</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:385</div></div>
+<div class="ttc" id="aa17385_html"><div class="ttname"><a href="../../d5/d0e/a17385.html">npc_pos_after_first_boss</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:500</div></div>
+<div class="ttc" id="aa17393_html"><div class="ttname"><a href="../../d8/d2c/a17393.html">npc_pos_tyrannus_events</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:581</div></div>
+<div class="ttc" id="aa17401_html"><div class="ttname"><a href="../../df/dde/a17401.html">npc_pos_icicle_trigger</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:828</div></div>
+<div class="ttc" id="aa17409_html"><div class="ttname"><a href="../../d2/de3/a17409.html">npc_pos_collapsing_icicle</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:865</div></div>
+<div class="ttc" id="aa17417_html"><div class="ttname"><a href="../../da/dc5/a17417.html">npc_pos_martin_or_gorkun_second</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:916</div></div>
+<div class="ttc" id="aa17425_html"><div class="ttname"><a href="../../d0/d44/a17425.html">npc_pos_freed_slave</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1103</div></div>
+<div class="ttc" id="aa17433_html"><div class="ttname"><a href="../../d2/d9a/a17433.html">npc_pos_leader_second</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1144</div></div>
+<div class="ttc" id="aa17441_html"><div class="ttname"><a href="../../d6/de0/a17441.html">spell_pos_empowered_blizzard_aura</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1310</div></div>
+<div class="ttc" id="aa17449_html"><div class="ttname"><a href="../../de/d38/a17449.html">spell_pos_slave_trigger_closest</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1367</div></div>
+<div class="ttc" id="aa17453_html"><div class="ttname"><a href="../../dd/d7f/a17453.html">spell_pos_rimefang_frost_nova</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1399</div></div>
+<div class="ttc" id="aa17457_html"><div class="ttname"><a href="../../d8/d30/a17457.html">spell_pos_blight_aura</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1420</div></div>
+<div class="ttc" id="aa17461_html"><div class="ttname"><a href="../../dc/dfd/a17461.html">spell_pos_glacial_strike_aura</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1442</div></div>
+<div class="ttc" id="aa17465_html"><div class="ttname"><a href="../../d3/d73/a17465.html">at_tyrannus_event_starter</a></div><div class="ttdef"><b>Definition:</b> pit_of_saron.cpp:1463</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a302aeb8575da3775869e8ba2aa788da0" name="a302aeb8575da3775869e8ba2aa788da0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a302aeb8575da3775869e8ba2aa788da0">&#9670;&#160;</a></span>slaveFreePos</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../de/dd8/a08565.html">Position</a> slaveFreePos[4]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    {699.82f, -82.68f, 512.6f, 0.0f},</div>
+<div class="line">    {643.51f, 79.20f, 511.57f, 0.0f},</div>
+<div class="line">    {800.09f, 78.66f, 510.2f, 0.0f},</div>
+<div class="line">    {528.26f, 187.04f, 528.75f, 0.0f}</div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l01344">SlaveRunEvent::Execute()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -175,8 +304,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_ac632e0cb7d565e729369f2b018d776c.html">Updater</a></li><li class="navelem"><a class="el" href="../../de/d1c/a04103.html">DBUpdater.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_b9fdea5361312dcaf0b39717af8c62fd.html">FrozenHalls</a></li><li class="navelem"><a class="el" href="../../dir_2cf920b86eaa90086c9e49d169beb484.html">PitOfSaron</a></li><li class="navelem"><a class="el" href="../../de/d1c/a04103.html">pit_of_saron.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

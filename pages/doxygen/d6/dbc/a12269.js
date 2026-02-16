@@ -1,6 +1,8 @@
 var a12269 =
 [
-    [ "HandleOnHit", "d6/dbc/a12269.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d6/dbc/a12269.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d6/dbc/a12269.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "boss_evisceratorAI", "d6/dbc/a12269.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "d6/dbc/a12269.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "d6/dbc/a12269.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "d6/dbc/a12269.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "d6/dbc/a12269.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

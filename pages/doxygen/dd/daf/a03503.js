@@ -1,23 +1,18 @@
 var a03503 =
 [
-    [ "npc_eris_hevenfire", "d7/d4d/a13828.html", "d7/d4d/a13828" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "df/d98/a13832.html", "df/d98/a13832" ],
-    [ "npc_balance_of_light_and_shadow", "db/d55/a13836.html", "db/d55/a13836" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "db/dde/a13840.html", "db/dde/a13840" ],
-    [ "npc_augustus_the_touched", "df/de6/a13844.html", "df/de6/a13844" ],
-    [ "eEris", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "dd/daf/a03503.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
+    [ "npc_maredis_firestar", "de/df7/a13877.html", "de/df7/a13877" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "df/db7/a13881.html", "df/db7/a13881" ],
+    [ "MaredisFirestar", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
+      [ "ITEM_LIBRAM_OF_RUMINATION", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
+      [ "ITEM_LIBRAM_OF_CONSTITUTION", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
+      [ "ITEM_LIBRAM_OF_TENACITY", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
+      [ "ITEM_LIBRAM_OF_RESILIENCE", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
+      [ "ITEM_LIBRAM_OF_VORACITY", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
+      [ "GOSSIP_LIBRAM_OF_RUMINATION", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
+      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
+      [ "GOSSIP_LIBRAM_OF_TENACITY", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
+      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
+      [ "GOSSIP_LIBRAM_OF_VORACITY", "dd/daf/a03503.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
     ] ],
-    [ "AddSC_eastern_plaguelands", "dd/daf/a03503.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "AddSC_burning_steppes", "dd/daf/a03503.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
 ];

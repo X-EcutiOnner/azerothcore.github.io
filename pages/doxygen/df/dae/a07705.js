@@ -1,5 +1,4 @@
 var a07705 =
 [
-    [ "IsColorValid", "df/dae/a07705.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
-    [ "IsTextValid", "df/dae/a07705.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
+    [ "TryConsume", "df/dae/a07705.html#a8f2b6448f80a4fac69d0157c9f556dc4", null ]
 ];

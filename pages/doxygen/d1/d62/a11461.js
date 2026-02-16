@@ -1,6 +1,7 @@
 var a11461 =
 [
-    [ "npc_lokhtos_darkbargainer", "d1/d62/a11461.html#af91685ecf0f63313968b3d82373668d2", null ],
-    [ "OnGossipHello", "d1/d62/a11461.html#a39547487ef7db8a3942556665099893f", null ],
-    [ "OnGossipSelect", "d1/d62/a11461.html#a5a4640678a5669c75b1fa5d787999c02", null ]
+    [ "chance", "d1/d62/a11461.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d1/d62/a11461.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d1/d62/a11461.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d1/d62/a11461.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

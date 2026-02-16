@@ -1,7 +1,15 @@
 var a16573 =
 [
-    [ "HandleScriptEffect", "df/d81/a16573.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "df/d81/a16573.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "df/d81/a16573.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "df/d81/a16573.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "npc_argent_soldierAI", "df/d81/a16573.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "df/d81/a16573.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "df/d81/a16573.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "df/d81/a16573.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "df/d81/a16573.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "df/d81/a16573.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "df/d81/a16573.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "df/d81/a16573.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "df/d81/a16573.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "df/d81/a16573.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "df/d81/a16573.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "df/d81/a16573.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

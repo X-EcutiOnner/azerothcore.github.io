@@ -1,7 +1,9 @@
 var a15473 =
 [
-    [ "DelayedWindstoneSummonEvent", "d6/d27/a15473.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "d6/d27/a15473.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "d6/d27/a15473.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "d6/d27/a15473.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_giant_eye_tentacle", "d6/d27/a15473.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "d6/d27/a15473.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "d6/d27/a15473.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "d6/d27/a15473.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "d6/d27/a15473.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "d6/d27/a15473.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

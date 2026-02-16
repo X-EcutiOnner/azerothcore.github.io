@@ -1,6 +1,6 @@
 var a14281 =
 [
-    [ "npc_soh_fire_trigger", "d8/d6f/a14281.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "d8/d6f/a14281.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "d8/d6f/a14281.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "boss_arlokkAI", "db/d18/a14285.html", "db/d18/a14285" ],
+    [ "boss_arlokk", "d8/d6f/a14281.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d8/d6f/a14281.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

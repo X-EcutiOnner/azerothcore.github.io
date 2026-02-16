@@ -1,8 +1,7 @@
 var a05277 =
 [
-    [ "Decode", "db/d63/a05277.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "db/d63/a05277.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "db/d63/a05277.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "db/d63/a05277.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "db/d63/a05277.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "Secret", "db/d63/a05277.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "db/d63/a05277.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "db/d63/a05277.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "db/d63/a05277.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

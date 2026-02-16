@@ -1,7 +1,8 @@
 var a14317 =
 [
-    [ "npc_love_in_air_supply_sentry", "d6/dcf/a14317.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d6/dcf/a14317.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d6/dcf/a14317.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d6/dcf/a14317.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "boss_grilekAI", "d6/dcf/a14317.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d6/dcf/a14317.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d6/dcf/a14317.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d6/dcf/a14317.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d6/dcf/a14317.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

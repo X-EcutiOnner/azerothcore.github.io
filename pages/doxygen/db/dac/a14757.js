@@ -1,8 +1,10 @@
 var a14757 =
 [
-    [ "Load", "db/dac/a14757.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "db/dac/a14757.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "db/dac/a14757.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "db/dac/a14757.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "db/dac/a14757.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "boss_headless_horseman_pumpkin", "db/dac/a14757.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "db/dac/a14757.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "db/dac/a14757.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "db/dac/a14757.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "db/dac/a14757.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "db/dac/a14757.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "db/dac/a14757.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

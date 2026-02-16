@@ -1,8 +1,9 @@
 var a18413 =
 [
-    [ "npc_suppresserAI", "d4/d22/a18413.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d4/d22/a18413.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d4/d22/a18413.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d4/d22/a18413.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d4/d22/a18413.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "FilterTargets", "d4/d22/a18413.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d4/d22/a18413.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d4/d22/a18413.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d4/d22/a18413.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d4/d22/a18413.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d4/d22/a18413.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

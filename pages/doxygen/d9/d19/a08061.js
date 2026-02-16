@@ -1,10 +1,9 @@
 var a08061 =
 [
-    [ "BoxMessage", "d9/d19/a08061.html#a450f6063a89db2d152370bc997c844a3", null ],
-    [ "BoxMoney", "d9/d19/a08061.html#a52a12645b55f5757cc61e9a014a71f32", null ],
-    [ "IsCoded", "d9/d19/a08061.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
-    [ "MenuItemIcon", "d9/d19/a08061.html#a987724c4673be20f5386f44245267bc9", null ],
-    [ "Message", "d9/d19/a08061.html#af130b33294cd49261b3c093cf6f9542c", null ],
-    [ "OptionType", "d9/d19/a08061.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
-    [ "Sender", "d9/d19/a08061.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
+    [ "cancelTime", "d9/d19/a08061.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "d9/d19/a08061.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "d9/d19/a08061.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "d9/d19/a08061.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "d9/d19/a08061.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "d9/d19/a08061.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

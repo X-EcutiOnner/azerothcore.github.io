@@ -1,6 +1,10 @@
 var a15181 =
 [
-    [ "npc_muglashAI", "d4/db8/a15185.html", "d4/db8/a15185" ],
-    [ "npc_muglash", "d1/d6d/a15181.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d1/d6d/a15181.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_tarethaAI", "d1/d6d/a15181.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d1/d6d/a15181.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d1/d6d/a15181.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d1/d6d/a15181.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d1/d6d/a15181.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d1/d6d/a15181.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "d1/d6d/a15181.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

@@ -1,6 +1,6 @@
 var a12925 =
 [
-    [ "npc_a_special_surpriseAI", "d5/ddf/a12929.html", "d5/ddf/a12929" ],
-    [ "npc_a_special_surprise", "dc/d2d/a12925.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "dc/d2d/a12925.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "HandleTriggerSpell", "dc/d2d/a12925.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "dc/d2d/a12925.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "dc/d2d/a12925.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

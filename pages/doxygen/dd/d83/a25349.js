@@ -1,6 +1,5 @@
 var a25349 =
 [
-    [ "OnRemove", "dd/d83/a25349.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "dd/d83/a25349.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "dd/d83/a25349.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "PrepareSpellScript", "dd/d83/a25349.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "dd/d83/a25349.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

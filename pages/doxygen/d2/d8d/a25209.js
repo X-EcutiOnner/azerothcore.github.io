@@ -1,8 +1,6 @@
 var a25209 =
 [
-    [ "HandleApply", "d2/d8d/a25209.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d2/d8d/a25209.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d2/d8d/a25209.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d2/d8d/a25209.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d2/d8d/a25209.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "FilterTargets", "d2/d8d/a25209.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "d2/d8d/a25209.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "d2/d8d/a25209.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

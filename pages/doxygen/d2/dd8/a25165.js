@@ -1,6 +1,6 @@
 var a25165 =
 [
-    [ "HandleCast", "d2/dd8/a25165.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "d2/dd8/a25165.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "d2/dd8/a25165.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleScript", "d2/dd8/a25165.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
+    [ "PrepareSpellScript", "d2/dd8/a25165.html#a16c358062cee300e4c54f046a6c1accf", null ],
+    [ "Register", "d2/dd8/a25165.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
 ];

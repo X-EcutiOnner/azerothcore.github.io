@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/WardenCheckMgr.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllSpellScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,70 +106,71 @@ $(document).ready(function(){initNavTree('d2/ddd/a00755.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">WardenCheckMgr.h File Reference</div></div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">AllSpellScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Cryptography/BigNumber.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc5/a11756.html">WardenCheck</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d51/a11760.html">WardenCheckResult</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d31/a11764.html">WardenCheckMgr</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9c/a10369.html">AllSpellScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a367963ecc82479f8bea3aea9e235a85c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>&#160;&#160;&#160;<a class="el" href="../../d0/d31/a11764.html#aba9de1e123070338dc0049db8d8f0663">WardenCheckMgr::instance</a>()</td></tr>
-<tr class="separator:a367963ecc82479f8bea3aea9e235a85c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a743e879dd1df387001a0db3b0bf31d0e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> = <a class="el" href="../../db/d9c/a10369.html">AllSpellScript</a></td></tr>
+<tr class="separator:a743e879dd1df387001a0db3b0bf31d0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:acd25f1c729cc9c78338c6bc117dcd5e1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>
+<tr class="memitem:afe0b21412f82a634ffd412b1aca51cbc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:acd25f1c729cc9c78338c6bc117dcd5e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad353d1b1b229bf72b97440ac296da2f0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0">WardenCheckTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a> = 2
-<br />
- }</td></tr>
-<tr class="separator:ad353d1b1b229bf72b97440ac296da2f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:afa0b1cff6db4dd71ef500011182f2834"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#afa0b1cff6db4dd71ef500011182f2834">MAX_WARDEN_ACTION</a> = 3</td></tr>
-<tr class="separator:afa0b1cff6db4dd71ef500011182f2834"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80604a840828219101f07100a7a48dad"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a> = 3</td></tr>
-<tr class="separator:a80604a840828219101f07100a7a48dad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a005df8388201fb598a4eedfeac422fbc"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a00755.html#a005df8388201fb598a4eedfeac422fbc">WARDEN_MAX_LUA_CHECK_LENGTH</a> = 170</td></tr>
-<tr class="separator:a005df8388201fb598a4eedfeac422fbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:afe0b21412f82a634ffd412b1aca51cbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a367963ecc82479f8bea3aea9e235a85c" name="a367963ecc82479f8bea3aea9e235a85c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a367963ecc82479f8bea3aea9e235a85c">&#9670;&#160;</a></span>sWardenCheckMgr</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a743e879dd1df387001a0db3b0bf31d0e" name="a743e879dd1df387001a0db3b0bf31d0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a743e879dd1df387001a0db3b0bf31d0e">&#9670;&#160;</a></span>SpellSC</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sWardenCheckMgr&#160;&#160;&#160;<a class="el" href="../../d0/d31/a11764.html#aba9de1e123070338dc0049db8d8f0663">WardenCheckMgr::instance</a>()</td>
+          <td class="memname">using <a class="el" href="../../d2/ddd/a00755.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> =  <a class="el" href="../../db/d9c/a10369.html">AllSpellScript</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -177,131 +178,67 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="acd25f1c729cc9c78338c6bc117dcd5e1" name="acd25f1c729cc9c78338c6bc117dcd5e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd25f1c729cc9c78338c6bc117dcd5e1">&#9670;&#160;</a></span>WardenActions</h2>
+<a id="afe0b21412f82a634ffd412b1aca51cbc" name="afe0b21412f82a634ffd412b1aca51cbc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe0b21412f82a634ffd412b1aca51cbc">&#9670;&#160;</a></span>AllSpellHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a> : <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81" name="acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"></a>WARDEN_ACTION_LOG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13" name="acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"></a>WARDEN_ACTION_KICK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0" name="acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"></a>WARDEN_ACTION_BAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97" name="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"></a>ALLSPELLHOOK_ON_CALC_MAX_DURATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24" name="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"></a>ALLSPELLHOOK_ON_SPELL_CHECK_CAST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354" name="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"></a>ALLSPELLHOOK_CAN_PREPARE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a" name="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"></a>ALLSPELLHOOK_CAN_SCALING_EVERYTHING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770" name="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"></a>ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1" name="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"></a>ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c" name="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"></a>ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808" name="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"></a>ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f" name="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034" name="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1" name="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b" name="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"></a>ALLSPELLHOOK_ON_CAST_CANCEL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e" name="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"></a>ALLSPELLHOOK_ON_CAST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058" name="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"></a>ALLSPELLHOOK_ON_PREPARE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f" name="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"></a>ALLSPELLHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>,  <span class="comment">// TITLE Log</span></div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>, <span class="comment">// TITLE Kick</span></div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>   <span class="comment">// TITLE Ban</span></div>
-<div class="line"><span class="lineno">   30</span>};</div>
-<div class="ttc" id="aa00755_html_acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"><div class="ttname"><a href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a></div><div class="ttdeci">@ WARDEN_ACTION_KICK</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:28</div></div>
-<div class="ttc" id="aa00755_html_acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"><div class="ttname"><a href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a></div><div class="ttdeci">@ WARDEN_ACTION_BAN</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:29</div></div>
-<div class="ttc" id="aa00755_html_acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"><div class="ttname"><a href="../../d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a></div><div class="ttdeci">@ WARDEN_ACTION_LOG</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:27</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div>
+<div class="line"><span class="lineno">   41</span>};</div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CALC_MAX_DURATION</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:26</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:32</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:35</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SPELL_CHECK_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:27</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div><div class="ttdeci">@ ALLSPELLHOOK_END</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:40</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:39</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:36</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:31</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST_CANCEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:37</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:33</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:28</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:34</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SCALING_EVERYTHING</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:29</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:38</div></div>
+<div class="ttc" id="aa00755_html_afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"><div class="ttname"><a href="../../d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:30</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="ad353d1b1b229bf72b97440ac296da2f0" name="ad353d1b1b229bf72b97440ac296da2f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad353d1b1b229bf72b97440ac296da2f0">&#9670;&#160;</a></span>WardenCheckTypes</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0">WardenCheckTypes</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3" name="ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"></a>WARDEN_CHECK_MEM_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af" name="ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"></a>WARDEN_CHECK_LUA_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2" name="ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2"></a>WARDEN_CHECK_OTHER_TYPE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a>   = 0,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a>   = 1,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a> = 2,</div>
-<div class="line"><span class="lineno">   39</span>};</div>
-<div class="ttc" id="aa00755_html_ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"><div class="ttname"><a href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_MEM_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:36</div></div>
-<div class="ttc" id="aa00755_html_ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"><div class="ttname"><a href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_LUA_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:37</div></div>
-<div class="ttc" id="aa00755_html_ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2"><div class="ttname"><a href="../../d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_OTHER_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:38</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="afa0b1cff6db4dd71ef500011182f2834" name="afa0b1cff6db4dd71ef500011182f2834"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa0b1cff6db4dd71ef500011182f2834">&#9670;&#160;</a></span>MAX_WARDEN_ACTION</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_WARDEN_ACTION = 3</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>.</p>
-
-</div>
-</div>
-<a id="a80604a840828219101f07100a7a48dad" name="a80604a840828219101f07100a7a48dad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a80604a840828219101f07100a7a48dad">&#9670;&#160;</a></span>MAX_WARDEN_CHECK_TYPES</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_WARDEN_CHECK_TYPES = 3</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00091">GetMaxWardenChecksForType()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
-
-</div>
-</div>
-<a id="a005df8388201fb598a4eedfeac422fbc" name="a005df8388201fb598a4eedfeac422fbc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a005df8388201fb598a4eedfeac422fbc">&#9670;&#160;</a></span>WARDEN_MAX_LUA_CHECK_LENGTH</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WARDEN_MAX_LUA_CHECK_LENGTH = 170</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -309,8 +246,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../d2/ddd/a00755.html">WardenCheckMgr.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d2/ddd/a00755.html">AllSpellScript.h</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

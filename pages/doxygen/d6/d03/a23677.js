@@ -1,4 +1,6 @@
 var a23677 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d6/d03/a23677.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
+    [ "FilterTargets", "d6/d03/a23677.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d6/d03/a23677.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d6/d03/a23677.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

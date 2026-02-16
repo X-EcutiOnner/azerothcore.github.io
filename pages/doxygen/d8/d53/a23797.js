@@ -1,6 +1,6 @@
 var a23797 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d3/dbb/a23801.html", "d3/dbb/a23801" ],
-    [ "instance_the_eye", "d8/d53/a23797.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d8/d53/a23797.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "go_apexis_relic", "d8/d53/a23797.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d8/d53/a23797.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d8/d53/a23797.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

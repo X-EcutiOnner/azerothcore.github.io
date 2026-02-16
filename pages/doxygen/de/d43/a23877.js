@@ -1,6 +1,7 @@
 var a23877 =
 [
-    [ "npc_nether_drakeAI", "d0/d92/a23881.html", "d0/d92/a23881" ],
-    [ "npc_nether_drake", "de/d43/a23877.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "de/d43/a23877.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "de/d43/a23877.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "de/d43/a23877.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "de/d43/a23877.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "de/d43/a23877.html#a29132346f117ba785039057619edb9e7", null ]
 ];

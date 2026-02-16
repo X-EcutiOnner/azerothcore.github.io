@@ -1,9 +1,6 @@
 var a18241 =
 [
-    [ "HandleScript", "d2/df6/a18241.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d2/df6/a18241.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d2/df6/a18241.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d2/df6/a18241.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d2/df6/a18241.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d2/df6/a18241.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "HandleScript", "d2/df6/a18241.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d2/df6/a18241.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d2/df6/a18241.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

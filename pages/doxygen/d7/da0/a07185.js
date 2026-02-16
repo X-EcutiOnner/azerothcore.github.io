@@ -1,14 +1,11 @@
 var a07185 =
 [
-    [ "ArenaTeamScore", "d7/da0/a07185.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "d7/da0/a07185.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "d7/da0/a07185.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "d7/da0/a07185.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "d7/da0/a07185.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "d7/da0/a07185.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
-    [ "Arena", "d7/da0/a07185.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "d7/da0/a07185.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "d7/da0/a07185.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "d7/da0/a07185.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "d7/da0/a07185.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "count", "d7/da0/a07185.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "d7/da0/a07185.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "d7/da0/a07185.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "d7/da0/a07185.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "d7/da0/a07185.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "d7/da0/a07185.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "d7/da0/a07185.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "d7/da0/a07185.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

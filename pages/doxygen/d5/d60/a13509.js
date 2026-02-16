@@ -1,6 +1,7 @@
 var a13509 =
 [
-    [ "OnEffect", "d5/d60/a13509.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "d5/d60/a13509.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "d5/d60/a13509.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "OnPeriodic", "d5/d60/a13509.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d5/d60/a13509.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d5/d60/a13509.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d5/d60/a13509.html#a665698b54201184185d96bd33f53e584", null ]
 ];

@@ -1,6 +1,5 @@
 var a14121 =
 [
-    [ "CheckItem", "d5/dce/a14121.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d5/dce/a14121.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d5/dce/a14121.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "npc_andorhal_towerAI", "d5/dce/a14121.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
+    [ "MoveInLineOfSight", "d5/dce/a14121.html#a1165ee0e066dcaeb300096e55758389b", null ]
 ];

@@ -1,6 +1,7 @@
 var a20137 =
 [
-    [ "DestroyWinterCache", "d4/d32/a20137.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d4/d32/a20137.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d4/d32/a20137.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "HandleScript", "d4/d32/a20137.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d4/d32/a20137.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d4/d32/a20137.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d4/d32/a20137.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

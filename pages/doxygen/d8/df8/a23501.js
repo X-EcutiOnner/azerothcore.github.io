@@ -1,6 +1,6 @@
 var a23501 =
 [
-    [ "HandleScriptEffect", "d8/df8/a23501.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d8/df8/a23501.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d8/df8/a23501.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "npc_warden_mellicharAI", "de/d86/a23505.html", "de/d86/a23505" ],
+    [ "npc_warden_mellichar", "d8/df8/a23501.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d8/df8/a23501.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

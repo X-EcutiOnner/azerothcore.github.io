@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Asio/IoContext.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_mmaps.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,72 +106,63 @@ $(document).ready(function(){initNavTree('df/dd7/a04586.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">IoContext.h File Reference</div></div>
+  <div class="headertitle"><div class="title">cs_mmaps.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;boost/version.hpp&gt;</code><br />
-<code>#include &lt;boost/asio/io_context.hpp&gt;</code><br />
-<code>#include &lt;boost/asio/post.hpp&gt;</code><br />
+
+<p>.mmap related commands  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MMapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PathGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d94/a04940.html">Acore::Asio::IoContext</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html">mmaps_commandscript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:df/d15/a04833"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d15/a04833.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d4/de4/a04834"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html">Acore::Asio</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ad5308134581a9f19bfac4d556ec345b9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd7/a04586.html#ad5308134581a9f19bfac4d556ec345b9">IoContextBaseNamespace</a>&#160;&#160;&#160;boost::asio</td></tr>
-<tr class="separator:ad5308134581a9f19bfac4d556ec345b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ec391e3d78f246934f76abd937aecd8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd7/a04586.html#a0ec391e3d78f246934f76abd937aecd8">IoContextBase</a>&#160;&#160;&#160;io_context</td></tr>
-<tr class="separator:a0ec391e3d78f246934f76abd937aecd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memTemplItemLeft" align="right" valign="top">decltype(auto)&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#ac437e3511a92ead72c7d3c1f6004daaf">Acore::Asio::post</a> (<a class="el" href="../../df/dd7/a04586.html#a0ec391e3d78f246934f76abd937aecd8">IoContextBaseNamespace::IoContextBase</a> &amp;ioContext, T &amp;&amp;t)</td></tr>
-<tr class="separator:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47f8fe35925492e3f01d723115279f2e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a47f8fe35925492e3f01d723115279f2e"><td class="memTemplItemLeft" align="right" valign="top">boost::asio::io_context &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a47f8fe35925492e3f01d723115279f2e">Acore::Asio::get_io_context</a> (T &amp;&amp;ioObject)</td></tr>
-<tr class="separator:a47f8fe35925492e3f01d723115279f2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9672a1e32f85f31a4be02f505768ecd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd7/a04586.html#aa9672a1e32f85f31a4be02f505768ecd">AddSC_mmaps_commandscript</a> ()</td></tr>
+<tr class="separator:aa9672a1e32f85f31a4be02f505768ecd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a0ec391e3d78f246934f76abd937aecd8" name="a0ec391e3d78f246934f76abd937aecd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ec391e3d78f246934f76abd937aecd8">&#9670;&#160;</a></span>IoContextBase</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >.mmap related commands </p>
+<p >This file contains the CommandScripts for all mmap sub-commands </p>
+
+<p class="definition">Definition in file <a class="el" href="../../">cs_mmaps.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="aa9672a1e32f85f31a4be02f505768ecd" name="aa9672a1e32f85f31a4be02f505768ecd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9672a1e32f85f31a4be02f505768ecd">&#9670;&#160;</a></span>AddSC_mmaps_commandscript()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define IoContextBase&#160;&#160;&#160;io_context</td>
+          <td class="memname">void AddSC_mmaps_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad5308134581a9f19bfac4d556ec345b9" name="ad5308134581a9f19bfac4d556ec345b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5308134581a9f19bfac4d556ec345b9">&#9670;&#160;</a></span>IoContextBaseNamespace</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define IoContextBaseNamespace&#160;&#160;&#160;boost::asio</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  335</span>{</div>
+<div class="line"><span class="lineno">  336</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d69/a12049.html">mmaps_commandscript</a>();</div>
+<div class="line"><span class="lineno">  337</span>}</div>
+<div class="ttc" id="aa12049_html"><div class="ttname"><a href="../../db/d69/a12049.html">mmaps_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_mmaps.cpp:41</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00070">AddCommandsScripts()</a>.</p>
 
 </div>
 </div>
@@ -180,8 +171,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../df/dd7/a04586.html">IoContext.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../df/dd7/a04586.html">cs_mmaps.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var a13881 =
 [
-    [ "at_zulgurub_temple_speech", "df/db7/a13881.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "df/db7/a13881.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "npc_maredis_firestarAI", "df/db7/a13881.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "df/db7/a13881.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "df/db7/a13881.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

@@ -1,6 +1,13 @@
 var a27637 =
 [
-    [ "HandleDummy", "da/d9e/a27637.html#a1daf78c552ffd963f181eded01b570a9", null ],
-    [ "PrepareSpellScript", "da/d9e/a27637.html#adaa82dfd828ed915cfc16f95e73cd224", null ],
-    [ "Register", "da/d9e/a27637.html#a63771475c954e4bddf6c1fc4c04990e0", null ]
+    [ "DBCDatabaseLoader", "da/d9e/a27637.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "da/d9e/a27637.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "da/d9e/a27637.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "da/d9e/a27637.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "da/d9e/a27637.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "da/d9e/a27637.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "da/d9e/a27637.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "da/d9e/a27637.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "da/d9e/a27637.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "da/d9e/a27637.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

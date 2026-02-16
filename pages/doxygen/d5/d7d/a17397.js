@@ -1,7 +1,11 @@
 var a17397 =
 [
-    [ "HandleScript", "d5/d7d/a17397.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d5/d7d/a17397.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d5/d7d/a17397.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d5/d7d/a17397.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d5/d7d/a17397.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d5/d7d/a17397.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d5/d7d/a17397.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d5/d7d/a17397.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d5/d7d/a17397.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d5/d7d/a17397.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d5/d7d/a17397.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d5/d7d/a17397.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

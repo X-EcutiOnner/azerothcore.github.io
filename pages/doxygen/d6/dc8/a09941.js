@@ -1,10 +1,10 @@
 var a09941 =
 [
-    [ "DistractMovementGenerator", "d6/dc8/a09941.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d6/dc8/a09941.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d6/dc8/a09941.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d6/dc8/a09941.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d6/dc8/a09941.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d6/dc8/a09941.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d6/dc8/a09941.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "ZoneDynamicInfo", "d6/dc8/a09941.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "d6/dc8/a09941.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "d6/dc8/a09941.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "d6/dc8/a09941.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "d6/dc8/a09941.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "d6/dc8/a09941.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "d6/dc8/a09941.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

@@ -1,7 +1,9 @@
 var a10993 =
 [
-    [ "IsValidOpcode", "d3/dd7/a10993.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d3/dd7/a10993.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d3/dd7/a10993.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d3/dd7/a10993.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "EnchantmentLog", "d3/dd7/a10993.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d3/dd7/a10993.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d3/dd7/a10993.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d3/dd7/a10993.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d3/dd7/a10993.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d3/dd7/a10993.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

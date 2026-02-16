@@ -1,7 +1,18 @@
 var a02762 =
 [
-    [ "instance_trial_of_the_crusader", "d9/d40/a16908.html", "d9/d40/a16908" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d3/d87/a16912.html", "d3/d87/a16912" ],
-    [ "AddSC_instance_trial_of_the_crusader", "de/d8e/a02762.html#af823cabf441f9e6a5443da42df4fda4f", null ],
-    [ "validDedicatedInsanityItems", "de/d8e/a02762.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
+    [ "instance_ruins_of_ahnqiraj", "d1/d9b/a15405.html", "d1/d9b/a15405" ],
+    [ "instance_ruins_of_ahnqiraj::instance_ruins_of_ahnqiraj_InstanceMapScript", "d9/d5d/a15409.html", "d9/d5d/a15409" ],
+    [ "RajaxxWaveEvent", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8", [
+      [ "SAY_WAVE3", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a2c4234c075da474e1859f08d620f20d3", null ],
+      [ "SAY_WAVE4", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8af13e872cbd347b8a5bc80c2e8666381d", null ],
+      [ "SAY_WAVE5", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a3caa1ed6a429617e3127b0ee596a1538", null ],
+      [ "SAY_WAVE6", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a36b35bf4fc7c3385646f3b75fd2eef4f", null ],
+      [ "SAY_WAVE7", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8afc3fb1faeaa852c362f467426a19905e", null ],
+      [ "SAY_ENGAGE", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a60c202ec07ce9f93a9c0eff3a8a1fba9", null ],
+      [ "DATA_RAJAXX_WAVE_ENGAGED", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a6e46287d316eb0a2009039db3c6ed592", null ],
+      [ "GROUP_RAJAXX_WAVE_TIMER", "de/d8e/a02762.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a002d2a7e164b95da570f1ee400495b15", null ]
+    ] ],
+    [ "AddSC_instance_ruins_of_ahnqiraj", "de/d8e/a02762.html#ad39c6347a486714f364a0a6e068595f6", null ],
+    [ "creatureData", "de/d8e/a02762.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "RajaxxWavesData", "de/d8e/a02762.html#aef812d08d9553915de270214cf8bd837", null ]
 ];

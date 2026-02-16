@@ -1,8 +1,6 @@
 var a23853 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d7/d19/a23853.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d7/d19/a23853.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d7/d19/a23853.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d7/d19/a23853.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d7/d19/a23853.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "go_beaconAI", "d6/d52/a23857.html", "d6/d52/a23857" ],
+    [ "go_beacon", "d7/d19/a23853.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d7/d19/a23853.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

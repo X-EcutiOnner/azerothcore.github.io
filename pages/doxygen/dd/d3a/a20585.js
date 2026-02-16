@@ -1,5 +1,7 @@
 var a20585 =
 [
-    [ "go_thorim_lever", "dd/d3a/a20585.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "dd/d3a/a20585.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_thorim_trap", "dd/d3a/a20585.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "dd/d3a/a20585.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "dd/d3a/a20585.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "dd/d3a/a20585.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

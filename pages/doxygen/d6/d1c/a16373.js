@@ -1,7 +1,6 @@
 var a16373 =
 [
-    [ "npc_toc_rogueAI", "d6/d1c/a16373.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d6/d1c/a16373.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d6/d1c/a16373.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d6/d1c/a16373.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_xerestraszaAI", "d3/da1/a16377.html", "d3/da1/a16377" ],
+    [ "npc_xerestrasza", "d6/d1c/a16373.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "d6/d1c/a16373.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

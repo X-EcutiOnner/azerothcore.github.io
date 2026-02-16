@@ -1,7 +1,7 @@
 var a18133 =
 [
-    [ "HandleScript", "d5/d62/a18133.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d5/d62/a18133.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d5/d62/a18133.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d5/d62/a18133.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "HandleScriptEffect", "d5/d62/a18133.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d5/d62/a18133.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d5/d62/a18133.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d5/d62/a18133.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

@@ -1,7 +1,5 @@
 var a20169 =
 [
-    [ "HandleEffectPeriodic", "d5/d7c/a20169.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d5/d7c/a20169.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d5/d7c/a20169.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d5/d7c/a20169.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "achievement_flame_leviathan_shutout", "d5/d7c/a20169.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "d5/d7c/a20169.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

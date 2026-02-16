@@ -1,13 +1,11 @@
 var a23301 =
 [
-    [ "boss_ghazan", "da/d8e/a23301.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "da/d8e/a23301.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "da/d8e/a23301.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "da/d8e/a23301.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "da/d8e/a23301.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "da/d8e/a23301.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "da/d8e/a23301.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "da/d8e/a23301.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "da/d8e/a23301.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "da/d8e/a23301.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_kiggler_the_crazed", "da/d8e/a23301.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "da/d8e/a23301.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "da/d8e/a23301.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "da/d8e/a23301.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "da/d8e/a23301.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "da/d8e/a23301.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "da/d8e/a23301.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "da/d8e/a23301.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

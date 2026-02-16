@@ -1,7 +1,7 @@
 var a09429 =
 [
-    [ "ObjectGUIDCheck", "d3/d4f/a09429.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d3/d4f/a09429.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d3/d4f/a09429.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d3/d4f/a09429.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "GameObjectFocusCheck", "d3/d4f/a09429.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "d3/d4f/a09429.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "d3/d4f/a09429.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "d3/d4f/a09429.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

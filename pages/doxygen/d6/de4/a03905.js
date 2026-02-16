@@ -1,6 +1,12 @@
 var a03905 =
 [
-    [ "trigger_periodic", "d3/d08/a27676.html", "d3/d08/a27676" ],
-    [ "trigger_periodic::trigger_periodicAI", "dd/d04/a27680.html", "dd/d04/a27680" ],
-    [ "AddSC_generic_creature", "d6/de4/a03905.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
+    [ "npc_valkyr_battle_maiden", "dc/d3c/a13397.html", "dc/d3c/a13397" ],
+    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "dd/ddd/a13401.html", "dd/ddd/a13401" ],
+    [ "Says_VBM", "d6/de4/a03905.html#a1e8eb132ddeee98b584395e0a134c9e4", [
+      [ "WHISPER_REVIVE", "d6/de4/a03905.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
+    ] ],
+    [ "Spells_VBM", "d6/de4/a03905.html#a97df4b07a8686c29a9700c8d11af35e3", [
+      [ "SPELL_REVIVE", "d6/de4/a03905.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave", "d6/de4/a03905.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
 ];

@@ -1,7 +1,11 @@
 var a10689 =
 [
-    [ "GuildBankLogQueryResults", "dd/d66/a10689.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "dd/d66/a10689.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "dd/d66/a10689.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "dd/d66/a10689.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "BackgroundColor", "dd/d66/a10689.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "dd/d66/a10689.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "dd/d66/a10689.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "dd/d66/a10689.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "dd/d66/a10689.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "dd/d66/a10689.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "dd/d66/a10689.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "dd/d66/a10689.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

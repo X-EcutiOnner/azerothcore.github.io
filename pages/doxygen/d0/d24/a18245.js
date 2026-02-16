@@ -1,7 +1,7 @@
 var a18245 =
 [
-    [ "CheckTargetCount", "d0/d24/a18245.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d0/d24/a18245.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d0/d24/a18245.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d0/d24/a18245.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "CheckRequirement", "d0/d24/a18245.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d0/d24/a18245.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d0/d24/a18245.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d0/d24/a18245.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

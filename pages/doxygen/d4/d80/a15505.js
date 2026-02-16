@@ -1,6 +1,6 @@
 var a15505 =
 [
-    [ "npc_custodian_of_timeAI", "d6/dc3/a15509.html", "d6/dc3/a15509" ],
-    [ "npc_custodian_of_time", "d4/d80/a15505.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d4/d80/a15505.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "FilterTargets", "d4/d80/a15505.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d4/d80/a15505.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d4/d80/a15505.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

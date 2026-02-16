@@ -1,6 +1,6 @@
 var a23181 =
 [
-    [ "HandlePeriodic", "d2/d17/a23181.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "d2/d17/a23181.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "d2/d17/a23181.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "HandleAfterRemove", "d2/d17/a23181.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d2/d17/a23181.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d2/d17/a23181.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

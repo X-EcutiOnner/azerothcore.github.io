@@ -1,7 +1,12 @@
 var a11425 =
 [
-    [ "Command", "dd/d54/a11425.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "dd/d54/a11425.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "dd/d54/a11425.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "dd/d54/a11425.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "SpellDestination", "dd/d54/a11425.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "dd/d54/a11425.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "dd/d54/a11425.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "dd/d54/a11425.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "dd/d54/a11425.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "dd/d54/a11425.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "dd/d54/a11425.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "dd/d54/a11425.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "dd/d54/a11425.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

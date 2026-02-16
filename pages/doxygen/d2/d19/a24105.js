@@ -1,5 +1,6 @@
 var a24105 =
 [
-    [ "creature", "d2/d19/a24105.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "d2/d19/a24105.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "HandleSendEvent", "d2/d19/a24105.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d2/d19/a24105.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d2/d19/a24105.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

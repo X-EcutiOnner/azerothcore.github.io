@@ -1,8 +1,9 @@
 var a23577 =
 [
-    [ "npc_warchief_portal", "dc/d9b/a23577.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "dc/d9b/a23577.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "dc/d9b/a23577.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "dc/d9b/a23577.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "dc/d9b/a23577.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "HandleEffectApply", "dc/d9b/a23577.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "dc/d9b/a23577.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "dc/d9b/a23577.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "dc/d9b/a23577.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "dc/d9b/a23577.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "dc/d9b/a23577.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

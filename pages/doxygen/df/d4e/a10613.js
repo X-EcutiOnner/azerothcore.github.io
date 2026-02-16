@@ -1,6 +1,8 @@
 var a10613 =
 [
-    [ "GuildDemoteMember", "df/d4e/a10613.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "df/d4e/a10613.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "df/d4e/a10613.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildFilter", "df/d4e/a10613.html#a20ffe6a8d19489014484722b1481cb65", null ],
+    [ "Read", "df/d4e/a10613.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
+    [ "MaximumLevel", "df/d4e/a10613.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
+    [ "MinimumLevel", "df/d4e/a10613.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
+    [ "MinimumRank", "df/d4e/a10613.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
 ];

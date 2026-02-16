@@ -1,12 +1,8 @@
 var a15733 =
 [
-    [ "npc_twilight_volunteer", "d5/df8/a15733.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d5/df8/a15733.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d5/df8/a15733.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d5/df8/a15733.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d5/df8/a15733.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d5/df8/a15733.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d5/df8/a15733.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d5/df8/a15733.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d5/df8/a15733.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "npc_prospector_remtravelAI", "d5/df8/a15733.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d5/df8/a15733.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d5/df8/a15733.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d5/df8/a15733.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d5/df8/a15733.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

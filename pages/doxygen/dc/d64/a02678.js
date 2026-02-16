@@ -1,45 +1,28 @@
 var a02678 =
 [
-    [ "AhnKahetScriptName", "dc/d64/a02678.html#a506431ce00265fd3122a043804560c86", null ],
-    [ "DataHeader", "dc/d64/a02678.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAhnKahetCreatureAI", "dc/d64/a02678.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
-    [ "AhnKahetActions", "dc/d64/a02678.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
-      [ "ACTION_REMOVE_PRISON", "dc/d64/a02678.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
+    [ "tf_tower_world_state", "dd/dda/a22365.html", "dd/dda/a22365" ],
+    [ "OPvPCapturePointTF", "de/d43/a22369.html", "de/d43/a22369" ],
+    [ "OutdoorPvPTF", "da/de0/a22373.html", "da/de0/a22373" ],
+    [ "TF_CAPTURE_BUFF", "dc/d64/a02678.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
+    [ "OutdoorPvPTF_TowerType", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999", [
+      [ "TF_TOWER_NW", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
+      [ "TF_TOWER_N", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
+      [ "TF_TOWER_NE", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
+      [ "TF_TOWER_SE", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
+      [ "TF_TOWER_S", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
+      [ "TF_TOWER_NUM", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
     ] ],
-    [ "AhnKahetCreatures", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
-      [ "NPC_ELDER_NADOX", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
-      [ "NPC_PRINCE_TALDARAM", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
-      [ "NPC_JEDOGA_SHADOWSEEKER", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
-      [ "NPC_HERALD_VOLAZJ", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
-      [ "NPC_AMANITAR", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
-      [ "NPC_JEDOGA_CONTROLLER", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ],
-      [ "NPC_TWILIGHT_WORSHIPPER", "dc/d64/a02678.html#a0a7022dbeba8e4c5922bca61c1ac6be0ab0141026243071cdda0cc9e51f1e1c99", null ]
+    [ "TFTowerStates", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126", [
+      [ "TF_TOWERSTATE_N", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
+      [ "TF_TOWERSTATE_H", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
+      [ "TF_TOWERSTATE_A", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
     ] ],
-    [ "AhnkahetData", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8dd", [
-      [ "DATA_ELDER_NADOX", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
-      [ "DATA_PRINCE_TALDARAM", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
-      [ "DATA_JEDOGA_SHADOWSEEKER", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
-      [ "DATA_HERALD_VOLAZJ", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
-      [ "DATA_AMANITAR", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
-      [ "DATA_PRINCE_TALDARAM_PLATFORM", "dc/d64/a02678.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
-    ] ],
-    [ "AhnkahetObjects", "dc/d64/a02678.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
-      [ "GO_TELDARAM_DOOR", "dc/d64/a02678.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
-      [ "GO_TELDARAM_SPHERE1", "dc/d64/a02678.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
-      [ "GO_TELDARAM_SPHERE2", "dc/d64/a02678.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
-      [ "GO_TELDARAM_PLATFORM", "dc/d64/a02678.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
-    ] ],
-    [ "AhnKahetPersistentData", "dc/d64/a02678.html#acc056f2f7be3fe09395716ca57e7c7f3", [
-      [ "DATA_TELDRAM_SPHERE1", "dc/d64/a02678.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
-      [ "DATA_TELDRAM_SPHERE2", "dc/d64/a02678.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
-      [ "MAX_PERSISTENT_DATA", "dc/d64/a02678.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "AhnkahetSpells", "dc/d64/a02678.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
-      [ "SPELL_SHADOW_SICKLE", "dc/d64/a02678.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
-    ] ],
-    [ "AhnKahetTexts", "dc/d64/a02678.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
-      [ "SAY_SPHERE_ACTIVATED", "dc/d64/a02678.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
-    ] ],
-    [ "GetAhnKahetAI", "dc/d64/a02678.html#a7d67882176cbe7ff747f0bb785985b00", null ],
-    [ "MAX_ENCOUNTER", "dc/d64/a02678.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
+    [ "OutdoorPvPTFBuffZones", "dc/d64/a02678.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
+    [ "OutdoorPvPTFBuffZonesNum", "dc/d64/a02678.html#acde5c9331776adb4ed27c2319476e550", null ],
+    [ "TF_ALLY_QUEST", "dc/d64/a02678.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
+    [ "TF_HORDE_QUEST", "dc/d64/a02678.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
+    [ "TF_LOCK_TIME", "dc/d64/a02678.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
+    [ "TF_LOCK_TIME_UPDATE", "dc/d64/a02678.html#a9ef7be226d98726081fd3cb435d223b5", null ],
+    [ "TFCapturePoints", "dc/d64/a02678.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
+    [ "TFTowerWorldStates", "dc/d64/a02678.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
 ];

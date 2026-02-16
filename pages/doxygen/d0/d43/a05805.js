@@ -1,6 +1,11 @@
 var a05805 =
 [
-    [ "NullGameObjectAI", "d0/d43/a05805.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d0/d43/a05805.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d0/d43/a05805.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "DatabaseWorker", "d0/d43/a05805.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "d0/d43/a05805.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "d0/d43/a05805.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "d0/d43/a05805.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "d0/d43/a05805.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "d0/d43/a05805.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "d0/d43/a05805.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "d0/d43/a05805.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

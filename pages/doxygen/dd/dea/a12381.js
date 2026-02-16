@@ -1,7 +1,11 @@
 var a12381 =
 [
-    [ "HandleDummy", "dd/dea/a12381.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "dd/dea/a12381.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "dd/dea/a12381.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "dd/dea/a12381.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "boss_gythAI", "dd/dea/a12381.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "dd/dea/a12381.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "dd/dea/a12381.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "dd/dea/a12381.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "dd/dea/a12381.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "dd/dea/a12381.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "dd/dea/a12381.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "dd/dea/a12381.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

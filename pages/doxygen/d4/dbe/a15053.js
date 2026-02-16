@@ -1,13 +1,10 @@
 var a15053 =
 [
-    [ "npc_dirt_mound", "d4/dbe/a15053.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "d4/dbe/a15053.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "d4/dbe/a15053.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "d4/dbe/a15053.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "d4/dbe/a15053.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "d4/dbe/a15053.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "d4/dbe/a15053.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "d4/dbe/a15053.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "d4/dbe/a15053.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "d4/dbe/a15053.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "npc_hyjal_frost_wyrm", "d4/dbe/a15053.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d4/dbe/a15053.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d4/dbe/a15053.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d4/dbe/a15053.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d4/dbe/a15053.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d4/dbe/a15053.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d4/dbe/a15053.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

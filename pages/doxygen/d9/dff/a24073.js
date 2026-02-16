@@ -1,6 +1,6 @@
 var a24073 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d5/de8/a24077.html", "d5/de8/a24077" ],
-    [ "npc_mature_netherwing_drake", "d9/dff/a24073.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d9/dff/a24073.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_zephyr", "d9/dff/a24073.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d9/dff/a24073.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d9/dff/a24073.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

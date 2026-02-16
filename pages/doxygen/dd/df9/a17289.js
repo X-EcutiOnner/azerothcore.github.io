@@ -1,9 +1,9 @@
 var a17289 =
 [
-    [ "FilterTargets", "dd/df9/a17289.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "dd/df9/a17289.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "dd/df9/a17289.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "dd/df9/a17289.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "dd/df9/a17289.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "dd/df9/a17289.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_hor_lumbering_abominationAI", "dd/df9/a17289.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "dd/df9/a17289.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "dd/df9/a17289.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "dd/df9/a17289.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "dd/df9/a17289.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "dd/df9/a17289.html#aee9063950477b50e38ec904e91882689", null ]
 ];

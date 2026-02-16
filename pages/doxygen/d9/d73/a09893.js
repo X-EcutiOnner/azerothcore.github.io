@@ -1,14 +1,9 @@
 var a09893 =
 [
-    [ "~MovementGenerator", "d9/d73/a09893.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "d9/d73/a09893.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "d9/d73/a09893.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "d9/d73/a09893.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "d9/d73/a09893.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "d9/d73/a09893.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "d9/d73/a09893.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "d9/d73/a09893.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "d9/d73/a09893.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "d9/d73/a09893.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "d9/d73/a09893.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "RectangleBoundary", "d9/d73/a09893.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d9/d73/a09893.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d9/d73/a09893.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d9/d73/a09893.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d9/d73/a09893.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d9/d73/a09893.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

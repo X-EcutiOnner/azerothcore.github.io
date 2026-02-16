@@ -1,7 +1,10 @@
 var a13017 =
 [
-    [ "HandleEffectApply", "d7/dc3/a13017.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d7/dc3/a13017.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d7/dc3/a13017.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d7/dc3/a13017.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "boss_servant_quarters", "d7/dc3/a13017.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d7/dc3/a13017.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d7/dc3/a13017.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d7/dc3/a13017.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d7/dc3/a13017.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d7/dc3/a13017.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d7/dc3/a13017.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

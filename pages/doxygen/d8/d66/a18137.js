@@ -1,6 +1,7 @@
 var a18137 =
 [
-    [ "npc_shambling_horror_iccAI", "d8/d2b/a18141.html", "d8/d2b/a18141" ],
-    [ "npc_shambling_horror_icc", "d8/d66/a18137.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "d8/d66/a18137.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "HandleSpikes", "d8/d66/a18137.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d8/d66/a18137.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d8/d66/a18137.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d8/d66/a18137.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

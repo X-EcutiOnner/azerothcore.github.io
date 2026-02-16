@@ -1,9 +1,6 @@
 var a10533 =
 [
-    [ "GuildRoster", "d0/d23/a10533.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "d0/d23/a10533.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "d0/d23/a10533.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "d0/d23/a10533.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "d0/d23/a10533.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "d0/d23/a10533.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "WeatherScript", "d0/d23/a10533.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "d0/d23/a10533.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "d0/d23/a10533.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

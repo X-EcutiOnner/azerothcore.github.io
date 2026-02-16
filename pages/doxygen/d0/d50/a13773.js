@@ -1,22 +1,9 @@
 var a13773 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d0/d50/a13773.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "d0/d50/a13773.html#a195e4175f943bfaf42ded378cde928e4", null ],
-    [ "DoAction", "d0/d50/a13773.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
-    [ "GetData", "d0/d50/a13773.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
-    [ "Initialize", "d0/d50/a13773.html#a070925eb76b8af866819844411da1beb", null ],
-    [ "OnCreatureCreate", "d0/d50/a13773.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
-    [ "OnCreatureEvade", "d0/d50/a13773.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
-    [ "OnGameObjectCreate", "d0/d50/a13773.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
-    [ "OnPlayerEnter", "d0/d50/a13773.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
-    [ "OnUnitDeath", "d0/d50/a13773.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
-    [ "ResetAkilzonGauntlet", "d0/d50/a13773.html#a1623080f2466aeca03f048decc34bdb5", null ],
-    [ "SetBossState", "d0/d50/a13773.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
-    [ "SetData", "d0/d50/a13773.html#a7381d84943028f66b339168724b467b8", null ],
-    [ "StartAkilzonGauntlet", "d0/d50/a13773.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
-    [ "SummonHostage", "d0/d50/a13773.html#a907b3f4a59cbd366f702daeffe05d607", null ],
-    [ "Update", "d0/d50/a13773.html#a826800c63083d2af31847118c8b05e57", null ],
-    [ "_akilzonGauntlet", "d0/d50/a13773.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "AkilzonTrash", "d0/d50/a13773.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
-    [ "RandVendor", "d0/d50/a13773.html#ae1e7cad436566533b7673438884e6210", null ]
+    [ "boss_entropius", "d0/d50/a13773.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d0/d50/a13773.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d0/d50/a13773.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d0/d50/a13773.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d0/d50/a13773.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d0/d50/a13773.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

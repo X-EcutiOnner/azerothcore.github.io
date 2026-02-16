@@ -1,7 +1,7 @@
 var a14789 =
 [
-    [ "npc_onyxian_lair_guard", "db/d65/a14789.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "db/d65/a14789.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "db/d65/a14789.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "db/d65/a14789.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "HandleScript", "db/d65/a14789.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "db/d65/a14789.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "db/d65/a14789.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "db/d65/a14789.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

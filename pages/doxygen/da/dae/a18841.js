@@ -1,7 +1,8 @@
 var a18841 =
 [
-    [ "HandleGameObjectDamage", "da/dae/a18841.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "da/dae/a18841.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "da/dae/a18841.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "da/dae/a18841.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_suppresserAI", "da/dae/a18841.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "da/dae/a18841.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "da/dae/a18841.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "da/dae/a18841.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "da/dae/a18841.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

@@ -1,5 +1,6 @@
 var a12857 =
 [
-    [ "go_acherus_soul_prison", "dc/dd8/a12857.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "dc/dd8/a12857.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "npc_flamewaker_priestAI", "d9/df0/a12861.html", "d9/df0/a12861" ],
+    [ "npc_flamewaker_priest", "dc/dd8/a12857.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "dc/dd8/a12857.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

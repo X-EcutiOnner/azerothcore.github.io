@@ -1,9 +1,12 @@
 var a15001 =
 [
-    [ "npc_claw_tentacle", "dc/dad/a15001.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "dc/dad/a15001.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "dc/dad/a15001.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "dc/dad/a15001.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "dc/dad/a15001.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "dc/dad/a15001.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "boss_kazrogal", "dc/dad/a15001.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "dc/dad/a15001.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "dc/dad/a15001.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "dc/dad/a15001.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "dc/dad/a15001.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "dc/dad/a15001.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "dc/dad/a15001.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "dc/dad/a15001.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "dc/dad/a15001.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

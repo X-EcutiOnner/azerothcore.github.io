@@ -1,20 +1,22 @@
 var a00755 =
 [
-    [ "WardenCheck", "d5/dc5/a11756.html", "d5/dc5/a11756" ],
-    [ "WardenCheckResult", "d1/d51/a11760.html", "d1/d51/a11760" ],
-    [ "WardenCheckMgr", "d0/d31/a11764.html", "d0/d31/a11764" ],
-    [ "sWardenCheckMgr", "d2/ddd/a00755.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "d2/ddd/a00755.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
-    ] ],
-    [ "WardenCheckTypes", "d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "d2/ddd/a00755.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "d2/ddd/a00755.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "d2/ddd/a00755.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d2/ddd/a00755.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "AllSpellScript", "db/d9c/a10369.html", "db/d9c/a10369" ],
+    [ "SpellSC", "d2/ddd/a00755.html#a743e879dd1df387001a0db3b0bf31d0e", null ],
+    [ "AllSpellHook", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbc", [
+      [ "ALLSPELLHOOK_ON_CALC_MAX_DURATION", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97", null ],
+      [ "ALLSPELLHOOK_ON_SPELL_CHECK_CAST", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24", null ],
+      [ "ALLSPELLHOOK_CAN_PREPARE", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354", null ],
+      [ "ALLSPELLHOOK_CAN_SCALING_EVERYTHING", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a", null ],
+      [ "ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770", null ],
+      [ "ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1", null ],
+      [ "ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c", null ],
+      [ "ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808", null ],
+      [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f", null ],
+      [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034", null ],
+      [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1", null ],
+      [ "ALLSPELLHOOK_ON_CAST_CANCEL", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b", null ],
+      [ "ALLSPELLHOOK_ON_CAST", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e", null ],
+      [ "ALLSPELLHOOK_ON_PREPARE", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058", null ],
+      [ "ALLSPELLHOOK_END", "d2/ddd/a00755.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f", null ]
+    ] ]
 ];

@@ -1,5 +1,5 @@
 var a26957 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d9/d67/a26957.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d9/d67/a26957.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "AreaTrigger_at_last_rites", "d9/d67/a26957.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d9/d67/a26957.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

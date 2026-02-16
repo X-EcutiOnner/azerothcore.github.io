@@ -1,8 +1,6 @@
 var a13241 =
 [
-    [ "OnPeriodic", "d3/da0/a13241.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d3/da0/a13241.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d3/da0/a13241.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d3/da0/a13241.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d3/da0/a13241.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "db/df1/a13245.html", "db/df1/a13245" ],
+    [ "instance_magisters_terrace", "d3/da0/a13241.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d3/da0/a13241.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

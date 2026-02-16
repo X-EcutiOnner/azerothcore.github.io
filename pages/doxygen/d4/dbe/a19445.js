@@ -1,6 +1,6 @@
 var a19445 =
 [
-    [ "npc_hol_monumentAI", "d0/d4d/a19449.html", "d0/d4d/a19449" ],
-    [ "npc_hol_monument", "d4/dbe/a19445.html#ae70329e600ba869891e04b31d7452fc0", null ],
-    [ "GetAI", "d4/dbe/a19445.html#a8e025a4c67d3a04a231f4effe0ef3746", null ]
+    [ "boss_nothAI", "d0/d4d/a19449.html", "d0/d4d/a19449" ],
+    [ "boss_noth", "d4/dbe/a19445.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d4/dbe/a19445.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

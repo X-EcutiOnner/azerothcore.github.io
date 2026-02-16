@@ -1,6 +1,6 @@
 var a22937 =
 [
-    [ "PrepareSpellScript", "dd/d90/a22937.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "dd/d90/a22937.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "dd/d90/a22937.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "OnPeriodic", "dd/d90/a22937.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "dd/d90/a22937.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "dd/d90/a22937.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

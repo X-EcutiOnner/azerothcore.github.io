@@ -1,7 +1,8 @@
 var a11393 =
 [
-    [ "StringTransaction", "d7/d3b/a11393.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d7/d3b/a11393.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d7/d3b/a11393.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d7/d3b/a11393.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "SkillExtraItemEntry", "d7/d3b/a11393.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d7/d3b/a11393.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d7/d3b/a11393.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d7/d3b/a11393.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d7/d3b/a11393.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

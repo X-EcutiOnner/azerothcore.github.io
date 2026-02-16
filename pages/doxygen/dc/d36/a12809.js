@@ -1,6 +1,7 @@
 var a12809 =
 [
-    [ "CheckRequirement", "dc/d36/a12809.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "dc/d36/a12809.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "dc/d36/a12809.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "HandleHit", "dc/d36/a12809.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "dc/d36/a12809.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "dc/d36/a12809.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "dc/d36/a12809.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

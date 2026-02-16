@@ -1,5 +1,7 @@
 var a08501 =
 [
-    [ "PlayerClassInfo", "dd/dc7/a08501.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "dd/dc7/a08501.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "AddToGrid", "dd/dc7/a08501.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "dd/dc7/a08501.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "dd/dc7/a08501.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "dd/dc7/a08501.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

@@ -1,10 +1,9 @@
 var a25001 =
 [
-    [ "Load", "d0/d2a/a25001.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "d0/d2a/a25001.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "d0/d2a/a25001.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "d0/d2a/a25001.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "d0/d2a/a25001.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "d0/d2a/a25001.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "d0/d2a/a25001.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "spell_gen_lifebloom", "d0/d2a/a25001.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d0/d2a/a25001.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d0/d2a/a25001.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d0/d2a/a25001.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d0/d2a/a25001.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d0/d2a/a25001.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

@@ -1,13 +1,17 @@
 var a11497 =
 [
-    [ "CommandFinished", "d0/db7/a11497.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "d0/db7/a11497.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "d0/db7/a11497.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "d0/db7/a11497.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "d0/db7/a11497.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "d0/db7/a11497.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "d0/db7/a11497.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "d0/db7/a11497.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "d0/db7/a11497.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "d0/db7/a11497.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "StaticData", "de/dda/a11501.html", "de/dda/a11501" ],
+    [ "SpellImplicitTargetInfo", "d0/db7/a11497.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
+    [ "SpellImplicitTargetInfo", "d0/db7/a11497.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
+    [ "CalcDirectionAngle", "d0/db7/a11497.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
+    [ "GetCheckType", "d0/db7/a11497.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
+    [ "GetDirectionType", "d0/db7/a11497.html#a094f5c6bc82196355aeded09cb469b7c", null ],
+    [ "GetExplicitTargetMask", "d0/db7/a11497.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
+    [ "GetObjectType", "d0/db7/a11497.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
+    [ "GetReferenceType", "d0/db7/a11497.html#a59769a12291673682e1b5c3650e8aff7", null ],
+    [ "GetSelectionCategory", "d0/db7/a11497.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
+    [ "GetTarget", "d0/db7/a11497.html#ae5a138c973300efce4744ea260108097", null ],
+    [ "IsArea", "d0/db7/a11497.html#a263a4660dfdf8b77f69e5475048b414b", null ],
+    [ "_data", "d0/db7/a11497.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
+    [ "_target", "d0/db7/a11497.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
 ];

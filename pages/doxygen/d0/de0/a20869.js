@@ -1,7 +1,9 @@
 var a20869 =
 [
-    [ "HandleEffectCalcPeriodic", "d0/de0/a20869.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d0/de0/a20869.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d0/de0/a20869.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d0/de0/a20869.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "npc_ulduar_keeperAI", "d0/de0/a20869.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d0/de0/a20869.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d0/de0/a20869.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d0/de0/a20869.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d0/de0/a20869.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d0/de0/a20869.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

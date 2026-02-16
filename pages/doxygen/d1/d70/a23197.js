@@ -1,13 +1,13 @@
 var a23197 =
 [
-    [ "npc_earthen_ring_flamecaller", "d1/d70/a23197.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "d1/d70/a23197.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "d1/d70/a23197.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "d1/d70/a23197.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "d1/d70/a23197.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "d1/d70/a23197.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "d1/d70/a23197.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "d1/d70/a23197.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "d1/d70/a23197.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "d1/d70/a23197.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "boss_ghazan", "d1/d70/a23197.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d1/d70/a23197.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d1/d70/a23197.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d1/d70/a23197.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d1/d70/a23197.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d1/d70/a23197.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d1/d70/a23197.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d1/d70/a23197.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d1/d70/a23197.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d1/d70/a23197.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

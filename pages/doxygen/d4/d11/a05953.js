@@ -1,8 +1,14 @@
 var a05953 =
 [
-    [ "GuardAI", "d4/d11/a05953.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "d4/d11/a05953.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "d4/d11/a05953.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "d4/d11/a05953.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "d4/d11/a05953.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "difference_type", "d4/d11/a05953.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
+    [ "iterator_category", "d4/d11/a05953.html#acaafbe30e2be9953852968b633d8237f", null ],
+    [ "pointer", "d4/d11/a05953.html#a33215a042f7b7ddb243e8434a4c26346", null ],
+    [ "reference", "d4/d11/a05953.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
+    [ "value_type", "d4/d11/a05953.html#aa4866b181d8cd3264394657a2dac99a8", null ],
+    [ "ResultIterator", "d4/d11/a05953.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
+    [ "operator!=", "d4/d11/a05953.html#a56f56c284c3001703ec4ee6ac705066f", null ],
+    [ "operator*", "d4/d11/a05953.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
+    [ "operator++", "d4/d11/a05953.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
+    [ "operator->", "d4/d11/a05953.html#a0b6cee284fea4a4023cc688614432b69", null ],
+    [ "_ptr", "d4/d11/a05953.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
 ];

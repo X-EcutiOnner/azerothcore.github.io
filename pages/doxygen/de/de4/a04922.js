@@ -1,4 +1,12 @@
 var a04922 =
 [
-    [ "Strand", "de/de4/a04922.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
+    [ "DismissCritter", "df/d7d/a11177.html", "df/d7d/a11177" ],
+    [ "PetAbandon", "d7/d8d/a11181.html", "d7/d8d/a11181" ],
+    [ "PetActionSound", "d5/da4/a11205.html", "d5/da4/a11205" ],
+    [ "PetDismissSound", "d6/d41/a11209.html", "d6/d41/a11209" ],
+    [ "PetLearnedSpell", "df/d03/a11193.html", "df/d03/a11193" ],
+    [ "PetSpellAutocast", "db/d06/a11189.html", "db/d06/a11189" ],
+    [ "PetStopAttack", "d2/dd9/a11185.html", "d2/dd9/a11185" ],
+    [ "PetUnlearnedSpell", "da/d24/a11197.html", "da/d24/a11197" ],
+    [ "RequestPetInfo", "d0/d15/a11201.html", "d0/d15/a11201" ]
 ];

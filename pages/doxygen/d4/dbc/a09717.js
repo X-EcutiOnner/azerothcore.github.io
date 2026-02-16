@@ -1,10 +1,9 @@
 var a09717 =
 [
-    [ "DoublePosition", "d2/df8/a09721.html", "d2/df8/a09721" ],
-    [ "~AreaBoundary", "d4/dbc/a09717.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d4/dbc/a09717.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d4/dbc/a09717.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d4/dbc/a09717.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d4/dbc/a09717.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d4/dbc/a09717.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "EmoteChatBuilder", "d4/dbc/a09717.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "d4/dbc/a09717.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "d4/dbc/a09717.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "d4/dbc/a09717.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "d4/dbc/a09717.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "d4/dbc/a09717.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

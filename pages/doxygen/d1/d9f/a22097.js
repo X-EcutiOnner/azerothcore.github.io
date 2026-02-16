@@ -1,6 +1,9 @@
 var a22097 =
 [
-    [ "npc_bushwhackerAI", "d1/d9f/a22097.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d1/d9f/a22097.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d1/d9f/a22097.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "HandlePeriodic", "d1/d9f/a22097.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d1/d9f/a22097.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d1/d9f/a22097.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d1/d9f/a22097.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d1/d9f/a22097.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d1/d9f/a22097.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

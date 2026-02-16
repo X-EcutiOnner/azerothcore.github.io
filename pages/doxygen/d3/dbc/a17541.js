@@ -1,11 +1,12 @@
 var a17541 =
 [
-    [ "CountTargets", "d3/dbc/a17541.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d3/dbc/a17541.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d3/dbc/a17541.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d3/dbc/a17541.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d3/dbc/a17541.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d3/dbc/a17541.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d3/dbc/a17541.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d3/dbc/a17541.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "boss_moorabiAI", "d3/dbc/a17541.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d3/dbc/a17541.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d3/dbc/a17541.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d3/dbc/a17541.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d3/dbc/a17541.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d3/dbc/a17541.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d3/dbc/a17541.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d3/dbc/a17541.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d3/dbc/a17541.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

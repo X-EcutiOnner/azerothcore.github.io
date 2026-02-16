@@ -1,13 +1,10 @@
 var a08729 =
 [
-    [ "MMapTargetData", "d3/da2/a08729.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "d3/da2/a08729.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "d3/da2/a08729.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "d3/da2/a08729.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "d3/da2/a08729.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "d3/da2/a08729.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "d3/da2/a08729.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "d3/da2/a08729.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "d3/da2/a08729.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "d3/da2/a08729.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "TradeStatusInfo", "d3/da2/a08729.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "d3/da2/a08729.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "d3/da2/a08729.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "d3/da2/a08729.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "d3/da2/a08729.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "d3/da2/a08729.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "d3/da2/a08729.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

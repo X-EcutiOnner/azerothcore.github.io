@@ -1,10 +1,7 @@
 var a20789 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "dc/de2/a20789.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "dc/de2/a20789.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "dc/de2/a20789.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "dc/de2/a20789.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "dc/de2/a20789.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "dc/de2/a20789.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "dc/de2/a20789.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "FilterTargets", "dc/de2/a20789.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "dc/de2/a20789.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "dc/de2/a20789.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "dc/de2/a20789.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

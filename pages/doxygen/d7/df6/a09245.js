@@ -1,9 +1,12 @@
 var a09245 =
 [
-    [ "PlayerLastSearcher", "d7/df6/a09245.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
-    [ "Visit", "d7/df6/a09245.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
-    [ "Visit", "d7/df6/a09245.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
-    [ "i_check", "d7/df6/a09245.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
-    [ "i_object", "d7/df6/a09245.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
-    [ "i_phaseMask", "d7/df6/a09245.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
+    [ "flags", "d7/df6/a09245.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "d7/df6/a09245.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "d7/df6/a09245.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "d7/df6/a09245.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "d7/df6/a09245.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "d7/df6/a09245.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "d7/df6/a09245.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "d7/df6/a09245.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "d7/df6/a09245.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

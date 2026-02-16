@@ -1,4 +1,4 @@
 var a28065 =
 [
-    [ "ratio", "db/d37/a28065.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
+    [ "cost", "db/d37/a28065.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

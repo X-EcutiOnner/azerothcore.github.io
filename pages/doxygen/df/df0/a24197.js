@@ -1,6 +1,8 @@
 var a24197 =
 [
-    [ "PrepareSpellScript", "df/df0/a24197.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "df/df0/a24197.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "df/df0/a24197.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_pet_gen_valkyr_guardian", "df/df0/a24197.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "df/df0/a24197.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "df/df0/a24197.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "df/df0/a24197.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "df/df0/a24197.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

@@ -1,9 +1,12 @@
 var a13325 =
 [
-    [ "npc_dark_fiend", "d6/d1c/a13325.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d6/d1c/a13325.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d6/d1c/a13325.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d6/d1c/a13325.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d6/d1c/a13325.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d6/d1c/a13325.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "npc_koltira_deathweaverAI", "d6/d1c/a13325.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "d6/d1c/a13325.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "d6/d1c/a13325.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "d6/d1c/a13325.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "d6/d1c/a13325.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "d6/d1c/a13325.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "d6/d1c/a13325.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "d6/d1c/a13325.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "d6/d1c/a13325.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

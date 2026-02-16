@@ -1,14 +1,16 @@
 var a15209 =
 [
-    [ "npc_draenei_survivorAI", "da/d8f/a15209.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "da/d8f/a15209.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "da/d8f/a15209.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "da/d8f/a15209.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "da/d8f/a15209.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "da/d8f/a15209.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "da/d8f/a15209.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "da/d8f/a15209.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "da/d8f/a15209.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "da/d8f/a15209.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "da/d8f/a15209.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "npc_medivh_bm", "da/d8f/a15209.html#a23f04c433faf7da663b2edffb2a0440d", null ],
+    [ "AttackStart", "da/d8f/a15209.html#a8eb87f4d80d83725af017657c599d458", null ],
+    [ "DoAction", "da/d8f/a15209.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
+    [ "JustDied", "da/d8f/a15209.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
+    [ "JustSummoned", "da/d8f/a15209.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
+    [ "MoveInLineOfSight", "da/d8f/a15209.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
+    [ "Reset", "da/d8f/a15209.html#a1a33f613b083763c952882cdb82a35c1", null ],
+    [ "SummonOrcs", "da/d8f/a15209.html#a13964b4c460a664442be7eebe768edf5", null ],
+    [ "UpdateAI", "da/d8f/a15209.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
+    [ "_airArray", "da/d8f/a15209.html#a6e766596b69b52690635ee91e6e8d164", null ],
+    [ "_events", "da/d8f/a15209.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
+    [ "_groundArray", "da/d8f/a15209.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
+    [ "_instance", "da/d8f/a15209.html#a45e129d61c3987e4bff94485db739eb1", null ]
 ];

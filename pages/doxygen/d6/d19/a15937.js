@@ -1,7 +1,7 @@
 var a15937 =
 [
-    [ "CheckDistance", "d6/d19/a15937.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d6/d19/a15937.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d6/d19/a15937.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d6/d19/a15937.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "npc_kaya_flathoofAI", "d6/d19/a15937.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d6/d19/a15937.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d6/d19/a15937.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d6/d19/a15937.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

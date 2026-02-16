@@ -1,7 +1,18 @@
 var a20225 =
 [
-    [ "HandleScript", "de/db3/a20225.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "de/db3/a20225.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "de/db3/a20225.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "de/db3/a20225.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_vezax", "de/db3/a20225.html#a1ffe141a8af8d1142100a95cc21d8def", null ],
+    [ "DoAction", "de/db3/a20225.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
+    [ "GetData", "de/db3/a20225.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
+    [ "JustDied", "de/db3/a20225.html#a1ce855485a7edaace620956cb620ed39", null ],
+    [ "JustEngagedWith", "de/db3/a20225.html#ac22557ea0f60a04d51f016cc09d99417", null ],
+    [ "JustReachedHome", "de/db3/a20225.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
+    [ "KilledUnit", "de/db3/a20225.html#ab339f12be1e9da262f6243cfe22908c2", null ],
+    [ "MoveInLineOfSight", "de/db3/a20225.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
+    [ "Reset", "de/db3/a20225.html#a44ceea000e547d0e56994e9075a09a52", null ],
+    [ "SpellHitTarget", "de/db3/a20225.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
+    [ "UpdateAI", "de/db3/a20225.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
+    [ "bAchievShadowdodger", "de/db3/a20225.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
+    [ "berserk", "de/db3/a20225.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
+    [ "hardmodeAvailable", "de/db3/a20225.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
+    [ "vaporsCount", "de/db3/a20225.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
 ];

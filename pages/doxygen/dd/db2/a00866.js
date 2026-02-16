@@ -1,4 +1,4 @@
 var a00866 =
 [
-    [ "GameObjectModelOwnerImpl", "d2/d05/a08236.html", "d2/d05/a08236" ]
+    [ "ScriptRegistry< GuildScript >", "dd/db2/a00866.html#af7c126caabb7b664b2a28086b5f7737e", null ]
 ];

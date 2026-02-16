@@ -1,15 +1,9 @@
 var a05429 =
 [
-    [ "EnumFlag", "d8/d5e/a05429.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
-    [ "AsUnderlyingType", "d8/d5e/a05429.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
-    [ "HasAllFlags", "d8/d5e/a05429.html#adb5b65ab4a3d827882634d94774a912b", null ],
-    [ "HasFlag", "d8/d5e/a05429.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
-    [ "operator T", "d8/d5e/a05429.html#a13022712c9634c84907b906e55aebe28", null ],
-    [ "operator&=", "d8/d5e/a05429.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
-    [ "operator|=", "d8/d5e/a05429.html#ab49498ed668ee324702c4beadf4de999", null ],
-    [ "operator~", "d8/d5e/a05429.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
-    [ "RemoveFlag", "d8/d5e/a05429.html#a106a00ee4112382aa0120489551bf50a", null ],
-    [ "operator&", "d8/d5e/a05429.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
-    [ "operator|", "d8/d5e/a05429.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
-    [ "_value", "d8/d5e/a05429.html#a55353d720942d68d0dea86837aaca7c5", null ]
+    [ "IpLocationStore", "d8/d5e/a05429.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d8/d5e/a05429.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d8/d5e/a05429.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d8/d5e/a05429.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d8/d5e/a05429.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d8/d5e/a05429.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

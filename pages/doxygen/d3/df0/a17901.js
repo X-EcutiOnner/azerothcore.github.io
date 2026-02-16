@@ -1,6 +1,6 @@
 var a17901 =
 [
-    [ "DespawnSelf", "d3/df0/a17901.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d3/df0/a17901.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d3/df0/a17901.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "npc_igb_ship_crewAI", "de/d9d/a17905.html", "de/d9d/a17905" ],
+    [ "npc_igb_ship_crew", "d3/df0/a17901.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d3/df0/a17901.html#a48955817e21a01a726b50685b467c229", null ]
 ];

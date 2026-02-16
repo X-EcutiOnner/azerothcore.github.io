@@ -1,8 +1,8 @@
 var a16349 =
 [
-    [ "npc_toc_boomkinAI", "d5/de3/a16349.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d5/de3/a16349.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d5/de3/a16349.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d5/de3/a16349.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d5/de3/a16349.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "RestoreFight", "d5/de3/a16349.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d5/de3/a16349.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d5/de3/a16349.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d5/de3/a16349.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d5/de3/a16349.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

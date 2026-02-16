@@ -1,6 +1,8 @@
 var a08497 =
 [
-    [ "PlayerClassLevelInfo", "dd/d3d/a08497.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "dd/d3d/a08497.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "dd/d3d/a08497.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "Reset", "dd/d3d/a08497.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "dd/d3d/a08497.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "dd/d3d/a08497.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "dd/d3d/a08497.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "dd/d3d/a08497.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

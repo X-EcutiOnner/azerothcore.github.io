@@ -1,6 +1,6 @@
 var a23105 =
 [
-    [ "FilterTargets", "da/dbc/a23105.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "da/dbc/a23105.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "da/dbc/a23105.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "go_ahune_ice_stone", "da/dbc/a23105.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "da/dbc/a23105.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "da/dbc/a23105.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

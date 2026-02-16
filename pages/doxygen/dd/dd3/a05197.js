@@ -1,5 +1,8 @@
 var a05197 =
 [
-    [ "~Permissible", "dd/dd3/a05197.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
-    [ "Permit", "dd/dd3/a05197.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
+    [ "ComputeCell", "dd/dd3/a05197.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "dd/dd3/a05197.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "dd/dd3/a05197.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "dd/dd3/a05197.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "dd/dd3/a05197.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

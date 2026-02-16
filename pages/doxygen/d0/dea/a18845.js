@@ -1,8 +1,6 @@
 var a18845 =
 [
-    [ "HandleScript", "d0/dea/a18845.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d0/dea/a18845.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d0/dea/a18845.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d0/dea/a18845.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d0/dea/a18845.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_blistering_zombieAI", "db/de2/a18849.html", "db/de2/a18849" ],
+    [ "npc_blistering_zombie", "d0/dea/a18845.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d0/dea/a18845.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

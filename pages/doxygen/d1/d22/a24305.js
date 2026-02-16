@@ -1,6 +1,6 @@
 var a24305 =
 [
-    [ "achievement", "d1/d22/a24305.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d1/d22/a24305.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d1/d22/a24305.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "CheckProc", "d1/d22/a24305.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "d1/d22/a24305.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "d1/d22/a24305.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

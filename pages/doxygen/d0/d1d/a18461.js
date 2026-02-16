@@ -1,7 +1,6 @@
 var a18461 =
 [
-    [ "HandleForceCast", "d0/d1d/a18461.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d0/d1d/a18461.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d0/d1d/a18461.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d0/d1d/a18461.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_sindragosa_trashAI", "d3/dbe/a18465.html", "d3/dbe/a18465" ],
+    [ "npc_sindragosa_trash", "d0/d1d/a18461.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d0/d1d/a18461.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

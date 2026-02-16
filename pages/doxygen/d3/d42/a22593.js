@@ -1,11 +1,8 @@
 var a22593 =
 [
-    [ "boss_murmur", "d3/d42/a22593.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "d3/d42/a22593.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "d3/d42/a22593.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d3/d42/a22593.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d3/d42/a22593.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d3/d42/a22593.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d3/d42/a22593.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
-    [ "ShouldCastResonance", "d3/d42/a22593.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "Load", "d3/d42/a22593.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d3/d42/a22593.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d3/d42/a22593.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d3/d42/a22593.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d3/d42/a22593.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

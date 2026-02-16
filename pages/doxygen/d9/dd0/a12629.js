@@ -1,11 +1,13 @@
 var a12629 =
 [
-    [ "npc_demon_chain", "d9/dd0/a12629.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d9/dd0/a12629.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d9/dd0/a12629.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d9/dd0/a12629.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d9/dd0/a12629.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d9/dd0/a12629.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d9/dd0/a12629.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d9/dd0/a12629.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "boss_nefarian", "d9/dd0/a12629.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "d9/dd0/a12629.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "d9/dd0/a12629.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "d9/dd0/a12629.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "d9/dd0/a12629.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "d9/dd0/a12629.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "d9/dd0/a12629.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "d9/dd0/a12629.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "d9/dd0/a12629.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "d9/dd0/a12629.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

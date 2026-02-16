@@ -1,10 +1,8 @@
 var a22429 =
 [
-    [ "OPvPCapturePointHP", "d2/d5b/a22429.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d2/d5b/a22429.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d2/d5b/a22429.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d2/d5b/a22429.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d2/d5b/a22429.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d2/d5b/a22429.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d2/d5b/a22429.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "boss_pandemonius", "d2/d5b/a22429.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d2/d5b/a22429.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d2/d5b/a22429.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d2/d5b/a22429.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d2/d5b/a22429.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

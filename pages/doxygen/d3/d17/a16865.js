@@ -1,5 +1,9 @@
 var a16865 =
 [
-    [ "at_hor_battered_hilt_start", "d3/d17/a16865.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d3/d17/a16865.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_fel_infernalAI", "d3/d17/a16865.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
+    [ "EnterEvadeMode", "d3/d17/a16865.html#aedec8729b9be931a74fe00d1aa649848", null ],
+    [ "JustDied", "d3/d17/a16865.html#a599786069f98231eeb7f9ca809f8e671", null ],
+    [ "Reset", "d3/d17/a16865.html#a09f408c9250467228b91ef9f6c9544f4", null ],
+    [ "UpdateAI", "d3/d17/a16865.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
+    [ "events", "d3/d17/a16865.html#acf955037c246f7b5f12cc5338b300b63", null ]
 ];

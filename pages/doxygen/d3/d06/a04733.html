@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/EventProcessor.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/shared/Packets/ByteBuffer.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,63 +106,103 @@ $(document).ready(function(){initNavTree('d3/d06/a04733.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">EventProcessor.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ByteBuffer.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Random.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ByteConverter.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
+<code>#include &lt;cstring&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/a05556.html">BasicEvent</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/df6/a28381.html">ByteBufferException</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d3f/a05560.html">LambdaBasicEvent&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d04/a28385.html">ByteBufferPositionException</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1c/a05564.html">EventProcessor</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d77/a28389.html">ByteBufferSourceException</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db0/a28393.html">ByteBufferInvalidValueException</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a62fdca14f042b8645ab0d19029b80d9b"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a62fdca14f042b8645ab0d19029b80d9b"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d06/a04733.html#a62fdca14f042b8645ab0d19029b80d9b">is_lambda_event</a> = std::enable_if_t&lt;!std::is_base_of_v&lt; <a class="el" href="../../d5/d8d/a05556.html">BasicEvent</a>, std::remove_pointer_t&lt; std::remove_cvref_t&lt; T &gt; &gt; &gt; &gt;</td></tr>
-<tr class="separator:a62fdca14f042b8645ab0d19029b80d9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a393840b719db78b29da806c1237fceb0"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; <a class="el" href="../../de/d68/a04331.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d5/d8d/a05556.html">BasicEvent</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d06/a04733.html#a393840b719db78b29da806c1237fceb0">EventList</a></td></tr>
-<tr class="separator:a393840b719db78b29da806c1237fceb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a31d035bbbf2d8edc4942e9f676b32878"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:a31d035bbbf2d8edc4942e9f676b32878"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d06/a04733.html#a31d035bbbf2d8edc4942e9f676b32878">ByteBuffer::read&lt; std::string &gt;</a> ()</td></tr>
+<tr class="separator:a31d035bbbf2d8edc4942e9f676b32878"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3550abfaebcca85d45dd39281be0101d"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:a3550abfaebcca85d45dd39281be0101d"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d06/a04733.html#a3550abfaebcca85d45dd39281be0101d">ByteBuffer::read_skip&lt; std::string &gt;</a> ()</td></tr>
+<tr class="separator:a3550abfaebcca85d45dd39281be0101d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a393840b719db78b29da806c1237fceb0" name="a393840b719db78b29da806c1237fceb0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a393840b719db78b29da806c1237fceb0">&#9670;&#160;</a></span>EventList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::multimap&lt;<a class="el" href="../../de/d68/a04331.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d5/d8d/a05556.html">BasicEvent</a>*&gt; <a class="el" href="../../d3/d06/a04733.html#a393840b719db78b29da806c1237fceb0">EventList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a62fdca14f042b8645ab0d19029b80d9b" name="a62fdca14f042b8645ab0d19029b80d9b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62fdca14f042b8645ab0d19029b80d9b">&#9670;&#160;</a></span>is_lambda_event</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a31d035bbbf2d8edc4942e9f676b32878" name="a31d035bbbf2d8edc4942e9f676b32878"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31d035bbbf2d8edc4942e9f676b32878">&#9670;&#160;</a></span>ByteBuffer::read&lt; std::string &gt;()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d3/d06/a04733.html#a62fdca14f042b8645ab0d19029b80d9b">is_lambda_event</a> =  std::enable_if_t&lt;!std::is_base_of_v&lt;<a class="el" href="../../d5/d8d/a05556.html">BasicEvent</a>, std::remove_pointer_t&lt;std::remove_cvref_t&lt;T&gt; &gt;&gt; &gt;</td>
+          <td class="memname">std::string <a class="el" href="../../d3/d81/a28397.html#afab3484e1af821859f16b7bdacf2af9c">ByteBuffer::read</a>&lt; std::string &gt; </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../da/d67/a04838.html#_todo000259">Todo:</a></b></dt><dd>Make a <a class="el" href="../../d4/da9/a04736.html">ByteBuffer.cpp</a> and move all this inlining to it. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  538</span>{</div>
+<div class="line"><span class="lineno">  539</span>    std::string tmp;</div>
+<div class="line"><span class="lineno">  540</span>    *<span class="keyword">this</span> &gt;&gt; tmp;</div>
+<div class="line"><span class="lineno">  541</span>    <span class="keywordflow">return</span> tmp;</div>
+<div class="line"><span class="lineno">  542</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a3550abfaebcca85d45dd39281be0101d" name="a3550abfaebcca85d45dd39281be0101d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3550abfaebcca85d45dd39281be0101d">&#9670;&#160;</a></span>ByteBuffer::read_skip&lt; std::string &gt;()</h2>
 
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d3/d81/a28397.html#a13c94e2d389aa4c7427d1ba0c79fc955">ByteBuffer::read_skip</a>&lt; std::string &gt; </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  559</span>{</div>
+<div class="line"><span class="lineno">  560</span>    read_skip&lt;char*&gt;();</div>
+<div class="line"><span class="lineno">  561</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -170,8 +210,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d3/d06/a04733.html">EventProcessor.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_4642c4e7e8a34de1a75cadff13450cb9.html">Packets</a></li><li class="navelem"><a class="el" href="../../d3/d06/a04733.html">ByteBuffer.h</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:01:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

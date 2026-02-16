@@ -1,26 +1,10 @@
 var a09117 =
 [
-    [ "GetHeightPtr", "de/dc6/a09117.html#a347927f9d7df887b2a6fd89d841e004c", null ],
-    [ "GridTerrainData", "de/dc6/a09117.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
-    [ "~GridTerrainData", "de/dc6/a09117.html#a7380c5dbf731134733b87cab470603a4", null ],
-    [ "getArea", "de/dc6/a09117.html#a938710a8304ef342373d41581018c623", null ],
-    [ "getHeight", "de/dc6/a09117.html#a1269f47abd6faf5304494c85628bb961", null ],
-    [ "getHeightFromFlat", "de/dc6/a09117.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
-    [ "getHeightFromFloat", "de/dc6/a09117.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
-    [ "getHeightFromUint16", "de/dc6/a09117.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
-    [ "getHeightFromUint8", "de/dc6/a09117.html#af849394add099d86aa8ec9eb8c807f5d", null ],
-    [ "GetLiquidData", "de/dc6/a09117.html#afd6065e989b1c9ea28839b0c657edfa9", null ],
-    [ "getLiquidLevel", "de/dc6/a09117.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
-    [ "getMinHeight", "de/dc6/a09117.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
-    [ "isHole", "de/dc6/a09117.html#abdf3da449ed62b2d7a54547178d21110", null ],
-    [ "Load", "de/dc6/a09117.html#acacaa661126e761a863b5490a3e78e73", null ],
-    [ "LoadAreaData", "de/dc6/a09117.html#a28f80f4acdb72dd9641a261178df0859", null ],
-    [ "LoadHeightData", "de/dc6/a09117.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
-    [ "LoadHolesData", "de/dc6/a09117.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
-    [ "LoadLiquidData", "de/dc6/a09117.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
-    [ "_gridGetHeight", "de/dc6/a09117.html#a2425f13f62b37931192acdc02127c243", null ],
-    [ "_loadedAreaData", "de/dc6/a09117.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
-    [ "_loadedHeightData", "de/dc6/a09117.html#aea51fcf34105d685405203093ce67085", null ],
-    [ "_loadedHoleData", "de/dc6/a09117.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
-    [ "_loadedLiquidData", "de/dc6/a09117.html#a3d72914b55d6c6413ade869503b259cc", null ]
+    [ "PetLevelInfo", "de/dc6/a09117.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "de/dc6/a09117.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "de/dc6/a09117.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "de/dc6/a09117.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "de/dc6/a09117.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "de/dc6/a09117.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "de/dc6/a09117.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

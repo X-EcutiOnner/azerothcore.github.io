@@ -1,9 +1,8 @@
 var a19585 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d4/def/a19585.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "d4/def/a19585.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "d4/def/a19585.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "d4/def/a19585.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "d4/def/a19585.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "d4/def/a19585.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "FilterTargets", "d4/def/a19585.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d4/def/a19585.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d4/def/a19585.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d4/def/a19585.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d4/def/a19585.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

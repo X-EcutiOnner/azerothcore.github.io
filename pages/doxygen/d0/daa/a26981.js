@@ -1,5 +1,6 @@
 var a26981 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d0/daa/a26981.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d0/daa/a26981.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "npc_dream_fogAI", "d3/d58/a26985.html", "d3/d58/a26985" ],
+    [ "npc_dream_fog", "d0/daa/a26981.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d0/daa/a26981.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

@@ -1,11 +1,7 @@
 var a14177 =
 [
-    [ "npc_snowfall_glade_playmate", "d9/d69/a14177.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "d9/d69/a14177.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "d9/d69/a14177.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "d9/d69/a14177.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "d9/d69/a14177.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "d9/d69/a14177.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "d9/d69/a14177.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "d9/d69/a14177.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "HandleDispel", "d9/d69/a14177.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d9/d69/a14177.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d9/d69/a14177.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d9/d69/a14177.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

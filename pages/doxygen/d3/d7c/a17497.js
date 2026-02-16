@@ -1,6 +1,6 @@
 var a17497 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d2/dd6/a17501.html", "d2/dd6/a17501" ],
-    [ "npc_gunship_boarding_add", "d3/d7c/a17497.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "d3/d7c/a17497.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_living_mojoAI", "d2/dd6/a17501.html", "d2/dd6/a17501" ],
+    [ "npc_living_mojo", "d3/d7c/a17497.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d3/d7c/a17497.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

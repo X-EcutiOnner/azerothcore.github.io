@@ -1,6 +1,15 @@
 var a05973 =
 [
-    [ "TriggerAI", "d2/d3c/a05973.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "d2/d3c/a05973.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "d2/d3c/a05973.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "TransactionBase", "d2/d3c/a05973.html#a663d13ba0b22e0711d135073ff80ee47", null ],
+    [ "~TransactionBase", "d2/d3c/a05973.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
+    [ "Append", "d2/d3c/a05973.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d2/d3c/a05973.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
+    [ "AppendPreparedStatement", "d2/d3c/a05973.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
+    [ "Cleanup", "d2/d3c/a05973.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
+    [ "GetSize", "d2/d3c/a05973.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
+    [ "DatabaseWorkerPool", "d2/d3c/a05973.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "MySQLConnection", "d2/d3c/a05973.html#a06fa417f69e0a67da8f249333b1d189d", null ],
+    [ "TransactionTask", "d2/d3c/a05973.html#a377add6d6b5e34e774d2497d58f4a180", null ],
+    [ "_cleanedUp", "d2/d3c/a05973.html#aa82af96128bfcee997423a54396d40d4", null ],
+    [ "m_queries", "d2/d3c/a05973.html#a156f1a8316358c05285778e5734eade1", null ]
 ];

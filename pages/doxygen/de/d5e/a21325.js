@@ -1,6 +1,6 @@
 var a21325 =
 [
-    [ "npc_azure_binderAI", "df/d88/a21329.html", "df/d88/a21329" ],
-    [ "npc_azure_binder", "de/d5e/a21325.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "de/d5e/a21325.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "HandleEffectPeriodic", "de/d5e/a21325.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "de/d5e/a21325.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "de/d5e/a21325.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

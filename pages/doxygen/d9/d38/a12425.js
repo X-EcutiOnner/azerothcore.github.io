@@ -1,6 +1,6 @@
 var a12425 =
 [
-    [ "boss_shazzrahAI", "d4/ded/a12429.html", "d4/ded/a12429" ],
-    [ "boss_shazzrah", "d9/d38/a12425.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d9/d38/a12425.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "boss_pyroguard_emberseerAI", "d4/ded/a12429.html", "d4/ded/a12429" ],
+    [ "boss_pyroguard_emberseer", "d9/d38/a12425.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d9/d38/a12425.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

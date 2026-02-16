@@ -1,8 +1,9 @@
 var a14705 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d2/d2a/a14709.html", "d2/d2a/a14709" ],
-    [ "npc_thrall_old_hillsbrad", "d3/de0/a14705.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d3/de0/a14705.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d3/de0/a14705.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d3/de0/a14705.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "spell_hallows_end_put_costume", "d3/de0/a14705.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "d3/de0/a14705.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "d3/de0/a14705.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "d3/de0/a14705.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "d3/de0/a14705.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "d3/de0/a14705.html#af9b285133389942bea6738e518d34e48", null ]
 ];

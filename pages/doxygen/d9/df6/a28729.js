@@ -1,6 +1,5 @@
 var a28729 =
 [
-    [ "achievement_arena_by_type", "d9/df6/a28729.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d9/df6/a28729.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d9/df6/a28729.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "max", "d9/df6/a28729.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
+    [ "min", "d9/df6/a28729.html#a7277258d8bdc471a007814fadf91780a", null ]
 ];

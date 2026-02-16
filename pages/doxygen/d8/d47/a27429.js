@@ -1,7 +1,10 @@
 var a27429 =
 [
-    [ "npc_riggle_bassbaitAI", "d8/d47/a27429.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d8/d47/a27429.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d8/d47/a27429.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d8/d47/a27429.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_dancing_flamesAI", "d8/d47/a27429.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d8/d47/a27429.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d8/d47/a27429.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d8/d47/a27429.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d8/d47/a27429.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d8/d47/a27429.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d8/d47/a27429.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

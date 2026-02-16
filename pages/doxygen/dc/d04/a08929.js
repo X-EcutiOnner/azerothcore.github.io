@@ -1,8 +1,9 @@
 var a08929 =
 [
-    [ "target_mapId", "dc/d04/a08929.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "dc/d04/a08929.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "dc/d04/a08929.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "dc/d04/a08929.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "dc/d04/a08929.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "GameEventAIHookWorker", "dc/d04/a08929.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "dc/d04/a08929.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "dc/d04/a08929.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "dc/d04/a08929.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "dc/d04/a08929.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "dc/d04/a08929.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

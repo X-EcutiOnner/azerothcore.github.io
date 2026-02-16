@@ -1,6 +1,6 @@
 var a24125 =
 [
-    [ "npc_lord_illidan_stormrageAI", "de/dc5/a24129.html", "de/dc5/a24129" ],
-    [ "npc_lord_illidan_stormrage", "d6/d1a/a24125.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d6/d1a/a24125.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_unkor_the_ruthlessAI", "de/dc5/a24129.html", "de/dc5/a24129" ],
+    [ "npc_unkor_the_ruthless", "d6/d1a/a24125.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d6/d1a/a24125.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

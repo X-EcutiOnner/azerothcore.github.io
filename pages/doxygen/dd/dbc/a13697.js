@@ -1,7 +1,7 @@
 var a13697 =
 [
-    [ "Load", "dd/dbc/a13697.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "dd/dbc/a13697.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "dd/dbc/a13697.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "dd/dbc/a13697.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "OnRemove", "dd/dbc/a13697.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "dd/dbc/a13697.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "dd/dbc/a13697.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "dd/dbc/a13697.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

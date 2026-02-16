@@ -1,7 +1,6 @@
 var a17709 =
 [
-    [ "HandleSpikes", "db/d32/a17709.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "db/d32/a17709.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "db/d32/a17709.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "db/d32/a17709.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "BloodboltHitCheck", "db/d32/a17709.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "db/d32/a17709.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "db/d32/a17709.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

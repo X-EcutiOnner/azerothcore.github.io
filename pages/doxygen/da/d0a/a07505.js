@@ -1,11 +1,12 @@
 var a07505 =
 [
-    [ "wrapper_func", "da/d0a/a07505.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "da/d0a/a07505.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "da/d0a/a07505.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "da/d0a/a07505.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "da/d0a/a07505.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "da/d0a/a07505.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "da/d0a/a07505.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "da/d0a/a07505.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "CapturePointInfo", "da/d0a/a07505.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "da/d0a/a07505.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "da/d0a/a07505.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "da/d0a/a07505.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "da/d0a/a07505.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "da/d0a/a07505.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "da/d0a/a07505.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "da/d0a/a07505.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "da/d0a/a07505.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

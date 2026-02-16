@@ -1,6 +1,6 @@
 var a18937 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d1/d03/a18941.html", "d1/d03/a18941" ],
-    [ "boss_grobbulus_poison_cloud", "d9/d41/a18937.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d9/d41/a18937.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "npc_crok_scourgebaneAI", "d1/d03/a18941.html", "d1/d03/a18941" ],
+    [ "npc_crok_scourgebane", "d9/d41/a18937.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d9/d41/a18937.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

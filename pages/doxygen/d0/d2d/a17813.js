@@ -1,6 +1,6 @@
 var a17813 =
 [
-    [ "HandleScript", "d0/d2d/a17813.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d0/d2d/a17813.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d0/d2d/a17813.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "boss_festergutAI", "d2/dbd/a17817.html", "d2/dbd/a17817" ],
+    [ "boss_festergut", "d0/d2d/a17813.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d0/d2d/a17813.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

@@ -1,7 +1,9 @@
 var a12245 =
 [
-    [ "HandleDummy", "d1/d35/a12245.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d1/d35/a12245.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d1/d35/a12245.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d1/d35/a12245.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "npc_burning_spiritAI", "d1/d35/a12245.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "d1/d35/a12245.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "d1/d35/a12245.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "d1/d35/a12245.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "d1/d35/a12245.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "d1/d35/a12245.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

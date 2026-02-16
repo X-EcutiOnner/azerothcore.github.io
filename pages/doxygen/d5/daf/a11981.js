@@ -1,8 +1,7 @@
 var a11981 =
 [
-    [ "boss_halyconAI", "d5/daf/a11981.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "d5/daf/a11981.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "d5/daf/a11981.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "d5/daf/a11981.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "d5/daf/a11981.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "gear_commandscript", "d5/daf/a11981.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "d5/daf/a11981.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "d5/daf/a11981.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "d5/daf/a11981.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

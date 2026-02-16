@@ -1,6 +1,7 @@
 var a21389 =
 [
-    [ "HandleEffectPeriodic", "d8/dcf/a21389.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d8/dcf/a21389.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d8/dcf/a21389.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_mootoo_the_youngerAI", "d0/d46/a21393.html", "d0/d46/a21393" ],
+    [ "npc_mootoo_the_younger", "d8/dcf/a21389.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d8/dcf/a21389.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d8/dcf/a21389.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

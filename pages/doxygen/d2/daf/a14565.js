@@ -1,8 +1,6 @@
 var a14565 =
 [
-    [ "hyjalThrallAI", "d2/daf/a14565.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d2/daf/a14565.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d2/daf/a14565.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d2/daf/a14565.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d2/daf/a14565.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "HandleDummyEffect", "d2/daf/a14565.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d2/daf/a14565.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d2/daf/a14565.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

@@ -1,7 +1,7 @@
 var a13249 =
 [
-    [ "OnRemove", "d7/d7d/a13249.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "d7/d7d/a13249.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "d7/d7d/a13249.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "d7/d7d/a13249.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "HandleScriptEffect", "d7/d7d/a13249.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d7/d7d/a13249.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d7/d7d/a13249.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d7/d7d/a13249.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

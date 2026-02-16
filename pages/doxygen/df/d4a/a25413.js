@@ -1,9 +1,6 @@
 var a25413 =
 [
-    [ "getMountSpellId", "df/d4a/a25413.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "df/d4a/a25413.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "df/d4a/a25413.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "df/d4a/a25413.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "df/d4a/a25413.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "df/d4a/a25413.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "HandleDummy", "df/d4a/a25413.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "df/d4a/a25413.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "df/d4a/a25413.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

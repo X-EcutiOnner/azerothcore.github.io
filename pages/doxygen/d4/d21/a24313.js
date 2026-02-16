@@ -1,7 +1,6 @@
 var a24313 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d4/d21/a24313.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d4/d21/a24313.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d4/d21/a24313.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d4/d21/a24313.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "PrepareSpellScript", "d4/d21/a24313.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
+    [ "RecalculateDamage", "d4/d21/a24313.html#ab6a781160532d7cbb3bb3304eb412514", null ],
+    [ "Register", "d4/d21/a24313.html#a82395d00066e90abc58103b18a5ef4dc", null ]
 ];

@@ -1,7 +1,9 @@
 var a28673 =
 [
-    [ "_pad", "d6/d31/a28673.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "d6/d31/a28673.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "d6/d31/a28673.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "d6/d31/a28673.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "MapTiles", "d6/d31/a28673.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "d6/d31/a28673.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "d6/d31/a28673.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "d6/d31/a28673.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "d6/d31/a28673.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "d6/d31/a28673.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

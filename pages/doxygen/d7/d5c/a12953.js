@@ -1,6 +1,7 @@
 var a12953 =
 [
-    [ "HandleLeapBack", "d7/d5c/a12953.html#a0f0b30da1c094281375230a6cf411c5e", null ],
-    [ "PrepareSpellScript", "d7/d5c/a12953.html#a431fa0b4f479be912507e64fd906d516", null ],
-    [ "Register", "d7/d5c/a12953.html#ac3b7bcfe48c1fe807d2c4deab6be91a8", null ]
+    [ "boss_maiden_of_virtue", "d7/d5c/a12953.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d7/d5c/a12953.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d7/d5c/a12953.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d7/d5c/a12953.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

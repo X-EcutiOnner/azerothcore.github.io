@@ -1,6 +1,7 @@
 var a19041 =
 [
-    [ "boss_razuvious_minionAI", "d1/df4/a19045.html", "d1/df4/a19045" ],
-    [ "boss_razuvious_minion", "d6/dab/a19041.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "d6/dab/a19041.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "Land", "d6/dab/a19041.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d6/dab/a19041.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d6/dab/a19041.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d6/dab/a19041.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

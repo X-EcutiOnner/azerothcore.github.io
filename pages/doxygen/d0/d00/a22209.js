@@ -1,6 +1,9 @@
 var a22209 =
 [
-    [ "npc_icefangAI", "d3/d14/a22213.html", "d3/d14/a22213" ],
-    [ "npc_icefang", "d0/d00/a22209.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d0/d00/a22209.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "HandleFinish", "d0/d00/a22209.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d0/d00/a22209.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d0/d00/a22209.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d0/d00/a22209.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d0/d00/a22209.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d0/d00/a22209.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

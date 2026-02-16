@@ -1,9 +1,7 @@
 var a19797 =
 [
-    [ "npc_hodirs_furyAI", "d5/d11/a19797.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
-    [ "MovementInform", "d5/d11/a19797.html#a37b07ddee5403ee2de8f69904412ed42", null ],
-    [ "Reset", "d5/d11/a19797.html#a389f0f17fbc7860c5531f4859be561d3", null ],
-    [ "UpdateAI", "d5/d11/a19797.html#a5417d68891ad0f93c8130c9a14d57513", null ],
-    [ "_switchTargetTimer", "d5/d11/a19797.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
-    [ "_timeToHit", "d5/d11/a19797.html#a594356602bd0068fba82bea64e284837", null ]
+    [ "OnRemove", "d5/d11/a19797.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d5/d11/a19797.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d5/d11/a19797.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d5/d11/a19797.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

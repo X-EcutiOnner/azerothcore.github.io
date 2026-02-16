@@ -1,6 +1,13 @@
 var a19673 =
 [
-    [ "boss_runemaster_molgeimAI", "de/dc4/a19677.html", "de/dc4/a19677" ],
-    [ "boss_runemaster_molgeim", "d7/d1f/a19673.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "d7/d1f/a19673.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "npc_oculus_unstable_sphereAI", "d7/d1f/a19673.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d7/d1f/a19673.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d7/d1f/a19673.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d7/d1f/a19673.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d7/d1f/a19673.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d7/d1f/a19673.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d7/d1f/a19673.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d7/d1f/a19673.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d7/d1f/a19673.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d7/d1f/a19673.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

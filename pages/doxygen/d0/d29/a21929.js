@@ -1,6 +1,5 @@
 var a21929 =
 [
-    [ "npc_plaguehound_trackerAI", "d0/d29/a21929.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d0/d29/a21929.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d0/d29/a21929.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_guardian_pavilionAI", "d0/d29/a21929.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d0/d29/a21929.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

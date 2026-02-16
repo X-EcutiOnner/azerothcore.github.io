@@ -1,6 +1,10 @@
 var a16453 =
 [
-    [ "boss_gormokAI", "d4/d19/a16457.html", "d4/d19/a16457" ],
-    [ "boss_gormok", "d6/dc0/a16453.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d6/dc0/a16453.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "spell_halion_combustion_consumption_aura", "d6/dc0/a16453.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d6/dc0/a16453.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d6/dc0/a16453.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d6/dc0/a16453.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d6/dc0/a16453.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d6/dc0/a16453.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d6/dc0/a16453.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

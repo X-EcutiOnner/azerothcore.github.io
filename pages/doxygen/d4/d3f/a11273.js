@@ -1,6 +1,6 @@
 var a11273 =
 [
-    [ "EffectUpdatePeriodicHandler", "d4/d3f/a11273.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d4/d3f/a11273.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d4/d3f/a11273.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "ClientOpcodeHandler", "df/dcf/a04842.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "df/dcf/a04842.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "df/dcf/a04842.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

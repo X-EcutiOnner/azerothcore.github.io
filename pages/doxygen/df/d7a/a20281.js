@@ -1,6 +1,6 @@
 var a20281 =
 [
-    [ "HandleInstaKill", "df/d7a/a20281.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "df/d7a/a20281.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "df/d7a/a20281.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "npc_ulduar_toasty_fire", "df/d7a/a20281.html#aa4447547d1689440813877ddd0347d5a", null ],
+    [ "DoAction", "df/d7a/a20281.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "df/d7a/a20281.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

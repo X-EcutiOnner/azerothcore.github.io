@@ -1,7 +1,5 @@
 var a16265 =
 [
-    [ "HandleEffectPeriodic", "d7/dae/a16265.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d7/dae/a16265.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d7/dae/a16265.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d7/dae/a16265.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "achievement_hadronox_denied", "d7/dae/a16265.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "d7/dae/a16265.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

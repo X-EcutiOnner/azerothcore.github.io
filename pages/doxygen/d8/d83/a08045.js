@@ -1,7 +1,8 @@
 var a08045 =
 [
-    [ "CreatureSpellCooldown", "d8/d83/a08045.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d8/d83/a08045.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d8/d83/a08045.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d8/d83/a08045.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "LfgPlayerRewardData", "d8/d83/a08045.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "d8/d83/a08045.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "d8/d83/a08045.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "d8/d83/a08045.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "d8/d83/a08045.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

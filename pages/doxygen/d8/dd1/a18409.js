@@ -1,6 +1,6 @@
 var a18409 =
 [
-    [ "npc_suppresserAI", "d4/d22/a18413.html", "d4/d22/a18413" ],
-    [ "npc_suppresser", "d8/dd1/a18409.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d8/dd1/a18409.html#a48869515abbac1491337a93b987231da", null ]
+    [ "FilterTargets", "d8/dd1/a18409.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "d8/dd1/a18409.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "d8/dd1/a18409.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

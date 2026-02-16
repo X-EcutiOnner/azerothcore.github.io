@@ -1,11 +1,9 @@
 var a23845 =
 [
-    [ "boss_pathaleon_the_calculator", "df/d6d/a23845.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "df/d6d/a23845.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "df/d6d/a23845.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "df/d6d/a23845.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "df/d6d/a23845.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "df/d6d/a23845.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "df/d6d/a23845.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "df/d6d/a23845.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "npc_fel_guard_houndAI", "df/d6d/a23845.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "df/d6d/a23845.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "df/d6d/a23845.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "df/d6d/a23845.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "df/d6d/a23845.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "df/d6d/a23845.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

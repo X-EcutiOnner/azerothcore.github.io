@@ -1,9 +1,11 @@
 var a12229 =
 [
-    [ "FilterTargets", "d5/dd6/a12229.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d5/dd6/a12229.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d5/dd6/a12229.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d5/dd6/a12229.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d5/dd6/a12229.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d5/dd6/a12229.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "npc_rocknotAI", "d5/dd6/a12229.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d5/dd6/a12229.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d5/dd6/a12229.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d5/dd6/a12229.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d5/dd6/a12229.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d5/dd6/a12229.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d5/dd6/a12229.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d5/dd6/a12229.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

@@ -1,15 +1,13 @@
 var a09645 =
 [
-    [ "LootStoreItem", "d7/ddf/a09645.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "d7/ddf/a09645.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "d7/ddf/a09645.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "d7/ddf/a09645.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "d7/ddf/a09645.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "d7/ddf/a09645.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "d7/ddf/a09645.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "d7/ddf/a09645.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "d7/ddf/a09645.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "d7/ddf/a09645.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "d7/ddf/a09645.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "d7/ddf/a09645.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "GroupReference", "d7/ddf/a09645.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d7/ddf/a09645.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d7/ddf/a09645.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d7/ddf/a09645.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d7/ddf/a09645.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d7/ddf/a09645.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d7/ddf/a09645.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d7/ddf/a09645.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d7/ddf/a09645.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d7/ddf/a09645.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

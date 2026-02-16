@@ -1,6 +1,5 @@
 var a14501 =
 [
-    [ "FilterTargets", "d3/dcc/a14501.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "d3/dcc/a14501.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "d3/dcc/a14501.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "go_brazier_of_madness", "d3/dcc/a14501.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d3/dcc/a14501.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

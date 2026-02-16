@@ -1,5 +1,6 @@
 var a16629 =
 [
-    [ "achievement_consumption_junction", "d8/dd1/a16629.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "d8/dd1/a16629.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "npc_toc5_grand_champion_minionAI", "db/d64/a16633.html", "db/d64/a16633" ],
+    [ "npc_toc5_grand_champion_minion", "d8/dd1/a16629.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d8/dd1/a16629.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

@@ -1,6 +1,12 @@
 var a16677 =
 [
-    [ "FilterTargets", "d3/d6d/a16677.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d3/d6d/a16677.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d3/d6d/a16677.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_swarm_scarabAI", "d3/d6d/a16677.html#a0d0cefd52543044773e7df772f90fd37", null ],
+    [ "CanAIAttack", "d3/d6d/a16677.html#a95a27742f4f7fa1af45964b6270a9558", null ],
+    [ "DoAction", "d3/d6d/a16677.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
+    [ "JustDied", "d3/d6d/a16677.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
+    [ "JustEngagedWith", "d3/d6d/a16677.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
+    [ "Reset", "d3/d6d/a16677.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
+    [ "UpdateAI", "d3/d6d/a16677.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
+    [ "despawnTimer", "d3/d6d/a16677.html#a6d35e43af695ac112b972badb665f06d", null ],
+    [ "determinationTimer", "d3/d6d/a16677.html#af319dbf16bc1d3939602465f0a87d30c", null ]
 ];

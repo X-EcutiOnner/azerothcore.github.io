@@ -1,7 +1,6 @@
 var a21525 =
 [
-    [ "npc_thassarianAI", "d4/d85/a21525.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d4/d85/a21525.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d4/d85/a21525.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d4/d85/a21525.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d1/da7/a21529.html", "d1/da7/a21529" ],
+    [ "npc_conversing_with_the_depths_trigger", "d4/d85/a21525.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "d4/d85/a21525.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

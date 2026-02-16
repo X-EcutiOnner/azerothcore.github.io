@@ -1,7 +1,6 @@
 var a17609 =
 [
-    [ "PrepareSpellScript", "d5/d9e/a17609.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d5/d9e/a17609.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d5/d9e/a17609.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d5/d9e/a17609.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d7f/a17613.html", "da/d7f/a17613" ],
+    [ "npc_blood_queen_lana_thel", "d5/d9e/a17609.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d5/d9e/a17609.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

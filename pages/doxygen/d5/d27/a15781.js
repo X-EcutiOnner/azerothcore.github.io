@@ -1,5 +1,6 @@
 var a15781 =
 [
-    [ "PrepareAuraScript", "d5/d27/a15781.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "d5/d27/a15781.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "npc_troll_volunteerAI", "d4/dcf/a15785.html", "d4/dcf/a15785" ],
+    [ "npc_troll_volunteer", "d5/d27/a15781.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d5/d27/a15781.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

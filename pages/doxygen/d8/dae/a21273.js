@@ -1,6 +1,8 @@
 var a21273 =
 [
-    [ "boss_zuramatAI", "da/d85/a21277.html", "da/d85/a21277" ],
-    [ "boss_zuramat", "d8/dae/a21273.html#a1d169e786dcf846026b48d9be389f9ab", null ],
-    [ "GetAI", "d8/dae/a21273.html#a1008c053a2c9ad14cf9ce994db931670", null ]
+    [ "npc_azure_mage_slayerAI", "d8/dae/a21273.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d8/dae/a21273.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d8/dae/a21273.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d8/dae/a21273.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d8/dae/a21273.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

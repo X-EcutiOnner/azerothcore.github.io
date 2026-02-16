@@ -1,23 +1,9 @@
 var a10057 =
 [
-    [ "LengthArray", "d5/d56/a10057.html#a20cf3df436c8fc337019cb8dbd4fc74f", null ],
-    [ "LengthType", "d5/d56/a10057.html#a5bbffaf9ea67b7747d5c0749d38162fb", null ],
-    [ "Spline", "d5/d56/a10057.html#a9aaaf0914627ffdad08de010920fd626", null ],
-    [ "clear", "d5/d56/a10057.html#a091e42262c66dff880bfa787c74a0bcc", null ],
-    [ "computeIndex", "d5/d56/a10057.html#a69a59bf415f83e6770694799e3c905b1", null ],
-    [ "computeIndexInBounds", "d5/d56/a10057.html#aa344531c5931b35d759830991174c6a0", null ],
-    [ "computeIndexInBounds", "d5/d56/a10057.html#a97b872ca05f947444945860e04bb2651", null ],
-    [ "evaluate_derivative", "d5/d56/a10057.html#ad4b8334bf969be613fdf68043b602fb1", null ],
-    [ "evaluate_derivative", "d5/d56/a10057.html#ae0801ccc74dc971248f743cfadc248a3", null ],
-    [ "evaluate_percent", "d5/d56/a10057.html#ae05046412e2825316172dc8b1cdac870", null ],
-    [ "evaluate_percent", "d5/d56/a10057.html#a249fa3aa29b3baa59a5afec0e14c7ef5", null ],
-    [ "init_cyclic_spline", "d5/d56/a10057.html#a41da9314f499c768b9bd567f1eb5ae55", null ],
-    [ "init_spline", "d5/d56/a10057.html#a146e7d35cea5ff759fdec2463e16f465", null ],
-    [ "initLengths", "d5/d56/a10057.html#ad1cdf5235b5a2a64f32125bcf9048094", null ],
-    [ "initLengths", "d5/d56/a10057.html#a708b60c2b21178db578520dfd98af6f7", null ],
-    [ "length", "d5/d56/a10057.html#aab929569bba2417387acd22f0634504d", null ],
-    [ "length", "d5/d56/a10057.html#a6791d5411365109dffcc699170f03291", null ],
-    [ "length", "d5/d56/a10057.html#a73b3a47713e07a5d07959a2eb17be87e", null ],
-    [ "set_length", "d5/d56/a10057.html#a7c5aba567e41d196c8bf0faf175ed43e", null ],
-    [ "lengths", "d5/d56/a10057.html#a307a7a746de042f0cd21f48797768afb", null ]
+    [ "ChaseAngle", "d5/d56/a10057.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d5/d56/a10057.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d5/d56/a10057.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d5/d56/a10057.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d5/d56/a10057.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d5/d56/a10057.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

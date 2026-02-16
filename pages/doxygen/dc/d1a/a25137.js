@@ -1,7 +1,7 @@
 var a25137 =
 [
-    [ "PrepareSpellScript", "dc/d1a/a25137.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "dc/d1a/a25137.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "dc/d1a/a25137.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "dc/d1a/a25137.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "OnRemove", "dc/d1a/a25137.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "dc/d1a/a25137.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "dc/d1a/a25137.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "dc/d1a/a25137.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

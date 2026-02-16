@@ -1,6 +1,10 @@
 var a21265 =
 [
-    [ "boss_xevozzAI", "d2/d24/a21269.html", "d2/d24/a21269" ],
-    [ "boss_xevozz", "d6/db6/a21265.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d6/db6/a21265.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "npc_azure_binderAI", "d6/db6/a21265.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d6/db6/a21265.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d6/db6/a21265.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d6/db6/a21265.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d6/db6/a21265.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d6/db6/a21265.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d6/db6/a21265.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

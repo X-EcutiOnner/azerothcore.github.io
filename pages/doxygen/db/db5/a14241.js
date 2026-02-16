@@ -1,11 +1,9 @@
 var a14241 =
 [
-    [ "npc_snowfall_glade_playmate", "db/db5/a14241.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "db/db5/a14241.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "db/db5/a14241.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "db/db5/a14241.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "db/db5/a14241.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "db/db5/a14241.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "db/db5/a14241.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "db/db5/a14241.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_zulaman_hostageAI", "db/db5/a14241.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "db/db5/a14241.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "db/db5/a14241.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "db/db5/a14241.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "db/db5/a14241.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "db/db5/a14241.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

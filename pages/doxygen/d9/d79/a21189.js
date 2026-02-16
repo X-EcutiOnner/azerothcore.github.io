@@ -1,6 +1,6 @@
 var a21189 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d5/d19/a21193.html", "d5/d19/a21193" ],
-    [ "npc_frozen_orb_stalker", "d9/d79/a21189.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d9/d79/a21189.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "boss_moraggAI", "d5/d19/a21193.html", "d5/d19/a21193" ],
+    [ "boss_moragg", "d9/d79/a21189.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "d9/d79/a21189.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

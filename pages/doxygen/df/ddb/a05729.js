@@ -1,11 +1,25 @@
 var a05729 =
 [
-    [ "SQLOperation", "df/ddb/a05729.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "df/ddb/a05729.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "df/ddb/a05729.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "df/ddb/a05729.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "df/ddb/a05729.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "df/ddb/a05729.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "df/ddb/a05729.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "df/ddb/a05729.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "flag96", "df/ddb/a05729.html#a489bcb41948c71aaee236389ffe54a42", null ],
+    [ "flag96", "df/ddb/a05729.html#aba036b2e11561fd76165054e06dbf6b4", null ],
+    [ "flag96", "df/ddb/a05729.html#a29ce17d3901e06cbc1c76393016078f9", null ],
+    [ "HasFlag", "df/ddb/a05729.html#a2c9141d8a8ecb0d83097a3a3a53de579", null ],
+    [ "IsEqual", "df/ddb/a05729.html#a4423feea3f91d51a14f2d10da5c5b4c3", null ],
+    [ "operator bool", "df/ddb/a05729.html#a40e750e2388884ee7990c65611c0cd24", null ],
+    [ "operator!", "df/ddb/a05729.html#ac460f571a26d61462c2cda4b3388752c", null ],
+    [ "operator!=", "df/ddb/a05729.html#a22edbe398da7be1d2b161bbf16206d92", null ],
+    [ "operator&", "df/ddb/a05729.html#a8a64335d82e361162fdade6288b7ae1f", null ],
+    [ "operator&=", "df/ddb/a05729.html#a150b74daf2add767d194b3fdc93f8330", null ],
+    [ "operator<", "df/ddb/a05729.html#ac335aaf38f9dcd9afdde58b7412c5082", null ],
+    [ "operator=", "df/ddb/a05729.html#a45349b70206ea9db7c3fdc5527b0aa72", null ],
+    [ "operator==", "df/ddb/a05729.html#a70a14c8509096c0e2fdb54643addbdbf", null ],
+    [ "operator[]", "df/ddb/a05729.html#ad9b2afb9b2de6cd8a8779d1646efd2ab", null ],
+    [ "operator[]", "df/ddb/a05729.html#a0bea67076b611eadc8fa12403d647238", null ],
+    [ "operator^", "df/ddb/a05729.html#a37890c5a65a8183d804949df939fd5a1", null ],
+    [ "operator^=", "df/ddb/a05729.html#afed5a26552cc3d614fe7caec06d74170", null ],
+    [ "operator|", "df/ddb/a05729.html#ad7dd7bba12e955d0ec70e2df24d23ef9", null ],
+    [ "operator|=", "df/ddb/a05729.html#a6cbe6b24389cb3a9bbbf976bebdbca35", null ],
+    [ "operator~", "df/ddb/a05729.html#a2e3422a147488c96576591e87033b67b", null ],
+    [ "Set", "df/ddb/a05729.html#ac7fcf4d74fa4d6b580e3b204c97964dd", null ],
+    [ "part", "df/ddb/a05729.html#a8ba92013e7c9863ed1f23fcf2c677268", null ]
 ];

@@ -1,7 +1,6 @@
 var a15089 =
 [
-    [ "FilterTargets", "dd/d71/a15089.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "dd/d71/a15089.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "dd/d71/a15089.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "dd/d71/a15089.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "boss_meathookAI", "dc/d89/a15093.html", "dc/d89/a15093" ],
+    [ "boss_meathook", "dd/d71/a15089.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "dd/d71/a15089.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

@@ -1,7 +1,6 @@
 var a14101 =
 [
-    [ "GetEmptyEntry", "d0/d3b/a14101.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d0/d3b/a14101.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d0/d3b/a14101.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d0/d3b/a14101.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d7/d04/a14105.html", "d7/d04/a14105" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "d0/d3b/a14101.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "d0/d3b/a14101.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

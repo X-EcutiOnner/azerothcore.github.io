@@ -1,11 +1,8 @@
 var a05029 =
 [
-    [ "~GameObjectModelOwnerBase", "dd/dbe/a05029.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "dd/dbe/a05029.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "dd/dbe/a05029.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "dd/dbe/a05029.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "dd/dbe/a05029.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "dd/dbe/a05029.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "dd/dbe/a05029.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "dd/dbe/a05029.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "AreaInfo", "d1/dba/a05033.html", "d1/dba/a05033" ],
+    [ "LiquidInfo", "d7/de8/a05037.html", "d7/de8/a05037" ],
+    [ "areaInfo", "dd/dbe/a05029.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "dd/dbe/a05029.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "dd/dbe/a05029.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

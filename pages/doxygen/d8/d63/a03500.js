@@ -1,13 +1,16 @@
 var a03500 =
 [
-    [ "instance_sunken_temple", "d4/d37/a13492.html", "d4/d37/a13492" ],
-    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "dd/d19/a13496.html", "dd/d19/a13496" ],
-    [ "at_malfurion_stormrage", "df/d23/a13500.html", "df/d23/a13500" ],
-    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "dd/d40/a13504.html", "dd/d40/a13504" ],
-    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "db/de7/a13508.html", "db/de7/a13508" ],
-    [ "MalfurionMisc", "d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
-      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
-      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d8/d63/a03500.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    [ "npc_corporal_keeshan", "da/d74/a13981.html", "da/d74/a13981" ],
+    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d3/d62/a13985.html", "d3/d62/a13985" ],
+    [ "CorporalKeeshan", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
+      [ "QUEST_MISSING_IN_ACTION", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
+      [ "SAY_CORPORAL_1", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
+      [ "SAY_CORPORAL_2", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
+      [ "SAY_CORPORAL_3", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
+      [ "SAY_CORPORAL_4", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
+      [ "SAY_CORPORAL_5", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
+      [ "SPELL_MOCKING_BLOW", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
+      [ "SPELL_SHIELD_BASH", "d8/d63/a03500.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
     ] ],
-    [ "AddSC_instance_sunken_temple", "d8/d63/a03500.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
+    [ "AddSC_redridge_mountains", "d8/d63/a03500.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
 ];

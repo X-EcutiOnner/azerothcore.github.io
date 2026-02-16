@@ -1,6 +1,9 @@
 var a02519 =
 [
-    [ "instance_maraudon", "db/dbf/a15172.html", "db/dbf/a15172" ],
-    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d8/d47/a15176.html", "d8/d47/a15176" ],
-    [ "AddSC_instance_maraudon", "d9/dce/a02519.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
+    [ "MySQLHandle", "dd/d98/a05845.html", null ],
+    [ "MySQLResult", "d1/d9d/a05849.html", null ],
+    [ "MySQLField", "dd/d6b/a05853.html", null ],
+    [ "MySQLBind", "d3/d6a/a05857.html", null ],
+    [ "MySQLStmt", "d6/d2b/a05861.html", null ],
+    [ "MySQLBool", "d9/dce/a02519.html#a9962b927652e90357369e67230dbc127", null ]
 ];

@@ -1,6 +1,7 @@
 var a22145 =
 [
-    [ "HandleScriptEffect", "db/db0/a22145.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "db/db0/a22145.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "db/db0/a22145.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "OnApply", "db/db0/a22145.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "db/db0/a22145.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "db/db0/a22145.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "db/db0/a22145.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

@@ -1,16 +1,12 @@
 var a13705 =
 [
-    [ "boss_halazzi", "db/daa/a13705.html#aed961a9e12b44dfd97bd31c981184be5", null ],
-    [ "AttackStart", "db/daa/a13705.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
-    [ "DamageTaken", "db/daa/a13705.html#aaa698dfa4d4a991968eebee3330e967a", null ],
-    [ "DoAction", "db/daa/a13705.html#a1685c7c99a797ec332b67797a294d83a", null ],
-    [ "EnterPhase", "db/daa/a13705.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
-    [ "JustDied", "db/daa/a13705.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
-    [ "JustEngagedWith", "db/daa/a13705.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
-    [ "JustSummoned", "db/daa/a13705.html#a152267cb31912106443ceea9488fee0a", null ],
-    [ "KilledUnit", "db/daa/a13705.html#a4d69fa8e754f823a599c52e227361600", null ],
-    [ "Reset", "db/daa/a13705.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
-    [ "SpellHit", "db/daa/a13705.html#a36141673391a423174db874ca425ea07", null ],
-    [ "_phase", "db/daa/a13705.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
-    [ "_transformCount", "db/daa/a13705.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
+    [ "npc_kiljaeden_controller", "db/daa/a13705.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "db/daa/a13705.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "db/daa/a13705.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "db/daa/a13705.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "db/daa/a13705.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SummonedCreatureDies", "db/daa/a13705.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "UpdateAI", "db/daa/a13705.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "db/daa/a13705.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "db/daa/a13705.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

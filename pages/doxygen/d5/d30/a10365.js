@@ -1,6 +1,11 @@
 var a10365 =
 [
-    [ "WorldMapScript", "d5/d30/a10365.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d5/d30/a10365.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d5/d30/a10365.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "AllMapScript", "d5/d30/a10365.html#aea5284ac6b227dd44b83dc944e220f00", null ],
+    [ "OnBeforeCreateInstanceScript", "d5/d30/a10365.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "d5/d30/a10365.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "d5/d30/a10365.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "d5/d30/a10365.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "d5/d30/a10365.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "d5/d30/a10365.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "d5/d30/a10365.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

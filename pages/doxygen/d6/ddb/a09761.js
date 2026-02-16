@@ -1,7 +1,6 @@
 var a09761 =
 [
-    [ "ownerGUID", "d6/ddb/a09761.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d6/ddb/a09761.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d6/ddb/a09761.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d6/ddb/a09761.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "bossId", "d6/ddb/a09761.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "d6/ddb/a09761.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "d6/ddb/a09761.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

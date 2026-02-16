@@ -1,7 +1,7 @@
 var a18349 =
 [
-    [ "ValithriaDespawner", "d5/dff/a18349.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d5/dff/a18349.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d5/dff/a18349.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d5/dff/a18349.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "IceTombSummonEvent", "d5/dff/a18349.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d5/dff/a18349.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d5/dff/a18349.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d5/dff/a18349.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

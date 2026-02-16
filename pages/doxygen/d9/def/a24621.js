@@ -1,9 +1,10 @@
 var a24621 =
 [
-    [ "HandleApply", "d9/def/a24621.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d9/def/a24621.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d9/def/a24621.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d9/def/a24621.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d9/def/a24621.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d9/def/a24621.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "FilterTargets", "d9/def/a24621.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d9/def/a24621.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d9/def/a24621.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d9/def/a24621.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d9/def/a24621.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d9/def/a24621.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d9/def/a24621.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

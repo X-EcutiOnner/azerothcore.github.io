@@ -1,6 +1,6 @@
 var a14461 =
 [
-    [ "HandleTriggerSpell", "d0/db4/a14461.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d0/db4/a14461.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d0/db4/a14461.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "boss_renatakiAI", "d7/d19/a14465.html", "d7/d19/a14465" ],
+    [ "boss_renataki", "d0/db4/a14461.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d0/db4/a14461.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

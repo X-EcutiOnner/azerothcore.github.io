@@ -1,5 +1,6 @@
 var a20957 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "dc/d2c/a20957.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "dc/d2c/a20957.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "npc_massive_jormungarAI", "df/dff/a20961.html", "df/dff/a20961" ],
+    [ "npc_massive_jormungar", "dc/d2c/a20957.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "dc/d2c/a20957.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

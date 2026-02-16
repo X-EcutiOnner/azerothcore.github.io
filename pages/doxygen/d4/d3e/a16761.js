@@ -1,6 +1,6 @@
 var a16761 =
 [
-    [ "npc_phantom_mageAI", "d9/da8/a16765.html", "d9/da8/a16765" ],
-    [ "npc_phantom_mage", "d4/d3e/a16761.html#ad57414231c40917bf55d6155fa9c05db", null ],
-    [ "GetAI", "d4/d3e/a16761.html#ae2134b8be3052da659390bde7c2aac2e", null ]
+    [ "npc_toc_warlockAI", "d9/da8/a16765.html", "d9/da8/a16765" ],
+    [ "npc_toc_warlock", "d4/d3e/a16761.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d4/d3e/a16761.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

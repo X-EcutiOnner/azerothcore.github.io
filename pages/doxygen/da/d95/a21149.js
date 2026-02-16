@@ -1,6 +1,6 @@
 var a21149 =
 [
-    [ "HandleOnHit", "da/d95/a21149.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "da/d95/a21149.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "da/d95/a21149.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_erekemAI", "d0/d0d/a21153.html", "d0/d0d/a21153" ],
+    [ "boss_erekem", "da/d95/a21149.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "da/d95/a21149.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

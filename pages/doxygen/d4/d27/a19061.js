@@ -1,6 +1,5 @@
 var a19061 =
 [
-    [ "boss_thaddiusAI", "d4/d05/a19065.html", "d4/d05/a19065" ],
-    [ "boss_thaddius", "d4/d27/a19061.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d4/d27/a19061.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "at_icc_start_blood_quickening", "d4/d27/a19061.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
+    [ "OnTrigger", "d4/d27/a19061.html#a814670e127b1eace6068a553b23d00f7", null ]
 ];

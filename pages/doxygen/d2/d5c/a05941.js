@@ -1,15 +1,11 @@
 var a05941 =
 [
-    [ "VehicleAI", "d2/d5c/a05941.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
-    [ "AttackStart", "d2/d5c/a05941.html#ad06972054ef4525411e859d291226783", null ],
-    [ "CheckConditions", "d2/d5c/a05941.html#afcee52b5173ec8b9850da63c1d58cded", null ],
-    [ "LoadConditions", "d2/d5c/a05941.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
-    [ "MoveInLineOfSight", "d2/d5c/a05941.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
-    [ "OnCharmed", "d2/d5c/a05941.html#a2a593f895c6296c4100af075d971b5b3", null ],
-    [ "Permissible", "d2/d5c/a05941.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
-    [ "UpdateAI", "d2/d5c/a05941.html#aac593372592d33fa008a66c6dcec1840", null ],
-    [ "conditions", "d2/d5c/a05941.html#ae95dc46465404271faaae4b2dc61277a", null ],
-    [ "m_ConditionsTimer", "d2/d5c/a05941.html#a3a46c5f18b019852460170e1200b11b4", null ],
-    [ "m_DismissTimer", "d2/d5c/a05941.html#a34000f32495dbee3a550147e1e86d761", null ],
-    [ "m_DoDismiss", "d2/d5c/a05941.html#a505c1bacb159950e19518ad3b5740a3e", null ]
+    [ "SQLQueryHolderBase", "d2/d5c/a05941.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "d2/d5c/a05941.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "d2/d5c/a05941.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "d2/d5c/a05941.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "d2/d5c/a05941.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "d2/d5c/a05941.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "d2/d5c/a05941.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "d2/d5c/a05941.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

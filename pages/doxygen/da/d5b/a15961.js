@@ -1,6 +1,6 @@
 var a15961 =
 [
-    [ "npc_onyx_flamecallerAI", "d9/d95/a15965.html", "d9/d95/a15965" ],
-    [ "npc_onyx_flamecaller", "da/d5b/a15961.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "da/d5b/a15961.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "npc_stone_watcher_of_norgannon", "da/d5b/a15961.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "da/d5b/a15961.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "da/d5b/a15961.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

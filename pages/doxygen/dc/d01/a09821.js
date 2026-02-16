@@ -1,6 +1,7 @@
 var a09821 =
 [
-    [ "SplineRawInitializer", "dc/d01/a09821.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
-    [ "operator()", "dc/d01/a09821.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
-    [ "_points", "dc/d01/a09821.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
+    [ "QuestItem", "dc/d01/a09821.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "dc/d01/a09821.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "dc/d01/a09821.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "dc/d01/a09821.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

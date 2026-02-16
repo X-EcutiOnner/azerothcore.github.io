@@ -1,6 +1,7 @@
 var a20801 =
 [
-    [ "boss_yoggsaron_llaneAI", "d1/dff/a20805.html", "d1/dff/a20805" ],
-    [ "boss_yoggsaron_llane", "de/d6a/a20801.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "de/d6a/a20801.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "OnPeriodic", "de/d6a/a20801.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "de/d6a/a20801.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "de/d6a/a20801.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "de/d6a/a20801.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

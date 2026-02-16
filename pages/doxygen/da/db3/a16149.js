@@ -1,6 +1,7 @@
 var a16149 =
 [
-    [ "FilterTargets", "da/db3/a16149.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "da/db3/a16149.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "da/db3/a16149.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "HandleDummy", "da/db3/a16149.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "da/db3/a16149.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "da/db3/a16149.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "da/db3/a16149.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

@@ -1,7 +1,6 @@
 var a15533 =
 [
-    [ "npc_giltharesAI", "d8/d0d/a15533.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d8/d0d/a15533.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d8/d0d/a15533.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d8/d0d/a15533.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "FilterTargets", "d8/d0d/a15533.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "d8/d0d/a15533.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "d8/d0d/a15533.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

@@ -1,7 +1,6 @@
 var a12337 =
 [
-    [ "HandleHit", "de/dd5/a12337.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "de/dd5/a12337.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "de/dd5/a12337.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "de/dd5/a12337.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_okthorAI", "d7/deb/a12341.html", "d7/deb/a12341" ],
+    [ "boss_okthor", "de/dd5/a12337.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
+    [ "GetAI", "de/dd5/a12337.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
 ];

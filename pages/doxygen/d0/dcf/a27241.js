@@ -1,5 +1,5 @@
 var a27241 =
 [
-    [ "go_jotunheim_cage", "d0/dcf/a27241.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d0/dcf/a27241.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_duskwither_spire_power_source", "d0/dcf/a27241.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d0/dcf/a27241.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

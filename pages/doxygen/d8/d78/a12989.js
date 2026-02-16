@@ -1,6 +1,5 @@
 var a12989 =
 [
-    [ "boss_kirtonos_the_heraldAI", "da/d3b/a12993.html", "da/d3b/a12993" ],
-    [ "boss_kirtonos_the_herald", "d8/d78/a12989.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d8/d78/a12989.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "go_blackened_urn", "d8/d78/a12989.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "d8/d78/a12989.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

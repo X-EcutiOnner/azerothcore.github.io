@@ -1,6 +1,16 @@
 var a21077 =
 [
-    [ "boss_svalaAI", "d8/d75/a21081.html", "d8/d75/a21081" ],
-    [ "boss_svala", "d4/d2f/a21077.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d4/d2f/a21077.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "boss_emalonAI", "d4/d2f/a21077.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d4/d2f/a21077.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d4/d2f/a21077.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d4/d2f/a21077.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d4/d2f/a21077.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d4/d2f/a21077.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d4/d2f/a21077.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d4/d2f/a21077.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d4/d2f/a21077.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d4/d2f/a21077.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d4/d2f/a21077.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d4/d2f/a21077.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d4/d2f/a21077.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

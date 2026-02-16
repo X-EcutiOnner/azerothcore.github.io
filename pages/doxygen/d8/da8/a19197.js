@@ -1,6 +1,5 @@
 var a19197 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d9/db4/a19201.html", "d9/db4/a19201" ],
-    [ "instance_eye_of_eternity", "d8/da8/a19197.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d8/da8/a19197.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "at_icc_spire_frostwyrm", "d8/da8/a19197.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d8/da8/a19197.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

@@ -1,6 +1,6 @@
 var a14925 =
 [
-    [ "FilterTargets", "d3/db0/a14925.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "d3/db0/a14925.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "d3/db0/a14925.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "HandleTriggerSpell", "d3/db0/a14925.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d3/db0/a14925.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d3/db0/a14925.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

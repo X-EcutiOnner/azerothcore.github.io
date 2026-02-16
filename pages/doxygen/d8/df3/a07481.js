@@ -1,17 +1,14 @@
 var a07481 =
 [
-    [ "ChatHandler", "d8/df3/a07481.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "d8/df3/a07481.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "d8/df3/a07481.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "d8/df3/a07481.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "d8/df3/a07481.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "d8/df3/a07481.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "d8/df3/a07481.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "d8/df3/a07481.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "d8/df3/a07481.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "d8/df3/a07481.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "d8/df3/a07481.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "d8/df3/a07481.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "d8/df3/a07481.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "d8/df3/a07481.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "BattlegroundDS", "d8/df3/a07481.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
+    [ "FillInitialWorldStates", "d8/df3/a07481.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
+    [ "HandleAreaTrigger", "d8/df3/a07481.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
+    [ "HandlePlayerUnderMap", "d8/df3/a07481.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
+    [ "PostUpdateImpl", "d8/df3/a07481.html#a57cfca32a361d43f19163dc6e7408e96", null ],
+    [ "SetupBattleground", "d8/df3/a07481.html#ae008bf979e6984856237938dfe743ec7", null ],
+    [ "StartingEventCloseDoors", "d8/df3/a07481.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
+    [ "StartingEventOpenDoors", "d8/df3/a07481.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
+    [ "_events", "d8/df3/a07481.html#a79112a1631ec6541cf19ecef712bb66f", null ],
+    [ "_pipeKnockBackCount", "d8/df3/a07481.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
+    [ "_pipeKnockBackTimer", "d8/df3/a07481.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
 ];

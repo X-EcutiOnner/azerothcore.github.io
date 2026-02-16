@@ -1,8 +1,12 @@
 var a15157 =
 [
-    [ "npc_ahnqiraji_critter", "d0/d2b/a15157.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d0/d2b/a15157.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d0/d2b/a15157.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d0/d2b/a15157.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d0/d2b/a15157.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "boss_lieutenant_drake", "d0/d2b/a15157.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d0/d2b/a15157.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d0/d2b/a15157.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d0/d2b/a15157.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d0/d2b/a15157.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d0/d2b/a15157.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d0/d2b/a15157.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d0/d2b/a15157.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d0/d2b/a15157.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

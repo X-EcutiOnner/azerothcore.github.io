@@ -1,10 +1,9 @@
 var a08921 =
 [
-    [ "MostHPPercentMissingInRange", "d9/d82/a08921.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d9/d82/a08921.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d9/d82/a08921.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d9/d82/a08921.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d9/d82/a08921.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d9/d82/a08921.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d9/d82/a08921.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "VehicleAccessory", "d9/d82/a08921.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "d9/d82/a08921.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "d9/d82/a08921.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "d9/d82/a08921.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "d9/d82/a08921.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "d9/d82/a08921.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

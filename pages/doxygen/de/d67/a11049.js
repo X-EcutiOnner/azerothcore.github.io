@@ -1,12 +1,7 @@
 var a11049 =
 [
-    [ "SpellDestination", "de/d67/a11049.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "de/d67/a11049.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "de/d67/a11049.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "de/d67/a11049.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "de/d67/a11049.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "de/d67/a11049.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "de/d67/a11049.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "de/d67/a11049.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "de/d67/a11049.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "MinimapPingClient", "de/d67/a11049.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "de/d67/a11049.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "de/d67/a11049.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "de/d67/a11049.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

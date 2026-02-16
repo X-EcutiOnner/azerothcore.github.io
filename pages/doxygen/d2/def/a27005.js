@@ -1,5 +1,6 @@
 var a27005 =
 [
-    [ "AreaTrigger_at_sentry_point", "d2/def/a27005.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d2/def/a27005.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "npc_spirit_shadeAI", "d0/d97/a27009.html", "d0/d97/a27009" ],
+    [ "npc_spirit_shade", "d2/def/a27005.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d2/def/a27005.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

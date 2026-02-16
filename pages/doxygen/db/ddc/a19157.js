@@ -1,10 +1,14 @@
 var a19157 =
 [
-    [ "npc_scion_of_eternityAI", "db/ddc/a19157.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "db/ddc/a19157.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "db/ddc/a19157.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "db/ddc/a19157.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "db/ddc/a19157.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "db/ddc/a19157.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "db/ddc/a19157.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "db/ddc/a19157.html#a4a459289a55871990abc0adc4ba8278c", null ],
+    [ "AttackStart", "db/ddc/a19157.html#a3412c5664c1c1354b615e8f798824b91", null ],
+    [ "JustReachedHome", "db/ddc/a19157.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
+    [ "MoveInLineOfSight", "db/ddc/a19157.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
+    [ "MovementInform", "db/ddc/a19157.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
+    [ "Reset", "db/ddc/a19157.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
+    [ "UpdateAI", "db/ddc/a19157.html#a8946357cad01050641bcdf51edce192f", null ],
+    [ "currPipeWP", "db/ddc/a19157.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
+    [ "events", "db/ddc/a19157.html#aa39171910383c74583f24663d6c23f3b", null ],
+    [ "forward", "db/ddc/a19157.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
+    [ "needMove", "db/ddc/a19157.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
 ];

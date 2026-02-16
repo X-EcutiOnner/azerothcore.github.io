@@ -1,9 +1,7 @@
 var a18697 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "db/d66/a18697.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "db/d66/a18697.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "db/d66/a18697.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "db/d66/a18697.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "db/d66/a18697.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "db/d66/a18697.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "CalculateBonus", "db/d66/a18697.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "db/d66/a18697.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "db/d66/a18697.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "db/d66/a18697.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

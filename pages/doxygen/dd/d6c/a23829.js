@@ -1,6 +1,8 @@
 var a23829 =
 [
-    [ "HandleDummy", "dd/d6c/a23829.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "dd/d6c/a23829.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "dd/d6c/a23829.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "npc_ancestral_wolfAI", "dd/d6c/a23829.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "dd/d6c/a23829.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "dd/d6c/a23829.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "dd/d6c/a23829.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "dd/d6c/a23829.html#ac238214604720e298124b58c35d58e05", null ]
 ];

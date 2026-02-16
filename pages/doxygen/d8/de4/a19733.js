@@ -1,6 +1,7 @@
 var a19733 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d2/df0/a19737.html", "d2/df0/a19737" ],
-    [ "npc_auriaya_feral_defender", "d8/de4/a19733.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "d8/de4/a19733.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "Apply", "d8/de4/a19733.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d8/de4/a19733.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d8/de4/a19733.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d8/de4/a19733.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

@@ -1,6 +1,8 @@
 var a13857 =
 [
-    [ "boss_grilekAI", "d2/d9b/a13861.html", "d2/d9b/a13861" ],
-    [ "boss_grilek", "d2/dfe/a13857.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "d2/dfe/a13857.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "HandleEffectApply", "d2/dfe/a13857.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d2/dfe/a13857.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d2/dfe/a13857.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d2/dfe/a13857.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d2/dfe/a13857.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

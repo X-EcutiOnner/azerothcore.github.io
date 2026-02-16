@@ -1,7 +1,9 @@
 var a10245 =
 [
-    [ "DatabaseScript", "d6/d81/a10245.html#aab34b85df1a5ccdf17fede64baca4994", null ],
-    [ "IsDatabaseBound", "d6/d81/a10245.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "d6/d81/a10245.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "d6/d81/a10245.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
+    [ "entry", "d6/d81/a10245.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "d6/d81/a10245.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "d6/d81/a10245.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "d6/d81/a10245.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "d6/d81/a10245.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "d6/d81/a10245.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

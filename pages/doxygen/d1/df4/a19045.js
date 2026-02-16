@@ -1,10 +1,7 @@
 var a19045 =
 [
-    [ "boss_razuvious_minionAI", "d1/df4/a19045.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d1/df4/a19045.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d1/df4/a19045.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d1/df4/a19045.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d1/df4/a19045.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d1/df4/a19045.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d1/df4/a19045.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "HandleScript", "d1/df4/a19045.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d1/df4/a19045.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d1/df4/a19045.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d1/df4/a19045.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

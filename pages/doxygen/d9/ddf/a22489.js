@@ -1,12 +1,10 @@
 var a22489 =
 [
-    [ "OPvPCapturePointZM_Beacon", "d9/ddf/a22489.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "d9/ddf/a22489.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "d9/ddf/a22489.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "d9/ddf/a22489.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "d9/ddf/a22489.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "d9/ddf/a22489.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "d9/ddf/a22489.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "d9/ddf/a22489.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "d9/ddf/a22489.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "boss_murmur", "d9/ddf/a22489.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d9/ddf/a22489.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d9/ddf/a22489.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d9/ddf/a22489.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d9/ddf/a22489.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d9/ddf/a22489.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d9/ddf/a22489.html#ade07217a85655a513d7a472d24589691", null ]
 ];

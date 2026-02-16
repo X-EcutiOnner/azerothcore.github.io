@@ -1,7 +1,8 @@
 var a09637 =
 [
-    [ "LootGroupInvalidSelector", "d2/d38/a09637.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d2/d38/a09637.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d2/d38/a09637.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d2/d38/a09637.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "flags", "d2/d38/a09637.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d2/d38/a09637.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d2/d38/a09637.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d2/d38/a09637.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d2/d38/a09637.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

@@ -1,6 +1,7 @@
 var a19281 =
 [
-    [ "boss_eregosAI", "d6/d4a/a19285.html", "d6/d4a/a19285" ],
-    [ "boss_eregos", "dc/d86/a19281.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "dc/d86/a19281.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "HandleScript", "dc/d86/a19281.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "dc/d86/a19281.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "dc/d86/a19281.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "dc/d86/a19281.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

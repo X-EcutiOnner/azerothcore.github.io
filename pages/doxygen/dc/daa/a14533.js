@@ -1,6 +1,10 @@
 var a14533 =
 [
-    [ "OnRemove", "dc/daa/a14533.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "dc/daa/a14533.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "dc/daa/a14533.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "npc_brewfest_super_brew_trigger", "dc/daa/a14533.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "dc/daa/a14533.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "dc/daa/a14533.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "dc/daa/a14533.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "dc/daa/a14533.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "dc/daa/a14533.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "dc/daa/a14533.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

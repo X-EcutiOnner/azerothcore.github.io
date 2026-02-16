@@ -1,4 +1,7 @@
 var a21701 =
 [
-    [ "operator()", "da/da6/a21701.html#a8176fb574f0eac852ed3528dcadac288", null ]
+    [ "OnRemove", "da/da6/a21701.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "da/da6/a21701.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "da/da6/a21701.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "da/da6/a21701.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

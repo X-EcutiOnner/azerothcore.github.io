@@ -1,11 +1,9 @@
 var a08641 =
 [
-    [ "UnitActionBarEntry", "d2/d43/a08641.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d2/d43/a08641.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d2/d43/a08641.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d2/d43/a08641.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d2/d43/a08641.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d2/d43/a08641.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d2/d43/a08641.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d2/d43/a08641.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "ActionButton", "d2/d43/a08641.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d2/d43/a08641.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d2/d43/a08641.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d2/d43/a08641.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d2/d43/a08641.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d2/d43/a08641.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

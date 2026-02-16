@@ -1,6 +1,6 @@
 var a23965 =
 [
-    [ "go_beaconAI", "d6/d44/a23965.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d6/d44/a23965.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d6/d44/a23965.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_mature_netherwing_drakeAI", "d7/d45/a23969.html", "d7/d45/a23969" ],
+    [ "npc_mature_netherwing_drake", "d6/d44/a23965.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d6/d44/a23965.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

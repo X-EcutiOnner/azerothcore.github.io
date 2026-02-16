@@ -1,7 +1,12 @@
 var a20657 =
 [
-    [ "FilterTargets", "d7/db7/a20657.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d7/db7/a20657.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d7/db7/a20657.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d7/db7/a20657.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt002_boombot", "d7/db7/a20657.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "d7/db7/a20657.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "d7/db7/a20657.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "d7/db7/a20657.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "d7/db7/a20657.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "d7/db7/a20657.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "d7/db7/a20657.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "d7/db7/a20657.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "d7/db7/a20657.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

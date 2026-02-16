@@ -1,8 +1,17 @@
 var a13197 =
 [
-    [ "npc_demonic_vapor", "db/dc0/a13197.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "db/dc0/a13197.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "db/dc0/a13197.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "db/dc0/a13197.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "db/dc0/a13197.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "boss_priestess_lackey_commonAI", "db/dc0/a13197.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "db/dc0/a13197.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "db/dc0/a13197.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "db/dc0/a13197.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "db/dc0/a13197.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "db/dc0/a13197.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "db/dc0/a13197.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "db/dc0/a13197.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "db/dc0/a13197.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "db/dc0/a13197.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "db/dc0/a13197.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "db/dc0/a13197.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "db/dc0/a13197.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "db/dc0/a13197.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

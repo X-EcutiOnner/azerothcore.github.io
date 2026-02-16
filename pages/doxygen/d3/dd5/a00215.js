@@ -1,5 +1,4 @@
 var a00215 =
 [
-    [ "TotemAI", "d8/dae/a06212.html", "d8/dae/a06212" ],
-    [ "KillMagnetEvent", "d5/d74/a06216.html", "d5/d74/a06216" ]
+    [ "gVMapMgr", "d3/dd5/a00215.html#a3fb33e0008bbbabc087f99a45e512784", null ]
 ];

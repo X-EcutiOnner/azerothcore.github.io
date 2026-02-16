@@ -1,8 +1,9 @@
 var a16341 =
 [
-    [ "npc_toc_hunterAI", "d3/dd6/a16341.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d3/dd6/a16341.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d3/dd6/a16341.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d3/dd6/a16341.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d3/dd6/a16341.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d3/dd6/a16341.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d3/dd6/a16341.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d3/dd6/a16341.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d3/dd6/a16341.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d3/dd6/a16341.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d3/dd6/a16341.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

@@ -1,8 +1,7 @@
 var a24317 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d8/db4/a24317.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d8/db4/a24317.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d8/db4/a24317.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d8/db4/a24317.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d8/db4/a24317.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "HandleProc", "d8/db4/a24317.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d8/db4/a24317.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d8/db4/a24317.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d8/db4/a24317.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

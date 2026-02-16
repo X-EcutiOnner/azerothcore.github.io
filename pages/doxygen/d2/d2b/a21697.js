@@ -1,7 +1,7 @@
 var a21697 =
 [
-    [ "HandleApplyEffect", "d2/d2b/a21697.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d2/d2b/a21697.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d2/d2b/a21697.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d2/d2b/a21697.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "HandleScriptEffect", "d2/d2b/a21697.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "d2/d2b/a21697.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "d2/d2b/a21697.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "d2/d2b/a21697.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

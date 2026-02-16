@@ -1,6 +1,7 @@
 var a14773 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d4/d34/a14777.html", "d4/d34/a14777" ],
-    [ "instance_maraudon", "d0/d8a/a14773.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d0/d8a/a14773.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "npc_love_in_air_supply_sentry", "d0/d8a/a14773.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d0/d8a/a14773.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d0/d8a/a14773.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d0/d8a/a14773.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

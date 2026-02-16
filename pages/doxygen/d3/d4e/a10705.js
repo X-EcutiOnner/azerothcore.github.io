@@ -1,6 +1,9 @@
 var a10705 =
 [
-    [ "GuildSetGuildMaster", "d3/d4e/a10705.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "d3/d4e/a10705.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "d3/d4e/a10705.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "GuildInfoResponse", "d3/d4e/a10705.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d3/d4e/a10705.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d3/d4e/a10705.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d3/d4e/a10705.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d3/d4e/a10705.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d3/d4e/a10705.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

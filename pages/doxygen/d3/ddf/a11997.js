@@ -1,14 +1,11 @@
 var a11997 =
 [
-    [ "boss_lord_valthalakAI", "d3/ddf/a11997.html#a7f10837eafefefb87b338410c5994362", null ],
-    [ "DamageTaken", "d3/ddf/a11997.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
-    [ "IsSummonedBy", "d3/ddf/a11997.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
-    [ "JustDied", "d3/ddf/a11997.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
-    [ "JustEngagedWith", "d3/ddf/a11997.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
-    [ "Reset", "d3/ddf/a11997.html#abcc993a205602484fb46a67bc68dbbd9", null ],
-    [ "StartFighting", "d3/ddf/a11997.html#af06da24e8bedf922895c8c591c1def04", null ],
-    [ "StartTalking", "d3/ddf/a11997.html#ac1d7b3844f9019ea6485de7616caff95", null ],
-    [ "UpdateAI", "d3/ddf/a11997.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
-    [ "frenzy15", "d3/ddf/a11997.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
-    [ "frenzy40", "d3/ddf/a11997.html#a75aa55580bed475e88e9071fa5284267", null ]
+    [ "group_commandscript", "d3/ddf/a11997.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "d3/ddf/a11997.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "d3/ddf/a11997.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupJoinCommand", "d3/ddf/a11997.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "d3/ddf/a11997.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "d3/ddf/a11997.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "d3/ddf/a11997.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "d3/ddf/a11997.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

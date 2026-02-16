@@ -1,7 +1,6 @@
 var a12249 =
 [
-    [ "HandleDummy", "df/da7/a12249.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "df/da7/a12249.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "df/da7/a12249.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "df/da7/a12249.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_anubshiahAI", "d6/d4c/a12253.html", "d6/d4c/a12253" ],
+    [ "boss_anubshiah", "df/da7/a12249.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
+    [ "GetAI", "df/da7/a12249.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
 ];

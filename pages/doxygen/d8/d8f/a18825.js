@@ -1,7 +1,11 @@
 var a18825 =
 [
-    [ "npc_ioc_gunship_captainAI", "d8/d8f/a18825.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d8/d8f/a18825.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d8/d8f/a18825.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d8/d8f/a18825.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_valithria_cloudAI", "d8/d8f/a18825.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "d8/d8f/a18825.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "d8/d8f/a18825.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "d8/d8f/a18825.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "d8/d8f/a18825.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "d8/d8f/a18825.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "d8/d8f/a18825.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "d8/d8f/a18825.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

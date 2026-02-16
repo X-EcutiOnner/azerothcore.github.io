@@ -1,9 +1,13 @@
 var a05453 =
 [
-    [ "IteratorPair", "d4/d04/a05453.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "d4/d04/a05453.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "d4/d04/a05453.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "d4/d04/a05453.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "d4/d04/a05453.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "d4/d04/a05453.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "Logger", "d4/d04/a05453.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "d4/d04/a05453.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "d4/d04/a05453.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "d4/d04/a05453.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "d4/d04/a05453.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "d4/d04/a05453.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "d4/d04/a05453.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "d4/d04/a05453.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "d4/d04/a05453.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "d4/d04/a05453.html#ada299a7dd268085371557213e36695a9", null ]
 ];

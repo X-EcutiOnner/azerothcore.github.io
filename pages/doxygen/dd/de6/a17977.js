@@ -1,5 +1,8 @@
 var a17977 =
 [
-    [ "operator()", "dd/de6/a17977.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "dd/de6/a17977.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "Load", "dd/de6/a17977.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "dd/de6/a17977.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "dd/de6/a17977.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "dd/de6/a17977.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "dd/de6/a17977.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

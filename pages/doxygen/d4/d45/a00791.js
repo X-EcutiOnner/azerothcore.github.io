@@ -1,6 +1,4 @@
 var a00791 =
 [
-    [ "GenerateEnchSuffixFactor", "d4/d45/a00791.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "d4/d45/a00791.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "d4/d45/a00791.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "ScriptRegistry< ConditionScript >", "d4/d45/a00791.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
 ];

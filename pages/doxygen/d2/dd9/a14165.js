@@ -1,6 +1,6 @@
 var a14165 =
 [
-    [ "PeriodicTick", "d2/dd9/a14165.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d2/dd9/a14165.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d2/dd9/a14165.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "cooldown", "d2/dd9/a14165.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d2/dd9/a14165.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d2/dd9/a14165.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

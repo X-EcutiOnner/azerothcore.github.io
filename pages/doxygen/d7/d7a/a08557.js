@@ -1,6 +1,7 @@
 var a08557 =
 [
-    [ "SavedItem", "d7/d7a/a08557.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "d7/d7a/a08557.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "d7/d7a/a08557.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "UsedPos", "d7/d7a/a08557.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "d7/d7a/a08557.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "d7/d7a/a08557.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "d7/d7a/a08557.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

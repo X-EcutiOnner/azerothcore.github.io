@@ -1,8 +1,9 @@
 var a07153 =
 [
-    [ "entry", "dd/d09/a07153.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
-    [ "o", "dd/d09/a07153.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
-    [ "x", "dd/d09/a07153.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
-    [ "y", "dd/d09/a07153.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
-    [ "z", "dd/d09/a07153.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
+    [ "ObjectGuidVector", "dd/d09/a07153.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "dd/d09/a07153.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "dd/d09/a07153.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "dd/d09/a07153.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "dd/d09/a07153.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "dd/d09/a07153.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

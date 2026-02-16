@@ -1,8 +1,8 @@
 var a12889 =
 [
-    [ "HandleDummy", "db/d6c/a12889.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "db/d6c/a12889.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "db/d6c/a12889.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "db/d6c/a12889.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "db/d6c/a12889.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_lava_spawn", "db/d6c/a12889.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "db/d6c/a12889.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "db/d6c/a12889.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "db/d6c/a12889.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "db/d6c/a12889.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

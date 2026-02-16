@@ -1,14 +1,19 @@
 var a08609 =
 [
-    [ "SocialMap", "dd/dfb/a08609.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "dd/dfb/a08609.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "dd/dfb/a08609.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "dd/dfb/a08609.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "dd/dfb/a08609.html#a24344515cc4e656b98afcf760181b070", null ],
-    [ "instance", "dd/dfb/a08609.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "dd/dfb/a08609.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9", null ],
-    [ "MakeFriendStatusPacket", "dd/dfb/a08609.html#a9acd86505e66f2e6de9f8d30b36b94e6", null ],
-    [ "RemovePlayerSocial", "dd/dfb/a08609.html#a6b4968dc0a09a48c2b58e40d47da665d", null ],
-    [ "SendFriendStatus", "dd/dfb/a08609.html#a8824263f601c107ef84e487ca1b71bff", null ],
-    [ "m_socialMap", "dd/dfb/a08609.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "PetInfo", "dd/dfb/a08609.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "dd/dfb/a08609.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "dd/dfb/a08609.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "dd/dfb/a08609.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "dd/dfb/a08609.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "dd/dfb/a08609.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "dd/dfb/a08609.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "dd/dfb/a08609.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "dd/dfb/a08609.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "dd/dfb/a08609.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "dd/dfb/a08609.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "dd/dfb/a08609.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "dd/dfb/a08609.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "dd/dfb/a08609.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "dd/dfb/a08609.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "dd/dfb/a08609.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

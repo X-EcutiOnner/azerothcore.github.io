@@ -1,7 +1,7 @@
 var a16041 =
 [
-    [ "OnApply", "d6/dc3/a16041.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d6/dc3/a16041.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d6/dc3/a16041.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d6/dc3/a16041.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "npc_ameAI", "d6/db0/a16045.html", "d6/db0/a16045" ],
+    [ "npc_ame", "d6/dc3/a16041.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d6/dc3/a16041.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d6/dc3/a16041.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

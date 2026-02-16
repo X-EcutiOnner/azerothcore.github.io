@@ -1,7 +1,9 @@
 var a21737 =
 [
-    [ "FilterTargets", "d7/d75/a21737.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d7/d75/a21737.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d7/d75/a21737.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d7/d75/a21737.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_wounded_skirmisher", "d7/d75/a21737.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d7/d75/a21737.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d7/d75/a21737.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d7/d75/a21737.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d7/d75/a21737.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d7/d75/a21737.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

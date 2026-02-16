@@ -1,10 +1,6 @@
 var a07349 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "d8/dd9/a07349.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "d8/dd9/a07349.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "d8/dd9/a07349.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "d8/dd9/a07349.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "d8/dd9/a07349.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "d8/dd9/a07349.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "d8/dd9/a07349.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "RewardTeamWithRewardGroup", "d8/dd9/a07349.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
+    [ "RewardWithAchievements", "d8/dd9/a07349.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
+    [ "RewardWithMail", "d8/dd9/a07349.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
 ];

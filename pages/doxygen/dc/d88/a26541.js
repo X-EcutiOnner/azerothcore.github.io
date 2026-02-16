@@ -1,7 +1,8 @@
 var a26541 =
 [
-    [ "CheckProc", "dc/d88/a26541.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "dc/d88/a26541.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "dc/d88/a26541.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "dc/d88/a26541.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "Apply", "dc/d88/a26541.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "dc/d88/a26541.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "dc/d88/a26541.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "dc/d88/a26541.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "dc/d88/a26541.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

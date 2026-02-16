@@ -1,5 +1,6 @@
 var a21413 =
 [
-    [ "npc_khunok_the_behemothAI", "d0/d77/a21413.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d0/d77/a21413.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_warmage_coldarraAI", "df/dad/a21417.html", "df/dad/a21417" ],
+    [ "npc_warmage_coldarra", "d0/d77/a21413.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "d0/d77/a21413.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

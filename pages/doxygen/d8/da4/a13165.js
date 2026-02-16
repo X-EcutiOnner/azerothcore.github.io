@@ -1,11 +1,15 @@
 var a13165 =
 [
-    [ "boss_alythess", "d8/da4/a13165.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "d8/da4/a13165.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "d8/da4/a13165.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "d8/da4/a13165.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "d8/da4/a13165.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "d8/da4/a13165.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "d8/da4/a13165.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "d8/da4/a13165.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "npc_image_of_medivhAI", "d8/da4/a13165.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "d8/da4/a13165.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "d8/da4/a13165.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "d8/da4/a13165.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "d8/da4/a13165.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "d8/da4/a13165.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "d8/da4/a13165.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "d8/da4/a13165.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "d8/da4/a13165.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "d8/da4/a13165.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "d8/da4/a13165.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "d8/da4/a13165.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

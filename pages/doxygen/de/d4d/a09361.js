@@ -1,8 +1,8 @@
 var a09361 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "de/d4d/a09361.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "de/d4d/a09361.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "de/d4d/a09361.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "de/d4d/a09361.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "de/d4d/a09361.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "GameObjectWorker", "de/d4d/a09361.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "de/d4d/a09361.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "de/d4d/a09361.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "de/d4d/a09361.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "de/d4d/a09361.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

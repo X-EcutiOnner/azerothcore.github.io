@@ -1,6 +1,7 @@
 var a19901 =
 [
-    [ "PrepareSpellScript", "de/d4c/a19901.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "de/d4c/a19901.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "de/d4c/a19901.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "HandleEffectRemove", "de/d4c/a19901.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "de/d4c/a19901.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "de/d4c/a19901.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "de/d4c/a19901.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

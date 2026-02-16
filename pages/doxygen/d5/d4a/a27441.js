@@ -1,6 +1,6 @@
 var a27441 =
 [
-    [ "npc_target_dummyAI", "d3/db4/a27445.html", "d3/db4/a27445" ],
-    [ "npc_target_dummy", "d5/d4a/a27441.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "d5/d4a/a27441.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "npc_injured_patientAI", "d3/db4/a27445.html", "d3/db4/a27445" ],
+    [ "npc_injured_patient", "d5/d4a/a27441.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d5/d4a/a27441.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

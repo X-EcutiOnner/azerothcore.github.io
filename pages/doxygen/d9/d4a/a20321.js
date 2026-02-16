@@ -1,6 +1,6 @@
 var a20321 =
 [
-    [ "npc_ulduar_vx001AI", "dd/d10/a20325.html", "dd/d10/a20325" ],
-    [ "npc_ulduar_vx001", "d9/d4a/a20321.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "d9/d4a/a20321.html#acdab817141b851deb09861230323ee58", null ]
+    [ "FilterTargets", "d9/d4a/a20321.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d9/d4a/a20321.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d9/d4a/a20321.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

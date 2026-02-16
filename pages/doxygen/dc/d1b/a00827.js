@@ -1,59 +1,14 @@
 var a00827 =
 [
-    [ "ObjectGuidTraits< high >", "d8/d0e/a08483.html", "d8/d0e/a08483" ],
-    [ "PackedGuidReader", "d0/d81/a08487.html", "d0/d81/a08487" ],
-    [ "ObjectGuid", "dd/d5b/a08491.html", "dd/d5b/a08491" ],
-    [ "PackedGuid", "d5/d3f/a08495.html", "d5/d3f/a08495" ],
-    [ "ObjectGuidGeneratorBase", "da/d1b/a08499.html", "da/d1b/a08499" ],
-    [ "ObjectGuidGenerator< high >", "d7/d2f/a08503.html", "d7/d2f/a08503" ],
-    [ "std::hash< ObjectGuid >", "d8/d97/a08507.html", "d8/d97/a08507" ],
-    [ "GUID_TRAIT_GLOBAL", "dc/d1b/a00827.html#a4d3dbad84884c4977ba2be1ac82cc142", null ],
-    [ "GUID_TRAIT_MAP_SPECIFIC", "dc/d1b/a00827.html#acdd3815893762a2491365b8fd25c7283", null ],
-    [ "NUM_CLIENT_OBJECT_TYPES", "dc/d1b/a00827.html#ae616985e1e68f294e055e2bced156ada", null ],
-    [ "PACKED_GUID_MIN_BUFFER_SIZE", "dc/d1b/a00827.html#ac7c846a04172e6d96c6096780b5d05b0", null ],
-    [ "GuidDeque", "dc/d1b/a00827.html#a393d9824dfb17afe3b82652e89eccc68", null ],
-    [ "GuidList", "dc/d1b/a00827.html#a5951d383f157ff0ed6d23ecef2213a4b", null ],
-    [ "GuidSet", "dc/d1b/a00827.html#a62874da4f73709809fa3c7609d3e30af", null ],
-    [ "GuidUnorderedSet", "dc/d1b/a00827.html#a407d39fdbc20e1e06960539245ee6a25", null ],
-    [ "GuidVector", "dc/d1b/a00827.html#a173958393e55b3150391dfb3a6d387ed", null ],
-    [ "HighGuid", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750", [
-      [ "Item", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679", null ],
-      [ "Container", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2", null ],
-      [ "Player", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234", null ],
-      [ "GameObject", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae", null ],
-      [ "Transport", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3", null ],
-      [ "Unit", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f", null ],
-      [ "Pet", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d", null ],
-      [ "Vehicle", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b", null ],
-      [ "DynamicObject", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee", null ],
-      [ "Corpse", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a", null ],
-      [ "Mo_Transport", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a", null ],
-      [ "Instance", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2", null ],
-      [ "Group", "dc/d1b/a00827.html#abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0", null ]
-    ] ],
-    [ "TypeID", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2", [
-      [ "TYPEID_OBJECT", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f", null ],
-      [ "TYPEID_ITEM", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28", null ],
-      [ "TYPEID_CONTAINER", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107", null ],
-      [ "TYPEID_UNIT", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9", null ],
-      [ "TYPEID_PLAYER", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c", null ],
-      [ "TYPEID_GAMEOBJECT", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d", null ],
-      [ "TYPEID_DYNAMICOBJECT", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68", null ],
-      [ "TYPEID_CORPSE", "dc/d1b/a00827.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f", null ]
-    ] ],
-    [ "TypeMask", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1", [
-      [ "TYPEMASK_OBJECT", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2", null ],
-      [ "TYPEMASK_ITEM", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d", null ],
-      [ "TYPEMASK_CONTAINER", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd", null ],
-      [ "TYPEMASK_UNIT", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de", null ],
-      [ "TYPEMASK_PLAYER", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739", null ],
-      [ "TYPEMASK_GAMEOBJECT", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4", null ],
-      [ "TYPEMASK_DYNAMICOBJECT", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108", null ],
-      [ "TYPEMASK_CORPSE", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9", null ],
-      [ "TYPEMASK_SEER", "dc/d1b/a00827.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96", null ]
-    ] ],
-    [ "operator<<", "dc/d1b/a00827.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "dc/d1b/a00827.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "dc/d1b/a00827.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "dc/d1b/a00827.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "ArenaScript", "d6/d1e/a10381.html", "d6/d1e/a10381" ],
+    [ "ArenaHook", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214ba", [
+      [ "ARENAHOOK_CAN_ADD_MEMBER", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
+      [ "ARENAHOOK_ON_GET_POINTS", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
+      [ "ARENAHOOK_CAN_SAVE_TO_DB", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
+      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
+      [ "ARENAHOOK_ON_ARENA_START", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
+      [ "ARENAHOOK_ON_BEFORE_TEAM_MEMBER_UPDATE", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baade4a09676bcc54d050070c72869f1a03", null ],
+      [ "ARENAHOOK_CAN_SAVE_ARENA_STATS_FOR_MEMBER", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7", null ],
+      [ "ARENAHOOK_END", "dc/d1b/a00827.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
+    ] ]
 ];

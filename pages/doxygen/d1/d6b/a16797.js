@@ -1,12 +1,7 @@
 var a16797 =
 [
-    [ "npc_tortured_riflemanAI", "d1/d6b/a16797.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d1/d6b/a16797.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d1/d6b/a16797.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d1/d6b/a16797.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d1/d6b/a16797.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d1/d6b/a16797.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d1/d6b/a16797.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d1/d6b/a16797.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d1/d6b/a16797.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_toc_warriorAI", "d1/d6b/a16797.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d1/d6b/a16797.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d1/d6b/a16797.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d1/d6b/a16797.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

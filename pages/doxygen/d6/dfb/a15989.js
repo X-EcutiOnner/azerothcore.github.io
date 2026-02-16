@@ -1,6 +1,6 @@
 var a15989 =
 [
-    [ "npc_halion_controllerAI", "dd/d72/a15993.html", "dd/d72/a15993" ],
-    [ "npc_halion_controller", "d6/dfb/a15989.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d6/dfb/a15989.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "npc_twiggy_flatheadAI", "dd/d72/a15993.html", "dd/d72/a15993" ],
+    [ "npc_twiggy_flathead", "d6/dfb/a15989.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d6/dfb/a15989.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

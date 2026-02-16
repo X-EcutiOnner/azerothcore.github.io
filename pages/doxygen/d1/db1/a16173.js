@@ -1,6 +1,12 @@
 var a16173 =
 [
-    [ "npc_black_knight_ghoulAI", "df/d75/a16177.html", "df/d75/a16177" ],
-    [ "npc_black_knight_ghoul", "d1/db1/a16173.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d1/db1/a16173.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "npc_twilight_volunteer", "d1/db1/a16173.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d1/db1/a16173.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d1/db1/a16173.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d1/db1/a16173.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d1/db1/a16173.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d1/db1/a16173.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d1/db1/a16173.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d1/db1/a16173.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d1/db1/a16173.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

@@ -1,10 +1,10 @@
 var a09417 =
 [
-    [ "GameObjectInRangeCheck", "d9/d5a/a09417.html#a62075fc1b342fe6e40998dad928da71a", null ],
-    [ "operator()", "d9/d5a/a09417.html#aa49818fa638dbd3909e5f563383346f2", null ],
-    [ "entry", "d9/d5a/a09417.html#a9223c931b791ad689451f7f0c874b6a9", null ],
-    [ "range", "d9/d5a/a09417.html#addf45c48385df26aa544957d7d24f1ec", null ],
-    [ "x", "d9/d5a/a09417.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
-    [ "y", "d9/d5a/a09417.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
-    [ "z", "d9/d5a/a09417.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "d9/d5a/a09417.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "d9/d5a/a09417.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "d9/d5a/a09417.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "d9/d5a/a09417.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "d9/d5a/a09417.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "d9/d5a/a09417.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "d9/d5a/a09417.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

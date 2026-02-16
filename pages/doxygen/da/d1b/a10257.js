@@ -1,13 +1,5 @@
 var a10257 =
 [
-    [ "FormulaScript", "da/d1b/a10257.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "da/d1b/a10257.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "da/d1b/a10257.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "da/d1b/a10257.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "da/d1b/a10257.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "da/d1b/a10257.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "da/d1b/a10257.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "da/d1b/a10257.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "da/d1b/a10257.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "da/d1b/a10257.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "ScriptId", "da/d1b/a10257.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "da/d1b/a10257.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

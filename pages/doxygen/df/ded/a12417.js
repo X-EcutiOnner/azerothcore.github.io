@@ -1,7 +1,6 @@
 var a12417 =
 [
-    [ "HandleScript", "df/ded/a12417.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "df/ded/a12417.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "df/ded/a12417.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "df/ded/a12417.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_overlordwyrmthalakAI", "dd/dad/a12421.html", "dd/dad/a12421" ],
+    [ "boss_overlord_wyrmthalak", "df/ded/a12417.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
+    [ "GetAI", "df/ded/a12417.html#a56de538f25cbabc9346b987dbfe680a1", null ]
 ];

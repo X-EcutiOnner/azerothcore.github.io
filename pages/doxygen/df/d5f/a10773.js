@@ -1,6 +1,5 @@
 var a10773 =
 [
-    [ "UITime", "df/d5f/a10773.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "df/d5f/a10773.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "df/d5f/a10773.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "Flags", "df/d5f/a10773.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "df/d5f/a10773.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

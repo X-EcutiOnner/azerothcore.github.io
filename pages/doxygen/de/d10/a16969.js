@@ -1,6 +1,7 @@
 var a16969 =
 [
-    [ "npc_pos_icicle_triggerAI", "da/de0/a16973.html", "da/de0/a16973" ],
-    [ "npc_pos_icicle_trigger", "de/d10/a16969.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "de/d10/a16969.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "HandleEffectPeriodic", "de/d10/a16969.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "de/d10/a16969.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "de/d10/a16969.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "de/d10/a16969.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

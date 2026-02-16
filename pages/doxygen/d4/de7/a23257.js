@@ -1,6 +1,7 @@
 var a23257 =
 [
-    [ "boss_rokmar_the_crackler", "d4/de7/a23257.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d4/de7/a23257.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d4/de7/a23257.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "OnApply", "d4/de7/a23257.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d4/de7/a23257.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d4/de7/a23257.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d4/de7/a23257.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

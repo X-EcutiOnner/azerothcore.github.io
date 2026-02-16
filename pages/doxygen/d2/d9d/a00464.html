@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MotionMaster.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Logging/LogCommon.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,443 +105,180 @@ $(document).ready(function(){initNavTree('d2/d9d/a00464.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">MotionMaster.h File Reference</div></div>
+  <div class="headertitle"><div class="title">LogCommon.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PathGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Position.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Spline/MoveSpline.h</a>&quot;</code><br />
-<code>#include &lt;optional&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/da1/a10024.html">ChaseRange</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d25/a10028.html">ChaseAngle</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0a/a10032.html">MotionMaster</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:af0544189c7fc748059c3075861102b40"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#af0544189c7fc748059c3075861102b40">VISUAL_WAYPOINT</a>&#160;&#160;&#160;1</td></tr>
-<tr class="separator:af0544189c7fc748059c3075861102b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6386d0a4b64b17a25a60627bb55b360c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a6386d0a4b64b17a25a60627bb55b360c">SPEED_CHARGE</a>&#160;&#160;&#160;42.0f</td></tr>
-<tr class="separator:a6386d0a4b64b17a25a60627bb55b360c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a4f12806b915efea564eae942207002f9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a> = 0
+<tr class="memitem:ad26ed09e30f81a5d2172b4793a3f2781"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2">RANDOM_MOTION_TYPE</a> = 1
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a> = 2
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b">MAX_DB_MOTION_TYPE</a> = 3
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6">ANIMAL_RANDOM_MOTION_TYPE</a> = MAX_DB_MOTION_TYPE
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611">CONFUSED_MOTION_TYPE</a> = 4
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a> = 5
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a> = 5
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a> = 6
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a> = 6
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d">NUM_ENABLED_LOG_LEVELS</a> = LOG_LEVEL_TRACE
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4">FLIGHT_MOTION_TYPE</a> = 7
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e">FLEEING_MOTION_TYPE</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759">DISTRACT_MOTION_TYPE</a> = 10
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c">ASSISTANCE_MOTION_TYPE</a> = 11
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4">ASSISTANCE_DISTRACT_MOTION_TYPE</a> = 12
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc">TIMED_FLEEING_MOTION_TYPE</a> = 13
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c">FOLLOW_MOTION_TYPE</a> = 14
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f">ROTATE_MOTION_TYPE</a> = 15
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a> = 16
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf">ESCORT_MOTION_TYPE</a> = 17
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b">NULL_MOTION_TYPE</a> = 18
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96">LOG_LEVEL_INVALID</a> = 0xFF
 <br />
  }</td></tr>
-<tr class="separator:a4f12806b915efea564eae942207002f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42f80f4e5d95e3ba656adbee43cfc3f5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5">MovementSlot</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7">MOTION_SLOT_IDLE</a>
+<tr class="separator:ad26ed09e30f81a5d2172b4793a3f2781"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacbd2dccb14fcb75d2651dce582364df"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852">APPENDER_NONE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc">MOTION_SLOT_ACTIVE</a>
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a">APPENDER_CONSOLE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e">MOTION_SLOT_CONTROLLED</a>
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d">APPENDER_FILE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5">MAX_MOTION_SLOT</a>
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394">APPENDER_DB</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301">APPENDER_INVALID</a> = 0xFF
 <br />
  }</td></tr>
-<tr class="separator:a42f80f4e5d95e3ba656adbee43cfc3f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a14fe34f2e738c20bcc4e3c5cc71de5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5">MMCleanFlag</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79">MMCF_NONE</a> = 0x00
+<tr class="separator:aacbd2dccb14fcb75d2651dce582364df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94c1c25ceab6db205eb6a5d5a2e0e803"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a> = 0x00
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5">MMCF_UPDATE</a> = 0x01
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a> = 0x01
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2">MMCF_RESET</a> = 0x02
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a> = 0x02
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0">MMCF_INUSE</a> = 0x04
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a> = 0x04
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3">APPENDER_FLAGS_USE_TIMESTAMP</a> = 0x08
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2">APPENDER_FLAGS_MAKE_FILE_BACKUP</a> = 0x10
 <br />
  }</td></tr>
-<tr class="separator:a1a14fe34f2e738c20bcc4e3c5cc71de5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1978c8aa3f81d04079c45fe56aa51233"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233">RotateDirection</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a">ROTATE_DIRECTION_LEFT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5">ROTATE_DIRECTION_RIGHT</a>
-<br />
- }</td></tr>
-<tr class="separator:a1978c8aa3f81d04079c45fe56aa51233"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7dcdc8a65ab93a3b1cb065bc34ce75d0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0">ForcedMovement</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37">FORCED_MOVEMENT_WALK</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2">FORCED_MOVEMENT_RUN</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f">FORCED_MOVEMENT_MAX</a>
-<br />
- }</td></tr>
-<tr class="separator:a7dcdc8a65ab93a3b1cb065bc34ce75d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c48b62afc7f5aeede09278c110acbac"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbac">PathSource</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7">WAYPOINT_MGR</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f">SMART_WAYPOINT_MGR</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:a7c48b62afc7f5aeede09278c110acbac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae799184a3f3653b4b574f6df7a414255"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255">AnimTier</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf">Ground</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d">Swim</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc">Hover</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51">Fly</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062">Submerged</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233">Max</a>
-<br />
- }</td></tr>
-<tr class="separator:ae799184a3f3653b4b574f6df7a414255"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a94c1c25ceab6db205eb6a5d5a2e0e803"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a6386d0a4b64b17a25a60627bb55b360c" name="a6386d0a4b64b17a25a60627bb55b360c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6386d0a4b64b17a25a60627bb55b360c">&#9670;&#160;</a></span>SPEED_CHARGE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SPEED_CHARGE&#160;&#160;&#160;42.0f</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af0544189c7fc748059c3075861102b40" name="af0544189c7fc748059c3075861102b40"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0544189c7fc748059c3075861102b40">&#9670;&#160;</a></span>VISUAL_WAYPOINT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VISUAL_WAYPOINT&#160;&#160;&#160;1</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ae799184a3f3653b4b574f6df7a414255" name="ae799184a3f3653b4b574f6df7a414255"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae799184a3f3653b4b574f6df7a414255">&#9670;&#160;</a></span>AnimTier</h2>
+<a id="a94c1c25ceab6db205eb6a5d5a2e0e803" name="a94c1c25ceab6db205eb6a5d5a2e0e803"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94c1c25ceab6db205eb6a5d5a2e0e803">&#9670;&#160;</a></span>AppenderFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255">AnimTier</a> : <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> : <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf" name="ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf"></a>Ground&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d" name="ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d"></a>Swim&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc" name="ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc"></a>Hover&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51" name="ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51"></a>Fly&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062" name="ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062"></a>Submerged&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233" name="ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233"></a>Max&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b" name="a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b"></a>APPENDER_FLAGS_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46" name="a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46"></a>APPENDER_FLAGS_PREFIX_TIMESTAMP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e" name="a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e"></a>APPENDER_FLAGS_PREFIX_LOGLEVEL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b" name="a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b"></a>APPENDER_FLAGS_PREFIX_LOGFILTERTYPE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3" name="a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3"></a>APPENDER_FLAGS_USE_TIMESTAMP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2" name="a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2"></a>APPENDER_FLAGS_MAKE_FILE_BACKUP&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
-<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf">Ground</a>      = 0,</div>
-<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d">Swim</a>        = 1,</div>
-<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc">Hover</a>       = 2,</div>
-<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51">Fly</a>         = 3,</div>
-<div class="line"><span class="lineno">  104</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062">Submerged</a>   = 4,</div>
-<div class="line"><span class="lineno">  105</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233">Max</a></div>
-<div class="line"><span class="lineno">  106</span>};</div>
-<div class="ttc" id="aa00464_html_ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf"><div class="ttname"><a href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf">AnimTier::Ground</a></div><div class="ttdeci">@ Ground</div></div>
-<div class="ttc" id="aa00464_html_ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233"><div class="ttname"><a href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233">AnimTier::Max</a></div><div class="ttdeci">@ Max</div></div>
-<div class="ttc" id="aa00464_html_ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062"><div class="ttname"><a href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062">AnimTier::Submerged</a></div><div class="ttdeci">@ Submerged</div></div>
-<div class="ttc" id="aa00464_html_ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51"><div class="ttname"><a href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51">AnimTier::Fly</a></div><div class="ttdeci">@ Fly</div></div>
-<div class="ttc" id="aa00464_html_ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d"><div class="ttname"><a href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d">AnimTier::Swim</a></div><div class="ttdeci">@ Swim</div></div>
-<div class="ttc" id="aa00464_html_ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc"><div class="ttname"><a href="../../d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc">AnimTier::Hover</a></div><div class="ttdeci">@ Hover</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a>                          = 0x00,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a>              = 0x01,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a>               = 0x02,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a>          = 0x04,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3">APPENDER_FLAGS_USE_TIMESTAMP</a>                 = 0x08,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2">APPENDER_FLAGS_MAKE_FILE_BACKUP</a>              = 0x10</div>
+<div class="line"><span class="lineno">   58</span>};</div>
+<div class="ttc" id="aa00464_html_a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b"><div class="ttname"><a href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a></div><div class="ttdeci">@ APPENDER_FLAGS_NONE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:52</div></div>
+<div class="ttc" id="aa00464_html_a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2"><div class="ttname"><a href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2">APPENDER_FLAGS_MAKE_FILE_BACKUP</a></div><div class="ttdeci">@ APPENDER_FLAGS_MAKE_FILE_BACKUP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:57</div></div>
+<div class="ttc" id="aa00464_html_a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3"><div class="ttname"><a href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3">APPENDER_FLAGS_USE_TIMESTAMP</a></div><div class="ttdeci">@ APPENDER_FLAGS_USE_TIMESTAMP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:56</div></div>
+<div class="ttc" id="aa00464_html_a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46"><div class="ttname"><a href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_TIMESTAMP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:53</div></div>
+<div class="ttc" id="aa00464_html_a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b"><div class="ttname"><a href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:55</div></div>
+<div class="ttc" id="aa00464_html_a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e"><div class="ttname"><a href="../../d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_LOGLEVEL</div><div class="ttdef"><b>Definition:</b> LogCommon.h:54</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a7dcdc8a65ab93a3b1cb065bc34ce75d0" name="a7dcdc8a65ab93a3b1cb065bc34ce75d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7dcdc8a65ab93a3b1cb065bc34ce75d0">&#9670;&#160;</a></span>ForcedMovement</h2>
+<a id="aacbd2dccb14fcb75d2651dce582364df" name="aacbd2dccb14fcb75d2651dce582364df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacbd2dccb14fcb75d2651dce582364df">&#9670;&#160;</a></span>AppenderType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0">ForcedMovement</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> : <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece" name="a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece"></a>FORCED_MOVEMENT_NONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37" name="a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37"></a>FORCED_MOVEMENT_WALK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2" name="a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2"></a>FORCED_MOVEMENT_RUN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f" name="a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f"></a>FORCED_MOVEMENT_MAX&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852" name="aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852"></a>APPENDER_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a" name="aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a"></a>APPENDER_CONSOLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d" name="aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d"></a>APPENDER_FILE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394" name="aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394"></a>APPENDER_DB&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301" name="aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301"></a>APPENDER_INVALID&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a>    = 0,</div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37">FORCED_MOVEMENT_WALK</a>    = 1,</div>
-<div class="line"><span class="lineno">   87</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2">FORCED_MOVEMENT_RUN</a>     = 2,</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f">FORCED_MOVEMENT_MAX</a></div>
-<div class="line"><span class="lineno">   90</span>};</div>
-<div class="ttc" id="aa00464_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37"><div class="ttname"><a href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37">FORCED_MOVEMENT_WALK</a></div><div class="ttdeci">@ FORCED_MOVEMENT_WALK</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:86</div></div>
-<div class="ttc" id="aa00464_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2"><div class="ttname"><a href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2">FORCED_MOVEMENT_RUN</a></div><div class="ttdeci">@ FORCED_MOVEMENT_RUN</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:87</div></div>
-<div class="ttc" id="aa00464_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f"><div class="ttname"><a href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f">FORCED_MOVEMENT_MAX</a></div><div class="ttdeci">@ FORCED_MOVEMENT_MAX</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:89</div></div>
-<div class="ttc" id="aa00464_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece"><div class="ttname"><a href="../../d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a></div><div class="ttdeci">@ FORCED_MOVEMENT_NONE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:85</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852">APPENDER_NONE</a>,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a">APPENDER_CONSOLE</a>,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d">APPENDER_FILE</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394">APPENDER_DB</a>,</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301">APPENDER_INVALID</a> = 0xFF <span class="comment">// SKIP</span></div>
+<div class="line"><span class="lineno">   47</span>};</div>
+<div class="ttc" id="aa00464_html_aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d"><div class="ttname"><a href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d">APPENDER_FILE</a></div><div class="ttdeci">@ APPENDER_FILE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:43</div></div>
+<div class="ttc" id="aa00464_html_aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301"><div class="ttname"><a href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301">APPENDER_INVALID</a></div><div class="ttdeci">@ APPENDER_INVALID</div><div class="ttdef"><b>Definition:</b> LogCommon.h:46</div></div>
+<div class="ttc" id="aa00464_html_aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a"><div class="ttname"><a href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a">APPENDER_CONSOLE</a></div><div class="ttdeci">@ APPENDER_CONSOLE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:42</div></div>
+<div class="ttc" id="aa00464_html_aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394"><div class="ttname"><a href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394">APPENDER_DB</a></div><div class="ttdeci">@ APPENDER_DB</div><div class="ttdef"><b>Definition:</b> LogCommon.h:44</div></div>
+<div class="ttc" id="aa00464_html_aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852"><div class="ttname"><a href="../../d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852">APPENDER_NONE</a></div><div class="ttdeci">@ APPENDER_NONE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:41</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a1a14fe34f2e738c20bcc4e3c5cc71de5" name="a1a14fe34f2e738c20bcc4e3c5cc71de5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a14fe34f2e738c20bcc4e3c5cc71de5">&#9670;&#160;</a></span>MMCleanFlag</h2>
+<a id="ad26ed09e30f81a5d2172b4793a3f2781" name="ad26ed09e30f81a5d2172b4793a3f2781"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad26ed09e30f81a5d2172b4793a3f2781">&#9670;&#160;</a></span>LogLevel</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5">MMCleanFlag</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> : <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79" name="a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79"></a>MMCF_NONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5" name="a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5"></a>MMCF_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2" name="a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2"></a>MMCF_RESET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0" name="a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0"></a>MMCF_INUSE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61" name="ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61"></a>LOG_LEVEL_DISABLED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5" name="ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5"></a>LOG_LEVEL_FATAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f" name="ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f"></a>LOG_LEVEL_ERROR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4" name="ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4"></a>LOG_LEVEL_WARN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4" name="ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4"></a>LOG_LEVEL_INFO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177" name="ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177"></a>LOG_LEVEL_DEBUG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d" name="ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d"></a>LOG_LEVEL_TRACE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d" name="ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d"></a>NUM_ENABLED_LOG_LEVELS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96" name="ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96"></a>LOG_LEVEL_INVALID&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79">MMCF_NONE</a>   = 0x00,</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5">MMCF_UPDATE</a> = 0x01, <span class="comment">// Clear or Expire called from update</span></div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2">MMCF_RESET</a>  = 0x02, <span class="comment">// Flag if need top()-&gt;Reset()</span></div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0">MMCF_INUSE</a>  = 0x04, <span class="comment">// pussywizard: Flag if in MotionMaster::UpdateMotion</span></div>
-<div class="line"><span class="lineno">   75</span>};</div>
-<div class="ttc" id="aa00464_html_a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2"><div class="ttname"><a href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2">MMCF_RESET</a></div><div class="ttdeci">@ MMCF_RESET</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:73</div></div>
-<div class="ttc" id="aa00464_html_a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79"><div class="ttname"><a href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79">MMCF_NONE</a></div><div class="ttdeci">@ MMCF_NONE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:71</div></div>
-<div class="ttc" id="aa00464_html_a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5"><div class="ttname"><a href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5">MMCF_UPDATE</a></div><div class="ttdeci">@ MMCF_UPDATE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:72</div></div>
-<div class="ttc" id="aa00464_html_a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0"><div class="ttname"><a href="../../d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0">MMCF_INUSE</a></div><div class="ttdeci">@ MMCF_INUSE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:74</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4f12806b915efea564eae942207002f9" name="a4f12806b915efea564eae942207002f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4f12806b915efea564eae942207002f9">&#9670;&#160;</a></span>MovementGeneratorType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e" name="a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e"></a>IDLE_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2" name="a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2"></a>RANDOM_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9" name="a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9"></a>WAYPOINT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b" name="a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b"></a>MAX_DB_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6" name="a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6"></a>ANIMAL_RANDOM_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611" name="a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611"></a>CONFUSED_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881" name="a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881"></a>CHASE_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426" name="a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426"></a>HOME_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4" name="a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4"></a>FLIGHT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467" name="a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467"></a>POINT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e" name="a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e"></a>FLEEING_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759" name="a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759"></a>DISTRACT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c" name="a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c"></a>ASSISTANCE_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4" name="a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4"></a>ASSISTANCE_DISTRACT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc" name="a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc"></a>TIMED_FLEEING_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c" name="a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c"></a>FOLLOW_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f" name="a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f"></a>ROTATE_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac" name="a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac"></a>EFFECT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf" name="a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf"></a>ESCORT_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b" name="a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b"></a>NULL_MOTION_TYPE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a>      = 0,                              <span class="comment">// IdleMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2">RANDOM_MOTION_TYPE</a>    = 1,                              <span class="comment">// RandomMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>  = 2,                              <span class="comment">// WaypointMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b">MAX_DB_MOTION_TYPE</a>    = 3,                              <span class="comment">// *** this and below motion types can&#39;t be set in DB.</span></div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6">ANIMAL_RANDOM_MOTION_TYPE</a> = <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b">MAX_DB_MOTION_TYPE</a>,         <span class="comment">// AnimalRandomMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611">CONFUSED_MOTION_TYPE</a>  = 4,                              <span class="comment">// ConfusedMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a>     = 5,                              <span class="comment">// TargetedMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>      = 6,                              <span class="comment">// HomeMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4">FLIGHT_MOTION_TYPE</a>    = 7,                              <span class="comment">// WaypointMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a>     = 8,                              <span class="comment">// PointMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e">FLEEING_MOTION_TYPE</a>   = 9,                              <span class="comment">// FleeingMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759">DISTRACT_MOTION_TYPE</a>  = 10,                             <span class="comment">// IdleMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c">ASSISTANCE_MOTION_TYPE</a> = 11,                            <span class="comment">// PointMovementGenerator.h (first part of flee for assistance)</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4">ASSISTANCE_DISTRACT_MOTION_TYPE</a> = 12,                   <span class="comment">// IdleMovementGenerator.h (second part of flee for assistance)</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc">TIMED_FLEEING_MOTION_TYPE</a> = 13,                         <span class="comment">// FleeingMovementGenerator.h (alt.second part of flee for assistance)</span></div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c">FOLLOW_MOTION_TYPE</a>    = 14,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f">ROTATE_MOTION_TYPE</a>    = 15,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>    = 16,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf">ESCORT_MOTION_TYPE</a>    = 17,                             <span class="comment">// xinef: EscortMovementGenerator.h</span></div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b">NULL_MOTION_TYPE</a>      = 18</div>
-<div class="line"><span class="lineno">   59</span>};</div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc">TIMED_FLEEING_MOTION_TYPE</a></div><div class="ttdeci">@ TIMED_FLEEING_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:53</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b">MAX_DB_MOTION_TYPE</a></div><div class="ttdeci">@ MAX_DB_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:42</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c">ASSISTANCE_MOTION_TYPE</a></div><div class="ttdeci">@ ASSISTANCE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:51</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759">DISTRACT_MOTION_TYPE</a></div><div class="ttdeci">@ DISTRACT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:50</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a></div><div class="ttdeci">@ IDLE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:39</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a></div><div class="ttdeci">@ CHASE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:45</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f">ROTATE_MOTION_TYPE</a></div><div class="ttdeci">@ ROTATE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:55</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf">ESCORT_MOTION_TYPE</a></div><div class="ttdeci">@ ESCORT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:57</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a></div><div class="ttdeci">@ WAYPOINT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:41</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e">FLEEING_MOTION_TYPE</a></div><div class="ttdeci">@ FLEEING_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:49</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b">NULL_MOTION_TYPE</a></div><div class="ttdeci">@ NULL_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:58</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611">CONFUSED_MOTION_TYPE</a></div><div class="ttdeci">@ CONFUSED_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:44</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a></div><div class="ttdeci">@ HOME_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:46</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a></div><div class="ttdeci">@ POINT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:48</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4">FLIGHT_MOTION_TYPE</a></div><div class="ttdeci">@ FLIGHT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:47</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c">FOLLOW_MOTION_TYPE</a></div><div class="ttdeci">@ FOLLOW_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:54</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6">ANIMAL_RANDOM_MOTION_TYPE</a></div><div class="ttdeci">@ ANIMAL_RANDOM_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:43</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2">RANDOM_MOTION_TYPE</a></div><div class="ttdeci">@ RANDOM_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:40</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4">ASSISTANCE_DISTRACT_MOTION_TYPE</a></div><div class="ttdeci">@ ASSISTANCE_DISTRACT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:52</div></div>
-<div class="ttc" id="aa00464_html_a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac"><div class="ttname"><a href="../../d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a></div><div class="ttdeci">@ EFFECT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:56</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a42f80f4e5d95e3ba656adbee43cfc3f5" name="a42f80f4e5d95e3ba656adbee43cfc3f5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42f80f4e5d95e3ba656adbee43cfc3f5">&#9670;&#160;</a></span>MovementSlot</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5">MovementSlot</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7" name="a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7"></a>MOTION_SLOT_IDLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc" name="a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc"></a>MOTION_SLOT_ACTIVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e" name="a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e"></a>MOTION_SLOT_CONTROLLED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5" name="a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5"></a>MAX_MOTION_SLOT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7">MOTION_SLOT_IDLE</a>,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc">MOTION_SLOT_ACTIVE</a>,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e">MOTION_SLOT_CONTROLLED</a>,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5">MAX_MOTION_SLOT</a></div>
-<div class="line"><span class="lineno">   67</span>};</div>
-<div class="ttc" id="aa00464_html_a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e"><div class="ttname"><a href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e">MOTION_SLOT_CONTROLLED</a></div><div class="ttdeci">@ MOTION_SLOT_CONTROLLED</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:65</div></div>
-<div class="ttc" id="aa00464_html_a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc"><div class="ttname"><a href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc">MOTION_SLOT_ACTIVE</a></div><div class="ttdeci">@ MOTION_SLOT_ACTIVE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:64</div></div>
-<div class="ttc" id="aa00464_html_a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7"><div class="ttname"><a href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7">MOTION_SLOT_IDLE</a></div><div class="ttdeci">@ MOTION_SLOT_IDLE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:63</div></div>
-<div class="ttc" id="aa00464_html_a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5"><div class="ttname"><a href="../../d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5">MAX_MOTION_SLOT</a></div><div class="ttdeci">@ MAX_MOTION_SLOT</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:66</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7c48b62afc7f5aeede09278c110acbac" name="a7c48b62afc7f5aeede09278c110acbac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c48b62afc7f5aeede09278c110acbac">&#9670;&#160;</a></span>PathSource</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbac">PathSource</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7" name="a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7"></a>WAYPOINT_MGR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f" name="a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f"></a>SMART_WAYPOINT_MGR&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7">WAYPOINT_MGR</a>        = 0,</div>
-<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f">SMART_WAYPOINT_MGR</a>  = 1,</div>
-<div class="line"><span class="lineno">   96</span>};</div>
-<div class="ttc" id="aa00464_html_a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7"><div class="ttname"><a href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7">PathSource::WAYPOINT_MGR</a></div><div class="ttdeci">@ WAYPOINT_MGR</div></div>
-<div class="ttc" id="aa00464_html_a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f"><div class="ttname"><a href="../../d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f">PathSource::SMART_WAYPOINT_MGR</a></div><div class="ttdeci">@ SMART_WAYPOINT_MGR</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a1978c8aa3f81d04079c45fe56aa51233" name="a1978c8aa3f81d04079c45fe56aa51233"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1978c8aa3f81d04079c45fe56aa51233">&#9670;&#160;</a></span>RotateDirection</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233">RotateDirection</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a" name="a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a"></a>ROTATE_DIRECTION_LEFT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5" name="a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5"></a>ROTATE_DIRECTION_RIGHT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a">ROTATE_DIRECTION_LEFT</a>,</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5">ROTATE_DIRECTION_RIGHT</a></div>
-<div class="line"><span class="lineno">   81</span>};</div>
-<div class="ttc" id="aa00464_html_a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5"><div class="ttname"><a href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5">ROTATE_DIRECTION_RIGHT</a></div><div class="ttdeci">@ ROTATE_DIRECTION_RIGHT</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:80</div></div>
-<div class="ttc" id="aa00464_html_a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a"><div class="ttname"><a href="../../d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a">ROTATE_DIRECTION_LEFT</a></div><div class="ttdeci">@ ROTATE_DIRECTION_LEFT</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:79</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a> = 0,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a> = 1,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a> = 2,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a> = 3,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a> = 4,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a> = 5,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a> = 6,</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d">NUM_ENABLED_LOG_LEVELS</a> = <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a>, <span class="comment">// SKIP</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96">LOG_LEVEL_INVALID</a> = 0xFF <span class="comment">// SKIP</span></div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d">NUM_ENABLED_LOG_LEVELS</a></div><div class="ttdeci">@ NUM_ENABLED_LOG_LEVELS</div><div class="ttdef"><b>Definition:</b> LogCommon.h:34</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96">LOG_LEVEL_INVALID</a></div><div class="ttdeci">@ LOG_LEVEL_INVALID</div><div class="ttdef"><b>Definition:</b> LogCommon.h:35</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a></div><div class="ttdeci">@ LOG_LEVEL_DEBUG</div><div class="ttdef"><b>Definition:</b> LogCommon.h:31</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a></div><div class="ttdeci">@ LOG_LEVEL_ERROR</div><div class="ttdef"><b>Definition:</b> LogCommon.h:28</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a></div><div class="ttdeci">@ LOG_LEVEL_FATAL</div><div class="ttdef"><b>Definition:</b> LogCommon.h:27</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a></div><div class="ttdeci">@ LOG_LEVEL_TRACE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:32</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a></div><div class="ttdeci">@ LOG_LEVEL_WARN</div><div class="ttdef"><b>Definition:</b> LogCommon.h:29</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a></div><div class="ttdeci">@ LOG_LEVEL_DISABLED</div><div class="ttdef"><b>Definition:</b> LogCommon.h:26</div></div>
+<div class="ttc" id="aa00464_html_ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4"><div class="ttname"><a href="../../d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a></div><div class="ttdeci">@ LOG_LEVEL_INFO</div><div class="ttdef"><b>Definition:</b> LogCommon.h:30</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -550,8 +287,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../d2/d9d/a00464.html">MotionMaster.h</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:10:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_49d9b0eb8d4d4d09ace2afc83042ece5.html">Logging</a></li><li class="navelem"><a class="el" href="../../d2/d9d/a00464.html">LogCommon.h</a></li>
+    <li class="footer">Generated on Mon Feb 16 2026 21:00:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

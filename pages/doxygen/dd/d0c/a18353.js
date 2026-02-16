@@ -1,6 +1,6 @@
 var a18353 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d8/dde/a18357.html", "d8/dde/a18357" ],
-    [ "boss_valithria_dreamwalker", "dd/d0c/a18353.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "dd/d0c/a18353.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "LastPhaseIceTombTargetSelector", "dd/d0c/a18353.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
+    [ "operator()", "dd/d0c/a18353.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
+    [ "_source", "dd/d0c/a18353.html#ab10d10dd0de7717078d31ac026d4c933", null ]
 ];

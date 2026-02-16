@@ -1,4 +1,6 @@
 var a18477 =
 [
-    [ "operator()", "d9/d78/a18477.html#ac13ad1cce91fa28dc81250672c125490", null ]
+    [ "HandleScript", "d9/d78/a18477.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d9/d78/a18477.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d9/d78/a18477.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

@@ -1,9 +1,7 @@
 var a26577 =
 [
-    [ "CalculateAmount", "d4/db0/a26577.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "d4/db0/a26577.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "d4/db0/a26577.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "d4/db0/a26577.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "d4/db0/a26577.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "d4/db0/a26577.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "HandleProc", "d4/db0/a26577.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d4/db0/a26577.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d4/db0/a26577.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d4/db0/a26577.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

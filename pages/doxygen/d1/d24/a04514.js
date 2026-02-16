@@ -1,8 +1,5 @@
 var a04514 =
 [
-    [ "ModelIgnoreFlags", "d1/d24/a04514.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "d1/d24/a04514.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "d1/d24/a04514.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "d1/d24/a04514.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "HandleLearnSpellCommand", "d1/d24/a04514.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "d1/d24/a04514.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

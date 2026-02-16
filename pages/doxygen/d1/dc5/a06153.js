@@ -1,6 +1,9 @@
 var a06153 =
 [
-    [ "PermissibleOrderPred", "d1/dc5/a06153.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "d1/dc5/a06153.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "d1/dc5/a06153.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "AddonInfo", "d1/dc5/a06153.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d1/dc5/a06153.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d1/dc5/a06153.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d1/dc5/a06153.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d1/dc5/a06153.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d1/dc5/a06153.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

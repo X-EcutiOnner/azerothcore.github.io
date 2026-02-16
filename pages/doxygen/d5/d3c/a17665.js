@@ -1,12 +1,7 @@
 var a17665 =
 [
-    [ "npc_darnavanAI", "d5/d3c/a17665.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d5/d3c/a17665.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d5/d3c/a17665.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d5/d3c/a17665.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d5/d3c/a17665.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d5/d3c/a17665.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d5/d3c/a17665.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d5/d3c/a17665.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d5/d3c/a17665.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "HandleDummyTick", "d5/d3c/a17665.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d5/d3c/a17665.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d5/d3c/a17665.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d5/d3c/a17665.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

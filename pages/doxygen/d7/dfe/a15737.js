@@ -1,6 +1,6 @@
 var a15737 =
 [
-    [ "ModDestHeight", "d7/dfe/a15737.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d7/dfe/a15737.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d7/dfe/a15737.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "npc_rabid_thistle_bearAI", "df/d30/a15741.html", "df/d30/a15741" ],
+    [ "npc_rabid_thistle_bear", "d7/dfe/a15737.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "d7/dfe/a15737.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

@@ -1,8 +1,8 @@
 var a13377 =
 [
-    [ "npc_sunblade_arch_mage", "d3/d57/a13377.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d3/d57/a13377.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d3/d57/a13377.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d3/d57/a13377.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d3/d57/a13377.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "DelayedSummonEvent", "d3/d57/a13377.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "d3/d57/a13377.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "d3/d57/a13377.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "d3/d57/a13377.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "d3/d57/a13377.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a13949 =
 [
-    [ "boss_mandokirAI", "da/d4f/a13953.html", "da/d4f/a13953" ],
-    [ "boss_mandokir", "db/d85/a13949.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "db/d85/a13949.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "npc_rinjiAI", "da/d4f/a13953.html", "da/d4f/a13953" ],
+    [ "npc_rinji", "db/d85/a13949.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "db/d85/a13949.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

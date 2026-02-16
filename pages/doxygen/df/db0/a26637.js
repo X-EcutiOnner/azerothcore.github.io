@@ -1,7 +1,6 @@
 var a26637 =
 [
-    [ "HandleDummy", "df/db0/a26637.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "df/db0/a26637.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "df/db0/a26637.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "df/db0/a26637.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "HandleAuraApply", "df/db0/a26637.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "df/db0/a26637.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "df/db0/a26637.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

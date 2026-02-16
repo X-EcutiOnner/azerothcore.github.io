@@ -1,6 +1,6 @@
 var a15877 =
 [
-    [ "boss_sartharion_vesperonAI", "d2/dc0/a15881.html", "d2/dc0/a15881" ],
-    [ "boss_sartharion_vesperon", "d5/d6a/a15877.html#a53af67abd9f9bff7f72ee2441e885500", null ],
-    [ "GetAI", "d5/d6a/a15877.html#ad045054b44910461e704c412a524bdc4", null ]
+    [ "Creature", "d5/d6a/a15877.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d5/d6a/a15877.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d5/d6a/a15877.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

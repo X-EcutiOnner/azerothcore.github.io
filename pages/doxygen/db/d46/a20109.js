@@ -1,14 +1,8 @@
 var a20109 =
 [
-    [ "npc_ulduar_hodir_priestAI", "db/d46/a20109.html#aaa57c813d15ebf0c08a43e4530e5acdd", null ],
-    [ "AttackStart", "db/d46/a20109.html#a54058aacbf9e49f42f4f84779e0ec8ea", null ],
-    [ "CanAIAttack", "db/d46/a20109.html#a769a825c8e33bce3a130dbec53072aa4", null ],
-    [ "EnterEvadeMode", "db/d46/a20109.html#a2d92c0e03de238de439ccb3a10819cd1", null ],
-    [ "JustDied", "db/d46/a20109.html#a23a3783dc151bb7f1c5c4183b22578b0", null ],
-    [ "MoveInLineOfSight", "db/d46/a20109.html#aaa3764a042473d20526758553b968a39", null ],
-    [ "ScheduleAbilities", "db/d46/a20109.html#aab32336d42900a275613a227ccba18a7", null ],
-    [ "SpellHit", "db/d46/a20109.html#af6afbd5b0560fc4665ecb0d00010ecbc", null ],
-    [ "UpdateAI", "db/d46/a20109.html#af2b162485414ea0cdda3b19d15c2686f", null ],
-    [ "events", "db/d46/a20109.html#afdc842e08125223760d1eac105aef65b", null ],
-    [ "pInstance", "db/d46/a20109.html#a9630107a0a8f128c6b62493163a9e246", null ]
+    [ "OnApply", "db/d46/a20109.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "db/d46/a20109.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "db/d46/a20109.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "db/d46/a20109.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "db/d46/a20109.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

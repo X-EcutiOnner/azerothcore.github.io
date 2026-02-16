@@ -1,6 +1,8 @@
 var a21725 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d3/d67/a21729.html", "d3/d67/a21729" ],
-    [ "npc_q24545_wretched_ghoul", "dc/de3/a21725.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "dc/de3/a21725.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_ravenous_worgAI", "dc/de3/a21725.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "dc/de3/a21725.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "dc/de3/a21725.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "dc/de3/a21725.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "dc/de3/a21725.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

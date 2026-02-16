@@ -1,8 +1,8 @@
 var a25097 =
 [
-    [ "CheckCast", "d9/d37/a25097.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "d9/d37/a25097.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "d9/d37/a25097.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "d9/d37/a25097.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "d9/d37/a25097.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "HandleApply", "d9/d37/a25097.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d9/d37/a25097.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d9/d37/a25097.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d9/d37/a25097.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d9/d37/a25097.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

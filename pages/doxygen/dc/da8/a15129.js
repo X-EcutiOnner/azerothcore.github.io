@@ -1,6 +1,7 @@
 var a15129 =
 [
-    [ "OnPeriodic", "dc/da8/a15129.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "dc/da8/a15129.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "dc/da8/a15129.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "npc_cos_chromie_middle", "dc/da8/a15129.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "dc/da8/a15129.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "dc/da8/a15129.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "dc/da8/a15129.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

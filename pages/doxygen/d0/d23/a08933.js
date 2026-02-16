@@ -1,13 +1,7 @@
 var a08933 =
 [
-    [ "entry", "d0/d23/a08933.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "d0/d23/a08933.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "d0/d23/a08933.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "d0/d23/a08933.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "d0/d23/a08933.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "d0/d23/a08933.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "d0/d23/a08933.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "d0/d23/a08933.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "d0/d23/a08933.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "d0/d23/a08933.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "Done", "d0/d23/a08933.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d0/d23/a08933.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d0/d23/a08933.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d0/d23/a08933.html#ae1d182aef449388993e4965de447d971", null ]
 ];

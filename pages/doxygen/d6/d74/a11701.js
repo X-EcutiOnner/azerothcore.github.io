@@ -1,9 +1,12 @@
 var a11701 =
 [
-    [ "send_commandscript", "d6/d74/a11701.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d6/d74/a11701.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d6/d74/a11701.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d6/d74/a11701.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d6/d74/a11701.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d6/d74/a11701.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "BroadcastTextBuilder", "d6/d74/a11701.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "d6/d74/a11701.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "d6/d74/a11701.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "d6/d74/a11701.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "d6/d74/a11701.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "d6/d74/a11701.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "d6/d74/a11701.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "d6/d74/a11701.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "d6/d74/a11701.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

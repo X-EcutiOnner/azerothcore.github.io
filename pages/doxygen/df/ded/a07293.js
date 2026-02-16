@@ -1,12 +1,12 @@
 var a07293 =
 [
-    [ "BGQueueRemoveEvent", "df/ded/a07293.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "df/ded/a07293.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "df/ded/a07293.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "df/ded/a07293.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "df/ded/a07293.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "df/ded/a07293.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "df/ded/a07293.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "df/ded/a07293.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "df/ded/a07293.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "damageText", "df/ded/a07293.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "df/ded/a07293.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "df/ded/a07293.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "df/ded/a07293.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "df/ded/a07293.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "df/ded/a07293.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "df/ded/a07293.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "df/ded/a07293.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "df/ded/a07293.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

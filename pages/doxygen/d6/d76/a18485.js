@@ -1,6 +1,7 @@
 var a18485 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d9/d0d/a18489.html", "d9/d0d/a18489" ],
-    [ "npc_highlord_tirion_fordring_lh", "d6/d76/a18485.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d6/d76/a18485.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "HandleInfusion", "d6/d76/a18485.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d6/d76/a18485.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d6/d76/a18485.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d6/d76/a18485.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

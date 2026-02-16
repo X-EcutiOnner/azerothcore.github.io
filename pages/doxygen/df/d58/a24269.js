@@ -1,5 +1,6 @@
 var a24269 =
 [
-    [ "npc_pet_dk_ghoulAI", "df/d58/a24269.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
-    [ "JustDied", "df/d58/a24269.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
+    [ "HandleEffectRemove", "df/d58/a24269.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "df/d58/a24269.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "df/d58/a24269.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

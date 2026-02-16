@@ -1,7 +1,6 @@
 var a27509 =
 [
-    [ "npc_sayge", "d4/dbb/a27509.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d4/dbb/a27509.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d4/dbb/a27509.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d4/dbb/a27509.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_spring_rabbitAI", "da/d7e/a27513.html", "da/d7e/a27513" ],
+    [ "npc_spring_rabbit", "d4/dbb/a27509.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d4/dbb/a27509.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

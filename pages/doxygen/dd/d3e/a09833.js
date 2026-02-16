@@ -1,9 +1,6 @@
 var a09833 =
 [
-    [ "TransportAnimation", "dd/d3e/a09833.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "dd/d3e/a09833.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "dd/d3e/a09833.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "dd/d3e/a09833.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "dd/d3e/a09833.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "dd/d3e/a09833.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "LootValidatorRef", "dd/d3e/a09833.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "dd/d3e/a09833.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "dd/d3e/a09833.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

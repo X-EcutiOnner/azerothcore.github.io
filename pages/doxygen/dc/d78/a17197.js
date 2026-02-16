@@ -1,10 +1,12 @@
 var a17197 =
 [
-    [ "npc_dark_nucleusAI", "dc/d78/a17197.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "dc/d78/a17197.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "dc/d78/a17197.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "dc/d78/a17197.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "dc/d78/a17197.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "dc/d78/a17197.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "dc/d78/a17197.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "npc_phantom_mageAI", "dc/d78/a17197.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "dc/d78/a17197.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "dc/d78/a17197.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "dc/d78/a17197.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "dc/d78/a17197.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "dc/d78/a17197.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "dc/d78/a17197.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "dc/d78/a17197.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "dc/d78/a17197.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

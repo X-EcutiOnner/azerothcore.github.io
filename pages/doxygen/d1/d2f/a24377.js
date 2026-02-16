@@ -1,9 +1,7 @@
 var a24377 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d1/d2f/a24377.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d1/d2f/a24377.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d1/d2f/a24377.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d1/d2f/a24377.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d1/d2f/a24377.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d1/d2f/a24377.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "CheckClass", "d1/d2f/a24377.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "d1/d2f/a24377.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "d1/d2f/a24377.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "d1/d2f/a24377.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

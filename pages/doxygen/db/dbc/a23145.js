@@ -1,7 +1,9 @@
 var a23145 =
 [
-    [ "FilterTargets", "db/dbc/a23145.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "db/dbc/a23145.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "db/dbc/a23145.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "db/dbc/a23145.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "boss_mennu_the_betrayer", "db/dbc/a23145.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "db/dbc/a23145.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "db/dbc/a23145.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "db/dbc/a23145.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "db/dbc/a23145.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "db/dbc/a23145.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

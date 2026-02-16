@@ -1,14 +1,6 @@
 var a19993 =
 [
-    [ "boss_freya_summonsAI", "df/d15/a19993.html#acbba11d918cc6368612cbd3d95310fe2", null ],
-    [ "DoAction", "df/d15/a19993.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
-    [ "JustDied", "df/d15/a19993.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
-    [ "JustEngagedWith", "df/d15/a19993.html#a3163e12dd184dc5b8981c356e601a05a", null ],
-    [ "Reset", "df/d15/a19993.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
-    [ "UpdateAI", "df/d15/a19993.html#afdd17576728872509ec31188fa68505b", null ],
-    [ "_freyaGUID", "df/d15/a19993.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
-    [ "_hasDied", "df/d15/a19993.html#a86f421141d31ac70e58cf63fe707ba27", null ],
-    [ "_isTrio", "df/d15/a19993.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
-    [ "_stackCount", "df/d15/a19993.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
-    [ "events", "df/d15/a19993.html#a79403b4a24b92f89252db603d8ea2210", null ]
+    [ "CastRunesEvent", "df/d15/a19993.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "df/d15/a19993.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "df/d15/a19993.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

@@ -1,6 +1,8 @@
 var a20101 =
 [
-    [ "npc_ulduar_toasty_fireAI", "df/d89/a20101.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "df/d89/a20101.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "df/d89/a20101.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "npc_mechanolift", "df/d89/a20101.html#a49a58f64f5ea9da1959e3cda778abe79", null ],
+    [ "Reset", "df/d89/a20101.html#a1cc7147022120779b53a9d61e11703f5", null ],
+    [ "UpdateAI", "df/d89/a20101.html#adcddee44e440887f2261539e30f22a82", null ],
+    [ "_evadeTimer", "df/d89/a20101.html#aff669400962b113bf48cee147bc88ed8", null ],
+    [ "_startTimer", "df/d89/a20101.html#a3d0f747ce72f523ac11daaec89afa844", null ]
 ];

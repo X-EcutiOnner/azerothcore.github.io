@@ -1,5 +1,6 @@
 var a07677 =
 [
-    [ "IsColorValid", "d5/d65/a07677.html#a5b13574c40a78f28d15e6b11bc7bd5bc", null ],
-    [ "IsTextValid", "d5/d65/a07677.html#a1c9a027ff1f355b16fe629b7c4af7b98", null ]
+    [ "value_type", "d5/d65/a07677.html#aa9f15f4c6028776b59bf56cbd63587d9", null ],
+    [ "operator()", "d5/d65/a07677.html#a3042bf741c31893eb607817093239f1a", null ],
+    [ "operator()", "d5/d65/a07677.html#a83fddb5675f63d4535fac9e62cf9638d", null ]
 ];

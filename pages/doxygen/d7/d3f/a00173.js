@@ -1,5 +1,7 @@
 var a00173 =
 [
-    [ "achievIdByArenaSlot", "d7/d3f/a00173.html#a5264f22d916c9472e9a16ac52140f87c", null ],
-    [ "achievIdForDungeon", "d7/d3f/a00173.html#ac50d520adf892744d066d8c5187046b0", null ]
+    [ "VMAP::GroupLocationInfo", "dc/d88/a05085.html", "dc/d88/a05085" ],
+    [ "VMAP::LocationInfo", "de/d1a/a05089.html", "de/d1a/a05089" ],
+    [ "VMAP::StaticMapTree", "d3/df5/a05093.html", "d3/df5/a05093" ],
+    [ "VMAP::AreaInfo", "d4/d23/a05097.html", "d4/d23/a05097" ]
 ];

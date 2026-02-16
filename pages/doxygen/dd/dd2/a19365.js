@@ -1,6 +1,6 @@
 var a19365 =
 [
-    [ "HandlePeriodic", "dd/dd2/a19365.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "dd/dd2/a19365.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "dd/dd2/a19365.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "boss_grobbulus_poison_cloudAI", "da/da4/a19369.html", "da/da4/a19369" ],
+    [ "boss_grobbulus_poison_cloud", "dd/dd2/a19365.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "dd/dd2/a19365.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

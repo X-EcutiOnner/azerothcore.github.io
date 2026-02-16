@@ -1,6 +1,6 @@
 var a23157 =
 [
-    [ "HandleEffectRemove", "d7/df2/a23157.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "d7/df2/a23157.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "d7/df2/a23157.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "db/d85/a23161.html", "db/d85/a23161" ],
+    [ "instance_the_slave_pens", "d7/df2/a23157.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "d7/df2/a23157.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

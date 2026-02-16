@@ -1,6 +1,11 @@
 var a18369 =
 [
-    [ "npc_the_lich_king_controllerAI", "d2/d39/a18373.html", "d2/d39/a18373" ],
-    [ "npc_the_lich_king_controller", "d3/d92/a18369.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "d3/d92/a18369.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "npc_ice_tombAI", "d3/d92/a18369.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "d3/d92/a18369.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "d3/d92/a18369.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "d3/d92/a18369.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "d3/d92/a18369.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "d3/d92/a18369.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "d3/d92/a18369.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "d3/d92/a18369.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

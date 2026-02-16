@@ -1,7 +1,7 @@
 var a18505 =
 [
-    [ "npc_frost_freeze_trapAI", "d2/d5c/a18505.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d2/d5c/a18505.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d2/d5c/a18505.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d2/d5c/a18505.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "StartMovementEvent", "d2/d5c/a18505.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d2/d5c/a18505.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d2/d5c/a18505.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d2/d5c/a18505.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

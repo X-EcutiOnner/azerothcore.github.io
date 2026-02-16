@@ -1,6 +1,6 @@
 var a17929 =
 [
-    [ "boss_sindragosaAI", "d6/de3/a17933.html", "d6/de3/a17933" ],
-    [ "boss_sindragosa", "d0/d76/a17929.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d0/d76/a17929.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "npc_gunship_boarding_add_realAI", "d0/d76/a17929.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d0/d76/a17929.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d0/d76/a17929.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

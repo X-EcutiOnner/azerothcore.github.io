@@ -1,8 +1,6 @@
 var a16405 =
 [
-    [ "npc_toc_pet_hunterAI", "da/d27/a16405.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "da/d27/a16405.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "da/d27/a16405.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "da/d27/a16405.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "da/d27/a16405.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "boss_halionAI", "d4/d5a/a16409.html", "d4/d5a/a16409" ],
+    [ "boss_halion", "da/d27/a16405.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "da/d27/a16405.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

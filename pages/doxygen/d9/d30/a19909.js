@@ -1,9 +1,6 @@
 var a19909 =
 [
-    [ "Absorb", "d9/d30/a19909.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d9/d30/a19909.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d9/d30/a19909.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d9/d30/a19909.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d9/d30/a19909.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d9/d30/a19909.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d3/db7/a19913.html", "d3/db7/a19913" ],
+    [ "instance_halls_of_stone", "d9/d30/a19909.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d9/d30/a19909.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

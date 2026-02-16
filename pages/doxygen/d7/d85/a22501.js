@@ -1,12 +1,6 @@
 var a22501 =
 [
-    [ "boss_exarch_maladaar", "d7/d85/a22501.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d7/d85/a22501.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d7/d85/a22501.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d7/d85/a22501.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d7/d85/a22501.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d7/d85/a22501.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d7/d85/a22501.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d7/d85/a22501.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d7/d85/a22501.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "PrepareSpellScript", "d7/d85/a22501.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d7/d85/a22501.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d7/d85/a22501.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

@@ -1,4 +1,5 @@
 var a12533 =
 [
-    [ "PrepareAuraScript", "da/d08/a12533.html#aae5dc71af1a0fade2da9ee88875896a5", null ]
+    [ "at_scarshield_infiltrator", "da/d08/a12533.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "da/d08/a12533.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

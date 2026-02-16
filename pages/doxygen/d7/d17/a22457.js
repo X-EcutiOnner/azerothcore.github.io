@@ -1,5 +1,10 @@
 var a22457 =
 [
-    [ "OutdoorPvP_silithus", "d7/d17/a22457.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d7/d17/a22457.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "boss_talon_king_ikiss", "d7/d17/a22457.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d7/d17/a22457.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d7/d17/a22457.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d7/d17/a22457.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d7/d17/a22457.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d7/d17/a22457.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d7/d17/a22457.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

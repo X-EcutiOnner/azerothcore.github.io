@@ -1,6 +1,7 @@
 var a20905 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d6/dfe/a20905.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d6/dfe/a20905.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d6/dfe/a20905.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_frost_tomb", "d6/dfe/a20905.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d6/dfe/a20905.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d6/dfe/a20905.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d6/dfe/a20905.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

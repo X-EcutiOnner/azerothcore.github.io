@@ -1,7 +1,5 @@
 var a15913 =
 [
-    [ "DelayedTalk", "d4/d87/a15913.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d4/d87/a15913.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d4/d87/a15913.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d4/d87/a15913.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "go_crystalline_tear", "d4/d87/a15913.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "d4/d87/a15913.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

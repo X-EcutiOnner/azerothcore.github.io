@@ -1,5 +1,6 @@
 var a20425 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "d4/d47/a20425.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "d4/d47/a20425.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "HandleInstaKill", "d4/d47/a20425.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d4/d47/a20425.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d4/d47/a20425.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

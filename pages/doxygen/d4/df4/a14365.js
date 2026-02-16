@@ -1,6 +1,6 @@
 var a14365 =
 [
-    [ "OnApply", "d4/df4/a14365.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "d4/df4/a14365.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "d4/df4/a14365.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "FilterTargets", "d4/df4/a14365.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "d4/df4/a14365.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "d4/df4/a14365.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

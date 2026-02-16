@@ -1,6 +1,7 @@
 var a26533 =
 [
-    [ "HandleAfterCast", "d4/d30/a26533.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d4/d30/a26533.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d4/d30/a26533.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleDummy", "d4/d30/a26533.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "d4/d30/a26533.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "d4/d30/a26533.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "d4/d30/a26533.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

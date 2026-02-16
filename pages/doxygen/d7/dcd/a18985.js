@@ -1,6 +1,6 @@
 var a18985 =
 [
-    [ "boss_loathebAI", "db/dbf/a18989.html", "db/dbf/a18989" ],
-    [ "boss_loatheb", "d7/dcd/a18985.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d7/dcd/a18985.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "npc_captain_rupertAI", "d7/dcd/a18985.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d7/dcd/a18985.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d7/dcd/a18985.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

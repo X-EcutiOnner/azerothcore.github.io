@@ -1,6 +1,9 @@
 var a24381 =
 [
-    [ "FilterTargets", "d8/db3/a24381.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "d8/db3/a24381.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "d8/db3/a24381.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "CheckCast", "d8/db3/a24381.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d8/db3/a24381.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d8/db3/a24381.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d8/db3/a24381.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d8/db3/a24381.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d8/db3/a24381.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

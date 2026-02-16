@@ -1,6 +1,6 @@
 var a27529 =
 [
-    [ "npc_pet_trainerAI", "d0/ddf/a27533.html", "d0/ddf/a27533" ],
-    [ "npc_pet_trainer", "d1/dd4/a27529.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d1/dd4/a27529.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_venomhide_hatchlingAI", "d1/dd4/a27529.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d1/dd4/a27529.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d1/dd4/a27529.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

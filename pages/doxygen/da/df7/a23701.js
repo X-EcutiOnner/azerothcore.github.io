@@ -1,6 +1,7 @@
 var a23701 =
 [
-    [ "HandleCast", "da/df7/a23701.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "da/df7/a23701.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "da/df7/a23701.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "boss_gatewatcher_gyrokill", "da/df7/a23701.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "da/df7/a23701.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "da/df7/a23701.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "da/df7/a23701.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

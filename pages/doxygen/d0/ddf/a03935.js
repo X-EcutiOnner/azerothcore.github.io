@@ -1,21 +1,17 @@
 var a03935 =
 [
-    [ "AccountActionIpLogger", "da/d47/a27316.html", "da/d47/a27316" ],
-    [ "CharacterActionIpLogger", "de/d7f/a27320.html", "de/d7f/a27320" ],
-    [ "CharacterDeleteActionIpLogger", "d9/d36/a27324.html", "d9/d36/a27324" ],
-    [ "IPLoggingTypes", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
-      [ "ACCOUNT_LOGIN", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
-      [ "ACCOUNT_FAIL_LOGIN", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
-      [ "ACCOUNT_CHANGE_PW", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
-      [ "ACCOUNT_CHANGE_PW_FAIL", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
-      [ "ACCOUNT_CHANGE_EMAIL", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
-      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
-      [ "CHARACTER_CREATE", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
-      [ "CHARACTER_LOGIN", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
-      [ "CHARACTER_LOGOUT", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
-      [ "CHARACTER_DELETE", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
-      [ "CHARACTER_FAILED_DELETE", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
-      [ "UNKNOWN_ACTION", "d0/ddf/a03935.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    [ "npc_daphne_stilwell", "d3/d68/a14125.html", "d3/d68/a14125" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d5/df6/a14129.html", "d5/df6/a14129" ],
+    [ "DaphneStilwell", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d0/ddf/a03935.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "AddSC_action_ip_logger", "d0/ddf/a03935.html#a530be5efb251d5ca58e97804e48ad953", null ]
+    [ "AddSC_westfall", "d0/ddf/a03935.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

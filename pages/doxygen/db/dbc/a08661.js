@@ -1,11 +1,8 @@
 var a08661 =
 [
-    [ "AuraMunchingQueue", "db/dbc/a08661.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "db/dbc/a08661.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "db/dbc/a08661.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "db/dbc/a08661.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "db/dbc/a08661.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "db/dbc/a08661.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "db/dbc/a08661.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "db/dbc/a08661.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "PlayerCreateInfoAction", "db/dbc/a08661.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "db/dbc/a08661.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "db/dbc/a08661.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "db/dbc/a08661.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "db/dbc/a08661.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

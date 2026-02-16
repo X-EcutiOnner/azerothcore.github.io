@@ -1,6 +1,7 @@
 var a18777 =
 [
-    [ "icecrown_citadel_teleport", "d0/d99/a18777.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "d0/d99/a18777.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "d0/d99/a18777.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "ValithriaDespawner", "d0/d99/a18777.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d0/d99/a18777.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d0/d99/a18777.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d0/d99/a18777.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

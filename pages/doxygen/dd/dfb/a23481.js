@@ -1,6 +1,6 @@
 var a23481 =
 [
-    [ "CheckProc", "dd/dfb/a23481.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "dd/dfb/a23481.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "dd/dfb/a23481.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "de/d72/a23485.html", "de/d72/a23485" ],
+    [ "instance_shattered_halls", "dd/dfb/a23481.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "dd/dfb/a23481.html#a82388466811b022a725ba721845cadf3", null ]
 ];

@@ -1,10 +1,6 @@
 var a14017 =
 [
-    [ "npc_zealot_lorkhan", "d5/d1a/a14017.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d5/d1a/a14017.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d5/d1a/a14017.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d5/d1a/a14017.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d5/d1a/a14017.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d5/d1a/a14017.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d5/d1a/a14017.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "npc_marzon_silent_bladeAI", "d5/dd5/a14021.html", "d5/dd5/a14021" ],
+    [ "npc_marzon_silent_blade", "d5/d1a/a14017.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "d5/d1a/a14017.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

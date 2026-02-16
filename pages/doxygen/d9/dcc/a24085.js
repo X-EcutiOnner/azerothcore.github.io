@@ -1,6 +1,5 @@
 var a24085 =
 [
-    [ "npc_dragonmaw_peonAI", "dc/d7a/a24089.html", "dc/d7a/a24089" ],
-    [ "npc_dragonmaw_peon", "d9/dcc/a24085.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d9/dcc/a24085.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_shattrath_daily_quest", "d9/dcc/a24085.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d9/dcc/a24085.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

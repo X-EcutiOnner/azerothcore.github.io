@@ -1,6 +1,10 @@
 var a21373 =
 [
-    [ "npc_azure_sorcerorAI", "d7/db6/a21377.html", "d7/db6/a21377" ],
-    [ "npc_azure_sorceror", "d7/d81/a21373.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d7/d81/a21373.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "npc_jenny", "d7/d81/a21373.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d7/d81/a21373.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d7/d81/a21373.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d7/d81/a21373.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d7/d81/a21373.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d7/d81/a21373.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d7/d81/a21373.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

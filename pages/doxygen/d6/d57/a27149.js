@@ -1,7 +1,6 @@
 var a27149 =
 [
-    [ "go_bear_trapAI", "d6/d57/a27149.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d6/d57/a27149.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d6/d57/a27149.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d6/d57/a27149.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_gilded_brazierAI", "d5/d13/a27153.html", "d5/d13/a27153" ],
+    [ "go_gilded_brazier", "d6/d57/a27149.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d6/d57/a27149.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

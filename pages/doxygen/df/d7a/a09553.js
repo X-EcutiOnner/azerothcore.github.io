@@ -1,5 +1,6 @@
 var a09553 =
 [
-    [ "_Delay", "df/d7a/a09553.html#a8c4024f5818f327f29b44a26892b89a1", null ],
-    [ "_Emote", "df/d7a/a09553.html#a701c902af6f7f472511727bcc88ceeef", null ]
+    [ "AllFriendlyCreaturesInGrid", "df/d7a/a09553.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "df/d7a/a09553.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "df/d7a/a09553.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

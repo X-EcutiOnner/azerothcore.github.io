@@ -1,8 +1,22 @@
 var a19549 =
 [
-    [ "iron_golem_custodianAI", "d4/dc9/a19549.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d4/dc9/a19549.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d4/dc9/a19549.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d4/dc9/a19549.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d4/dc9/a19549.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_malygos", "d4/dc9/a19549.html#acd26b3f587a379b568c496ea1ec3194f", null ],
+    [ "AttackStart", "d4/dc9/a19549.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
+    [ "DamageTaken", "d4/dc9/a19549.html#a28a85c719c91835b5f6f52d267990c0c", null ],
+    [ "EnterEvadeMode", "d4/dc9/a19549.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
+    [ "HandleIntroSpeech", "d4/dc9/a19549.html#a648e2f73ffead8912659bc342ec70774", null ],
+    [ "InitializeAI", "d4/dc9/a19549.html#a549d5333ad95dfe7ef55a7bfbdc93899", null ],
+    [ "JustDied", "d4/dc9/a19549.html#a597f5291a656746becdb058c538cff89", null ],
+    [ "JustEngagedWith", "d4/dc9/a19549.html#a110748ba104014f161c8bb51bb6ba566", null ],
+    [ "JustSummoned", "d4/dc9/a19549.html#a743aba102bcad0f032113a32c34a131e", null ],
+    [ "KilledUnit", "d4/dc9/a19549.html#ad471155b4ff59d163218653cc3dfc104", null ],
+    [ "MoveInLineOfSight", "d4/dc9/a19549.html#a92ba2c3af50769e45327f4081b753d1d", null ],
+    [ "MovementInform", "d4/dc9/a19549.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
+    [ "Reset", "d4/dc9/a19549.html#a0b2603b3691b4961977acbc593202306", null ],
+    [ "SpellHit", "d4/dc9/a19549.html#ab520ae358e31225469e96d8628c6314c", null ],
+    [ "UpdateAI", "d4/dc9/a19549.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
+    [ "bLockHealthCheck", "d4/dc9/a19549.html#a8809894ee687da3133030b4d4f080b35", null ],
+    [ "IntroCounter", "d4/dc9/a19549.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
+    [ "timer1", "d4/dc9/a19549.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
+    [ "timer2", "d4/dc9/a19549.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
 ];

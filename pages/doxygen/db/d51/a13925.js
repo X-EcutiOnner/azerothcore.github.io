@@ -1,9 +1,10 @@
 var a13925 =
 [
-    [ "boss_jindo", "db/d51/a13925.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "db/d51/a13925.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "db/d51/a13925.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "db/d51/a13925.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "db/d51/a13925.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "db/d51/a13925.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "npc_partygoer_pather", "db/d51/a13925.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "db/d51/a13925.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "db/d51/a13925.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "db/d51/a13925.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "db/d51/a13925.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "db/d51/a13925.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "db/d51/a13925.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

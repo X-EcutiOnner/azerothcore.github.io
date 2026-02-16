@@ -1,7 +1,8 @@
 var a12401 =
 [
-    [ "HandlePeriodic", "d3/d59/a12401.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d3/d59/a12401.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d3/d59/a12401.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d3/d59/a12401.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_highlordomokkAI", "d3/d59/a12401.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d3/d59/a12401.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d3/d59/a12401.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d3/d59/a12401.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d3/d59/a12401.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

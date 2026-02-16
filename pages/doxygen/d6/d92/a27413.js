@@ -1,6 +1,10 @@
 var a27413 =
 [
-    [ "npc_taxi", "d6/d92/a27413.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d6/d92/a27413.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d6/d92/a27413.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_air_force_botsAI", "d6/d92/a27413.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d6/d92/a27413.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d6/d92/a27413.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d6/d92/a27413.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d6/d92/a27413.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d6/d92/a27413.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d6/d92/a27413.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

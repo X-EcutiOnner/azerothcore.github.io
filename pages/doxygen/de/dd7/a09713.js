@@ -1,14 +1,9 @@
 var a09713 =
 [
-    [ "ServerMailMgr", "de/dd7/a09713.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
-    [ "~ServerMailMgr", "de/dd7/a09713.html#adba54af38e90ecae21e79835910ba195", null ],
-    [ "ConditionTypeUsesConditionState", "de/dd7/a09713.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
-    [ "GetAllServerMailStore", "de/dd7/a09713.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
-    [ "GetServerMailConditionType", "de/dd7/a09713.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
-    [ "instance", "de/dd7/a09713.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
-    [ "LoadMailServerTemplates", "de/dd7/a09713.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
-    [ "LoadMailServerTemplatesConditions", "de/dd7/a09713.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
-    [ "LoadMailServerTemplatesItems", "de/dd7/a09713.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "de/dd7/a09713.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
-    [ "_serverMailStore", "de/dd7/a09713.html#a96ae3a78694ca97d112c5d92884f2415", null ]
+    [ "LoginQueryHolder", "de/dd7/a09713.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "de/dd7/a09713.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "de/dd7/a09713.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "de/dd7/a09713.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "de/dd7/a09713.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "de/dd7/a09713.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

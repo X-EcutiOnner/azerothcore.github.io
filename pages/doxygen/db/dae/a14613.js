@@ -1,13 +1,7 @@
 var a14613 =
 [
-    [ "boss_infinite_corruptorAI", "db/dae/a14613.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "db/dae/a14613.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "db/dae/a14613.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "db/dae/a14613.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "db/dae/a14613.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "db/dae/a14613.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "db/dae/a14613.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "db/dae/a14613.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "db/dae/a14613.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "db/dae/a14613.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "HandleScriptEffect", "db/dae/a14613.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "db/dae/a14613.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "db/dae/a14613.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "db/dae/a14613.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

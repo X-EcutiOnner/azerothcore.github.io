@@ -1,6 +1,8 @@
 var a25597 =
 [
-    [ "FilterTargets", "dd/d3d/a25597.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "dd/d3d/a25597.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "dd/d3d/a25597.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "CheckProc", "dd/d3d/a25597.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "dd/d3d/a25597.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "dd/d3d/a25597.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "dd/d3d/a25597.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "dd/d3d/a25597.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];
