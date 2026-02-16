@@ -15,10 +15,10 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Use Node.js 20.14.0
+      - name: Use Node.js 22.12
         uses: actions/setup-node@v1
         with:
-          node-version: "20.14.0"
+          node-version: "22.12"
 
       - name: Build 🔨
         run: |
